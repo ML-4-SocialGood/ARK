@@ -185,3 +185,52 @@ class DynamicReIDSampler:
         if not eligible_queries:
             print("No eligible query IDs remaining. Sampling complete.")
             return None
+
+        # 2. Select a Query ID
+        query_id = random.choice(eligible_queries)
+
+        # 3. Select Query and Positive Images
+        images = self.image_map[query_id]
+        if len(images) < 2:
+            return None  # Should not happen due to valid_query_ids filter
+
+        query_img, pos_img = random.sample(images, 2)
+
+        # 4. Select Negative IDs (Distractors)
+        num_negatives = self.gallery_size - 1
+        candidate_negatives = [mid for mid in self.all_ids if mid != query_id]
+
+        if len(candidate_negatives) < num_negatives:
+            print(
+                f"Not enough negative candidates for query ID {query_id}. Needed: {num_negatives}, Available: {len(candidate_negatives)}"
+            )
+            return None
+
+        # Attempt to find a set of negatives that satisfies Jaccard constraint
+        selected_negatives = None
+        max_retries = 20
+
+        for _ in range(max_retries):
+            current_negatives = set(random.sample(candidate_negatives, num_negatives))
+
+            # Check against history
+            validation = False
+            for prev_set in self.query_negative_history[query_id]:
+                sim = self._calculate_jaccard(current_negatives, prev_set)
+                if sim > self.max_jaccard_sim:
+                    validation = True
+                    break
+
+            if not validation:
+                selected_negatives = current_negatives
+                break
+
+        if selected_negatives is None:
+            return None  # Could not find a valid set of negatives after retries
+
+        # 5. Finalize Sample
+        self.query_usage_counts[query_id] += 1
+        self.query_negative_history[query_id].append(selected_negatives)
+        self.sample_counter += 1
+        
+        # Construct Gallery
