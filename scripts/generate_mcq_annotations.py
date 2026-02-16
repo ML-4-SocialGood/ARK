@@ -1,6 +1,8 @@
-import os
 import math
-from typing import Dict, List, Optional
+import os
+import random
+from collections import defaultdict
+from typing import Any, Dict, List, Optional, Set
 
 
 class DynamicReIDSampler:
@@ -24,6 +26,15 @@ class DynamicReIDSampler:
         self.gallery_size = gallery_size
         self.max_queries_per_id = max_queries_per_id
 
+        # State tracking for constraints
+        self.query_usage_counts: Dict[str, int] = defaultdict(
+            int
+        )  # Tracks how many times each ID has been used as a query
+        self.query_negative_history: Dict[str, List[Set[str]]] = defaultdict(
+            list
+        )  # Tracks which IDs have been used as negatives for each query ID
+        self.sample_counter = 0
+
         # Data structures to hold ID information
         self.image_map: Dict[str, List[str]] = {}  # Maps ID -> List of image paths
         self.valid_query_ids: List[str] = []  # IDs with >= 2 images
@@ -31,6 +42,9 @@ class DynamicReIDSampler:
 
         # Automatically scan the directory upon initialization
         self._scan_directory()
+
+        # Cache all IDs for sampling negatives
+        self.all_ids = self.valid_query_ids + self.distractor_only_ids
 
         # Strategy 2: Dynamic Adaptive Threshold based on Pool Size and N
         if max_jaccard_sim is not None:
@@ -128,3 +142,46 @@ class DynamicReIDSampler:
         print(f"  [Adaptive Jaccard] Threshold set to: {j_dynamic:.4f}")
 
         return j_dynamic
+
+    def _calculate_jaccard(self, set_a: Set[str], set_b: Set[str]) -> float:
+        """
+        Calculates the Jaccard similarity between two sets.
+
+        Jaccard(A, B) = |A ∩ B| / |A ∪ B|
+
+        Args:
+            set_a (Set[str]): First set of IDs.
+            set_b (Set[str]): Second set of IDs.
+        """
+        intersection = len(set_a.intersection(set_b))
+        union = len(set_a.union(set_b))
+        return intersection / union if union > 0 else 0.0
+
+    def generate_sample(self) -> Optional[Dict[str, Any]]:
+        """
+        Generates a single MCQ sample aligned with LMM benchmark standards.
+        Returns:
+            dict: {
+                'task_id': 'Beluga_MCQ_000001',
+                'query': {
+                    'image_path': '...',
+                    'ground_truth_id': '...'
+                },
+                'gallery': [
+                    {'option': 'A', 'image_path': '...', 'id': '...'},
+                    ...
+                ],
+                'answer': 'B'
+            }
+            or None if no more samples can be generated satisfying constraints.
+        """
+        # 1. Filter eligible query IDs (usage < max_queries_per_id)
+        eligible_queries = [
+            qid
+            for qid in self.valid_query_ids
+            if self.query_usage_counts[qid] < self.max_queries_per_id
+        ]
+
+        if not eligible_queries:
+            print("No eligible query IDs remaining. Sampling complete.")
+            return None

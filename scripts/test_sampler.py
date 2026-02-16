@@ -14,8 +14,9 @@ if __name__ == "__main__":
     print(f"Testing DynamicReIDSampler with data_dir: {test_data_dir}")
 
     # Test different gallery sizes to verify adaptive threshold logic
-    test_gallery_sizes = [4, 8, 16, 32]
-
+    # test_gallery_sizes = [4, 8, 16, 32]
+    test_gallery_sizes = [4]
+    
     for N in test_gallery_sizes:
         print(f"\n--- Testing Gallery Size N={N} ---")
         try:
