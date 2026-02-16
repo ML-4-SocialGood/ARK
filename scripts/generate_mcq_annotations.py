@@ -214,23 +214,58 @@ class DynamicReIDSampler:
             current_negatives = set(random.sample(candidate_negatives, num_negatives))
 
             # Check against history
-            validation = False
+            violation = False
             for prev_set in self.query_negative_history[query_id]:
                 sim = self._calculate_jaccard(current_negatives, prev_set)
                 if sim > self.max_jaccard_sim:
-                    validation = True
+                    violation = True
                     break
 
-            if not validation:
+            if not violation:
                 selected_negatives = current_negatives
                 break
 
         if selected_negatives is None:
-            return None  # Could not find a valid set of negatives after retries
+            print(f"Warning: Could not find valid negatives for query {query_id} after {max_retries} retries.")
+            return None
 
         # 5. Finalize Sample
         self.query_usage_counts[query_id] += 1
         self.query_negative_history[query_id].append(selected_negatives)
         self.sample_counter += 1
-        
+
         # Construct Gallery
+        gallery_items = [{"image_path": pos_img, "id": query_id, "is_correct": True}]
+        for neg_id in selected_negatives:
+            gallery_items.append(
+                {
+                    "image_path": random.choice(self.image_map[neg_id]),
+                    "id": neg_id,
+                    "is_correct": False,
+                }
+            )
+        random.shuffle(gallery_items)
+
+        # Assign Options (A, B, C...)
+        options = [chr(ord("A") + i) for i in range(len(gallery_items))]
+        formatted_gallery = []
+        answer = ""
+
+        for idx, item in enumerate(gallery_items):
+            option_label = options[idx]
+            formatted_gallery.append(
+                {
+                    "option": option_label,
+                    "image_path": item["image_path"],
+                    "id": item["id"],
+                }
+            )
+            if item["is_correct"]:
+                answer = option_label
+
+        return {
+            "task_id": f"Beluga_MCQ_{self.sample_counter:06d}",
+            "query": {"image_path": query_img, "ground_truth_id": query_id},
+            "gallery": formatted_gallery,
+            "answer": answer,
+        }
