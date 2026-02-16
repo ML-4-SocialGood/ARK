@@ -176,11 +176,13 @@ class DynamicReIDSampler:
             or None if no more samples can be generated satisfying constraints.
         """
         # 1. Filter eligible query IDs (usage < max_queries_per_id)
-        eligible_queries = [
-            qid
-            for qid in self.valid_query_ids
-            if self.query_usage_counts[qid] < self.max_queries_per_id
-        ]
+        eligible_queries = []
+        for qid in self.valid_query_ids:
+            # Dynamic cap: limit samples to the number of images available for that ID
+            # to prevent oversampling/repetition of the same query image.
+            limit = min(self.max_queries_per_id, len(self.image_map[qid]))
+            if self.query_usage_counts[qid] < limit:
+                eligible_queries.append(qid)
 
         if not eligible_queries:
             print("No eligible query IDs remaining. Sampling complete.")

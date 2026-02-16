@@ -1,5 +1,6 @@
 import sys
 import os
+import json
 
 # Ensure imports work when running from project root
 sys.path.append(os.getcwd())
@@ -26,5 +27,14 @@ if __name__ == "__main__":
                 max_queries_per_id=5,  # Arbitrary for testing
                 max_jaccard_sim=None,  # Enable adaptive threshold
             )
+
+            # Generate and print one sample to verify the structure
+            print("\n--- Generating a sample ---")
+            sample = sampler.generate_sample()
+            if sample:
+                print("Sample generated successfully:")
+                print(json.dumps(sample, indent=2))
+            else:
+                print("Failed to generate a sample. Constraints might be too tight or no eligible queries left.")
         except Exception as e:
             print(f"An error occurred: {e}")
