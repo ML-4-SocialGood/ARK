@@ -77,6 +77,7 @@ class DynamicReIDSampler:
                 for f in os.listdir(id_path)
                 if f.lower().endswith((".jpg", ".jpeg", ".png", ".bmp", ".tiff"))
             ]
+            images.sort()  # Ensure deterministic order of images
 
             if not images:
                 continue  # Skip IDs with no valid images
@@ -251,7 +252,7 @@ class DynamicReIDSampler:
 
         # Construct Gallery
         gallery_items = [{"image_path": pos_img, "id": query_id, "is_correct": True}]
-        for neg_id in selected_negatives:
+        for neg_id in sorted(selected_negatives):  # Sort set to ensure deterministic iteration order
             gallery_items.append(
                 {
                     "image_path": random.choice(self.image_map[neg_id]),
