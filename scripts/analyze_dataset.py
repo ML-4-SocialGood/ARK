@@ -50,7 +50,7 @@ def main():
     max_samples = max(counts)
     avg_samples = sum(counts) / len(counts)
 
-    print(f"\n--- Statistics ---")
+    print("\n--- Sample Distribution Statistics ---")
     print(f"Min samples per ID: {min_samples}")
     print(f"Max samples per ID: {max_samples}")
     print(f"Avg samples per ID: {avg_samples:.2f}")
