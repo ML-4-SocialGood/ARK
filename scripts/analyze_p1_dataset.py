@@ -17,7 +17,7 @@ def main():
     parser.add_argument(
         "--output_plot",
         type=str,
-        default="id_distribution.png",
+        default=None,
         help="Path to save the distribution plot",
     )
 
@@ -26,6 +26,11 @@ def main():
     if not os.path.exists(args.json_file):
         print(f"Error: File {args.json_file} not found.")
         return
+
+    if args.output_plot is None:
+        # Auto-generate output filename from input JSON filename
+        base_name = os.path.splitext(os.path.basename(args.json_file))[0]
+        args.output_plot = f"{base_name}_distribution.png"
 
     print(f"Loading dataset from {args.json_file}...")
     with open(args.json_file, "r") as f:
@@ -75,6 +80,12 @@ def main():
         
     plt.grid(axis="y", alpha=0.5, linestyle="--")
     plt.tight_layout()
+
+    # Ensure output directory exists
+    output_dir = os.path.dirname(args.output_plot)
+    if output_dir:
+        os.makedirs(output_dir, exist_ok=True)
+
     plt.savefig(args.output_plot)
     print(f"\nHistogram saved to {args.output_plot}")
 

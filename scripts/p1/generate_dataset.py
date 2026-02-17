@@ -7,12 +7,12 @@ import sys
 # Ensure imports work when running from project root
 sys.path.append(os.getcwd())
 
-from scripts.generate_mcq_annotations import DynamicReIDSampler
+from scripts.p1.sampler import DynamicReIDSampler
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate MCQ Dataset for Animal Re-ID"
+        description="Generate MCQ Dataset for Animal Re-ID (Protocol 1)"
     )
     parser.add_argument(
         "--dataset_name",
