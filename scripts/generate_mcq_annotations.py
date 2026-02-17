@@ -33,6 +33,9 @@ class DynamicReIDSampler:
         self.query_negative_history: Dict[str, List[Set[str]]] = defaultdict(
             list
         )  # Tracks which IDs have been used as negatives for each query ID
+        self.used_query_images: Dict[str, Set[str]] = defaultdict(
+            set
+        )  # Tracks which specific images have been used as a query for each ID
         self.sample_counter = 0
 
         # Data structures to hold ID information
@@ -196,7 +199,16 @@ class DynamicReIDSampler:
         if len(images) < 2:
             return None  # Should not happen due to valid_query_ids filter
 
-        query_img, pos_img = random.sample(images, 2)
+        # Strict Fairness: Select a query image that hasn't been used yet for this ID
+        available_queries = [img for img in images if img not in self.used_query_images[query_id]]
+        
+        if not available_queries:
+            # This theoretically shouldn't happen if eligible_queries logic is correct
+            return None
+
+        query_img = random.choice(available_queries)
+        # Positive image can be any OTHER image from the same ID
+        pos_img = random.choice([img for img in images if img != query_img])
 
         # 4. Select Negative IDs (Distractors)
         num_negatives = self.gallery_size - 1
@@ -234,6 +246,7 @@ class DynamicReIDSampler:
         # 5. Finalize Sample
         self.query_usage_counts[query_id] += 1
         self.query_negative_history[query_id].append(selected_negatives)
+        self.used_query_images[query_id].add(query_img)
         self.sample_counter += 1
 
         # Construct Gallery

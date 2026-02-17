@@ -1,6 +1,7 @@
 import argparse
 import json
 import os
+import random
 import sys
 
 # Ensure imports work when running from project root
@@ -10,7 +11,9 @@ from scripts.generate_mcq_annotations import DynamicReIDSampler
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate MCQ Dataset for Animal Re-ID")
+    parser = argparse.ArgumentParser(
+        description="Generate MCQ Dataset for Animal Re-ID"
+    )
     parser.add_argument(
         "--dataset_name",
         type=str,
@@ -44,12 +47,21 @@ def main():
         default=-1,
         help="Target number of samples to generate. -1 for maximum possible based on constraints.",
     )
+    parser.add_argument(
+        "--seed",
+        type=int,
+        default=42,
+        help="Random seed for reproducibility",
+    )
 
     args = parser.parse_args()
 
     if not os.path.exists(args.data_dir):
         print(f"Error: Data directory {args.data_dir} does not exist.")
         return
+
+    # Set random seed for reproducibility
+    random.seed(args.seed)
 
     print(f"Initializing Sampler for {args.dataset_name} with N={args.gallery_size}...")
     try:
@@ -68,24 +80,28 @@ def main():
         # Dynamic limit: min(max_queries, num_images)
         limit = min(args.max_queries_per_id, len(sampler.image_map[qid]))
         theoretical_max += limit
-    print(f"Theoretical maximum samples: {theoretical_max} (Calculated with dynamic per-ID caps)")
+    print(
+        f"Theoretical maximum samples: {theoretical_max} (Calculated with dynamic per-ID caps)"
+    )
 
     if args.target_samples == -1:
         target_count = theoretical_max
-        print(f"Target samples not specified. Attempting to generate maximum possible: {target_count}")
+        print(
+            f"Target samples not specified. Attempting to generate maximum possible: {target_count}"
+        )
     else:
         target_count = args.target_samples
 
     generated_samples = []
 
-    print(f"Starting generation...")
+    print("Starting generation...")
 
     for i in range(target_count):
         sample = sampler.generate_sample()
 
         if sample is None:
             print(
-                f"\nSampler returned None at iteration {i+1}. Stopping generation early."
+                f"\nSampler returned None at iteration {i + 1}. Stopping generation early."
             )
             print("Reason: Constraints met or data exhausted.")
             break
@@ -100,7 +116,7 @@ def main():
     # Construct output path: annotations/{dataset_name}/{dataset_name}_I2I_P1.json
     output_subdir = os.path.join(args.output_dir, args.dataset_name)
     os.makedirs(output_subdir, exist_ok=True)
-    
+
     output_filename = f"{args.dataset_name}_I2I_P1.json"
     output_path = os.path.join(output_subdir, output_filename)
 
