@@ -1,0 +1,1532 @@
+[
+  {
+    "task_id": "Beluga_MCQ_000001",
+    "query": {
+      "image_path": "data/SealID/IDs/34/34_-1_30_ffvdfy_ffvdfy.jpg",
+      "ground_truth_id": "34"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/SealID/IDs/38/38_-1_15_uqcjqr_uqcjqr.jpg",
+        "id": "38"
+      },
+      {
+        "option": "B",
+        "image_path": "data/SealID/IDs/34/34_-1_57_kvexwz_kvexwz.jpg",
+        "id": "34"
+      },
+      {
+        "option": "C",
+        "image_path": "data/SealID/IDs/104/104_-1_26_qtqbxn_qtqbxn.jpg",
+        "id": "104"
+      },
+      {
+        "option": "D",
+        "image_path": "data/SealID/IDs/81/81_-1_13_tlmctl_tlmctl.jpg",
+        "id": "81"
+      },
+      {
+        "option": "E",
+        "image_path": "data/SealID/IDs/26/26_-1_42_uvrdxv_uvrdxv.jpg",
+        "id": "26"
+      },
+      {
+        "option": "F",
+        "image_path": "data/SealID/IDs/100/100_-1_19_imbyww_imbyww.jpg",
+        "id": "100"
+      },
+      {
+        "option": "G",
+        "image_path": "data/SealID/IDs/188/188_-1_18_vagxlg_vagxlg.jpg",
+        "id": "188"
+      },
+      {
+        "option": "H",
+        "image_path": "data/SealID/IDs/151/151_-1_8_ibpgck_ibpgck.jpg",
+        "id": "151"
+      },
+      {
+        "option": "I",
+        "image_path": "data/SealID/IDs/45/45_-1_1_cklavc_cklavc.jpg",
+        "id": "45"
+      },
+      {
+        "option": "J",
+        "image_path": "data/SealID/IDs/174/174_-1_9_jauttf_jauttf.jpg",
+        "id": "174"
+      },
+      {
+        "option": "K",
+        "image_path": "data/SealID/IDs/149/149_-1_26_xypyoe_xypyoe.jpg",
+        "id": "149"
+      },
+      {
+        "option": "L",
+        "image_path": "data/SealID/IDs/91/91_-1_67_wanyqv_wanyqv.jpg",
+        "id": "91"
+      },
+      {
+        "option": "M",
+        "image_path": "data/SealID/IDs/187/187_-1_0_arxpno_arxpno.jpg",
+        "id": "187"
+      },
+      {
+        "option": "N",
+        "image_path": "data/SealID/IDs/109/109_-1_19_pugain_pugain.jpg",
+        "id": "109"
+      },
+      {
+        "option": "O",
+        "image_path": "data/SealID/IDs/176/176_-1_19_lqribu_lqribu.jpg",
+        "id": "176"
+      },
+      {
+        "option": "P",
+        "image_path": "data/SealID/IDs/10/10_-1_24_lmbefk_lmbefk.jpg",
+        "id": "10"
+      },
+      {
+        "option": "Q",
+        "image_path": "data/SealID/IDs/97/97_-1_11_ksvzdn_ksvzdn.jpg",
+        "id": "97"
+      },
+      {
+        "option": "R",
+        "image_path": "data/SealID/IDs/219/219_-1_5_hhnmjl_hhnmjl.jpg",
+        "id": "219"
+      },
+      {
+        "option": "S",
+        "image_path": "data/SealID/IDs/223/223_-1_1_babhqi_babhqi.jpg",
+        "id": "223"
+      },
+      {
+        "option": "T",
+        "image_path": "data/SealID/IDs/170/170_-1_5_hvkycz_hvkycz.jpg",
+        "id": "170"
+      },
+      {
+        "option": "U",
+        "image_path": "data/SealID/IDs/87/87_-1_16_qtdmaa_qtdmaa.jpg",
+        "id": "87"
+      },
+      {
+        "option": "V",
+        "image_path": "data/SealID/IDs/130/130_-1_62_qsmjuq_qsmjuq.jpg",
+        "id": "130"
+      },
+      {
+        "option": "W",
+        "image_path": "data/SealID/IDs/88/88_-1_13_ypowpu_ypowpu.jpg",
+        "id": "88"
+      },
+      {
+        "option": "X",
+        "image_path": "data/SealID/IDs/141/141_-1_2_ehanyy_ehanyy.jpg",
+        "id": "141"
+      },
+      {
+        "option": "Y",
+        "image_path": "data/SealID/IDs/1/1_-1_2_ggbxhv_ggbxhv.jpg",
+        "id": "1"
+      },
+      {
+        "option": "Z",
+        "image_path": "data/SealID/IDs/61/61_-1_9_ulocue_ulocue.jpg",
+        "id": "61"
+      },
+      {
+        "option": "[",
+        "image_path": "data/SealID/IDs/28/28_-1_16_nighhv_nighhv.jpg",
+        "id": "28"
+      },
+      {
+        "option": "\\",
+        "image_path": "data/SealID/IDs/14/14_-1_5_ihwolv_ihwolv.jpg",
+        "id": "14"
+      },
+      {
+        "option": "]",
+        "image_path": "data/SealID/IDs/23/23_-1_25_sbilub_sbilub.jpg",
+        "id": "23"
+      },
+      {
+        "option": "^",
+        "image_path": "data/SealID/IDs/115/115_-1_20_kpdtpu_kpdtpu.jpg",
+        "id": "115"
+      },
+      {
+        "option": "_",
+        "image_path": "data/SealID/IDs/80/80_-1_3_dlzbxu_dlzbxu.jpg",
+        "id": "80"
+      },
+      {
+        "option": "`",
+        "image_path": "data/SealID/IDs/137/137_-1_6_dzhflp_dzhflp.jpg",
+        "id": "137"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "task_id": "Beluga_MCQ_000002",
+    "query": {
+      "image_path": "data/SealID/IDs/44/44_-1_6_lpxjwu_lpxjwu.jpg",
+      "ground_truth_id": "44"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/SealID/IDs/23/23_-1_12_frddvc_frddvc.jpg",
+        "id": "23"
+      },
+      {
+        "option": "B",
+        "image_path": "data/SealID/IDs/149/149_-1_10_ncbsdz_ncbsdz.jpg",
+        "id": "149"
+      },
+      {
+        "option": "C",
+        "image_path": "data/SealID/IDs/80/80_-1_13_tdhqig_tdhqig.jpg",
+        "id": "80"
+      },
+      {
+        "option": "D",
+        "image_path": "data/SealID/IDs/82/82_-1_60_yaweeh_yaweeh.jpg",
+        "id": "82"
+      },
+      {
+        "option": "E",
+        "image_path": "data/SealID/IDs/88/88_-1_3_izvodb_izvodb.jpg",
+        "id": "88"
+      },
+      {
+        "option": "F",
+        "image_path": "data/SealID/IDs/116/116_-1_40_wrtvnp_wrtvnp.jpg",
+        "id": "116"
+      },
+      {
+        "option": "G",
+        "image_path": "data/SealID/IDs/174/174_-1_13_nearsr_nearsr.jpg",
+        "id": "174"
+      },
+      {
+        "option": "H",
+        "image_path": "data/SealID/IDs/21/21_-1_57_uwuzdg_uwuzdg.jpg",
+        "id": "21"
+      },
+      {
+        "option": "I",
+        "image_path": "data/SealID/IDs/76/76_-1_5_pjpayr_pjpayr.jpg",
+        "id": "76"
+      },
+      {
+        "option": "J",
+        "image_path": "data/SealID/IDs/97/97_-1_25_vdgdys_vdgdys.jpg",
+        "id": "97"
+      },
+      {
+        "option": "K",
+        "image_path": "data/SealID/IDs/161/161_-1_1_ayeplt_ayeplt.jpg",
+        "id": "161"
+      },
+      {
+        "option": "L",
+        "image_path": "data/SealID/IDs/14/14_-1_10_xncyph_xncyph.jpg",
+        "id": "14"
+      },
+      {
+        "option": "M",
+        "image_path": "data/SealID/IDs/147/147_-1_10_kvhqyy_kvhqyy.jpg",
+        "id": "147"
+      },
+      {
+        "option": "N",
+        "image_path": "data/SealID/IDs/96/96_-1_21_hzimpb_hzimpb.jpg",
+        "id": "96"
+      },
+      {
+        "option": "O",
+        "image_path": "data/SealID/IDs/22/22_-1_31_xkbjtm_xkbjtm.jpg",
+        "id": "22"
+      },
+      {
+        "option": "P",
+        "image_path": "data/SealID/IDs/26/26_-1_51_zaetni_zaetni.jpg",
+        "id": "26"
+      },
+      {
+        "option": "Q",
+        "image_path": "data/SealID/IDs/87/87_-1_15_pxensw_pxensw.jpg",
+        "id": "87"
+      },
+      {
+        "option": "R",
+        "image_path": "data/SealID/IDs/44/44_-1_13_vngaim_vngaim.jpg",
+        "id": "44"
+      },
+      {
+        "option": "S",
+        "image_path": "data/SealID/IDs/100/100_-1_35_qoeusb_qoeusb.jpg",
+        "id": "100"
+      },
+      {
+        "option": "T",
+        "image_path": "data/SealID/IDs/34/34_-1_111_vopvbe_vopvbe.jpg",
+        "id": "34"
+      },
+      {
+        "option": "U",
+        "image_path": "data/SealID/IDs/137/137_-1_16_oearjr_oearjr.jpg",
+        "id": "137"
+      },
+      {
+        "option": "V",
+        "image_path": "data/SealID/IDs/187/187_-1_6_gotbtw_gotbtw.jpg",
+        "id": "187"
+      },
+      {
+        "option": "W",
+        "image_path": "data/SealID/IDs/141/141_-1_7_lduhmc_lduhmc.jpg",
+        "id": "141"
+      },
+      {
+        "option": "X",
+        "image_path": "data/SealID/IDs/103/103_-1_28_ltakgp_ltakgp.jpg",
+        "id": "103"
+      },
+      {
+        "option": "Y",
+        "image_path": "data/SealID/IDs/127/127_-1_17_wkgpxz_wkgpxz.jpg",
+        "id": "127"
+      },
+      {
+        "option": "Z",
+        "image_path": "data/SealID/IDs/114/114_-1_18_ubyqkv_ubyqkv.jpg",
+        "id": "114"
+      },
+      {
+        "option": "[",
+        "image_path": "data/SealID/IDs/359/359_-1_11_xqdmlj_xqdmlj.jpg",
+        "id": "359"
+      },
+      {
+        "option": "\\",
+        "image_path": "data/SealID/IDs/101/101_-1_11_myqxnb_myqxnb.jpg",
+        "id": "101"
+      },
+      {
+        "option": "]",
+        "image_path": "data/SealID/IDs/213/213_-1_9_ltwrqr_ltwrqr.jpg",
+        "id": "213"
+      },
+      {
+        "option": "^",
+        "image_path": "data/SealID/IDs/115/115_-1_0_agffjc_agffjc.jpg",
+        "id": "115"
+      },
+      {
+        "option": "_",
+        "image_path": "data/SealID/IDs/230/230_-1_4_czfkbe_czfkbe.jpg",
+        "id": "230"
+      },
+      {
+        "option": "`",
+        "image_path": "data/SealID/IDs/223/223_-1_3_gbvhqd_gbvhqd.jpg",
+        "id": "223"
+      }
+    ],
+    "answer": "R"
+  },
+  {
+    "task_id": "Beluga_MCQ_000003",
+    "query": {
+      "image_path": "data/SealID/IDs/115/115_-1_11_faztym_faztym.jpg",
+      "ground_truth_id": "115"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/SealID/IDs/28/28_-1_23_urnfmw_urnfmw.jpg",
+        "id": "28"
+      },
+      {
+        "option": "B",
+        "image_path": "data/SealID/IDs/114/114_-1_20_vdchzy_vdchzy.jpg",
+        "id": "114"
+      },
+      {
+        "option": "C",
+        "image_path": "data/SealID/IDs/176/176_-1_36_wqehff_wqehff.jpg",
+        "id": "176"
+      },
+      {
+        "option": "D",
+        "image_path": "data/SealID/IDs/167/167_-1_13_erseqc_erseqc.jpg",
+        "id": "167"
+      },
+      {
+        "option": "E",
+        "image_path": "data/SealID/IDs/38/38_-1_7_meimzg_meimzg.jpg",
+        "id": "38"
+      },
+      {
+        "option": "F",
+        "image_path": "data/SealID/IDs/137/137_-1_7_gmimmc_gmimmc.jpg",
+        "id": "137"
+      },
+      {
+        "option": "G",
+        "image_path": "data/SealID/IDs/115/115_-1_3_aztvmh_aztvmh.jpg",
+        "id": "115"
+      },
+      {
+        "option": "H",
+        "image_path": "data/SealID/IDs/149/149_-1_16_puijrv_puijrv.jpg",
+        "id": "149"
+      },
+      {
+        "option": "I",
+        "image_path": "data/SealID/IDs/23/23_-1_17_jgmncg_jgmncg.jpg",
+        "id": "23"
+      },
+      {
+        "option": "J",
+        "image_path": "data/SealID/IDs/151/151_-1_0_blkkgv_blkkgv.jpg",
+        "id": "151"
+      },
+      {
+        "option": "K",
+        "image_path": "data/SealID/IDs/14/14_-1_0_ctsnxx_ctsnxx.jpg",
+        "id": "14"
+      },
+      {
+        "option": "L",
+        "image_path": "data/SealID/IDs/127/127_-1_7_klxjlj_klxjlj.jpg",
+        "id": "127"
+      },
+      {
+        "option": "M",
+        "image_path": "data/SealID/IDs/147/147_-1_11_kwkcyq_kwkcyq.jpg",
+        "id": "147"
+      },
+      {
+        "option": "N",
+        "image_path": "data/SealID/IDs/21/21_-1_9_enrtto_enrtto.jpg",
+        "id": "21"
+      },
+      {
+        "option": "O",
+        "image_path": "data/SealID/IDs/44/44_-1_10_pvxnge_pvxnge.jpg",
+        "id": "44"
+      },
+      {
+        "option": "P",
+        "image_path": "data/SealID/IDs/3/3_-1_17_mxkvpp_mxkvpp.jpg",
+        "id": "3"
+      },
+      {
+        "option": "Q",
+        "image_path": "data/SealID/IDs/141/141_-1_3_ekggvs_ekggvs.jpg",
+        "id": "141"
+      },
+      {
+        "option": "R",
+        "image_path": "data/SealID/IDs/213/213_-1_18_xtieok_xtieok.jpg",
+        "id": "213"
+      },
+      {
+        "option": "S",
+        "image_path": "data/SealID/IDs/26/26_-1_43_uxnfkv_uxnfkv.jpg",
+        "id": "26"
+      },
+      {
+        "option": "T",
+        "image_path": "data/SealID/IDs/1/1_-1_1_fxhdev_fxhdev.jpg",
+        "id": "1"
+      },
+      {
+        "option": "U",
+        "image_path": "data/SealID/IDs/223/223_-1_12_whgkct_whgkct.jpg",
+        "id": "223"
+      },
+      {
+        "option": "V",
+        "image_path": "data/SealID/IDs/10/10_-1_36_qbdcbj_qbdcbj.jpg",
+        "id": "10"
+      },
+      {
+        "option": "W",
+        "image_path": "data/SealID/IDs/188/188_-1_7_ickynm_ickynm.jpg",
+        "id": "188"
+      },
+      {
+        "option": "X",
+        "image_path": "data/SealID/IDs/93/93_-1_28_kylvvq_kylvvq.jpg",
+        "id": "93"
+      },
+      {
+        "option": "Y",
+        "image_path": "data/SealID/IDs/51/51_-1_8_labhvm_labhvm.jpg",
+        "id": "51"
+      },
+      {
+        "option": "Z",
+        "image_path": "data/SealID/IDs/170/170_-1_17_sthinq_sthinq.jpg",
+        "id": "170"
+      },
+      {
+        "option": "[",
+        "image_path": "data/SealID/IDs/160/160_-1_12_uhskmq_uhskmq.jpg",
+        "id": "160"
+      },
+      {
+        "option": "\\",
+        "image_path": "data/SealID/IDs/103/103_-1_55_zfnnyo_zfnnyo.jpg",
+        "id": "103"
+      },
+      {
+        "option": "]",
+        "image_path": "data/SealID/IDs/81/81_-1_5_jxdrec_jxdrec.jpg",
+        "id": "81"
+      },
+      {
+        "option": "^",
+        "image_path": "data/SealID/IDs/34/34_-1_81_orzavk_orzavk.jpg",
+        "id": "34"
+      },
+      {
+        "option": "_",
+        "image_path": "data/SealID/IDs/76/76_-1_7_symdtc_symdtc.jpg",
+        "id": "76"
+      },
+      {
+        "option": "`",
+        "image_path": "data/SealID/IDs/161/161_-1_23_ybljlk_ybljlk.jpg",
+        "id": "161"
+      }
+    ],
+    "answer": "G"
+  },
+  {
+    "task_id": "Beluga_MCQ_000004",
+    "query": {
+      "image_path": "data/SealID/IDs/125/125_-1_64_zzajic_zzajic.jpg",
+      "ground_truth_id": "125"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/SealID/IDs/174/174_-1_20_ypxceu_ypxceu.jpg",
+        "id": "174"
+      },
+      {
+        "option": "B",
+        "image_path": "data/SealID/IDs/1/1_-1_6_meoqtw_meoqtw.jpg",
+        "id": "1"
+      },
+      {
+        "option": "C",
+        "image_path": "data/SealID/IDs/22/22_-1_19_ogshkv_ogshkv.jpg",
+        "id": "22"
+      },
+      {
+        "option": "D",
+        "image_path": "data/SealID/IDs/51/51_-1_10_smihex_smihex.jpg",
+        "id": "51"
+      },
+      {
+        "option": "E",
+        "image_path": "data/SealID/IDs/160/160_-1_2_bansui_bansui.jpg",
+        "id": "160"
+      },
+      {
+        "option": "F",
+        "image_path": "data/SealID/IDs/104/104_-1_35_trcepb_trcepb.jpg",
+        "id": "104"
+      },
+      {
+        "option": "G",
+        "image_path": "data/SealID/IDs/45/45_-1_8_nrkvgz_nrkvgz.jpg",
+        "id": "45"
+      },
+      {
+        "option": "H",
+        "image_path": "data/SealID/IDs/213/213_-1_15_sqcquq_sqcquq.jpg",
+        "id": "213"
+      },
+      {
+        "option": "I",
+        "image_path": "data/SealID/IDs/125/125_-1_26_nhgysx_nhgysx.jpg",
+        "id": "125"
+      },
+      {
+        "option": "J",
+        "image_path": "data/SealID/IDs/21/21_-1_16_hurrrg_hurrrg.jpg",
+        "id": "21"
+      },
+      {
+        "option": "K",
+        "image_path": "data/SealID/IDs/101/101_-1_8_japvpf_japvpf.jpg",
+        "id": "101"
+      },
+      {
+        "option": "L",
+        "image_path": "data/SealID/IDs/14/14_-1_11_xnhhti_xnhhti.jpg",
+        "id": "14"
+      },
+      {
+        "option": "M",
+        "image_path": "data/SealID/IDs/147/147_-1_14_oxxqcs_oxxqcs.jpg",
+        "id": "147"
+      },
+      {
+        "option": "N",
+        "image_path": "data/SealID/IDs/188/188_-1_9_lyytbj_lyytbj.jpg",
+        "id": "188"
+      },
+      {
+        "option": "O",
+        "image_path": "data/SealID/IDs/87/87_-1_15_pxensw_pxensw.jpg",
+        "id": "87"
+      },
+      {
+        "option": "P",
+        "image_path": "data/SealID/IDs/116/116_-1_7_ggumbq_ggumbq.jpg",
+        "id": "116"
+      },
+      {
+        "option": "Q",
+        "image_path": "data/SealID/IDs/61/61_-1_8_sojgix_sojgix.jpg",
+        "id": "61"
+      },
+      {
+        "option": "R",
+        "image_path": "data/SealID/IDs/3/3_-1_3_dskadn_dskadn.jpg",
+        "id": "3"
+      },
+      {
+        "option": "S",
+        "image_path": "data/SealID/IDs/149/149_-1_5_gwyxzs_gwyxzs.jpg",
+        "id": "149"
+      },
+      {
+        "option": "T",
+        "image_path": "data/SealID/IDs/23/23_-1_0_achuge_achuge.jpg",
+        "id": "23"
+      },
+      {
+        "option": "U",
+        "image_path": "data/SealID/IDs/230/230_-1_10_iyxtxo_iyxtxo.jpg",
+        "id": "230"
+      },
+      {
+        "option": "V",
+        "image_path": "data/SealID/IDs/164/164_-1_27_pdwqya_pdwqya.jpg",
+        "id": "164"
+      },
+      {
+        "option": "W",
+        "image_path": "data/SealID/IDs/80/80_-1_1_byexzh_byexzh.jpg",
+        "id": "80"
+      },
+      {
+        "option": "X",
+        "image_path": "data/SealID/IDs/176/176_-1_24_okjjrz_okjjrz.jpg",
+        "id": "176"
+      },
+      {
+        "option": "Y",
+        "image_path": "data/SealID/IDs/26/26_-1_22_jxovcv_jxovcv.jpg",
+        "id": "26"
+      },
+      {
+        "option": "Z",
+        "image_path": "data/SealID/IDs/137/137_-1_13_lwmdqk_lwmdqk.jpg",
+        "id": "137"
+      },
+      {
+        "option": "[",
+        "image_path": "data/SealID/IDs/219/219_-1_7_lqontr_lqontr.jpg",
+        "id": "219"
+      },
+      {
+        "option": "\\",
+        "image_path": "data/SealID/IDs/44/44_-1_1_cyfzie_cyfzie.jpg",
+        "id": "44"
+      },
+      {
+        "option": "]",
+        "image_path": "data/SealID/IDs/96/96_-1_11_duwgdr_duwgdr.jpg",
+        "id": "96"
+      },
+      {
+        "option": "^",
+        "image_path": "data/SealID/IDs/127/127_-1_1_eybruq_eybruq.jpg",
+        "id": "127"
+      },
+      {
+        "option": "_",
+        "image_path": "data/SealID/IDs/91/91_-1_75_xnnkya_xnnkya.jpg",
+        "id": "91"
+      },
+      {
+        "option": "`",
+        "image_path": "data/SealID/IDs/211/211_-1_3_dumsmp_dumsmp.jpg",
+        "id": "211"
+      }
+    ],
+    "answer": "I"
+  },
+  {
+    "task_id": "Beluga_MCQ_000005",
+    "query": {
+      "image_path": "data/SealID/IDs/76/76_-1_1_clfkdp_clfkdp.jpg",
+      "ground_truth_id": "76"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/SealID/IDs/1/1_-1_0_ebwolt_ebwolt.jpg",
+        "id": "1"
+      },
+      {
+        "option": "B",
+        "image_path": "data/SealID/IDs/91/91_-1_33_jwcrxr_jwcrxr.jpg",
+        "id": "91"
+      },
+      {
+        "option": "C",
+        "image_path": "data/SealID/IDs/93/93_-1_65_zarcpo_zarcpo.jpg",
+        "id": "93"
+      },
+      {
+        "option": "D",
+        "image_path": "data/SealID/IDs/80/80_-1_0_avbhrd_avbhrd.jpg",
+        "id": "80"
+      },
+      {
+        "option": "E",
+        "image_path": "data/SealID/IDs/82/82_-1_31_mlohim_mlohim.jpg",
+        "id": "82"
+      },
+      {
+        "option": "F",
+        "image_path": "data/SealID/IDs/34/34_-1_121_xtislf_xtislf.jpg",
+        "id": "34"
+      },
+      {
+        "option": "G",
+        "image_path": "data/SealID/IDs/87/87_-1_5_dqplcp_dqplcp.jpg",
+        "id": "87"
+      },
+      {
+        "option": "H",
+        "image_path": "data/SealID/IDs/76/76_-1_3_fnjoax_fnjoax.jpg",
+        "id": "76"
+      },
+      {
+        "option": "I",
+        "image_path": "data/SealID/IDs/213/213_-1_18_xtieok_xtieok.jpg",
+        "id": "213"
+      },
+      {
+        "option": "J",
+        "image_path": "data/SealID/IDs/97/97_-1_29_xcnpex_xcnpex.jpg",
+        "id": "97"
+      },
+      {
+        "option": "K",
+        "image_path": "data/SealID/IDs/137/137_-1_7_gmimmc_gmimmc.jpg",
+        "id": "137"
+      },
+      {
+        "option": "L",
+        "image_path": "data/SealID/IDs/115/115_-1_13_ggiiwj_ggiiwj.jpg",
+        "id": "115"
+      },
+      {
+        "option": "M",
+        "image_path": "data/SealID/IDs/219/219_-1_0_ajkgrp_ajkgrp.jpg",
+        "id": "219"
+      },
+      {
+        "option": "N",
+        "image_path": "data/SealID/IDs/101/101_-1_10_ltgddo_ltgddo.jpg",
+        "id": "101"
+      },
+      {
+        "option": "O",
+        "image_path": "data/SealID/IDs/51/51_-1_9_lfzbxp_lfzbxp.jpg",
+        "id": "51"
+      },
+      {
+        "option": "P",
+        "image_path": "data/SealID/IDs/151/151_-1_11_qvrhfx_qvrhfx.jpg",
+        "id": "151"
+      },
+      {
+        "option": "Q",
+        "image_path": "data/SealID/IDs/167/167_-1_13_erseqc_erseqc.jpg",
+        "id": "167"
+      },
+      {
+        "option": "R",
+        "image_path": "data/SealID/IDs/147/147_-1_23_ylayjc_ylayjc.jpg",
+        "id": "147"
+      },
+      {
+        "option": "S",
+        "image_path": "data/SealID/IDs/38/38_-1_12_rbfjur_rbfjur.jpg",
+        "id": "38"
+      },
+      {
+        "option": "T",
+        "image_path": "data/SealID/IDs/61/61_-1_11_wtdlxu_wtdlxu.jpg",
+        "id": "61"
+      },
+      {
+        "option": "U",
+        "image_path": "data/SealID/IDs/211/211_-1_14_tupufr_tupufr.jpg",
+        "id": "211"
+      },
+      {
+        "option": "V",
+        "image_path": "data/SealID/IDs/164/164_-1_8_dfultf_dfultf.jpg",
+        "id": "164"
+      },
+      {
+        "option": "W",
+        "image_path": "data/SealID/IDs/104/104_-1_5_dhmqsu_dhmqsu.jpg",
+        "id": "104"
+      },
+      {
+        "option": "X",
+        "image_path": "data/SealID/IDs/81/81_-1_6_kypoez_kypoez.jpg",
+        "id": "81"
+      },
+      {
+        "option": "Y",
+        "image_path": "data/SealID/IDs/149/149_-1_16_puijrv_puijrv.jpg",
+        "id": "149"
+      },
+      {
+        "option": "Z",
+        "image_path": "data/SealID/IDs/230/230_-1_6_eckpuq_eckpuq.jpg",
+        "id": "230"
+      },
+      {
+        "option": "[",
+        "image_path": "data/SealID/IDs/187/187_-1_30_yefihg_yefihg.jpg",
+        "id": "187"
+      },
+      {
+        "option": "\\",
+        "image_path": "data/SealID/IDs/100/100_-1_19_imbyww_imbyww.jpg",
+        "id": "100"
+      },
+      {
+        "option": "]",
+        "image_path": "data/SealID/IDs/125/125_-1_27_njvhul_njvhul.jpg",
+        "id": "125"
+      },
+      {
+        "option": "^",
+        "image_path": "data/SealID/IDs/188/188_-1_6_hslwwr_hslwwr.jpg",
+        "id": "188"
+      },
+      {
+        "option": "_",
+        "image_path": "data/SealID/IDs/28/28_-1_10_jeiqgf_jeiqgf.jpg",
+        "id": "28"
+      },
+      {
+        "option": "`",
+        "image_path": "data/SealID/IDs/44/44_-1_1_cyfzie_cyfzie.jpg",
+        "id": "44"
+      }
+    ],
+    "answer": "H"
+  },
+  {
+    "task_id": "Beluga_MCQ_000006",
+    "query": {
+      "image_path": "data/SealID/IDs/81/81_-1_7_nlbpjn_nlbpjn.jpg",
+      "ground_truth_id": "81"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/SealID/IDs/80/80_-1_2_ctfflt_ctfflt.jpg",
+        "id": "80"
+      },
+      {
+        "option": "B",
+        "image_path": "data/SealID/IDs/3/3_-1_14_lqania_lqania.jpg",
+        "id": "3"
+      },
+      {
+        "option": "C",
+        "image_path": "data/SealID/IDs/109/109_-1_4_dulahr_dulahr.jpg",
+        "id": "109"
+      },
+      {
+        "option": "D",
+        "image_path": "data/SealID/IDs/170/170_-1_14_qakdvr_qakdvr.jpg",
+        "id": "170"
+      },
+      {
+        "option": "E",
+        "image_path": "data/SealID/IDs/96/96_-1_44_mgxdnv_mgxdnv.jpg",
+        "id": "96"
+      },
+      {
+        "option": "F",
+        "image_path": "data/SealID/IDs/10/10_-1_28_maivpj_maivpj.jpg",
+        "id": "10"
+      },
+      {
+        "option": "G",
+        "image_path": "data/SealID/IDs/230/230_-1_32_zusmsu_zusmsu.jpg",
+        "id": "230"
+      },
+      {
+        "option": "H",
+        "image_path": "data/SealID/IDs/1/1_-1_10_tvzubb_tvzubb.jpg",
+        "id": "1"
+      },
+      {
+        "option": "I",
+        "image_path": "data/SealID/IDs/219/219_-1_9_pszuhi_pszuhi.jpg",
+        "id": "219"
+      },
+      {
+        "option": "J",
+        "image_path": "data/SealID/IDs/359/359_-1_3_iacvwr_iacvwr.jpg",
+        "id": "359"
+      },
+      {
+        "option": "K",
+        "image_path": "data/SealID/IDs/45/45_-1_3_dvlrmd_dvlrmd.jpg",
+        "id": "45"
+      },
+      {
+        "option": "L",
+        "image_path": "data/SealID/IDs/130/130_-1_63_qxzsjt_qxzsjt.jpg",
+        "id": "130"
+      },
+      {
+        "option": "M",
+        "image_path": "data/SealID/IDs/161/161_-1_4_dttdck_dttdck.jpg",
+        "id": "161"
+      },
+      {
+        "option": "N",
+        "image_path": "data/SealID/IDs/44/44_-1_2_fqdpxw_fqdpxw.jpg",
+        "id": "44"
+      },
+      {
+        "option": "O",
+        "image_path": "data/SealID/IDs/91/91_-1_42_obqthe_obqthe.jpg",
+        "id": "91"
+      },
+      {
+        "option": "P",
+        "image_path": "data/SealID/IDs/137/137_-1_10_khwqtu_khwqtu.jpg",
+        "id": "137"
+      },
+      {
+        "option": "Q",
+        "image_path": "data/SealID/IDs/26/26_-1_24_moeyqg_moeyqg.jpg",
+        "id": "26"
+      },
+      {
+        "option": "R",
+        "image_path": "data/SealID/IDs/114/114_-1_9_lvkwrg_lvkwrg.jpg",
+        "id": "114"
+      },
+      {
+        "option": "S",
+        "image_path": "data/SealID/IDs/174/174_-1_15_qakira_qakira.jpg",
+        "id": "174"
+      },
+      {
+        "option": "T",
+        "image_path": "data/SealID/IDs/149/149_-1_29_zjpnvl_zjpnvl.jpg",
+        "id": "149"
+      },
+      {
+        "option": "U",
+        "image_path": "data/SealID/IDs/127/127_-1_6_ihddee_ihddee.jpg",
+        "id": "127"
+      },
+      {
+        "option": "V",
+        "image_path": "data/SealID/IDs/187/187_-1_30_yefihg_yefihg.jpg",
+        "id": "187"
+      },
+      {
+        "option": "W",
+        "image_path": "data/SealID/IDs/93/93_-1_31_mdhgjb_mdhgjb.jpg",
+        "id": "93"
+      },
+      {
+        "option": "X",
+        "image_path": "data/SealID/IDs/76/76_-1_1_clfkdp_clfkdp.jpg",
+        "id": "76"
+      },
+      {
+        "option": "Y",
+        "image_path": "data/SealID/IDs/34/34_-1_132_zxtkxu_zxtkxu.jpg",
+        "id": "34"
+      },
+      {
+        "option": "Z",
+        "image_path": "data/SealID/IDs/167/167_-1_22_jkwzxz_jkwzxz.jpg",
+        "id": "167"
+      },
+      {
+        "option": "[",
+        "image_path": "data/SealID/IDs/100/100_-1_41_rwqjwy_rwqjwy.jpg",
+        "id": "100"
+      },
+      {
+        "option": "\\",
+        "image_path": "data/SealID/IDs/164/164_-1_31_qpouqh_qpouqh.jpg",
+        "id": "164"
+      },
+      {
+        "option": "]",
+        "image_path": "data/SealID/IDs/223/223_-1_12_whgkct_whgkct.jpg",
+        "id": "223"
+      },
+      {
+        "option": "^",
+        "image_path": "data/SealID/IDs/147/147_-1_18_sufavp_sufavp.jpg",
+        "id": "147"
+      },
+      {
+        "option": "_",
+        "image_path": "data/SealID/IDs/28/28_-1_26_xgatpm_xgatpm.jpg",
+        "id": "28"
+      },
+      {
+        "option": "`",
+        "image_path": "data/SealID/IDs/81/81_-1_10_qmgugl_qmgugl.jpg",
+        "id": "81"
+      }
+    ],
+    "answer": "`"
+  },
+  {
+    "task_id": "Beluga_MCQ_000007",
+    "query": {
+      "image_path": "data/SealID/IDs/10/10_-1_30_mjjnon_mjjnon.jpg",
+      "ground_truth_id": "10"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/SealID/IDs/223/223_-1_12_whgkct_whgkct.jpg",
+        "id": "223"
+      },
+      {
+        "option": "B",
+        "image_path": "data/SealID/IDs/22/22_-1_23_qtcxts_qtcxts.jpg",
+        "id": "22"
+      },
+      {
+        "option": "C",
+        "image_path": "data/SealID/IDs/44/44_-1_13_vngaim_vngaim.jpg",
+        "id": "44"
+      },
+      {
+        "option": "D",
+        "image_path": "data/SealID/IDs/103/103_-1_19_ipijmb_ipijmb.jpg",
+        "id": "103"
+      },
+      {
+        "option": "E",
+        "image_path": "data/SealID/IDs/34/34_-1_4_bguubs_bguubs.jpg",
+        "id": "34"
+      },
+      {
+        "option": "F",
+        "image_path": "data/SealID/IDs/28/28_-1_10_jeiqgf_jeiqgf.jpg",
+        "id": "28"
+      },
+      {
+        "option": "G",
+        "image_path": "data/SealID/IDs/188/188_-1_18_vagxlg_vagxlg.jpg",
+        "id": "188"
+      },
+      {
+        "option": "H",
+        "image_path": "data/SealID/IDs/26/26_-1_27_onuzqv_onuzqv.jpg",
+        "id": "26"
+      },
+      {
+        "option": "I",
+        "image_path": "data/SealID/IDs/359/359_-1_3_iacvwr_iacvwr.jpg",
+        "id": "359"
+      },
+      {
+        "option": "J",
+        "image_path": "data/SealID/IDs/176/176_-1_34_vygkyo_vygkyo.jpg",
+        "id": "176"
+      },
+      {
+        "option": "K",
+        "image_path": "data/SealID/IDs/104/104_-1_45_yflarp_yflarp.jpg",
+        "id": "104"
+      },
+      {
+        "option": "L",
+        "image_path": "data/SealID/IDs/187/187_-1_2_cwdhcs_cwdhcs.jpg",
+        "id": "187"
+      },
+      {
+        "option": "M",
+        "image_path": "data/SealID/IDs/141/141_-1_12_vptlyc_vptlyc.jpg",
+        "id": "141"
+      },
+      {
+        "option": "N",
+        "image_path": "data/SealID/IDs/10/10_-1_63_xkgpfr_xkgpfr.jpg",
+        "id": "10"
+      },
+      {
+        "option": "O",
+        "image_path": "data/SealID/IDs/51/51_-1_0_aemyls_aemyls.jpg",
+        "id": "51"
+      },
+      {
+        "option": "P",
+        "image_path": "data/SealID/IDs/38/38_-1_13_rlcpuw_rlcpuw.jpg",
+        "id": "38"
+      },
+      {
+        "option": "Q",
+        "image_path": "data/SealID/IDs/147/147_-1_6_gsynqm_gsynqm.jpg",
+        "id": "147"
+      },
+      {
+        "option": "R",
+        "image_path": "data/SealID/IDs/219/219_-1_11_tyxliz_tyxliz.jpg",
+        "id": "219"
+      },
+      {
+        "option": "S",
+        "image_path": "data/SealID/IDs/125/125_-1_33_qlbiuw_qlbiuw.jpg",
+        "id": "125"
+      },
+      {
+        "option": "T",
+        "image_path": "data/SealID/IDs/211/211_-1_10_qvlthu_qvlthu.jpg",
+        "id": "211"
+      },
+      {
+        "option": "U",
+        "image_path": "data/SealID/IDs/23/23_-1_3_anxvbw_anxvbw.jpg",
+        "id": "23"
+      },
+      {
+        "option": "V",
+        "image_path": "data/SealID/IDs/1/1_-1_8_nmjxdr_nmjxdr.jpg",
+        "id": "1"
+      },
+      {
+        "option": "W",
+        "image_path": "data/SealID/IDs/82/82_-1_29_meuqxp_meuqxp.jpg",
+        "id": "82"
+      },
+      {
+        "option": "X",
+        "image_path": "data/SealID/IDs/213/213_-1_11_mjcdcf_mjcdcf.jpg",
+        "id": "213"
+      },
+      {
+        "option": "Y",
+        "image_path": "data/SealID/IDs/130/130_-1_75_webpjg_webpjg.jpg",
+        "id": "130"
+      },
+      {
+        "option": "Z",
+        "image_path": "data/SealID/IDs/81/81_-1_8_phmxrp_phmxrp.jpg",
+        "id": "81"
+      },
+      {
+        "option": "[",
+        "image_path": "data/SealID/IDs/137/137_-1_11_korhdh_korhdh.jpg",
+        "id": "137"
+      },
+      {
+        "option": "\\",
+        "image_path": "data/SealID/IDs/61/61_-1_3_gwoubi_gwoubi.jpg",
+        "id": "61"
+      },
+      {
+        "option": "]",
+        "image_path": "data/SealID/IDs/114/114_-1_19_ufrppa_ufrppa.jpg",
+        "id": "114"
+      },
+      {
+        "option": "^",
+        "image_path": "data/SealID/IDs/174/174_-1_19_ycrksm_ycrksm.jpg",
+        "id": "174"
+      },
+      {
+        "option": "_",
+        "image_path": "data/SealID/IDs/88/88_-1_8_tosfkj_tosfkj.jpg",
+        "id": "88"
+      },
+      {
+        "option": "`",
+        "image_path": "data/SealID/IDs/91/91_-1_72_wxmupx_wxmupx.jpg",
+        "id": "91"
+      }
+    ],
+    "answer": "N"
+  },
+  {
+    "task_id": "Beluga_MCQ_000008",
+    "query": {
+      "image_path": "data/SealID/IDs/223/223_-1_14_xfhzon_xfhzon.jpg",
+      "ground_truth_id": "223"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/SealID/IDs/93/93_-1_22_ilhfzi_ilhfzi.jpg",
+        "id": "93"
+      },
+      {
+        "option": "B",
+        "image_path": "data/SealID/IDs/213/213_-1_1_awjnsk_awjnsk.jpg",
+        "id": "213"
+      },
+      {
+        "option": "C",
+        "image_path": "data/SealID/IDs/80/80_-1_5_jefrco_jefrco.jpg",
+        "id": "80"
+      },
+      {
+        "option": "D",
+        "image_path": "data/SealID/IDs/14/14_-1_7_phdwoo_phdwoo.jpg",
+        "id": "14"
+      },
+      {
+        "option": "E",
+        "image_path": "data/SealID/IDs/28/28_-1_2_efojec_efojec.jpg",
+        "id": "28"
+      },
+      {
+        "option": "F",
+        "image_path": "data/SealID/IDs/359/359_-1_8_uuvbjq_uuvbjq.jpg",
+        "id": "359"
+      },
+      {
+        "option": "G",
+        "image_path": "data/SealID/IDs/130/130_-1_0_brtrdt_brtrdt.jpg",
+        "id": "130"
+      },
+      {
+        "option": "H",
+        "image_path": "data/SealID/IDs/10/10_-1_26_luomap_luomap.jpg",
+        "id": "10"
+      },
+      {
+        "option": "I",
+        "image_path": "data/SealID/IDs/125/125_-1_50_weqohm_weqohm.jpg",
+        "id": "125"
+      },
+      {
+        "option": "J",
+        "image_path": "data/SealID/IDs/164/164_-1_1_aznoed_aznoed.jpg",
+        "id": "164"
+      },
+      {
+        "option": "K",
+        "image_path": "data/SealID/IDs/88/88_-1_1_etlgoc_etlgoc.jpg",
+        "id": "88"
+      },
+      {
+        "option": "L",
+        "image_path": "data/SealID/IDs/21/21_-1_70_xqygmh_xqygmh.jpg",
+        "id": "21"
+      },
+      {
+        "option": "M",
+        "image_path": "data/SealID/IDs/44/44_-1_6_lpxjwu_lpxjwu.jpg",
+        "id": "44"
+      },
+      {
+        "option": "N",
+        "image_path": "data/SealID/IDs/34/34_-1_109_vjsoln_vjsoln.jpg",
+        "id": "34"
+      },
+      {
+        "option": "O",
+        "image_path": "data/SealID/IDs/174/174_-1_9_jauttf_jauttf.jpg",
+        "id": "174"
+      },
+      {
+        "option": "P",
+        "image_path": "data/SealID/IDs/109/109_-1_19_pugain_pugain.jpg",
+        "id": "109"
+      },
+      {
+        "option": "Q",
+        "image_path": "data/SealID/IDs/104/104_-1_8_exhxyh_exhxyh.jpg",
+        "id": "104"
+      },
+      {
+        "option": "R",
+        "image_path": "data/SealID/IDs/76/76_-1_9_zcdwkk_zcdwkk.jpg",
+        "id": "76"
+      },
+      {
+        "option": "S",
+        "image_path": "data/SealID/IDs/223/223_-1_1_babhqi_babhqi.jpg",
+        "id": "223"
+      },
+      {
+        "option": "T",
+        "image_path": "data/SealID/IDs/26/26_-1_48_xrmkqd_xrmkqd.jpg",
+        "id": "26"
+      },
+      {
+        "option": "U",
+        "image_path": "data/SealID/IDs/149/149_-1_30_zpqeas_zpqeas.jpg",
+        "id": "149"
+      },
+      {
+        "option": "V",
+        "image_path": "data/SealID/IDs/170/170_-1_6_jzudqz_jzudqz.jpg",
+        "id": "170"
+      },
+      {
+        "option": "W",
+        "image_path": "data/SealID/IDs/22/22_-1_20_oshmau_oshmau.jpg",
+        "id": "22"
+      },
+      {
+        "option": "X",
+        "image_path": "data/SealID/IDs/61/61_-1_1_gciztt_gciztt.jpg",
+        "id": "61"
+      },
+      {
+        "option": "Y",
+        "image_path": "data/SealID/IDs/127/127_-1_6_ihddee_ihddee.jpg",
+        "id": "127"
+      },
+      {
+        "option": "Z",
+        "image_path": "data/SealID/IDs/115/115_-1_13_ggiiwj_ggiiwj.jpg",
+        "id": "115"
+      },
+      {
+        "option": "[",
+        "image_path": "data/SealID/IDs/45/45_-1_12_vwhqex_vwhqex.jpg",
+        "id": "45"
+      },
+      {
+        "option": "\\",
+        "image_path": "data/SealID/IDs/97/97_-1_3_ebosjo_ebosjo.jpg",
+        "id": "97"
+      },
+      {
+        "option": "]",
+        "image_path": "data/SealID/IDs/23/23_-1_23_rcwwzu_rcwwzu.jpg",
+        "id": "23"
+      },
+      {
+        "option": "^",
+        "image_path": "data/SealID/IDs/3/3_-1_17_mxkvpp_mxkvpp.jpg",
+        "id": "3"
+      },
+      {
+        "option": "_",
+        "image_path": "data/SealID/IDs/51/51_-1_1_dehzmd_dehzmd.jpg",
+        "id": "51"
+      },
+      {
+        "option": "`",
+        "image_path": "data/SealID/IDs/187/187_-1_25_tiwhzv_tiwhzv.jpg",
+        "id": "187"
+      }
+    ],
+    "answer": "S"
+  },
+  {
+    "task_id": "Beluga_MCQ_000009",
+    "query": {
+      "image_path": "data/SealID/IDs/167/167_-1_14_ewyron_ewyron.jpg",
+      "ground_truth_id": "167"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/SealID/IDs/116/116_-1_29_qqpckp_qqpckp.jpg",
+        "id": "116"
+      },
+      {
+        "option": "B",
+        "image_path": "data/SealID/IDs/22/22_-1_18_nraeop_nraeop.jpg",
+        "id": "22"
+      },
+      {
+        "option": "C",
+        "image_path": "data/SealID/IDs/61/61_-1_8_sojgix_sojgix.jpg",
+        "id": "61"
+      },
+      {
+        "option": "D",
+        "image_path": "data/SealID/IDs/164/164_-1_13_hflfte_hflfte.jpg",
+        "id": "164"
+      },
+      {
+        "option": "E",
+        "image_path": "data/SealID/IDs/359/359_-1_0_bipngj_bipngj.jpg",
+        "id": "359"
+      },
+      {
+        "option": "F",
+        "image_path": "data/SealID/IDs/44/44_-1_0_bqonqo_bqonqo.jpg",
+        "id": "44"
+      },
+      {
+        "option": "G",
+        "image_path": "data/SealID/IDs/103/103_-1_18_groqsj_groqsj.jpg",
+        "id": "103"
+      },
+      {
+        "option": "H",
+        "image_path": "data/SealID/IDs/109/109_-1_19_pugain_pugain.jpg",
+        "id": "109"
+      },
+      {
+        "option": "I",
+        "image_path": "data/SealID/IDs/161/161_-1_9_hunabg_hunabg.jpg",
+        "id": "161"
+      },
+      {
+        "option": "J",
+        "image_path": "data/SealID/IDs/14/14_-1_4_hqpuwl_hqpuwl.jpg",
+        "id": "14"
+      },
+      {
+        "option": "K",
+        "image_path": "data/SealID/IDs/187/187_-1_15_lcfdpp_lcfdpp.jpg",
+        "id": "187"
+      },
+      {
+        "option": "L",
+        "image_path": "data/SealID/IDs/223/223_-1_6_ndafds_ndafds.jpg",
+        "id": "223"
+      },
+      {
+        "option": "M",
+        "image_path": "data/SealID/IDs/170/170_-1_6_jzudqz_jzudqz.jpg",
+        "id": "170"
+      },
+      {
+        "option": "N",
+        "image_path": "data/SealID/IDs/149/149_-1_20_swsbnb_swsbnb.jpg",
+        "id": "149"
+      },
+      {
+        "option": "O",
+        "image_path": "data/SealID/IDs/23/23_-1_9_dzznoh_dzznoh.jpg",
+        "id": "23"
+      },
+      {
+        "option": "P",
+        "image_path": "data/SealID/IDs/115/115_-1_12_gbeeag_gbeeag.jpg",
+        "id": "115"
+      },
+      {
+        "option": "Q",
+        "image_path": "data/SealID/IDs/114/114_-1_11_oodbck_oodbck.jpg",
+        "id": "114"
+      },
+      {
+        "option": "R",
+        "image_path": "data/SealID/IDs/219/219_-1_16_xavgdj_xavgdj.jpg",
+        "id": "219"
+      },
+      {
+        "option": "S",
+        "image_path": "data/SealID/IDs/97/97_-1_13_mafjgj_mafjgj.jpg",
+        "id": "97"
+      },
+      {
+        "option": "T",
+        "image_path": "data/SealID/IDs/213/213_-1_6_hxnvnw_hxnvnw.jpg",
+        "id": "213"
+      },
+      {
+        "option": "U",
+        "image_path": "data/SealID/IDs/127/127_-1_17_wkgpxz_wkgpxz.jpg",
+        "id": "127"
+      },
+      {
+        "option": "V",
+        "image_path": "data/SealID/IDs/45/45_-1_12_vwhqex_vwhqex.jpg",
+        "id": "45"
+      },
+      {
+        "option": "W",
+        "image_path": "data/SealID/IDs/81/81_-1_9_pupyik_pupyik.jpg",
+        "id": "81"
+      },
+      {
+        "option": "X",
+        "image_path": "data/SealID/IDs/1/1_-1_4_lhczmz_lhczmz.jpg",
+        "id": "1"
+      },
+      {
+        "option": "Y",
+        "image_path": "data/SealID/IDs/188/188_-1_20_yhqklm_yhqklm.jpg",
+        "id": "188"
+      },
+      {
+        "option": "Z",
+        "image_path": "data/SealID/IDs/38/38_-1_11_qxkitk_qxkitk.jpg",
+        "id": "38"
+      },
+      {
+        "option": "[",
+        "image_path": "data/SealID/IDs/28/28_-1_13_lhnvek_lhnvek.jpg",
+        "id": "28"
+      },
+      {
+        "option": "\\",
+        "image_path": "data/SealID/IDs/3/3_-1_8_fzytnv_fzytnv.jpg",
+        "id": "3"
+      },
+      {
+        "option": "]",
+        "image_path": "data/SealID/IDs/96/96_-1_22_icqdkq_icqdkq.jpg",
+        "id": "96"
+      },
+      {
+        "option": "^",
+        "image_path": "data/SealID/IDs/167/167_-1_25_klhccp_klhccp.jpg",
+        "id": "167"
+      },
+      {
+        "option": "_",
+        "image_path": "data/SealID/IDs/100/100_-1_31_ohflhh_ohflhh.jpg",
+        "id": "100"
+      },
+      {
+        "option": "`",
+        "image_path": "data/SealID/IDs/211/211_-1_8_lmfuwq_lmfuwq.jpg",
+        "id": "211"
+      }
+    ],
+    "answer": "^"
+  }
+]

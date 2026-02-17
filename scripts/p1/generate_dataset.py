@@ -113,11 +113,12 @@ def main():
 
     print(f"\nTotal generated: {len(generated_samples)} samples.")
 
-    # Construct output path: annotations/{dataset_name}/{dataset_name}_I2I_P1.json
-    output_subdir = os.path.join(args.output_dir, args.dataset_name)
+    # Construct output path: annotations/{dataset_name}/p1/{dataset_name}_I2I_P1.json
+    output_subdir = os.path.join(args.output_dir, args.dataset_name, "p1")
     os.makedirs(output_subdir, exist_ok=True)
 
-    output_filename = f"{args.dataset_name}_I2I_P1.json"
+
+    output_filename = f"{args.dataset_name}_I2I_P1_N{args.gallery_size}.json"
     output_path = os.path.join(output_subdir, output_filename)
 
     with open(output_path, "w") as f:

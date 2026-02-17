@@ -41,59 +41,67 @@ def main():
     # 2. Process each species
     for i, species in enumerate(species_list):
         print(f"\n[{i + 1}/{len(species_list)}] Processing Species: {species}")
-
         data_dir = os.path.join("data", species, "IDs")
+        
+        # Define the gallery sizes to generate
+        gallery_sizes = [4, 8, 16, 32]
 
-        # --- Step 1: Generate Dataset ---
-        # We use max_queries_per_id=100 to generate the maximum possible samples
-        # (capped dynamically by the number of images per ID).
-        gen_cmd = [
-            sys.executable,
-            generate_script,
-            "--dataset_name",
-            species,
-            "--data_dir",
-            data_dir,
-            "--max_queries_per_id",
-            "10000",
-            "--seed",
-            "42",
-        ]
+        for N in gallery_sizes:
+            print(f"  > Processing Gallery Size N={N}...")
 
-        print("  > Generating P1 (I2I) dataset...")
-        try:
-            subprocess.run(gen_cmd, check=True)
-        except subprocess.CalledProcessError as e:
-            print(f"  Error generating dataset for {species}: {e}")
-            continue
+            # --- Step 1: Generate Dataset ---
+            # We use max_queries_per_id=10000 to generate the maximum possible samples
+            # (capped dynamically by the number of images per ID).
+            gen_cmd = [
+                sys.executable,
+                generate_script,
+                "--dataset_name",
+                species,
+                "--data_dir",
+                data_dir,
+                "--gallery_size",
+                str(N),
+                "--max_queries_per_id",
+                "10000",
+                "--seed",
+                "42",
+            ]
 
-        # --- Step 2: Analyze Dataset ---
-        # Define paths for input JSON and output Plot
-        # We save the plot in the same folder as the annotation for better organization
-        json_file = os.path.join(annotations_root, species, f"{species}_I2I_P1.json")
-        plot_file = os.path.join(
-            annotations_root, species, f"{species}_I2I_P1_distribution.png"
-        )
+            print(f"    Generating P1 (I2I) dataset (N={N})...")
+            try:
+                subprocess.run(gen_cmd, check=True)
+            except subprocess.CalledProcessError as e:
+                print(f"    Error generating dataset for {species} (N={N}): {e}")
+                continue
 
-        if not os.path.exists(json_file):
-            print(f"  Warning: Expected JSON file not found: {json_file}")
-            continue
+            # --- Step 2: Analyze Dataset ---
+            # Determine the filename based on N to match generate_dataset.py logic
+            base_name = f"{species}_I2I_P1_N{N}"
 
-        analyze_cmd = [
-            sys.executable,
-            analyze_script,
-            "--json_file",
-            json_file,
-            "--output_plot",
-            plot_file,
-        ]
+            json_file = os.path.join(annotations_root, species, "p1", f"{base_name}.json")
+            plot_file = os.path.join(
+                annotations_root, species, "p1", f"{base_name}_distribution.png"
+            )
 
-        print("  > Analyzing dataset statistics...")
-        try:
-            subprocess.run(analyze_cmd, check=True)
-            print(f"  > Analysis plot saved to: {plot_file}")
-        except subprocess.CalledProcessError as e:
-            print(f"  Error analyzing dataset for {species}: {e}")
+            if not os.path.exists(json_file):
+                print(f"    Warning: Expected JSON file not found: {json_file}")
+                continue
+
+            analyze_cmd = [
+                sys.executable,
+                analyze_script,
+                "--json_file",
+                json_file,
+                "--output_plot",
+                plot_file,
+            ]
+
+            print(f"    Analyzing dataset statistics (N={N})...")
+            try:
+                subprocess.run(analyze_cmd, check=True)
+                print(f"    Analysis plot saved to: {plot_file}")
+            except subprocess.CalledProcessError as e:
+                print(f"    Error analyzing dataset for {species} (N={N}): {e}")
 
     print("\n" + "=" * 60)
     print("All species processed successfully.")
