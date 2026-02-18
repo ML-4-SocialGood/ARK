@@ -79,6 +79,7 @@ def main():
 
     try:
         sampler = MultiImageBatchSampler(
+            dataset_name=args.dataset_name,
             data_dir=args.data_dir,
             gallery_size=args.gallery_size,
             max_query_size=args.max_query_size,

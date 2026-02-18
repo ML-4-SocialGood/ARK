@@ -8,6 +8,7 @@ from typing import Any, Dict, List, Optional, Set
 class MultiImageBatchSampler:
     def __init__(
         self,
+        dataset_name: str,
         data_dir: str,
         gallery_size: int,
         max_query_size: int,
@@ -19,6 +20,7 @@ class MultiImageBatchSampler:
         Generates batches of tasks with fixed galleries but varying query set sizes.
 
         Args:
+            dataset_name (str): Name of the dataset (e.g., BelugaID). Used for task_id generation.
             data_dir (str): Path to the root dataset folder.
             gallery_size (int): Total options in the gallery (N).
             max_query_size (int): The maximum number of images in a query (K_max).
@@ -26,6 +28,7 @@ class MultiImageBatchSampler:
             max_queries_per_id (int): Maximum number of times a single ID can be used as a target.
             max_jaccard_sim (float, optional): Threshold for Jaccard similarity.
         """
+        self.dataset_name = dataset_name
         self.data_dir = data_dir
         self.gallery_size = gallery_size
         self.max_query_size = max_query_size
@@ -249,7 +252,7 @@ class MultiImageBatchSampler:
             current_query_images = query_pool[:k]
 
             task = {
-                "task_id": f"Beluga_MCQ_P4_{batch_base_id:06d}_K{k}",
+                "task_id": f"{self.dataset_name}_MCQ_P4_{batch_base_id:06d}_K{k}",
                 "query": {
                     "image_paths": current_query_images,
                     "ground_truth_id": query_id,

@@ -30,6 +30,7 @@ def main():
 
     try:
         sampler = MultiImageBatchSampler(
+            dataset_name="Beluga",
             data_dir=args.data_dir,
             gallery_size=gallery_size,
             max_query_size=max_query_size,
