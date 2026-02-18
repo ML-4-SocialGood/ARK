@@ -1,0 +1,1960 @@
+[
+  {
+    "task_id": "IPanda50_MCQ_P4_000001_K2",
+    "query": {
+      "image_paths": [
+        "data/IPanda50/IDs/45/45_-1_39_45_v010_f001450_4a80dbb08d68c021.jpg",
+        "data/IPanda50/IDs/45/45_-1_42_45_v011_f000305_ec8341208316f195.jpg"
+      ],
+      "ground_truth_id": "45"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/IPanda50/IDs/24/24_-1_40_24_v005_f000905_100bbdd7975e6b96.jpg",
+        "id": "24"
+      },
+      {
+        "option": "B",
+        "image_path": "data/IPanda50/IDs/42/42_-1_22_42_v008_f000005_7d23c07982fea5db.jpg",
+        "id": "42"
+      },
+      {
+        "option": "C",
+        "image_path": "data/IPanda50/IDs/29/29_-1_16_29_v003_f001850_0dcfaa5dfd48882d.jpg",
+        "id": "29"
+      },
+      {
+        "option": "D",
+        "image_path": "data/IPanda50/IDs/2/2_-1_10_02_v004_f000605_2bdfd6c54aba1b29.jpg",
+        "id": "2"
+      },
+      {
+        "option": "E",
+        "image_path": "data/IPanda50/IDs/35/35_-1_232_35_v092_f002430_b67376fe1224f818.jpg",
+        "id": "35"
+      },
+      {
+        "option": "F",
+        "image_path": "data/IPanda50/IDs/7/7_-1_15_07_v002_f001075_fdf30bb589be0995.jpg",
+        "id": "7"
+      },
+      {
+        "option": "G",
+        "image_path": "data/IPanda50/IDs/0/0_-1_147_00_v077_f001350_df94152a0e98e730.jpg",
+        "id": "0"
+      },
+      {
+        "option": "H",
+        "image_path": "data/IPanda50/IDs/45/45_-1_76_45_v019_f000005_8cb9df41de2d36d4.jpg",
+        "id": "45"
+      },
+      {
+        "option": "I",
+        "image_path": "data/IPanda50/IDs/31/31_-1_19_31_v004_f002080_cfe56f3d36a61bba.jpg",
+        "id": "31"
+      },
+      {
+        "option": "J",
+        "image_path": "data/IPanda50/IDs/10/10_-1_188_10_v066_f000850_266cc263a88b2dca.jpg",
+        "id": "10"
+      },
+      {
+        "option": "K",
+        "image_path": "data/IPanda50/IDs/4/4_-1_11_04_365_ab4af1d503d6b14f.jpg",
+        "id": "4"
+      },
+      {
+        "option": "L",
+        "image_path": "data/IPanda50/IDs/20/20_-1_87_20_v013_f000090_23d81c7e98dfc485.jpg",
+        "id": "20"
+      },
+      {
+        "option": "M",
+        "image_path": "data/IPanda50/IDs/12/12_-1_15_12_v003_f000345_5c4781a67efd6215.jpg",
+        "id": "12"
+      },
+      {
+        "option": "N",
+        "image_path": "data/IPanda50/IDs/40/40_-1_86_40_v202_f000001_58b4a533d4380925.jpg",
+        "id": "40"
+      },
+      {
+        "option": "O",
+        "image_path": "data/IPanda50/IDs/32/32_-1_227_32_v072_f001800_c059dc93af71dacd.jpg",
+        "id": "32"
+      },
+      {
+        "option": "P",
+        "image_path": "data/IPanda50/IDs/34/34_-1_51_34_v013_f003020_3b81beae8b9d1b31.jpg",
+        "id": "34"
+      },
+      {
+        "option": "Q",
+        "image_path": "data/IPanda50/IDs/16/16_-1_67_16_v023_f003855_4d051030f24d28ff.jpg",
+        "id": "16"
+      },
+      {
+        "option": "R",
+        "image_path": "data/IPanda50/IDs/9/9_-1_39_09_v006_f000055_23c4bd58e3d292f3.jpg",
+        "id": "9"
+      },
+      {
+        "option": "S",
+        "image_path": "data/IPanda50/IDs/49/49_-1_6_49_20150401-101005_e__1_20d8cfcf161d32c8.jpg",
+        "id": "49"
+      },
+      {
+        "option": "T",
+        "image_path": "data/IPanda50/IDs/1/1_-1_14_01_v002_f001080_75f88210c90a4234.jpg",
+        "id": "1"
+      },
+      {
+        "option": "U",
+        "image_path": "data/IPanda50/IDs/5/5_-1_36_05_20160728-104600___1060_75bf38bec0460410.jpg",
+        "id": "5"
+      },
+      {
+        "option": "V",
+        "image_path": "data/IPanda50/IDs/18/18_-1_24_18_v009_f000855_56c9b027fc026cfd.jpg",
+        "id": "18"
+      },
+      {
+        "option": "W",
+        "image_path": "data/IPanda50/IDs/38/38_-1_17_38_v009_f000405_872ee23a518fc235.jpg",
+        "id": "38"
+      },
+      {
+        "option": "X",
+        "image_path": "data/IPanda50/IDs/14/14_-1_2_14_v002_f000180_d474814fff0aad92.jpg",
+        "id": "14"
+      },
+      {
+        "option": "Y",
+        "image_path": "data/IPanda50/IDs/43/43_-1_54_43_v030_f000005_ed3f6b90f01e1d7f.jpg",
+        "id": "43"
+      },
+      {
+        "option": "Z",
+        "image_path": "data/IPanda50/IDs/48/48_-1_118_48_v074_f000005_b9d88e5bfa50ba00.jpg",
+        "id": "48"
+      },
+      {
+        "option": "[",
+        "image_path": "data/IPanda50/IDs/13/13_-1_265_13_v077_f003290_6417b92833c8f309.jpg",
+        "id": "13"
+      },
+      {
+        "option": "\\",
+        "image_path": "data/IPanda50/IDs/21/21_-1_62_21_v021_f000130_4f8b86d6fa38658f.jpg",
+        "id": "21"
+      },
+      {
+        "option": "]",
+        "image_path": "data/IPanda50/IDs/47/47_-1_167_47_v123_f003060_474eb1ed012626fa.jpg",
+        "id": "47"
+      },
+      {
+        "option": "^",
+        "image_path": "data/IPanda50/IDs/36/36_-1_144_36_v057_f000300_11b8a529d499b77a.jpg",
+        "id": "36"
+      },
+      {
+        "option": "_",
+        "image_path": "data/IPanda50/IDs/30/30_-1_39_30_v004_f001175_b40733b62ecdfbdd.jpg",
+        "id": "30"
+      },
+      {
+        "option": "`",
+        "image_path": "data/IPanda50/IDs/33/33_-1_168_33_v188_f000830_c9ee7e4cac582c53.jpg",
+        "id": "33"
+      }
+    ],
+    "answer": "H",
+    "meta": {
+      "batch_id": 1,
+      "query_size": 2,
+      "max_query_size": 4
+    }
+  },
+  {
+    "task_id": "IPanda50_MCQ_P4_000002_K2",
+    "query": {
+      "image_paths": [
+        "data/IPanda50/IDs/20/20_-1_68_20_v007_f000990_22342e8f8d3db155.jpg",
+        "data/IPanda50/IDs/20/20_-1_39_20_v004_f004205_511ad937d71979f6.jpg"
+      ],
+      "ground_truth_id": "20"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/IPanda50/IDs/27/27_-1_40_27_v012_f002375_2bc288036ed931d8.jpg",
+        "id": "27"
+      },
+      {
+        "option": "B",
+        "image_path": "data/IPanda50/IDs/16/16_-1_9_16_v004_f000315_729a7c7e15559117.jpg",
+        "id": "16"
+      },
+      {
+        "option": "C",
+        "image_path": "data/IPanda50/IDs/40/40_-1_21_40_v061_f000001_9e0d18489a5e476e.jpg",
+        "id": "40"
+      },
+      {
+        "option": "D",
+        "image_path": "data/IPanda50/IDs/4/4_-1_39_04_v003_f002405_15f5dbea3e3331f8.jpg",
+        "id": "4"
+      },
+      {
+        "option": "E",
+        "image_path": "data/IPanda50/IDs/15/15_-1_95_15_v012_f000915_e6d7bc3fd2965bbf.jpg",
+        "id": "15"
+      },
+      {
+        "option": "F",
+        "image_path": "data/IPanda50/IDs/13/13_-1_152_13_v045_f002760_849d393e302c1a60.jpg",
+        "id": "13"
+      },
+      {
+        "option": "G",
+        "image_path": "data/IPanda50/IDs/29/29_-1_19_29_v003_f002925_761509d7a8b567b2.jpg",
+        "id": "29"
+      },
+      {
+        "option": "H",
+        "image_path": "data/IPanda50/IDs/38/38_-1_6_38_v005_f001105_beac1047a72c2528.jpg",
+        "id": "38"
+      },
+      {
+        "option": "I",
+        "image_path": "data/IPanda50/IDs/28/28_-1_66_28_v020_f000310_cc0cd962e38dc8e1.jpg",
+        "id": "28"
+      },
+      {
+        "option": "J",
+        "image_path": "data/IPanda50/IDs/43/43_-1_58_43_v032_f001190_99a676f8f80650e8.jpg",
+        "id": "43"
+      },
+      {
+        "option": "K",
+        "image_path": "data/IPanda50/IDs/49/49_-1_20_49_v001_f000770_12bfaaad99321103.jpg",
+        "id": "49"
+      },
+      {
+        "option": "L",
+        "image_path": "data/IPanda50/IDs/21/21_-1_97_21_v032_f000905_40e1b17f42258ccc.jpg",
+        "id": "21"
+      },
+      {
+        "option": "M",
+        "image_path": "data/IPanda50/IDs/32/32_-1_96_32_v027_f001530_8bf23dcaf15ddf10.jpg",
+        "id": "32"
+      },
+      {
+        "option": "N",
+        "image_path": "data/IPanda50/IDs/8/8_-1_27_08_v002_f003305_5b8d08ee52755764.jpg",
+        "id": "8"
+      },
+      {
+        "option": "O",
+        "image_path": "data/IPanda50/IDs/39/39_-1_2_39_v001_f000680_1d97230a2e3b1fba.jpg",
+        "id": "39"
+      },
+      {
+        "option": "P",
+        "image_path": "data/IPanda50/IDs/48/48_-1_62_48_v045_f000775_b3bcfc996a6f1b3b.jpg",
+        "id": "48"
+      },
+      {
+        "option": "Q",
+        "image_path": "data/IPanda50/IDs/11/11_-1_73_11_v029_f001235_499fb57fbfd87071.jpg",
+        "id": "11"
+      },
+      {
+        "option": "R",
+        "image_path": "data/IPanda50/IDs/45/45_-1_83_45_v022_f000765_84dbd5c5bd9e95dc.jpg",
+        "id": "45"
+      },
+      {
+        "option": "S",
+        "image_path": "data/IPanda50/IDs/10/10_-1_158_10_v058_f001495_8da8a1033efc90b1.jpg",
+        "id": "10"
+      },
+      {
+        "option": "T",
+        "image_path": "data/IPanda50/IDs/2/2_-1_56_02_v015_f005355_e443e85ff4d188cb.jpg",
+        "id": "2"
+      },
+      {
+        "option": "U",
+        "image_path": "data/IPanda50/IDs/22/22_-1_161_22_v033_f043605_1217b05de2cc22cf.jpg",
+        "id": "22"
+      },
+      {
+        "option": "V",
+        "image_path": "data/IPanda50/IDs/24/24_-1_16_24_20160729-113720___1675_3e3ec0f0d6c70a3f.jpg",
+        "id": "24"
+      },
+      {
+        "option": "W",
+        "image_path": "data/IPanda50/IDs/12/12_-1_0_12_20180201-140440___1315_6cb61717a4843999.jpg",
+        "id": "12"
+      },
+      {
+        "option": "X",
+        "image_path": "data/IPanda50/IDs/46/46_-1_68_46_v022_f001235_978cf722dec9ba8b.jpg",
+        "id": "46"
+      },
+      {
+        "option": "Y",
+        "image_path": "data/IPanda50/IDs/3/3_-1_62_03_v009_f003820_14878ec0c8e5af11.jpg",
+        "id": "3"
+      },
+      {
+        "option": "Z",
+        "image_path": "data/IPanda50/IDs/9/9_-1_37_09_v005_f001505_53ffbf934932c268.jpg",
+        "id": "9"
+      },
+      {
+        "option": "[",
+        "image_path": "data/IPanda50/IDs/34/34_-1_3_34_v004_f000415_86b2d8e6bd20d185.jpg",
+        "id": "34"
+      },
+      {
+        "option": "\\",
+        "image_path": "data/IPanda50/IDs/20/20_-1_19_20_v003_f002825_ff5ad38417054763.jpg",
+        "id": "20"
+      },
+      {
+        "option": "]",
+        "image_path": "data/IPanda50/IDs/30/30_-1_0_30_v001_f000050_76b5966eef4be73b.jpg",
+        "id": "30"
+      },
+      {
+        "option": "^",
+        "image_path": "data/IPanda50/IDs/41/41_-1_26_41_v013_f000980_dcad2b06b2551c3e.jpg",
+        "id": "41"
+      },
+      {
+        "option": "_",
+        "image_path": "data/IPanda50/IDs/31/31_-1_93_31_v008_f003780_5d192c0cc1c8c436.jpg",
+        "id": "31"
+      },
+      {
+        "option": "`",
+        "image_path": "data/IPanda50/IDs/23/23_-1_62_23_v016_f001505_d7307aafbc7c7265.jpg",
+        "id": "23"
+      }
+    ],
+    "answer": "\\",
+    "meta": {
+      "batch_id": 2,
+      "query_size": 2,
+      "max_query_size": 4
+    }
+  },
+  {
+    "task_id": "IPanda50_MCQ_P4_000003_K2",
+    "query": {
+      "image_paths": [
+        "data/IPanda50/IDs/5/5_-1_45_05_20160728-104600___4270_c6b36648ba43e7a2.jpg",
+        "data/IPanda50/IDs/5/5_-1_86_05_v002_f000855_eab32e201eb91650.jpg"
+      ],
+      "ground_truth_id": "5"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/IPanda50/IDs/21/21_-1_57_21_v020_f002220_345e1b4c0d7b226c.jpg",
+        "id": "21"
+      },
+      {
+        "option": "B",
+        "image_path": "data/IPanda50/IDs/8/8_-1_38_08_v002_f006140_973a9c4491043415.jpg",
+        "id": "8"
+      },
+      {
+        "option": "C",
+        "image_path": "data/IPanda50/IDs/44/44_-1_22_44_v009_f002180_f7ffc5d973fe24f5.jpg",
+        "id": "44"
+      },
+      {
+        "option": "D",
+        "image_path": "data/IPanda50/IDs/37/37_-1_124_37_v032_f002895_ef508da4f873dcff.jpg",
+        "id": "37"
+      },
+      {
+        "option": "E",
+        "image_path": "data/IPanda50/IDs/23/23_-1_111_23_v026_f000535_342a748964d40bad.jpg",
+        "id": "23"
+      },
+      {
+        "option": "F",
+        "image_path": "data/IPanda50/IDs/46/46_-1_59_46_v018_f000005_df8359b01a59a455.jpg",
+        "id": "46"
+      },
+      {
+        "option": "G",
+        "image_path": "data/IPanda50/IDs/16/16_-1_46_16_v018_f000620_a2f079c47b72001e.jpg",
+        "id": "16"
+      },
+      {
+        "option": "H",
+        "image_path": "data/IPanda50/IDs/11/11_-1_20_11_v007_f000800_f073d9959771d5fb.jpg",
+        "id": "11"
+      },
+      {
+        "option": "I",
+        "image_path": "data/IPanda50/IDs/22/22_-1_25_22_v005_f005930_f55d074222ca556a.jpg",
+        "id": "22"
+      },
+      {
+        "option": "J",
+        "image_path": "data/IPanda50/IDs/24/24_-1_4_24_20160603-084200___585_c057a21569bc68de.jpg",
+        "id": "24"
+      },
+      {
+        "option": "K",
+        "image_path": "data/IPanda50/IDs/27/27_-1_113_27_v032_f000005_3ac86fdaa9c3c056.jpg",
+        "id": "27"
+      },
+      {
+        "option": "L",
+        "image_path": "data/IPanda50/IDs/4/4_-1_20_04_v002_f000730_1422270b4034aa28.jpg",
+        "id": "4"
+      },
+      {
+        "option": "M",
+        "image_path": "data/IPanda50/IDs/40/40_-1_31_40_v069_f000805_7da8d13a6c5309c6.jpg",
+        "id": "40"
+      },
+      {
+        "option": "N",
+        "image_path": "data/IPanda50/IDs/29/29_-1_51_29_v008_f001060_b519bd9154288285.jpg",
+        "id": "29"
+      },
+      {
+        "option": "O",
+        "image_path": "data/IPanda50/IDs/35/35_-1_72_35_v027_f000545_72d6362a3f10f195.jpg",
+        "id": "35"
+      },
+      {
+        "option": "P",
+        "image_path": "data/IPanda50/IDs/14/14_-1_4_14_v002_f000795_3d04578210695f81.jpg",
+        "id": "14"
+      },
+      {
+        "option": "Q",
+        "image_path": "data/IPanda50/IDs/42/42_-1_40_42_v014_f000005_afba01ac9e1e3027.jpg",
+        "id": "42"
+      },
+      {
+        "option": "R",
+        "image_path": "data/IPanda50/IDs/28/28_-1_51_28_v017_f001295_61ad5fbb11174d70.jpg",
+        "id": "28"
+      },
+      {
+        "option": "S",
+        "image_path": "data/IPanda50/IDs/25/25_-1_20_25_v010_f001245_1377cb2e1d486c32.jpg",
+        "id": "25"
+      },
+      {
+        "option": "T",
+        "image_path": "data/IPanda50/IDs/12/12_-1_48_12_v008_f000005_0c9683da5fe6e15b.jpg",
+        "id": "12"
+      },
+      {
+        "option": "U",
+        "image_path": "data/IPanda50/IDs/15/15_-1_19_15_v003_f001460_725fb3b51076a0b1.jpg",
+        "id": "15"
+      },
+      {
+        "option": "V",
+        "image_path": "data/IPanda50/IDs/1/1_-1_20_01_v002_f001715_6f2988ae0fb3f9e7.jpg",
+        "id": "1"
+      },
+      {
+        "option": "W",
+        "image_path": "data/IPanda50/IDs/5/5_-1_23_05_20160610-095600___785_4c468f1d486bfc23.jpg",
+        "id": "5"
+      },
+      {
+        "option": "X",
+        "image_path": "data/IPanda50/IDs/9/9_-1_117_09_v019_f000700_b0ca12dd88b30735.jpg",
+        "id": "9"
+      },
+      {
+        "option": "Y",
+        "image_path": "data/IPanda50/IDs/38/38_-1_38_38_v014_f001250_d38cb03fced8cf4b.jpg",
+        "id": "38"
+      },
+      {
+        "option": "Z",
+        "image_path": "data/IPanda50/IDs/0/0_-1_52_00_v021_f002550_53fa1c9b1446079a.jpg",
+        "id": "0"
+      },
+      {
+        "option": "[",
+        "image_path": "data/IPanda50/IDs/10/10_-1_121_10_v046_f001305_b59c002b5cd94c59.jpg",
+        "id": "10"
+      },
+      {
+        "option": "\\",
+        "image_path": "data/IPanda50/IDs/32/32_-1_178_32_v054_f001475_63a2a237f0d2783a.jpg",
+        "id": "32"
+      },
+      {
+        "option": "]",
+        "image_path": "data/IPanda50/IDs/7/7_-1_36_07_v006_f000335_947a84984af4d429.jpg",
+        "id": "7"
+      },
+      {
+        "option": "^",
+        "image_path": "data/IPanda50/IDs/48/48_-1_141_48_v092_f000180_d159f3259e475fc6.jpg",
+        "id": "48"
+      },
+      {
+        "option": "_",
+        "image_path": "data/IPanda50/IDs/45/45_-1_25_45_v007_f000905_811a6a350b2a6eb0.jpg",
+        "id": "45"
+      },
+      {
+        "option": "`",
+        "image_path": "data/IPanda50/IDs/6/6_-1_41_06_v017_f000115_deaa24f74d88e606.jpg",
+        "id": "6"
+      }
+    ],
+    "answer": "W",
+    "meta": {
+      "batch_id": 3,
+      "query_size": 2,
+      "max_query_size": 4
+    }
+  },
+  {
+    "task_id": "IPanda50_MCQ_P4_000004_K2",
+    "query": {
+      "image_paths": [
+        "data/IPanda50/IDs/17/17_-1_112_17_v011_f000920_117761c0833d584c.jpg",
+        "data/IPanda50/IDs/17/17_-1_169_17_v017_f001890_29590a474196ca18.jpg"
+      ],
+      "ground_truth_id": "17"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/IPanda50/IDs/42/42_-1_45_42_v014_f000650_6f327b9769d5dd60.jpg",
+        "id": "42"
+      },
+      {
+        "option": "B",
+        "image_path": "data/IPanda50/IDs/26/26_-1_96_26_v050_f000115_418f21a234912ced.jpg",
+        "id": "26"
+      },
+      {
+        "option": "C",
+        "image_path": "data/IPanda50/IDs/37/37_-1_19_37_v006_f000555_c5112c8aa6bb3f10.jpg",
+        "id": "37"
+      },
+      {
+        "option": "D",
+        "image_path": "data/IPanda50/IDs/14/14_-1_116_14_v025_f001330_646d1a4d2a8a1eed.jpg",
+        "id": "14"
+      },
+      {
+        "option": "E",
+        "image_path": "data/IPanda50/IDs/41/41_-1_27_41_v013_f003505_c68a75e7b78b6e0b.jpg",
+        "id": "41"
+      },
+      {
+        "option": "F",
+        "image_path": "data/IPanda50/IDs/11/11_-1_44_11_v014_f000005_afee1b906e5f1f48.jpg",
+        "id": "11"
+      },
+      {
+        "option": "G",
+        "image_path": "data/IPanda50/IDs/24/24_-1_17_24_20160729-113720___1890_84f8c9ccada9c7e9.jpg",
+        "id": "24"
+      },
+      {
+        "option": "H",
+        "image_path": "data/IPanda50/IDs/21/21_-1_34_21_v012_f001920_51649a2b93aff046.jpg",
+        "id": "21"
+      },
+      {
+        "option": "I",
+        "image_path": "data/IPanda50/IDs/23/23_-1_44_23_v012_f001610_7a5c8b102edbb127.jpg",
+        "id": "23"
+      },
+      {
+        "option": "J",
+        "image_path": "data/IPanda50/IDs/31/31_-1_17_31_v004_f000620_06a9f6dfc59b02cf.jpg",
+        "id": "31"
+      },
+      {
+        "option": "K",
+        "image_path": "data/IPanda50/IDs/10/10_-1_12_10_v002_f001605_9bfa8765ca896471.jpg",
+        "id": "10"
+      },
+      {
+        "option": "L",
+        "image_path": "data/IPanda50/IDs/17/17_-1_113_17_v011_f001005_549c0ceac099987f.jpg",
+        "id": "17"
+      },
+      {
+        "option": "M",
+        "image_path": "data/IPanda50/IDs/4/4_-1_35_04_v003_f001670_f9066671507e1878.jpg",
+        "id": "4"
+      },
+      {
+        "option": "N",
+        "image_path": "data/IPanda50/IDs/16/16_-1_4_16_v002_f001735_c935e6404e3a873f.jpg",
+        "id": "16"
+      },
+      {
+        "option": "O",
+        "image_path": "data/IPanda50/IDs/29/29_-1_2_29_v001_f001580_b57a74d8e6578a25.jpg",
+        "id": "29"
+      },
+      {
+        "option": "P",
+        "image_path": "data/IPanda50/IDs/39/39_-1_28_39_v006_f000875_2dea4a4f549ced3e.jpg",
+        "id": "39"
+      },
+      {
+        "option": "Q",
+        "image_path": "data/IPanda50/IDs/35/35_-1_156_35_v048_f003160_9508215a94103075.jpg",
+        "id": "35"
+      },
+      {
+        "option": "R",
+        "image_path": "data/IPanda50/IDs/20/20_-1_64_20_v007_f000575_e08e9dd1088204c2.jpg",
+        "id": "20"
+      },
+      {
+        "option": "S",
+        "image_path": "data/IPanda50/IDs/9/9_-1_1_09_v001_f000365_7aeb79c164345db8.jpg",
+        "id": "9"
+      },
+      {
+        "option": "T",
+        "image_path": "data/IPanda50/IDs/36/36_-1_20_36_v012_f000005_2a5ef838ce081186.jpg",
+        "id": "36"
+      },
+      {
+        "option": "U",
+        "image_path": "data/IPanda50/IDs/2/2_-1_116_02_v025_f000180_45e67d2d5d1687e5.jpg",
+        "id": "2"
+      },
+      {
+        "option": "V",
+        "image_path": "data/IPanda50/IDs/44/44_-1_70_44_v023_f000005_ea0c77f69adbd918.jpg",
+        "id": "44"
+      },
+      {
+        "option": "W",
+        "image_path": "data/IPanda50/IDs/49/49_-1_0_49_20150206-085020___595_36f5eaf55ce1cc75.jpg",
+        "id": "49"
+      },
+      {
+        "option": "X",
+        "image_path": "data/IPanda50/IDs/32/32_-1_97_32_v027_f001870_3ce91c6309fe41a6.jpg",
+        "id": "32"
+      },
+      {
+        "option": "Y",
+        "image_path": "data/IPanda50/IDs/40/40_-1_72_40_v146_f000520_63b609465100acfe.jpg",
+        "id": "40"
+      },
+      {
+        "option": "Z",
+        "image_path": "data/IPanda50/IDs/43/43_-1_56_43_v031_f000005_e4bdc1e73231b835.jpg",
+        "id": "43"
+      },
+      {
+        "option": "[",
+        "image_path": "data/IPanda50/IDs/12/12_-1_36_12_v006_f000205_20be4228ee4b4b9e.jpg",
+        "id": "12"
+      },
+      {
+        "option": "\\",
+        "image_path": "data/IPanda50/IDs/19/19_-1_146_19_v050_f005440_8e276953ab94e17d.jpg",
+        "id": "19"
+      },
+      {
+        "option": "]",
+        "image_path": "data/IPanda50/IDs/13/13_-1_245_13_v075_f000405_1035866898b76d8c.jpg",
+        "id": "13"
+      },
+      {
+        "option": "^",
+        "image_path": "data/IPanda50/IDs/46/46_-1_70_46_v022_f003400_c2b4ace2db7037a9.jpg",
+        "id": "46"
+      },
+      {
+        "option": "_",
+        "image_path": "data/IPanda50/IDs/6/6_-1_73_06_v021_f002160_efaab5bf3e4c65b1.jpg",
+        "id": "6"
+      },
+      {
+        "option": "`",
+        "image_path": "data/IPanda50/IDs/15/15_-1_101_15_v013_f000570_d6f5c553b0a67a0e.jpg",
+        "id": "15"
+      }
+    ],
+    "answer": "L",
+    "meta": {
+      "batch_id": 4,
+      "query_size": 2,
+      "max_query_size": 4
+    }
+  },
+  {
+    "task_id": "IPanda50_MCQ_P4_000005_K2",
+    "query": {
+      "image_paths": [
+        "data/IPanda50/IDs/40/40_-1_75_40_v159_f000160_5010230ccd3a637c.jpg",
+        "data/IPanda50/IDs/40/40_-1_22_40_v061_f002370_492b5bb1a7700b82.jpg"
+      ],
+      "ground_truth_id": "40"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/IPanda50/IDs/49/49_-1_49_49_v018_f000465_e752f5aabfa4fce6.jpg",
+        "id": "49"
+      },
+      {
+        "option": "B",
+        "image_path": "data/IPanda50/IDs/17/17_-1_38_17_v003_f000005_a52be672c3306fd3.jpg",
+        "id": "17"
+      },
+      {
+        "option": "C",
+        "image_path": "data/IPanda50/IDs/33/33_-1_144_33_v141_f001020_8dece015fc121908.jpg",
+        "id": "33"
+      },
+      {
+        "option": "D",
+        "image_path": "data/IPanda50/IDs/14/14_-1_38_14_v008_f002090_325b2d6fbb56136a.jpg",
+        "id": "14"
+      },
+      {
+        "option": "E",
+        "image_path": "data/IPanda50/IDs/10/10_-1_136_10_v050_f002215_78230caa13103057.jpg",
+        "id": "10"
+      },
+      {
+        "option": "F",
+        "image_path": "data/IPanda50/IDs/38/38_-1_17_38_v009_f000405_872ee23a518fc235.jpg",
+        "id": "38"
+      },
+      {
+        "option": "G",
+        "image_path": "data/IPanda50/IDs/20/20_-1_25_20_v004_f000070_0739572d4a0bf257.jpg",
+        "id": "20"
+      },
+      {
+        "option": "H",
+        "image_path": "data/IPanda50/IDs/8/8_-1_12_08_v002_f000640_68d556e6d789433e.jpg",
+        "id": "8"
+      },
+      {
+        "option": "I",
+        "image_path": "data/IPanda50/IDs/7/7_-1_29_07_v005_f002200_6fd229bc2a843d5d.jpg",
+        "id": "7"
+      },
+      {
+        "option": "J",
+        "image_path": "data/IPanda50/IDs/41/41_-1_21_41_v010_f001500_9a0b760a76306163.jpg",
+        "id": "41"
+      },
+      {
+        "option": "K",
+        "image_path": "data/IPanda50/IDs/31/31_-1_12_31_v004_f000045_5e02b6f4c1afac6b.jpg",
+        "id": "31"
+      },
+      {
+        "option": "L",
+        "image_path": "data/IPanda50/IDs/30/30_-1_151_30_v022_f002330_7a71d71aa1168083.jpg",
+        "id": "30"
+      },
+      {
+        "option": "M",
+        "image_path": "data/IPanda50/IDs/36/36_-1_164_36_v070_f000755_4d38202dc9889c6f.jpg",
+        "id": "36"
+      },
+      {
+        "option": "N",
+        "image_path": "data/IPanda50/IDs/42/42_-1_2_42_v001_f001255_333663d559ff3a5d.jpg",
+        "id": "42"
+      },
+      {
+        "option": "O",
+        "image_path": "data/IPanda50/IDs/40/40_-1_76_40_v159_f000490_02e4c7dc6e0b477e.jpg",
+        "id": "40"
+      },
+      {
+        "option": "P",
+        "image_path": "data/IPanda50/IDs/5/5_-1_71_05_20160730-075820_1__485_25086b8930698c3c.jpg",
+        "id": "5"
+      },
+      {
+        "option": "Q",
+        "image_path": "data/IPanda50/IDs/16/16_-1_96_16_v037_f001105_b086cce02e154641.jpg",
+        "id": "16"
+      },
+      {
+        "option": "R",
+        "image_path": "data/IPanda50/IDs/29/29_-1_27_29_v005_f000520_601d1adac8e8af64.jpg",
+        "id": "29"
+      },
+      {
+        "option": "S",
+        "image_path": "data/IPanda50/IDs/47/47_-1_192_47_v208_f000530_d432a67a7a7e1dce.jpg",
+        "id": "47"
+      },
+      {
+        "option": "T",
+        "image_path": "data/IPanda50/IDs/9/9_-1_126_09_v021_f000505_c1b9820033cdeeb8.jpg",
+        "id": "9"
+      },
+      {
+        "option": "U",
+        "image_path": "data/IPanda50/IDs/45/45_-1_69_45_v015_f002530_e88998c58e0fac37.jpg",
+        "id": "45"
+      },
+      {
+        "option": "V",
+        "image_path": "data/IPanda50/IDs/43/43_-1_47_43_v020_f001165_17705a02b22c81af.jpg",
+        "id": "43"
+      },
+      {
+        "option": "W",
+        "image_path": "data/IPanda50/IDs/22/22_-1_23_22_v005_f005780_afbb9a0f4a0adc5d.jpg",
+        "id": "22"
+      },
+      {
+        "option": "X",
+        "image_path": "data/IPanda50/IDs/26/26_-1_180_26_v108_f000755_c5ae9c1bab0fd34b.jpg",
+        "id": "26"
+      },
+      {
+        "option": "Y",
+        "image_path": "data/IPanda50/IDs/3/3_-1_36_03_v006_f005130_95801688bba06401.jpg",
+        "id": "3"
+      },
+      {
+        "option": "Z",
+        "image_path": "data/IPanda50/IDs/35/35_-1_176_35_v055_f007310_a1f97bdf7e66c38f.jpg",
+        "id": "35"
+      },
+      {
+        "option": "[",
+        "image_path": "data/IPanda50/IDs/13/13_-1_14_13_v004_f002245_e5c0713efd4c72cb.jpg",
+        "id": "13"
+      },
+      {
+        "option": "\\",
+        "image_path": "data/IPanda50/IDs/0/0_-1_222_00_v146_f000545_b62d2378bbf9458d.jpg",
+        "id": "0"
+      },
+      {
+        "option": "]",
+        "image_path": "data/IPanda50/IDs/18/18_-1_22_18_v009_f000740_5fb2eb8c4e66676d.jpg",
+        "id": "18"
+      },
+      {
+        "option": "^",
+        "image_path": "data/IPanda50/IDs/34/34_-1_56_34_v014_f000710_c2a47071b32964f4.jpg",
+        "id": "34"
+      },
+      {
+        "option": "_",
+        "image_path": "data/IPanda50/IDs/15/15_-1_108_15_v014_f000005_f759e3af2616f49c.jpg",
+        "id": "15"
+      },
+      {
+        "option": "`",
+        "image_path": "data/IPanda50/IDs/32/32_-1_45_32_v012_f000035_4b8dffab05dc8803.jpg",
+        "id": "32"
+      }
+    ],
+    "answer": "O",
+    "meta": {
+      "batch_id": 5,
+      "query_size": 2,
+      "max_query_size": 4
+    }
+  },
+  {
+    "task_id": "IPanda50_MCQ_P4_000006_K2",
+    "query": {
+      "image_paths": [
+        "data/IPanda50/IDs/6/6_-1_44_06_v017_f000705_0c35987f10ed0112.jpg",
+        "data/IPanda50/IDs/6/6_-1_58_06_v019_f000210_4ccf5a8ed2c8b923.jpg"
+      ],
+      "ground_truth_id": "6"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/IPanda50/IDs/6/6_-1_77_06_v021_f002480_34a057ef0dc2fd68.jpg",
+        "id": "6"
+      },
+      {
+        "option": "B",
+        "image_path": "data/IPanda50/IDs/36/36_-1_100_36_v042_f001260_224ff84c737554ff.jpg",
+        "id": "36"
+      },
+      {
+        "option": "C",
+        "image_path": "data/IPanda50/IDs/16/16_-1_22_16_v008_f000655_39304ae84032f6f8.jpg",
+        "id": "16"
+      },
+      {
+        "option": "D",
+        "image_path": "data/IPanda50/IDs/0/0_-1_254_00_v162_f003040_d939165537e7c541.jpg",
+        "id": "0"
+      },
+      {
+        "option": "E",
+        "image_path": "data/IPanda50/IDs/2/2_-1_105_02_v021_f000150_fb8e384ba5bf5f28.jpg",
+        "id": "2"
+      },
+      {
+        "option": "F",
+        "image_path": "data/IPanda50/IDs/32/32_-1_133_32_v033_f003010_303ac04423924ffe.jpg",
+        "id": "32"
+      },
+      {
+        "option": "G",
+        "image_path": "data/IPanda50/IDs/17/17_-1_145_17_v014_f002440_0557e3e7c208f34c.jpg",
+        "id": "17"
+      },
+      {
+        "option": "H",
+        "image_path": "data/IPanda50/IDs/20/20_-1_104_20_v016_f000930_6c5e7fcb5756886a.jpg",
+        "id": "20"
+      },
+      {
+        "option": "I",
+        "image_path": "data/IPanda50/IDs/44/44_-1_80_44_v027_f000010_7251523738941456.jpg",
+        "id": "44"
+      },
+      {
+        "option": "J",
+        "image_path": "data/IPanda50/IDs/41/41_-1_150_41_v064_f000695_d266390c294522aa.jpg",
+        "id": "41"
+      },
+      {
+        "option": "K",
+        "image_path": "data/IPanda50/IDs/23/23_-1_116_23_v026_f010185_63e6833e1898fa9f.jpg",
+        "id": "23"
+      },
+      {
+        "option": "L",
+        "image_path": "data/IPanda50/IDs/19/19_-1_168_19_v056_f001190_2fe29f043189a841.jpg",
+        "id": "19"
+      },
+      {
+        "option": "M",
+        "image_path": "data/IPanda50/IDs/22/22_-1_27_22_v005_f006565_4531526bb6fce52f.jpg",
+        "id": "22"
+      },
+      {
+        "option": "N",
+        "image_path": "data/IPanda50/IDs/10/10_-1_120_10_v046_f001140_0b9337d714205ff0.jpg",
+        "id": "10"
+      },
+      {
+        "option": "O",
+        "image_path": "data/IPanda50/IDs/48/48_-1_110_48_v073_f001185_f64847a60b0562ba.jpg",
+        "id": "48"
+      },
+      {
+        "option": "P",
+        "image_path": "data/IPanda50/IDs/30/30_-1_44_30_v004_f003575_4d2f8af1fa3a44e1.jpg",
+        "id": "30"
+      },
+      {
+        "option": "Q",
+        "image_path": "data/IPanda50/IDs/25/25_-1_62_25_v035_f000305_87c91b90759573a5.jpg",
+        "id": "25"
+      },
+      {
+        "option": "R",
+        "image_path": "data/IPanda50/IDs/35/35_-1_47_35_v016_f000195_9e240ed0b6cf0f8c.jpg",
+        "id": "35"
+      },
+      {
+        "option": "S",
+        "image_path": "data/IPanda50/IDs/38/38_-1_21_38_v010_f000830_ae1b46e1044495e1.jpg",
+        "id": "38"
+      },
+      {
+        "option": "T",
+        "image_path": "data/IPanda50/IDs/21/21_-1_38_21_v013_f000815_cf8c277013be5e26.jpg",
+        "id": "21"
+      },
+      {
+        "option": "U",
+        "image_path": "data/IPanda50/IDs/31/31_-1_38_31_v005_f003705_3ac214ecb7a3da68.jpg",
+        "id": "31"
+      },
+      {
+        "option": "V",
+        "image_path": "data/IPanda50/IDs/3/3_-1_67_03_v011_f000105_2b2ef21360dde4c8.jpg",
+        "id": "3"
+      },
+      {
+        "option": "W",
+        "image_path": "data/IPanda50/IDs/28/28_-1_42_28_v012_f001980_96fe6f03977e3bba.jpg",
+        "id": "28"
+      },
+      {
+        "option": "X",
+        "image_path": "data/IPanda50/IDs/33/33_-1_66_33_v052_f003485_75a7942250111444.jpg",
+        "id": "33"
+      },
+      {
+        "option": "Y",
+        "image_path": "data/IPanda50/IDs/47/47_-1_206_47_v253_f002295_f98d90d1afeb2437.jpg",
+        "id": "47"
+      },
+      {
+        "option": "Z",
+        "image_path": "data/IPanda50/IDs/40/40_-1_59_40_v107_f004930_c163df49c4541f0c.jpg",
+        "id": "40"
+      },
+      {
+        "option": "[",
+        "image_path": "data/IPanda50/IDs/14/14_-1_21_14_v004_f001480_d01158dbfd4b83b2.jpg",
+        "id": "14"
+      },
+      {
+        "option": "\\",
+        "image_path": "data/IPanda50/IDs/26/26_-1_196_26_v121_f001160_c6bb93c0b77681a9.jpg",
+        "id": "26"
+      },
+      {
+        "option": "]",
+        "image_path": "data/IPanda50/IDs/13/13_-1_208_13_v068_f001230_18c72b75a2f7a261.jpg",
+        "id": "13"
+      },
+      {
+        "option": "^",
+        "image_path": "data/IPanda50/IDs/43/43_-1_1_43_v001_f000545_060a5b8ddf99c0b8.jpg",
+        "id": "43"
+      },
+      {
+        "option": "_",
+        "image_path": "data/IPanda50/IDs/46/46_-1_6_46_v003_f000905_f0f0aa8a264068a6.jpg",
+        "id": "46"
+      },
+      {
+        "option": "`",
+        "image_path": "data/IPanda50/IDs/27/27_-1_17_27_v007_f002985_6fa2fa5cbb1ef0ba.jpg",
+        "id": "27"
+      }
+    ],
+    "answer": "A",
+    "meta": {
+      "batch_id": 6,
+      "query_size": 2,
+      "max_query_size": 4
+    }
+  },
+  {
+    "task_id": "IPanda50_MCQ_P4_000007_K2",
+    "query": {
+      "image_paths": [
+        "data/IPanda50/IDs/12/12_-1_25_12_v003_f004260_9f2ebcfa3f4002c2.jpg",
+        "data/IPanda50/IDs/12/12_-1_5_12_20180214-090000___2175_3da27cbdd5c56db8.jpg"
+      ],
+      "ground_truth_id": "12"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/IPanda50/IDs/20/20_-1_102_20_v016_f000705_11fbe15506c05b65.jpg",
+        "id": "20"
+      },
+      {
+        "option": "B",
+        "image_path": "data/IPanda50/IDs/39/39_-1_78_39_v014_f003030_850f84e0a777f0cc.jpg",
+        "id": "39"
+      },
+      {
+        "option": "C",
+        "image_path": "data/IPanda50/IDs/18/18_-1_34_18_v011_f000525_d56bf44c694be3c4.jpg",
+        "id": "18"
+      },
+      {
+        "option": "D",
+        "image_path": "data/IPanda50/IDs/46/46_-1_84_46_v027_f000005_6c742e1929924e5f.jpg",
+        "id": "46"
+      },
+      {
+        "option": "E",
+        "image_path": "data/IPanda50/IDs/13/13_-1_225_13_v073_f000435_c499def83a570b7d.jpg",
+        "id": "13"
+      },
+      {
+        "option": "F",
+        "image_path": "data/IPanda50/IDs/22/22_-1_178_22_v034_f001020_96be850c1d8d9ab1.jpg",
+        "id": "22"
+      },
+      {
+        "option": "G",
+        "image_path": "data/IPanda50/IDs/6/6_-1_30_06_v014_f000055_d3083460f2eb80a9.jpg",
+        "id": "6"
+      },
+      {
+        "option": "H",
+        "image_path": "data/IPanda50/IDs/4/4_-1_42_04_v003_f002925_bcd26b6a87513c9c.jpg",
+        "id": "4"
+      },
+      {
+        "option": "I",
+        "image_path": "data/IPanda50/IDs/5/5_-1_63_05_20160728-112100___4230_1028d0c2b4505376.jpg",
+        "id": "5"
+      },
+      {
+        "option": "J",
+        "image_path": "data/IPanda50/IDs/36/36_-1_26_36_v017_f000085_fa5d0c3531308f77.jpg",
+        "id": "36"
+      },
+      {
+        "option": "K",
+        "image_path": "data/IPanda50/IDs/35/35_-1_105_35_v031_f000005_de1fcccbef3cd9de.jpg",
+        "id": "35"
+      },
+      {
+        "option": "L",
+        "image_path": "data/IPanda50/IDs/40/40_-1_86_40_v202_f000001_58b4a533d4380925.jpg",
+        "id": "40"
+      },
+      {
+        "option": "M",
+        "image_path": "data/IPanda50/IDs/33/33_-1_59_33_v043_f000110_0ab2084b1aa6b984.jpg",
+        "id": "33"
+      },
+      {
+        "option": "N",
+        "image_path": "data/IPanda50/IDs/47/47_-1_199_47_v229_f002550_583511ac97e81f6b.jpg",
+        "id": "47"
+      },
+      {
+        "option": "O",
+        "image_path": "data/IPanda50/IDs/11/11_-1_35_11_v011_f001305_af2396d3fc82a650.jpg",
+        "id": "11"
+      },
+      {
+        "option": "P",
+        "image_path": "data/IPanda50/IDs/25/25_-1_29_25_v017_f000335_d80ccf079657e06d.jpg",
+        "id": "25"
+      },
+      {
+        "option": "Q",
+        "image_path": "data/IPanda50/IDs/0/0_-1_200_00_v127_f003290_2788764afff9de17.jpg",
+        "id": "0"
+      },
+      {
+        "option": "R",
+        "image_path": "data/IPanda50/IDs/34/34_-1_9_34_v004_f001105_75876bbeff504239.jpg",
+        "id": "34"
+      },
+      {
+        "option": "S",
+        "image_path": "data/IPanda50/IDs/12/12_-1_17_12_v003_f000705_05644146e29e3f34.jpg",
+        "id": "12"
+      },
+      {
+        "option": "T",
+        "image_path": "data/IPanda50/IDs/31/31_-1_24_31_v004_f003255_8f3d986e8d045367.jpg",
+        "id": "31"
+      },
+      {
+        "option": "U",
+        "image_path": "data/IPanda50/IDs/1/1_-1_38_01_v006_f000580_59473660cc20f6db.jpg",
+        "id": "1"
+      },
+      {
+        "option": "V",
+        "image_path": "data/IPanda50/IDs/42/42_-1_10_42_v004_f000685_16524f075b0e38a0.jpg",
+        "id": "42"
+      },
+      {
+        "option": "W",
+        "image_path": "data/IPanda50/IDs/27/27_-1_80_27_v019_f000695_4e9424211d713dd8.jpg",
+        "id": "27"
+      },
+      {
+        "option": "X",
+        "image_path": "data/IPanda50/IDs/21/21_-1_54_21_v020_f000340_f35951236cd540de.jpg",
+        "id": "21"
+      },
+      {
+        "option": "Y",
+        "image_path": "data/IPanda50/IDs/26/26_-1_75_26_v037_f003940_5948291e65f79a15.jpg",
+        "id": "26"
+      },
+      {
+        "option": "Z",
+        "image_path": "data/IPanda50/IDs/9/9_-1_15_09_v003_f001105_9d6a1e5be76962e5.jpg",
+        "id": "9"
+      },
+      {
+        "option": "[",
+        "image_path": "data/IPanda50/IDs/49/49_-1_17_49_20150403-094000____2335_9a036d5670fded48.jpg",
+        "id": "49"
+      },
+      {
+        "option": "\\",
+        "image_path": "data/IPanda50/IDs/7/7_-1_12_07_v002_f000420_59666c45a7194f0a.jpg",
+        "id": "7"
+      },
+      {
+        "option": "]",
+        "image_path": "data/IPanda50/IDs/29/29_-1_9_29_v003_f000015_efd6c9248ee6d23d.jpg",
+        "id": "29"
+      },
+      {
+        "option": "^",
+        "image_path": "data/IPanda50/IDs/2/2_-1_44_02_v013_f001330_95e60ee187fcdca1.jpg",
+        "id": "2"
+      },
+      {
+        "option": "_",
+        "image_path": "data/IPanda50/IDs/23/23_-1_77_23_v021_f000440_90b65c6aeebe06b1.jpg",
+        "id": "23"
+      },
+      {
+        "option": "`",
+        "image_path": "data/IPanda50/IDs/44/44_-1_119_44_v038_f000755_915b5aca79e11f00.jpg",
+        "id": "44"
+      }
+    ],
+    "answer": "S",
+    "meta": {
+      "batch_id": 7,
+      "query_size": 2,
+      "max_query_size": 4
+    }
+  },
+  {
+    "task_id": "IPanda50_MCQ_P4_000008_K2",
+    "query": {
+      "image_paths": [
+        "data/IPanda50/IDs/36/36_-1_90_36_v040_f001935_cf744af8d0f9cb2c.jpg",
+        "data/IPanda50/IDs/36/36_-1_126_36_v046_f002705_b7587ebff6accb96.jpg"
+      ],
+      "ground_truth_id": "36"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/IPanda50/IDs/17/17_-1_26_17_v002_f002930_71a24ed833794dad.jpg",
+        "id": "17"
+      },
+      {
+        "option": "B",
+        "image_path": "data/IPanda50/IDs/46/46_-1_63_46_v020_f002160_c8fed901ea8e05a2.jpg",
+        "id": "46"
+      },
+      {
+        "option": "C",
+        "image_path": "data/IPanda50/IDs/11/11_-1_68_11_v027_f000265_1b3e379c15af766f.jpg",
+        "id": "11"
+      },
+      {
+        "option": "D",
+        "image_path": "data/IPanda50/IDs/30/30_-1_72_30_v007_f001170_f6d6829a167eff45.jpg",
+        "id": "30"
+      },
+      {
+        "option": "E",
+        "image_path": "data/IPanda50/IDs/48/48_-1_91_48_v062_f000050_93d32c0bdc3a72ac.jpg",
+        "id": "48"
+      },
+      {
+        "option": "F",
+        "image_path": "data/IPanda50/IDs/1/1_-1_13_01_v002_f000915_7a5c54cc91b0b80d.jpg",
+        "id": "1"
+      },
+      {
+        "option": "G",
+        "image_path": "data/IPanda50/IDs/8/8_-1_47_08_v003_f001415_62677cc588817a40.jpg",
+        "id": "8"
+      },
+      {
+        "option": "H",
+        "image_path": "data/IPanda50/IDs/44/44_-1_43_44_v017_f000525_21d3b4f76b854fb6.jpg",
+        "id": "44"
+      },
+      {
+        "option": "I",
+        "image_path": "data/IPanda50/IDs/2/2_-1_31_02_v009_f001195_3a472e34f05ee2c9.jpg",
+        "id": "2"
+      },
+      {
+        "option": "J",
+        "image_path": "data/IPanda50/IDs/22/22_-1_64_22_v010_f004100_15221f2adda11696.jpg",
+        "id": "22"
+      },
+      {
+        "option": "K",
+        "image_path": "data/IPanda50/IDs/25/25_-1_27_25_v015_f000680_8f9143ab301d2c9f.jpg",
+        "id": "25"
+      },
+      {
+        "option": "L",
+        "image_path": "data/IPanda50/IDs/14/14_-1_29_14_v008_f000085_eaba06c228b9a989.jpg",
+        "id": "14"
+      },
+      {
+        "option": "M",
+        "image_path": "data/IPanda50/IDs/43/43_-1_7_43_v004_f000005_def503959655ce44.jpg",
+        "id": "43"
+      },
+      {
+        "option": "N",
+        "image_path": "data/IPanda50/IDs/29/29_-1_51_29_v008_f001060_b519bd9154288285.jpg",
+        "id": "29"
+      },
+      {
+        "option": "O",
+        "image_path": "data/IPanda50/IDs/12/12_-1_47_12_v007_f005125_2026b38d0bfbe6e4.jpg",
+        "id": "12"
+      },
+      {
+        "option": "P",
+        "image_path": "data/IPanda50/IDs/47/47_-1_1_47_v001_f000150_3326cb84bbe5740e.jpg",
+        "id": "47"
+      },
+      {
+        "option": "Q",
+        "image_path": "data/IPanda50/IDs/9/9_-1_156_09_v025_f000155_a5002491c201d73f.jpg",
+        "id": "9"
+      },
+      {
+        "option": "R",
+        "image_path": "data/IPanda50/IDs/33/33_-1_57_33_v040_f001250_8f71f1121bb00539.jpg",
+        "id": "33"
+      },
+      {
+        "option": "S",
+        "image_path": "data/IPanda50/IDs/28/28_-1_181_28_v077_f000215_90af2f1e79ef7b77.jpg",
+        "id": "28"
+      },
+      {
+        "option": "T",
+        "image_path": "data/IPanda50/IDs/36/36_-1_22_36_v015_f001450_24ddaf7c6c79e43b.jpg",
+        "id": "36"
+      },
+      {
+        "option": "U",
+        "image_path": "data/IPanda50/IDs/20/20_-1_44_20_v004_f005055_d765ccd9cfb2f7e3.jpg",
+        "id": "20"
+      },
+      {
+        "option": "V",
+        "image_path": "data/IPanda50/IDs/24/24_-1_36_24_v005_f000005_1e32a5d26cb7b299.jpg",
+        "id": "24"
+      },
+      {
+        "option": "W",
+        "image_path": "data/IPanda50/IDs/42/42_-1_56_42_v021_f001335_43eb8db5cec641d7.jpg",
+        "id": "42"
+      },
+      {
+        "option": "X",
+        "image_path": "data/IPanda50/IDs/32/32_-1_162_32_v049_f000595_a09b668d03aaed42.jpg",
+        "id": "32"
+      },
+      {
+        "option": "Y",
+        "image_path": "data/IPanda50/IDs/31/31_-1_85_31_v008_f000750_0645a1e6a4ecab49.jpg",
+        "id": "31"
+      },
+      {
+        "option": "Z",
+        "image_path": "data/IPanda50/IDs/7/7_-1_25_07_v005_f001795_1d387e9a7c54bc22.jpg",
+        "id": "7"
+      },
+      {
+        "option": "[",
+        "image_path": "data/IPanda50/IDs/45/45_-1_65_45_v015_f001605_a223aadccb478de1.jpg",
+        "id": "45"
+      },
+      {
+        "option": "\\",
+        "image_path": "data/IPanda50/IDs/18/18_-1_38_18_v011_f000685_a258c2ba7fbc1556.jpg",
+        "id": "18"
+      },
+      {
+        "option": "]",
+        "image_path": "data/IPanda50/IDs/26/26_-1_1_26_v003_f000655_bf850aa26eb19082.jpg",
+        "id": "26"
+      },
+      {
+        "option": "^",
+        "image_path": "data/IPanda50/IDs/6/6_-1_78_06_v021_f002505_d3441f4bb9845b52.jpg",
+        "id": "6"
+      },
+      {
+        "option": "_",
+        "image_path": "data/IPanda50/IDs/19/19_-1_149_19_v052_f001470_a2d96f8a0b699e25.jpg",
+        "id": "19"
+      },
+      {
+        "option": "`",
+        "image_path": "data/IPanda50/IDs/15/15_-1_102_15_v013_f000705_7c81aa4c6255c364.jpg",
+        "id": "15"
+      }
+    ],
+    "answer": "T",
+    "meta": {
+      "batch_id": 8,
+      "query_size": 2,
+      "max_query_size": 4
+    }
+  },
+  {
+    "task_id": "IPanda50_MCQ_P4_000009_K2",
+    "query": {
+      "image_paths": [
+        "data/IPanda50/IDs/37/37_-1_155_37_v040_f000560_c248125c30b400b4.jpg",
+        "data/IPanda50/IDs/37/37_-1_63_37_v015_f000930_99f569aeb387b77a.jpg"
+      ],
+      "ground_truth_id": "37"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/IPanda50/IDs/33/33_-1_42_33_v026_f000540_ee61543e60259c06.jpg",
+        "id": "33"
+      },
+      {
+        "option": "B",
+        "image_path": "data/IPanda50/IDs/37/37_-1_22_37_v007_f000070_c5a8604f75771def.jpg",
+        "id": "37"
+      },
+      {
+        "option": "C",
+        "image_path": "data/IPanda50/IDs/28/28_-1_158_28_v064_f001600_efca6f1e585f7439.jpg",
+        "id": "28"
+      },
+      {
+        "option": "D",
+        "image_path": "data/IPanda50/IDs/16/16_-1_110_16_v040_f000130_4d08daf351d26552.jpg",
+        "id": "16"
+      },
+      {
+        "option": "E",
+        "image_path": "data/IPanda50/IDs/41/41_-1_70_41_v027_f001475_28750b63bb45f7f2.jpg",
+        "id": "41"
+      },
+      {
+        "option": "F",
+        "image_path": "data/IPanda50/IDs/18/18_-1_26_18_v009_f000905_44e743c8e3edc6d7.jpg",
+        "id": "18"
+      },
+      {
+        "option": "G",
+        "image_path": "data/IPanda50/IDs/42/42_-1_15_42_v005_f001810_fb7bf64d84e448e6.jpg",
+        "id": "42"
+      },
+      {
+        "option": "H",
+        "image_path": "data/IPanda50/IDs/8/8_-1_49_08_v003_f001745_115edf9c805393a6.jpg",
+        "id": "8"
+      },
+      {
+        "option": "I",
+        "image_path": "data/IPanda50/IDs/29/29_-1_25_29_v005_f000005_bea443f4444804f3.jpg",
+        "id": "29"
+      },
+      {
+        "option": "J",
+        "image_path": "data/IPanda50/IDs/24/24_-1_1_24_20151227-154140__1_330_205f4c327235cc4e.jpg",
+        "id": "24"
+      },
+      {
+        "option": "K",
+        "image_path": "data/IPanda50/IDs/31/31_-1_15_31_v004_f000360_eda67f78f300360b.jpg",
+        "id": "31"
+      },
+      {
+        "option": "L",
+        "image_path": "data/IPanda50/IDs/17/17_-1_144_17_v014_f001370_05f597aa2673df4e.jpg",
+        "id": "17"
+      },
+      {
+        "option": "M",
+        "image_path": "data/IPanda50/IDs/49/49_-1_37_49_v009_f000001_878230f995dc20e9.jpg",
+        "id": "49"
+      },
+      {
+        "option": "N",
+        "image_path": "data/IPanda50/IDs/36/36_-1_97_36_v042_f000355_a8512d306dd766af.jpg",
+        "id": "36"
+      },
+      {
+        "option": "O",
+        "image_path": "data/IPanda50/IDs/45/45_-1_10_45_v002_f000805_ebea00161d09d248.jpg",
+        "id": "45"
+      },
+      {
+        "option": "P",
+        "image_path": "data/IPanda50/IDs/4/4_-1_46_04_v004_f000635_d07015c02f1e3949.jpg",
+        "id": "4"
+      },
+      {
+        "option": "Q",
+        "image_path": "data/IPanda50/IDs/22/22_-1_183_22_v036_f000475_eecd7cebbee05789.jpg",
+        "id": "22"
+      },
+      {
+        "option": "R",
+        "image_path": "data/IPanda50/IDs/38/38_-1_24_38_v011_f001680_5e57d14692eca633.jpg",
+        "id": "38"
+      },
+      {
+        "option": "S",
+        "image_path": "data/IPanda50/IDs/15/15_-1_165_15_v026_f000955_3fbb363ab91ba6b5.jpg",
+        "id": "15"
+      },
+      {
+        "option": "T",
+        "image_path": "data/IPanda50/IDs/5/5_-1_65_05_20160730-075820_1__125_094a0eef60098f21.jpg",
+        "id": "5"
+      },
+      {
+        "option": "U",
+        "image_path": "data/IPanda50/IDs/35/35_-1_167_35_v051_f000495_3959072505961aba.jpg",
+        "id": "35"
+      },
+      {
+        "option": "V",
+        "image_path": "data/IPanda50/IDs/43/43_-1_5_43_v003_f000005_2ac2c9b628551d4d.jpg",
+        "id": "43"
+      },
+      {
+        "option": "W",
+        "image_path": "data/IPanda50/IDs/47/47_-1_231_47_v319_f000025_f4dd2e855d130b5c.jpg",
+        "id": "47"
+      },
+      {
+        "option": "X",
+        "image_path": "data/IPanda50/IDs/27/27_-1_102_27_v028_f001460_d4938f2e8e095551.jpg",
+        "id": "27"
+      },
+      {
+        "option": "Y",
+        "image_path": "data/IPanda50/IDs/13/13_-1_79_13_v023_f001805_f7249ef6d324d1e0.jpg",
+        "id": "13"
+      },
+      {
+        "option": "Z",
+        "image_path": "data/IPanda50/IDs/14/14_-1_88_14_v019_f001590_cabd30788831b7b8.jpg",
+        "id": "14"
+      },
+      {
+        "option": "[",
+        "image_path": "data/IPanda50/IDs/3/3_-1_14_03_v002_f000005_0a085f5fcecae786.jpg",
+        "id": "3"
+      },
+      {
+        "option": "\\",
+        "image_path": "data/IPanda50/IDs/48/48_-1_165_48_v115_f000825_697f25024b938f67.jpg",
+        "id": "48"
+      },
+      {
+        "option": "]",
+        "image_path": "data/IPanda50/IDs/21/21_-1_36_21_v012_f002150_66eb07f8f0ab6151.jpg",
+        "id": "21"
+      },
+      {
+        "option": "^",
+        "image_path": "data/IPanda50/IDs/11/11_-1_41_11_v011_f002575_376230073a6c5f1b.jpg",
+        "id": "11"
+      },
+      {
+        "option": "_",
+        "image_path": "data/IPanda50/IDs/6/6_-1_60_06_v019_f000390_4823e79715ac9948.jpg",
+        "id": "6"
+      },
+      {
+        "option": "`",
+        "image_path": "data/IPanda50/IDs/26/26_-1_16_26_v013_f009010_769cbe7cb6731e7f.jpg",
+        "id": "26"
+      }
+    ],
+    "answer": "B",
+    "meta": {
+      "batch_id": 9,
+      "query_size": 2,
+      "max_query_size": 4
+    }
+  },
+  {
+    "task_id": "IPanda50_MCQ_P4_000010_K2",
+    "query": {
+      "image_paths": [
+        "data/IPanda50/IDs/44/44_-1_97_44_v031_f004610_a50a4a20ca67a951.jpg",
+        "data/IPanda50/IDs/44/44_-1_90_44_v029_f000290_ded7e9556879d299.jpg"
+      ],
+      "ground_truth_id": "44"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/IPanda50/IDs/44/44_-1_137_44_v045_f002540_320e34421f3587d4.jpg",
+        "id": "44"
+      },
+      {
+        "option": "B",
+        "image_path": "data/IPanda50/IDs/46/46_-1_12_46_v006_f001995_697aa9aab7b8c344.jpg",
+        "id": "46"
+      },
+      {
+        "option": "C",
+        "image_path": "data/IPanda50/IDs/12/12_-1_13_12_v001_f000730_a154a45102b1bd8e.jpg",
+        "id": "12"
+      },
+      {
+        "option": "D",
+        "image_path": "data/IPanda50/IDs/21/21_-1_23_21_v005_f001010_d1bc6e0dad314940.jpg",
+        "id": "21"
+      },
+      {
+        "option": "E",
+        "image_path": "data/IPanda50/IDs/19/19_-1_232_19_v098_f000275_e9613dbc5200f727.jpg",
+        "id": "19"
+      },
+      {
+        "option": "F",
+        "image_path": "data/IPanda50/IDs/11/11_-1_26_11_v010_f002095_dfe78939a46bec52.jpg",
+        "id": "11"
+      },
+      {
+        "option": "G",
+        "image_path": "data/IPanda50/IDs/47/47_-1_120_47_v073_f000855_034854c6a90b88e3.jpg",
+        "id": "47"
+      },
+      {
+        "option": "H",
+        "image_path": "data/IPanda50/IDs/10/10_-1_72_10_v020_f000350_45c625962d19f44e.jpg",
+        "id": "10"
+      },
+      {
+        "option": "I",
+        "image_path": "data/IPanda50/IDs/34/34_-1_67_34_v022_f000260_1c8a0a4789c4363c.jpg",
+        "id": "34"
+      },
+      {
+        "option": "J",
+        "image_path": "data/IPanda50/IDs/20/20_-1_53_20_v005_f000145_f51bb1c33bdd6ec4.jpg",
+        "id": "20"
+      },
+      {
+        "option": "K",
+        "image_path": "data/IPanda50/IDs/22/22_-1_25_22_v005_f005930_f55d074222ca556a.jpg",
+        "id": "22"
+      },
+      {
+        "option": "L",
+        "image_path": "data/IPanda50/IDs/15/15_-1_138_15_v019_f000750_fd9fc0f7e4978269.jpg",
+        "id": "15"
+      },
+      {
+        "option": "M",
+        "image_path": "data/IPanda50/IDs/31/31_-1_68_31_v007_f000945_048db2a6421bd587.jpg",
+        "id": "31"
+      },
+      {
+        "option": "N",
+        "image_path": "data/IPanda50/IDs/16/16_-1_89_16_v035_f000125_3f579fbe1df3ef78.jpg",
+        "id": "16"
+      },
+      {
+        "option": "O",
+        "image_path": "data/IPanda50/IDs/40/40_-1_47_40_v079_f004470_64f7212b8d82e64e.jpg",
+        "id": "40"
+      },
+      {
+        "option": "P",
+        "image_path": "data/IPanda50/IDs/38/38_-1_14_38_v007_f001120_56cc444f2d91b03c.jpg",
+        "id": "38"
+      },
+      {
+        "option": "Q",
+        "image_path": "data/IPanda50/IDs/24/24_-1_5_24_20160613-104040__1_828c7a89cdd0bc5c.jpg",
+        "id": "24"
+      },
+      {
+        "option": "R",
+        "image_path": "data/IPanda50/IDs/39/39_-1_5_39_v003_f000005_24b9954b2d099818.jpg",
+        "id": "39"
+      },
+      {
+        "option": "S",
+        "image_path": "data/IPanda50/IDs/43/43_-1_24_43_v011_f000455_201e65f15650e73c.jpg",
+        "id": "43"
+      },
+      {
+        "option": "T",
+        "image_path": "data/IPanda50/IDs/25/25_-1_44_25_v022_f001245_ff0e04d1a00737eb.jpg",
+        "id": "25"
+      },
+      {
+        "option": "U",
+        "image_path": "data/IPanda50/IDs/35/35_-1_200_35_v066_f002695_a54c9b24845caad6.jpg",
+        "id": "35"
+      },
+      {
+        "option": "V",
+        "image_path": "data/IPanda50/IDs/28/28_-1_225_28_v101_f003820_1d60a3de3732c47f.jpg",
+        "id": "28"
+      },
+      {
+        "option": "W",
+        "image_path": "data/IPanda50/IDs/27/27_-1_66_27_v017_f001415_27e887a70ecde93e.jpg",
+        "id": "27"
+      },
+      {
+        "option": "X",
+        "image_path": "data/IPanda50/IDs/14/14_-1_113_14_v025_f000105_bae8a3fae7715b28.jpg",
+        "id": "14"
+      },
+      {
+        "option": "Y",
+        "image_path": "data/IPanda50/IDs/6/6_-1_36_06_v015_f000845_d2006fff396b8cb4.jpg",
+        "id": "6"
+      },
+      {
+        "option": "Z",
+        "image_path": "data/IPanda50/IDs/7/7_-1_49_07_v007_f001710_fcafcb7853d45b1f.jpg",
+        "id": "7"
+      },
+      {
+        "option": "[",
+        "image_path": "data/IPanda50/IDs/32/32_-1_224_32_v071_f005155_23d98fadfbfa1e0a.jpg",
+        "id": "32"
+      },
+      {
+        "option": "\\",
+        "image_path": "data/IPanda50/IDs/18/18_-1_27_18_v009_f000980_6f2f71f86de08bd9.jpg",
+        "id": "18"
+      },
+      {
+        "option": "]",
+        "image_path": "data/IPanda50/IDs/41/41_-1_97_41_v036_f002910_5c1eecf2dc3eb4bc.jpg",
+        "id": "41"
+      },
+      {
+        "option": "^",
+        "image_path": "data/IPanda50/IDs/36/36_-1_118_36_v045_f000120_5ccb8b29e4ad68f4.jpg",
+        "id": "36"
+      },
+      {
+        "option": "_",
+        "image_path": "data/IPanda50/IDs/4/4_-1_52_04_v006_f001150_c15c60dcf4b12c76.jpg",
+        "id": "4"
+      },
+      {
+        "option": "`",
+        "image_path": "data/IPanda50/IDs/0/0_-1_222_00_v146_f000545_b62d2378bbf9458d.jpg",
+        "id": "0"
+      }
+    ],
+    "answer": "A",
+    "meta": {
+      "batch_id": 10,
+      "query_size": 2,
+      "max_query_size": 4
+    }
+  },
+  {
+    "task_id": "IPanda50_MCQ_P4_000011_K2",
+    "query": {
+      "image_paths": [
+        "data/IPanda50/IDs/8/8_-1_73_08_v007_f002570_3f2cf66a3b96a4c2.jpg",
+        "data/IPanda50/IDs/8/8_-1_1_08_v002_f000185_62b528cc0f4d4ce1.jpg"
+      ],
+      "ground_truth_id": "8"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/IPanda50/IDs/44/44_-1_115_44_v035_f000025_2e56c4472ae97c7d.jpg",
+        "id": "44"
+      },
+      {
+        "option": "B",
+        "image_path": "data/IPanda50/IDs/0/0_-1_52_00_v021_f002550_53fa1c9b1446079a.jpg",
+        "id": "0"
+      },
+      {
+        "option": "C",
+        "image_path": "data/IPanda50/IDs/26/26_-1_217_26_v141_f019995_5362ddc326e0509b.jpg",
+        "id": "26"
+      },
+      {
+        "option": "D",
+        "image_path": "data/IPanda50/IDs/11/11_-1_1_11_v002_f000195_70bcf3b80d767484.jpg",
+        "id": "11"
+      },
+      {
+        "option": "E",
+        "image_path": "data/IPanda50/IDs/47/47_-1_54_47_v045_f001425_5c5398221437aa5d.jpg",
+        "id": "47"
+      },
+      {
+        "option": "F",
+        "image_path": "data/IPanda50/IDs/35/35_-1_227_35_v092_f000670_00ef16e5833c9b5b.jpg",
+        "id": "35"
+      },
+      {
+        "option": "G",
+        "image_path": "data/IPanda50/IDs/20/20_-1_99_20_v015_f002015_7b76cbc1b3ae0c9c.jpg",
+        "id": "20"
+      },
+      {
+        "option": "H",
+        "image_path": "data/IPanda50/IDs/3/3_-1_65_03_v010_f000005_55d8a1345e680dc3.jpg",
+        "id": "3"
+      },
+      {
+        "option": "I",
+        "image_path": "data/IPanda50/IDs/17/17_-1_127_17_v013_f000650_603fe3695fa8c06d.jpg",
+        "id": "17"
+      },
+      {
+        "option": "J",
+        "image_path": "data/IPanda50/IDs/6/6_-1_58_06_v019_f000210_4ccf5a8ed2c8b923.jpg",
+        "id": "6"
+      },
+      {
+        "option": "K",
+        "image_path": "data/IPanda50/IDs/4/4_-1_44_04_v004_f000080_4b77c6f1ed758bbd.jpg",
+        "id": "4"
+      },
+      {
+        "option": "L",
+        "image_path": "data/IPanda50/IDs/34/34_-1_62_34_v017_f002255_96b258e2584834ed.jpg",
+        "id": "34"
+      },
+      {
+        "option": "M",
+        "image_path": "data/IPanda50/IDs/13/13_-1_203_13_v068_f000720_76abf1d5b0c8525c.jpg",
+        "id": "13"
+      },
+      {
+        "option": "N",
+        "image_path": "data/IPanda50/IDs/16/16_-1_50_16_v019_f000570_900e74ba6e24548b.jpg",
+        "id": "16"
+      },
+      {
+        "option": "O",
+        "image_path": "data/IPanda50/IDs/2/2_-1_81_02_v017_f002360_a95a9958c09ce9af.jpg",
+        "id": "2"
+      },
+      {
+        "option": "P",
+        "image_path": "data/IPanda50/IDs/25/25_-1_43_25_v022_f001135_2c0cd25412ef258a.jpg",
+        "id": "25"
+      },
+      {
+        "option": "Q",
+        "image_path": "data/IPanda50/IDs/22/22_-1_32_22_v007_f000680_641c0a94641aef40.jpg",
+        "id": "22"
+      },
+      {
+        "option": "R",
+        "image_path": "data/IPanda50/IDs/24/24_-1_6_24_20160613-104040__355_ea0dc21c4d711ca4.jpg",
+        "id": "24"
+      },
+      {
+        "option": "S",
+        "image_path": "data/IPanda50/IDs/38/38_-1_54_38_v019_f000650_56cdfaf1a978404b.jpg",
+        "id": "38"
+      },
+      {
+        "option": "T",
+        "image_path": "data/IPanda50/IDs/9/9_-1_2_09_v001_f000465_414c35cb88359525.jpg",
+        "id": "9"
+      },
+      {
+        "option": "U",
+        "image_path": "data/IPanda50/IDs/27/27_-1_35_27_v012_f001460_20ec0a826dd71385.jpg",
+        "id": "27"
+      },
+      {
+        "option": "V",
+        "image_path": "data/IPanda50/IDs/15/15_-1_126_15_v017_f000175_d5d5692895ff0aab.jpg",
+        "id": "15"
+      },
+      {
+        "option": "W",
+        "image_path": "data/IPanda50/IDs/29/29_-1_33_29_v006_f002885_54149610f41434f0.jpg",
+        "id": "29"
+      },
+      {
+        "option": "X",
+        "image_path": "data/IPanda50/IDs/37/37_-1_133_37_v036_f000005_252028cf90185921.jpg",
+        "id": "37"
+      },
+      {
+        "option": "Y",
+        "image_path": "data/IPanda50/IDs/40/40_-1_69_40_v146_f000430_b99be0c7eb0c5d78.jpg",
+        "id": "40"
+      },
+      {
+        "option": "Z",
+        "image_path": "data/IPanda50/IDs/32/32_-1_156_32_v048_f000235_fe4775353a47b386.jpg",
+        "id": "32"
+      },
+      {
+        "option": "[",
+        "image_path": "data/IPanda50/IDs/46/46_-1_41_46_v012_f000565_9002e17f6233f40a.jpg",
+        "id": "46"
+      },
+      {
+        "option": "\\",
+        "image_path": "data/IPanda50/IDs/39/39_-1_31_39_v007_f000405_16901210d2440fef.jpg",
+        "id": "39"
+      },
+      {
+        "option": "]",
+        "image_path": "data/IPanda50/IDs/21/21_-1_27_21_v008_f000005_4e030ecf9e1aa43a.jpg",
+        "id": "21"
+      },
+      {
+        "option": "^",
+        "image_path": "data/IPanda50/IDs/8/8_-1_24_08_v002_f002300_710d9d4897ab7f31.jpg",
+        "id": "8"
+      },
+      {
+        "option": "_",
+        "image_path": "data/IPanda50/IDs/41/41_-1_130_41_v052_f000460_794723882f97cf75.jpg",
+        "id": "41"
+      },
+      {
+        "option": "`",
+        "image_path": "data/IPanda50/IDs/31/31_-1_64_31_v006_f002090_88849ff979e7d348.jpg",
+        "id": "31"
+      }
+    ],
+    "answer": "^",
+    "meta": {
+      "batch_id": 11,
+      "query_size": 2,
+      "max_query_size": 4
+    }
+  }
+]

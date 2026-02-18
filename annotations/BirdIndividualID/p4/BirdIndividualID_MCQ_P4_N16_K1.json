@@ -1,0 +1,99 @@
+[
+  {
+    "task_id": "BirdIndividualID_MCQ_P4_000001_K1",
+    "query": {
+      "image_paths": [
+        "data/BirdIndividualID/IDs/4/4_-1_24_011017686F_2019-08-26_09-53-15_079df81ff24bd647.jpg"
+      ],
+      "ground_truth_id": "4"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_29_011017897F_2019-08-25_11-49-17_f38b5568c4c8b38c.jpg",
+        "id": "5"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/25/25_-1_34_179_2019-08-24_13-44-48_efa47f8b004148a1.jpg",
+        "id": "25"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_12_0110178989_2019-08-23_18-00-33_7ef740b06b48d145.jpg",
+        "id": "9"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/21/21_-1_41_103_2019-08-24_18-37-04_378d1c331d0f7c0f.jpg",
+        "id": "21"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_35__L_0417D30D92_2018-12-11_13-55-58_108b672424971e70.jpg",
+        "id": "10"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_14__H_0700EE16B2_2018-12-14_10-07-11_c41e8d6dafa1a81a.jpg",
+        "id": "18"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/20/20_-1_49_098_2019-08-22_20-20-40_f21e9a3fb5dda0a5.jpg",
+        "id": "20"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_0_0700EDDCC4_2018-11-23_10-06-39_6a7dc560b3ca7bcf.jpg",
+        "id": "16"
+      },
+      {
+        "option": "I",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_44_011017686F_2019-08-29_11-57-16_c62e4376ec13b01d.jpg",
+        "id": "4"
+      },
+      {
+        "option": "J",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_43__L_0700ED87AE_2018-12-14_15-46-54_497872234124291a.jpg",
+        "id": "11"
+      },
+      {
+        "option": "K",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_59_007_2019-08-24_17-34-08_38d048971da56041.jpg",
+        "id": "19"
+      },
+      {
+        "option": "L",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_27_130_2019-08-20_19-26-36_2f6b650de5b45957.jpg",
+        "id": "23"
+      },
+      {
+        "option": "M",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_25_0700EDDAE6_2018-12-10_11-15-19_0574c60b84f28458.jpg",
+        "id": "14"
+      },
+      {
+        "option": "N",
+        "image_path": "data/BirdIndividualID/IDs/0/0_-1_4_0700EDAC58_2019-08-25_12-31-44_5f1f448c466b746a.jpg",
+        "id": "0"
+      },
+      {
+        "option": "O",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_8__H_0700EDDB4E_2018-12-11_15-01-54_891debb5d22c6aca.jpg",
+        "id": "15"
+      },
+      {
+        "option": "P",
+        "image_path": "data/BirdIndividualID/IDs/1/1_-1_22_01101786C5_2019-08-26_13-19-58_a21e8ddea5d0943b.jpg",
+        "id": "1"
+      }
+    ],
+    "answer": "I",
+    "meta": {
+      "batch_id": 1,
+      "query_size": 1,
+      "max_query_size": 4
+    }
+  }
+]
