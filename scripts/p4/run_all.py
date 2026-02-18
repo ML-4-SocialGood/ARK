@@ -10,6 +10,7 @@ def main():
 
     # Path to the scripts we want to run
     generate_script = os.path.join(project_root, "scripts", "p4", "generate_dataset.py")
+    analyze_script = os.path.join(project_root, "scripts", "p4", "analyze_dataset.py")
 
     # Check if data directory exists
     if not os.path.exists(data_root):
@@ -79,9 +80,30 @@ def main():
                 print(f"    Error generating dataset for {species} (N={N}): {e}")
                 continue
 
-            # Note: Analysis step is skipped here because P4 generates multiple output files
-            # (one for each K value: _K1.json, _K2.json, etc.), making it complex to
-            # map directly to the single-file analyzer used in P1.
+            # --- Step 2: Analyze Dataset (using K=1 as representative) ---
+            # Since P4 generates batches, the distribution of IDs is the same for all K.
+            # We analyze K=1 to get the distribution of unique batches per ID.
+            
+            base_name_k1 = f"{species}_MCQ_P4_N{N}_K1"
+            json_file_k1 = os.path.join(project_root, "annotations", species, "p4", f"{base_name_k1}.json")
+            plot_file = os.path.join(project_root, "annotations", species, "p4", f"{base_name_k1}_distribution.png")
+
+            if os.path.exists(json_file_k1):
+                print(f"    Analyzing dataset statistics (N={N}, K=1)...")
+                analyze_cmd = [
+                    sys.executable,
+                    analyze_script,
+                    "--json_file",
+                    json_file_k1,
+                    "--output_plot",
+                    plot_file,
+                ]
+                try:
+                    subprocess.run(analyze_cmd, check=True)
+                except subprocess.CalledProcessError as e:
+                    print(f"    Error analyzing dataset for {species} (N={N}): {e}")
+            else:
+                 print(f"    Warning: Expected JSON file not found for analysis: {json_file_k1}")
 
     print("\n" + "=" * 60)
     print("All species processed successfully.")
