@@ -76,6 +76,11 @@ def main():
     parser = argparse.ArgumentParser(
         description="Generate Excel Statistics for P1 (I2I) Annotations"
     )
+    
+    # Determine default output path relative to this script
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    default_output = os.path.join(script_dir, "p1_dataset_stats.xlsx")
+
     parser.add_argument(
         "--annotations_dir",
         type=str,
@@ -85,7 +90,7 @@ def main():
     parser.add_argument(
         "--output_file",
         type=str,
-        default="p1_dataset_stats.xlsx",
+        default=default_output,
         help="Path for the output Excel file",
     )
 
