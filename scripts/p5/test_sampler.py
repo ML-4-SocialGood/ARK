@@ -62,7 +62,7 @@ if __name__ == "__main__":
                 # Check 2: Last option should be "None of the above"
                 last_opt = gallery[-1]
                 if last_opt.get("text") == "None of the above":
-                    print(f"[PASS] Last option is 'None of the above'")
+                    print("[PASS] Last option is 'None of the above'")
                 else:
                     print(f"[FAIL] Last option is NOT 'None of the above': {last_opt}")
 
