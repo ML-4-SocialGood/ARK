@@ -11,8 +11,7 @@ def main():
 
     # Scripts
     generate_script = os.path.join(project_root, "scripts", "p5", "generate_dataset.py")
-    # We can reuse the P1 analysis script as the 'query' -> 'ground_truth_id' structure is identical
-    analyze_script = os.path.join(project_root, "scripts", "p1", "analyze_dataset.py")
+    analyze_script = os.path.join(project_root, "scripts", "p5", "analyze_dataset.py")
 
     if not os.path.exists(data_root):
         print(f"Error: Data root directory '{data_root}' not found.")
@@ -72,6 +71,7 @@ def main():
             )
 
             if os.path.exists(json_file):
+                print(f"    Analyzing dataset statistics (N={N})...")
                 analyze_cmd = [
                     sys.executable,
                     analyze_script,
@@ -82,8 +82,8 @@ def main():
                 ]
                 try:
                     subprocess.run(analyze_cmd, check=True)
-                except subprocess.CalledProcessError:
-                    print(f"    Warning: Analysis failed for {species} (N={N})")
+                except subprocess.CalledProcessError as e:
+                    print(f"    Error analyzing dataset for {species} (N={N}): {e}")
             else:
                 print(f"    Warning: JSON file not found: {json_file}")
 
