@@ -1,0 +1,3502 @@
+[
+  {
+    "task_id": "IPanda50_P6_000001",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/45/45_-1_12_45_v003_f000165_91f1346efc954bc3.jpg",
+      "id": "45"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/15/15_-1_163_15_v026_f000770_dc448216926a4e52.jpg",
+      "id": "15"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000002",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/22/22_-1_131_22_v026_f000405_abf5bc59d3f16e16.jpg",
+      "id": "22"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/21/21_-1_95_21_v032_f000635_c62791dcce484060.jpg",
+      "id": "21"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000003",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/14/14_-1_76_14_v015_f000295_d95a1af86ce0af81.jpg",
+      "id": "14"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/49/49_-1_14_49_20150403-094000____1_e585abd35ee270ce.jpg",
+      "id": "49"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000004",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/42/42_-1_11_42_v005_f000005_bdb6ba668c6c38ba.jpg",
+      "id": "42"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/33/33_-1_106_33_v077_f002970_8493dea8d2e782b0.jpg",
+      "id": "33"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000005",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/13/13_-1_207_13_v068_f001055_bc36b2701f8df7df.jpg",
+      "id": "13"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/21/21_-1_68_21_v022_f000835_e4e28cd315fdd13e.jpg",
+      "id": "21"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000006",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/43/43_-1_41_43_v018_f000375_9f1ad0f336348d64.jpg",
+      "id": "43"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/1/1_-1_20_01_v002_f001715_6f2988ae0fb3f9e7.jpg",
+      "id": "1"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000007",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/5/5_-1_90_05_v002_f001000_ac73c7f8b625eeb0.jpg",
+      "id": "5"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/46/46_-1_72_46_v023_f001065_7ecbb5719c437aa2.jpg",
+      "id": "46"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000008",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/32/32_-1_202_32_v060_f001050_19aa6455f4bf15cc.jpg",
+      "id": "32"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/21/21_-1_78_21_v026_f001680_d6abd97e6aeb8292.jpg",
+      "id": "21"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000009",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/24/24_-1_9_24_20160613-104040__530_2f28176d833c2687.jpg",
+      "id": "24"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/0/0_-1_173_00_v096_f000005_ca5f075fe0f9e65b.jpg",
+      "id": "0"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000010",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/49/49_-1_29_49_v001_f004825_30298e172a3ba0ee.jpg",
+      "id": "49"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/33/33_-1_164_33_v188_f000005_4ead34e3f43b4de4.jpg",
+      "id": "33"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000011",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/17/17_-1_178_17_v019_f000990_a954ed97aade11f2.jpg",
+      "id": "17"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/21/21_-1_21_21_v004_f001300_dfc0644cd3297e92.jpg",
+      "id": "21"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000012",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/13/13_-1_144_13_v030_f000895_6ce30be0fd2ae87d.jpg",
+      "id": "13"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/31/31_-1_50_31_v006_f000300_dd66eb91502e3256.jpg",
+      "id": "31"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000013",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/29/29_-1_24_29_v004_f002205_f3a6f0b5e272a945.jpg",
+      "id": "29"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/44/44_-1_10_44_v004_f000625_5f5827926c8024ce.jpg",
+      "id": "44"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000014",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/6/6_-1_71_06_v021_f000745_d99913996ce62890.jpg",
+      "id": "6"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/35/35_-1_128_35_v041_f008585_bfac3dfab3fd8a4e.jpg",
+      "id": "35"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000015",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/30/30_-1_7_30_v001_f006640_b0edea33103c0f76.jpg",
+      "id": "30"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/13/13_-1_235_13_v073_f002530_441d6bc542dcf702.jpg",
+      "id": "13"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000016",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/45/45_-1_51_45_v014_f000160_9558950d4bb18173.jpg",
+      "id": "45"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/44/44_-1_52_44_v019_f000245_f99f566a879250c0.jpg",
+      "id": "44"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000017",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/2/2_-1_115_02_v025_f000005_f2f9ddd8b103822f.jpg",
+      "id": "2"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/6/6_-1_14_06_v006_f000670_430f02cc528e6fc2.jpg",
+      "id": "6"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000018",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/47/47_-1_54_47_v045_f001425_5c5398221437aa5d.jpg",
+      "id": "47"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/21/21_-1_43_21_v014_f000100_800d0738ab3a0fd2.jpg",
+      "id": "21"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000019",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/13/13_-1_146_13_v039_f000005_560e50737ef3af4e.jpg",
+      "id": "13"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/22/22_-1_188_22_v037_f000085_42309cb6bfe9a04c.jpg",
+      "id": "22"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000020",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/24/24_-1_46_24_v006_f001285_971c75fb354d6294.jpg",
+      "id": "24"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/36/36_-1_1_36_v001_f000830_d4a4fde63136f294.jpg",
+      "id": "36"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000021",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/18/18_-1_2_18_20150312-145900____1_7b8d4004da046f46.jpg",
+      "id": "18"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/30/30_-1_148_30_v022_f001215_adce50205e19dc4e.jpg",
+      "id": "30"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000022",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/47/47_-1_38_47_v033_f000005_6843693f93888fe3.jpg",
+      "id": "47"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/24/24_-1_4_24_20160603-084200___585_c057a21569bc68de.jpg",
+      "id": "24"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000023",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/46/46_-1_7_46_v004_f000160_b277f35d16561078.jpg",
+      "id": "46"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/12/12_-1_46_12_v007_f005095_608bd941e13639dc.jpg",
+      "id": "12"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000024",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/18/18_-1_6_18_530_e997495ff7bbd0f0.jpg",
+      "id": "18"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/40/40_-1_38_40_v072_f000495_c6ddd8c222f9de2f.jpg",
+      "id": "40"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000025",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/18/18_-1_31_18_v011_f000005_b173561756cb5d3e.jpg",
+      "id": "18"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/36/36_-1_162_36_v066_f001005_80315f84ea5cb809.jpg",
+      "id": "36"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000026",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/45/45_-1_74_45_v017_f000500_630c3f9a5be8b172.jpg",
+      "id": "45"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/5/5_-1_35_05_20160722-145225_1__470_6501aa400e7e1812.jpg",
+      "id": "5"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000027",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/48/48_-1_9_48_v010_f000060_6e6e5dd92ad37bfe.jpg",
+      "id": "48"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/27/27_-1_112_27_v030_f001175_d9d355157995e1ff.jpg",
+      "id": "27"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000028",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/21/21_-1_46_21_v015_f000490_3d1f3e4a97fd877d.jpg",
+      "id": "21"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/10/10_-1_192_10_v071_f000270_ffb6af54c70ae252.jpg",
+      "id": "10"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000029",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/24/24_-1_21_24_v002_f000340_c0df6b0e95f76aac.jpg",
+      "id": "24"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/12/12_-1_42_12_v007_f001835_1be59ae870005ba1.jpg",
+      "id": "12"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000030",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/5/5_-1_34_05_20160722-145225_1__1_a18c7f86857aea52.jpg",
+      "id": "5"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/27/27_-1_88_27_v024_f002050_147e24a80c54501a.jpg",
+      "id": "27"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000031",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/31/31_-1_62_31_v006_f001945_e9db2e65fe72a992.jpg",
+      "id": "31"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/47/47_-1_132_47_v081_f000765_923c6bfb3ee0658a.jpg",
+      "id": "47"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000032",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/23/23_-1_40_23_v010_f004630_911ccc41f212cc13.jpg",
+      "id": "23"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/16/16_-1_83_16_v032_f001840_eb5e9eba34b825a1.jpg",
+      "id": "16"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000033",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/40/40_-1_3_40_v025_f000625_6ac45baa6e746110.jpg",
+      "id": "40"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/4/4_-1_52_04_v006_f001150_c15c60dcf4b12c76.jpg",
+      "id": "4"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000034",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/42/42_-1_8_42_v004_f000510_e938673535fea121.jpg",
+      "id": "42"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/33/33_-1_4_33_v002_f003600_5487089cfac14328.jpg",
+      "id": "33"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000035",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/31/31_-1_35_31_v005_f003305_00de7dc1d7ab0401.jpg",
+      "id": "31"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/3/3_-1_25_03_v005_f000350_3406da75e3516a71.jpg",
+      "id": "3"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000036",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/38/38_-1_1_38_v002_f001005_5a0218661e5243e3.jpg",
+      "id": "38"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/37/37_-1_110_37_v030_f005465_0924b6144d5e5915.jpg",
+      "id": "37"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000037",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/15/15_-1_82_15_v011_f000865_4d2bf148fedca56f.jpg",
+      "id": "15"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/18/18_-1_19_18_v007_f003560_0722cba40cb71c52.jpg",
+      "id": "18"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000038",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/48/48_-1_5_48_v008_f000005_53b6550559cf0386.jpg",
+      "id": "48"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/33/33_-1_114_33_v079_f000535_c4716e8da45085d9.jpg",
+      "id": "33"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000039",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/30/30_-1_8_30_v002_f000520_13a20c82a6e03532.jpg",
+      "id": "30"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/31/31_-1_63_31_v006_f002045_06883dd62ebdac6f.jpg",
+      "id": "31"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000040",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/39/39_-1_73_39_v014_f002005_33db3d87b34683eb.jpg",
+      "id": "39"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/23/23_-1_101_23_v023_f001090_168f8495c79b8cea.jpg",
+      "id": "23"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000041",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/48/48_-1_126_48_v082_f000245_8336292277f7f644.jpg",
+      "id": "48"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/7/7_-1_49_07_v007_f001710_fcafcb7853d45b1f.jpg",
+      "id": "7"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000042",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/4/4_-1_25_04_v003_f000830_efec86de44aab560.jpg",
+      "id": "4"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/9/9_-1_9_09_v002_f001020_ba91e50871d74af6.jpg",
+      "id": "9"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000043",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/28/28_-1_235_28_v110_f000085_d98d20ebaf5eb914.jpg",
+      "id": "28"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/15/15_-1_38_15_v006_f000480_5a096f914cda18c2.jpg",
+      "id": "15"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000044",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/18/18_-1_0_18_1230_ab1b4898fc64a9e3.jpg",
+      "id": "18"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/36/36_-1_160_36_v065_f001425_216e43b3a6c09757.jpg",
+      "id": "36"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000045",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/38/38_-1_2_38_v003_f000005_519214cde52fed5d.jpg",
+      "id": "38"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/9/9_-1_68_09_v008_f001775_4fbe1be8a62cb027.jpg",
+      "id": "9"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000046",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/14/14_-1_19_14_v004_f001340_3cc0829af37f360a.jpg",
+      "id": "14"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/46/46_-1_83_46_v026_f002095_3184d0ab9d63f2bc.jpg",
+      "id": "46"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000047",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/38/38_-1_32_38_v013_f000895_3212859461b16dae.jpg",
+      "id": "38"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/44/44_-1_135_44_v045_f002045_6a7b8ff305130b44.jpg",
+      "id": "44"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000048",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/3/3_-1_28_03_v005_f002375_e04ab1fa8857190d.jpg",
+      "id": "3"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/9/9_-1_76_09_v010_f000585_a60b6eeec812dff3.jpg",
+      "id": "9"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000049",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/9/9_-1_0_09_v001_f000020_f0a9d19a0103596a.jpg",
+      "id": "9"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/39/39_-1_79_39_v015_f000205_2d32cb44ef0e7aaf.jpg",
+      "id": "39"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000050",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/27/27_-1_103_27_v029_f000005_bd8d6c46bd426ed6.jpg",
+      "id": "27"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/38/38_-1_22_38_v011_f000005_16620a34b7b19b94.jpg",
+      "id": "38"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000051",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/3/3_-1_37_03_v006_f005405_cf9843a044b6be6e.jpg",
+      "id": "3"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/26/26_-1_112_26_v056_f000355_7781a6954436cc67.jpg",
+      "id": "26"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000052",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/22/22_-1_118_22_v021_f004465_9f244a57b48a3bb1.jpg",
+      "id": "22"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/42/42_-1_14_42_v005_f001615_0fe51abe5042d62c.jpg",
+      "id": "42"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000053",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/6/6_-1_17_06_v007_f000045_efcd44db050022e6.jpg",
+      "id": "6"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/37/37_-1_77_37_v021_f000045_4004dfe58693214a.jpg",
+      "id": "37"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000054",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/9/9_-1_129_09_v021_f000760_7abd65b73333aae3.jpg",
+      "id": "9"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/16/16_-1_73_16_v028_f000490_37e68ca4adf88a01.jpg",
+      "id": "16"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000055",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/36/36_-1_138_36_v052_f000005_084636e12fad68de.jpg",
+      "id": "36"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/41/41_-1_18_41_v009_f000905_db14e71f1dc629e1.jpg",
+      "id": "41"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000056",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/39/39_-1_59_39_v012_f000415_9745178f603f6c2a.jpg",
+      "id": "39"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/44/44_-1_149_44_v049_f000340_15a3ae1c177e8279.jpg",
+      "id": "44"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000057",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/4/4_-1_51_04_v006_f000650_2a76b84eb06f62f2.jpg",
+      "id": "4"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/9/9_-1_146_09_v023_f000855_59387efb5d815826.jpg",
+      "id": "9"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000058",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/5/5_-1_56_05_20160728-112100___2490_ee5258be8af64408.jpg",
+      "id": "5"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/26/26_-1_35_26_v021_f000385_8076e37b8c32b4ab.jpg",
+      "id": "26"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000059",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/46/46_-1_60_46_v019_f000005_daa3b88566a9bd82.jpg",
+      "id": "46"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/3/3_-1_6_03_v001_f003240_129efd32baf4ec06.jpg",
+      "id": "3"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000060",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/34/34_-1_38_34_v012_f000880_51f26440a1f5a667.jpg",
+      "id": "34"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/15/15_-1_151_15_v023_f001125_d4016bf7a50f6336.jpg",
+      "id": "15"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000061",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/12/12_-1_10_12_v001_f000245_19fa2aa1a843999a.jpg",
+      "id": "12"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/29/29_-1_43_29_v007_f000955_1441126485c5f77f.jpg",
+      "id": "29"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000062",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/40/40_-1_78_40_v166_f000001_a5f4a504d22cf4d9.jpg",
+      "id": "40"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/21/21_-1_35_21_v012_f001965_45c473cdc189cea9.jpg",
+      "id": "21"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000063",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/0/0_-1_127_00_v051_f000140_51f9ea58ce3b14b1.jpg",
+      "id": "0"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/13/13_-1_205_13_v068_f000980_a6982468623d74aa.jpg",
+      "id": "13"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000064",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/12/12_-1_29_12_v004_f000680_5639cf082b7afb5b.jpg",
+      "id": "12"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/10/10_-1_116_10_v046_f000005_015a839afe858227.jpg",
+      "id": "10"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000065",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/38/38_-1_41_38_v014_f001405_52a3986c2ab8d779.jpg",
+      "id": "38"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/22/22_-1_72_22_v013_f000880_ab7ab3d0ccf13b11.jpg",
+      "id": "22"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000066",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/37/37_-1_79_37_v021_f000265_db282beb834f4b93.jpg",
+      "id": "37"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/20/20_-1_17_20_v003_f002035_5d02072eb0757935.jpg",
+      "id": "20"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000067",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/6/6_-1_76_06_v021_f002455_b6ac80a29b7ffad8.jpg",
+      "id": "6"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/41/41_-1_67_41_v026_f001230_c3f4cd87297f0778.jpg",
+      "id": "41"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000068",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/22/22_-1_194_22_v038_f000005_0725476c73f95640.jpg",
+      "id": "22"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/37/37_-1_143_37_v038_f000670_ab52915781cc047d.jpg",
+      "id": "37"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000069",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/14/14_-1_4_14_v002_f000795_3d04578210695f81.jpg",
+      "id": "14"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/15/15_-1_19_15_v003_f001460_725fb3b51076a0b1.jpg",
+      "id": "15"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000070",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/33/33_-1_22_33_v011_f000060_6dd53ed01ca9a838.jpg",
+      "id": "33"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/32/32_-1_93_32_v026_f000005_821029c2bb723db5.jpg",
+      "id": "32"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000071",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/6/6_-1_20_06_v009_f000525_5edfd4244bab1562.jpg",
+      "id": "6"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/11/11_-1_16_11_v006_f002615_ec51cf296a7030c5.jpg",
+      "id": "11"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000072",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/31/31_-1_49_31_v006_f000270_74fadb37de01cafb.jpg",
+      "id": "31"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/7/7_-1_9_07_955_36fc32dd4e7bc2d0.jpg",
+      "id": "7"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000073",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/14/14_-1_144_14_v034_f000470_71b0ebf9d7d3438f.jpg",
+      "id": "14"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/23/23_-1_27_23_v006_f001115_818715cee8004418.jpg",
+      "id": "23"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000074",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/4/4_-1_17_04_v002_f000185_d8e6d81f11984ab4.jpg",
+      "id": "4"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/34/34_-1_59_34_v015_f001095_c8e8766db6f86119.jpg",
+      "id": "34"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000075",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/19/19_-1_72_19_v017_f001450_4ec176eae36310a6.jpg",
+      "id": "19"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/25/25_-1_38_25_v020_f000020_8b35362150530ced.jpg",
+      "id": "25"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000076",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/12/12_-1_41_12_v006_f001385_e9d308f7ef16df66.jpg",
+      "id": "12"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/35/35_-1_122_35_v038_f009390_96815b435876d9fb.jpg",
+      "id": "35"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000077",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/11/11_-1_72_11_v029_f001145_0ab4d50f114ce797.jpg",
+      "id": "11"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/47/47_-1_6_47_v004_f000450_cb1240355c826c23.jpg",
+      "id": "47"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000078",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/0/0_-1_209_00_v134_f003220_6f6167ff5255f58a.jpg",
+      "id": "0"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/14/14_-1_138_14_v033_f000230_e63fdc03fc7de1b7.jpg",
+      "id": "14"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000079",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/32/32_-1_210_32_v062_f003015_745af45f640450bc.jpg",
+      "id": "32"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/38/38_-1_34_38_v014_f000005_708ab2e33c2e8499.jpg",
+      "id": "38"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000080",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/31/31_-1_29_31_v005_f001380_c61e54767d206413.jpg",
+      "id": "31"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/11/11_-1_53_11_v016_f000905_33ec063e2b2ba437.jpg",
+      "id": "11"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000081",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/0/0_-1_221_00_v145_f000005_1b8a85036f6f3ec9.jpg",
+      "id": "0"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/31/31_-1_62_31_v006_f001945_e9db2e65fe72a992.jpg",
+      "id": "31"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000082",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/25/25_-1_74_25_v052_f000005_da26c14f99f34b1f.jpg",
+      "id": "25"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/34/34_-1_66_34_v022_f000210_05e87d76b54376c8.jpg",
+      "id": "34"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000083",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/17/17_-1_168_17_v017_f001680_a8bf578f3b5807d4.jpg",
+      "id": "17"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/20/20_-1_27_20_v004_f000280_94013c366b0691cc.jpg",
+      "id": "20"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000084",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/11/11_-1_72_11_v029_f001145_0ab4d50f114ce797.jpg",
+      "id": "11"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/43/43_-1_12_43_v008_f002775_f0d9772de13dbe84.jpg",
+      "id": "43"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000085",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/7/7_-1_12_07_v002_f000420_59666c45a7194f0a.jpg",
+      "id": "7"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/27/27_-1_110_27_v030_f001080_c7b614847fc689f4.jpg",
+      "id": "27"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000086",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/42/42_-1_39_42_v013_f001480_38b19aa68a4e3eef.jpg",
+      "id": "42"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/36/36_-1_58_36_v025_f001190_756a803eae7da634.jpg",
+      "id": "36"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000087",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/18/18_-1_39_18_v011_f001030_ab81517bf18ef0ed.jpg",
+      "id": "18"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/11/11_-1_19_11_v007_f000475_0b387882545ee627.jpg",
+      "id": "11"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000088",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/19/19_-1_130_19_v041_f001475_156599c19b18000c.jpg",
+      "id": "19"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/12/12_-1_49_12_v008_f000935_3669ee82e3235b28.jpg",
+      "id": "12"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000089",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/22/22_-1_127_22_v025_f011220_0f38566c239827a9.jpg",
+      "id": "22"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/32/32_-1_99_32_v027_f008925_d20b2755fc9dd2d6.jpg",
+      "id": "32"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000090",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/41/41_-1_91_41_v033_f001295_aa4b46fc6545e7b2.jpg",
+      "id": "41"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/22/22_-1_55_22_v010_f000175_80bbe61ee135beb1.jpg",
+      "id": "22"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000091",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/10/10_-1_118_10_v046_f001060_52b8eec4d85321cc.jpg",
+      "id": "10"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/45/45_-1_58_45_v014_f000870_464507677c301ad1.jpg",
+      "id": "45"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000092",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/47/47_-1_22_47_v016_f000750_e1bf1250ee9e9a5a.jpg",
+      "id": "47"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/42/42_-1_3_42_v002_f000005_c28b72978b527e6e.jpg",
+      "id": "42"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000093",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/27/27_-1_1_27_v001_f000165_839ebf19edb5b2d9.jpg",
+      "id": "27"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/23/23_-1_56_23_v015_f013280_21329b2943c4d6b7.jpg",
+      "id": "23"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000094",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/22/22_-1_191_22_v037_f003940_6a6fb00a71503655.jpg",
+      "id": "22"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/24/24_-1_17_24_20160729-113720___1890_84f8c9ccada9c7e9.jpg",
+      "id": "24"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000095",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/47/47_-1_169_47_v128_f000895_ede1f6f7402946db.jpg",
+      "id": "47"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/46/46_-1_62_46_v020_f000005_9474ff0fb5618f14.jpg",
+      "id": "46"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000096",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/27/27_-1_116_27_v033_f001750_40a71e10bb993ee4.jpg",
+      "id": "27"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/9/9_-1_101_09_v016_f000790_a80e246f0890df4a.jpg",
+      "id": "9"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000097",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/35/35_-1_22_35_v008_f001055_94bf6cf26bcaf55a.jpg",
+      "id": "35"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/45/45_-1_20_45_v004_f001505_ee666215501c555d.jpg",
+      "id": "45"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000098",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/12/12_-1_21_12_v003_f001155_15a42864e7e68bf1.jpg",
+      "id": "12"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/40/40_-1_68_40_v146_f000400_75185cd9a16cd357.jpg",
+      "id": "40"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000099",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/23/23_-1_64_23_v016_f007160_101f87391b65dd6e.jpg",
+      "id": "23"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/16/16_-1_99_16_v038_f002265_009dc23731239b4a.jpg",
+      "id": "16"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000100",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/12/12_-1_30_12_v005_f000005_789eb66a0646a14b.jpg",
+      "id": "12"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/23/23_-1_49_23_v014_f000005_ab17b1c79f451f53.jpg",
+      "id": "23"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000101",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/18/18_-1_40_18_v011_f003790_2498b5e6c353076e.jpg",
+      "id": "18"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/35/35_-1_50_35_v016_f001945_655df583325328b4.jpg",
+      "id": "35"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000102",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/26/26_-1_67_26_v032_f002220_ec23f0095682b421.jpg",
+      "id": "26"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/45/45_-1_9_45_v002_f000430_621290858b14460b.jpg",
+      "id": "45"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000103",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/39/39_-1_8_39_v003_f000510_20758ef2c5f390a1.jpg",
+      "id": "39"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/0/0_-1_238_00_v153_f000725_22964e15784cac2b.jpg",
+      "id": "0"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000104",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/47/47_-1_93_47_v063_f000585_60a87a1c1cf8227e.jpg",
+      "id": "47"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/14/14_-1_130_14_v030_f000905_3ba8990c8d409fef.jpg",
+      "id": "14"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000105",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/23/23_-1_124_23_v029_f000005_fb98479858746552.jpg",
+      "id": "23"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/15/15_-1_65_15_v009_f000120_72422715745a43b3.jpg",
+      "id": "15"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000106",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/17/17_-1_165_17_v017_f001610_85097dc4186e6c9d.jpg",
+      "id": "17"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/25/25_-1_9_25_v007_f000105_1ab868f813d49c11.jpg",
+      "id": "25"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000107",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/20/20_-1_41_20_v004_f004480_415311fc832eb225.jpg",
+      "id": "20"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/6/6_-1_33_06_v015_f000005_c660cd51d573bd68.jpg",
+      "id": "6"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000108",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/48/48_-1_160_48_v114_f000765_4af16b5d2ae801e0.jpg",
+      "id": "48"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/45/45_-1_68_45_v015_f002440_49c7000f45e36729.jpg",
+      "id": "45"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000109",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/37/37_-1_111_37_v030_f005630_bfb4e017fea88a79.jpg",
+      "id": "37"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/23/23_-1_120_23_v028_f000270_5de2b9186a3beaa4.jpg",
+      "id": "23"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000110",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/45/45_-1_41_45_v011_f000005_7f82abee3f37455d.jpg",
+      "id": "45"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/33/33_-1_10_33_v004_f000435_c2e1ac33697ed0d4.jpg",
+      "id": "33"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000111",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/0/0_-1_15_00_v003_f002620_f311ecf5f994097b.jpg",
+      "id": "0"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/29/29_-1_46_29_v007_f001640_cbc3ed64121cae71.jpg",
+      "id": "29"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000112",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/23/23_-1_86_23_v022_f001940_ecb5b02f31e159c9.jpg",
+      "id": "23"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/18/18_-1_41_18_v011_f004440_63c8dfb7015a67b6.jpg",
+      "id": "18"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000113",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/5/5_-1_74_05_465_c3fc8ca9cec927e8.jpg",
+      "id": "5"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/33/33_-1_101_33_v071_f001670_f037679f1e98465a.jpg",
+      "id": "33"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000114",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/15/15_-1_97_15_v013_f000065_fd4e9c2b6b0f8882.jpg",
+      "id": "15"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/12/12_-1_18_12_v003_f000755_a42de8141a6e293a.jpg",
+      "id": "12"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000115",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/4/4_-1_5_04_20150330-104100___420_c101fe8dccdfed67.jpg",
+      "id": "4"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/10/10_-1_185_10_v065_f005950_f9e6aae46c1935e3.jpg",
+      "id": "10"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000116",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/42/42_-1_18_42_v006_f000005_ec914f7791c6ef19.jpg",
+      "id": "42"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/40/40_-1_5_40_v034_f000075_436d2c5d2a7ad51f.jpg",
+      "id": "40"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000117",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/16/16_-1_32_16_v012_f000545_c2920c48d26c1976.jpg",
+      "id": "16"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/10/10_-1_184_10_v063_f005930_f2f0f8dfc5f26d3b.jpg",
+      "id": "10"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000118",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/10/10_-1_148_10_v055_f000305_a5d23cb19ee80dcc.jpg",
+      "id": "10"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/3/3_-1_89_03_v015_f002235_a06afca1929e495a.jpg",
+      "id": "3"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000119",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/22/22_-1_123_22_v024_f000520_cb761204c72dcdb1.jpg",
+      "id": "22"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/48/48_-1_181_48_v134_f001270_4f84dcd825e352db.jpg",
+      "id": "48"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000120",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/9/9_-1_45_09_v006_f000420_2db7a024ba7d3219.jpg",
+      "id": "9"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/40/40_-1_81_40_v172_f000005_3a93e1e661b317f5.jpg",
+      "id": "40"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000121",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/7/7_-1_23_07_v005_f001500_bce6cbbc8e0bf979.jpg",
+      "id": "7"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/17/17_-1_137_17_v014_f000300_368f4192504b6901.jpg",
+      "id": "17"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000122",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/19/19_-1_110_19_v034_f001715_9d7d8c93593d609c.jpg",
+      "id": "19"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/33/33_-1_140_33_v138_f001620_8a083a837a487692.jpg",
+      "id": "33"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000123",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/7/7_-1_8_07_865_73a3e72840b47a10.jpg",
+      "id": "7"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/28/28_-1_55_28_v018_f000785_8738fd31b19ebe1a.jpg",
+      "id": "28"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000124",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/47/47_-1_63_47_v046_f001610_f2bf21981ed95057.jpg",
+      "id": "47"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/8/8_-1_38_08_v002_f006140_973a9c4491043415.jpg",
+      "id": "8"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000125",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/24/24_-1_5_24_20160613-104040__1_828c7a89cdd0bc5c.jpg",
+      "id": "24"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/18/18_-1_15_18_v007_f001850_03fedc3c536f8604.jpg",
+      "id": "18"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000126",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/30/30_-1_60_30_v005_f000650_d2fec0de9d813d8a.jpg",
+      "id": "30"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/10/10_-1_150_10_v056_f000045_9ece6f582c7498a8.jpg",
+      "id": "10"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000127",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/2/2_-1_180_02_v036_f002130_cdbc706adecc5431.jpg",
+      "id": "2"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/36/36_-1_170_36_v071_f004395_cefb4ff947aef645.jpg",
+      "id": "36"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000128",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/21/21_-1_12_21_v003_f000425_aeee680258568207.jpg",
+      "id": "21"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/22/22_-1_6_22_v004_f000485_ce6dc5f2fc5476d6.jpg",
+      "id": "22"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000129",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/2/2_-1_176_02_v036_f001030_17eaf8e966cac96e.jpg",
+      "id": "2"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/32/32_-1_164_32_v050_f000005_60b4b097a5e5664d.jpg",
+      "id": "32"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000130",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/12/12_-1_2_12_20180208-133750___1_ee86adf7c257ea93.jpg",
+      "id": "12"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/25/25_-1_69_25_v051_f000005_7a91e32670887dcd.jpg",
+      "id": "25"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000131",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/33/33_-1_39_33_v025_f000005_9083499e92c114db.jpg",
+      "id": "33"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/49/49_-1_29_49_v001_f004825_30298e172a3ba0ee.jpg",
+      "id": "49"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000132",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/1/1_-1_60_01_v008_f000150_17f917f1d703cc36.jpg",
+      "id": "1"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/16/16_-1_27_16_v009_f001375_b576e7f7ab3c7b40.jpg",
+      "id": "16"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000133",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/2/2_-1_160_02_v033_f000360_52b1b4bd64cdc51f.jpg",
+      "id": "2"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/43/43_-1_11_43_v008_f002595_53ace54502c82e26.jpg",
+      "id": "43"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000134",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/15/15_-1_38_15_v006_f000480_5a096f914cda18c2.jpg",
+      "id": "15"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/44/44_-1_17_44_v007_f000050_b4fa17cf741b3626.jpg",
+      "id": "44"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000135",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/8/8_-1_5_08_v002_f000470_7945c99c0e9dad2f.jpg",
+      "id": "8"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/27/27_-1_90_27_v024_f002670_915ba2868119dc49.jpg",
+      "id": "27"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000136",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/16/16_-1_63_16_v023_f000200_07da5b582235bde2.jpg",
+      "id": "16"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/31/31_-1_31_31_v005_f001765_930996cb5645c78c.jpg",
+      "id": "31"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000137",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/25/25_-1_5_25_v003_f002370_3094fa0970dd225d.jpg",
+      "id": "25"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/10/10_-1_0_10_v001_f000245_798acd44d965618e.jpg",
+      "id": "10"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000138",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/40/40_-1_8_40_v034_f005285_e6024738b7ed98e3.jpg",
+      "id": "40"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/4/4_-1_51_04_v006_f000650_2a76b84eb06f62f2.jpg",
+      "id": "4"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000139",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/9/9_-1_145_09_v023_f000540_15ed110559e02cea.jpg",
+      "id": "9"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/7/7_-1_30_07_v005_f002245_a38f3c61758ddb6a.jpg",
+      "id": "7"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000140",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/35/35_-1_41_35_v014_f000240_89a4fa19e7821067.jpg",
+      "id": "35"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/12/12_-1_29_12_v004_f000680_5639cf082b7afb5b.jpg",
+      "id": "12"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000141",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/46/46_-1_86_46_v027_f000520_cda89cf033532344.jpg",
+      "id": "46"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/27/27_-1_128_27_v037_f000450_80d54a9559069503.jpg",
+      "id": "27"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000142",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/8/8_-1_68_08_v006_f001080_b31935e2ce950337.jpg",
+      "id": "8"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/26/26_-1_171_26_v096_f000020_f3196cfae4bb4470.jpg",
+      "id": "26"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000143",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/49/49_-1_28_49_v001_f004450_c63c280638953981.jpg",
+      "id": "49"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/32/32_-1_193_32_v058_f001490_8d8d7e3aa76aa302.jpg",
+      "id": "32"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000144",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/6/6_-1_73_06_v021_f002160_efaab5bf3e4c65b1.jpg",
+      "id": "6"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/25/25_-1_24_25_v010_f002175_7ca8a1bd98e702a4.jpg",
+      "id": "25"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000145",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/20/20_-1_7_20_v001_f007085_fec5532a68f3b785.jpg",
+      "id": "20"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/33/33_-1_188_33_v213_f002255_dcd4211fad29b076.jpg",
+      "id": "33"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000146",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/6/6_-1_2_06_v002_f001115_4c9ccb5dbd4487c8.jpg",
+      "id": "6"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/8/8_-1_9_08_v002_f000545_6a3e60dfa85445d4.jpg",
+      "id": "8"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000147",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/44/44_-1_193_44_v063_f001070_55471ce48d61c842.jpg",
+      "id": "44"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/26/26_-1_226_26_v164_f002120_6f6663246ccbf3f8.jpg",
+      "id": "26"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000148",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/0/0_-1_231_00_v150_f003655_1e4b14aeaf6e6a2b.jpg",
+      "id": "0"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/27/27_-1_20_27_v008_f000615_c513243e96a7eba4.jpg",
+      "id": "27"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000149",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/36/36_-1_76_36_v033_f000700_cb82974ccc7885d8.jpg",
+      "id": "36"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/43/43_-1_47_43_v020_f001165_17705a02b22c81af.jpg",
+      "id": "43"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000150",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/29/29_-1_35_29_v007_f000175_de00519b5ab7aac3.jpg",
+      "id": "29"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/36/36_-1_38_36_v017_f015500_06ec3a5a5c22f0af.jpg",
+      "id": "36"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000151",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/6/6_-1_69_06_v021_f000500_bbe5c377401dd76e.jpg",
+      "id": "6"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/20/20_-1_57_20_v005_f000955_5c70bbc5c578a945.jpg",
+      "id": "20"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000152",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/19/19_-1_139_19_v044_f003905_85a8b2626bcd5bb6.jpg",
+      "id": "19"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/48/48_-1_165_48_v115_f000825_697f25024b938f67.jpg",
+      "id": "48"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000153",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/40/40_-1_83_40_v172_f000705_8a6ac35ffef31177.jpg",
+      "id": "40"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/48/48_-1_65_48_v046_f006205_655018233f3d1081.jpg",
+      "id": "48"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000154",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/3/3_-1_37_03_v006_f005405_cf9843a044b6be6e.jpg",
+      "id": "3"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/13/13_-1_242_13_v075_f000065_0a0f8636124572bf.jpg",
+      "id": "13"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000155",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/23/23_-1_17_23_v002_f001160_7dca4ec0b1eb9ce7.jpg",
+      "id": "23"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/2/2_-1_105_02_v021_f000150_fb8e384ba5bf5f28.jpg",
+      "id": "2"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000156",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/10/10_-1_209_10_v078_f000350_1f33da881d576d16.jpg",
+      "id": "10"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/23/23_-1_116_23_v026_f010185_63e6833e1898fa9f.jpg",
+      "id": "23"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000157",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/39/39_-1_82_39_v016_f000025_120d41fcec2560cd.jpg",
+      "id": "39"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/32/32_-1_26_32_v006_f000675_a65e5980df7419eb.jpg",
+      "id": "32"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000158",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/20/20_-1_83_20_v012_f002805_b77e6d4450dd4e6f.jpg",
+      "id": "20"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/6/6_-1_54_06_v018_f000005_b9b7391ddafe6fa8.jpg",
+      "id": "6"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000159",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/40/40_-1_38_40_v072_f000495_c6ddd8c222f9de2f.jpg",
+      "id": "40"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/31/31_-1_26_31_v004_f003530_b019735873adb388.jpg",
+      "id": "31"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000160",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/5/5_-1_0_05_105_d13885c9529153bb.jpg",
+      "id": "5"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/49/49_-1_9_49_20150401-101005_e__75_4f6efc6fb7cd4bc3.jpg",
+      "id": "49"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000161",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/15/15_-1_150_15_v023_f001050_f0e7ad9490e17b69.jpg",
+      "id": "15"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/34/34_-1_2_34_v002_f001210_aba5db621afca879.jpg",
+      "id": "34"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000162",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/9/9_-1_58_09_v007_f000970_5b0b77b4b281dba8.jpg",
+      "id": "9"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/39/39_-1_15_39_v004_f001400_31c89ca3715aedcf.jpg",
+      "id": "39"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000163",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/44/44_-1_128_44_v042_f000165_97f7e9923e297343.jpg",
+      "id": "44"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/22/22_-1_22_22_v005_f005630_440c1cb0c58c8c95.jpg",
+      "id": "22"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000164",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/17/17_-1_83_17_v009_f001155_c0f377033880adc1.jpg",
+      "id": "17"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/36/36_-1_58_36_v025_f001190_756a803eae7da634.jpg",
+      "id": "36"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000165",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/44/44_-1_173_44_v058_f001940_640903c0e0f24457.jpg",
+      "id": "44"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/43/43_-1_9_43_v008_f001050_74680f925533e2e6.jpg",
+      "id": "43"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000166",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/38/38_-1_6_38_v005_f001105_beac1047a72c2528.jpg",
+      "id": "38"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/45/45_-1_59_45_v015_f000055_4d59f5a0a10a1603.jpg",
+      "id": "45"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000167",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/44/44_-1_136_44_v045_f002230_a0b27d49e0508224.jpg",
+      "id": "44"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/34/34_-1_64_34_v020_f001100_9945411866f8f05f.jpg",
+      "id": "34"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000168",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/38/38_-1_38_38_v014_f001250_d38cb03fced8cf4b.jpg",
+      "id": "38"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/23/23_-1_47_23_v013_f000720_e786c8feada4c911.jpg",
+      "id": "23"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000169",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/42/42_-1_46_42_v014_f001230_a265e2374b6149ab.jpg",
+      "id": "42"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/37/37_-1_155_37_v040_f000560_c248125c30b400b4.jpg",
+      "id": "37"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000170",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/27/27_-1_117_27_v034_f000375_fef5cefaddb9ab55.jpg",
+      "id": "27"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/35/35_-1_52_35_v017_f000340_b34090ee5b5f1d74.jpg",
+      "id": "35"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000171",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/29/29_-1_25_29_v005_f000005_bea443f4444804f3.jpg",
+      "id": "29"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/22/22_-1_177_22_v033_f113335_7369372d1a308463.jpg",
+      "id": "22"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000172",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/30/30_-1_118_30_v016_f003895_4662cf8e485def23.jpg",
+      "id": "30"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/40/40_-1_25_40_v069_f000001_cfed669199bce5cd.jpg",
+      "id": "40"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000173",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/18/18_-1_31_18_v011_f000005_b173561756cb5d3e.jpg",
+      "id": "18"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/22/22_-1_78_22_v014_f002040_d74c1edd1342203c.jpg",
+      "id": "22"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000174",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/19/19_-1_199_19_v072_f000200_e352ccaf5b581102.jpg",
+      "id": "19"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/6/6_-1_17_06_v007_f000045_efcd44db050022e6.jpg",
+      "id": "6"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000175",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/38/38_-1_48_38_v018_f000430_4d948e4e143ca083.jpg",
+      "id": "38"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/32/32_-1_224_32_v071_f005155_23d98fadfbfa1e0a.jpg",
+      "id": "32"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000176",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/41/41_-1_113_41_v044_f027690_40b650f8d051d16b.jpg",
+      "id": "41"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/32/32_-1_147_32_v039_f000050_b313698fdfd9f2bb.jpg",
+      "id": "32"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000177",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/38/38_-1_11_38_v007_f000005_31370a498020e16d.jpg",
+      "id": "38"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/30/30_-1_85_30_v009_f002820_2a2be523a92d1875.jpg",
+      "id": "30"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000178",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/36/36_-1_100_36_v042_f001260_224ff84c737554ff.jpg",
+      "id": "36"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/37/37_-1_35_37_v009_f000330_71a32398825cb127.jpg",
+      "id": "37"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000179",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/30/30_-1_41_30_v004_f002375_eec76b9bb9978f29.jpg",
+      "id": "30"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/9/9_-1_48_09_v006_f000920_7dbdae8c85f31cc0.jpg",
+      "id": "9"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000180",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/48/48_-1_92_48_v062_f000155_cf6873bb12e78444.jpg",
+      "id": "48"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/8/8_-1_72_08_v006_f002380_69f19428e0536abe.jpg",
+      "id": "8"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000181",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/8/8_-1_66_08_v005_f002205_a8e317e07e2f74a5.jpg",
+      "id": "8"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/21/21_-1_35_21_v012_f001965_45c473cdc189cea9.jpg",
+      "id": "21"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000182",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/29/29_-1_38_29_v007_f000775_07bfe354f7a194a5.jpg",
+      "id": "29"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/34/34_-1_12_34_v009_f000250_f491bf4e0219c682.jpg",
+      "id": "34"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000183",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/37/37_-1_47_37_v010_f000155_9b94f2740ee9869a.jpg",
+      "id": "37"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/28/28_-1_176_28_v073_f001440_eb139c3c0e914678.jpg",
+      "id": "28"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000184",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/43/43_-1_45_43_v020_f000585_dfd021dfbdf0d5b7.jpg",
+      "id": "43"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/16/16_-1_59_16_v022_f001335_9158b40cf5f97567.jpg",
+      "id": "16"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000185",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/1/1_-1_43_01_v006_f001005_96ab4fcc7be761e6.jpg",
+      "id": "1"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/32/32_-1_23_32_v005_f001355_22e263f80c5568ab.jpg",
+      "id": "32"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000186",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/1/1_-1_47_01_v007_f000880_7d76abe31520c454.jpg",
+      "id": "1"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/14/14_-1_49_14_v010_f000855_c9dd03b1ef405929.jpg",
+      "id": "14"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000187",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/17/17_-1_141_17_v014_f001155_3365fff17a8739ee.jpg",
+      "id": "17"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/36/36_-1_110_36_v042_f002560_0c776f0b91dd3db9.jpg",
+      "id": "36"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000188",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/28/28_-1_250_28_v119_f000265_f65151f8c4b694e8.jpg",
+      "id": "28"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/31/31_-1_34_31_v005_f002195_bc86339350c28608.jpg",
+      "id": "31"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000189",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/45/45_-1_49_45_v012_f002875_4052faec69031cb7.jpg",
+      "id": "45"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/27/27_-1_60_27_v017_f000730_52ece3fde2943df3.jpg",
+      "id": "27"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000190",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/29/29_-1_58_29_v011_f000590_7b7cfd7728069ef3.jpg",
+      "id": "29"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/9/9_-1_48_09_v006_f000920_7dbdae8c85f31cc0.jpg",
+      "id": "9"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000191",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/28/28_-1_82_28_v023_f001730_cf23d368d719604d.jpg",
+      "id": "28"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/13/13_-1_108_13_v024_f003255_317e479e43bd1f51.jpg",
+      "id": "13"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000192",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/7/7_-1_2_07_1_f161d3faa0ce430c.jpg",
+      "id": "7"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/11/11_-1_35_11_v011_f001305_af2396d3fc82a650.jpg",
+      "id": "11"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000193",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/13/13_-1_118_13_v025_f002580_09e2f4c25a7c2b60.jpg",
+      "id": "13"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/47/47_-1_50_47_v041_f000330_b0a7e9955977bc95.jpg",
+      "id": "47"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000194",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/1/1_-1_20_01_v002_f001715_6f2988ae0fb3f9e7.jpg",
+      "id": "1"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/23/23_-1_104_23_v023_f001340_a4306a91f17ae97f.jpg",
+      "id": "23"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000195",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/19/19_-1_158_19_v053_f003860_1e034258e4eb2f5b.jpg",
+      "id": "19"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/23/23_-1_93_23_v022_f002580_595cd4929fc48597.jpg",
+      "id": "23"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000196",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/16/16_-1_21_16_v008_f000455_d7d05b0ed3a2e9e2.jpg",
+      "id": "16"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/42/42_-1_36_42_v013_f000780_74b02c5aa4225429.jpg",
+      "id": "42"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000197",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/28/28_-1_177_28_v073_f003590_e73b632ed1fc58e8.jpg",
+      "id": "28"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/30/30_-1_92_30_v012_f000405_0dc50a3b64a242a2.jpg",
+      "id": "30"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000198",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/16/16_-1_32_16_v012_f000545_c2920c48d26c1976.jpg",
+      "id": "16"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/19/19_-1_14_19_v006_f000780_f50941c9d5b200d6.jpg",
+      "id": "19"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000199",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/1/1_-1_42_01_v006_f000925_60009fabe00d783f.jpg",
+      "id": "1"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/27/27_-1_5_27_v001_f000495_697a0ba33b4af1fc.jpg",
+      "id": "27"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000200",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/41/41_-1_145_41_v059_f000910_86a8e53c51bec651.jpg",
+      "id": "41"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/6/6_-1_18_06_v007_f002095_63b8da4d7d709697.jpg",
+      "id": "6"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000201",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/26/26_-1_41_26_v023_f003275_7ebd1a723b6b2787.jpg",
+      "id": "26"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/14/14_-1_1_14_v002_f000120_2a5c3c79667e04af.jpg",
+      "id": "14"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000202",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/16/16_-1_88_16_v032_f002930_e65d9c08b64149c9.jpg",
+      "id": "16"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/42/42_-1_11_42_v005_f000005_bdb6ba668c6c38ba.jpg",
+      "id": "42"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000203",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/39/39_-1_59_39_v012_f000415_9745178f603f6c2a.jpg",
+      "id": "39"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/40/40_-1_86_40_v202_f000001_58b4a533d4380925.jpg",
+      "id": "40"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000204",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/4/4_-1_39_04_v003_f002405_15f5dbea3e3331f8.jpg",
+      "id": "4"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/12/12_-1_47_12_v007_f005125_2026b38d0bfbe6e4.jpg",
+      "id": "12"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000205",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/37/37_-1_50_37_v010_f003205_6358af0b5014a8f8.jpg",
+      "id": "37"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/0/0_-1_90_00_v030_f000205_21ec9400fd3c8def.jpg",
+      "id": "0"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000206",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/15/15_-1_20_15_v003_f001550_5ce7375865da273d.jpg",
+      "id": "15"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/34/34_-1_62_34_v017_f002255_96b258e2584834ed.jpg",
+      "id": "34"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000207",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/20/20_-1_22_20_v003_f002965_e0bc4000b25134b3.jpg",
+      "id": "20"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/34/34_-1_7_34_v004_f000975_bf3f93954f14727f.jpg",
+      "id": "34"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000208",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/30/30_-1_76_30_v008_f000680_2b0f7887d781ecd8.jpg",
+      "id": "30"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/45/45_-1_65_45_v015_f001605_a223aadccb478de1.jpg",
+      "id": "45"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000209",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/48/48_-1_91_48_v062_f000050_93d32c0bdc3a72ac.jpg",
+      "id": "48"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/33/33_-1_51_33_v038_f001190_d8c2bcd131aeb94a.jpg",
+      "id": "33"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000210",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/30/30_-1_156_30_v023_f002380_73a1709471fb2f4d.jpg",
+      "id": "30"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/27/27_-1_11_27_v005_f000650_652fe5b89acddc18.jpg",
+      "id": "27"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000211",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/34/34_-1_38_34_v012_f000880_51f26440a1f5a667.jpg",
+      "id": "34"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/35/35_-1_61_35_v023_f000640_8c7c14d174a4f27f.jpg",
+      "id": "35"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000212",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/49/49_-1_45_49_v016_f002945_6c7cb6ec0b2ffe41.jpg",
+      "id": "49"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/41/41_-1_45_41_v020_f000005_8480c2e3f538c8d3.jpg",
+      "id": "41"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000213",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/4/4_-1_38_04_v003_f002055_3721f2ce987c02db.jpg",
+      "id": "4"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/1/1_-1_59_01_v008_f000120_d0c5939302bba9a4.jpg",
+      "id": "1"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000214",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/39/39_-1_66_39_v013_f001010_1bf11d09a0e3f375.jpg",
+      "id": "39"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/19/19_-1_198_19_v072_f000165_2b4203c25518fa12.jpg",
+      "id": "19"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000215",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/41/41_-1_36_41_v015_f000810_505721d0e52cbe4f.jpg",
+      "id": "41"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/23/23_-1_48_23_v013_f003420_8d9526acf6b6584a.jpg",
+      "id": "23"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000216",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/34/34_-1_10_34_v004_f001150_6e3cb017f8a71c1b.jpg",
+      "id": "34"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/41/41_-1_77_41_v030_f001180_af34390e76ba26ac.jpg",
+      "id": "41"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000217",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/25/25_-1_37_25_v019_f001645_ca16a699c5cd8a13.jpg",
+      "id": "25"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/13/13_-1_288_13_v087_f001390_93c53eb06142ab66.jpg",
+      "id": "13"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000218",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/8/8_-1_37_08_v002_f005750_6bf78e5ae97d7790.jpg",
+      "id": "8"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/40/40_-1_9_40_v034_f005425_16d609e7586e3fdb.jpg",
+      "id": "40"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000219",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/7/7_-1_50_07_v007_f001890_4e3ac8139d9b7150.jpg",
+      "id": "7"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/46/46_-1_66_46_v022_f000155_6497abc31c078a13.jpg",
+      "id": "46"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000220",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/49/49_-1_14_49_20150403-094000____1_e585abd35ee270ce.jpg",
+      "id": "49"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/1/1_-1_26_01_v003_f000245_e792385769a8a2dd.jpg",
+      "id": "1"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000221",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/28/28_-1_211_28_v096_f000005_cb5d375c624e83cd.jpg",
+      "id": "28"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/32/32_-1_170_32_v051_f001690_4c187efd7912e919.jpg",
+      "id": "32"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000222",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/43/43_-1_41_43_v018_f000375_9f1ad0f336348d64.jpg",
+      "id": "43"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/36/36_-1_58_36_v025_f001190_756a803eae7da634.jpg",
+      "id": "36"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000223",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/42/42_-1_52_42_v021_f000005_548cf8f6455bc979.jpg",
+      "id": "42"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/33/33_-1_41_33_v026_f000005_3eb10dd0df055c6c.jpg",
+      "id": "33"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000224",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/21/21_-1_90_21_v030_f001015_a72c6e9412b48167.jpg",
+      "id": "21"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/3/3_-1_62_03_v009_f003820_14878ec0c8e5af11.jpg",
+      "id": "3"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000225",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/2/2_-1_158_02_v032_f002745_87e6097c2d71a4af.jpg",
+      "id": "2"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/27/27_-1_26_27_v010_f000705_8ffa20f9f1cf5942.jpg",
+      "id": "27"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000226",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/11/11_-1_31_11_v011_f000390_dfdd854c83cc63b7.jpg",
+      "id": "11"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/7/7_-1_28_07_v005_f002170_04d93567001835ab.jpg",
+      "id": "7"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000227",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/11/11_-1_71_11_v029_f000605_192fa419e244bf30.jpg",
+      "id": "11"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/8/8_-1_30_08_v002_f003940_4b86e44701ee67cf.jpg",
+      "id": "8"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000228",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/17/17_-1_40_17_v003_f000255_f648056521a9609a.jpg",
+      "id": "17"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/21/21_-1_41_21_v013_f002765_a1aef33b3108f2cd.jpg",
+      "id": "21"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000229",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/46/46_-1_98_46_v034_f000075_efbd7bc460b5ff69.jpg",
+      "id": "46"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/42/42_-1_3_42_v002_f000005_c28b72978b527e6e.jpg",
+      "id": "42"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000230",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/4/4_-1_15_04_5_3accb0246f436e65.jpg",
+      "id": "4"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/25/25_-1_31_25_v017_f001905_042c9b6a056eb612.jpg",
+      "id": "25"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000231",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/20/20_-1_44_20_v004_f005055_d765ccd9cfb2f7e3.jpg",
+      "id": "20"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/22/22_-1_140_22_v028_f000005_217d61d1537dcbe4.jpg",
+      "id": "22"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000232",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/20/20_-1_84_20_v012_f003120_14243d8560d96683.jpg",
+      "id": "20"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/0/0_-1_158_00_v084_f001515_0c565934da3f05fd.jpg",
+      "id": "0"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000233",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/2/2_-1_111_02_v022_f004275_e539dc1a936085ef.jpg",
+      "id": "2"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/10/10_-1_227_10_v085_f004245_08ff05976a1cdefc.jpg",
+      "id": "10"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000234",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/24/24_-1_17_24_20160729-113720___1890_84f8c9ccada9c7e9.jpg",
+      "id": "24"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/5/5_-1_83_05_v002_f000675_44f9d7cdc6b123b6.jpg",
+      "id": "5"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000235",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/7/7_-1_38_07_v006_f000360_edd8d9d3746fee11.jpg",
+      "id": "7"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/9/9_-1_123_09_v021_f000405_da0f54e4ec1e6f08.jpg",
+      "id": "9"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000236",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/8/8_-1_76_08_v008_f000205_b3cf607ddcc67ed0.jpg",
+      "id": "8"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/0/0_-1_230_00_v150_f002705_ca7419235f7a9e03.jpg",
+      "id": "0"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000237",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/37/37_-1_55_37_v013_f000115_d3f10ee1ccd0c19c.jpg",
+      "id": "37"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/36/36_-1_179_36_v073_f000980_a28216527dc4a02a.jpg",
+      "id": "36"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000238",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/19/19_-1_216_19_v087_f000090_7f42d8d906baa0ef.jpg",
+      "id": "19"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/11/11_-1_65_11_v023_f003940_3543d859c0f89cbf.jpg",
+      "id": "11"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000239",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/14/14_-1_42_14_v010_f000255_44d6736ad97940c9.jpg",
+      "id": "14"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/12/12_-1_38_12_v006_f000395_303201c87a5ef6e6.jpg",
+      "id": "12"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000240",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/13/13_-1_124_13_v026_f002580_461cf756f335e1d2.jpg",
+      "id": "13"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/42/42_-1_18_42_v006_f000005_ec914f7791c6ef19.jpg",
+      "id": "42"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000241",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/19/19_-1_23_19_v009_f000510_b5ba73f48cb40f62.jpg",
+      "id": "19"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/42/42_-1_14_42_v005_f001615_0fe51abe5042d62c.jpg",
+      "id": "42"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000242",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/25/25_-1_74_25_v052_f000005_da26c14f99f34b1f.jpg",
+      "id": "25"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/15/15_-1_33_15_v005_f000415_f70930b39ce47aba.jpg",
+      "id": "15"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000243",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/47/47_-1_59_47_v046_f000205_e5543192c99ca9f8.jpg",
+      "id": "47"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/43/43_-1_45_43_v020_f000585_dfd021dfbdf0d5b7.jpg",
+      "id": "43"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000244",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/25/25_-1_53_25_v031_f000005_1ccc1b129f0cfa06.jpg",
+      "id": "25"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/4/4_-1_35_04_v003_f001670_f9066671507e1878.jpg",
+      "id": "4"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000245",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/43/43_-1_5_43_v003_f000005_2ac2c9b628551d4d.jpg",
+      "id": "43"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/26/26_-1_235_26_v167_f000005_d022e7b88966e681.jpg",
+      "id": "26"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000246",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/41/41_-1_89_41_v033_f000335_c6d756a03db6cf95.jpg",
+      "id": "41"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/26/26_-1_242_26_v176_f001785_efa6ee00f61d23b4.jpg",
+      "id": "26"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000247",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/11/11_-1_20_11_v007_f000800_f073d9959771d5fb.jpg",
+      "id": "11"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/45/45_-1_33_45_v010_f000780_b63c3350af158e87.jpg",
+      "id": "45"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000248",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/26/26_-1_33_26_v020_f001955_b0acab0b941d48f2.jpg",
+      "id": "26"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/23/23_-1_118_23_v027_f000260_04e366babd9bf993.jpg",
+      "id": "23"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000249",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/24/24_-1_1_24_20151227-154140__1_330_205f4c327235cc4e.jpg",
+      "id": "24"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/22/22_-1_45_22_v009_f000100_de178a276cd5253d.jpg",
+      "id": "22"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "IPanda50_P6_000250",
+    "image_a": {
+      "image_path": "data/IPanda50/IDs/17/17_-1_0_17_v001_f000005_255ce8b7dc240bbb.jpg",
+      "id": "17"
+    },
+    "image_b": {
+      "image_path": "data/IPanda50/IDs/19/19_-1_48_19_v014_f005965_b7fde813146a48c2.jpg",
+      "id": "19"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  }
+]
