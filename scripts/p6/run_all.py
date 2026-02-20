@@ -49,7 +49,7 @@ def main():
             "42",
         ]
 
-        print(f"  > Generating P6 (Counterfactual) dataset...")
+        print("  > Generating P6 (Counterfactual) dataset...")
         try:
             subprocess.run(gen_cmd, check=True)
         except subprocess.CalledProcessError as e:
@@ -63,7 +63,7 @@ def main():
 
         if os.path.exists(analyze_script):
             if os.path.exists(json_file):
-                print(f"  > Analyzing dataset statistics...")
+                print("  > Analyzing dataset statistics...")
                 analyze_cmd = [
                     sys.executable,
                     analyze_script,
