@@ -10,8 +10,7 @@ def main():
     
     # Path to the scripts we want to run
     generate_script = os.path.join(project_root, "scripts", "p9", "generate_dataset.py")
-    # Reuse P1 analyzer as the distribution logic (samples per ID) is compatible
-    analyze_script = os.path.join(project_root, "scripts", "p1", "analyze_dataset.py")
+    analyze_script = os.path.join(project_root, "scripts", "p9", "analyze_dataset.py")
 
     # Check if data directory exists
     if not os.path.exists(data_root):
