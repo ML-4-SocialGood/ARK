@@ -118,7 +118,7 @@ def main():
     output_subdir = os.path.join(args.output_dir, args.dataset_name, "p9")
     os.makedirs(output_subdir, exist_ok=True)
 
-    output_filename = f"{args.dataset_name}_MIA_P9_N{args.gallery_size}.json"
+    output_filename = f"{args.dataset_name}_MIA_P9_N{args.gallery_size}_M{args.num_positives}.json"
     output_path = os.path.join(output_subdir, output_filename)
 
     with open(output_path, "w") as f:
