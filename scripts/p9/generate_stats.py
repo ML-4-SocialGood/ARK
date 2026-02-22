@@ -22,11 +22,11 @@ def analyze_file(file_path):
 
     # Extract N and M from filename
     # Expected format: {Species}_MIA_P9_N{N}_M{M}.json
-    n_match = re.search(r"_N(\d+)", filename)
-    n_val = int(n_match.group(1)) if n_match else -1
-
-    m_match = re.search(r"_M(\d+)", filename)
-    m_val = int(m_match.group(1)) if m_match else -1
+    match = re.search(r"_N(\d+)_M(\d+)\.json$", filename)
+    if match:
+        n_val, m_val = int(match.group(1)), int(match.group(2))
+    else:
+        n_val, m_val = -1, -1
 
     # Calculate stats
     total_tasks = len(data)

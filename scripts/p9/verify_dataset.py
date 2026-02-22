@@ -99,11 +99,12 @@ def verify_dataset(dataset_name: str, annotations_dir: str, data_root: str) -> b
         file_path = os.path.join(p9_dir, f)
 
         # Extract N and M from filename: {Species}_MIA_P9_N{N}_M{M}.json
-        n_match = re.search(r"_N(\d+)", f)
-        n_val = int(n_match.group(1)) if n_match else -1
-
-        m_match = re.search(r"_M(\d+)", f)
-        m_val = int(m_match.group(1)) if m_match else -1
+        # Use a stricter regex anchored to the end or specific pattern
+        match = re.search(r"_N(\d+)_M(\d+)\.json$", f)
+        if match:
+            n_val, m_val = int(match.group(1)), int(match.group(2))
+        else:
+            n_val, m_val = -1, -1
 
         print(f"  Checking {f} (Expect N={n_val}, M={m_val})...")
 
