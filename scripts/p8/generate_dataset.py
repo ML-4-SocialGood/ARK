@@ -38,7 +38,7 @@ def main():
     parser.add_argument(
         "--severity",
         type=int,
-        default=2,
+        default=1,
         choices=[1, 2, 3],
         help="Severity of corruption (1=Low, 2=Medium, 3=High). Ignored for grayscale.",
     )
