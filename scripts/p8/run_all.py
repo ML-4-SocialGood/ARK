@@ -2,6 +2,7 @@
 scripts/p8/run_all.py
 Automate P8 generation for all species based on existing P1 datasets.
 """
+import datetime
 import os
 import subprocess
 import sys
@@ -13,8 +14,34 @@ def main():
     generate_script = os.path.join(project_root, "scripts", "p8", "generate_dataset.py")
     verify_script = os.path.join(project_root, "scripts", "p8", "verify_dataset.py")
 
+    log_file = os.path.join(project_root, "p8_run_log.txt")
+
+    def log(msg):
+        print(msg)
+        with open(log_file, "a", encoding="utf-8") as f:
+            f.write(msg + "\n")
+
+    def run_and_log(cmd, check=True):
+        with open(log_file, "a", encoding="utf-8") as f:
+            process = subprocess.Popen(
+                cmd, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True
+            )
+            if process.stdout:
+                for line in process.stdout:
+                    sys.stdout.write(line)
+                    f.write(line)
+            process.wait()
+            if check and process.returncode != 0:
+                raise subprocess.CalledProcessError(process.returncode, cmd)
+            return process.returncode
+
+    # Initialize log
+    with open(log_file, "w", encoding="utf-8") as f:
+        f.write(f"P8 Generation Log - {datetime.datetime.now()}\n")
+        f.write("=" * 60 + "\n")
+
     if not os.path.exists(annotations_root):
-        print(f"Error: Annotations directory '{annotations_root}' not found.")
+        log(f"Error: Annotations directory '{annotations_root}' not found.")
         return
 
     # 1. Identify Species with P1 data
@@ -28,10 +55,10 @@ def main():
     species_list.sort()
 
     if not species_list:
-        print("No species with P1 data found.")
+        log("No species with P1 data found.")
         return
 
-    print(f"Found {len(species_list)} species with P1 data: {', '.join(species_list)}")
+    log(f"Found {len(species_list)} species with P1 data: {', '.join(species_list)}")
 
     # Define Corruptions to generate
     # We generate a comprehensive set for the benchmark
@@ -42,7 +69,7 @@ def main():
     ]
 
     for i, species in enumerate(species_list):
-        print(f"\n[{i + 1}/{len(species_list)}] Processing Species: {species}")
+        log(f"\n[{i + 1}/{len(species_list)}] Processing Species: {species}")
 
         p1_dir = os.path.join(annotations_root, species, "p1")
 
@@ -53,12 +80,12 @@ def main():
         p1_files.sort()
 
         if not p1_files:
-            print(f"  No P1 JSON files found in {p1_dir}")
+            log(f"  No P1 JSON files found in {p1_dir}")
             continue
 
         for p1_file in p1_files:
             p1_path = os.path.join(p1_dir, p1_file)
-            print(f"  > Source: {p1_file}")
+            log(f"  > Source: {p1_file}")
 
             for c_type, severities in corruptions:
                 for sev in severities:
@@ -78,19 +105,19 @@ def main():
 
                     # Run generation
                     try:
-                        subprocess.run(cmd, check=True)
+                        run_and_log(cmd, check=True)
                     except subprocess.CalledProcessError as e:
-                        print(
+                        log(
                             f"      [ERROR] Failed to generate {c_type} S{sev} for {p1_file}: {e}"
                         )
 
         # Verify after generating all variants for this species
-        print(f"  > Verifying P8 datasets for {species}...")
+        log(f"  > Verifying P8 datasets for {species}...")
         verify_cmd = [sys.executable, verify_script, "--dataset_name", species, "--data_root", project_root]
-        subprocess.run(verify_cmd, check=False)
+        run_and_log(verify_cmd, check=False)
 
-    print("\n" + "=" * 60)
-    print("All P8 processing complete.")
+    log("\n" + "=" * 60)
+    log("All P8 processing complete.")
 
 if __name__ == "__main__":
     main()

@@ -59,6 +59,10 @@ def main():
     with open(args.p1_json, "r") as f:
         p1_data = json.load(f)
 
+    if not isinstance(p1_data, list):
+        print(f"Error: P1 data in {args.p1_json} is not a list (got {type(p1_data)}).")
+        return
+
     print(f"Loaded {len(p1_data)} tasks from {args.p1_json}")
 
     # Determine Output Paths

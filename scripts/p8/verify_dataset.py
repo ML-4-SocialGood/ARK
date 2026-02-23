@@ -20,6 +20,12 @@ def verify_task(task: Dict[str, Any], data_root: str) -> List[str]:
     query = task["query"]
     gallery = task["gallery"]
 
+    if query is None:
+        return [f"Task {task_id}: Query field is None."]
+    
+    if gallery is None:
+        return [f"Task {task_id}: Gallery field is None."]
+
     # 1. Check Query Image (Must be corrupted)
     q_path = query.get("image_path")
     if not q_path:
