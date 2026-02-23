@@ -125,7 +125,8 @@ def main():
 
         # Generate Corrupted Filename
         # Structure: corrupted_root/{ID}/{filename}
-        path_parts = query_path.split(os.sep)
+        norm_query_path = os.path.normpath(query_path)
+        path_parts = norm_query_path.split(os.sep)
         if len(path_parts) >= 2:
             id_name = path_parts[-2]  # Assuming data/Species/IDs/{ID}/{Img}
             img_name = path_parts[-1]
