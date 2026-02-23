@@ -1,0 +1,4090 @@
+[
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000001",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/4/4_-1_16_011017686F_2019-08-25_15-44-51_4f4aecddd16cfdf5.jpg",
+      "ground_truth_id": "4"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_12_159_2019-08-22_22-45-22_834d4ef363641513.jpg",
+        "id": "24"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_15_0110178347_2019-08-27_07-43-50_1f22606a0320f316.jpg",
+        "id": "8"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_43__L_0700EDA638_2018-12-14_15-27-08_0010fa4425e6ebd8.jpg",
+        "id": "12"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_14_0700ED87AE_2018-11-30_11-21-57_9a9d8842e6c05f9b.jpg",
+        "id": "11"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_10_011017686F_2019-08-25_13-45-16_96ae93f68bfcdff6.jpg",
+        "id": "4"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_14_0110178201_2019-08-27_07-36-01_be0d9ca9f7d4a688.jpg",
+        "id": "7"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_11_0700EDDCC4_2018-11-26_13-53-36_f8b46aa95f9b9280.jpg",
+        "id": "16"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_21__L_0700EDDB4E_2018-12-13_09-51-36_aaed4f5c6f234719.jpg",
+        "id": "15"
+      }
+    ],
+    "answer": "E",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/4/4_-1_16_011017686F_2019-08-25_15-44-51_4f4aecddd16cfdf5.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000002",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/15/15_-1_22__L_0700EDDB4E_2018-12-13_12-32-30_dfc7d288548db75f.jpg",
+      "ground_truth_id": "15"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/0/0_-1_15_0700EDAC58_2019-08-26_10-05-59_011fdb939a8bc12f.jpg",
+        "id": "0"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/21/21_-1_20_103_2019-08-24_18-22-09_2c19d8d8d8f6eccc.jpg",
+        "id": "21"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_1_0110178989_2019-08-22_15-45-32_b0d7bc2b070206d1.jpg",
+        "id": "9"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/13/13_-1_15_0700EDB994_2018-11-29_10-41-33_e7827d9ed86bc3c4.jpg",
+        "id": "13"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_2_0700EDDB4E_2018-12-06_10-43-51_0a566e037cd54770.jpg",
+        "id": "15"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_29__H_0700EDA638_2018-12-13_09-38-31_6a5a67b9be484685.jpg",
+        "id": "12"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_14__H_0700EDE6D1_2018-12-13_08-53-43_666e1a231fbdce78.jpg",
+        "id": "17"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_53_007_2019-08-24_17-26-29_a421f69f95e4f99d.jpg",
+        "id": "19"
+      }
+    ],
+    "answer": "E",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/15/15_-1_22__L_0700EDDB4E_2018-12-13_12-32-30_dfc7d288548db75f.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000003",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/2/2_-1_14_01101787FB_2019-08-23_13-49-30_ede583e674bef50d.jpg",
+      "ground_truth_id": "2"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/2/2_-1_42_01101787FB_2019-08-27_10-45-35_aa699125958137fa.jpg",
+        "id": "2"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_43_007_2019-08-24_17-08-49_417ba1c9ba78262f.jpg",
+        "id": "19"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/3/3_-1_11_01101788B6_2019-08-23_12-34-00_114db3a954ac0a00.jpg",
+        "id": "3"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_11_0417D30D92_2018-11-30_11-33-24_a1da4f1841617e8b.jpg",
+        "id": "10"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_15_011017897F_2019-08-23_17-01-34_c87fcf2bbb0b02f8.jpg",
+        "id": "5"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_22__H_0700EDE6D1_2018-12-17_09-28-50_d8ce12b46b3748fb.jpg",
+        "id": "17"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_7_0700EDDAE6_2018-11-29_08-14-51_933c0794a55bb272.jpg",
+        "id": "14"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_22_011017686F_2019-08-26_08-30-24_f03d1d4068adabc7.jpg",
+        "id": "4"
+      }
+    ],
+    "answer": "A",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/2/2_-1_14_01101787FB_2019-08-23_13-49-30_ede583e674bef50d.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000004",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/14/14_-1_7_0700EDDAE6_2018-11-29_08-14-51_933c0794a55bb272.jpg",
+      "ground_truth_id": "14"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/25/25_-1_63_179_2019-08-24_14-18-20_9fc800b172d5afe6.jpg",
+        "id": "25"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/13/13_-1_19_0700EDB994_2018-12-06_09-28-38_b0bc44746c956acd.jpg",
+        "id": "13"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_31_011017686F_2019-08-26_11-55-46_f44fea6f7cc048fd.jpg",
+        "id": "4"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_22_0110178201_2019-08-27_10-09-15_80c89158c61e0f29.jpg",
+        "id": "7"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_23_0417D30D92_2018-12-10_12-47-25_abb8f181baf16f65.jpg",
+        "id": "10"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_25_0700EDDAE6_2018-12-10_11-15-19_0574c60b84f28458.jpg",
+        "id": "14"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_7_0110176514_2019-08-24_16-18-51_ac5ffb6c952ed759.jpg",
+        "id": "6"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_25_011017897F_2019-08-25_11-45-39_ceda4b395c641e4e.jpg",
+        "id": "5"
+      }
+    ],
+    "answer": "F",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/14/14_-1_7_0700EDDAE6_2018-11-29_08-14-51_933c0794a55bb272.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000005",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/16/16_-1_13_0700EDDCC4_2018-11-29_08-47-02_8b54446e4d460cf4.jpg",
+      "ground_truth_id": "16"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_24_0110178201_2019-08-27_11-47-42_dfec324ae8109eda.jpg",
+        "id": "7"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/3/3_-1_13_01101788B6_2019-08-23_14-17-05_df96ecd6db7775a6.jpg",
+        "id": "3"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_22_0700EDDCC4_2018-11-30_08-23-04_77ec0de7412f4a7c.jpg",
+        "id": "16"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_6_0700EDDAE6_2018-11-29_07-51-08_da6db5a2d4e78a11.jpg",
+        "id": "14"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_62_007_2019-08-24_17-36-11_e84b19895678ab10.jpg",
+        "id": "19"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/20/20_-1_26_098_2019-08-22_19-42-43_92880b48c06845af.jpg",
+        "id": "20"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_3_130_2019-08-20_18-33-13_eec59ceb7a5caf02.jpg",
+        "id": "23"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_23_011017897F_2019-08-25_10-44-29_a539942b54d36edb.jpg",
+        "id": "5"
+      }
+    ],
+    "answer": "C",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/16/16_-1_13_0700EDDCC4_2018-11-29_08-47-02_8b54446e4d460cf4.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000006",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/10/10_-1_12_0417D30D92_2018-11-30_11-36-33_c78ac2cffa81a7eb.jpg",
+      "ground_truth_id": "10"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/21/21_-1_63_103_2019-08-24_19-11-32_5b70e2d81f6755b4.jpg",
+        "id": "21"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_31_0700ED87AE_2018-12-10_15-03-37_d352100417b7f6b1.jpg",
+        "id": "11"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_44__L_0700EDDAE6_2018-12-14_09-51-57_5f07f3f5d84447c1.jpg",
+        "id": "14"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/13/13_-1_31__H_0700EDB994_2018-12-13_12-12-02_40b7710373c05e42.jpg",
+        "id": "13"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_7_0110176514_2019-08-24_16-18-51_ac5ffb6c952ed759.jpg",
+        "id": "6"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_24_011017897F_2019-08-25_11-43-34_a0ca9c9dbc0185e9.jpg",
+        "id": "5"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_3_011017686F_2019-08-25_12-13-59_cc5be8bfa10fd858.jpg",
+        "id": "4"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_17_0417D30D92_2018-11-30_15-35-42_9c7849725e788990.jpg",
+        "id": "10"
+      }
+    ],
+    "answer": "H",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/10/10_-1_12_0417D30D92_2018-11-30_11-36-33_c78ac2cffa81a7eb.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000007",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/11/11_-1_26_0700ED87AE_2018-12-10_11-57-57_3489349f8677ea68.jpg",
+      "ground_truth_id": "11"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_27__L_0700EDE6D1_2018-12-10_09-14-36_61c76449a2c205c1.jpg",
+        "id": "17"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_68_159_2019-08-22_23-40-20_c69489c1cd28352b.jpg",
+        "id": "24"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_5_011017897F_2019-08-22_15-46-10_fcd54890cb6e1dbc.jpg",
+        "id": "5"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_35__H_0700ED87AE_2018-12-13_08-18-48_f84e19fefb02b982.jpg",
+        "id": "11"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_8_107_2019-08-24_14-42-35_4427639d3da0192b.jpg",
+        "id": "22"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/0/0_-1_12_0700EDAC58_2019-08-26_08-17-52_cd175119890d0955.jpg",
+        "id": "0"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_15_0110178989_2019-08-24_15-40-45_37097bd33a146a75.jpg",
+        "id": "9"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_5_0700EDDAE6_2018-11-26_14-23-05_a524ab4c0a5109fc.jpg",
+        "id": "14"
+      }
+    ],
+    "answer": "D",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/11/11_-1_26_0700ED87AE_2018-12-10_11-57-57_3489349f8677ea68.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000008",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/22/22_-1_11_107_2019-08-24_14-55-54_d74780741b6f3efe.jpg",
+      "ground_truth_id": "22"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_23_107_2019-08-24_15-26-55_94df488b87b82222.jpg",
+        "id": "22"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_17_0110178201_2019-08-27_07-45-29_d153929474fbf03b.jpg",
+        "id": "7"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/3/3_-1_9_01101788B6_2019-08-23_12-02-06_f20593695c7da9d8.jpg",
+        "id": "3"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/1/1_-1_14_01101786C5_2019-08-26_11-24-12_ca861595937c8f23.jpg",
+        "id": "1"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_13__H_0700EDE6D1_2018-12-13_07-49-25_5c67f13db5c7565a.jpg",
+        "id": "17"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_9__H_0700EDDB4E_2018-12-11_15-03-13_d0d46eb445b839be.jpg",
+        "id": "15"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_71_007_2019-08-24_17-45-49_4d130c340c8bd366.jpg",
+        "id": "19"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_38__L_0417D30D92_2018-12-13_09-23-25_cf103719a135b0e1.jpg",
+        "id": "10"
+      }
+    ],
+    "answer": "A",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/22/22_-1_11_107_2019-08-24_14-55-54_d74780741b6f3efe.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000009",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/14/14_-1_40__L_0700EDDAE6_2018-12-11_14-17-57_5a8ce1837d2aaad2.jpg",
+      "ground_truth_id": "14"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_41__L_0700EDDCC4_2018-12-13_08-30-41_bb6e898a7063eb32.jpg",
+        "id": "16"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_43__L_0700ED87AE_2018-12-14_15-46-54_497872234124291a.jpg",
+        "id": "11"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_36_007_2019-08-24_17-05-00_32744d0f771c3375.jpg",
+        "id": "19"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_0_0110176514_2019-08-23_11-49-25_9416c423e6e723be.jpg",
+        "id": "6"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_20_0700EDDAE6_2018-12-08_08-03-21_141d2e5d3db76aa5.jpg",
+        "id": "14"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_35_159_2019-08-22_23-11-27_3b140ff1c933788c.jpg",
+        "id": "24"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_78_107_2019-08-24_16-39-15_966662c4b5333485.jpg",
+        "id": "22"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_10_0417D30D92_2018-11-30_09-15-03_78e3e6a67a6a84ea.jpg",
+        "id": "10"
+      }
+    ],
+    "answer": "E",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/14/14_-1_40__L_0700EDDAE6_2018-12-11_14-17-57_5a8ce1837d2aaad2.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000010",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/18/18_-1_11__H_0700EE16B2_2018-12-13_10-00-20_b8a6c49c7f836ce9.jpg",
+      "ground_truth_id": "18"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_38_130_2019-08-20_19-46-05_520a59c38125a460.jpg",
+        "id": "23"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_37__H_0700EDDCC4_2018-12-13_12-11-24_0b5990b64a5b760a.jpg",
+        "id": "16"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_8_0700EDA638_2018-11-26_12-50-40_03a60b3c2926d9ef.jpg",
+        "id": "12"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_42__L_0700EDDAE6_2018-12-13_13-14-07_9d474f497af51fb7.jpg",
+        "id": "14"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_33_0110176514_2019-08-29_13-35-41_57f0a05e4cf35d22.jpg",
+        "id": "6"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/25/25_-1_64_179_2019-08-24_14-18-37_6076875235a07212.jpg",
+        "id": "25"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_7__H_0700EE16B2_2018-12-13_09-01-22_0d4986f39836d2a4.jpg",
+        "id": "18"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_26__L_0700EDDB4E_2018-12-17_14-06-23_21f59d64a3addfaf.jpg",
+        "id": "15"
+      }
+    ],
+    "answer": "G",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/18/18_-1_11__H_0700EE16B2_2018-12-13_10-00-20_b8a6c49c7f836ce9.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000011",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/21/21_-1_15_103_2019-08-24_18-14-05_60ae9494327ab2f2.jpg",
+      "ground_truth_id": "21"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/2/2_-1_17_01101787FB_2019-08-23_16-02-00_f3ae572f46d21e03.jpg",
+        "id": "2"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_14_0110178347_2019-08-24_16-03-38_dd3aa85bb2911c37.jpg",
+        "id": "8"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_20_0700ED87AE_2018-12-08_13-06-56_25ce122a01d13b6d.jpg",
+        "id": "11"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_34_011017897F_2019-08-25_15-33-21_93f0d55d72524a91.jpg",
+        "id": "5"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/21/21_-1_9_103_2019-08-24_18-08-57_44de79fe79fcedc7.jpg",
+        "id": "21"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/1/1_-1_20_01101786C5_2019-08-26_13-17-35_3fbdc00791922031.jpg",
+        "id": "1"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_25__L_0700EDDB4E_2018-12-17_13-37-59_3376c7a2f21ff9ed.jpg",
+        "id": "15"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_4__H_0700EE16B2_2018-12-13_07-23-04_5dc4f1b16b2e957c.jpg",
+        "id": "18"
+      }
+    ],
+    "answer": "E",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/21/21_-1_15_103_2019-08-24_18-14-05_60ae9494327ab2f2.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000012",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/1/1_-1_5_01101786C5_2019-08-25_16-24-48_de047804d2894102.jpg",
+      "ground_truth_id": "1"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/1/1_-1_40_01101786C5_2019-08-29_13-08-20_52bef32e7bd1f612.jpg",
+        "id": "1"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/0/0_-1_15_0700EDAC58_2019-08-26_10-05-59_011fdb939a8bc12f.jpg",
+        "id": "0"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_31_011017686F_2019-08-26_11-55-46_f44fea6f7cc048fd.jpg",
+        "id": "4"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/21/21_-1_53_103_2019-08-24_19-00-53_b72036fac917aa0d.jpg",
+        "id": "21"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_32__H_0700ED87AE_2018-12-10_11-51-48_e5e7a3390b0686ad.jpg",
+        "id": "11"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_12_0700EDDAE6_2018-11-30_09-45-05_1d044dcdd1c1467f.jpg",
+        "id": "14"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_0_130_2019-08-20_18-16-24_13e8e5b643472d35.jpg",
+        "id": "23"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_19_0700EDDCC4_2018-11-29_11-49-33_14e32ebc6e0d132b.jpg",
+        "id": "16"
+      }
+    ],
+    "answer": "A",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/1/1_-1_5_01101786C5_2019-08-25_16-24-48_de047804d2894102.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000013",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/12/12_-1_20_0700EDA638_2018-11-30_09-54-36_717e97206d83bad2.jpg",
+      "ground_truth_id": "12"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/3/3_-1_24_01101788B6_2019-08-27_13-33-53_b86a26be2973758c.jpg",
+        "id": "3"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_65_007_2019-08-24_17-38-21_9dc37e216acb7f4e.jpg",
+        "id": "19"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_26__L_0700EDDB4E_2018-12-17_14-06-23_21f59d64a3addfaf.jpg",
+        "id": "15"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/25/25_-1_68_179_2019-08-24_14-24-48_ca65845482429b7a.jpg",
+        "id": "25"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_27_0700EDA638_2018-12-10_12-37-19_5467ac328a7f8577.jpg",
+        "id": "12"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_10_0110178347_2019-08-23_13-58-35_34ac039f3871381e.jpg",
+        "id": "8"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_19_011017897F_2019-08-25_10-39-02_aab45f1d662b5f59.jpg",
+        "id": "5"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/1/1_-1_12_01101786C5_2019-08-26_09-05-42_2960d2cd1fa62ad0.jpg",
+        "id": "1"
+      }
+    ],
+    "answer": "E",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/12/12_-1_20_0700EDA638_2018-11-30_09-54-36_717e97206d83bad2.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000014",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/2/2_-1_17_01101787FB_2019-08-23_16-02-00_f3ae572f46d21e03.jpg",
+      "ground_truth_id": "2"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/3/3_-1_17_01101788B6_2019-08-25_11-51-28_2530d9c3e88cc1dd.jpg",
+        "id": "3"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_32_0110176514_2019-08-29_13-35-13_16ea8622b57c3c4e.jpg",
+        "id": "6"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_7_0700EDDAE6_2018-11-29_08-14-51_933c0794a55bb272.jpg",
+        "id": "14"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_13_0110178347_2019-08-24_15-58-28_29f3d6b94a222fb4.jpg",
+        "id": "8"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/2/2_-1_43_01101787FB_2019-08-27_11-56-04_aebb09991d4be9b3.jpg",
+        "id": "2"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_8_0700EDDCC4_2018-11-26_12-01-15_81913ed55e4c4586.jpg",
+        "id": "16"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_19__L_0700EE16B2_2018-12-17_10-31-25_89c71929e66f2482.jpg",
+        "id": "18"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_37_159_2019-08-22_23-12-07_7d95be7b007f70e9.jpg",
+        "id": "24"
+      }
+    ],
+    "answer": "E",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/2/2_-1_17_01101787FB_2019-08-23_16-02-00_f3ae572f46d21e03.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000015",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/10/10_-1_41__L_0417D30D92_2018-12-14_10-45-01_16af6578eb25f2d7.jpg",
+      "ground_truth_id": "10"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_44_107_2019-08-24_15-58-29_aff98275ed47d005.jpg",
+        "id": "22"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_21_0417D30D92_2018-12-10_12-46-58_a77146ea028adc10.jpg",
+        "id": "10"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_24_011017686F_2019-08-26_09-53-15_079df81ff24bd647.jpg",
+        "id": "4"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_7__H_0700EE16B2_2018-12-13_09-01-22_0d4986f39836d2a4.jpg",
+        "id": "18"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_12_0110178989_2019-08-23_18-00-33_7ef740b06b48d145.jpg",
+        "id": "9"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_21_159_2019-08-22_22-55-22_24e33efc0cca1305.jpg",
+        "id": "24"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/25/25_-1_25_179_2019-08-24_13-34-58_761238b8f2a47377.jpg",
+        "id": "25"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_0_0700EDDAE6_2018-11-25_08-19-02_aedd1e8b3379ad30.jpg",
+        "id": "14"
+      }
+    ],
+    "answer": "B",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/10/10_-1_41__L_0417D30D92_2018-12-14_10-45-01_16af6578eb25f2d7.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000016",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/6/6_-1_29_0110176514_2019-08-29_12-26-41_b31d59102d129963.jpg",
+      "ground_truth_id": "6"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_21_0110176514_2019-08-27_11-53-42_10838c717b90da8f.jpg",
+        "id": "6"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_41_130_2019-08-20_19-47-28_04b926613ac42ff8.jpg",
+        "id": "23"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_0_011017897F_2019-08-22_08-39-22_1e3a7de758126962.jpg",
+        "id": "5"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_59_107_2019-08-24_16-14-01_c943b00840d475af.jpg",
+        "id": "22"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/1/1_-1_14_01101786C5_2019-08-26_11-24-12_ca861595937c8f23.jpg",
+        "id": "1"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_29_0110178201_2019-08-27_15-50-32_74e9aa220ccc8e57.jpg",
+        "id": "7"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_11_011017686F_2019-08-25_13-46-28_376d444a2c10ac36.jpg",
+        "id": "4"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_46__L_0700EDDCC4_2018-12-15_12-27-04_fd1cdbeee7ff446c.jpg",
+        "id": "16"
+      }
+    ],
+    "answer": "A",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/6/6_-1_29_0110176514_2019-08-29_12-26-41_b31d59102d129963.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000017",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/24/24_-1_10_159_2019-08-22_22-42-31_2bedb7234e4dbd88.jpg",
+      "ground_truth_id": "24"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_34__H_0700EDA638_2018-12-14_15-27-08_e6823a9943aab306.jpg",
+        "id": "12"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/3/3_-1_18_01101788B6_2019-08-25_11-55-05_d61d9e9be8cd4f74.jpg",
+        "id": "3"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_24_007_2019-08-24_16-50-18_0ddaf101f9fbfa5c.jpg",
+        "id": "19"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_30_0110178201_2019-08-27_15-50-34_06dccb05f800d80e.jpg",
+        "id": "7"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/25/25_-1_14_179_2019-08-24_13-17-43_8d044c5cdb9a6802.jpg",
+        "id": "25"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/1/1_-1_41_01101786C5_2019-08-29_13-08-35_6b2ce0eb1279ca2a.jpg",
+        "id": "1"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_18_0417D30D92_2018-12-08_09-09-01_ee23338fa55d0779.jpg",
+        "id": "10"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_23_159_2019-08-22_22-56-33_d5c13dcb3e180ee9.jpg",
+        "id": "24"
+      }
+    ],
+    "answer": "H",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/24/24_-1_10_159_2019-08-22_22-42-31_2bedb7234e4dbd88.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000018",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/3/3_-1_8_01101788B6_2019-08-22_17-17-16_46ee728884788c8f.jpg",
+      "ground_truth_id": "3"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/13/13_-1_9_0700EDB994_2018-11-26_13-55-23_9d74264be0d22915.jpg",
+        "id": "13"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_16__L_0700EE16B2_2018-12-13_07-21-41_aab7eb24a3670432.jpg",
+        "id": "18"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/20/20_-1_40_098_2019-08-22_20-05-47_cbc18e7209f68988.jpg",
+        "id": "20"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/0/0_-1_4_0700EDAC58_2019-08-25_12-31-44_5f1f448c466b746a.jpg",
+        "id": "0"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_6_0700EDDB4E_2018-12-10_12-17-54_504a6a0495984250.jpg",
+        "id": "15"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/3/3_-1_13_01101788B6_2019-08-23_14-17-05_df96ecd6db7775a6.jpg",
+        "id": "3"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_12_0110178347_2019-08-24_15-49-02_80b5ce0617c7043f.jpg",
+        "id": "8"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_19_0110178201_2019-08-27_09-57-35_00cfeed3b93c8c67.jpg",
+        "id": "7"
+      }
+    ],
+    "answer": "F",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/3/3_-1_8_01101788B6_2019-08-22_17-17-16_46ee728884788c8f.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000019",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/19/19_-1_45_007_2019-08-24_17-10-11_d69813f3ed723871.jpg",
+      "ground_truth_id": "19"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_6_0110176514_2019-08-24_16-18-50_ebd3515c29d0ccdc.jpg",
+        "id": "6"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_1_0700EDDB4E_2018-12-06_08-59-41_61490af3c781b64f.jpg",
+        "id": "15"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_4_0700EDDCC4_2018-11-26_09-25-41_7422400593b7e96c.jpg",
+        "id": "16"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/0/0_-1_11_0700EDAC58_2019-08-26_06-26-05_2c1de89a950280eb.jpg",
+        "id": "0"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_25_0700EDDAE6_2018-12-10_11-15-19_0574c60b84f28458.jpg",
+        "id": "14"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/20/20_-1_56_098_2019-08-22_20-25-50_500d9de36adf63b5.jpg",
+        "id": "20"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_36_007_2019-08-24_17-05-00_32744d0f771c3375.jpg",
+        "id": "19"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_6__H_0700EE16B2_2018-12-13_08-04-16_6f06bccfc3490831.jpg",
+        "id": "18"
+      }
+    ],
+    "answer": "G",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/19/19_-1_45_007_2019-08-24_17-10-11_d69813f3ed723871.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000020",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/1/1_-1_15_01101786C5_2019-08-26_12-36-25_44c05150e50c9b83.jpg",
+      "ground_truth_id": "1"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/2/2_-1_20_01101787FB_2019-08-23_16-46-31_00031e1a0e6291f7.jpg",
+        "id": "2"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_21_0110178989_2019-08-27_10-46-35_215677747a33c9d6.jpg",
+        "id": "9"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_14_159_2019-08-22_22-46-10_b71b50a79f812b85.jpg",
+        "id": "24"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_7_007_2019-08-24_16-27-44_f6b4726f6d32e3f1.jpg",
+        "id": "19"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_31__H_0700EDA638_2018-12-13_12-37-14_1ccdc270f448d30e.jpg",
+        "id": "12"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_8_011017686F_2019-08-25_12-26-18_59f1a8709a215e36.jpg",
+        "id": "4"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/21/21_-1_39_103_2019-08-24_18-36-07_87b92c97ba5f6371.jpg",
+        "id": "21"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/1/1_-1_45_01101786C5_2019-08-29_14-01-38_6f4f75b453c00e2c.jpg",
+        "id": "1"
+      }
+    ],
+    "answer": "H",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/1/1_-1_15_01101786C5_2019-08-26_12-36-25_44c05150e50c9b83.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000021",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/5/5_-1_29_011017897F_2019-08-25_11-49-17_f38b5568c4c8b38c.jpg",
+      "ground_truth_id": "5"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_18__L_0700EE16B2_2018-12-15_10-54-23_fdac05867fbd702f.jpg",
+        "id": "18"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_7_011017897F_2019-08-22_15-47-26_4d613ba927841071.jpg",
+        "id": "5"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/20/20_-1_73_098_2019-08-22_20-43-28_dc103961f5c0ee32.jpg",
+        "id": "20"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_32__L_0700EDE6D1_2018-12-11_14-37-07_18731aa2864e2890.jpg",
+        "id": "17"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_28_0700ED87AE_2018-12-10_14-47-34_2efafbdd2d354a96.jpg",
+        "id": "11"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_21_0110178347_2019-08-29_09-08-45_c8d92ca23b5202e8.jpg",
+        "id": "8"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_24_130_2019-08-20_19-19-59_a6d82f2910eb1ea7.jpg",
+        "id": "23"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_20_0110176514_2019-08-27_11-39-36_450fde9f89e90068.jpg",
+        "id": "6"
+      }
+    ],
+    "answer": "B",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/5/5_-1_29_011017897F_2019-08-25_11-49-17_f38b5568c4c8b38c.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000022",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/17/17_-1_26__H_0700EDE6D1_2018-12-17_13-19-10_ede21d7da745ad21.jpg",
+      "ground_truth_id": "17"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_60_007_2019-08-24_17-34-22_e0d708e825503679.jpg",
+        "id": "19"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_69_107_2019-08-24_16-26-45_4e0079ba6aa67aa2.jpg",
+        "id": "22"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_21__H_0700EDE6D1_2018-12-17_09-24-46_433968e651f05bbb.jpg",
+        "id": "17"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/21/21_-1_34_103_2019-08-24_18-29-10_e35f768d8a7cfef5.jpg",
+        "id": "21"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_9_011017897F_2019-08-22_16-56-01_154922e75b053f65.jpg",
+        "id": "5"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_19_011017686F_2019-08-25_15-56-23_d1f67ecd0139e89a.jpg",
+        "id": "4"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_14_0110178201_2019-08-27_07-36-01_be0d9ca9f7d4a688.jpg",
+        "id": "7"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/3/3_-1_23_01101788B6_2019-08-27_12-46-29_c42014a5d487c176.jpg",
+        "id": "3"
+      }
+    ],
+    "answer": "C",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/17/17_-1_26__H_0700EDE6D1_2018-12-17_13-19-10_ede21d7da745ad21.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000023",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/5/5_-1_27_011017897F_2019-08-25_11-47-15_9c44628645b7ced8.jpg",
+      "ground_truth_id": "5"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/1/1_-1_33_01101786C5_2019-08-27_14-13-48_4ec1e600527814b3.jpg",
+        "id": "1"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_42__L_0700EDA638_2018-12-14_12-12-14_7e0c9e3cd0a9ed10.jpg",
+        "id": "12"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_5_0700EDDB4E_2018-12-10_12-16-53_e8eef5b8d3ed50b1.jpg",
+        "id": "15"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_22_011017897F_2019-08-25_10-44-27_091dee9b8a8813a6.jpg",
+        "id": "5"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_20_0700EDDAE6_2018-12-08_08-03-21_141d2e5d3db76aa5.jpg",
+        "id": "14"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/0/0_-1_5_0700EDAC58_2019-08-25_13-04-34_ae63cc4fbf8ee3e1.jpg",
+        "id": "0"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_4_0417D30D92_2018-11-26_14-10-23_001bb11d8b16bb72.jpg",
+        "id": "10"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_54_107_2019-08-24_16-09-17_3b646de2d84260fe.jpg",
+        "id": "22"
+      }
+    ],
+    "answer": "D",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/5/5_-1_27_011017897F_2019-08-25_11-47-15_9c44628645b7ced8.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000024",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/15/15_-1_14__H_0700EDDB4E_2018-12-13_09-51-34_81e895e104fa502c.jpg",
+      "ground_truth_id": "15"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_9__H_0700EDDB4E_2018-12-11_15-03-13_d0d46eb445b839be.jpg",
+        "id": "15"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/1/1_-1_36_01101786C5_2019-08-27_15-07-34_bec51845fa68bf68.jpg",
+        "id": "1"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_17_0700ED87AE_2018-12-08_11-05-29_29a6276c5720c5da.jpg",
+        "id": "11"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_36__H_0700EDDCC4_2018-12-13_09-33-32_e7b940450b325e97.jpg",
+        "id": "16"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/25/25_-1_79_179_2019-08-24_14-40-35_8f01267c57bb57ea.jpg",
+        "id": "25"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_74_159_2019-08-22_23-44-29_ec9c5eef3cad494f.jpg",
+        "id": "24"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_70_107_2019-08-24_16-27-51_fce0df0b96b78359.jpg",
+        "id": "22"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_28_0110178201_2019-08-27_13-59-41_e6f75b45968a77a7.jpg",
+        "id": "7"
+      }
+    ],
+    "answer": "A",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/15/15_-1_14__H_0700EDDB4E_2018-12-13_09-51-34_81e895e104fa502c.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000025",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/13/13_-1_37__H_0700EDB994_2018-12-15_11-16-03_7ca5976adfbcdfa2.jpg",
+      "ground_truth_id": "13"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_35__L_0700EDE6D1_2018-12-13_07-41-41_b883f8e562119d2b.jpg",
+        "id": "17"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_18_130_2019-08-20_19-09-52_e28f566c6b601b6f.jpg",
+        "id": "23"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_19_0110178989_2019-08-27_10-40-36_404490a48bff867b.jpg",
+        "id": "9"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_17_0110178347_2019-08-27_13-50-07_a0bbf295592413f0.jpg",
+        "id": "8"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_25_0700EDDCC4_2018-11-30_15-39-32_49a4be24d09cd7bc.jpg",
+        "id": "16"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/13/13_-1_35__H_0700EDB994_2018-12-14_15-52-02_3c803bbdfa2cca1f.jpg",
+        "id": "13"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_42_159_2019-08-22_23-16-37_d059a6e7d49baa47.jpg",
+        "id": "24"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_23_011017897F_2019-08-25_10-44-29_a539942b54d36edb.jpg",
+        "id": "5"
+      }
+    ],
+    "answer": "F",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/13/13_-1_37__H_0700EDB994_2018-12-15_11-16-03_7ca5976adfbcdfa2.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000026",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/6/6_-1_18_0110176514_2019-08-25_16-25-07_de56119f9b48300a.jpg",
+      "ground_truth_id": "6"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_77_159_2019-08-22_23-45-56_f08615a803134e27.jpg",
+        "id": "24"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_6_0110178347_2019-08-22_17-19-08_76b2bf94d95863eb.jpg",
+        "id": "8"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_12_0417D30D92_2018-11-30_11-36-33_c78ac2cffa81a7eb.jpg",
+        "id": "10"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/21/21_-1_54_103_2019-08-24_19-01-39_589e0bf82fbc44a6.jpg",
+        "id": "21"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_15__H_0700EE16B2_2018-12-17_09-33-28_00199ddce1a96355.jpg",
+        "id": "18"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_22_0110176514_2019-08-27_14-57-27_cf2abf35d8e535f9.jpg",
+        "id": "6"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/20/20_-1_58_098_2019-08-22_20-30-54_de29bcc678d04069.jpg",
+        "id": "20"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_10_0110178201_2019-08-25_14-42-45_d7022722be3c932e.jpg",
+        "id": "7"
+      }
+    ],
+    "answer": "F",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/6/6_-1_18_0110176514_2019-08-25_16-25-07_de56119f9b48300a.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000027",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/24/24_-1_73_159_2019-08-22_23-44-10_75c734e00036d34d.jpg",
+      "ground_truth_id": "24"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_19__L_0700EDDB4E_2018-12-11_15-02-05_6a33c620b126cfe7.jpg",
+        "id": "15"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/0/0_-1_3_0700EDAC58_2019-08-25_11-42-31_824b7bc368665f2a.jpg",
+        "id": "0"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_2_0110178347_2019-08-22_15-44-33_b223174b143e96f6.jpg",
+        "id": "8"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_13_0110178989_2019-08-23_18-00-34_63cada7c938a25d1.jpg",
+        "id": "9"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_29_107_2019-08-24_15-38-51_62ba93f2b0a55e1e.jpg",
+        "id": "22"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/20/20_-1_56_098_2019-08-22_20-25-50_500d9de36adf63b5.jpg",
+        "id": "20"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_5_0700EDDCC4_2018-11-26_09-25-52_3b1c6dd6c45c0623.jpg",
+        "id": "16"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_80_159_2019-08-22_23-51-32_4139fcebdb73a5a0.jpg",
+        "id": "24"
+      }
+    ],
+    "answer": "H",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/24/24_-1_73_159_2019-08-22_23-44-10_75c734e00036d34d.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000028",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/12/12_-1_37__H_0700EDA638_2018-12-17_09-26-26_3519ae20bc3fc991.jpg",
+      "ground_truth_id": "12"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_15_007_2019-08-24_16-39-52_ee16bacdc9ca4141.jpg",
+        "id": "19"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_40__L_0700EDE6D1_2018-12-14_10-07-36_4cf58db6dc75cb2d.jpg",
+        "id": "17"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/20/20_-1_4_098_2019-08-22_19-05-31_fdcec1e190078104.jpg",
+        "id": "20"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/21/21_-1_35_103_2019-08-24_18-29-20_ccf5f91b7069189d.jpg",
+        "id": "21"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_11_0110178201_2019-08-25_15-10-57_b0dcd13dcaacd4a1.jpg",
+        "id": "7"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_17_130_2019-08-20_19-09-37_55444212137ece09.jpg",
+        "id": "23"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_10_0417D30D92_2018-11-30_09-15-03_78e3e6a67a6a84ea.jpg",
+        "id": "10"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_1_0700EDA638_2018-11-25_08-15-12_d69b46c234a7db58.jpg",
+        "id": "12"
+      }
+    ],
+    "answer": "H",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/12/12_-1_37__H_0700EDA638_2018-12-17_09-26-26_3519ae20bc3fc991.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000029",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/22/22_-1_23_107_2019-08-24_15-26-55_94df488b87b82222.jpg",
+      "ground_truth_id": "22"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/13/13_-1_27__H_0700EDB994_2018-12-10_09-27-37_206a92153652b4f3.jpg",
+        "id": "13"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_15_0700EDDAE6_2018-11-30_10-40-33_772d0df90e4f9e53.jpg",
+        "id": "14"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_43__L_0700EDDCC4_2018-12-13_12-12-06_645605ff83d83ba4.jpg",
+        "id": "16"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_31_0110178201_2019-08-27_17-32-04_eb30606f5fae439b.jpg",
+        "id": "7"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_76_107_2019-08-24_16-36-42_09fc3a1e30c3169b.jpg",
+        "id": "22"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_19_0700ED87AE_2018-12-08_12-07-56_ab840f6a50f39026.jpg",
+        "id": "11"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_12_007_2019-08-24_16-34-37_98c5826032e4d900.jpg",
+        "id": "19"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/21/21_-1_45_103_2019-08-24_18-46-47_b16bec36b2c48cf5.jpg",
+        "id": "21"
+      }
+    ],
+    "answer": "E",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/22/22_-1_23_107_2019-08-24_15-26-55_94df488b87b82222.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000030",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/5/5_-1_7_011017897F_2019-08-22_15-47-26_4d613ba927841071.jpg",
+      "ground_truth_id": "5"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_15_0110178201_2019-08-27_07-43-10_f385c635bed1b1f6.jpg",
+        "id": "7"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_16_011017897F_2019-08-25_09-22-56_0f6dd6538b1eacc3.jpg",
+        "id": "5"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/20/20_-1_10_098_2019-08-22_19-14-56_a06c7b2faa1b1e27.jpg",
+        "id": "20"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/1/1_-1_39_01101786C5_2019-08-29_13-01-48_fb5769e6d688c321.jpg",
+        "id": "1"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_49_007_2019-08-24_17-17-12_9ab78b0ad7d60e9c.jpg",
+        "id": "19"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_58_159_2019-08-22_23-33-28_128d94d91510611a.jpg",
+        "id": "24"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_5_0417D30D92_2018-11-29_08-19-38_d22784fa2ce9e529.jpg",
+        "id": "10"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/25/25_-1_66_179_2019-08-24_14-21-27_9d01325e2b5fe51d.jpg",
+        "id": "25"
+      }
+    ],
+    "answer": "B",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/5/5_-1_7_011017897F_2019-08-22_15-47-26_4d613ba927841071.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000031",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/7/7_-1_9_0110178201_2019-08-25_14-36-30_1bdf6cf85bc9308b.jpg",
+      "ground_truth_id": "7"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_61_159_2019-08-22_23-37-48_92fcc8439ec685e7.jpg",
+        "id": "24"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_28_0700EDDCC4_2018-12-06_10-39-25_9119fc680e9b80a7.jpg",
+        "id": "16"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_25_0110178201_2019-08-27_11-53-33_a55c58f940e528ea.jpg",
+        "id": "7"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/20/20_-1_38_098_2019-08-22_20-03-18_4509e2b9c2c020b2.jpg",
+        "id": "20"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/21/21_-1_1_103_2019-08-24_18-01-57_24a06ccd98b1b61f.jpg",
+        "id": "21"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/25/25_-1_38_179_2019-08-24_13-47-48_ed80ffa9b851f1b7.jpg",
+        "id": "25"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_41_107_2019-08-24_15-52-31_7bb03279e7e34b91.jpg",
+        "id": "22"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/3/3_-1_9_01101788B6_2019-08-23_12-02-06_f20593695c7da9d8.jpg",
+        "id": "3"
+      }
+    ],
+    "answer": "C",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/7/7_-1_9_0110178201_2019-08-25_14-36-30_1bdf6cf85bc9308b.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000032",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/18/18_-1_15__H_0700EE16B2_2018-12-17_09-33-28_00199ddce1a96355.jpg",
+      "ground_truth_id": "18"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_0_0700EDDCC4_2018-11-23_10-06-39_6a7dc560b3ca7bcf.jpg",
+        "id": "16"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_6__H_0700EE16B2_2018-12-13_08-04-16_6f06bccfc3490831.jpg",
+        "id": "18"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_14_011017686F_2019-08-25_13-49-10_1e3be99134827916.jpg",
+        "id": "4"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_23_011017897F_2019-08-25_10-44-29_a539942b54d36edb.jpg",
+        "id": "5"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_6_007_2019-08-24_16-27-24_dd85b8b2df714ee1.jpg",
+        "id": "19"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_41__L_0700EDDAE6_2018-12-11_15-34-40_8de7394c455ee92c.jpg",
+        "id": "14"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/2/2_-1_20_01101787FB_2019-08-23_16-46-31_00031e1a0e6291f7.jpg",
+        "id": "2"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_33_0110178201_2019-08-27_17-43-58_2328dce6346a646b.jpg",
+        "id": "7"
+      }
+    ],
+    "answer": "B",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/18/18_-1_15__H_0700EE16B2_2018-12-17_09-33-28_00199ddce1a96355.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000033",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/10/10_-1_27__H_0417D30D92_2018-12-14_10-19-25_6ee8696e62d95b09.jpg",
+      "ground_truth_id": "10"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/2/2_-1_2_01101787FB_2019-08-22_12-20-36_e6a19ccaccc0bb21.jpg",
+        "id": "2"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/20/20_-1_59_098_2019-08-22_20-31-11_afe9603460d4b15d.jpg",
+        "id": "20"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_22_0417D30D92_2018-12-10_12-47-12_db8e1ad987a9998b.jpg",
+        "id": "10"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_41__L_0700EDDCC4_2018-12-13_08-30-41_bb6e898a7063eb32.jpg",
+        "id": "16"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_73_130_2019-08-20_21-13-25_7d5f903e32fec1c0.jpg",
+        "id": "23"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/3/3_-1_19_01101788B6_2019-08-26_09-03-51_1d173ed9a53cfbdb.jpg",
+        "id": "3"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_6__H_0700EE16B2_2018-12-13_08-04-16_6f06bccfc3490831.jpg",
+        "id": "18"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_2_0110178201_2019-08-25_10-52-55_9484f0bac712a43e.jpg",
+        "id": "7"
+      }
+    ],
+    "answer": "C",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/10/10_-1_27__H_0417D30D92_2018-12-14_10-19-25_6ee8696e62d95b09.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000034",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/18/18_-1_13__H_0700EE16B2_2018-12-13_10-16-18_3f76f2ab44c6a282.jpg",
+      "ground_truth_id": "18"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_26_0700ED87AE_2018-12-10_11-57-57_3489349f8677ea68.jpg",
+        "id": "11"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_2_159_2019-08-22_22-38-51_294c04d2168965ff.jpg",
+        "id": "24"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_30__L_0700EDE6D1_2018-12-10_11-35-35_8a710acd332c0830.jpg",
+        "id": "17"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_0_011017686F_2019-08-25_10-53-17_32cd442d6270a7f4.jpg",
+        "id": "4"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/3/3_-1_18_01101788B6_2019-08-25_11-55-05_d61d9e9be8cd4f74.jpg",
+        "id": "3"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_8__H_0700EE16B2_2018-12-13_09-05-31_d01bdce574375d5a.jpg",
+        "id": "18"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_5_0110178347_2019-08-22_17-17-42_0ec0511fc5b9c9d4.jpg",
+        "id": "8"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_22_0700EDDAE6_2018-12-08_11-35-29_6a9e4f71b298bf9c.jpg",
+        "id": "14"
+      }
+    ],
+    "answer": "F",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/18/18_-1_13__H_0700EE16B2_2018-12-13_10-16-18_3f76f2ab44c6a282.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000035",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/4/4_-1_39_011017686F_2019-08-29_09-55-09_5e7448d6dc38d958.jpg",
+      "ground_truth_id": "4"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_12__H_0700EDE6D1_2018-12-10_11-33-45_a0e8df03ac184c10.jpg",
+        "id": "17"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_17__L_0700EE16B2_2018-12-13_09-00-14_2f1b81cbc9ac8944.jpg",
+        "id": "18"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_22_107_2019-08-24_15-20-35_276c85d77c8f52ea.jpg",
+        "id": "22"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/0/0_-1_14_0700EDAC58_2019-08-26_10-05-55_de250374afd6265d.jpg",
+        "id": "0"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/25/25_-1_17_179_2019-08-24_13-24-38_e4a766ffe8eb3bf0.jpg",
+        "id": "25"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/21/21_-1_65_103_2019-08-24_19-13-02_000156aa80be3202.jpg",
+        "id": "21"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_15_011017686F_2019-08-25_13-51-18_40e2c35ca334148d.jpg",
+        "id": "4"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_32_0110176514_2019-08-29_13-35-13_16ea8622b57c3c4e.jpg",
+        "id": "6"
+      }
+    ],
+    "answer": "G",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/4/4_-1_39_011017686F_2019-08-29_09-55-09_5e7448d6dc38d958.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000036",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/10/10_-1_24_0417D30D92_2018-12-10_14-06-52_7f303db6fca7fe01.jpg",
+      "ground_truth_id": "10"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_23_011017686F_2019-08-26_09-53-09_ae7dded1a4a388b3.jpg",
+        "id": "4"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_1_0110176514_2019-08-23_12-20-04_c4127b175fff12d8.jpg",
+        "id": "6"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_4_0700EDA638_2018-11-26_09-10-15_6e6f87d059e29fca.jpg",
+        "id": "12"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/3/3_-1_14_01101788B6_2019-08-23_15-44-20_07f90fc3cac47292.jpg",
+        "id": "3"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_11__H_0700EDDB4E_2018-12-13_08-45-08_c21d8f5a994e9a7e.jpg",
+        "id": "15"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_16_0417D30D92_2018-11-30_15-34-10_4adfa4172ff5fa65.jpg",
+        "id": "10"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_5_0110178347_2019-08-22_17-17-42_0ec0511fc5b9c9d4.jpg",
+        "id": "8"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/1/1_-1_24_01101786C5_2019-08-27_11-03-38_1aa13e41ea092ab3.jpg",
+        "id": "1"
+      }
+    ],
+    "answer": "F",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/10/10_-1_24_0417D30D92_2018-12-10_14-06-52_7f303db6fca7fe01.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000037",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/17/17_-1_11__H_0700EDE6D1_2018-12-10_11-11-49_ab1ac41fc84173dc.jpg",
+      "ground_truth_id": "17"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_25_0110178989_2019-08-27_12-28-49_6b71f05e752309ca.jpg",
+        "id": "9"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_15__H_0700EE16B2_2018-12-17_09-33-28_00199ddce1a96355.jpg",
+        "id": "18"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_23__H_0700EDE6D1_2018-12-17_09-28-52_82cd81c60381b609.jpg",
+        "id": "17"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_16_0110178201_2019-08-27_07-45-28_33266c7b41b22828.jpg",
+        "id": "7"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_26__L_0700EDDB4E_2018-12-17_14-06-23_21f59d64a3addfaf.jpg",
+        "id": "15"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_4_0417D30D92_2018-11-26_14-10-23_001bb11d8b16bb72.jpg",
+        "id": "10"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_59_107_2019-08-24_16-14-01_c943b00840d475af.jpg",
+        "id": "22"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_5_0700EDDCC4_2018-11-26_09-25-52_3b1c6dd6c45c0623.jpg",
+        "id": "16"
+      }
+    ],
+    "answer": "C",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/17/17_-1_11__H_0700EDE6D1_2018-12-10_11-11-49_ab1ac41fc84173dc.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000038",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/13/13_-1_27__H_0700EDB994_2018-12-10_09-27-37_206a92153652b4f3.jpg",
+      "ground_truth_id": "13"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_32__H_0700ED87AE_2018-12-10_11-51-48_e5e7a3390b0686ad.jpg",
+        "id": "11"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_4_0110178201_2019-08-25_11-28-52_9f1d57d637755726.jpg",
+        "id": "7"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_11_0110178347_2019-08-24_15-39-29_6d82bb840834dab5.jpg",
+        "id": "8"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/3/3_-1_2_01101788B6_2019-08-22_09-50-52_7995557be6467ae5.jpg",
+        "id": "3"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_17__L_0700EE16B2_2018-12-13_09-00-14_2f1b81cbc9ac8944.jpg",
+        "id": "18"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_3_0110176514_2019-08-23_12-33-25_280df865dee30249.jpg",
+        "id": "6"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_68_107_2019-08-24_16-24-40_deedfd2dc8afc8d4.jpg",
+        "id": "22"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/13/13_-1_6_0700EDB994_2018-11-26_09-27-28_fa96eee070d64732.jpg",
+        "id": "13"
+      }
+    ],
+    "answer": "H",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/13/13_-1_27__H_0700EDB994_2018-12-10_09-27-37_206a92153652b4f3.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000039",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/15/15_-1_6_0700EDDB4E_2018-12-10_12-17-54_504a6a0495984250.jpg",
+      "ground_truth_id": "15"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_1_130_2019-08-20_18-26-38_f9e023429f7f415f.jpg",
+        "id": "23"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/3/3_-1_1_01101788B6_2019-08-22_09-50-49_7023293a3c0aeca6.jpg",
+        "id": "3"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_66_107_2019-08-24_16-23-31_b2e6c95882bf45c1.jpg",
+        "id": "22"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/13/13_-1_34__H_0700EDB994_2018-12-14_13-00-50_c732b0030a631116.jpg",
+        "id": "13"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_26__L_0700EDDB4E_2018-12-17_14-06-23_21f59d64a3addfaf.jpg",
+        "id": "15"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_33_011017897F_2019-08-25_12-46-55_52f5d2be6981ff7e.jpg",
+        "id": "5"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_46__L_0700EDE6D1_2018-12-17_13-15-00_0d8aba412375c78b.jpg",
+        "id": "17"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_64_159_2019-08-22_23-39-01_33b29d46d73b02ca.jpg",
+        "id": "24"
+      }
+    ],
+    "answer": "E",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/15/15_-1_6_0700EDDB4E_2018-12-10_12-17-54_504a6a0495984250.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000040",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/6/6_-1_5_0110176514_2019-08-23_13-54-02_816c4d104311e1f5.jpg",
+      "ground_truth_id": "6"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_33__H_0700ED87AE_2018-12-13_07-30-45_3999b16d90353f76.jpg",
+        "id": "11"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_15__H_0700EE16B2_2018-12-17_09-33-28_00199ddce1a96355.jpg",
+        "id": "18"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_51_130_2019-08-20_19-58-04_22c9ebe448db345e.jpg",
+        "id": "23"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/0/0_-1_5_0700EDAC58_2019-08-25_13-04-34_ae63cc4fbf8ee3e1.jpg",
+        "id": "0"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_26_0110176514_2019-08-29_11-12-14_0ac82d59eb83e4d6.jpg",
+        "id": "6"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_12_0700EDDCC4_2018-11-29_08-44-49_abc69c4e30d13132.jpg",
+        "id": "16"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/2/2_-1_3_01101787FB_2019-08-22_13-07-17_a1e195cb9d212aab.jpg",
+        "id": "2"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_81_159_2019-08-22_23-59-20_7ad13d5e0cbd40ee.jpg",
+        "id": "24"
+      }
+    ],
+    "answer": "E",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/6/6_-1_5_0110176514_2019-08-23_13-54-02_816c4d104311e1f5.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000041",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/17/17_-1_37__L_0700EDE6D1_2018-12-13_07-44-36_5648bfcba10ba8df.jpg",
+      "ground_truth_id": "17"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_57_130_2019-08-20_20-06-33_6079ca4cd7ef4313.jpg",
+        "id": "23"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_25__L_0700EDDB4E_2018-12-17_13-37-59_3376c7a2f21ff9ed.jpg",
+        "id": "15"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_41__L_0700ED87AE_2018-12-14_10-48-32_a122cf423b7d426d.jpg",
+        "id": "11"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_14_011017686F_2019-08-25_13-49-10_1e3be99134827916.jpg",
+        "id": "4"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_22_011017897F_2019-08-25_10-44-27_091dee9b8a8813a6.jpg",
+        "id": "5"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_8_0700EDE6D1_2018-12-06_11-46-25_b10bd4b6f4b7e7b3.jpg",
+        "id": "17"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/13/13_-1_0_0700EDB994_2018-11-25_07-56-52_157db234fdb5414a.jpg",
+        "id": "13"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/0/0_-1_18_0700EDAC58_2019-08-29_08-30-02_2246e1e76384545b.jpg",
+        "id": "0"
+      }
+    ],
+    "answer": "F",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/17/17_-1_37__L_0700EDE6D1_2018-12-13_07-44-36_5648bfcba10ba8df.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000042",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/23/23_-1_40_130_2019-08-20_19-47-17_dfb50b76bb9409d1.jpg",
+      "ground_truth_id": "23"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/2/2_-1_39_01101787FB_2019-08-26_11-51-58_7a67abcd41673825.jpg",
+        "id": "2"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_17_107_2019-08-24_15-09-00_365204b0aaa595e5.jpg",
+        "id": "22"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_20_0700EDA638_2018-11-30_09-54-36_717e97206d83bad2.jpg",
+        "id": "12"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_59_130_2019-08-20_20-25-29_d164ea4006d467dd.jpg",
+        "id": "23"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_7_0110178989_2019-08-22_18-00-52_cae5dfb43a0f8a88.jpg",
+        "id": "9"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/21/21_-1_25_103_2019-08-24_18-23-52_0e5cb70e47f073bc.jpg",
+        "id": "21"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_2_0700EDDB4E_2018-12-06_10-43-51_0a566e037cd54770.jpg",
+        "id": "15"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/25/25_-1_41_179_2019-08-24_13-52-19_08c3cc22061457dd.jpg",
+        "id": "25"
+      }
+    ],
+    "answer": "D",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/23/23_-1_40_130_2019-08-20_19-47-17_dfb50b76bb9409d1.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000043",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/25/25_-1_77_179_2019-08-24_14-39-41_f74e6d18c9cff5b0.jpg",
+      "ground_truth_id": "25"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/21/21_-1_47_103_2019-08-24_18-49-31_939c2044a2923dda.jpg",
+        "id": "21"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_40__L_0700EDA638_2018-12-13_08-05-28_b3494ed2566415b4.jpg",
+        "id": "12"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_31_107_2019-08-24_15-39-43_9e328ce4708fef72.jpg",
+        "id": "22"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_2__H_0700EE16B2_2018-12-13_07-21-41_677be0dbe900a3e0.jpg",
+        "id": "18"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/25/25_-1_66_179_2019-08-24_14-21-27_9d01325e2b5fe51d.jpg",
+        "id": "25"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_31_0110178201_2019-08-27_17-32-04_eb30606f5fae439b.jpg",
+        "id": "7"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_37_159_2019-08-22_23-12-07_7d95be7b007f70e9.jpg",
+        "id": "24"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_62_007_2019-08-24_17-36-11_e84b19895678ab10.jpg",
+        "id": "19"
+      }
+    ],
+    "answer": "E",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/25/25_-1_77_179_2019-08-24_14-39-41_f74e6d18c9cff5b0.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000044",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/6/6_-1_33_0110176514_2019-08-29_13-35-41_57f0a05e4cf35d22.jpg",
+      "ground_truth_id": "6"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_11_0110178347_2019-08-24_15-39-29_6d82bb840834dab5.jpg",
+        "id": "8"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_31_0110176514_2019-08-29_12-41-51_39d506aaa111b14c.jpg",
+        "id": "6"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_26__L_0700EDDB4E_2018-12-17_14-06-23_21f59d64a3addfaf.jpg",
+        "id": "15"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_6_0700EDE6D1_2018-12-06_09-09-37_5185f3b9c16d2ca9.jpg",
+        "id": "17"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_33__H_0700EDA638_2018-12-14_15-25-29_da685c53e1107f81.jpg",
+        "id": "12"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/20/20_-1_29_098_2019-08-22_19-49-30_2fbc29fda6478bb2.jpg",
+        "id": "20"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_30_007_2019-08-24_16-57-36_18380176457c80a6.jpg",
+        "id": "19"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_2_130_2019-08-20_18-30-44_ceb1aa9e7a883531.jpg",
+        "id": "23"
+      }
+    ],
+    "answer": "B",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/6/6_-1_33_0110176514_2019-08-29_13-35-41_57f0a05e4cf35d22.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000045",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/15/15_-1_24__L_0700EDDB4E_2018-12-17_13-32-32_01550c3240d6a965.jpg",
+      "ground_truth_id": "15"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_26_0700EDDCC4_2018-12-06_09-12-36_e3906c85474f3542.jpg",
+        "id": "16"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_11_130_2019-08-20_18-58-53_45b285f59630048b.jpg",
+        "id": "23"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_42__L_0700ED87AE_2018-12-14_14-29-15_2223c1e5fc6f6f9f.jpg",
+        "id": "11"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/2/2_-1_8_01101787FB_2019-08-23_11-05-59_2a05d33519deab08.jpg",
+        "id": "2"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/3/3_-1_6_01101788B6_2019-08-22_12-47-12_ab31d4440da9e785.jpg",
+        "id": "3"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_20_0110178989_2019-08-27_10-46-27_2f1da9fa3b17ea14.jpg",
+        "id": "9"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_4_0700EDDB4E_2018-12-10_09-50-51_2c011bb853760577.jpg",
+        "id": "15"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/20/20_-1_43_098_2019-08-22_20-12-25_001d798dace19e14.jpg",
+        "id": "20"
+      }
+    ],
+    "answer": "G",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/15/15_-1_24__L_0700EDDB4E_2018-12-17_13-32-32_01550c3240d6a965.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000046",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/3/3_-1_1_01101788B6_2019-08-22_09-50-49_7023293a3c0aeca6.jpg",
+      "ground_truth_id": "3"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_43__L_0700EDDAE6_2018-12-14_09-36-43_54ade0bc03deb21d.jpg",
+        "id": "14"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_30_0700EDDCC4_2018-12-10_09-41-48_af4dc8af528f1452.jpg",
+        "id": "16"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/3/3_-1_16_01101788B6_2019-08-25_10-47-01_0071598d577060ea.jpg",
+        "id": "3"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_17_011017897F_2019-08-25_09-23-56_75adc588893ff377.jpg",
+        "id": "5"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_11_0700EDA638_2018-11-29_10-06-14_6629484a47fe0b23.jpg",
+        "id": "12"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_9_011017686F_2019-08-25_13-45-12_6f236fdee01bedfe.jpg",
+        "id": "4"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_35__H_0700ED87AE_2018-12-13_08-18-48_f84e19fefb02b982.jpg",
+        "id": "11"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/1/1_-1_27_01101786C5_2019-08-27_11-09-59_8ab452e3c966ad40.jpg",
+        "id": "1"
+      }
+    ],
+    "answer": "C",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/3/3_-1_1_01101788B6_2019-08-22_09-50-49_7023293a3c0aeca6.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000047",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/9/9_-1_25_0110178989_2019-08-27_12-28-49_6b71f05e752309ca.jpg",
+      "ground_truth_id": "9"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_26_130_2019-08-20_19-21-08_bc5d7736bcebcc49.jpg",
+        "id": "23"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_36__L_0700EDE6D1_2018-12-13_07-44-34_a5effd0b09c155c8.jpg",
+        "id": "17"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/13/13_-1_29__H_0700EDB994_2018-12-10_12-45-17_1b9ec75fc1084da4.jpg",
+        "id": "13"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_1_0110178989_2019-08-22_15-45-32_b0d7bc2b070206d1.jpg",
+        "id": "9"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_16_0700EDDCC4_2018-11-29_10-28-46_458c9fad11435f18.jpg",
+        "id": "16"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_18_107_2019-08-24_15-11-35_d4a8aa9362ebb058.jpg",
+        "id": "22"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_9_0110178347_2019-08-23_13-43-20_95c0a3778b902c0c.jpg",
+        "id": "8"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_22_0110176514_2019-08-27_14-57-27_cf2abf35d8e535f9.jpg",
+        "id": "6"
+      }
+    ],
+    "answer": "D",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/9/9_-1_25_0110178989_2019-08-27_12-28-49_6b71f05e752309ca.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000048",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/16/16_-1_41__L_0700EDDCC4_2018-12-13_08-30-41_bb6e898a7063eb32.jpg",
+      "ground_truth_id": "16"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_7_011017897F_2019-08-22_15-47-26_4d613ba927841071.jpg",
+        "id": "5"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_28_0700ED87AE_2018-12-10_14-47-34_2efafbdd2d354a96.jpg",
+        "id": "11"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_36_0110176514_2019-08-29_14-20-58_9dd4b432de3edabd.jpg",
+        "id": "6"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/0/0_-1_8_0700EDAC58_2019-08-25_13-06-07_4d6b717805747977.jpg",
+        "id": "0"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_16_0700EDDCC4_2018-11-29_10-28-46_458c9fad11435f18.jpg",
+        "id": "16"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_2_0700EDDB4E_2018-12-06_10-43-51_0a566e037cd54770.jpg",
+        "id": "15"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_17_130_2019-08-20_19-09-37_55444212137ece09.jpg",
+        "id": "23"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/2/2_-1_22_01101787FB_2019-08-25_08-56-21_808e34c12ccd3b00.jpg",
+        "id": "2"
+      }
+    ],
+    "answer": "E",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/16/16_-1_41__L_0700EDDCC4_2018-12-13_08-30-41_bb6e898a7063eb32.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000049",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/17/17_-1_40__L_0700EDE6D1_2018-12-14_10-07-36_4cf58db6dc75cb2d.jpg",
+      "ground_truth_id": "17"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_9_0700EDA638_2018-11-26_13-47-14_cc84eb25381c2d86.jpg",
+        "id": "12"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/25/25_-1_27_179_2019-08-24_13-36-46_323a302c4760b37f.jpg",
+        "id": "25"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_8_0700ED87AE_2018-11-29_10-21-46_ce589532b4e4921e.jpg",
+        "id": "11"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/2/2_-1_40_01101787FB_2019-08-27_09-22-13_be0fbf2b5029ad19.jpg",
+        "id": "2"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_5_0700EDDB4E_2018-12-10_12-16-53_e8eef5b8d3ed50b1.jpg",
+        "id": "15"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_16__H_0700EDE6D1_2018-12-14_09-45-20_ce7ccbd47dcb5fe1.jpg",
+        "id": "17"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/20/20_-1_58_098_2019-08-22_20-30-54_de29bcc678d04069.jpg",
+        "id": "20"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_78_107_2019-08-24_16-39-15_966662c4b5333485.jpg",
+        "id": "22"
+      }
+    ],
+    "answer": "F",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/17/17_-1_40__L_0700EDE6D1_2018-12-14_10-07-36_4cf58db6dc75cb2d.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000050",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/6/6_-1_32_0110176514_2019-08-29_13-35-13_16ea8622b57c3c4e.jpg",
+      "ground_truth_id": "6"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_1_0700EDDB4E_2018-12-06_08-59-41_61490af3c781b64f.jpg",
+        "id": "15"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/21/21_-1_55_103_2019-08-24_19-01-51_e02106039d6bc933.jpg",
+        "id": "21"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_16_007_2019-08-24_16-40-49_a1cf68168288e827.jpg",
+        "id": "19"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_20_011017897F_2019-08-25_10-40-33_86b04cd9e5e989d8.jpg",
+        "id": "5"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_7_0700ED87AE_2018-11-29_09-59-22_78f5727460daab45.jpg",
+        "id": "11"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_41_159_2019-08-22_23-14-33_e3f559e9ffb53b0e.jpg",
+        "id": "24"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_21_0110176514_2019-08-27_11-53-42_10838c717b90da8f.jpg",
+        "id": "6"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_12_0110178989_2019-08-23_18-00-33_7ef740b06b48d145.jpg",
+        "id": "9"
+      }
+    ],
+    "answer": "G",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/6/6_-1_32_0110176514_2019-08-29_13-35-13_16ea8622b57c3c4e.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000051",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/15/15_-1_13__H_0700EDDB4E_2018-12-13_08-51-15_b9e357d113943bf9.jpg",
+      "ground_truth_id": "15"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_17_0110178347_2019-08-27_13-50-07_a0bbf295592413f0.jpg",
+        "id": "8"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/25/25_-1_26_179_2019-08-24_13-35-00_bbfe0311d937eb1d.jpg",
+        "id": "25"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_0_011017897F_2019-08-22_08-39-22_1e3a7de758126962.jpg",
+        "id": "5"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_9__H_0700EDDB4E_2018-12-11_15-03-13_d0d46eb445b839be.jpg",
+        "id": "15"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_22_0417D30D92_2018-12-10_12-47-12_db8e1ad987a9998b.jpg",
+        "id": "10"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_13_0110178989_2019-08-23_18-00-34_63cada7c938a25d1.jpg",
+        "id": "9"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/3/3_-1_4_01101788B6_2019-08-22_10-17-19_2c4ef50e714fda59.jpg",
+        "id": "3"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_29_0700EDDAE6_2018-12-10_12-14-13_817c050de866654b.jpg",
+        "id": "14"
+      }
+    ],
+    "answer": "D",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/15/15_-1_13__H_0700EDDB4E_2018-12-13_08-51-15_b9e357d113943bf9.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000052",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/12/12_-1_0_0700EDA638_2018-11-25_08-04-48_ec953baf17526fe0.jpg",
+      "ground_truth_id": "12"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_22_0700ED87AE_2018-12-10_10-03-16_632ea33177db7611.jpg",
+        "id": "11"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_5_0110178201_2019-08-25_11-34-43_4bc1019106d5befa.jpg",
+        "id": "7"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/2/2_-1_45_01101787FB_2019-08-27_14-00-10_267a30d15ec334c4.jpg",
+        "id": "2"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_6_159_2019-08-22_22-39-57_f543b9e9196cc7b2.jpg",
+        "id": "24"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/3/3_-1_18_01101788B6_2019-08-25_11-55-05_d61d9e9be8cd4f74.jpg",
+        "id": "3"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_14_107_2019-08-24_15-02-52_6604b7ba55675776.jpg",
+        "id": "22"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_3_0110178989_2019-08-22_17-03-39_522e86163f783b5c.jpg",
+        "id": "9"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_30__H_0700EDA638_2018-12-13_09-38-48_409be44374a810d0.jpg",
+        "id": "12"
+      }
+    ],
+    "answer": "H",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/12/12_-1_0_0700EDA638_2018-11-25_08-04-48_ec953baf17526fe0.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000053",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/22/22_-1_62_107_2019-08-24_16-18-02_8619b1a450568297.jpg",
+      "ground_truth_id": "22"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_45__L_0417D30D92_2018-12-15_10-34-05_90f71bf28cf27b1b.jpg",
+        "id": "10"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_46__L_0700EDA638_2018-12-17_09-41-24_deb8a5f60047e0d7.jpg",
+        "id": "12"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_18_107_2019-08-24_15-11-35_d4a8aa9362ebb058.jpg",
+        "id": "22"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_28_0110176514_2019-08-29_11-48-35_3e77dc2b37b7f9f7.jpg",
+        "id": "6"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_8_011017686F_2019-08-25_12-26-18_59f1a8709a215e36.jpg",
+        "id": "4"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_20_0110178989_2019-08-27_10-46-27_2f1da9fa3b17ea14.jpg",
+        "id": "9"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_43__L_0700EDDCC4_2018-12-13_12-12-06_645605ff83d83ba4.jpg",
+        "id": "16"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_7__H_0700EE16B2_2018-12-13_09-01-22_0d4986f39836d2a4.jpg",
+        "id": "18"
+      }
+    ],
+    "answer": "C",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/22/22_-1_62_107_2019-08-24_16-18-02_8619b1a450568297.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000054",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/4/4_-1_6_011017686F_2019-08-25_12-25-46_88c9aa9812a833d2.jpg",
+      "ground_truth_id": "4"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_14_0110178201_2019-08-27_07-36-01_be0d9ca9f7d4a688.jpg",
+        "id": "7"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/21/21_-1_64_103_2019-08-24_19-12-17_fad035d2cd4c9c3e.jpg",
+        "id": "21"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/20/20_-1_27_098_2019-08-22_19-44-22_54cf5df4bda6df33.jpg",
+        "id": "20"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_17__L_0700EE16B2_2018-12-13_09-00-14_2f1b81cbc9ac8944.jpg",
+        "id": "18"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_13_011017897F_2019-08-23_12-55-00_4830e6bff126724c.jpg",
+        "id": "5"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/2/2_-1_30_01101787FB_2019-08-25_11-39-01_2d40fcc7df3b75d8.jpg",
+        "id": "2"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_41_011017686F_2019-08-29_11-46-42_e7d4e1169acc6e03.jpg",
+        "id": "4"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_8_0700ED87AE_2018-11-29_10-21-46_ce589532b4e4921e.jpg",
+        "id": "11"
+      }
+    ],
+    "answer": "G",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/4/4_-1_6_011017686F_2019-08-25_12-25-46_88c9aa9812a833d2.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000055",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/25/25_-1_74_179_2019-08-24_14-36-12_945886d0d025ad5d.jpg",
+      "ground_truth_id": "25"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_4_0700ED87AE_2018-11-26_13-33-09_81c4db0e666f5bbf.jpg",
+        "id": "11"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_50_007_2019-08-24_17-18-16_92e0f32c28ce0b30.jpg",
+        "id": "19"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/25/25_-1_75_179_2019-08-24_14-38-31_3cdc174b89cac9ea.jpg",
+        "id": "25"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_8_0110176514_2019-08-24_16-22-10_04d96c0fa27d88ae.jpg",
+        "id": "6"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_4_0110178347_2019-08-22_15-49-10_00c8d829c193a54e.jpg",
+        "id": "8"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/20/20_-1_21_098_2019-08-22_19-29-20_f5bbd3b7176c5a7d.jpg",
+        "id": "20"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/1/1_-1_26_01101786C5_2019-08-27_11-05-28_33f9665237293d61.jpg",
+        "id": "1"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_18__L_0700EE16B2_2018-12-15_10-54-23_fdac05867fbd702f.jpg",
+        "id": "18"
+      }
+    ],
+    "answer": "C",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/25/25_-1_74_179_2019-08-24_14-36-12_945886d0d025ad5d.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000056",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/24/24_-1_53_159_2019-08-22_23-29-11_b9572102e8f9bd19.jpg",
+      "ground_truth_id": "24"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/21/21_-1_75_103_2019-08-24_19-22-16_e6bd1eb8c89eefc2.jpg",
+        "id": "21"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/2/2_-1_27_01101787FB_2019-08-25_09-55-35_72d53229b8b02c45.jpg",
+        "id": "2"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_1_0700EE16B2_2018-11-26_10-19-46_796b95e1e9e7dd00.jpg",
+        "id": "18"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_11_0110178347_2019-08-24_15-39-29_6d82bb840834dab5.jpg",
+        "id": "8"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/20/20_-1_47_098_2019-08-22_20-18-09_a6bc8b3716490002.jpg",
+        "id": "20"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_9_130_2019-08-20_18-57-57_a401705c629d9887.jpg",
+        "id": "23"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_19_0700EDDAE6_2018-12-06_12-08-09_b5c0593dc7dd7b94.jpg",
+        "id": "14"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_22_159_2019-08-22_22-55-33_ac29821555d12f7f.jpg",
+        "id": "24"
+      }
+    ],
+    "answer": "H",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/24/24_-1_53_159_2019-08-22_23-29-11_b9572102e8f9bd19.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000057",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/16/16_-1_36__H_0700EDDCC4_2018-12-13_09-33-32_e7b940450b325e97.jpg",
+      "ground_truth_id": "16"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_26_011017686F_2019-08-26_10-03-29_d6f364addba2f075.jpg",
+        "id": "4"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_39__H_0700EDDAE6_2018-12-14_15-35-26_ca51344137737a00.jpg",
+        "id": "14"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/21/21_-1_4_103_2019-08-24_18-04-31_04b49a8d518bf063.jpg",
+        "id": "21"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_6_0700EDDCC4_2018-11-26_10-53-14_26c742a8c9821392.jpg",
+        "id": "16"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_16__H_0700EDE6D1_2018-12-14_09-45-20_ce7ccbd47dcb5fe1.jpg",
+        "id": "17"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_22_130_2019-08-20_19-19-06_b9f51806b7d978c5.jpg",
+        "id": "23"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_5_107_2019-08-24_14-35-39_8c0d32b6270e01be.jpg",
+        "id": "22"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_4_0110178989_2019-08-22_17-28-16_09a3bb66f4a2f49a.jpg",
+        "id": "9"
+      }
+    ],
+    "answer": "D",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/16/16_-1_36__H_0700EDDCC4_2018-12-13_09-33-32_e7b940450b325e97.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000058",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/3/3_-1_10_01101788B6_2019-08-23_12-32-25_890ec1d7d387e4a3.jpg",
+      "ground_truth_id": "3"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/3/3_-1_0_01101788B6_2019-08-22_09-46-04_529fcf0e06db6738.jpg",
+        "id": "3"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_32__H_0417D30D92_2018-12-14_15-54-59_4fe9482836b6196d.jpg",
+        "id": "10"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_6_0700EDDB4E_2018-12-10_12-17-54_504a6a0495984250.jpg",
+        "id": "15"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_11_0110178989_2019-08-23_17-57-53_8c3391921a42f85e.jpg",
+        "id": "9"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_5_0110178201_2019-08-25_11-34-43_4bc1019106d5befa.jpg",
+        "id": "7"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_14_007_2019-08-24_16-36-03_7b0bf1502fb27f67.jpg",
+        "id": "19"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_5_130_2019-08-20_18-39-42_5abac149aa37b414.jpg",
+        "id": "23"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_11_159_2019-08-22_22-43-59_728a5138b378973f.jpg",
+        "id": "24"
+      }
+    ],
+    "answer": "A",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/3/3_-1_10_01101788B6_2019-08-23_12-32-25_890ec1d7d387e4a3.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000059",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/17/17_-1_17__H_0700EDE6D1_2018-12-14_09-55-04_f792f5b9b0ecba37.jpg",
+      "ground_truth_id": "17"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_6_0700EDDAE6_2018-11-29_07-51-08_da6db5a2d4e78a11.jpg",
+        "id": "14"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_33__L_0700EDE6D1_2018-12-11_14-41-33_3f3e0fee49e60fb2.jpg",
+        "id": "17"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_2_0700ED87AE_2018-11-26_07-49-03_44b6330c66e18835.jpg",
+        "id": "11"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_23_011017897F_2019-08-25_10-44-29_a539942b54d36edb.jpg",
+        "id": "5"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_13_0110178347_2019-08-24_15-58-28_29f3d6b94a222fb4.jpg",
+        "id": "8"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_15_0110178201_2019-08-27_07-43-10_f385c635bed1b1f6.jpg",
+        "id": "7"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_2_0417D30D92_2018-11-26_11-10-13_6719c12940cee491.jpg",
+        "id": "10"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_26_159_2019-08-22_22-57-26_1553c61128e2d6ae.jpg",
+        "id": "24"
+      }
+    ],
+    "answer": "B",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/17/17_-1_17__H_0700EDE6D1_2018-12-14_09-55-04_f792f5b9b0ecba37.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000060",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/13/13_-1_9_0700EDB994_2018-11-26_13-55-23_9d74264be0d22915.jpg",
+      "ground_truth_id": "13"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_2_011017897F_2019-08-22_11-41-49_da40a60f4ddc310a.jpg",
+        "id": "5"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_4_0110176514_2019-08-23_13-00-56_1c83c740bfb574f4.jpg",
+        "id": "6"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_78_107_2019-08-24_16-39-15_966662c4b5333485.jpg",
+        "id": "22"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/13/13_-1_38__L_0700EDB994_2018-12-11_14-52-47_47c7e626364186d6.jpg",
+        "id": "13"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_16_130_2019-08-20_19-07-58_d8c992be29da34c8.jpg",
+        "id": "23"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_41_007_2019-08-24_17-07-39_fa05d5e1f9d3d6ae.jpg",
+        "id": "19"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_27_0700EDA638_2018-12-10_12-37-19_5467ac328a7f8577.jpg",
+        "id": "12"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_4_0417D30D92_2018-11-26_14-10-23_001bb11d8b16bb72.jpg",
+        "id": "10"
+      }
+    ],
+    "answer": "D",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/13/13_-1_9_0700EDB994_2018-11-26_13-55-23_9d74264be0d22915.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000061",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/17/17_-1_14__H_0700EDE6D1_2018-12-13_08-53-43_666e1a231fbdce78.jpg",
+      "ground_truth_id": "17"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/20/20_-1_20_098_2019-08-22_19-29-13_62ebb990826b7a06.jpg",
+        "id": "20"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_5_0700EDE6D1_2018-11-30_15-30-51_275dc6305ff8a46a.jpg",
+        "id": "17"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_17_007_2019-08-24_16-42-30_da2ac2308f93de57.jpg",
+        "id": "19"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/1/1_-1_4_01101786C5_2019-08-25_16-24-42_5f026816c1f16210.jpg",
+        "id": "1"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/2/2_-1_29_01101787FB_2019-08-25_11-38-48_886bce1b034c56d1.jpg",
+        "id": "2"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_4_0110178989_2019-08-22_17-28-16_09a3bb66f4a2f49a.jpg",
+        "id": "9"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_19__L_0700EE16B2_2018-12-17_10-31-25_89c71929e66f2482.jpg",
+        "id": "18"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/21/21_-1_74_103_2019-08-24_19-20-42_3a3f9e7eb8dd15c7.jpg",
+        "id": "21"
+      }
+    ],
+    "answer": "B",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/17/17_-1_14__H_0700EDE6D1_2018-12-13_08-53-43_666e1a231fbdce78.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000062",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/25/25_-1_26_179_2019-08-24_13-35-00_bbfe0311d937eb1d.jpg",
+      "ground_truth_id": "25"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/2/2_-1_5_01101787FB_2019-08-22_16-55-46_4cab7089f48118cb.jpg",
+        "id": "2"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_9_0110178201_2019-08-25_14-36-30_1bdf6cf85bc9308b.jpg",
+        "id": "7"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/25/25_-1_50_179_2019-08-24_13-59-56_f9635fefea7a3fca.jpg",
+        "id": "25"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_41__L_0700EDA638_2018-12-13_08-06-42_2b39f1c5deccf0de.jpg",
+        "id": "12"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_31__L_0700EDE6D1_2018-12-10_14-04-01_6fde6e65051be594.jpg",
+        "id": "17"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_17_0110176514_2019-08-25_16-22-44_0002fbc884ed1f43.jpg",
+        "id": "6"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_29_011017897F_2019-08-25_11-49-17_f38b5568c4c8b38c.jpg",
+        "id": "5"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_27__H_0417D30D92_2018-12-14_10-19-25_6ee8696e62d95b09.jpg",
+        "id": "10"
+      }
+    ],
+    "answer": "C",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/25/25_-1_26_179_2019-08-24_13-35-00_bbfe0311d937eb1d.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000063",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/17/17_-1_22__H_0700EDE6D1_2018-12-17_09-28-50_d8ce12b46b3748fb.jpg",
+      "ground_truth_id": "17"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_21__H_0700EDE6D1_2018-12-17_09-24-46_433968e651f05bbb.jpg",
+        "id": "17"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_9_011017686F_2019-08-25_13-45-12_6f236fdee01bedfe.jpg",
+        "id": "4"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/13/13_-1_6_0700EDB994_2018-11-26_09-27-28_fa96eee070d64732.jpg",
+        "id": "13"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/20/20_-1_29_098_2019-08-22_19-49-30_2fbc29fda6478bb2.jpg",
+        "id": "20"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_1_0700EDA638_2018-11-25_08-15-12_d69b46c234a7db58.jpg",
+        "id": "12"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_10_0110178347_2019-08-23_13-58-35_34ac039f3871381e.jpg",
+        "id": "8"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_21_0110178989_2019-08-27_10-46-35_215677747a33c9d6.jpg",
+        "id": "9"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_4_0110178201_2019-08-25_11-28-52_9f1d57d637755726.jpg",
+        "id": "7"
+      }
+    ],
+    "answer": "A",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/17/17_-1_22__H_0700EDE6D1_2018-12-17_09-28-50_d8ce12b46b3748fb.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000064",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/8/8_-1_2_0110178347_2019-08-22_15-44-33_b223174b143e96f6.jpg",
+      "ground_truth_id": "8"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/25/25_-1_58_179_2019-08-24_14-08-57_7ba192d49de1dde1.jpg",
+        "id": "25"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_16_0110178347_2019-08-27_08-54-59_d2763db8a0fda4b2.jpg",
+        "id": "8"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_26__H_0700EDE6D1_2018-12-17_13-19-10_ede21d7da745ad21.jpg",
+        "id": "17"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_68_107_2019-08-24_16-24-40_deedfd2dc8afc8d4.jpg",
+        "id": "22"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_53_007_2019-08-24_17-26-29_a421f69f95e4f99d.jpg",
+        "id": "19"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_35__H_0700EDDAE6_2018-12-13_13-30-36_0a59fcd98b7b6ad3.jpg",
+        "id": "14"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_70_159_2019-08-22_23-42-09_bc3a60bdb3c539e2.jpg",
+        "id": "24"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_22__L_0700EDDB4E_2018-12-13_12-32-30_dfc7d288548db75f.jpg",
+        "id": "15"
+      }
+    ],
+    "answer": "B",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/8/8_-1_2_0110178347_2019-08-22_15-44-33_b223174b143e96f6.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000065",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/4/4_-1_38_011017686F_2019-08-29_09-42-17_2c4fcae89d11d3d8.jpg",
+      "ground_truth_id": "4"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/21/21_-1_12_103_2019-08-24_18-10-50_4f9e9113ca5be601.jpg",
+        "id": "21"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_10_0110178989_2019-08-23_17-32-48_e6d14db1e0c8a826.jpg",
+        "id": "9"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_30_011017686F_2019-08-26_11-53-58_4aec2a6caae2784e.jpg",
+        "id": "4"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_35__H_0700EDDCC4_2018-12-11_15-31-28_221387cadce6a856.jpg",
+        "id": "16"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_14_0700EDA638_2018-11-29_13-18-04_75357b52a9e2b0df.jpg",
+        "id": "12"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/13/13_-1_22_0700EDB994_2018-12-08_12-45-51_81e6fe5ea287e6d6.jpg",
+        "id": "13"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/20/20_-1_4_098_2019-08-22_19-05-31_fdcec1e190078104.jpg",
+        "id": "20"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_58_130_2019-08-20_20-06-43_92d7e46d25bd2966.jpg",
+        "id": "23"
+      }
+    ],
+    "answer": "C",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/4/4_-1_38_011017686F_2019-08-29_09-42-17_2c4fcae89d11d3d8.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000066",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/15/15_-1_0_0700EDDB4E_2018-11-26_10-53-02_9fa7b065536c3809.jpg",
+      "ground_truth_id": "15"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_34_107_2019-08-24_15-42-13_c6904298077f1417.jpg",
+        "id": "22"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_17__L_0700EE16B2_2018-12-13_09-00-14_2f1b81cbc9ac8944.jpg",
+        "id": "18"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_1_0700EDDB4E_2018-12-06_08-59-41_61490af3c781b64f.jpg",
+        "id": "15"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_27_130_2019-08-20_19-26-36_2f6b650de5b45957.jpg",
+        "id": "23"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_21_0110178347_2019-08-29_09-08-45_c8d92ca23b5202e8.jpg",
+        "id": "8"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_10_0700EDA638_2018-11-29_08-22-23_30d37c95f409d22b.jpg",
+        "id": "12"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_9_0110178201_2019-08-25_14-36-30_1bdf6cf85bc9308b.jpg",
+        "id": "7"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/0/0_-1_11_0700EDAC58_2019-08-26_06-26-05_2c1de89a950280eb.jpg",
+        "id": "0"
+      }
+    ],
+    "answer": "C",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/15/15_-1_0_0700EDDB4E_2018-11-26_10-53-02_9fa7b065536c3809.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000067",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/15/15_-1_26__L_0700EDDB4E_2018-12-17_14-06-23_21f59d64a3addfaf.jpg",
+      "ground_truth_id": "15"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_68_159_2019-08-22_23-40-20_c69489c1cd28352b.jpg",
+        "id": "24"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/7/7_-1_10_0110178201_2019-08-25_14-42-45_d7022722be3c932e.jpg",
+        "id": "7"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_3_0417D30D92_2018-11-26_11-15-19_7c1eadb3ec0e737a.jpg",
+        "id": "10"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/13/13_-1_40__L_0700EDB994_2018-12-13_09-13-23_2771fd256c6063ef.jpg",
+        "id": "13"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/2/2_-1_39_01101787FB_2019-08-26_11-51-58_7a67abcd41673825.jpg",
+        "id": "2"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_7_0110176514_2019-08-24_16-18-51_ac5ffb6c952ed759.jpg",
+        "id": "6"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_4_0700EDDB4E_2018-12-10_09-50-51_2c011bb853760577.jpg",
+        "id": "15"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_20_0110178347_2019-08-27_15-41-05_610c4b3e1f14af5a.jpg",
+        "id": "8"
+      }
+    ],
+    "answer": "G",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/15/15_-1_26__L_0700EDDB4E_2018-12-17_14-06-23_21f59d64a3addfaf.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000068",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/19/19_-1_17_007_2019-08-24_16-42-30_da2ac2308f93de57.jpg",
+      "ground_truth_id": "19"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_17_107_2019-08-24_15-09-00_365204b0aaa595e5.jpg",
+        "id": "22"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/13/13_-1_7_0700EDB994_2018-11-26_09-28-09_c2ab680dec6beef4.jpg",
+        "id": "13"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_14__H_0700EE16B2_2018-12-14_10-07-11_c41e8d6dafa1a81a.jpg",
+        "id": "18"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/2/2_-1_17_01101787FB_2019-08-23_16-02-00_f3ae572f46d21e03.jpg",
+        "id": "2"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/25/25_-1_62_179_2019-08-24_14-17-14_f1e7ce887f6e7926.jpg",
+        "id": "25"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/1/1_-1_8_01101786C5_2019-08-25_16-31-00_a694f8b611cd25cb.jpg",
+        "id": "1"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_37__H_0700EDA638_2018-12-17_09-26-26_3519ae20bc3fc991.jpg",
+        "id": "12"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_50_007_2019-08-24_17-18-16_92e0f32c28ce0b30.jpg",
+        "id": "19"
+      }
+    ],
+    "answer": "H",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/19/19_-1_17_007_2019-08-24_16-42-30_da2ac2308f93de57.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000069",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/17/17_-1_45__L_0700EDE6D1_2018-12-17_13-13-30_34f05bf80e0dcb67.jpg",
+      "ground_truth_id": "17"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_12_0700EDDAE6_2018-11-30_09-45-05_1d044dcdd1c1467f.jpg",
+        "id": "14"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/17/17_-1_32__L_0700EDE6D1_2018-12-11_14-37-07_18731aa2864e2890.jpg",
+        "id": "17"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/1/1_-1_2_01101786C5_2019-08-25_13-17-41_ba234eeac44ddb7a.jpg",
+        "id": "1"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_19__L_0700EE16B2_2018-12-17_10-31-25_89c71929e66f2482.jpg",
+        "id": "18"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_30_011017897F_2019-08-25_12-40-47_341a58ec998d2453.jpg",
+        "id": "5"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_40_130_2019-08-20_19-47-17_dfb50b76bb9409d1.jpg",
+        "id": "23"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_4_0700EDDCC4_2018-11-26_09-25-41_7422400593b7e96c.jpg",
+        "id": "16"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/25/25_-1_23_179_2019-08-24_13-32-08_aad38cf5fb077d03.jpg",
+        "id": "25"
+      }
+    ],
+    "answer": "B",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/17/17_-1_45__L_0700EDE6D1_2018-12-17_13-13-30_34f05bf80e0dcb67.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000070",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/22/22_-1_6_107_2019-08-24_14-41-01_0f6bfa1b44c33af9.jpg",
+      "ground_truth_id": "22"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_10_0417D30D92_2018-11-30_09-15-03_78e3e6a67a6a84ea.jpg",
+        "id": "10"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/6/6_-1_23_0110176514_2019-08-29_09-30-25_e4452bdbb31209b3.jpg",
+        "id": "6"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_13_011017897F_2019-08-23_12-55-00_4830e6bff126724c.jpg",
+        "id": "5"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/22/22_-1_52_107_2019-08-24_16-06-06_e65af7d7d709f4d5.jpg",
+        "id": "22"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/2/2_-1_11_01101787FB_2019-08-23_12-03-29_c7fba5d65372a8ff.jpg",
+        "id": "2"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/19/19_-1_60_007_2019-08-24_17-34-22_e0d708e825503679.jpg",
+        "id": "19"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/13/13_-1_18_0700EDB994_2018-12-06_09-15-49_ac107afb0a2931ad.jpg",
+        "id": "13"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/24/24_-1_24_159_2019-08-22_22-57-06_03688b1b4aeb9317.jpg",
+        "id": "24"
+      }
+    ],
+    "answer": "D",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/22/22_-1_6_107_2019-08-24_14-41-01_0f6bfa1b44c33af9.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000071",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/5/5_-1_37_011017897F_2019-08-26_10-59-45_b6562ec929ea2028.jpg",
+      "ground_truth_id": "5"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/5/5_-1_30_011017897F_2019-08-25_12-40-47_341a58ec998d2453.jpg",
+        "id": "5"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_24_011017686F_2019-08-26_09-53-15_079df81ff24bd647.jpg",
+        "id": "4"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/2/2_-1_16_01101787FB_2019-08-23_15-59-56_d6b0c097b126b33b.jpg",
+        "id": "2"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_38__L_0700ED87AE_2018-12-13_08-18-04_14c7036d803a3d83.jpg",
+        "id": "11"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/0/0_-1_14_0700EDAC58_2019-08-26_10-05-55_de250374afd6265d.jpg",
+        "id": "0"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_24__L_0700EDDB4E_2018-12-17_13-32-32_01550c3240d6a965.jpg",
+        "id": "15"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_7__H_0700EE16B2_2018-12-13_09-01-22_0d4986f39836d2a4.jpg",
+        "id": "18"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_31_0700EDDCC4_2018-12-10_09-52-40_c568e8c36546c7c5.jpg",
+        "id": "16"
+      }
+    ],
+    "answer": "A",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/5/5_-1_37_011017897F_2019-08-26_10-59-45_b6562ec929ea2028.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000072",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/14/14_-1_16_0700EDDAE6_2018-11-30_12-14-59_180673ac2557ccd8.jpg",
+      "ground_truth_id": "14"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/23/23_-1_73_130_2019-08-20_21-13-25_7d5f903e32fec1c0.jpg",
+        "id": "23"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_13_0110178989_2019-08-23_18-00-34_63cada7c938a25d1.jpg",
+        "id": "9"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/16/16_-1_36__H_0700EDDCC4_2018-12-13_09-33-32_e7b940450b325e97.jpg",
+        "id": "16"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/15/15_-1_1_0700EDDB4E_2018-12-06_08-59-41_61490af3c781b64f.jpg",
+        "id": "15"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_42__L_0700EDA638_2018-12-14_12-12-14_7e0c9e3cd0a9ed10.jpg",
+        "id": "12"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/11/11_-1_41__L_0700ED87AE_2018-12-14_10-48-32_a122cf423b7d426d.jpg",
+        "id": "11"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/14/14_-1_18_0700EDDAE6_2018-12-06_11-27-47_9804d92cc82e9d61.jpg",
+        "id": "14"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/0/0_-1_2_0700EDAC58_2019-08-25_11-35-52_361625d250cae2b1.jpg",
+        "id": "0"
+      }
+    ],
+    "answer": "G",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/14/14_-1_16_0700EDDAE6_2018-11-30_12-14-59_180673ac2557ccd8.jpg"
+    }
+  },
+  {
+    "task_id": "Beluga_MCQ_P8_resolution_000073",
+    "query": {
+      "image_path": "data/BirdIndividualID/corrupted/resolution_s3/8/8_-1_21_0110178347_2019-08-29_09-08-45_c8d92ca23b5202e8.jpg",
+      "ground_truth_id": "8"
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/BirdIndividualID/IDs/3/3_-1_9_01101788B6_2019-08-23_12-02-06_f20593695c7da9d8.jpg",
+        "id": "3"
+      },
+      {
+        "option": "B",
+        "image_path": "data/BirdIndividualID/IDs/9/9_-1_3_0110178989_2019-08-22_17-03-39_522e86163f783b5c.jpg",
+        "id": "9"
+      },
+      {
+        "option": "C",
+        "image_path": "data/BirdIndividualID/IDs/21/21_-1_24_103_2019-08-24_18-23-50_748b6a0239f64637.jpg",
+        "id": "21"
+      },
+      {
+        "option": "D",
+        "image_path": "data/BirdIndividualID/IDs/8/8_-1_7_0110178347_2019-08-22_17-25-48_88bd1667d9e87256.jpg",
+        "id": "8"
+      },
+      {
+        "option": "E",
+        "image_path": "data/BirdIndividualID/IDs/18/18_-1_1_0700EE16B2_2018-11-26_10-19-46_796b95e1e9e7dd00.jpg",
+        "id": "18"
+      },
+      {
+        "option": "F",
+        "image_path": "data/BirdIndividualID/IDs/10/10_-1_7_0417D30D92_2018-11-29_13-05-24_45d5f4e8d373562f.jpg",
+        "id": "10"
+      },
+      {
+        "option": "G",
+        "image_path": "data/BirdIndividualID/IDs/4/4_-1_41_011017686F_2019-08-29_11-46-42_e7d4e1169acc6e03.jpg",
+        "id": "4"
+      },
+      {
+        "option": "H",
+        "image_path": "data/BirdIndividualID/IDs/12/12_-1_3_0700EDA638_2018-11-26_09-08-35_cfd6db814e627234.jpg",
+        "id": "12"
+      }
+    ],
+    "answer": "D",
+    "meta": {
+      "protocol": "P8",
+      "corruption": "resolution",
+      "severity": 3,
+      "original_query_path": "data/BirdIndividualID/IDs/8/8_-1_21_0110178347_2019-08-29_09-08-45_c8d92ca23b5202e8.jpg"
+    }
+  }
+]
