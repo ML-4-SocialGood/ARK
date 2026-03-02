@@ -68,14 +68,17 @@ def main():
     # Set random seed
     random.seed(args.seed)
 
-    print(f"Initializing P3 Sampler for {args.dataset_name} (N={args.gallery_size})...")
+    # Sanitize dataset_name for filename and task_id (replace / with _)
+    safe_dataset_name = args.dataset_name.replace("/", "_").replace("\\", "_")
+
+    print(f"Initializing P3 Sampler for {safe_dataset_name} (N={args.gallery_size})...")
 
     try:
         sampler = ContextAwareSampler(
             data_dir=args.data_dir,
             gallery_size=args.gallery_size,
             max_queries_per_id=args.max_queries_per_id,
-            dataset_name=args.dataset_name,
+            dataset_name=safe_dataset_name,
         )
     except Exception as e:
         print(f"Failed to initialize sampler: {e}")
@@ -111,21 +114,12 @@ def main():
 
     print(f"\nTotal generated: {len(generated_samples)} samples.")
 
-    # Output path: annotations/{structure}/p3/{dataset_name}_CIR_P3_N{N}.json
-    # Mirror the data directory structure relative to 'data/'
-    norm_data_dir = os.path.normpath(args.data_dir)
-    path_parts = norm_data_dir.split(os.sep)
-
-    if "data" in path_parts:
-        data_index = path_parts.index("data")
-        rel_structure = os.path.join(*path_parts[data_index + 1 :])
-        output_subdir = os.path.join(args.output_dir, rel_structure, "p3")
-    else:
-        output_subdir = os.path.join(args.output_dir, args.dataset_name, "p3")
-
+    # Output path: annotations/{dataset_name}/p3/{safe_dataset_name}_CIR_P3_N{N}.json
+    # Use the raw dataset_name for directory structure to match verify_dataset.py logic
+    output_subdir = os.path.join(args.output_dir, args.dataset_name, "p3")
     os.makedirs(output_subdir, exist_ok=True)
 
-    output_filename = f"{args.dataset_name}_CIR_P3_N{args.gallery_size}.json"
+    output_filename = f"{safe_dataset_name}_CIR_P3_N{args.gallery_size}.json"
     output_path = os.path.join(output_subdir, output_filename)
 
     with open(output_path, "w") as f:
