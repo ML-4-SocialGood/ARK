@@ -183,18 +183,33 @@ class ContextAwareSampler:
         """
         Converts metadata dictionary to a readable string.
         """
+        # Semantic mappings for categorical codes
+        # TODO: Verify these mappings match your specific dataset documentation
+        value_mappings = {
+            "day_night": {0: "Day", 1: "Night"},
+            "face_direction": {0: "Front", 1: "Back", 2: "Left", 3: "Right"},
+        }
+
         parts = []
         # Define a preferred order and formatting
         key_map = {
             "timestamp": "Timestamp",
-            "day_night": "Day/Night",
+            "day_night": "Time of Day",
             "temperature": "Temperature",
-            "face_direction": "Face Direction",
+            "face_direction": "Viewpoint",
         }
 
         for key, label in key_map.items():
             if key in meta:
                 val = meta[key]
+
+                # Apply semantic mapping if available
+                if key in value_mappings and val in value_mappings[key]:
+                    val = value_mappings[key][val]
+
+                if key == "temperature":
+                    val = f"{val}°C"
+
                 parts.append(f"{label}: {val}")
 
         # Add any other keys not in the map
