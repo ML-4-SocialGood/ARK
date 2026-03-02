@@ -16,6 +16,7 @@ def main():
 
     # Path to the generation script
     generate_script = os.path.join(project_root, "scripts", "p3", "generate_dataset.py")
+    analyze_script = os.path.join(project_root, "scripts", "p3", "analyze_dataset.py")
 
     # Check if data directory exists
     if not os.path.exists(data_root):
@@ -79,6 +80,19 @@ def main():
             except subprocess.CalledProcessError as e:
                 print(f"    Error generating dataset for {species} (N={N}): {e}")
                 continue
+        
+        # --- Step 2: Analyze Dataset ---
+        print(f"  > Analyzing dataset for {species}...")
+        analyze_cmd = [
+            sys.executable,
+            analyze_script,
+            "--dataset_name",
+            dataset_name,
+        ]
+        try:
+            subprocess.run(analyze_cmd, check=True)
+        except subprocess.CalledProcessError as e:
+            print(f"    Error analyzing dataset for {species}: {e}")
 
     print("\n" + "=" * 60)
     print("All species processed successfully.")
