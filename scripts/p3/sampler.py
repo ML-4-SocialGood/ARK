@@ -179,9 +179,9 @@ class ContextAwareSampler:
         union = len(set_a.union(set_b))
         return intersection / union if union > 0 else 0.0
 
-    def _format_metadata(self, meta: Dict[str, Any]) -> str:
+    def _format_metadata(self, meta: Dict[str, Any]) -> Dict[str, Any]:
         """
-        Converts metadata dictionary to a readable string.
+        Converts metadata dictionary to a readable dictionary with semantic mappings.
         """
         # Semantic mappings for categorical codes
         # TODO: Verify these mappings match your specific dataset documentation
@@ -190,34 +190,16 @@ class ContextAwareSampler:
             "face_direction": {0: "Front", 1: "Back", 2: "Left", 3: "Right"},
         }
 
-        parts = []
-        # Define a preferred order and formatting
-        key_map = {
-            "timestamp": "Timestamp",
-            "day_night": "Time of Day",
-            "temperature": "Temperature",
-            "face_direction": "Viewpoint",
-        }
+        formatted_meta = {}
 
-        for key, label in key_map.items():
-            if key in meta:
-                val = meta[key]
-
-                # Apply semantic mapping if available
-                if key in value_mappings and val in value_mappings[key]:
-                    val = value_mappings[key][val]
-
-                if key == "temperature":
-                    val = f"{val}°C"
-
-                parts.append(f"{label}: {val}")
-
-        # Add any other keys not in the map
         for key, val in meta.items():
-            if key not in key_map:
-                parts.append(f"{key.replace('_', ' ').title()}: {val}")
+            # Apply semantic mapping if available
+            if key in value_mappings and val in value_mappings[key]:
+                val = value_mappings[key][val]
 
-        return "; ".join(parts)
+            formatted_meta[key] = val
+
+        return formatted_meta
 
     def generate_sample(self) -> Optional[Dict[str, Any]]:
         # 1. Filter eligible query IDs

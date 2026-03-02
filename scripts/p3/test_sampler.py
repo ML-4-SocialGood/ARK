@@ -47,7 +47,7 @@ def test_sampler():
     )
 
     print("\n--- Generating 3 Samples ---")
-    for i in range(3):
+    for i in range(2):
         sample = sampler.generate_sample()
         if sample:
             print(f"\nSample {i + 1}:")
