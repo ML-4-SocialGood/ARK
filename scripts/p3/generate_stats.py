@@ -5,78 +5,84 @@ Output: p3_dataset_stats.xlsx
 """
 
 import argparse
-import glob
 import json
 import os
 import re
-import sys
 from collections import Counter
 
 import pandas as pd
 
-# Ensure imports work when running from project root
-sys.path.append(os.getcwd())
 
-
-def get_n_from_filename(filename):
-    # Expecting format like ..._N4.json
-    match = re.search(r"_N(\d+)\.json$", filename)
-    if match:
-        return int(match.group(1))
-    return None
-
-
-def process_file(json_path):
+def analyze_file(file_path):
     try:
-        with open(json_path, "r") as f:
+        with open(file_path, "r") as f:
             data = json.load(f)
     except Exception as e:
-        print(f"Error reading {json_path}: {e}")
+        print(f"Error reading {file_path}: {e}")
         return None
 
     if not data:
         return None
 
-    filename = os.path.basename(json_path)
+    filename = os.path.basename(file_path)
 
-    # Extract N (Gallery Size)
-    n_val = get_n_from_filename(filename)
-
-    # Extract Dataset Name (everything before _CIR_P3_)
-    if "_CIR_P3_" in filename:
-        dataset_name = filename.split("_CIR_P3_")[0]
+    # Extract N from filename
+    # Expected format: ..._N{N}.json
+    match = re.search(r"_N(\d+)\.json$", filename)
+    if match:
+        n_val = int(match.group(1))
     else:
-        dataset_name = filename.replace(".json", "")
+        n_val = 4
 
-    total_samples = len(data)
+    # Calculate stats
+    total_tasks = len(data)
 
-    # ID stats
-    query_ids = [t["query"]["ground_truth_id"] for t in data if "query" in t]
-    unique_ids = len(set(query_ids))
+    # Extract ground truth IDs
+    query_ids = []
+    for task in data:
+        if "query" in task and "ground_truth_id" in task["query"]:
+            query_ids.append(task["query"]["ground_truth_id"])
 
-    # Answer stats
-    answers = [t["answer"] for t in data if "answer" in t]
-    answer_counts = Counter(answers)
+    if not query_ids:
+        return None
 
-    row = {
+    id_counts = Counter(query_ids)
+    unique_ids = len(id_counts)
+    counts = list(id_counts.values())
+
+    if counts:
+        min_samples = min(counts)
+        max_samples = max(counts)
+        avg_samples = sum(counts) / len(counts)
+    else:
+        min_samples = 0
+        max_samples = 0
+        avg_samples = 0
+
+    # Infer dataset name from directory structure
+    # annotations/{DatasetName}/p3/filename
+    parent_dir = os.path.dirname(os.path.dirname(file_path))
+    dataset_name = os.path.basename(parent_dir)
+
+    return {
         "Dataset": dataset_name,
-        "N": n_val if n_val else "Unknown",
-        "Num Samples": total_samples,
-        "Unique Query IDs": unique_ids,
-        "Avg Samples/ID": round(total_samples / unique_ids, 2) if unique_ids else 0,
+        "Protocol": "P3 (CIR)",
+        "Gallery Size (N)": n_val,
+        "Total Tasks": total_tasks,
+        "Unique IDs": unique_ids,
+        "Min Samples/ID": min_samples,
+        "Max Samples/ID": max_samples,
+        "Avg Samples/ID": round(avg_samples, 2),
+        "Filename": filename,
     }
-
-    # Add answer counts (A, B, C, D...)
-    for ans in sorted(answer_counts.keys()):
-        row[f"Ans {ans}"] = answer_counts[ans]
-
-    return row
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate P3 Dataset Statistics Excel")
-    
-    # Default output to scripts/p3/p3_dataset_stats.xlsx
+    parser = argparse.ArgumentParser(
+        description="Generate Excel Statistics for P3 (CIR) Annotations"
+    )
+
+    # Determine default output path relative to this script
     script_dir = os.path.dirname(os.path.abspath(__file__))
     default_output = os.path.join(script_dir, "p3_dataset_stats.xlsx")
 
@@ -84,7 +90,7 @@ def main():
         "--annotations_dir",
         type=str,
         default="annotations",
-        help="Root directory containing annotations",
+        help="Root directory containing annotations (e.g., annotations/)",
     )
     parser.add_argument(
         "--output_file",
@@ -95,51 +101,60 @@ def main():
 
     args = parser.parse_args()
 
+    if not os.path.exists(args.annotations_dir):
+        print(f"Error: Directory '{args.annotations_dir}' does not exist.")
+        return
+
+    all_stats = []
     print(f"Scanning '{args.annotations_dir}' for P3 datasets...")
 
-    # Recursive search for P3 JSON files
-    # Pattern matches: annotations/**/p3/*_CIR_P3_*.json
-    pattern = os.path.join(args.annotations_dir, "**", "p3", "*_CIR_P3_*.json")
-    files = glob.glob(pattern, recursive=True)
-    
-    # Filter out any potential stats json files
-    files = [f for f in files if not f.endswith("_stats.json")]
+    for root, dirs, files in os.walk(args.annotations_dir):
+        # We are looking for files inside a 'p3' subdirectory
+        if os.path.basename(root) == "p3":
+            for file in files:
+                if file.endswith(".json") and "CIR_P3" in file:
+                    file_path = os.path.join(root, file)
+                    print(f"  Processing: {file}", end="\r")
 
-    if not files:
-        print("No P3 dataset files found.")
+                    stats = analyze_file(file_path)
+                    if stats:
+                        all_stats.append(stats)
+
+    print("\n" + "-" * 50)
+
+    if not all_stats:
+        print("No valid P3 annotation files found.")
         return
 
-    print(f"Found {len(files)} files. Processing...")
-
-    rows = []
-    for f in sorted(files):
-        print(f"  Processing {os.path.basename(f)}...")
-        row = process_file(f)
-        if row:
-            rows.append(row)
-
-    if not rows:
-        print("No valid data extracted.")
-        return
-
-    df = pd.DataFrame(rows)
-
-    # Reorder columns to put Ans columns at the end
-    cols = [c for c in df.columns if not c.startswith("Ans ")]
-    ans_cols = sorted([c for c in df.columns if c.startswith("Ans ")])
-    df = df[cols + ans_cols]
+    # Create DataFrame
+    df = pd.DataFrame(all_stats)
 
     # Sort by Dataset and N
-    if "Dataset" in df.columns and "N" in df.columns:
-        df = df.sort_values(by=["Dataset", "N"])
+    if not df.empty:
+        df = df.sort_values(by=["Dataset", "Gallery Size (N)"])
 
-    print(f"Saving statistics to {args.output_file}...")
-    try:
-        df.to_excel(args.output_file, index=False)
+    # Determine output format based on extension
+    ext = os.path.splitext(args.output_file)[1].lower()
+
+    if ext == ".csv":
+        print(f"Saving statistics to {args.output_file}...")
+        df.to_csv(args.output_file, index=False)
         print("Done.")
-    except Exception as e:
-        print(f"Error saving Excel file: {e}")
-        print("Make sure you have 'openpyxl' installed (pip install openpyxl).")
+    else:
+        # Default to Excel for .xlsx or other extensions
+        try:
+            print(f"Saving statistics to {args.output_file}...")
+            df.to_excel(args.output_file, index=False)
+            print("Done.")
+        except ImportError:
+            print("Error: 'openpyxl' library is required to save Excel files.")
+            print("Please install it using: pip install openpyxl")
+            # Fallback to CSV
+            csv_file = os.path.splitext(args.output_file)[0] + ".csv"
+            print(f"Attempting to save as CSV instead: {csv_file}")
+            df.to_csv(csv_file, index=False)
+        except Exception as e:
+            print(f"Error saving file: {e}")
 
 
 if __name__ == "__main__":
