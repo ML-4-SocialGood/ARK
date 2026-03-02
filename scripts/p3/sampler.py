@@ -102,7 +102,7 @@ class ContextAwareSampler:
                         fname = img_entry.get("img_path")
                         meta = img_entry.get("metadata")
                         if fname and meta:
-                            self.metadata_map[fname] = meta
+                            self.metadata_map[os.path.basename(fname)] = meta
                 else:
                     print(f"Warning: 'images' key missing in {json_path}")
         except Exception as e:
