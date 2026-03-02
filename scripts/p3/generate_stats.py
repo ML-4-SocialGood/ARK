@@ -1,143 +1,138 @@
 """
 scripts/p3/generate_stats.py
-Generate statistical report for Protocol 3 Datasets (Context-aware).
-Outputs a JSON file with numerical statistics.
+Generate a summary Excel report for all Protocol 3 datasets found in the annotations directory.
+Output: p3_dataset_stats.xlsx
 """
 
 import argparse
+import glob
 import json
 import os
+import re
 import sys
 from collections import Counter
 
-import numpy as np
+import pandas as pd
 
 # Ensure imports work when running from project root
 sys.path.append(os.getcwd())
 
 
-def generate_stats_for_file(json_path, output_dir):
-    print(f"Generating statistics for {json_path}...")
+def get_n_from_filename(filename):
+    # Expecting format like ..._N4.json
+    match = re.search(r"_N(\d+)\.json$", filename)
+    if match:
+        return int(match.group(1))
+    return None
 
+
+def process_file(json_path):
     try:
         with open(json_path, "r") as f:
             data = json.load(f)
     except Exception as e:
-        print(f"Error loading {json_path}: {e}")
-        return
+        print(f"Error reading {json_path}: {e}")
+        return None
 
     if not data:
-        print("Dataset is empty.")
-        return
+        return None
 
-    stats = {}
+    filename = os.path.basename(json_path)
 
-    # 1. Basic Counts
-    stats["total_samples"] = len(data)
+    # Extract N (Gallery Size)
+    n_val = get_n_from_filename(filename)
 
-    # 2. ID Stats
-    query_ids = [str(task["query"]["ground_truth_id"]) for task in data]
-    unique_ids = set(query_ids)
-    stats["unique_query_ids"] = len(unique_ids)
-
-    id_counts = Counter(query_ids)
-    counts = list(id_counts.values())
-    if counts:
-        stats["samples_per_id"] = {
-            "mean": float(np.mean(counts)),
-            "std": float(np.std(counts)),
-            "min": int(min(counts)),
-            "max": int(max(counts)),
-        }
+    # Extract Dataset Name (everything before _CIR_P3_)
+    if "_CIR_P3_" in filename:
+        dataset_name = filename.split("_CIR_P3_")[0]
     else:
-        stats["samples_per_id"] = {}
+        dataset_name = filename.replace(".json", "")
 
-    # 3. Answer Distribution
-    answers = [task["answer"] for task in data]
+    total_samples = len(data)
+
+    # ID stats
+    query_ids = [t["query"]["ground_truth_id"] for t in data if "query" in t]
+    unique_ids = len(set(query_ids))
+
+    # Answer stats
+    answers = [t["answer"] for t in data if "answer" in t]
     answer_counts = Counter(answers)
-    # Sort by key (A, B, C, D)
-    stats["answer_distribution"] = dict(sorted(answer_counts.items()))
 
-    # 4. Metadata Stats (P3 Specific)
-    # Infer keys from the first sample's context_text
-    if "query" in data[0] and "context_text" in data[0]["query"]:
-        meta_keys = list(data[0]["query"]["context_text"].keys())
-        stats["metadata_distribution"] = {}
+    row = {
+        "Dataset": dataset_name,
+        "Protocol": "P3",
+        "N": n_val if n_val else "Unknown",
+        "Num Samples": total_samples,
+        "Unique Query IDs": unique_ids,
+        "Avg Samples/ID": round(total_samples / unique_ids, 2) if unique_ids else 0,
+    }
 
-        for key in meta_keys:
-            # Get all values for this key
-            values = [str(t["query"]["context_text"].get(key)) for t in data]
-            # Count and store
-            stats["metadata_distribution"][key] = dict(Counter(values).most_common())
+    # Add answer counts (A, B, C, D...)
+    for ans in sorted(answer_counts.keys()):
+        row[f"Ans {ans}"] = answer_counts[ans]
 
-    # Output
-    dataset_filename = os.path.splitext(os.path.basename(json_path))[0]
-
-    # Ensure output directory exists
-    os.makedirs(output_dir, exist_ok=True)
-
-    output_path = os.path.join(output_dir, f"{dataset_filename}_stats.json")
-
-    with open(output_path, "w") as f:
-        json.dump(stats, f, indent=2)
-
-    print(f"Statistics saved to {output_path}")
+    return row
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate P3 Dataset Statistics")
-    parser.add_argument(
-        "--dataset_name",
-        type=str,
-        required=True,
-        help="Name of dataset (e.g. MetaWild/Deer) or path to .json",
-    )
+    parser = argparse.ArgumentParser(description="Generate P3 Dataset Statistics Excel")
     parser.add_argument(
         "--annotations_dir",
         type=str,
         default="annotations",
-        help="Root annotations directory",
+        help="Root directory containing annotations",
     )
     parser.add_argument(
-        "--output_dir",
+        "--output_file",
         type=str,
-        default=None,
-        help="Output directory",
+        default="p3_dataset_stats.xlsx",
+        help="Path to output Excel file",
     )
 
     args = parser.parse_args()
 
-    # Case 1: Direct file
-    if args.dataset_name.endswith(".json") and os.path.exists(args.dataset_name):
-        if args.output_dir is None:
-            # Default to 'analysis_results' in the same folder as the json file
-            args.output_dir = os.path.join(
-                os.path.dirname(args.dataset_name), "analysis_results"
-            )
-        generate_stats_for_file(args.dataset_name, args.output_dir)
+    print(f"Scanning '{args.annotations_dir}' for P3 datasets...")
+
+    # Recursive search for P3 JSON files
+    # Pattern matches: annotations/**/p3/*_CIR_P3_*.json
+    pattern = os.path.join(args.annotations_dir, "**", "p3", "*_CIR_P3_*.json")
+    files = glob.glob(pattern, recursive=True)
+
+    if not files:
+        print("No P3 dataset files found.")
         return
 
-    # Case 2: Logical name (scan directory)
-    p3_dir = os.path.join(args.annotations_dir, args.dataset_name, "p3")
-    if not os.path.exists(p3_dir):
-        print(f"Directory not found: {p3_dir}")
+    print(f"Found {len(files)} files. Processing...")
+
+    rows = []
+    for f in sorted(files):
+        print(f"  Processing {os.path.basename(f)}...")
+        row = process_file(f)
+        if row:
+            rows.append(row)
+
+    if not rows:
+        print("No valid data extracted.")
         return
 
-    if args.output_dir is None:
-        args.output_dir = os.path.join(p3_dir, "analysis_results")
+    df = pd.DataFrame(rows)
 
-    json_files = [
-        f for f in os.listdir(p3_dir) if f.endswith(".json") and "CIR_P3" in f
-    ]
-    json_files.sort()
+    # Reorder columns to put Ans columns at the end
+    cols = [c for c in df.columns if not c.startswith("Ans ")]
+    ans_cols = sorted([c for c in df.columns if c.startswith("Ans ")])
+    df = df[cols + ans_cols]
 
-    if not json_files:
-        print(f"No P3 JSON files found in {p3_dir}")
-        return
+    # Sort by Dataset and N
+    if "Dataset" in df.columns and "N" in df.columns:
+        df = df.sort_values(by=["Dataset", "N"])
 
-    print(f"Found {len(json_files)} files to process.")
-    for f in json_files:
-        generate_stats_for_file(os.path.join(p3_dir, f), args.output_dir)
+    print(f"Saving statistics to {args.output_file}...")
+    try:
+        df.to_excel(args.output_file, index=False)
+        print("Done.")
+    except Exception as e:
+        print(f"Error saving Excel file: {e}")
+        print("Make sure you have 'openpyxl' installed (pip install openpyxl).")
 
 
 if __name__ == "__main__":

@@ -95,21 +95,18 @@ def main():
         except subprocess.CalledProcessError as e:
             print(f"    Error analyzing dataset for {species}: {e}")
 
-        # --- Step 3: Generate Statistics ---
-        print(f"  > Generating statistics for {species}...")
-        stats_cmd = [
-            sys.executable,
-            stats_script,
-            "--dataset_name",
-            dataset_name,
-        ]
-        try:
-            subprocess.run(stats_cmd, check=True)
-        except subprocess.CalledProcessError as e:
-            print(f"    Error generating statistics for {species}: {e}")
-
     print("\n" + "=" * 60)
     print("All species processed successfully.")
+
+    # --- Final Step: Generate Global Statistics Excel ---
+    print("Generating global statistics report (Excel)...")
+    stats_cmd = [
+        sys.executable,
+        stats_script,
+        "--annotations_dir", "annotations",
+        "--output_file", "p3_dataset_stats.xlsx"
+    ]
+    subprocess.run(stats_cmd, check=True)
 
 
 if __name__ == "__main__":
