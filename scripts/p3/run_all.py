@@ -103,8 +103,7 @@ def main():
     stats_cmd = [
         sys.executable,
         stats_script,
-        "--annotations_dir", "annotations",
-        "--output_file", "p3_dataset_stats.xlsx"
+        "--annotations_dir", "annotations"
     ]
     subprocess.run(stats_cmd, check=True)
 

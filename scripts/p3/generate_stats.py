@@ -60,7 +60,6 @@ def process_file(json_path):
 
     row = {
         "Dataset": dataset_name,
-        "Protocol": "P3",
         "N": n_val if n_val else "Unknown",
         "Num Samples": total_samples,
         "Unique Query IDs": unique_ids,
@@ -76,6 +75,11 @@ def process_file(json_path):
 
 def main():
     parser = argparse.ArgumentParser(description="Generate P3 Dataset Statistics Excel")
+    
+    # Default output to scripts/p3/p3_dataset_stats.xlsx
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    default_output = os.path.join(script_dir, "p3_dataset_stats.xlsx")
+
     parser.add_argument(
         "--annotations_dir",
         type=str,
@@ -85,7 +89,7 @@ def main():
     parser.add_argument(
         "--output_file",
         type=str,
-        default="p3_dataset_stats.xlsx",
+        default=default_output,
         help="Path to output Excel file",
     )
 
@@ -97,6 +101,9 @@ def main():
     # Pattern matches: annotations/**/p3/*_CIR_P3_*.json
     pattern = os.path.join(args.annotations_dir, "**", "p3", "*_CIR_P3_*.json")
     files = glob.glob(pattern, recursive=True)
+    
+    # Filter out any potential stats json files
+    files = [f for f in files if not f.endswith("_stats.json")]
 
     if not files:
         print("No P3 dataset files found.")
