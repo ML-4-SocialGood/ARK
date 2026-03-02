@@ -1,0 +1,1124 @@
+[
+  {
+    "task_id": "MetaWild_Pukeko_CIR_P3_000001",
+    "query": {
+      "image_path": "data/MetaWild/Pukeko/IDs/27/27_Doc-RMV-ICAVR05_16_AF86D92B-067E-4DAE-8BE2-FFEF10EF2BF2_000002.jpg",
+      "ground_truth_id": "27",
+      "metadata": {
+        "face_direction": 3,
+        "temperature": 13,
+        "day_night": 0,
+        "timestamp": "2021-07-15 13:49:00"
+      },
+      "context_text": {
+        "face_direction": "Right",
+        "temperature": 13,
+        "day_night": "Day",
+        "timestamp": "2021-07-15 13:49:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/MetaWild/Pukeko/IDs/7/7_Doc-RMV-ICAVR06_0_120DDD57-839C-4895-AD0A-515F2E6F0CFE_000001.jpg",
+        "id": "7"
+      },
+      {
+        "option": "B",
+        "image_path": "data/MetaWild/Pukeko/IDs/20/20_Doc-RMV-ICAVM76_8_ACB08FE8-6ED9-46FC-95F0-1E6B6F4021E1_000009.jpg",
+        "id": "20"
+      },
+      {
+        "option": "C",
+        "image_path": "data/MetaWild/Pukeko/IDs/16/16_Doc-RMV-ICAVM76_32_6D852DB9-6625-4BC3-B01A-F7A025C7806C_000007.jpg",
+        "id": "16"
+      },
+      {
+        "option": "D",
+        "image_path": "data/MetaWild/Pukeko/IDs/24/24_Doc-RMV-ICAVM76_35_8552C77C-4B4E-4EAB-974C-1775D9725978_000010.jpg",
+        "id": "24"
+      },
+      {
+        "option": "E",
+        "image_path": "data/MetaWild/Pukeko/IDs/4/4_Doc-RMV-ICAVM76_79_67683365-5927-456F-835A-5EA75B114D93_000008.jpg",
+        "id": "4"
+      },
+      {
+        "option": "F",
+        "image_path": "data/MetaWild/Pukeko/IDs/23/23_Doc-RMV-ICAVM80_5_B5667DAC-D7CB-457C-A5D2-E67B4D8DDDAE_000006.jpg",
+        "id": "23"
+      },
+      {
+        "option": "G",
+        "image_path": "data/MetaWild/Pukeko/IDs/27/27_Doc-RMV-ICAVR05_10_66F8C33A-B1E4-4501-B050-1B4F1D336CE4_000005.jpg",
+        "id": "27"
+      },
+      {
+        "option": "H",
+        "image_path": "data/MetaWild/Pukeko/IDs/0/0_Doc-RMV-ICAVM76_12_00E5BB34-9B60-45FD-8C52-1D96F001E1A7_000009.jpg",
+        "id": "0"
+      },
+      {
+        "option": "I",
+        "image_path": "data/MetaWild/Pukeko/IDs/29/29_Doc-ACC-57_41_96359F62-B5C2-4898-9E0B-02937E349AE3.JPG",
+        "id": "29"
+      },
+      {
+        "option": "J",
+        "image_path": "data/MetaWild/Pukeko/IDs/10/10_Doc-RMV-ICAVM76_24_CCF33E10-5CF5-4793-A2CD-47553D8213D1_000005.jpg",
+        "id": "10"
+      },
+      {
+        "option": "K",
+        "image_path": "data/MetaWild/Pukeko/IDs/1/1_Doc-RMV-ICAVR05_314_9A5378FF-7ECD-47AB-93DB-BF86DAD81787_000007.jpg",
+        "id": "1"
+      },
+      {
+        "option": "L",
+        "image_path": "data/MetaWild/Pukeko/IDs/11/11_Doc-RMV-ICAVR05_7_10A15083-5068-4EA1-AD7D-46A7584C2B7F_000008.jpg",
+        "id": "11"
+      },
+      {
+        "option": "M",
+        "image_path": "data/MetaWild/Pukeko/IDs/9/9_Doc-RMV-ICAVM76_83_B68494EB-694A-4912-B66D-C46BE7CBFDD5_000002.jpg",
+        "id": "9"
+      },
+      {
+        "option": "N",
+        "image_path": "data/MetaWild/Pukeko/IDs/15/15_Doc-RMV-ICAVR05_3_3BE1DA0D-C6A9-468B-AD42-8AB25B3B5BBF_000004.jpg",
+        "id": "15"
+      },
+      {
+        "option": "O",
+        "image_path": "data/MetaWild/Pukeko/IDs/25/25_Doc-RMV-ICAVR05_61_97943DF1-0599-4C39-AAA5-340727EB4F8C_000003.jpg",
+        "id": "25"
+      },
+      {
+        "option": "P",
+        "image_path": "data/MetaWild/Pukeko/IDs/12/12_Doc-RMV-ICAVR05_10_5B4DDCB7-B1A9-4167-9A23-3980F1D1CE6B_000001.jpg",
+        "id": "12"
+      }
+    ],
+    "answer": "G"
+  },
+  {
+    "task_id": "MetaWild_Pukeko_CIR_P3_000002",
+    "query": {
+      "image_path": "data/MetaWild/Pukeko/IDs/5/5_Doc-RMV-ICAVR06_11_2111A690-D3F1-4859-8C88-AA9566185D86_000002.jpg",
+      "ground_truth_id": "5",
+      "metadata": {
+        "face_direction": 1,
+        "temperature": 19,
+        "day_night": 0,
+        "timestamp": "2021-07-10 11:53:00"
+      },
+      "context_text": {
+        "face_direction": "Back",
+        "temperature": 19,
+        "day_night": "Day",
+        "timestamp": "2021-07-10 11:53:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/MetaWild/Pukeko/IDs/18/18_Doc-RMV-ICAVM76_12_5655FBAB-1F0C-4F61-AB00-879DC1CD0604_000006.jpg",
+        "id": "18"
+      },
+      {
+        "option": "B",
+        "image_path": "data/MetaWild/Pukeko/IDs/5/5_Doc-RMV-ICAVR06_53_3323AD17-DB7E-4A7B-87E6-21FAB3B18D06_000005.jpg",
+        "id": "5"
+      },
+      {
+        "option": "C",
+        "image_path": "data/MetaWild/Pukeko/IDs/14/14_Doc-RMV-ICAVR06_11_6D0C5F50-EF78-47A3-824A-061F71EFADCD_000004.jpg",
+        "id": "14"
+      },
+      {
+        "option": "D",
+        "image_path": "data/MetaWild/Pukeko/IDs/26/26_Doc-RMV-ICAVR05_52_620812AD-0DE4-4B86-9A59-4D46C5347AB8_000005.jpg",
+        "id": "26"
+      },
+      {
+        "option": "E",
+        "image_path": "data/MetaWild/Pukeko/IDs/17/17_Doc-RMV-ICAVM76_36_A2009619-C511-447C-9B7B-C09FF229E9F7_000009.jpg",
+        "id": "17"
+      },
+      {
+        "option": "F",
+        "image_path": "data/MetaWild/Pukeko/IDs/19/19_Doc-RMV-ICAVM76_6_257208CF-3420-4517-BE34-B3580561C38C_000008.jpg",
+        "id": "19"
+      },
+      {
+        "option": "G",
+        "image_path": "data/MetaWild/Pukeko/IDs/4/4_Doc-RMV-ICAVM76_123_F239B228-F59A-44C5-88FF-A99499177311_000007.jpg",
+        "id": "4"
+      },
+      {
+        "option": "H",
+        "image_path": "data/MetaWild/Pukeko/IDs/11/11_Doc-RMV-ICAVR05_43_60F53B18-E846-4C22-871C-0D8A43EC1349_000007.jpg",
+        "id": "11"
+      },
+      {
+        "option": "I",
+        "image_path": "data/MetaWild/Pukeko/IDs/8/8_Doc-RMV-ICAVR06_29_8629752A-DC74-47B2-8DE4-DEDC58095D52_000010.jpg",
+        "id": "8"
+      },
+      {
+        "option": "J",
+        "image_path": "data/MetaWild/Pukeko/IDs/10/10_Doc-RMV-ICAVM76_4_4B41C4F7-91D8-43DF-9F88-17E475FB6771_000010.jpg",
+        "id": "10"
+      },
+      {
+        "option": "K",
+        "image_path": "data/MetaWild/Pukeko/IDs/21/21_Doc-RMV-ICAVM80_6_1ADF1C5D-91EC-4600-8BBA-E0698785C8B7_000007.jpg",
+        "id": "21"
+      },
+      {
+        "option": "L",
+        "image_path": "data/MetaWild/Pukeko/IDs/1/1_Doc-RMV-ICAVR05_30_1224C4DD-E7AB-4F8E-9164-014BD4B5BAE1_000001.jpg",
+        "id": "1"
+      },
+      {
+        "option": "M",
+        "image_path": "data/MetaWild/Pukeko/IDs/27/27_Doc-RMV-ICAVR05_2_57A225D6-A98D-4B21-9DD0-0FBCE9A16715_000003.jpg",
+        "id": "27"
+      },
+      {
+        "option": "N",
+        "image_path": "data/MetaWild/Pukeko/IDs/24/24_Doc-RMV-ICAVM76_51_C58EB674-4AD5-4EB2-8BFE-23C85E364D18_000006.jpg",
+        "id": "24"
+      },
+      {
+        "option": "O",
+        "image_path": "data/MetaWild/Pukeko/IDs/25/25_Doc-RMV-ICAVR05_28_4EAF4D8E-59C3-4EA5-826C-ABE461A5E6DF_000006.jpg",
+        "id": "25"
+      },
+      {
+        "option": "P",
+        "image_path": "data/MetaWild/Pukeko/IDs/2/2_Doc-RMV-ICAVR05_228_7C0A94FB-4967-45CC-8E3B-6C2247C5FE0D_000005.jpg",
+        "id": "2"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "task_id": "MetaWild_Pukeko_CIR_P3_000003",
+    "query": {
+      "image_path": "data/MetaWild/Pukeko/IDs/28/28_Doc-RMV-ICAVM77_28_F09C1B4C-CD0A-4E20-8A94-F1883AE4CA81_000001.jpg",
+      "ground_truth_id": "28",
+      "metadata": {
+        "face_direction": 3,
+        "temperature": 11,
+        "day_night": 0,
+        "timestamp": "2021-07-17 16:59:00"
+      },
+      "context_text": {
+        "face_direction": "Right",
+        "temperature": 11,
+        "day_night": "Day",
+        "timestamp": "2021-07-17 16:59:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/MetaWild/Pukeko/IDs/5/5_Doc-RMV-ICAVR06_200_789F9B90-C2E8-4088-BBAC-BB09D9927824_000002.jpg",
+        "id": "5"
+      },
+      {
+        "option": "B",
+        "image_path": "data/MetaWild/Pukeko/IDs/2/2_Doc-RMV-ICAVR05_359_E78CD1F1-4422-47E3-85BF-FA62E83DF27D_000010.jpg",
+        "id": "2"
+      },
+      {
+        "option": "C",
+        "image_path": "data/MetaWild/Pukeko/IDs/22/22_Doc-RMV-ICAVM80_1_5C4496B7-0A96-4753-BBFE-080A588D8230_000002.jpg",
+        "id": "22"
+      },
+      {
+        "option": "D",
+        "image_path": "data/MetaWild/Pukeko/IDs/16/16_Doc-RMV-ICAVM76_38_75E3084F-67AB-4A88-ADB2-0FACB62F111A_000003.jpg",
+        "id": "16"
+      },
+      {
+        "option": "E",
+        "image_path": "data/MetaWild/Pukeko/IDs/15/15_Doc-RMV-ICAVR05_13_7EFF5AF8-AFA5-4288-8150-B7AE1B90E96C_000004.jpg",
+        "id": "15"
+      },
+      {
+        "option": "F",
+        "image_path": "data/MetaWild/Pukeko/IDs/21/21_Doc-RMV-ICAVM80_7_1ADF1C5D-91EC-4600-8BBA-E0698785C8B7_000008.jpg",
+        "id": "21"
+      },
+      {
+        "option": "G",
+        "image_path": "data/MetaWild/Pukeko/IDs/14/14_Doc-RMV-ICAVR06_17_80AB0E75-EE30-402F-9F32-0FECF0C71B5D_000001.jpg",
+        "id": "14"
+      },
+      {
+        "option": "H",
+        "image_path": "data/MetaWild/Pukeko/IDs/27/27_Doc-RMV-ICAVR05_32_BF368564-5A9E-4107-8D87-2464A065564A_000002.jpg",
+        "id": "27"
+      },
+      {
+        "option": "I",
+        "image_path": "data/MetaWild/Pukeko/IDs/18/18_Doc-RMV-ICAVM76_88_AA01EAE5-2835-4829-AFBC-D760A1C2485D_000008.jpg",
+        "id": "18"
+      },
+      {
+        "option": "J",
+        "image_path": "data/MetaWild/Pukeko/IDs/25/25_Doc-RMV-ICAVR05_59_97943DF1-0599-4C39-AAA5-340727EB4F8C_000001.jpg",
+        "id": "25"
+      },
+      {
+        "option": "K",
+        "image_path": "data/MetaWild/Pukeko/IDs/10/10_Doc-RMV-ICAVM76_13_5DACA976-E7C7-4166-9E18-28BC72C43665_000009.jpg",
+        "id": "10"
+      },
+      {
+        "option": "L",
+        "image_path": "data/MetaWild/Pukeko/IDs/6/6_Doc-RMV-ICAVR06_163_6B6CF22F-06A0-4462-8C11-ABEDB4F8F394_000004.jpg",
+        "id": "6"
+      },
+      {
+        "option": "M",
+        "image_path": "data/MetaWild/Pukeko/IDs/28/28_Doc-RMV-ICAVM77_12_A27A9E37-89B8-4C5F-BCBB-3E77E256B913_000003.jpg",
+        "id": "28"
+      },
+      {
+        "option": "N",
+        "image_path": "data/MetaWild/Pukeko/IDs/4/4_Doc-RMV-ICAVM76_27_2A78B855-6EC5-41C4-B97C-66BF5C18469A_000010.jpg",
+        "id": "4"
+      },
+      {
+        "option": "O",
+        "image_path": "data/MetaWild/Pukeko/IDs/1/1_Doc-RMV-ICAVR05_522_EC58C59D-C8EA-462F-A3DD-8188E3BB0683_000007.jpg",
+        "id": "1"
+      },
+      {
+        "option": "P",
+        "image_path": "data/MetaWild/Pukeko/IDs/7/7_Doc-RMV-ICAVR06_39_7C1C89C1-9982-49C0-B0ED-6114F4ECF32A_000010.jpg",
+        "id": "7"
+      }
+    ],
+    "answer": "M"
+  },
+  {
+    "task_id": "MetaWild_Pukeko_CIR_P3_000004",
+    "query": {
+      "image_path": "data/MetaWild/Pukeko/IDs/24/24_Doc-RMV-ICAVM76_10_47BD2571-94D5-4E30-A088-F2F4D86CC936_000005.jpg",
+      "ground_truth_id": "24",
+      "metadata": {
+        "face_direction": 3,
+        "temperature": 10,
+        "day_night": 0,
+        "timestamp": "2021-07-10 17:03:00"
+      },
+      "context_text": {
+        "face_direction": "Right",
+        "temperature": 10,
+        "day_night": "Day",
+        "timestamp": "2021-07-10 17:03:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/MetaWild/Pukeko/IDs/11/11_Doc-RMV-ICAVR05_3_10A15083-5068-4EA1-AD7D-46A7584C2B7F_000004.jpg",
+        "id": "11"
+      },
+      {
+        "option": "B",
+        "image_path": "data/MetaWild/Pukeko/IDs/5/5_Doc-RMV-ICAVR06_174_6CA1F1AB-44B5-4FC3-9AA2-B2F85CFA9AB2_000006.jpg",
+        "id": "5"
+      },
+      {
+        "option": "C",
+        "image_path": "data/MetaWild/Pukeko/IDs/29/29_Doc-ACC-57_52_CA1E59AA-54E7-4B61-9DB6-F7A9973A2883.JPG",
+        "id": "29"
+      },
+      {
+        "option": "D",
+        "image_path": "data/MetaWild/Pukeko/IDs/18/18_Doc-RMV-ICAVM76_13_5655FBAB-1F0C-4F61-AB00-879DC1CD0604_000007.jpg",
+        "id": "18"
+      },
+      {
+        "option": "E",
+        "image_path": "data/MetaWild/Pukeko/IDs/20/20_Doc-RMV-ICAVM76_8_ACB08FE8-6ED9-46FC-95F0-1E6B6F4021E1_000009.jpg",
+        "id": "20"
+      },
+      {
+        "option": "F",
+        "image_path": "data/MetaWild/Pukeko/IDs/25/25_Doc-RMV-ICAVR05_32_4EAF4D8E-59C3-4EA5-826C-ABE461A5E6DF_000010.jpg",
+        "id": "25"
+      },
+      {
+        "option": "G",
+        "image_path": "data/MetaWild/Pukeko/IDs/28/28_Doc-RMV-ICAVM77_18_A27A9E37-89B8-4C5F-BCBB-3E77E256B913_000009.jpg",
+        "id": "28"
+      },
+      {
+        "option": "H",
+        "image_path": "data/MetaWild/Pukeko/IDs/13/13_Doc-RMV-ICAVR06_6_57D5C948-527D-432E-965E-57589B1BD8C7_000007.jpg",
+        "id": "13"
+      },
+      {
+        "option": "I",
+        "image_path": "data/MetaWild/Pukeko/IDs/16/16_Doc-RMV-ICAVM76_2_06296DFC-9108-4FD5-B0E4-9FD61AA2C2E3_000003.jpg",
+        "id": "16"
+      },
+      {
+        "option": "J",
+        "image_path": "data/MetaWild/Pukeko/IDs/4/4_Doc-RMV-ICAVM76_73_67683365-5927-456F-835A-5EA75B114D93_000002.jpg",
+        "id": "4"
+      },
+      {
+        "option": "K",
+        "image_path": "data/MetaWild/Pukeko/IDs/0/0_Doc-RMV-ICAVM76_8_00E5BB34-9B60-45FD-8C52-1D96F001E1A7_000004.jpg",
+        "id": "0"
+      },
+      {
+        "option": "L",
+        "image_path": "data/MetaWild/Pukeko/IDs/8/8_Doc-RMV-ICAVR06_25_8629752A-DC74-47B2-8DE4-DEDC58095D52_000006.jpg",
+        "id": "8"
+      },
+      {
+        "option": "M",
+        "image_path": "data/MetaWild/Pukeko/IDs/19/19_Doc-RMV-ICAVM76_4_257208CF-3420-4517-BE34-B3580561C38C_000005.jpg",
+        "id": "19"
+      },
+      {
+        "option": "N",
+        "image_path": "data/MetaWild/Pukeko/IDs/17/17_Doc-RMV-ICAVM76_68_FA6A8223-F37F-4140-B800-901769838DC1_000002.jpg",
+        "id": "17"
+      },
+      {
+        "option": "O",
+        "image_path": "data/MetaWild/Pukeko/IDs/21/21_Doc-RMV-ICAVM80_8_1ADF1C5D-91EC-4600-8BBA-E0698785C8B7_000009.jpg",
+        "id": "21"
+      },
+      {
+        "option": "P",
+        "image_path": "data/MetaWild/Pukeko/IDs/24/24_Doc-RMV-ICAVM76_4_290E3016-45FD-46F8-B515-0709172DA7CE_000006.jpg",
+        "id": "24"
+      }
+    ],
+    "answer": "P"
+  },
+  {
+    "task_id": "MetaWild_Pukeko_CIR_P3_000005",
+    "query": {
+      "image_path": "data/MetaWild/Pukeko/IDs/6/6_Doc-RMV-ICAVR06_131_5B9D9674-9507-4404-A14F-410236B48409_000008.jpg",
+      "ground_truth_id": "6",
+      "metadata": {
+        "face_direction": 1,
+        "temperature": 13,
+        "day_night": 0,
+        "timestamp": "2021-07-13 10:09:00"
+      },
+      "context_text": {
+        "face_direction": "Back",
+        "temperature": 13,
+        "day_night": "Day",
+        "timestamp": "2021-07-13 10:09:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/MetaWild/Pukeko/IDs/23/23_Doc-RMV-ICAVM80_2_B5667DAC-D7CB-457C-A5D2-E67B4D8DDDAE_000003.jpg",
+        "id": "23"
+      },
+      {
+        "option": "B",
+        "image_path": "data/MetaWild/Pukeko/IDs/20/20_Doc-RMV-ICAVM76_1_ACB08FE8-6ED9-46FC-95F0-1E6B6F4021E1_000002.jpg",
+        "id": "20"
+      },
+      {
+        "option": "C",
+        "image_path": "data/MetaWild/Pukeko/IDs/24/24_Doc-RMV-ICAVM76_17_5642B5A9-879B-4DF5-8BE5-DA5356ED8233_000002.jpg",
+        "id": "24"
+      },
+      {
+        "option": "D",
+        "image_path": "data/MetaWild/Pukeko/IDs/7/7_Doc-RMV-ICAVR06_22_5A8A6F7C-C2AB-4921-BE53-784741F6304C_000003.jpg",
+        "id": "7"
+      },
+      {
+        "option": "E",
+        "image_path": "data/MetaWild/Pukeko/IDs/9/9_Doc-RMV-ICAVM76_0_0EF0014E-FD34-4E8E-B0EE-497BBB79B2BC_000001.jpg",
+        "id": "9"
+      },
+      {
+        "option": "F",
+        "image_path": "data/MetaWild/Pukeko/IDs/22/22_Doc-RMV-ICAVM80_12_7DC98B5C-6CF6-41F7-B38D-F9BBF6B63FB6_000005.jpg",
+        "id": "22"
+      },
+      {
+        "option": "G",
+        "image_path": "data/MetaWild/Pukeko/IDs/16/16_Doc-RMV-ICAVM76_6_06296DFC-9108-4FD5-B0E4-9FD61AA2C2E3_000009.jpg",
+        "id": "16"
+      },
+      {
+        "option": "H",
+        "image_path": "data/MetaWild/Pukeko/IDs/4/4_Doc-RMV-ICAVM76_53_4EB2C79E-5387-4DE1-A838-E3D74A79AE89_000002.jpg",
+        "id": "4"
+      },
+      {
+        "option": "I",
+        "image_path": "data/MetaWild/Pukeko/IDs/17/17_Doc-RMV-ICAVM76_61_EF42D7FE-67A4-4BB9-887F-A1DB059DA2B0_000005.jpg",
+        "id": "17"
+      },
+      {
+        "option": "J",
+        "image_path": "data/MetaWild/Pukeko/IDs/29/29_Doc-ACC-57_36_6A338342-7AB5-4AE2-B005-1907480985A1.JPG",
+        "id": "29"
+      },
+      {
+        "option": "K",
+        "image_path": "data/MetaWild/Pukeko/IDs/12/12_Doc-RMV-ICAVR05_48_FA006F6D-2724-4EE4-B16E-CAC449A7F6F0_000009.jpg",
+        "id": "12"
+      },
+      {
+        "option": "L",
+        "image_path": "data/MetaWild/Pukeko/IDs/14/14_Doc-RMV-ICAVR06_22_80AB0E75-EE30-402F-9F32-0FECF0C71B5D_000009.jpg",
+        "id": "14"
+      },
+      {
+        "option": "M",
+        "image_path": "data/MetaWild/Pukeko/IDs/6/6_Doc-RMV-ICAVR06_90_400E5BBB-62A8-4212-8926-F488921B870B_000006.jpg",
+        "id": "6"
+      },
+      {
+        "option": "N",
+        "image_path": "data/MetaWild/Pukeko/IDs/26/26_Doc-RMV-ICAVR05_49_620812AD-0DE4-4B86-9A59-4D46C5347AB8_000002.jpg",
+        "id": "26"
+      },
+      {
+        "option": "O",
+        "image_path": "data/MetaWild/Pukeko/IDs/28/28_Doc-RMV-ICAVM77_10_A27A9E37-89B8-4C5F-BCBB-3E77E256B913_000001.jpg",
+        "id": "28"
+      },
+      {
+        "option": "P",
+        "image_path": "data/MetaWild/Pukeko/IDs/13/13_Doc-RMV-ICAVR06_1_57D5C948-527D-432E-965E-57589B1BD8C7_000002.jpg",
+        "id": "13"
+      }
+    ],
+    "answer": "M"
+  },
+  {
+    "task_id": "MetaWild_Pukeko_CIR_P3_000006",
+    "query": {
+      "image_path": "data/MetaWild/Pukeko/IDs/3/3_Doc-RMV-ICAVM76_9_0AF12F3D-47D1-4811-AF19-B925F7964928_000010.jpg",
+      "ground_truth_id": "3",
+      "metadata": {
+        "face_direction": 0,
+        "temperature": 5,
+        "day_night": 0,
+        "timestamp": "2021-07-10 07:19:00"
+      },
+      "context_text": {
+        "face_direction": "Front",
+        "temperature": 5,
+        "day_night": "Day",
+        "timestamp": "2021-07-10 07:19:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/MetaWild/Pukeko/IDs/24/24_Doc-RMV-ICAVM76_21_5642B5A9-879B-4DF5-8BE5-DA5356ED8233_000006.jpg",
+        "id": "24"
+      },
+      {
+        "option": "B",
+        "image_path": "data/MetaWild/Pukeko/IDs/6/6_Doc-RMV-ICAVR06_306_CE3B19D3-45D4-4E2E-A059-B2118E296002_000009.jpg",
+        "id": "6"
+      },
+      {
+        "option": "C",
+        "image_path": "data/MetaWild/Pukeko/IDs/26/26_Doc-RMV-ICAVR05_31_54E16CD1-ABA4-44EE-B7A7-523116E4E876_000004.jpg",
+        "id": "26"
+      },
+      {
+        "option": "D",
+        "image_path": "data/MetaWild/Pukeko/IDs/21/21_Doc-RMV-ICAVM80_5_1ADF1C5D-91EC-4600-8BBA-E0698785C8B7_000006.jpg",
+        "id": "21"
+      },
+      {
+        "option": "E",
+        "image_path": "data/MetaWild/Pukeko/IDs/8/8_Doc-RMV-ICAVR06_13_39547252-D74C-4D44-9C65-4657D917B7A4_000004.jpg",
+        "id": "8"
+      },
+      {
+        "option": "F",
+        "image_path": "data/MetaWild/Pukeko/IDs/20/20_Doc-RMV-ICAVM76_0_ACB08FE8-6ED9-46FC-95F0-1E6B6F4021E1_000001.jpg",
+        "id": "20"
+      },
+      {
+        "option": "G",
+        "image_path": "data/MetaWild/Pukeko/IDs/3/3_Doc-RMV-ICAVM76_42_CD3B4ED0-C3F0-489C-8A64-095C5FB87344_000006.jpg",
+        "id": "3"
+      },
+      {
+        "option": "H",
+        "image_path": "data/MetaWild/Pukeko/IDs/25/25_Doc-RMV-ICAVR05_38_524BDBC7-5ADF-4109-BF34-CBF87D3709D7_000009.jpg",
+        "id": "25"
+      },
+      {
+        "option": "I",
+        "image_path": "data/MetaWild/Pukeko/IDs/23/23_Doc-RMV-ICAVM80_4_B5667DAC-D7CB-457C-A5D2-E67B4D8DDDAE_000005.jpg",
+        "id": "23"
+      },
+      {
+        "option": "J",
+        "image_path": "data/MetaWild/Pukeko/IDs/28/28_Doc-RMV-ICAVM77_20_CCA903E8-4574-4E07-8EC7-17FEC72D6584_000001.jpg",
+        "id": "28"
+      },
+      {
+        "option": "K",
+        "image_path": "data/MetaWild/Pukeko/IDs/11/11_Doc-RMV-ICAVR05_15_1EFDB584-A501-4029-95A9-92CCFFD2A747_000006.jpg",
+        "id": "11"
+      },
+      {
+        "option": "L",
+        "image_path": "data/MetaWild/Pukeko/IDs/15/15_Doc-RMV-ICAVR05_6_3BE1DA0D-C6A9-468B-AD42-8AB25B3B5BBF_000007.jpg",
+        "id": "15"
+      },
+      {
+        "option": "M",
+        "image_path": "data/MetaWild/Pukeko/IDs/22/22_Doc-RMV-ICAVM80_8_7DC98B5C-6CF6-41F7-B38D-F9BBF6B63FB6_000001.jpg",
+        "id": "22"
+      },
+      {
+        "option": "N",
+        "image_path": "data/MetaWild/Pukeko/IDs/19/19_Doc-RMV-ICAVM76_1_257208CF-3420-4517-BE34-B3580561C38C_000002.jpg",
+        "id": "19"
+      },
+      {
+        "option": "O",
+        "image_path": "data/MetaWild/Pukeko/IDs/14/14_Doc-RMV-ICAVR06_8_6D0C5F50-EF78-47A3-824A-061F71EFADCD_000001.jpg",
+        "id": "14"
+      },
+      {
+        "option": "P",
+        "image_path": "data/MetaWild/Pukeko/IDs/4/4_Doc-RMV-ICAVM76_47_4AA93D5B-5068-4E82-9634-62776B9C0360_000005.jpg",
+        "id": "4"
+      }
+    ],
+    "answer": "G"
+  },
+  {
+    "task_id": "MetaWild_Pukeko_CIR_P3_000007",
+    "query": {
+      "image_path": "data/MetaWild/Pukeko/IDs/13/13_Doc-RMV-ICAVR06_3_57D5C948-527D-432E-965E-57589B1BD8C7_000004.jpg",
+      "ground_truth_id": "13",
+      "metadata": {
+        "face_direction": 3,
+        "temperature": 9,
+        "day_night": 0,
+        "timestamp": "2021-07-12 11:04:00"
+      },
+      "context_text": {
+        "face_direction": "Right",
+        "temperature": 9,
+        "day_night": "Day",
+        "timestamp": "2021-07-12 11:04:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/MetaWild/Pukeko/IDs/14/14_Doc-RMV-ICAVR06_4_607DD036-9CBE-437A-AB17-49A42D6FAC1E_000007.jpg",
+        "id": "14"
+      },
+      {
+        "option": "B",
+        "image_path": "data/MetaWild/Pukeko/IDs/7/7_Doc-RMV-ICAVR06_3_120DDD57-839C-4895-AD0A-515F2E6F0CFE_000004.jpg",
+        "id": "7"
+      },
+      {
+        "option": "C",
+        "image_path": "data/MetaWild/Pukeko/IDs/23/23_Doc-RMV-ICAVM80_7_B5667DAC-D7CB-457C-A5D2-E67B4D8DDDAE_000008.jpg",
+        "id": "23"
+      },
+      {
+        "option": "D",
+        "image_path": "data/MetaWild/Pukeko/IDs/17/17_Doc-RMV-ICAVM76_46_B0DDF00B-B0FC-48DB-ADFA-692D71AA5C74_000010.jpg",
+        "id": "17"
+      },
+      {
+        "option": "E",
+        "image_path": "data/MetaWild/Pukeko/IDs/21/21_Doc-RMV-ICAVM80_8_1ADF1C5D-91EC-4600-8BBA-E0698785C8B7_000009.jpg",
+        "id": "21"
+      },
+      {
+        "option": "F",
+        "image_path": "data/MetaWild/Pukeko/IDs/12/12_Doc-RMV-ICAVR05_43_FA006F6D-2724-4EE4-B16E-CAC449A7F6F0_000004.jpg",
+        "id": "12"
+      },
+      {
+        "option": "G",
+        "image_path": "data/MetaWild/Pukeko/IDs/13/13_Doc-RMV-ICAVR06_6_57D5C948-527D-432E-965E-57589B1BD8C7_000007.jpg",
+        "id": "13"
+      },
+      {
+        "option": "H",
+        "image_path": "data/MetaWild/Pukeko/IDs/15/15_Doc-RMV-ICAVR05_10_7EFF5AF8-AFA5-4288-8150-B7AE1B90E96C_000001.jpg",
+        "id": "15"
+      },
+      {
+        "option": "I",
+        "image_path": "data/MetaWild/Pukeko/IDs/11/11_Doc-RMV-ICAVR05_16_1EFDB584-A501-4029-95A9-92CCFFD2A747_000007.jpg",
+        "id": "11"
+      },
+      {
+        "option": "J",
+        "image_path": "data/MetaWild/Pukeko/IDs/22/22_Doc-RMV-ICAVM80_4_5C4496B7-0A96-4753-BBFE-080A588D8230_000005.jpg",
+        "id": "22"
+      },
+      {
+        "option": "K",
+        "image_path": "data/MetaWild/Pukeko/IDs/20/20_Doc-RMV-ICAVM76_0_ACB08FE8-6ED9-46FC-95F0-1E6B6F4021E1_000001.jpg",
+        "id": "20"
+      },
+      {
+        "option": "L",
+        "image_path": "data/MetaWild/Pukeko/IDs/4/4_Doc-RMV-ICAVM76_91_727B1D84-456F-4E77-94AB-CB6C09D4F9C1_000010.jpg",
+        "id": "4"
+      },
+      {
+        "option": "M",
+        "image_path": "data/MetaWild/Pukeko/IDs/1/1_Doc-RMV-ICAVR05_2_027B4FEE-7829-4903-B463-3CF276DF839E_000003.jpg",
+        "id": "1"
+      },
+      {
+        "option": "N",
+        "image_path": "data/MetaWild/Pukeko/IDs/9/9_Doc-RMV-ICAVM76_13_13F40568-67AA-4E87-9CA0-3CFDC14C4B76_000006.jpg",
+        "id": "9"
+      },
+      {
+        "option": "O",
+        "image_path": "data/MetaWild/Pukeko/IDs/18/18_Doc-RMV-ICAVM76_106_D79A5305-F559-4421-AAD7-95E46D0C5E0A_000008.jpg",
+        "id": "18"
+      },
+      {
+        "option": "P",
+        "image_path": "data/MetaWild/Pukeko/IDs/0/0_Doc-RMV-ICAVM76_1_00D8356E-26A1-433D-9130-E44372176178_000002.jpg",
+        "id": "0"
+      }
+    ],
+    "answer": "G"
+  },
+  {
+    "task_id": "MetaWild_Pukeko_CIR_P3_000008",
+    "query": {
+      "image_path": "data/MetaWild/Pukeko/IDs/20/20_Doc-RMV-ICAVM76_9_ACB08FE8-6ED9-46FC-95F0-1E6B6F4021E1_000010.jpg",
+      "ground_truth_id": "20",
+      "metadata": {
+        "face_direction": 2,
+        "temperature": 14,
+        "day_night": 0,
+        "timestamp": "2021-07-17 12:14:00"
+      },
+      "context_text": {
+        "face_direction": "Left",
+        "temperature": 14,
+        "day_night": "Day",
+        "timestamp": "2021-07-17 12:14:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/MetaWild/Pukeko/IDs/16/16_Doc-RMV-ICAVM76_71_D20989B7-9566-4D26-99DD-A94F7E1ABD70_000006.jpg",
+        "id": "16"
+      },
+      {
+        "option": "B",
+        "image_path": "data/MetaWild/Pukeko/IDs/0/0_Doc-RMV-ICAVM76_4_00D8356E-26A1-433D-9130-E44372176178_000005.jpg",
+        "id": "0"
+      },
+      {
+        "option": "C",
+        "image_path": "data/MetaWild/Pukeko/IDs/12/12_Doc-RMV-ICAVR05_42_FA006F6D-2724-4EE4-B16E-CAC449A7F6F0_000003.jpg",
+        "id": "12"
+      },
+      {
+        "option": "D",
+        "image_path": "data/MetaWild/Pukeko/IDs/3/3_Doc-RMV-ICAVM76_9_0AF12F3D-47D1-4811-AF19-B925F7964928_000010.jpg",
+        "id": "3"
+      },
+      {
+        "option": "E",
+        "image_path": "data/MetaWild/Pukeko/IDs/4/4_Doc-RMV-ICAVM76_107_B0D9AFB0-A1F2-4015-B705-E35A9BF28A1C_000007.jpg",
+        "id": "4"
+      },
+      {
+        "option": "F",
+        "image_path": "data/MetaWild/Pukeko/IDs/22/22_Doc-RMV-ICAVM80_11_7DC98B5C-6CF6-41F7-B38D-F9BBF6B63FB6_000004.jpg",
+        "id": "22"
+      },
+      {
+        "option": "G",
+        "image_path": "data/MetaWild/Pukeko/IDs/15/15_Doc-RMV-ICAVR05_11_7EFF5AF8-AFA5-4288-8150-B7AE1B90E96C_000002.jpg",
+        "id": "15"
+      },
+      {
+        "option": "H",
+        "image_path": "data/MetaWild/Pukeko/IDs/20/20_Doc-RMV-ICAVM76_8_ACB08FE8-6ED9-46FC-95F0-1E6B6F4021E1_000009.jpg",
+        "id": "20"
+      },
+      {
+        "option": "I",
+        "image_path": "data/MetaWild/Pukeko/IDs/9/9_Doc-RMV-ICAVM76_23_1C1DEDC1-BD7D-4C12-ADD8-27D21C9DDC28_000007.jpg",
+        "id": "9"
+      },
+      {
+        "option": "J",
+        "image_path": "data/MetaWild/Pukeko/IDs/2/2_Doc-RMV-ICAVR05_221_75D71A6C-5D20-4709-918D-BABCB7017AD8_000008.jpg",
+        "id": "2"
+      },
+      {
+        "option": "K",
+        "image_path": "data/MetaWild/Pukeko/IDs/8/8_Doc-RMV-ICAVR06_8_2F1BD454-B973-4DFC-AE4D-7DDE92E1F47B_000009.jpg",
+        "id": "8"
+      },
+      {
+        "option": "L",
+        "image_path": "data/MetaWild/Pukeko/IDs/18/18_Doc-RMV-ICAVM76_5_42CF52E4-98A2-4766-AB56-D8F83DD849B3_000008.jpg",
+        "id": "18"
+      },
+      {
+        "option": "M",
+        "image_path": "data/MetaWild/Pukeko/IDs/17/17_Doc-RMV-ICAVM76_34_A2009619-C511-447C-9B7B-C09FF229E9F7_000007.jpg",
+        "id": "17"
+      },
+      {
+        "option": "N",
+        "image_path": "data/MetaWild/Pukeko/IDs/10/10_Doc-RMV-ICAVM76_27_CCF33E10-5CF5-4793-A2CD-47553D8213D1_000008.jpg",
+        "id": "10"
+      },
+      {
+        "option": "O",
+        "image_path": "data/MetaWild/Pukeko/IDs/14/14_Doc-RMV-ICAVR06_12_6D0C5F50-EF78-47A3-824A-061F71EFADCD_000005.jpg",
+        "id": "14"
+      },
+      {
+        "option": "P",
+        "image_path": "data/MetaWild/Pukeko/IDs/29/29_Doc-ACC-57_4_0ED6BCDE-26F6-4D35-A78B-426E2089A493.JPG",
+        "id": "29"
+      }
+    ],
+    "answer": "H"
+  },
+  {
+    "task_id": "MetaWild_Pukeko_CIR_P3_000009",
+    "query": {
+      "image_path": "data/MetaWild/Pukeko/IDs/11/11_Doc-RMV-ICAVR05_21_3DDB4EC6-4F62-41BA-B1FE-16E959960EA4_000003.jpg",
+      "ground_truth_id": "11",
+      "metadata": {
+        "face_direction": 1,
+        "temperature": 11,
+        "day_night": 0,
+        "timestamp": "2021-07-19 09:51:00"
+      },
+      "context_text": {
+        "face_direction": "Back",
+        "temperature": 11,
+        "day_night": "Day",
+        "timestamp": "2021-07-19 09:51:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/MetaWild/Pukeko/IDs/19/19_Doc-RMV-ICAVM76_2_257208CF-3420-4517-BE34-B3580561C38C_000003.jpg",
+        "id": "19"
+      },
+      {
+        "option": "B",
+        "image_path": "data/MetaWild/Pukeko/IDs/17/17_Doc-RMV-ICAVM76_0_14828538-F2A7-4160-ADAD-0191CDAC7D9C_000001.jpg",
+        "id": "17"
+      },
+      {
+        "option": "C",
+        "image_path": "data/MetaWild/Pukeko/IDs/25/25_Doc-RMV-ICAVR05_28_4EAF4D8E-59C3-4EA5-826C-ABE461A5E6DF_000006.jpg",
+        "id": "25"
+      },
+      {
+        "option": "D",
+        "image_path": "data/MetaWild/Pukeko/IDs/23/23_Doc-RMV-ICAVM80_9_B5667DAC-D7CB-457C-A5D2-E67B4D8DDDAE_000010.jpg",
+        "id": "23"
+      },
+      {
+        "option": "E",
+        "image_path": "data/MetaWild/Pukeko/IDs/27/27_Doc-RMV-ICAVR05_35_BF368564-5A9E-4107-8D87-2464A065564A_000010.jpg",
+        "id": "27"
+      },
+      {
+        "option": "F",
+        "image_path": "data/MetaWild/Pukeko/IDs/6/6_Doc-RMV-ICAVR06_359_F0CCF96F-1DC2-4D19-8488-61CA7064A526_000003.jpg",
+        "id": "6"
+      },
+      {
+        "option": "G",
+        "image_path": "data/MetaWild/Pukeko/IDs/8/8_Doc-RMV-ICAVR06_0_2F1BD454-B973-4DFC-AE4D-7DDE92E1F47B_000001.jpg",
+        "id": "8"
+      },
+      {
+        "option": "H",
+        "image_path": "data/MetaWild/Pukeko/IDs/3/3_Doc-RMV-ICAVM76_50_D7F5BD16-A094-4045-B1F8-8BE3CD34A5DE_000004.jpg",
+        "id": "3"
+      },
+      {
+        "option": "I",
+        "image_path": "data/MetaWild/Pukeko/IDs/5/5_Doc-RMV-ICAVR06_297_ABAEB907-AB48-43F4-A17F-C4D1F994DB67_000001.jpg",
+        "id": "5"
+      },
+      {
+        "option": "J",
+        "image_path": "data/MetaWild/Pukeko/IDs/18/18_Doc-RMV-ICAVM76_3_42CF52E4-98A2-4766-AB56-D8F83DD849B3_000004.jpg",
+        "id": "18"
+      },
+      {
+        "option": "K",
+        "image_path": "data/MetaWild/Pukeko/IDs/11/11_Doc-RMV-ICAVR05_74_E1814E89-EFCA-4B16-87F7-52A9F3C364B3_000002.jpg",
+        "id": "11"
+      },
+      {
+        "option": "L",
+        "image_path": "data/MetaWild/Pukeko/IDs/24/24_Doc-RMV-ICAVM76_3_290E3016-45FD-46F8-B515-0709172DA7CE_000005.jpg",
+        "id": "24"
+      },
+      {
+        "option": "M",
+        "image_path": "data/MetaWild/Pukeko/IDs/13/13_Doc-RMV-ICAVR06_17_7F9125EB-8876-4EA4-8AF4-FA3C7F030352_000008.jpg",
+        "id": "13"
+      },
+      {
+        "option": "N",
+        "image_path": "data/MetaWild/Pukeko/IDs/28/28_Doc-RMV-ICAVM77_41_F2AEEFF9-1CE1-4CD0-B8C1-A932CEAC97CD_000005.jpg",
+        "id": "28"
+      },
+      {
+        "option": "O",
+        "image_path": "data/MetaWild/Pukeko/IDs/1/1_Doc-RMV-ICAVR05_490_E930B98B-021A-4A8A-A6A1-9FBD730C61C8_000005.jpg",
+        "id": "1"
+      },
+      {
+        "option": "P",
+        "image_path": "data/MetaWild/Pukeko/IDs/15/15_Doc-RMV-ICAVR05_10_7EFF5AF8-AFA5-4288-8150-B7AE1B90E96C_000001.jpg",
+        "id": "15"
+      }
+    ],
+    "answer": "K"
+  },
+  {
+    "task_id": "MetaWild_Pukeko_CIR_P3_000010",
+    "query": {
+      "image_path": "data/MetaWild/Pukeko/IDs/8/8_Doc-RMV-ICAVR06_1_2F1BD454-B973-4DFC-AE4D-7DDE92E1F47B_000002.jpg",
+      "ground_truth_id": "8",
+      "metadata": {
+        "face_direction": 3,
+        "temperature": 13,
+        "day_night": 0,
+        "timestamp": "2021-07-18 09:44:00"
+      },
+      "context_text": {
+        "face_direction": "Right",
+        "temperature": 13,
+        "day_night": "Day",
+        "timestamp": "2021-07-18 09:44:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/MetaWild/Pukeko/IDs/19/19_Doc-RMV-ICAVM76_2_257208CF-3420-4517-BE34-B3580561C38C_000003.jpg",
+        "id": "19"
+      },
+      {
+        "option": "B",
+        "image_path": "data/MetaWild/Pukeko/IDs/0/0_Doc-RMV-ICAVM76_8_00E5BB34-9B60-45FD-8C52-1D96F001E1A7_000004.jpg",
+        "id": "0"
+      },
+      {
+        "option": "C",
+        "image_path": "data/MetaWild/Pukeko/IDs/9/9_Doc-RMV-ICAVM76_35_546FCA99-BBE7-4323-846E-F7C8322942B6_000009.jpg",
+        "id": "9"
+      },
+      {
+        "option": "D",
+        "image_path": "data/MetaWild/Pukeko/IDs/12/12_Doc-RMV-ICAVR05_33_D93C48A0-0708-4DFB-A08A-AC2732BB12C2_000004.jpg",
+        "id": "12"
+      },
+      {
+        "option": "E",
+        "image_path": "data/MetaWild/Pukeko/IDs/20/20_Doc-RMV-ICAVM76_1_ACB08FE8-6ED9-46FC-95F0-1E6B6F4021E1_000002.jpg",
+        "id": "20"
+      },
+      {
+        "option": "F",
+        "image_path": "data/MetaWild/Pukeko/IDs/25/25_Doc-RMV-ICAVR05_13_345C573C-15BC-4AB0-AB23-850D491BFABC_000004.jpg",
+        "id": "25"
+      },
+      {
+        "option": "G",
+        "image_path": "data/MetaWild/Pukeko/IDs/10/10_Doc-RMV-ICAVM76_9_5DACA976-E7C7-4166-9E18-28BC72C43665_000005.jpg",
+        "id": "10"
+      },
+      {
+        "option": "H",
+        "image_path": "data/MetaWild/Pukeko/IDs/13/13_Doc-RMV-ICAVR06_16_7F9125EB-8876-4EA4-8AF4-FA3C7F030352_000007.jpg",
+        "id": "13"
+      },
+      {
+        "option": "I",
+        "image_path": "data/MetaWild/Pukeko/IDs/15/15_Doc-RMV-ICAVR05_17_806535D4-1F98-4451-A350-A902546EEBA0_000002.jpg",
+        "id": "15"
+      },
+      {
+        "option": "J",
+        "image_path": "data/MetaWild/Pukeko/IDs/26/26_Doc-RMV-ICAVR05_64_B27B0076-481D-464D-AF49-828EB1F11424_000007.jpg",
+        "id": "26"
+      },
+      {
+        "option": "K",
+        "image_path": "data/MetaWild/Pukeko/IDs/8/8_Doc-RMV-ICAVR06_15_39547252-D74C-4D44-9C65-4657D917B7A4_000006.jpg",
+        "id": "8"
+      },
+      {
+        "option": "L",
+        "image_path": "data/MetaWild/Pukeko/IDs/7/7_Doc-RMV-ICAVR06_36_7C1C89C1-9982-49C0-B0ED-6114F4ECF32A_000007.jpg",
+        "id": "7"
+      },
+      {
+        "option": "M",
+        "image_path": "data/MetaWild/Pukeko/IDs/11/11_Doc-RMV-ICAVR05_48_69F0DA63-DB99-48E8-AE4F-1BADD9D98350_000002.jpg",
+        "id": "11"
+      },
+      {
+        "option": "N",
+        "image_path": "data/MetaWild/Pukeko/IDs/28/28_Doc-RMV-ICAVM77_22_CCA903E8-4574-4E07-8EC7-17FEC72D6584_000003.jpg",
+        "id": "28"
+      },
+      {
+        "option": "O",
+        "image_path": "data/MetaWild/Pukeko/IDs/29/29_Doc-ACC-57_32_682ABF35-0D48-4C15-AC32-2B3CC1833596.JPG",
+        "id": "29"
+      },
+      {
+        "option": "P",
+        "image_path": "data/MetaWild/Pukeko/IDs/24/24_Doc-RMV-ICAVM76_53_C58EB674-4AD5-4EB2-8BFE-23C85E364D18_000008.jpg",
+        "id": "24"
+      }
+    ],
+    "answer": "K"
+  },
+  {
+    "task_id": "MetaWild_Pukeko_CIR_P3_000011",
+    "query": {
+      "image_path": "data/MetaWild/Pukeko/IDs/28/28_Doc-RMV-ICAVM77_41_F2AEEFF9-1CE1-4CD0-B8C1-A932CEAC97CD_000005.jpg",
+      "ground_truth_id": "28",
+      "metadata": {
+        "face_direction": 0,
+        "temperature": 14,
+        "day_night": 0,
+        "timestamp": "2021-07-10 15:37:00"
+      },
+      "context_text": {
+        "face_direction": "Front",
+        "temperature": 14,
+        "day_night": "Day",
+        "timestamp": "2021-07-10 15:37:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "data/MetaWild/Pukeko/IDs/11/11_Doc-RMV-ICAVR05_58_6F08F084-BFBF-4E78-903D-86872D3A3126_000002.jpg",
+        "id": "11"
+      },
+      {
+        "option": "B",
+        "image_path": "data/MetaWild/Pukeko/IDs/3/3_Doc-RMV-ICAVM76_27_8356BDFA-C863-416A-A0FA-DBF48EE9F50F_000001.jpg",
+        "id": "3"
+      },
+      {
+        "option": "C",
+        "image_path": "data/MetaWild/Pukeko/IDs/20/20_Doc-RMV-ICAVM76_9_ACB08FE8-6ED9-46FC-95F0-1E6B6F4021E1_000010.jpg",
+        "id": "20"
+      },
+      {
+        "option": "D",
+        "image_path": "data/MetaWild/Pukeko/IDs/18/18_Doc-RMV-ICAVM76_7_5655FBAB-1F0C-4F61-AB00-879DC1CD0604_000001.jpg",
+        "id": "18"
+      },
+      {
+        "option": "E",
+        "image_path": "data/MetaWild/Pukeko/IDs/27/27_Doc-RMV-ICAVR05_32_BF368564-5A9E-4107-8D87-2464A065564A_000002.jpg",
+        "id": "27"
+      },
+      {
+        "option": "F",
+        "image_path": "data/MetaWild/Pukeko/IDs/28/28_Doc-RMV-ICAVM77_29_F09C1B4C-CD0A-4E20-8A94-F1883AE4CA81_000002.jpg",
+        "id": "28"
+      },
+      {
+        "option": "G",
+        "image_path": "data/MetaWild/Pukeko/IDs/2/2_Doc-RMV-ICAVR05_180_671A80FD-A357-4A81-A82B-433632BE43AE_000007.jpg",
+        "id": "2"
+      },
+      {
+        "option": "H",
+        "image_path": "data/MetaWild/Pukeko/IDs/12/12_Doc-RMV-ICAVR05_48_FA006F6D-2724-4EE4-B16E-CAC449A7F6F0_000009.jpg",
+        "id": "12"
+      },
+      {
+        "option": "I",
+        "image_path": "data/MetaWild/Pukeko/IDs/4/4_Doc-RMV-ICAVM76_18_2A78B855-6EC5-41C4-B97C-66BF5C18469A_000001.jpg",
+        "id": "4"
+      },
+      {
+        "option": "J",
+        "image_path": "data/MetaWild/Pukeko/IDs/26/26_Doc-RMV-ICAVR05_44_5B86C229-93C6-43DA-86EA-1C9029454F1D_000007.jpg",
+        "id": "26"
+      },
+      {
+        "option": "K",
+        "image_path": "data/MetaWild/Pukeko/IDs/17/17_Doc-RMV-ICAVM76_53_C47EEE4D-5713-4B75-927E-6B3B2BE95F8C_000007.jpg",
+        "id": "17"
+      },
+      {
+        "option": "L",
+        "image_path": "data/MetaWild/Pukeko/IDs/9/9_Doc-RMV-ICAVM76_86_B68494EB-694A-4912-B66D-C46BE7CBFDD5_000005.jpg",
+        "id": "9"
+      },
+      {
+        "option": "M",
+        "image_path": "data/MetaWild/Pukeko/IDs/5/5_Doc-RMV-ICAVR06_197_7671A761-5C8D-4BDB-B6E7-6B34A32FCF7B_000009.jpg",
+        "id": "5"
+      },
+      {
+        "option": "N",
+        "image_path": "data/MetaWild/Pukeko/IDs/7/7_Doc-RMV-ICAVR06_34_7C1C89C1-9982-49C0-B0ED-6114F4ECF32A_000005.jpg",
+        "id": "7"
+      },
+      {
+        "option": "O",
+        "image_path": "data/MetaWild/Pukeko/IDs/23/23_Doc-RMV-ICAVM80_8_B5667DAC-D7CB-457C-A5D2-E67B4D8DDDAE_000009.jpg",
+        "id": "23"
+      },
+      {
+        "option": "P",
+        "image_path": "data/MetaWild/Pukeko/IDs/29/29_Doc-ACC-57_0_065311D0-1307-420D-ADA8-A7F5A3F704A2.JPG",
+        "id": "29"
+      }
+    ],
+    "answer": "F"
+  }
+]
