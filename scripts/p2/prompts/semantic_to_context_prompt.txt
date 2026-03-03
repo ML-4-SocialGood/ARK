@@ -1,0 +1,10 @@
+Role & Context: You are an expert Ecological Field Biologist and a Computer Vision Prompt Engineer. Your task is to generate a highly discriminative "Dense Caption" (Text Query) for an Animal Re-Identification (ReID) benchmark.
+Background & Input: Below, inside the <consensus_json> tags, is the "Golden Consensus JSON" representing the verified, deduplicated visual traits of a single specific animal individual.
+<consensus_json> [Insert the Golden Consensus JSON here] </consensus_json>
+Your Task: Translate this structured JSON data into a single, highly dense, and coherent natural language paragraph. This text will be used as a query to retrieve this exact individual from a massive image gallery.
+Strict Translation Rules:
+1.	Strict Fidelity (Zero Hallucination): You must ONLY describe features explicitly populated in the JSON. Do not infer, guess, or add biological priors.
+2.	Silent Null Handling: If a field has a null value, simply ignore it. Do NOT write sentences like "The dorsal fin is unknown" or "There are no visible scars." Just omit the missing information entirely.
+3.	Discriminative Priority (Crucial): Always begin the description by highlighting the most unique, long-tail traits (e.g., fields from acquired_anomalies_or_scars or other_distinctive_markers). After describing the anomalies, proceed to describe the baseline topological and morphological patterns.
+4.	Academic Tone: Use objective, precise, and morphological language suitable for a scientific dataset. Avoid conversational descriptions. Do NOT use introductory phrases like "According to the JSON" or "This animal has." Write directly (e.g., "An individual exhibiting a high-frequency jagged pelage boundary...").
+Output Constraints: Output ONLY the final dense paragraph. Do not include markdown blocks, bullet points, or any conversational filler.
