@@ -1,11 +1,10 @@
-import argparse
 import asyncio
 import json
 import logging
 import os
 import re
 from pathlib import Path
-from typing import Any, Dict, Optional
+from typing import Any, Dict
 
 import aiofiles
 from dotenv import load_dotenv
@@ -84,3 +83,140 @@ async def log_error(image_id: str, error_reason: str):
     error_entry = {"image": image_id, "error": error_reason}
     async with aiofiles.open(ERROR_LOG_FILE, "a", encoding="utf-8") as f:
         await f.write(json.dumps(error_entry) + "\n")
+
+
+async def process_single_image(
+    sem: asyncio.Semaphore,
+    client: genai.Client,
+    image_path: Path,
+    prompt_text: str,
+    relative_path: Path,
+) -> str:
+    """
+    Asynchronous workflow for processing a single image (Phase 4)
+    """
+    output_json_path = OUTPUT_ROOT / relative_path.with_suffix(".json")
+
+    # 1. State check (Resume from breakpoint)
+    if output_json_path.exists() and output_json_path.stat().st_size > 0:
+        return "SKIPPED"
+
+    # 2. Ensure output directory exists
+    output_json_path.parent.mkdir(parents=True, exist_ok=True)
+
+    # 3. Image integrity check
+    if not is_valid_image(image_path):
+        await log_error(str(relative_path), "Corrupted Image File")
+        return "CORRUPTED"
+
+    async with sem:  # Limit concurrency
+        for attempt in range(MAX_RETRIES):
+            try:
+                # Prepare image data with context manager to ensure file is closed
+                with Image.open(image_path) as img:
+                    # Send request (Gemini 2.0 Flash)
+                    response = await client.aio.models.generate_content(
+                        model=MODEL_NAME,
+                        contents=[prompt_text, img],
+                        config=types.GenerateContentConfig(
+                            response_mime_type="application/json"
+                        ),
+                    )
+
+                if response.text is None:
+                    raise ValueError(
+                        "Model response is None (possibly blocked by safety filters)."
+                    )
+
+                # Parse result
+                json_data = robust_json_parser(response.text)
+
+                # Atomic write
+                temp_path = output_json_path.with_suffix(".tmp")
+                async with aiofiles.open(temp_path, "w", encoding="utf-8") as f:
+                    await f.write(json.dumps(json_data, indent=2, ensure_ascii=False))
+
+                os.rename(temp_path, output_json_path)
+                return "SUCCESS"
+
+            except Exception as e:
+                error_msg = str(e)
+                # Handle 429 Too Many Requests
+                if "429" in error_msg or "Resource has been exhausted" in error_msg:
+                    wait_time = 2 ** (attempt + 1)  # Exponential backoff: 2s, 4s, 8s...
+                    await asyncio.sleep(wait_time)
+                    continue
+
+                # For other errors, log if it's the last retry
+                if attempt == MAX_RETRIES - 1:
+                    await log_error(
+                        str(relative_path),
+                        f"Failed after {MAX_RETRIES} retries: {error_msg}",
+                    )
+                    return "FAILED"
+
+                await asyncio.sleep(1)  # Default wait
+
+    return "FAILED"
+
+
+async def main():
+    try:
+        client = setup_client()
+    except ValueError as e:
+        logger.error(e)
+        return
+
+    if not PROMPT_FILE.exists():
+        logger.error(f"Prompt file not found: {PROMPT_FILE}")
+        return
+
+    prompt_text = load_prompt(PROMPT_FILE)
+
+    logger.info(f"Scanning {INPUT_ROOT}...")
+
+    # Scan for tasks
+    image_files = []
+    for root, _, files in os.walk(INPUT_ROOT):
+        for file in files:
+            file_path = Path(root) / file
+
+            # Filter 1: Only process contents under 'IDs' directories
+            if "IDs" not in file_path.parts:
+                continue
+
+            # Filter 2: Extension check
+            if file_path.suffix.lower() in VALID_EXTENSIONS:
+                image_files.append(file_path)
+
+    logger.info(f"Found {len(image_files)} images pending processing.")
+
+    if not image_files:
+        return
+
+    # Create a list of asynchronous tasks
+    sem = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
+    tasks = []
+    for img_path in image_files:
+        relative_path = img_path.relative_to(INPUT_ROOT)
+        task = process_single_image(sem, client, img_path, prompt_text, relative_path)
+        tasks.append(task)
+
+    # Execute tasks and display progress bar
+    results = await tqdm.gather(*tasks, desc="Processing Images")
+
+    # Summarize results
+    summary = {"SUCCESS": 0, "SKIPPED": 0, "FAILED": 0, "CORRUPTED": 0}
+    for res in results:
+        if res in summary:
+            summary[res] += 1
+
+    logger.info(f"Tasks completed. Summary: {summary}")
+    if summary["FAILED"] > 0 or summary["CORRUPTED"] > 0:
+        logger.info(f"Error logs saved to: {ERROR_LOG_FILE}")
+
+
+if __name__ == "__main__":
+    # Ensure output directory exists
+    OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
+    asyncio.run(main())
