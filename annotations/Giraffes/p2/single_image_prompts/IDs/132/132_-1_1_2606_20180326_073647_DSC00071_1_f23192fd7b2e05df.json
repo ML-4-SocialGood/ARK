@@ -1,0 +1,15 @@
+{
+  "pelage_geometry_and_topology": {
+    "patch_morphology": "Large, sub-polygonal dark regions with blurred edge gradients. The geometry of individual patches is irregular, with spatial area notably decreasing as the pattern approaches the dorsal ridge.",
+    "corridor_network": "A topological lattice of light-colored pathways separating the darker patches. Junction nodes are primarily tri-point intersections. The pathways are continuous with a thin, consistent pixel width across the mid-section and flank."
+  },
+  "dorsal_ridge_profile": {
+    "edge_serration": "A low-amplitude, dark fringe along the upper neck and shoulder area, creating a finely serrated 1D silhouette against the background.",
+    "contour_gaps": null
+  },
+  "focal_dorsal_anomalies": {
+    "chronic_feeding_lesions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A high-contrast, vertically oriented white pixel cluster is located on the mid-dorsal ridge, representing a significant local deviation in color and texture compared to the adjacent pelage."
+}

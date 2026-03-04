@@ -1,0 +1,15 @@
+{
+  "pelage_geometry_and_topology": {
+    "patch_morphology": "Sub-polygonal contiguous dark regions with moderate edge angularity. Pixel transitions at borders exhibit smooth gradients due to image noise and resolution. Relative spatial area of individual patches is largest on the upper shoulder/neck region.",
+    "corridor_network": "Light-toned inter-patch pathways forming a continuous topological grid. Junction nodes are primarily trivalent. Path thickness is approximately 2-4 pixels in width at the current resolution, maintaining high continuity."
+  },
+  "dorsal_ridge_profile": {
+    "edge_serration": "1D geometric profile along the superior neck margin showing low-amplitude, high-frequency serrations against the background.",
+    "contour_gaps": null
+  },
+  "focal_dorsal_anomalies": {
+    "chronic_feeding_lesions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A dark, bifurcated linear occlusion (woody stem) is present in the foreground, crossing the central flank and shoulder region."
+}

@@ -1,0 +1,15 @@
+{
+  "pelage_geometry_and_topology": {
+    "patch_morphology": "Large, irregular polygonal regions with low edge angularity. Edge gradients are smooth and exhibit signs of motion blur, reducing pixel-level sharpness. Patches are dark relative to the corridor network and occupy the majority of the visible surface area.",
+    "corridor_network": "A continuous network of light-colored pathways with relatively uniform pixel width across the flank. The topological graph is composed primarily of tri-radial junction nodes."
+  },
+  "dorsal_ridge_profile": {
+    "edge_serration": "Low-amplitude, high-frequency jagged silhouette along the cervical and dorsal regions. The 1D geometric contour is visible but softened by motion blur against the background.",
+    "contour_gaps": null
+  },
+  "focal_dorsal_anomalies": {
+    "chronic_feeding_lesions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Three avian organisms are perched along the dorsal ridge at the upper-neck, mid-neck, and shoulder-line positions, creating localized occlusions of the mane silhouette."
+}
