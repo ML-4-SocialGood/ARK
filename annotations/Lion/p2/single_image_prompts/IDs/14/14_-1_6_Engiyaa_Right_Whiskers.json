@@ -1,0 +1,14 @@
+{
+  "maxillary_keypoint_topology": {
+    "top_row_count": 3,
+    "keypoint_spatial_matrix": "The three keypoints in the top row are distributed linearly with a horizontal inter-point distance approximately 1.5 times the diameter of a single spot. The row sits superior to the primary dense row, with the anterior-most keypoint positioned vertically above the second spot of the row immediately below it."
+  },
+  "rhinarium_pixel_ratio": {
+    "melanin_saturation_percentage": "The rhinarium exhibits approximately 92% melanin saturation, with high-contrast dark pixels covering the majority of the apex, and a localized cluster of pink/pale pixels on the lateral-right margin."
+  },
+  "cranial_profile_vector": {
+    "frontal_slope_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

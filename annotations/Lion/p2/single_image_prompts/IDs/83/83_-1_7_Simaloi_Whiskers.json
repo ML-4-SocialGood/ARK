@@ -1,0 +1,14 @@
+{
+  "maxillary_keypoint_topology": {
+    "top_row_count": 2,
+    "keypoint_spatial_matrix": "In the right-side profile (top image), the two top-row keypoints are aligned vertically with the first and second spots of the primary dense row below. In the left-side profile (bottom image), the two top-row keypoints are shifted posteriorly, positioned roughly above the second and third spots of the dense row below."
+  },
+  "rhinarium_pixel_ratio": {
+    "melanin_saturation_percentage": null
+  },
+  "cranial_profile_vector": {
+    "frontal_slope_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

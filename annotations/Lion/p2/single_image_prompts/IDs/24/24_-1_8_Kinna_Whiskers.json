@@ -1,0 +1,14 @@
+{
+  "maxillary_keypoint_topology": {
+    "top_row_count": "Right side: 4; Left side: 5",
+    "keypoint_spatial_matrix": "On the Right side, the 4 top-row keypoints are aligned in a roughly linear horizontal pattern parallel to the row below. On the Left side, the 5 top-row keypoints form a slightly curved arc with the most posterior spot having a greater vertical distance from the row below compared to the anterior spots."
+  },
+  "rhinarium_pixel_ratio": {
+    "melanin_saturation_percentage": "The visible portions of the rhinarium exhibit approximately 98% melanin saturation, characterized by dense dark grey to black pixel clusters with negligible pink or pale tissue visible."
+  },
+  "cranial_profile_vector": {
+    "frontal_slope_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The image is a bilateral composite specifically designed to contrast the distinct mystacial vibrissae patterns between the right and left sides of the same individual."
+}
