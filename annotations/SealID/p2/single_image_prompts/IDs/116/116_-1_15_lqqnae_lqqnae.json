@@ -1,0 +1,9 @@
+{
+  "dorsal_lateral_high_contrast_texture_topology": {
+    "macro_annuli_edge_geometry": "Prominent 'O' and 'C' shaped high-intensity perimeters are visible across the mid-lateral field. The gradient transition from the dark exterior skin to the light perimeter is sharp, occurring over approximately 2-4 pixels, with a mirrored sharp transition from the light perimeter to the dark interior core.",
+    "high_intensity_blob_density": "Solid high-intensity pixel clusters are sparse and primarily located in the anterior region near the neck. In the mid-lateral region, high-intensity pixel concentration is restricted to the narrow boundaries of the macro-annuli, with increased density at the intersection points where multiple rings converge.",
+    "constellation_keypoints": "The centroids of the four most prominent annular structures in the mid-section form an irregular quadrilateral. The spatial relationships exhibit a stacked configuration where the relative distance between dorsal centroids is approximately 1.2 times the distance between the corresponding ventral centroids."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays a distinctive 'reticulated' or honeycomb-like texture topology, where the light-intensity boundaries are shared between adjacent dark-centered cells, creating a continuous network across the torso."
+}

@@ -1,0 +1,9 @@
+{
+  "dorsal_lateral_high_contrast_texture_topology": {
+    "macro_annuli_edge_geometry": "Visible are approximately 4-5 irregular ring-like structures. In the upper-central region, a large 'C' shaped structure exhibits a high-contrast boundary with a sharp gradient from the dark exterior fur to a thin, jagged light-intensity perimeter. Below this, an 'O' shaped structure displays a continuous but non-uniform light-intensity boundary. To the right, interconnected 'C' shapes form a complex lattice where boundaries are less discrete and more linear in geometry.",
+    "high_intensity_blob_density": "The density of solid high-intensity pixel clusters is low; high-intensity pixels are predominantly restricted to the thin perimeters of the macro-annuli. Minor localized concentrations of high-intensity pixels are observed at the intersection points of the ring boundaries in the rightmost portion of the image, appearing as small, amorphous points without a distinct internal gradient.",
+    "constellation_keypoints": "The centroids of the three most prominent annuli (one upper-left, one central, and one lower-center) form an irregular obtuse triangle. The segment connecting the upper-left and central centroids is approximately 1.5 times the length of the segment connecting the central and lower-center centroids, with an internal angle at the central centroid estimated at approximately 110 degrees."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A reticulated or honeycomb-like pattern is visible on the right side of the subject where multiple high-contrast boundaries merge, creating a geometric network of dark cells bounded by light-intensity lines."
+}

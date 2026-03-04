@@ -1,0 +1,9 @@
+{
+  "dorsal_lateral_high_contrast_texture_topology": {
+    "macro_annuli_edge_geometry": "Three prominent irregular 'O' and 'C' shaped structures are visible in the upper-left quadrant of the torso. These exhibit jagged, high-contrast light-grey perimeters. The pixel gradient transitions sharply from the low-intensity dark substrate to the high-intensity perimeter line, followed by a decrease in intensity toward the dark interior cores.",
+    "high_intensity_blob_density": "A moderate density of small, solid high-intensity white pixel clusters is localized in the interstitial regions between the primary macro-annuli. These clusters are typically 5-15 pixels in diameter and lack internal intensity variations, appearing as bright, singular points against the dark base.",
+    "constellation_keypoints": "The centroids of the three largest macro-annuli in the upper-left quadrant form a scalene triangle. The vertex located at the topmost centroid is acute (approximately 40 degrees), with the longest side of the triangle connecting the topmost and bottommost centroids."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A fine, high-contrast reticulated pattern of thin filaments creates a mesh-like texture across the dorsal mid-section, interconnecting several isolated annuli."
+}

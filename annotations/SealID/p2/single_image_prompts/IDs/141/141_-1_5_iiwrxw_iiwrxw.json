@@ -1,0 +1,9 @@
+{
+  "dorsal_lateral_high_contrast_texture_topology": {
+    "macro_annuli_edge_geometry": "Multiple irregularly shaped circular and semi-circular light-intensity rings (annuli) exhibit soft-edged gradient transitions from high-intensity perimeters to low-intensity interiors. Notable structures include a well-defined 'O' annulus in the lower-central region and several overlapping 'C' and 'O' shaped structures along the upper dorsal ridge.",
+    "high_intensity_blob_density": "Low spatial density. A single, high-intensity, solid light-colored circular pixel cluster lacking an internal gradient is clearly visible in the upper right quadrant, situated between two larger macro-annuli.",
+    "constellation_keypoints": "The primary geometric relationship is defined by an obtuse triangle formed by connecting the centroid of the prominent lower-central annulus, the centroid of the upper-mid annulus, and the centroid of the high-intensity circular blob in the upper right."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A thin, high-contrast yellow linear feature, likely a blade of dry vegetation, originates from the lower right perimeter and extends diagonally into the center-right region, occluding the underlying texture."
+}
