@@ -1,3 +1,4 @@
+import argparse
 import asyncio
 import json
 import logging
@@ -16,11 +17,6 @@ from tqdm.asyncio import tqdm
 # =================Configuration=================
 load_dotenv()
 API_KEY = os.getenv("GEMINI_API_KEY")
-
-INPUT_ROOT = Path("data/BelugaID")
-OUTPUT_ROOT = Path("annotations/BelugaID/p2/single_image_prompts")
-PROMPT_FILE = Path("scripts/p2/prompts/single_image/BelugaID.txt")
-ERROR_LOG_FILE = OUTPUT_ROOT / "error_log.jsonl"
 
 MAX_CONCURRENT_REQUESTS = 10
 MAX_RETRIES = 3
@@ -78,10 +74,10 @@ def robust_json_parser(response_text: str) -> Dict[str, Any]:
     raise ValueError(f"Unable to parse JSON from response: {response_text[:100]}...")
 
 
-async def log_error(image_id: str, error_reason: str):
+async def log_error(image_id: str, error_reason: str, error_log_file: Path):
     """Log error to the dead-letter queue."""
     error_entry = {"image": image_id, "error": error_reason}
-    async with aiofiles.open(ERROR_LOG_FILE, "a", encoding="utf-8") as f:
+    async with aiofiles.open(error_log_file, "a", encoding="utf-8") as f:
         await f.write(json.dumps(error_entry) + "\n")
 
 
@@ -91,11 +87,13 @@ async def process_single_image(
     image_path: Path,
     prompt_text: str,
     relative_path: Path,
+    output_root: Path,
+    error_log_file: Path,
 ) -> str:
     """
     Asynchronous workflow for processing a single image (Phase 4)
     """
-    output_json_path = OUTPUT_ROOT / relative_path.with_suffix(".json")
+    output_json_path = output_root / relative_path.with_suffix(".json")
 
     # 1. State check (Resume from breakpoint)
     if output_json_path.exists() and output_json_path.stat().st_size > 0:
@@ -106,7 +104,7 @@ async def process_single_image(
 
     # 3. Image integrity check
     if not is_valid_image(image_path):
-        await log_error(str(relative_path), "Corrupted Image File")
+        await log_error(str(relative_path), "Corrupted Image File", error_log_file)
         return "CORRUPTED"
 
     async with sem:  # Limit concurrency
@@ -152,6 +150,7 @@ async def process_single_image(
                     await log_error(
                         str(relative_path),
                         f"Failed after {MAX_RETRIES} retries: {error_msg}",
+                        error_log_file,
                     )
                     return "FAILED"
 
@@ -161,23 +160,44 @@ async def process_single_image(
 
 
 async def main():
+    parser = argparse.ArgumentParser(
+        description="Extract features from images using Gemini."
+    )
+    parser.add_argument(
+        "--species",
+        type=str,
+        required=True,
+        help="Species name (e.g., BelugaID) to determine input/output paths.",
+    )
+    args = parser.parse_args()
+
+    species_name = args.species
+    input_root = Path(f"data/{species_name}")
+    output_root = Path(f"annotations/{species_name}/p2/single_image_prompts")
+    prompt_file = Path(f"scripts/p2/prompts/single_image/{species_name}.txt")
+    error_log_file = output_root / "error_log.jsonl"
+
     try:
         client = setup_client()
     except ValueError as e:
         logger.error(e)
         return
 
-    if not PROMPT_FILE.exists():
-        logger.error(f"Prompt file not found: {PROMPT_FILE}")
+    if not prompt_file.exists():
+        logger.error(f"Prompt file not found: {prompt_file}")
         return
 
-    prompt_text = load_prompt(PROMPT_FILE)
+    prompt_text = load_prompt(prompt_file)
 
-    logger.info(f"Scanning {INPUT_ROOT}...")
+    logger.info(f"Scanning {input_root}...")
+
+    if not input_root.exists():
+        logger.error(f"Input directory not found: {input_root}")
+        return
 
     # Scan for tasks
     image_files = []
-    for root, _, files in os.walk(INPUT_ROOT):
+    for root, _, files in os.walk(input_root):
         for file in files:
             file_path = Path(root) / file
 
@@ -198,8 +218,16 @@ async def main():
     sem = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
     tasks = []
     for img_path in image_files:
-        relative_path = img_path.relative_to(INPUT_ROOT)
-        task = process_single_image(sem, client, img_path, prompt_text, relative_path)
+        relative_path = img_path.relative_to(input_root)
+        task = process_single_image(
+            sem,
+            client,
+            img_path,
+            prompt_text,
+            relative_path,
+            output_root,
+            error_log_file,
+        )
         tasks.append(task)
 
     # Execute tasks and display progress bar
@@ -213,10 +241,8 @@ async def main():
 
     logger.info(f"Tasks completed. Summary: {summary}")
     if summary["FAILED"] > 0 or summary["CORRUPTED"] > 0:
-        logger.info(f"Error logs saved to: {ERROR_LOG_FILE}")
+        logger.info(f"Error logs saved to: {error_log_file}")
 
 
 if __name__ == "__main__":
-    # Ensure output directory exists
-    OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
     asyncio.run(main())
