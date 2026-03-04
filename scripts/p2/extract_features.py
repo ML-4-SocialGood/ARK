@@ -20,7 +20,9 @@ API_KEY = os.getenv("GEMINI_API_KEY")
 
 MAX_CONCURRENT_REQUESTS = 10
 MAX_RETRIES = 3
-MODEL_NAME = "gemini-2.0-flash"
+# MODEL_NAME = "gemini-2.0-flash"
+# MODEL_NAME = "gemini-2.5-flash-lite"
+MODEL_NAME = "gemini-3-flash-preview"
 
 VALID_EXTENSIONS = {".jpg", ".jpeg", ".png", ".webp"}
 # =========================================
@@ -169,6 +171,12 @@ async def main():
         required=True,
         help="Species name (e.g., BelugaID) to determine input/output paths.",
     )
+    parser.add_argument(
+        "--limit",
+        type=int,
+        default=None,
+        help="Limit the number of images to process (useful for testing).",
+    )
     args = parser.parse_args()
 
     species_name = args.species
@@ -210,6 +218,12 @@ async def main():
                 image_files.append(file_path)
 
     logger.info(f"Found {len(image_files)} images pending processing.")
+
+    if args.limit is not None:
+        image_files = image_files[: args.limit]
+        logger.info(
+            f"Limit applied: Processing only the first {len(image_files)} images."
+        )
 
     if not image_files:
         return
