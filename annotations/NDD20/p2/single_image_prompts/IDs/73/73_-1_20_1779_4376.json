@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge follows a concave spline curve from the dorsal ridge to the apex, forming a falcate profile.",
+    "apex_bounding_geometry": "The highest morphological point has a small pixel radius and is classified as acute-rounded.",
+    "leading_edge_angle": "The anterior margin is a convex slope at approximately 45 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "The ratio of the maximum pixel base width to the maximum vertical height is approximately 1.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius convex arc forming a prominent and steeply rounded melon boundary.",
+    "rostrum_aspect_vector": "The visible rostrum is extremely short and blunt with a low length-to-thickness pixel ratio.",
+    "cranial_inflection_angle": "The melon slope transitions into the rostrum at a shallow obtuse angle of approximately 165 degrees."
+  },
+  "acquired_anomalies_or_scars": "Several thin, light-colored linear striations are visible on the mid-lateral flank surface.",
+  "other_distinctive_markers": "Highly distinct high-contrast pigmentation with a dark dorsal field and a bright white ventral patch; a dark pigment band extends from the eye toward the pectoral fin."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Highly concave trailing edge exhibiting a smooth parabolic curve from the posterior base to the sharp apex.",
+    "apex_bounding_geometry": "Obtuse rounded apex with a tight pixel radius, forming the maximum vertical extent of the dorsal silhouette.",
+    "leading_edge_angle": "Steep linear incline at approximately 60 degrees relative to the primary longitudinal body axis.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio is approximately 1.2:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smoothly convex semi-circular arc defining the anterior-dorsal forehead boundary.",
+    "rostrum_aspect_vector": "Tapered conical projection with a length-to-thickness ratio of approximately 1.8:1.",
+    "cranial_inflection_angle": "Visible obtuse angle of approximately 145 degrees at the transition point between the melon slope and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Monochromatic cyan coloration and lack of organic texture/shading consistent with a synthetic or 3D-rendered representation."
+}

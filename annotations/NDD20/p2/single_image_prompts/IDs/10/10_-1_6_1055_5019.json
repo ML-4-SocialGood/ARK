@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave curvature following a faceted pixel trajectory along the trailing edge from apex to posterior base.",
+    "apex_bounding_geometry": "Rounded-acute pixel radius at the maximum vertical morphological point.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the longitudinal dorsal axis.",
+    "pixel_aspect_ratio": "Estimated 1.3:1 ratio of maximum base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex pixel-step arc defining the frontal cranial boundary from blowhole to rostrum start.",
+    "rostrum_aspect_vector": "Short, truncated projection with a high thickness-to-length pixel ratio.",
+    "cranial_inflection_angle": "Obtuse interior angle at the pixel coordinate where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-polygon mesh geometry and non-biological cyan-green luminescent surface texture indicative of a digital asset."
+}

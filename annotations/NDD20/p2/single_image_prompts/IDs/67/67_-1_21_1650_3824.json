@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge follows a near-linear spline from the apex to the mid-section, transitioning to a slight concave curve at the basal insertion point.",
+    "apex_bounding_geometry": "Flat, truncated horizontal boundary; classified as non-acute/obtuse due to lack of a singular point.",
+    "leading_edge_angle": "Approximately 52 degrees relative to the horizontal dorsal body axis.",
+    "pixel_aspect_ratio": "Base width of approximately 240 pixels to a vertical height of approximately 210 pixels, roughly a 1.14:1 ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Gradual convex arc with a wide radius curve extending from the dorsal transition to the rostrum base.",
+    "rostrum_aspect_vector": "Visible as a short, robust protrusion with a pixel length roughly equal to its basal thickness.",
+    "cranial_inflection_angle": "Obtuse angle of approximately 145 degrees at the transition point from melon to rostrum."
+  },
+  "acquired_anomalies_or_scars": "Multiple white punctate marks or circular lesions are visible along the mid-to-lower dorsal flank.",
+  "other_distinctive_markers": null
+}

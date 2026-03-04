@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a slight concave curvature from the apex to the posterior insertion point.",
+    "apex_bounding_geometry": "Rounded apex with a small pixel radius, transitioning between the steep leading edge and curved trailing edge.",
+    "leading_edge_angle": "Anterior margin displays a steep incline of approximately 45 degrees relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Base width is approximately 1.8 times the vertical height from the dorsal ridge to the apex."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth convex curvature with a moderate pixel radius defining the forehead profile.",
+    "rostrum_aspect_vector": "Short, thick rostrum extending anteriorly from the melon inflection point.",
+    "cranial_inflection_angle": "Obtuse angle of approximately 135 degrees where the melon slope transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject displays a monochromatic cyan-green luminescent surface texture across the entire visible body mesh."
+}

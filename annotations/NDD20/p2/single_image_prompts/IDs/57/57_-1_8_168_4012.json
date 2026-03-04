@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge curve following a parabolic path from the posterior insertion point to the apex.",
+    "apex_bounding_geometry": "Acute-rounded morphology with a narrow pixel radius at the maximum vertical point.",
+    "leading_edge_angle": "Steep anterior margin contour estimated at 50 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.5:1 ratio of maximum base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth convex arc defining the forehead region with gradual slope transition.",
+    "rostrum_aspect_vector": "Short, robust protrusion extending from the melon inflection point with a high thickness-to-length ratio.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the pixel coordinate where the melon curvature meets the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Ventral-lateral pectoral fin is visible below the cranial midline."
+}

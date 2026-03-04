@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Strongly concave spline fitting on the trailing edge, exhibiting high falcation with the deepest curvature point situated in the lower third of the fin height.",
+    "apex_bounding_geometry": "Rounded morphology with a moderate pixel radius; lacks acute termination.",
+    "leading_edge_angle": "Approximate 40-degree incline relative to the dorsal longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.8:1 ratio of longitudinal base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad, smooth convexity with a large arc radius indicating a prominent, rounded melon.",
+    "rostrum_aspect_vector": "Short, blunt projection with a high thickness-to-length ratio extending from the melon base.",
+    "cranial_inflection_angle": "Obtuse transition angle of approximately 145 degrees at the melon-rostrum junction."
+  },
+  "acquired_anomalies_or_scars": "Single distinct notch visible on the posterior trailing edge of the dorsal fin; circular depigmented mark/lesion visible on the lateral surface of the pectoral flipper.",
+  "other_distinctive_markers": "Uniform cyan-toned pixel distribution across the specimen surface; eye visible as a dark circular void with a distinct concentric highlight."
+}

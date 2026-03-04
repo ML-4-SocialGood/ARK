@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Slightly concave spline along the trailing edge from the posterior base to the apex.",
+    "apex_bounding_geometry": "Acute vertex shape with minimal pixel radius.",
+    "leading_edge_angle": "Approximately 45-degree posterior inclination relative to the dorsal body line.",
+    "pixel_aspect_ratio": "1.2:1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Prominent convex arc defining the forehead region.",
+    "rostrum_aspect_vector": "Short, triangular protrusion with thickness nearly equal to length.",
+    "cranial_inflection_angle": "Obtuse angle visible at the intersection of the melon and rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Luminescent cyan texture with visible low-polygon mesh triangulation."
+}

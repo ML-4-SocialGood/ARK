@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Strongly concave spline fitting the trailing edge from the basal insertion to the acute apex, producing a distinct falcate profile.",
+    "apex_bounding_geometry": "Acute tip with a minimal pixel radius, indicating a sharp morphological peak.",
+    "leading_edge_angle": "Convex anterior margin with a steep angular incline relative to the horizontal longitudinal axis of the visible body segment.",
+    "pixel_aspect_ratio": "Vertical height significantly exceeds the base width at the point of insertion."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "Small notch or morphological irregularity visible on the trailing edge of the fin just below the apex.",
+  "other_distinctive_markers": "Field of high-contrast white punctate markings concentrated along the lower longitudinal margin of the body and the posterior base of the fin."
+}

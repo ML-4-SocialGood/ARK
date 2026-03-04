@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature, forming a straight polygonal boundary from apex to dorsal ridge.",
+    "apex_bounding_geometry": "Acute vertex with zero pixel radius, resulting in a sharply defined point.",
+    "leading_edge_angle": "Approximately 72 degrees relative to the horizontal dorsal axis.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio of approximately 1:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Infinite radius; the melon surface is a flat, linear plane with no measurable convexity.",
+    "rostrum_aspect_vector": "High length-to-thickness ratio; characterized as an elongated, narrow conical projection.",
+    "cranial_inflection_angle": "Approximately 170 degrees at the point where the cranial slope meets the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The object is a low-polygon 3D mesh with a luminescent cyan-to-white gradient texture and visible polygonal edges."
+}

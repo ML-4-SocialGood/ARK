@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature; trailing boundary is a straight polygonal segment.",
+    "apex_bounding_geometry": "Acute vertex with near-zero pixel radius; perfectly sharp geometric tip.",
+    "leading_edge_angle": "High steepness, approximately 60 degrees relative to the local dorsal body facet.",
+    "pixel_aspect_ratio": "Approximate 0.75:1 base width to vertical height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": "Sharp obtuse transition at the polygonal junction where the cranial facet meets the primary body axis."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a stylized low-polygon 3D model with faceted cyan-colored shading and sharp geometric vertices instead of organic curves."
+}

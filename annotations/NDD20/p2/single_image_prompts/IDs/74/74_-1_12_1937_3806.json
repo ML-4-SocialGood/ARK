@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a slight concave curvature from the apex to the posterior insertion point.",
+    "apex_bounding_geometry": "Acute-rounded shape with a small pixel radius at the vertex.",
+    "leading_edge_angle": "Approximately 45-degree upward slope relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Approximately 1.2:1 ratio of base width to maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Moderate convexity with a smooth downward slope toward the rostrum.",
+    "rostrum_aspect_vector": "Short, thick protrusion with low length-to-base-width ratio.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the transition point between the melon and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Polygonal edges visible on fin and fluke boundaries indicating a low-poly geometric structure; high-contrast specular lighting on the lateral surface."
+}

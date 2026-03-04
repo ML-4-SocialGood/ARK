@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge defined by three distinct linear polygonal segments, resulting in a jagged falcate curvature.",
+    "apex_bounding_geometry": "Acute vertex termination with near-zero pixel radius due to low-polygon geometry.",
+    "leading_edge_angle": "Approximately 48 degrees relative to the horizontal dorsal ridge line.",
+    "pixel_aspect_ratio": "Approximate 1.2:1 ratio of maximum base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad convexity composed of discrete planar facets; radius is defined by a single obtuse vertex transition on the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": "Short, conical projection where the pixel length is roughly equal to the vertical thickness at the base.",
+    "cranial_inflection_angle": "Approximately 140 degrees at the pixel coordinate where the melon gradient meets the dorsal rostrum surface."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible low-resolution polygonal mesh artifacts and diffuse, non-photorealistic cyan texture map characteristic of legacy 3D assets."
+}

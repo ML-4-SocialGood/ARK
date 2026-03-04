@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge follows a slight concave spline from the dorsal ridge to the apex, interrupted by a small notch near the mid-section.",
+    "apex_bounding_geometry": "The apex is blunt and rounded with a wide pixel radius, categorized as obtuse.",
+    "leading_edge_angle": "The anterior margin presents a straight line at approximately 50-55 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximate 1.1:1 ratio of maximum base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon displays a smooth, convex curvature with a moderate radius arc visible despite high exposure.",
+    "rostrum_aspect_vector": "Short and stout rostrum extending from the melon inflection point with a low length-to-width ratio.",
+    "cranial_inflection_angle": "A discernible inflection point is present where the melon's downward slope meets the rostrum's base at an obtuse angle."
+  },
+  "acquired_anomalies_or_scars": "Visible notch on the trailing edge of the dorsal fin; dark circular mark on the lateral flank below the dorsal insertion.",
+  "other_distinctive_markers": "Entire visible skin surface displays a lack of typical pigmentation, appearing uniformly white/pale."
+}

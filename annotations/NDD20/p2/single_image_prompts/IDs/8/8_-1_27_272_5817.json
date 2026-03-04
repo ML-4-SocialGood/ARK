@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave curvature along the trailing edge extending from the dorsal insertion point to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius at the highest point.",
+    "leading_edge_angle": "Approximately 45-degree angular steepness relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Approximately 1:1 ratio of maximum pixel base width to maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius convexity forming a continuous, shallow slope from the dorsal surface toward the anterior tip.",
+    "rostrum_aspect_vector": "Short and thick proportional length with minimal differentiation from the melon slope.",
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan monochromatic surface texture lacking typical biological markers such as eyes or blowhole."
+}

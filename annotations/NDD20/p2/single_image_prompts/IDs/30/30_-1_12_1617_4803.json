@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Smooth concave spline fitting the trailing edge from the posterior dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Rounded morphological profile with an obtuse interior angle.",
+    "leading_edge_angle": "Anterior margin slope of approximately 50 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Maximum base width to vertical height ratio of approximately 1.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex semi-circular arc fitting the anterior-dorsal boundary of the forehead.",
+    "rostrum_aspect_vector": "Short, robust beak extension visible from the melon crease to the distal tip.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 135 degrees at the melon-rostrum transition."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A single pectoral fin is visible on the ventral-anterior region; ocular region is discernible as a darkened pixel cluster."
+}

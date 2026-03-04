@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge follows a smooth concave spline from the apex to the dorsal ridge, indicating moderate falcation.",
+    "apex_bounding_geometry": "The highest morphological point is classified as rounded with a moderate pixel radius.",
+    "leading_edge_angle": "The anterior margin rises at an approximate 50-degree angle relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "The ratio of maximum pixel base width to maximum vertical pixel height is approximately 1.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon boundary is defined by a broad convex arc with a large radius relative to the cranial height.",
+    "rostrum_aspect_vector": "The visible beak is short and robust, with a length-to-thickness ratio of approximately 0.8:1.",
+    "cranial_inflection_angle": "The transition from the melon slope to the rostrum occurs at a measurable obtuse interior angle of approximately 130 degrees."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays a uniform, high-saturation cyan/teal luminance profile across its entire visible dermal surface."
+}

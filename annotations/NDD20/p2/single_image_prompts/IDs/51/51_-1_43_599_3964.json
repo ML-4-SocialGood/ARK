@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": null,
+    "leading_edge_angle": null,
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Visible as a segmented convex curve composed of low-resolution polygonal facets at the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": "Short, pyramidal protrusion with a wide base-to-length ratio, exhibiting a blunt, non-tapered tip.",
+    "cranial_inflection_angle": "Obtuse angle of approximately 155 degrees where the melon facet transitions to the superior rostrum surface."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-polygon 3D mesh topology with visible triangular facets; monochromatic teal/cyan surface coloration with artificial vertex lighting."
+}

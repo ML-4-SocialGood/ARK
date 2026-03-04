@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge follows a concave spline fitting with a distinct inward curve toward the posterior base.",
+    "apex_bounding_geometry": "Acute vertex with a small-radius rounded tip.",
+    "leading_edge_angle": "Anterior margin exhibits a steep linear slope of approximately 50 degrees against the horizontal body axis.",
+    "pixel_aspect_ratio": "Base width slightly exceeds vertical height, approximately 1.15:1 ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "High-radius convex curve forming a smooth, rounded anterior profile.",
+    "rostrum_aspect_vector": "Stubby rostrum with a low length-to-thickness ratio, protruding minimally from the melon.",
+    "cranial_inflection_angle": "Indistinct, shallow obtuse angle transition where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Single visible pectoral fin on the lower right flank showing a tapered, triangular geometry with high specular highlights."
+}

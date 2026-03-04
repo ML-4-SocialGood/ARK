@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave curvature on the posterior margin from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with low-pixel-radius rounding at the peak.",
+    "leading_edge_angle": "Approximately 45-degree posterior slope relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximate 1.4:1 ratio of maximum base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex curve with a moderate radius forming a smooth transition from the blowhole region to the rostrum.",
+    "rostrum_aspect_vector": "Short, thick projection with length approximately 0.5 times the melon height.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 135 degrees at the melon-rostrum junction."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan surface coloration and visible low-poly geometric mesh topology."
+}

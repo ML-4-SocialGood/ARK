@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is a linear polygonal edge with zero curvature, typical of low-polygon mesh geometry.",
+    "apex_bounding_geometry": "Acute shape classification; apex terminates in a single pixel vertex with a negligible radius.",
+    "leading_edge_angle": "Steep anterior margin approximately 80 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximate 1:2 ratio of vertical pixel height to maximum base width in the current projection."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convexity is composed of discrete linear segments with high radius (low curvature) due to low-poly modeling.",
+    "rostrum_aspect_vector": "Short, blunt rostrum with an approximate 1:1 length-to-thickness ratio at the visible base.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 145 degrees where the melon face meets the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon 3D model with visible aliasing and flat-shaded triangular facets."
+}

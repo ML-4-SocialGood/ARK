@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is a strictly linear polygonal boundary with zero curvature, fitting a first-order linear function.",
+    "apex_bounding_geometry": "Acute, pointed vertex with zero pixel radius; sharp angular geometry without curvature.",
+    "leading_edge_angle": "A constant linear incline at approximately 45 degrees relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio is approximately 1:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convexity is composed of discrete flat polygonal facets; no continuous curved arc radius is present in the pixel data.",
+    "rostrum_aspect_vector": "Blunt, short triangular point with a length-to-thickness ratio of approximately 1:1.",
+    "cranial_inflection_angle": "A discrete obtuse angle of approximately 160 degrees where the melon slope meets the rostrum vertex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a low-polygon digital model with a uniform cyan emissive texture and visible mesh tessellation."
+}

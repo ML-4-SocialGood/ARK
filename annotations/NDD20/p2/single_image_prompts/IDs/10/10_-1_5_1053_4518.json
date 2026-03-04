@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge displays a deep concave spline curvature, tapering significantly from the dorsal ridge to the posterior-projecting tip.",
+    "apex_bounding_geometry": "Acute shape classification with a very small pixel radius, creating a sharp, pointed morphological terminal.",
+    "leading_edge_angle": "Steep anterior margin rising at approximately 55-60 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Tall vertical profile where the maximum height exceeds the base width by a factor of approximately 1.3."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Prominent convex arc with a smooth curvature forming a bulbous melon region.",
+    "rostrum_aspect_vector": "Short, robust rostrum with a high thickness-to-length pixel ratio extending from the cranial base.",
+    "cranial_inflection_angle": "Distinct obtuse interior angle visible at the pixel coordinate where the melon curvature transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays a uniform, non-biological cyan-teal coloration and polygonal surface artifacts consistent with a digital model rather than a natural organism."
+}

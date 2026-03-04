@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Slightly concave trailing edge defined by a single linear polygonal segment connecting the apex to the dorsal ridge.",
+    "apex_bounding_geometry": "Acute vertex with no measurable radius due to low-polygon mesh geometry.",
+    "leading_edge_angle": "Steep anterior margin at approximately 75 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Vertical height is approximately twice the width of the fin base."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Coarse polygonal arc with a low curvature radius composed of flat-shaded facets.",
+    "rostrum_aspect_vector": "Short, conical rostrum with a length-to-thickness ratio of approximately 1:1.",
+    "cranial_inflection_angle": "Distinct obtuse transition angle of approximately 130 degrees at the rostrum-melon junction."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Digital 3D asset characterized by low-fidelity polygonal geometry and a uniform cyan emissive texture."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge is characterized by a linear, non-curved profile from the dorsal ridge to the apex, indicating zero falcation in this projection.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius, resulting in a sharply pointed apex.",
+    "leading_edge_angle": "Steep anterior margin contour at approximately 60 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 1:1 ratio between the maximum pixel base width and the vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Rounded convexity with a tight radius forming a bulbous, well-defined melon.",
+    "rostrum_aspect_vector": "Short, blunt beak projection with a thick pixel profile relative to its length.",
+    "cranial_inflection_angle": "Visible concave inflection point where the melon curvature transitions sharply into the dorsal plane of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a monochromatic teal silhouette lacking internal anatomical texture, typical of a low-fidelity 3D model or graphic icon."
+}

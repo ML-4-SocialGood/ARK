@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a deep concave curvature from the posterior base to the apex, creating a standard falcate profile.",
+    "apex_bounding_geometry": "Acute point with a sharp pixel radius, indicating a highly pointed termination.",
+    "leading_edge_angle": "Steep linear ascent at approximately 55 degrees relative to the horizontal dorsal midline.",
+    "pixel_aspect_ratio": "Maximum vertical height is slightly greater than the maximum base width, providing an estimated ratio of 1.2:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Uniform convex arc with a smooth, continuous curvature across the anterior-dorsal cranial surface.",
+    "rostrum_aspect_vector": "Short, robust rostrum with a pixel length roughly 1.5 times its vertical thickness at the base.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the pixel coordinate where the melon slope meets the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-polygon geometric artifacts along the ventral contour and high-intensity specular bloom on the dorsal-lateral flank indicate a non-biological 3D render."
+}

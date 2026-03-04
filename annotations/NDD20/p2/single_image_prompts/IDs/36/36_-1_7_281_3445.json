@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave parabolic curve along the trailing edge, originating from the posterior dorsal ridge to the sub-apical termination.",
+    "apex_bounding_geometry": "Rounded apex with a small pixel radius, categorized as having an obtuse geometric profile.",
+    "leading_edge_angle": "Steep posterior inclination, measured at approximately 60 degrees relative to the horizontal dorsal midline.",
+    "pixel_aspect_ratio": "Approximate 0.8:1 ratio of maximum basal width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Wide-radius convexity forming a smooth, low-profile curve on the dorsal-anterior cranial boundary.",
+    "rostrum_aspect_vector": "Short, stout pixel projection with a high thickness-to-length ratio extending from the cranial base.",
+    "cranial_inflection_angle": "Obtuse transition point at approximately 140 degrees where the melon slope meets the rostrum surface."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform monochromatic cyan luminescence across the entire visible surface, indicating a non-biological or highly processed pixel texture."
+}

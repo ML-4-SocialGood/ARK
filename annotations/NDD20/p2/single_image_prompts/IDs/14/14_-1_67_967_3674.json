@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Deeply concave trailing edge with a distinctive secondary notch-like protrusion near the posterior base, creating a complex spline profile.",
+    "apex_bounding_geometry": "Small pixel radius at the morphological tip, classified as rounded-acute.",
+    "leading_edge_angle": "High angular steepness, approximately 70 degrees relative to the visible dorsal ridge axis.",
+    "pixel_aspect_ratio": "The visible base width is approximately equal to the vertical height from the ridge to the apex (1:1)."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smoothly rounded convex arc with a medium radius defining the forehead region.",
+    "rostrum_aspect_vector": "Highly elongated and narrow linear projection with a high length-to-thickness ratio extending from the cranial base.",
+    "cranial_inflection_angle": "Defined obtuse angle at the pixel coordinate where the convex melon slope meets the straight dorsal margin of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

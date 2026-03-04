@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Deeply concave trailing edge spline with high-degree curvature from base to apex.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius at the maximum vertical coordinate.",
+    "leading_edge_angle": "Steep anterior margin contour, approximately 65 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Height-to-width ratio of approximately 1.4:1, indicating a tall, narrow silhouette."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Moderate convex curvature defining a bulbous anterior-dorsal cranial boundary.",
+    "rostrum_aspect_vector": "Short, thick rostral projection with approximately 1:1 length-to-thickness ratio from the inflection point.",
+    "cranial_inflection_angle": "Visible obtuse interior angle at the specific pixel coordinate where the melon slope meets the rostrum base."
+  },
+  "acquired_anomalies_or_scars": "Multiple high-luminance linear streaks and small circular depigmented spots are visible on the dorsal ridge and lateral flank.",
+  "other_distinctive_markers": "Pronounced monochromatic emerald-green color cast over the entire visible epidermal surface."
+}

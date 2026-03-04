@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is linear with zero curvature due to low-polygon geometry; no falcate arc is present.",
+    "apex_bounding_geometry": "Acute triangular vertex with a radius of approximately 1-2 pixels; shape is a sharp point.",
+    "leading_edge_angle": "Approximately 40 degrees relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Approximately 1.7:1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Short, tapered protrusion with a proportional pixel length roughly equal to its base thickness.",
+    "cranial_inflection_angle": "Approximately 150-degree obtuse angle where the cranial facet meets the rostrum facet."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon 3D model with a uniform cyan emissive texture and visible flat-shaded polygonal faces."
+}

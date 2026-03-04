@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a slight concave curvature defined by a linear polygonal segment from the apex to the dorsal insertion point.",
+    "apex_bounding_geometry": "Acute vertex with no measurable radius; forms a sharp geometric point typical of low-polygon modeling.",
+    "leading_edge_angle": "Approximately 58 degrees relative to the longitudinal dorsal axis.",
+    "pixel_aspect_ratio": "Approximately 1.25:1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Polygonal convexity represented by two discrete planar surfaces meeting at an obtuse vertex.",
+    "rostrum_aspect_vector": "Short, conical triangular protrusion with a length roughly equal to its basal thickness.",
+    "cranial_inflection_angle": "135-degree interior angle at the transition point between the anterior melon slope and the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Rendered as a low-resolution, low-polygon 3D mesh with vertex-shaded cyan coloration and lack of organic texture."
+}

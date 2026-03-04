@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge spline is defined by a major concave discontinuity (notch) at the vertical midpoint and secondary high-frequency irregularities along the margin, precluding a standard falcate curvature.",
+    "apex_bounding_geometry": "The vertex exhibits a rounded shape classification with a pixel radius of approximately 18 pixels, though it is geometrically irregular due to margin erosion and tissue loss.",
+    "leading_edge_angle": "The anterior margin rises at a steepness of approximately 42 degrees relative to the horizontal longitudinal axis of the dorsal ridge.",
+    "pixel_aspect_ratio": "The ratio of the fin's maximum pixel base width to its maximum vertical pixel height is approximately 1.7:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon presents a broad, smooth arc with a large radius fitted to the anterior-dorsal cranial boundary, creating a bulbous profile.",
+    "rostrum_aspect_vector": "The rostrum presents a short pixel length relative to thickness, maintaining a ratio of approximately 1.1:1 from the inflection point to the distal tip.",
+    "cranial_inflection_angle": "The interior angle at the pixel coordinate where the melon slope transitions into the rostrum is measured at approximately 160 degrees."
+  },
+  "acquired_anomalies_or_scars": "A deep, V-shaped notch is located on the mid-trailing edge of the dorsal fin, accompanied by multiple smaller serrated nicks; the lateral flank displays extensive pale, mottled pigmentation patches or scarring.",
+  "other_distinctive_markers": "A dark circular ocular region is clearly visible posterior to the gape; the skin exhibits a high-contrast, diffuse mottled pattern across the visible flank."
+}

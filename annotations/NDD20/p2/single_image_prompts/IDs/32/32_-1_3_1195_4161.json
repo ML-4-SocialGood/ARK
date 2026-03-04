@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a deep concave indentation at the approximate midpoint, creating a sharp, non-continuous spline towards the base.",
+    "apex_bounding_geometry": "Acute shape classification with a sharp vertex and minimal pixel radius at the maximum vertical point.",
+    "leading_edge_angle": "Steep linear margin approximately 75 degrees relative to the horizontal pixel axis.",
+    "pixel_aspect_ratio": "Approximately 0.45:1 ratio of maximum horizontal width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "Deep V-shaped notch or truncation on the trailing edge; secondary irregular protrusion or jagged boundary at the ventral-posterior margin.",
+  "other_distinctive_markers": "Highly saturated cyan/teal pixel coloration; image depicts an isolated dorsal structure isolated against a high-contrast black background."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Mild concave curvature along the trailing edge, originating from the posterior dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a small-radius rounded tip at the highest morphological point.",
+    "leading_edge_angle": "Approximately 55-degree steepness relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of maximum base width to maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Blunt, large-radius convex arc on the anterior-dorsal cranial boundary characteristic of a blunt-headed cetacean model.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-poly 3D geometric mesh with a semi-translucent cyan surface and white stippled texture artifacts."
+}

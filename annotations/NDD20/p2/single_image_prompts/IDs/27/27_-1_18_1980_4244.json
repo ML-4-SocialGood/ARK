@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Low-curvature concave trailing edge with a distinct angular notch at the posterior base transition.",
+    "apex_bounding_geometry": "Acute geometric vertex with a minimal pixel radius resulting in a pointed tip.",
+    "leading_edge_angle": "Approximately 60 degrees relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Estimated 1.4:1 ratio of horizontal base width to vertical apex height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Gradual, large-radius convex arc extending from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "Short, blunt beak with high vertical thickness relative to its horizontal extension from the melon.",
+    "cranial_inflection_angle": "Wide obtuse angle at the pixel coordinate where the melon slope meets the dorsal rostrum line."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits low-polygon 3D mesh topology with a monochromatic cyan emissive texture and localized specular highlights on the dorsal and pectoral surfaces."
+}

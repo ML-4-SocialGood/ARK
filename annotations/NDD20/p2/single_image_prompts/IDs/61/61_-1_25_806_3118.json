@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Strongly concave trailing edge spline fitting a falcate profile from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Rounded shape classification with a distinct pixel radius; no acute terminal point visible.",
+    "leading_edge_angle": "Approximate 40-degree incline relative to the horizontal longitudinal pixel axis.",
+    "pixel_aspect_ratio": "Maximum base width to maximum vertical height ratio of approximately 1.6:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Internal-distributed cyan/teal luminescent highlights concentrated along the mid-lateral and dorsal-posterior body regions."
+}

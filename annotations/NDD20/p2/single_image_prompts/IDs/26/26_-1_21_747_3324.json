@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Slightly concave spline fitting on the trailing edge, transitioning from a neutral curve at the apex to a deeper indentation near the posterior insertion point.",
+    "apex_bounding_geometry": "Rounded shape classification with a wide pixel radius, lacking any acute apical sharpening.",
+    "leading_edge_angle": "Approximately 35-degree posterior rake relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Base width is approximately 1.7 times the vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad convex arc with a large radius fitting the anterior-dorsal cranial boundary.",
+    "rostrum_aspect_vector": "Short and thick rostrum protruding from the melon with a low length-to-width pixel ratio.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 145 degrees at the transition point between the melon slope and the rostrum."
+  },
+  "acquired_anomalies_or_scars": "White mottled patches and faint linear striations visible on the anterior portion of the tail fluke and lower lateral flank.",
+  "other_distinctive_markers": "Uniform high-saturation cyan/teal coloration across the entire dermal surface."
+}

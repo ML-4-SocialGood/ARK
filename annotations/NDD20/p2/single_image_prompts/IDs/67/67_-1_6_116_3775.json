@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a near-linear spline with minimal falcation, characterized by low-poly segments transitioning from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute shape with a negligible pixel radius, forming a sharp vertex.",
+    "leading_edge_angle": "Approximately 50-degree steepness relative to the horizontal longitudinal axis.",
+    "pixel_aspect_ratio": "Base-to-height ratio approximately 1:1.1 based on visible pixel count."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius convexity with shallow structural curvature fitting the low-polygon boundary.",
+    "rostrum_aspect_vector": "Short, tapered rostrum with high thickness-to-length ratio, terminating in a sharp vertex.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 155 degrees at the melon-rostrum junction."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a low-fidelity, low-poly 3D model with uniform cyan/aqua color mapping and artificial specular highlight patterns."
+}

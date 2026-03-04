@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a deep concave curvature fitting a parabolic spline from the posterior base to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a small pixel radius at the vertex.",
+    "leading_edge_angle": "Steep linear ascent estimated at approximately 65 degrees relative to the mid-dorsal line.",
+    "pixel_aspect_ratio": "Maximum vertical height is approximately 1.5 times the width of the visible base."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex semi-circular arc with a consistent radius across the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": "Short, robust beak with a width-to-length ratio near 1:1 in the current perspective.",
+    "cranial_inflection_angle": "Distinct interior angle of approximately 140 degrees at the junction of the melon and rostrum."
+  },
+  "acquired_anomalies_or_scars": "Visible linear white striae/scratches (rake marks) present on the lateral body wall and lower rostrum.",
+  "other_distinctive_markers": null
+}

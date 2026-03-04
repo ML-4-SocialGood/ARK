@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge forming a smooth parabolic curve from the apex to the dorsal ridge.",
+    "apex_bounding_geometry": "Acute shape with a minimal pixel radius at the highest morphological point.",
+    "leading_edge_angle": "Approximately 45-degree angle relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Base-to-height ratio of approximately 1.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius convex curve fitting the anterior-dorsal boundary of the head.",
+    "rostrum_aspect_vector": "Visible short beak with a length-to-thickness ratio of approximately 2:1.",
+    "cranial_inflection_angle": "Obtuse angle visible at the pixel coordinate where the melon meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced cyan bioluminescent-style illumination pattern with intense light saturation on the lateral flanks and peduncle."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a near-linear profile with minimal concave curvature, defined by discrete low-polygon vertex segments.",
+    "apex_bounding_geometry": "Shape is classified as obtuse-rounded, characterized by a coarse pixel radius at the peak vertex.",
+    "leading_edge_angle": "Angular steepness is approximately 55 degrees relative to the dorsal midline axis.",
+    "pixel_aspect_ratio": "Maximum pixel base width to maximum vertical height ratio is approximately 1.2:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Structural convexity consists of a segmented polygonal arc with a high-radius curve fitted to the coarse mesh.",
+    "rostrum_aspect_vector": "Rostrum is short and robust, with a proportional length-to-thickness ratio of approximately 1.5:1.",
+    "cranial_inflection_angle": "Measurable interior angle at the melon-rostrum transition point is approximately 140 degrees."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon 3D digital asset characterized by uniform cyan coloration, aliased edge boundaries, and legacy rasterization artifacts."
+}

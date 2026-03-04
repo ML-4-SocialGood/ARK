@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": null,
+    "leading_edge_angle": null,
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth convex arc with a consistent radius of curvature along the anterior-dorsal cranial boundary.",
+    "rostrum_aspect_vector": "Short, tapered protrusion with a pixel length approximately 1.3 times its base thickness.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 150 degrees at the pixel transition from melon to rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Strong cyan-green color cast and saturated specular highlights across the visible body surface."
+}

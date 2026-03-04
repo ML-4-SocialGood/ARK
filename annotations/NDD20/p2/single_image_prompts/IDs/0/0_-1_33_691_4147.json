@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave spline fitting the trailing edge from the posterior insertion to the apex.",
+    "apex_bounding_geometry": "Small pixel radius; rounded shape classification.",
+    "leading_edge_angle": "Approximately 50 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio is approximately 1.7:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius convex arc forming a smooth, rounded cranial profile.",
+    "rostrum_aspect_vector": "Short, robust rostrum with a visible length approximately equal to its base thickness.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 160 degrees at the transition from melon to rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform monochromatic cyan color palette with high-key luminance gradients."
+}

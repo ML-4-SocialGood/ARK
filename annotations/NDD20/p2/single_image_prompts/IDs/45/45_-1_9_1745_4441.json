@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Slightly concave trailing edge spline with a posterior sweep.",
+    "apex_bounding_geometry": "Acute vertex with minimal rounding at the highest morphological point.",
+    "leading_edge_angle": "Approximately 55-degree incline relative to the longitudinal dorsal axis.",
+    "pixel_aspect_ratio": "Approximately 1.2:1 ratio of base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large-radius convexity exhibiting a smooth arc from the blowhole region to the rostrum.",
+    "rostrum_aspect_vector": "Short, tapered projection with high thickness-to-length ratio and a brightened terminal tip.",
+    "cranial_inflection_angle": "Distinct obtuse angle of approximately 145 degrees at the melon-rostrum junction."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon 3D digital model with visible mesh edges and a uniform luminescent cyan texture."
+}

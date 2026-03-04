@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear; trailing edge consists of a straight-line segment with zero mathematical curvature.",
+    "apex_bounding_geometry": "Acute vertex; sharp intersection of leading and trailing edges with no rounded radius.",
+    "leading_edge_angle": "Approximately 65 degrees relative to the horizontal midline.",
+    "pixel_aspect_ratio": "1.2:1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large/infinite; represented by a flat polygonal plane with negligible convexity.",
+    "rostrum_aspect_vector": "Proportionally short and thick; length approximately equal to the base thickness.",
+    "cranial_inflection_angle": "Large obtuse angle at the transition point between the head and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-polygon mesh topology and monochromatic cyan emissive texture."
+}

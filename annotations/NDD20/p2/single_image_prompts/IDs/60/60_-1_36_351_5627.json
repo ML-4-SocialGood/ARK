@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge characterized by three discrete linear segments with jagged vertices resulting from low-polygon geometry.",
+    "apex_bounding_geometry": "Rounded shape classification with a large pixel radius and low vertex density at the highest morphological point.",
+    "leading_edge_angle": "Linear anterior margin oriented at an approximate 45-degree angle relative to the horizontal dorsal ridge line.",
+    "pixel_aspect_ratio": "Maximum pixel base width is approximately 1.5 times the maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Gentle convex arc with a large radius, exhibiting distinct polygonal faceting along the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": "Short, thickened beak with a roughly 1:1 ratio of pixel length to base thickness.",
+    "cranial_inflection_angle": "A distinct interior obtuse angle of approximately 140 degrees at the vertex where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a stylized low-polygon 3D model with a uniform cyan emissive texture and visible mesh triangulation."
+}

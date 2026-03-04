@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a moderate concave curvature fitting a parabolic spline from the posterior base to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a small pixel radius, indicating a sharp terminal point.",
+    "leading_edge_angle": "Steep anterior margin with a positive slope of approximately 55 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Maximum pixel base width is approximately 1.5 times the maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex anterior-dorsal boundary with a consistent, smooth arc radius typical of a prominent melon.",
+    "rostrum_aspect_vector": "Short, tapered rostrum with a visible length approximately 0.2 times the cranial depth.",
+    "cranial_inflection_angle": "Measurable obtuse interior angle where the melon curvature transitions into the horizontal plane of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays artificial surface textures and lighting gradients characteristic of a low-polygon 3D digital model."
+}

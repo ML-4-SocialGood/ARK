@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave spline along the trailing edge with a distinct inflection point where the fin meets the dorsal ridge.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius, forming a sharp point.",
+    "leading_edge_angle": "Steep linear slope approximately 55 degrees relative to the horizontal dorsal body axis.",
+    "pixel_aspect_ratio": "Approximate 1.2:1 ratio of maximum base width to vertical apex height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large, flat-contoured convexity defined by low-polygon geometric facets.",
+    "rostrum_aspect_vector": "Short, thickened protrusion with a high thickness-to-length ratio extending from the cranial base.",
+    "cranial_inflection_angle": "Measurable obtuse angle at the vertex where the melon slope meets the dorsal rostrum line."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-fidelity 3D polygonal mesh rendering style; non-biological texture with visible edge aliasing."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature, forming a straight diagonal line from the apex to the posterior base.",
+    "apex_bounding_geometry": "Acute vertex termination with minimal pixel radius, resulting in a sharp point.",
+    "leading_edge_angle": "Steep anterior margin, approximately 85 degrees relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "High vertical-to-horizontal ratio, approximately 5:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon, monochromatic cyan digital 3D model exhibiting significant geometric aliasing."
+}

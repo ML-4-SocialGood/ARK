@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Smoothly concave trailing edge forming a falcate spline from the posterior dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Rounded morphology with a medium pixel radius at the maximum vertical point.",
+    "leading_edge_angle": "Steep anterior slope at approximately 50 degrees relative to the horizontal longitudinal axis.",
+    "pixel_aspect_ratio": "Approximate 1.1:1 ratio of maximum pixel height to base width."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Uniformly convex arc describing a medium-radius curve across the anterior-dorsal cranial surface.",
+    "rostrum_aspect_vector": "Short, robust rostrum with high vertical pixel thickness relative to its visible extension.",
+    "cranial_inflection_angle": "Clear obtuse inflection point at approximately 135 degrees where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Artificial cyan luminance and high-intensity digital glow across the body surface."
+}

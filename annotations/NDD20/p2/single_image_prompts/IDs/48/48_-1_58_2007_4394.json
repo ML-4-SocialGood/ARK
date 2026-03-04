@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge is predominantly linear and vertical, exhibiting near-zero falcation with a slight concave inflection only at the extreme posterior base.",
+    "apex_bounding_geometry": "Truncated, flat horizontal apex with sharp corners; classified as a low-radius rectangular termination rather than a standard curvilinear point.",
+    "leading_edge_angle": "Steep anterior margin with an approximate 70-degree incline relative to the dorsal midline.",
+    "pixel_aspect_ratio": "High-profile silhouette with a base-width-to-height ratio of approximately 0.65:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius convexity forming a gradual, low-sloped curve from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "High aspect ratio rostrum; length is approximately 2.8 times the vertical thickness measured at the cranial inflection point.",
+    "cranial_inflection_angle": "Wide obtuse interior angle of approximately 160 degrees at the pixel transition from the melon to the dorsal rostrum surface."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The entire morphology exhibits a uniform, monochromatic cyan-turquoise luminescence with a complete absence of natural biological skin textures or countershading."
+}

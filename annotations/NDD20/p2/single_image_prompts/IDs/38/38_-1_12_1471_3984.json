@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature; non-falcate geometric spline.",
+    "apex_bounding_geometry": "Acute vertex with minimal pixel radius; sharp geometric point classification.",
+    "leading_edge_angle": "High steepness, approximately 80 degrees relative to the dorsal longitudinal axis.",
+    "pixel_aspect_ratio": "Approximate 1:1 ratio of max base width to max vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-polygon 3D mesh rendering with visible facets and monochromatic cyan luminescence."
+}

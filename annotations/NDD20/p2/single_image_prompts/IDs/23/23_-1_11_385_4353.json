@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Moderate concave curvature along the posterior margin from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Rounded morphology with a large pixel radius, classified as obtuse.",
+    "leading_edge_angle": "Posteriorly directed slope at approximately 55 degrees relative to the horizontal dorsal plane.",
+    "pixel_aspect_ratio": "Base-to-height ratio approximately 1.3:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Continuous convex curvature forming a bulbous cephalic profile with a large radial arc.",
+    "rostrum_aspect_vector": "Short, thick rostrum with minimal longitudinal extension beyond the melon inflection.",
+    "cranial_inflection_angle": "Wide obtuse angle measured at the transition point between the melon and the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Cyan-hued emissive surface texture with high-intensity highlights on the dorsal ridge and cephalic region."
+}

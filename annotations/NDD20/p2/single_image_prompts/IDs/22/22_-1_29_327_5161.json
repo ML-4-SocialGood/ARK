@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is linear with no discernible curvature, representing a single geometric segment.",
+    "apex_bounding_geometry": "Acute angular vertex with no measurable rounding radius.",
+    "leading_edge_angle": "Shallow angular ascent from the anterior dorsal ridge at approximately 28 degrees.",
+    "pixel_aspect_ratio": "Elongated base relative to height, ratio approximately 1.7:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Shallow, large-radius arc defining the anterior-dorsal melon boundary.",
+    "rostrum_aspect_vector": "Short, thick aspect ratio; protruding length is roughly 50% of the cranial height.",
+    "cranial_inflection_angle": "Obtuse interior angle at the junction of the melon and rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-polygon geometric rendering artifacts and a uniform cyan-teal color profile."
+}

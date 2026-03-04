@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge (left-side pixel boundary) exhibits a sharp concave spline starting from a distinct basal notch and transitioning into a curved sweep toward the apex.",
+    "apex_bounding_geometry": "The apex is classified as rounded and obtuse, with a moderate pixel radius that creates a blunt transition between the leading and trailing margins.",
+    "leading_edge_angle": "The anterior margin (right-side pixel boundary) presents a shallow, consistent linear gradient estimated at 35 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "The ratio of the visible horizontal base width of the fin to its maximum vertical height is approximately 2.8:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "A prominent V-shaped notch is visible mid-way along the trailing edge. Smaller irregular indentations and nicks are present on the upper trailing edge closer to the apex.",
+  "other_distinctive_markers": "The subject is covered in high-frequency white punctate markings and vertical linear streaks, likely representing water spray or surface interface artifacts rather than anatomical features."
+}

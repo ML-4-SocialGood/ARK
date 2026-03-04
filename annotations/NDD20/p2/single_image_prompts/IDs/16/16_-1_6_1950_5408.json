@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge is characterized by a predominantly linear trajectory with a slight concave curvature near the base.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius, forming a sharp point.",
+    "leading_edge_angle": "Steep anterior margin with a positive slope of approximately 55 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "The ratio of maximum pixel base width to maximum vertical pixel height is approximately 1.2:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Low structural convexity with a large radius curve transitioning smoothly into the rostrum.",
+    "rostrum_aspect_vector": "Elongated proportional length with a high length-to-thickness ratio, terminating in a sharp point.",
+    "cranial_inflection_angle": "Shallow interior angle of approximately 170 degrees at the junction of the melon and rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits low-polygon geometric facets and sharp angular transitions consistent with a digital 3D model."
+}

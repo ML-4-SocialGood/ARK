@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a deep concave curvature fitting a smooth spline from the posterior basal insertion to the apex.",
+    "apex_bounding_geometry": "Acute-rounded morphology with a small pixel radius at the distal-most point.",
+    "leading_edge_angle": "Approximately 45-degree posterior sweep relative to the longitudinal dorsal ridge axis.",
+    "pixel_aspect_ratio": "A ratio of approximately 1.2:1, with the basal width slightly exceeding the maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth, convex parabolic arc with a consistent radius extending from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "Short, robust beak with a length approximately 25% of the total cranial height, tapering toward the distal tip.",
+    "cranial_inflection_angle": "Visible obtuse interior angle at the pixel coordinate where the anterior melon slope transitions into the dorsal rostrum plane."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

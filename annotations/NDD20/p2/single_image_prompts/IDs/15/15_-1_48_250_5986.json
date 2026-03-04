@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a moderate concave curvature from the posterior insertion point, truncated by the upper image frame boundary.",
+    "apex_bounding_geometry": null,
+    "leading_edge_angle": "Approximately 55 degrees relative to the horizontal dorsal midline.",
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Rounded convex arc with a consistent radius extending from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "Short, thick beak with a visible pixel length approximately 0.5 times the vertical height of the melon.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 140 degrees at the rostrum-melon intersection point."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan color cast across the subject; image is a segmented mask with hard pixel boundaries against a black background."
+}

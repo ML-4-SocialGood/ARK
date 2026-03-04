@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave curvature along the posterior margin, exhibiting a smooth falcate spline from the basal insertion to the apex.",
+    "apex_bounding_geometry": "Rounded classification with a moderate pixel radius curvature at the highest vertical point.",
+    "leading_edge_angle": "Approximately 40 to 45 degrees relative to the horizontal dorsal ridge line.",
+    "pixel_aspect_ratio": "Maximum base width to vertical height ratio of approximately 1.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius convex arc forming a smooth, rounded forehead profile.",
+    "rostrum_aspect_vector": "Short, blunt beak extending from the melon with a low length-to-thickness ratio.",
+    "cranial_inflection_angle": "Obtuse interior angle (approximately 150 degrees) at the transition point between the melon slope and the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Visible circular depigmented spots and small dark punctate marks on the anterior-dorsal surface of the melon; faint linear striations on the mid-lateral flank.",
+  "other_distinctive_markers": "Extreme specular reflection and pixel saturation across the mid-lateral and dorsal regions, obscuring fine dermal texture."
+}

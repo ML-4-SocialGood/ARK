@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with no discernible curvature, forming a straight spline from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute vertex with a minimal pixel radius, forming a sharp triangular point.",
+    "leading_edge_angle": "Steep linear slope at approximately 75 degrees relative to the horizontal dorsal line.",
+    "pixel_aspect_ratio": "Vertical pixel height is approximately 1.6 times the base pixel width."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Absence of curvature; the melon surface consists of flat polygonal planes.",
+    "rostrum_aspect_vector": "Short, thick triangular extension where the length from the inflection point is roughly equal to its base thickness.",
+    "cranial_inflection_angle": "Hard-edged polygonal intersection at approximately 140 degrees."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan emissive texture and low-polygon geometric structure characteristic of a digital 3D model."
+}

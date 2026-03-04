@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a distinct concave curvature (falcate), with a spline fitting showing increasing curvature density toward the distal third of the fin.",
+    "apex_bounding_geometry": "Small pixel radius at the morphological peak, categorized as an acute rounded apex.",
+    "leading_edge_angle": "The anterior margin presents a steep upward incline, measured at approximately 58 degrees relative to the horizontal dorsal ridge line.",
+    "pixel_aspect_ratio": "Fin base width to vertical height ratio is approximately 1.1:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon presents a smooth convex arc with a consistent radius, though the full extent is partially obscured by image truncation.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "High-intensity specular reflections or light-pigmented patches are visible on the mid-lateral body and the anterior-dorsal region just behind the melon."
+}

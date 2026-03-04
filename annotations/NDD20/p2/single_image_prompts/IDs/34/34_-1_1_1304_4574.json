@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a moderately concave curvature from the posterior base leading toward the apex.",
+    "apex_bounding_geometry": "Rounded shape classification with a wide pixel radius at the fin's highest morphological point.",
+    "leading_edge_angle": "Steep positive slope approximately 55 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximate 1.7:1 ratio of maximum base width to maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth, broad convexity visible on the anterior-dorsal boundary of the cranium.",
+    "rostrum_aspect_vector": "Relatively short and robust rostrum extending from the melon inflection point toward the anterior tip.",
+    "cranial_inflection_angle": "Obtuse interior angle measured at the pixel junction where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Prominent, wide-span caudal flukes with a distinct median notch; uniform dark teal-green pigmentation across the entire visible surface."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Strongly falcate with a deep concave spline on the trailing edge extending from the basal insertion to a tapered apex.",
+    "apex_bounding_geometry": "Acute shape classification with a narrow pixel radius, forming a sharp point at the maximum vertical extent.",
+    "leading_edge_angle": "Steep anterior margin with a high angular slope relative to the horizontal dorsal midline.",
+    "pixel_aspect_ratio": "High aspect ratio where vertical pixel height significantly exceeds the longitudinal base width."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Moderate convex curvature with a smooth, elongated radius descending toward the snout.",
+    "rostrum_aspect_vector": "Visible short, thick beak with a low length-to-thickness ratio extending forward from the melon.",
+    "cranial_inflection_angle": "Defined obtuse angle at the pixel junction where the melon's descent meets the horizontal plane of the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Small circular white lesion or pitting visible on the mid-lateral flank below the dorsal fin; small notch visible on the distal margin of the left fluke.",
+  "other_distinctive_markers": "Uniform cyan-toned pixel saturation across the entire body silhouette."
+}

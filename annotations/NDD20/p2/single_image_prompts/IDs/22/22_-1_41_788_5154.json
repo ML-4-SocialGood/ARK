@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trajectory with zero curvature; trailing edge follows a straight pixel path from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a near-zero pixel radius at the vertex.",
+    "leading_edge_angle": "Approximately 65 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.05:1 base width to vertical height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-poly 3D mesh topology with visible flat-shaded facets and a uniform cyan-to-teal emission texture."
+}

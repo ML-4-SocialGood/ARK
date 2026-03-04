@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature; trailing edge consists of a single straight pixel segment from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute vertex; the highest morphological point is a sharp intersection of two straight edges with a near-zero pixel radius.",
+    "leading_edge_angle": "High steepness; approximately 70-80 degrees relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Approximately 0.65; base width is significantly narrower than the total vertical height of the fin segment."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "null",
+    "rostrum_aspect_vector": "Short and acutely pointed; width at the base is roughly equivalent to the extension length from the cranial inflection point.",
+    "cranial_inflection_angle": "Obtuse; a sharp angular transition is visible where the downward-sloping flat plane of the head meets the upper surface of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon 3D digital model characterized by flat-shaded cyan polygonal faces and a lack of organic texture or anatomical detail."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Slightly concave spline along the trailing edge, transitioning from a broad base to a rounded apex.",
+    "apex_bounding_geometry": "Rounded morphology with a broad pixel radius, classified as obtuse.",
+    "leading_edge_angle": "Approximately 45-degree posterior inclination relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Approximate 1.5:1 ratio of maximum base width to vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth, wide-radius convex arc extending from the dorsal-cranial region to the rostrum base.",
+    "rostrum_aspect_vector": "Short, robust pixel length with a high thickness-to-length ratio extending from the melon inflection point.",
+    "cranial_inflection_angle": "Distinct obtuse interior angle where the melon slope meets the dorsal surface of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform teal/cyan monochromatic saturation across all visible epidermal pixel coordinates."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge is a straight line segment with no measurable curvature, forming a strictly linear boundary from apex to ridge.",
+    "apex_bounding_geometry": "Acute vertex with a sharp corner, possessing no measurable pixel radius.",
+    "leading_edge_angle": "Approximately 45 to 50 degrees relative to the longitudinal axis of the dorsal ridge.",
+    "pixel_aspect_ratio": "Approximately 1:1.1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a low-polygon 3D model with a uniform cyan texture and lack of biological surface detail."
+}

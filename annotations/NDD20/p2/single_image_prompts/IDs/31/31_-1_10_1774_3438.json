@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a smooth convex spline with no distinct falcation or concave curvature.",
+    "apex_bounding_geometry": "Rounded apex with an obtuse radius and no sharp vertex.",
+    "leading_edge_angle": "Approximately 45-degree linear slope relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Base width is roughly equivalent to the vertical height, approximately 1:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Shallow convexity with a large radius, transitioning smoothly into the dorsal plane.",
+    "rostrum_aspect_vector": "Short, blunt projection with high thickness-to-length ratio.",
+    "cranial_inflection_angle": "Highly obtuse angle, approximately 160 degrees, providing minimal separation between melon and rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject exhibits a uniform monochromatic cyan texture consistent with a low-resolution digital rendering rather than organic material."
+}

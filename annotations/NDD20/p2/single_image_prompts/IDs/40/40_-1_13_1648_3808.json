@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge forming a smooth inward-curving spline from the posterior dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Bluntly rounded apex characterized by an obtuse pixel curvature.",
+    "leading_edge_angle": "Moderate diagonal incline relative to the longitudinal axis of the dorsal surface.",
+    "pixel_aspect_ratio": "The horizontal pixel width at the base is approximately 1.5 times the maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Uniform convex arc defining the anterior-dorsal cranial boundary.",
+    "rostrum_aspect_vector": "Short, tapered protrusion extending from the melon; the visible length is approximately twice its base thickness.",
+    "cranial_inflection_angle": "Distinct obtuse angle where the melon curvature transitions into the dorsal bridge of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform monochromatic cyan surface coloration with faceted shading indicative of a digital 3D model rather than biological tissue."
+}

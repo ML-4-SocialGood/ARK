@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Moderate concave curvature along the trailing edge, forming a smooth spline from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Rounded apex with a broad pixel radius, classified as obtuse.",
+    "leading_edge_angle": "Posteriorly slanted at approximately a 45-degree angle relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "The base of the fin is approximately 1.6 times the vertical height from the dorsal midline."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex curvature with a medium pixel radius creating a prominent, bulbous melon profile.",
+    "rostrum_aspect_vector": "Short, robust rostrum with a thick pixel width relative to length, extending anteriorly from the melon.",
+    "cranial_inflection_angle": "Obtuse interior angle at the pixel coordinate where the descending melon slope meets the horizontal rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform luminescent cyan coloration across the entire visible integument, masking standard pigmentation patterns."
+}

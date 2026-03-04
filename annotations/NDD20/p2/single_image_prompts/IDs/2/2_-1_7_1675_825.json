@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave spline fitting the trailing edge from the posterior insertion point to the apex, exhibiting a progressive inward curve.",
+    "apex_bounding_geometry": "Rounded apex with a wide pixel radius at the maximum vertical height.",
+    "leading_edge_angle": "Linear anterior margin rising at approximately a 45-degree angle relative to the horizontal baseline.",
+    "pixel_aspect_ratio": "Ratio of approximately 2:1 for maximum horizontal base width relative to maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

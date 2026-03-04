@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a slightly concave spline curvature from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "The highest morphological point has a minimal pixel radius and is classified as acute.",
+    "leading_edge_angle": "The anterior margin contour has a steep angular steepness of approximately 80 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "The ratio of maximum pixel base width to maximum vertical pixel height is approximately 0.45:1, indicating a narrow profile."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon arc displays a clear structural convexity with a moderate radius fitted to the anterior-dorsal cranial boundary.",
+    "rostrum_aspect_vector": "The visible beak extends with a short proportional pixel length and a thick base, yielding an approximate 1:1 length-to-thickness ratio.",
+    "cranial_inflection_angle": "The interior angle at the transition from the melon slope to the rostrum is obtuse, measured at approximately 140 degrees."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon 3D mesh rendering with a monochromatic cyan/teal surface color and no biological texture."
+}

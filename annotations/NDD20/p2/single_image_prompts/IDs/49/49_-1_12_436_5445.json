@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge is a perfectly linear diagonal line with zero curvature; non-falcate spline fitting.",
+    "apex_bounding_geometry": "Acute geometric vertex with a sharp, non-rounded morphological point.",
+    "leading_edge_angle": "Approximately 70 degrees relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Estimated 1.1:1 ratio of maximum base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Short, blocky rectangular protrusion with thick vertical dimension.",
+    "cranial_inflection_angle": "Distinct obtuse angle where the linear forehead slope meets the dorsal rostrum boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon geometric model with faceted edges and a non-biological cyan-blue gradient texture."
+}

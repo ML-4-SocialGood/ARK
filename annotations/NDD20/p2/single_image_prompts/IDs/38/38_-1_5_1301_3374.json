@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "High-degree concavity on the trailing edge, exhibiting a steep negative spline gradient from the apex toward the posterior base.",
+    "apex_bounding_geometry": "Acute shape classification with minimal pixel radius at the maximum vertical extremity.",
+    "leading_edge_angle": "Steep positive slope estimated at approximately 60 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Estimated 1.1:1 ratio of maximum base width to vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Uniformly convex arc describing the anterior-dorsal cranial boundary.",
+    "rostrum_aspect_vector": "Short, robust aspect ratio with limited anterior extension from the cranial inflection point.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the junction of the melon and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

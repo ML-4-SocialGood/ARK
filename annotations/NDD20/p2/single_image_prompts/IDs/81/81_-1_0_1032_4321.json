@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a slight concave curvature (falcate) along a smooth spline from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius resulting in a sharp terminal point.",
+    "leading_edge_angle": "Steep positive slope approximately 60 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio is approximately 1.2:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large, smooth convex curve visible on the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a stylized digital 3D rendering with a uniform cyan color and synthetic specular highlights."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a near-linear spline with minimal concave curvature, resulting in a strictly triangular profile.",
+    "apex_bounding_geometry": "Acute termination with a minimal pixel radius, forming a sharp point at the highest morphological point.",
+    "leading_edge_angle": "Steep anterior margin approximately 65 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Low-resolution convex arc with a wide radius, transitioning smoothly from the blowhole region.",
+    "rostrum_aspect_vector": "Short, robust beak with a low length-to-thickness ratio as measured from the melon inflection.",
+    "cranial_inflection_angle": "Obtuse interior angle approximately 155 degrees at the specific coordinate where the melon slope transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-polygon surface geometry with stylized cyan coloration and simplified specular highlights, characteristic of a digital model."
+}

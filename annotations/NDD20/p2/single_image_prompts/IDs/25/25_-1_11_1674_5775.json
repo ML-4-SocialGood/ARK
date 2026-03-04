@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is a near-linear diagonal segment with zero curvature, characteristic of a low-polygon 3D mesh.",
+    "apex_bounding_geometry": "Flat horizontal segment with zero pixel radius; shape is classified as obtuse/rectangular.",
+    "leading_edge_angle": "Steep diagonal slope, measured at approximately 65 degrees relative to the horizontal dorsal midline.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio between the visible base width and vertical height from the dorsal ridge."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Coarse convexity defined by three distinct planar facets; non-smooth geometric arc.",
+    "rostrum_aspect_vector": "Short, blunt beak extension; proportional length is roughly 0.5 times the vertical height of the melon segment.",
+    "cranial_inflection_angle": "Visible pixel-junction transition with a measurable interior angle of approximately 135 degrees."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-fidelity 3D model geometry with a uniform cyan emissive texture and visible polygonal wireframe edges."
+}

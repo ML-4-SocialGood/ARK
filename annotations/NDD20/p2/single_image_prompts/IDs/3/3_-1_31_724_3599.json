@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": null,
+    "leading_edge_angle": null,
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth convex arc with a consistent pixel curvature defining the anterior-most dorsal cranial boundary.",
+    "rostrum_aspect_vector": "Short, tapered protrusion at the distal end of the cranial arc, showing a blunt triangular pixel geometry.",
+    "cranial_inflection_angle": "Shallow obtuse indentation visible at the pixel junction where the melon slope transitions to the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject possesses a uniform, high-luminance cyan coloration with a digital, low-poly-style texture and lacks organic biological markers."
+}

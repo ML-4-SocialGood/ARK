@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Zero-curvature trailing edge; the boundary is a single linear polygon segment.",
+    "apex_bounding_geometry": "Acute angular vertex; sharp geometric point with no measurable radius.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Approximately 1.4:1 ratio of longitudinal base width to maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a low-polygon 3D asset with a uniform cyan-teal emissive texture and faceted surface topology."
+}

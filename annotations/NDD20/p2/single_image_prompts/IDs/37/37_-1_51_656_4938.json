@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Moderately concave trailing edge curvature following a smooth spline from the posterior base to the apex.",
+    "apex_bounding_geometry": "Acute vertex with a minimal pixel radius, resulting in a pointed morphological tip.",
+    "leading_edge_angle": "Approximately 40-45 degree incline relative to the longitudinal dorsal ridge.",
+    "pixel_aspect_ratio": "Approximately 1.6:1 ratio of horizontal pixel base width to maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Gradual convex curve with a large radius, showing a smooth transition from the blowhole region toward the rostrum.",
+    "rostrum_aspect_vector": "Short, robust rostrum with a thick pixel width relative to its visible longitudinal extension.",
+    "cranial_inflection_angle": "Obtuse interior angle at the pixel junction where the melon slope meets the dorsal plane of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits a non-biological cyan-to-white luminance gradient and low-polygon surface rendering consistent with a synthetic digital model."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge characterized by a deep, irregular V-shaped notch at mid-height, with a concave pixel boundary below and a recurved convex spline leading to the apex.",
+    "apex_bounding_geometry": "Rounded apex with a small posterior-leaning hook; shape is obtuse with a pixel radius of approximately 15 pixels at the tip.",
+    "leading_edge_angle": "Continuous convex curvature with an average slope of 42 degrees relative to the horizontal dorsal ridge axis.",
+    "pixel_aspect_ratio": "The ratio of maximum pixel base width to maximum vertical pixel height is approximately 2.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "Visible trauma in the form of a prominent jagged notch on the trailing edge; high-density distribution of white punctate scars and depigmented circular marks across the lateral surface of the fin and dorsal back.",
+  "other_distinctive_markers": "Elongated, shallow-sloping dorsal ridge preceding the anterior insertion of the dorsal fin."
+}

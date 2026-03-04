@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is linear with zero curvature, consistent with a low-polygon geometric edge; no falcation is present.",
+    "apex_bounding_geometry": "Acute vertex with a pixel radius approaching zero; classified as a sharp geometric point.",
+    "leading_edge_angle": "Steep incline approximately 75 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximate ratio of 0.75 pixel base width to 1.0 maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Structural convexity is minimal; the melon presents as a flat polygonal facet rather than a rounded arc.",
+    "rostrum_aspect_vector": "Short, thick projection with a length-to-thickness ratio of approximately 1:1 extending from the cranial base.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 140 degrees at the junction of the melon and rostrum facets."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Synthetic cyan monochromatic luminescence and visible low-poly mesh surface topology."
+}

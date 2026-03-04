@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave curvature on the trailing edge forming a smooth spline from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Rounded apex with a moderate pixel radius.",
+    "leading_edge_angle": "Approximately 45-degree incline relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio of approximately 1.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex arc with a consistent radius across the anterior-dorsal cranial region.",
+    "rostrum_aspect_vector": "Proportionally short and thick beak visible anterior to the melon inflection point.",
+    "cranial_inflection_angle": "Distinct obtuse angle where the melon slope transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan-green luminescent glow across the entire visible surface of the specimen, obscuring standard dermal pigmentation patterns."
+}

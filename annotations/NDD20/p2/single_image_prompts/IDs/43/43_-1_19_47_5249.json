@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Moderate concave curvature on the trailing edge spline between the apex and the posterior base.",
+    "apex_bounding_geometry": "Rounded apex with an obtuse morphological profile.",
+    "leading_edge_angle": "Approximately 50-degree anterior margin steepness relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.3:1 ratio of maximum base width to maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Shallow convex arc fitted to the anterior-dorsal cranial boundary.",
+    "rostrum_aspect_vector": "Short, blunt rostrum with high thickness-to-length ratio extending from the melon.",
+    "cranial_inflection_angle": "Obtuse interior angle at the pixel coordinate where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

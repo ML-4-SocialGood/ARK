@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Smoothly concave trailing edge spline extending from the dorsal insertion to the pointed apex.",
+    "apex_bounding_geometry": "Acute angular point with a minimal pixel radius curvature.",
+    "leading_edge_angle": "Approximately 55-degree incline relative to the horizontal longitudinal axis of the torso.",
+    "pixel_aspect_ratio": "Estimated 1.2:1 ratio of maximum base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Uniformly convex curvature of the frontal cephalic region.",
+    "rostrum_aspect_vector": "Short, blunt horizontal extension with a high thickness-to-length ratio.",
+    "cranial_inflection_angle": "Visible indentation forming a clear obtuse junction between the melon and the beak."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

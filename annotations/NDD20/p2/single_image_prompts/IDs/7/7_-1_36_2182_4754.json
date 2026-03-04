@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge displays a concave spline with significant curvature at the basal insertion point, transitioning to a near-linear trajectory toward the apex.",
+    "apex_bounding_geometry": "Acute vertex with minimal pixel radius, forming a sharp point.",
+    "leading_edge_angle": "Approximately 32 degrees relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Approximately 1.8:1 ratio of maximum base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius convexity providing a shallow, continuous slope toward the anterior tip.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "Punctate white pixel clusters are visible along the dorsal ridge anterior to the fin; a singular linear high-contrast white mark is present on the lower posterior flank.",
+  "other_distinctive_markers": "Distinct polygonal aliasing along the silhouette edges consistent with a low-fidelity digital mesh; luminescent cyan texture map with non-biological light distribution."
+}

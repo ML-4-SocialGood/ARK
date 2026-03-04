@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a concave curvature represented by a spline curve with a distinct posterior recess from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius resulting in a sharply pointed apex.",
+    "leading_edge_angle": "Steep positive gradient of approximately 45 degrees relative to the primary horizontal longitudinal axis of the dorsal ridge.",
+    "pixel_aspect_ratio": "Base-to-height ratio of approximately 1.6:1 based on the visible base intersection with the dorsal surface."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth convex arc with a medium radius, transitioning from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "Short, thick beak profile where the visible length is roughly equal to the vertical thickness at the base.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 145 degrees at the specific coordinate where the melon curvature meets the rostrum ridge."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Monochromatic cyan-green color mapping across the entire pixel surface with high-intensity specular highlights on the mid-dorsal and pectoral regions."
+}

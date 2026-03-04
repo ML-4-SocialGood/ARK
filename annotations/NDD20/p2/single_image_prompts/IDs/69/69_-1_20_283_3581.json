@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": "Acute point with a radius of less than 1 pixel, forming a sharp terminal vertex at the superior-most position.",
+    "leading_edge_angle": null,
+    "pixel_aspect_ratio": "Approximately 1:4 width-to-height ratio for the vertical appendage visible at the top of the frame."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Rounded convex arc forming the upper boundary of the anterior body mass, visible as a distinct pixel curve.",
+    "rostrum_aspect_vector": "Visible as a centrally located, foreshortened pixel cluster with high intensity, indicating a forward-pointing beak.",
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is rendered in a monochromatic cyan palette with a highly pixelated, low-resolution texture, viewed from a frontal perspective."
+}

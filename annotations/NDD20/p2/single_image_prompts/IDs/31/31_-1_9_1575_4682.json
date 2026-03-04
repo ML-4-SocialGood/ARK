@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a piecewise linear concave curvature defined by low-polygon segments, terminating in a sharp perpendicular intersection with the dorsal ridge.",
+    "apex_bounding_geometry": "Acute vertex with minimal pixel radius, forming a sharp point in the mesh geometry.",
+    "leading_edge_angle": "High steepness, approximately 65 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximate 1.1:1 ratio of horizontal base width to vertical apex height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Low-resolution polygonal approximation of a convex curve with a small radius and high curvature.",
+    "rostrum_aspect_vector": "Stunted, blunt protrusion with high thickness-to-length ratio, showing minimal extension from the cranial mass.",
+    "cranial_inflection_angle": "Highly obtuse angle, exceeding 150 degrees, with minimal transition depth between the melon slope and rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a synthetic low-polygon 3D mesh with a uniform cyan self-illuminated shader and visible aliasing on edge boundaries."
+}

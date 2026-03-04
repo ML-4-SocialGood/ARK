@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a linear spline with zero concave curvature from the apex to the posterior insertion point.",
+    "apex_bounding_geometry": "Acute geometric tip with a near-zero pixel radius and sharp vertex classification.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Base-to-height ratio of approximately 1.1:1 based on pixel count."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Shallow convexity with a high-radius curve fitted to the dorsal cranial margin.",
+    "rostrum_aspect_vector": "Short, blunt rostrum with a high thickness-to-length ratio, exhibiting minimal longitudinal extension.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 155 degrees at the melon-rostrum junction."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan bioluminescent appearance with visible polygon-edge aliasing."
+}

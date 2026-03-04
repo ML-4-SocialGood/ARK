@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a pronounced concave curvature, following a deep spline from the dorsal ridge transition to the apex.",
+    "apex_bounding_geometry": "Acute apex with a narrow pixel radius, presenting as a sharp morphological point.",
+    "leading_edge_angle": "Steep anterior margin contour, estimated at a high angle of approximately 65 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "The fin's vertical pixel height is approximately 1.4 times greater than the visible base width along the dorsal ridge."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Melon displays a smooth convex curvature with a moderate radius before transitioning to the rostrum.",
+    "rostrum_aspect_vector": "Visible rostrum with a tapered thickness and a length approximately twice its base width extending from the melon.",
+    "cranial_inflection_angle": "Distinct obtuse interior angle visible at the pixel coordinate where the melon slope meets the rostrum base."
+  },
+  "acquired_anomalies_or_scars": "A distinct circular bright spot is visible on the mid-lateral flank; minor irregular notches are present on the trailing edge of the dorsal fin.",
+  "other_distinctive_markers": null
+}

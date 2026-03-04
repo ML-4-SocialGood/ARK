@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Strongly concave spline along the posterior margin, terminating in an upward-oriented apex.",
+    "apex_bounding_geometry": "Acute shape classification with a narrow pixel radius.",
+    "leading_edge_angle": "Approximately 50-degree inclination relative to the dorsal ridge line.",
+    "pixel_aspect_ratio": "Base-to-height ratio of approximately 1:1.2."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Moderate convexity with a continuous curve from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "Visible short beak with a low length-to-thickness ratio.",
+    "cranial_inflection_angle": "Distinct obtuse angle at the junction of the melon and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits a false-color cyan luminance with non-biological internal gradient variations against a high-contrast black background."
+}

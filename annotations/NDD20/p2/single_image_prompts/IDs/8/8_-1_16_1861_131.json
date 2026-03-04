@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave spline curvature along the trailing edge, exhibiting a pronounced backward-curving sickle shape from the apex to the posterior insertion point.",
+    "apex_bounding_geometry": "Rounded morphological point with a significant pixel radius, classified as obtuse.",
+    "leading_edge_angle": "Linear anterior margin oriented at approximately a 35 to 45-degree angle relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "The dorsal fin exhibits a base-to-height ratio where the horizontal pixel width at the base is greater than the vertical height from base to apex."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "A small, distinct notch is visible on the lower half of the trailing edge of the dorsal fin.",
+  "other_distinctive_markers": "High-intensity specular highlights clustered along the visible mid-to-lower flank region."
+}

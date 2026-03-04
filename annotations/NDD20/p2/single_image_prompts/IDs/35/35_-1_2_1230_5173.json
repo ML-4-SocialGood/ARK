@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Slightly concave trailing edge spline with a smooth taper from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius, resulting in a sharply pointed terminal tip.",
+    "leading_edge_angle": "Steep linear ascent estimated at 55 degrees relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of maximum base width to maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Low-convexity melon arc following a wide-radius curve along the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": "Short, robust rostrum with a low length-to-thickness ratio extending from the inflection point.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 150 degrees where the melon slope transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Faint linear striations and rake-like markings visible on the mid-lateral flank and dorsal surface.",
+  "other_distinctive_markers": "The subject exhibits a uniform cyan-green monochromatic luminance and digital rendering characteristics with semi-translucent pixel regions."
+}

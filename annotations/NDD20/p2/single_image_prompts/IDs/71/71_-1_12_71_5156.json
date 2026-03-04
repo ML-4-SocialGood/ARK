@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature; pixel boundary forms a straight line from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute angular vertex with a radius of zero pixels; characterized by a sharp polygonal point.",
+    "leading_edge_angle": "Steep linear margin oriented at approximately 60 degrees relative to the horizontal longitudinal axis.",
+    "pixel_aspect_ratio": "Maximum base width is approximately 1.3 times the maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Extremely large radius due to planar polygonal facets; the surface exhibits minimal convexity.",
+    "rostrum_aspect_vector": "Short, conical beak with an approximate 1:1 length-to-thickness ratio extending from the cranial inflection point.",
+    "cranial_inflection_angle": "Measured interior angle of approximately 150 degrees where the melon facet transitions into the rostrum facet."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon synthetic 3D model featuring a self-illuminated cyan texture and visible faceted geometry."
+}

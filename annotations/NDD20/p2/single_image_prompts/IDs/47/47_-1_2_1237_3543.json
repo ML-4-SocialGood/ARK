@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge curvature exhibiting a smooth falcate spline from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Rounded morphology at the highest morphological point.",
+    "leading_edge_angle": "Approximately 135-degree interior angle relative to the anterior dorsal line.",
+    "pixel_aspect_ratio": "Approximately 1.5:1 ratio of maximum base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex curve with a large radius defining the forehead region.",
+    "rostrum_aspect_vector": "Short and thick rostrum with a low length-to-width ratio.",
+    "cranial_inflection_angle": "Obtuse angle visible at the transition point between the melon and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan coloration and low-poly geometric edges characteristic of a digital 3D model."
+}

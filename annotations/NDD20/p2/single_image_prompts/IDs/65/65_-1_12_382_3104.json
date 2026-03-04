@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Strong concave curvature along the posterior margin fitting a deep spline from the dorsal ridge to the terminal apex.",
+    "apex_bounding_geometry": "Small pixel radius classified as rounded at the terminal dorsal point.",
+    "leading_edge_angle": "Steep linear incline measured at approximately 55 degrees relative to the horizontal longitudinal axis.",
+    "pixel_aspect_ratio": "Approximate 1.4:1 ratio comparing the longitudinal base width to the maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Shallow convex curve visible along the dorsal cranial boundary.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible posterior fluke segments extending from the peduncle at the right image boundary."
+}

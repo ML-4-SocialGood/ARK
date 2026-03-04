@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge consists of a straight linear segment with a sharp rectangular excision or notch at the superior margin.",
+    "apex_bounding_geometry": "Acute vertex with near-zero pixel radius, consistent with low-polygon mesh geometry.",
+    "leading_edge_angle": "Approximately 58 degrees relative to the dorsal longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.25:1 base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Shallow, segmented convexity composed of discrete planar surfaces.",
+    "rostrum_aspect_vector": "Short, conical projection with a length roughly equivalent to 1/5th of the total cranial height.",
+    "cranial_inflection_angle": "Approximately 142 degrees at the pixel transition from melon to rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The object is a low-fidelity 3D digital model characterized by visible polygonal faceting and a non-biological cyan luminescent texture."
+}

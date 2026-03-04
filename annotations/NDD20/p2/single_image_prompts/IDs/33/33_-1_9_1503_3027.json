@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Deeply concave trailing edge showing a non-linear curvature from the posterior insertion to the sub-apex region.",
+    "apex_bounding_geometry": "Acute point with a narrow pixel radius at the terminal morphological peak.",
+    "leading_edge_angle": "Steep linear incline at approximately 60 degrees relative to the anterior dorsal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.2:1 ratio of horizontal base chord length to vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad, smooth convex arc originating from the blowhole region and terminating at the rostral crease.",
+    "rostrum_aspect_vector": "Visible beak with a high thickness-to-length ratio, showing robust pixel density at the base.",
+    "cranial_inflection_angle": "Distinct obtuse angle where the descending slope of the melon meets the horizontal projection of the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Significant white depigmentation or scar tissue on the anterior margin and apex of the dorsal fin; faint linear rake marks visible on the mid-lateral flank.",
+  "other_distinctive_markers": null
+}

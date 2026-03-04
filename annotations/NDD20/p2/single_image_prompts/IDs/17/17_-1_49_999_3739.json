@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Smooth concave spline fitting the trailing edge from the posterior base to the apex.",
+    "apex_bounding_geometry": "Bluntly rounded apex with a wide pixel radius.",
+    "leading_edge_angle": "Rising at an approximate 35-degree angle relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Base-to-height ratio of approximately 1.8:1 based on visible pixel boundaries."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large-radius convex curve forming a smooth transition from the blowhole area to the rostrum.",
+    "rostrum_aspect_vector": "Short, tapered rostrum with a thick base and minimal horizontal extension.",
+    "cranial_inflection_angle": "Wide obtuse angle where the melon slope meets the dorsal rostrum line."
+  },
+  "acquired_anomalies_or_scars": "Multiple pale linear striations on the mid-dorsal surface; small dark cutaneous spots near the ocular and blowhole regions.",
+  "other_distinctive_markers": "Pronounced dark ocular patch and a distinct teal/green iridescent surface reflectance."
+}

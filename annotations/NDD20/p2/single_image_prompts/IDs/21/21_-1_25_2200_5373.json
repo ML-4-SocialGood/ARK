@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge exhibiting zero curvature, consistent with low-polygon geometric construction.",
+    "apex_bounding_geometry": "Acute vertex with a zero-pixel radius, forming a sharp geometric point.",
+    "leading_edge_angle": "Linear diagonal incline at approximately 45 degrees relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Approximately 1.4:1 ratio of maximum base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex faceted arc defined by discrete polygonal segments rather than a continuous curve.",
+    "rostrum_aspect_vector": "Short, tapered beak with a length approximately equal to its base thickness at the inflection point.",
+    "cranial_inflection_angle": "Distinct obtuse vertex angle of approximately 135 degrees where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-polygon faceted mesh topology and emissive green-to-white spectral texture map."
+}

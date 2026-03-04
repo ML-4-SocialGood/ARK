@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Strongly concave curvature on the trailing edge spline, tapering significantly from the apex to the posterior insertion point.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius, resulting in a sharply pointed morphological peak.",
+    "leading_edge_angle": "High angular steepness, approximately 60 degrees relative to the dorsal longitudinal axis.",
+    "pixel_aspect_ratio": "High vertical ratio, where height exceeds the basal pixel width."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad convex curvature of the melon area, though boundaries are partially obscured by high-luminance highlights.",
+    "rostrum_aspect_vector": "Foreshortened pixel length with high relative thickness due to the frontal orientation of the subject.",
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan-green monochromatic luminance profile and artificial high-contrast shading suggestive of a rendered or filtered digital representation."
+}

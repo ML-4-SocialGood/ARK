@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Moderate concave curvature along the posterior margin extending from the apex to the basal insertion point.",
+    "apex_bounding_geometry": "Rounded apex classification with a smooth, continuous curvature transition between the leading and trailing edges.",
+    "leading_edge_angle": "Approximately 45-degree linear incline relative to the longitudinal axis of the dorsal ridge.",
+    "pixel_aspect_ratio": "Maximum vertical height is approximately 60 to 70 percent of the total visible basal width."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Shallow, large-radius convex arc forming a low-profile melon structure.",
+    "rostrum_aspect_vector": "Short and thick beak profile with minimal horizontal extension beyond the primary cranial mass.",
+    "cranial_inflection_angle": "Highly obtuse and subtle transition angle at the pixel coordinate where the melon slope meets the rostrum's dorsal surface."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

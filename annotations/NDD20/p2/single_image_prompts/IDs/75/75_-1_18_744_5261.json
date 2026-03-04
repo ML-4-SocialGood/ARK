@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is a perfectly linear polygonal segment with zero curvature",
+    "apex_bounding_geometry": "Acute vertex with a pixel radius of zero",
+    "leading_edge_angle": "Approximately 72 degrees relative to the horizontal body axis",
+    "pixel_aspect_ratio": "Approximately 1.9:1 vertical height to base width"
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Short, block-shaped protrusion with high pixel thickness and low longitudinal extension",
+    "cranial_inflection_angle": "Approximately 125 degrees at the discrete polygonal junction between the cranial plane and rostrum"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a stylized low-polygon 3D mesh reconstruction rendered with a monochromatic green luminous texture and transparency"
+}

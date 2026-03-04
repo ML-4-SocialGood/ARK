@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge displays a near-linear spline with minimal concavity near the dorsal insertion point.",
+    "apex_bounding_geometry": "Acute apex with a sharp triangular termination and minimal pixel radius.",
+    "leading_edge_angle": "High angular steepness, approximately 75 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Narrow aspect ratio where the vertical pixel height is approximately 2.5 times the base width."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Highly convex, smooth hemispherical arc forming a prominent bulbous forehead.",
+    "rostrum_aspect_vector": "Short, stubby projection with a pixel length roughly 20% of the visible melon width.",
+    "cranial_inflection_angle": "Defined obtuse interior angle of approximately 135 degrees where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits a translucent, cyan-colored digital appearance with specular light scattering, indicating a non-biological rendering."
+}

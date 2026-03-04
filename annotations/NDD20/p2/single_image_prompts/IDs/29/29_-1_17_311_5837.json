@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge consists of two discrete linear polygon segments meeting at an obtuse angle, resulting in zero curvature/spline fit.",
+    "apex_bounding_geometry": "The highest point is a flat, horizontal line segment (blunt/rectangular) rather than a radius-based curve.",
+    "leading_edge_angle": "Approximately 45 degrees relative to the dorsal longitudinal axis.",
+    "pixel_aspect_ratio": "1.2:1"
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Faceted arc composed of three visible flat planes forming a low-resolution curve.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon digital 3D model with uniform cyan vertex shading and visible geometric faceting."
+}

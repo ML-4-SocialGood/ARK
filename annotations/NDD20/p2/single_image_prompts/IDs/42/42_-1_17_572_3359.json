@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Slightly concave trailing edge with a distinct vertex inflection point located near the posterior base.",
+    "apex_bounding_geometry": "Acute triangular apex with a sharp vertex and negligible pixel radius.",
+    "leading_edge_angle": "Steep anterior margin measured at approximately 55 degrees relative to the longitudinal dorsal axis.",
+    "pixel_aspect_ratio": "Approximately 0.85 vertical height to 1.0 base width ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex polygonal arc with a medium radius forming the frontal cranial bulge.",
+    "rostrum_aspect_vector": "Short, blunt rostrum with a high thickness-to-length ratio visible at the anterior-right orientation.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 150 degrees where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits low-polygon 3D mesh characteristics, including visible flat-shaded facets and sharp, non-organic vertex edges on all extremities."
+}

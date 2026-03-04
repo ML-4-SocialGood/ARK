@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a deep concave curvature following a smooth spline from the apex to the posterior insertion point.",
+    "apex_bounding_geometry": "The apex is classified as rounded with a wide pixel radius relative to the vertical extent of the fin.",
+    "leading_edge_angle": "The anterior margin shows a steep posterior incline at approximately 55 degrees relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "The ratio of the maximum pixel base width to the maximum vertical height is approximately 1.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon displays a flattened convexity with a large arc radius, transitioning gradually toward the anterior point.",
+    "rostrum_aspect_vector": "The rostrum is short and blunt with a high thickness-to-length ratio, showing minimal extension from the melon inflection point.",
+    "cranial_inflection_angle": "The transition from the melon to the rostrum occurs at a highly obtuse angle of approximately 165 degrees."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The object exhibits distinct low-polygon geometric facets along the perimeter and body contours, characteristic of a digital mesh."
+}

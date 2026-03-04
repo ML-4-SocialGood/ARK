@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a concave curvature (falcate) from the apex down to the dorsal ridge.",
+    "apex_bounding_geometry": "Acute shape classification with a sharp pixel radius at the terminal tip.",
+    "leading_edge_angle": "The anterior margin contour presents a steep slope of approximately 50 degrees relative to the dorsal axis.",
+    "pixel_aspect_ratio": "The fin base width is approximately 1.2 times the vertical height from base to apex."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "A broad, large-radius convex curve is visible forming a prominent bulbous melon.",
+    "rostrum_aspect_vector": "Short, tapered rostrum extending from the melon inflection with a high thickness-to-length ratio.",
+    "cranial_inflection_angle": "An obtuse interior angle of approximately 145 degrees where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": "A distinct, light-colored circular patch is visible on the dorsal-anterior surface of the melon.",
+  "other_distinctive_markers": "The subject displays a translucent cyan-colored morphology with visible internal luminance and low-polygon edge artifacts consistent with a digital render rather than organic tissue."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge exhibiting a smooth inward-sweeping arc from the posterior dorsal insertion to the apex.",
+    "apex_bounding_geometry": "The apex is characterized by a small pixel radius and is classified as a rounded-acute tip.",
+    "leading_edge_angle": "Approximate 40-degree angular steepness relative to the horizontal dorsal midline.",
+    "pixel_aspect_ratio": "Max base width to max vertical height ratio is approximately 1.7:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Prominent, bulbous convex arc with a high radius defining a steep anterior profile.",
+    "rostrum_aspect_vector": "Proportionally short and thick rostrum extending from the melon inflection with a low length-to-girth ratio.",
+    "cranial_inflection_angle": "A distinct obtuse angle is measurable at the pixel junction where the melon’s descending slope meets the rostrum's dorsal surface."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The entity displays a uniform, vibrant neon-green bioluminescent shader with internal luminance gradients and no visible epidermal texture."
+}

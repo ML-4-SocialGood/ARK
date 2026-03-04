@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing margin with zero curvature; trailing edge is a straight diagonal line segment.",
+    "apex_bounding_geometry": "Acute vertex with sharp pixel definition; non-rounded geometric point.",
+    "leading_edge_angle": "Linear anterior margin at approximately a 55-degree angle relative to the dorsal spine.",
+    "pixel_aspect_ratio": "Approximately 1.0:1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Short, tapered polygonal projection with high thickness-to-length ratio.",
+    "cranial_inflection_angle": "Sharp obtuse angle where the flat cranial facet meets the rostrum facet."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-poly 3D mesh structure with monochromatic cyan emission and faceted surfaces."
+}

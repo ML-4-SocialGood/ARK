@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Simple concave curvature on the trailing edge margin extending from the posterior insertion point to the apex, characteristic of a low-polygon mesh.",
+    "apex_bounding_geometry": "Acute vertex with a 0-pixel radius due to polygonal geometry.",
+    "leading_edge_angle": "Approximately 45-degree posterior slant relative to the horizontal dorsal midline.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio between the horizontal base width and vertical height from base to apex."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad convex curvature defined by low-resolution polygonal segments on the dorsal-anterior cranial surface.",
+    "rostrum_aspect_vector": "Short, tapered projection with a length-to-thickness ratio of approximately 1:1.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 145 degrees at the pixel transition from the melon to the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject exhibits low-polygon 3D computer-generated geometry and a uniform cyan-to-white gradient emissive texture."
+}

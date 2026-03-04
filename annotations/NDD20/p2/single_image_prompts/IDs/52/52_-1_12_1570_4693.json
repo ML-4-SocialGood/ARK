@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Moderate concave curvature along the posterior edge from the base to the tip.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius.",
+    "leading_edge_angle": "Steep linear ascent at approximately 55 degrees relative to the dorsal body axis.",
+    "pixel_aspect_ratio": "Approximately 1:1 ratio between the dorsal base width and vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smoothly rounded convex arc transition between the dorsal ridge and the rostrum.",
+    "rostrum_aspect_vector": "Short, thick beak protrusion with a low length-to-width pixel ratio.",
+    "cranial_inflection_angle": "Obtuse interior angle at the transition point between the melon slope and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject consists of a low-polygon 3D mesh with a uniform cyan-luminescent surface texture."
+}

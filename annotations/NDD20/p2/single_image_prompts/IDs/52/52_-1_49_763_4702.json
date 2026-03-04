@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a slightly concave spline curvature from the base to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius resulting in a sharp point.",
+    "leading_edge_angle": "Anterior margin is oriented at approximately 75 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 0.58 base-width to vertical-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Moderate convex curvature observed at the anatomical anterior boundary.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan emissive coloration and low-polygon digital mesh structure."
+}

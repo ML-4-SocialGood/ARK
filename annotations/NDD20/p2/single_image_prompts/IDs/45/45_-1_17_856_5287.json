@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Deep concave trailing edge curvature between the dorsal ridge and apex, characteristic of a high falcation coefficient.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius resulting in a sharp, non-rounded point.",
+    "leading_edge_angle": "Approximately 50-degree steepness relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Base-to-height ratio of approximately 1.15:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius curve showing very low structural convexity, resulting in a nearly flat transition to the rostrum.",
+    "rostrum_aspect_vector": "Short, tapered beak with high proportional thickness relative to the visible pixel length.",
+    "cranial_inflection_angle": "Highly obtuse measurable angle of approximately 170 degrees at the melon-rostrum junction."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Translucent cyan-teal digital material with internal volumetric glow; stylized low-poly mesh geometry."
+}

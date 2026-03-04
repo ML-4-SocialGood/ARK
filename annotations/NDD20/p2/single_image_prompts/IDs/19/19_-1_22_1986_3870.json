@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a concave curvature following a simple spline with visible low-polygon discretization.",
+    "apex_bounding_geometry": "Acute shape classification with a pixel radius of approximately 1-2 pixels at the vertex.",
+    "leading_edge_angle": "Approximately 45 degrees relative to the primary longitudinal axis of the dorsal ridge.",
+    "pixel_aspect_ratio": "Approximate 1:1 ratio of the maximum vertical pixel height to the maximum horizontal base width."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Low structural convexity; the contour follows a near-linear diagonal taper with a very large arc radius.",
+    "rostrum_aspect_vector": "Short, conical projection with a length-to-base-thickness ratio of approximately 1:1.",
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a non-biological synthetic 3D model with a uniform emissive cyan-green gradient texture and low-polygon mesh geometry."
+}

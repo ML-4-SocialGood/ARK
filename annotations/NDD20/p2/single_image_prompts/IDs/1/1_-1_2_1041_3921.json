@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave curvature along the trailing edge, exhibiting a deepening spline curve toward the mid-point before tapering to the apex.",
+    "apex_bounding_geometry": "Acute vertex with a very small curvature radius, appearing pointed at the highest morphological point.",
+    "leading_edge_angle": "Steep upward slope measured at approximately 55-60 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "The fin base width is approximately 0.8 times the vertical height from base to apex."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth convex curve with a large radius extending from the dorsal cranium to the rostrum base.",
+    "rostrum_aspect_vector": "Short, stout rostral projection with a length-to-thickness ratio of approximately 1:1 visible from this angle.",
+    "cranial_inflection_angle": "Obtuse transition angle of approximately 140 degrees between the melon and the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Several circular pale patches visible on the lateral skin, specifically one prominent mark posterior to the dorsal fin and another mid-body.",
+  "other_distinctive_markers": "Distinctive counter-shading boundary between the dark dorsal and light ventral regions."
+}

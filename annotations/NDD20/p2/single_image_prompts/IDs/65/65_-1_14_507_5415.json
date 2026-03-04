@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a distinct concave curvature with a spline-fit showing high falcation towards the posterior base.",
+    "apex_bounding_geometry": "Acute shape classification with a narrow pixel radius at the terminal tip.",
+    "leading_edge_angle": "Approximately 45-degree angular steepness relative to the horizontal dorsal ridge line.",
+    "pixel_aspect_ratio": "Maximum base width to vertical height ratio is approximately 1.2:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius curve with minimal convexity due to low-polygon geometric representation.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-poly 3D mesh structure with artificial teal-colored light emission or specular highlights along the dorsal and lateral pixel regions."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge curvature exhibiting a falcate profile from the posterior base to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a sharp terminal pixel radius.",
+    "leading_edge_angle": "Approximate 45-degree positive slope relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Ratio of approximately 1.1:1 maximum base width to maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Gradual convex curve along the anterior-dorsal boundary of the cranium.",
+    "rostrum_aspect_vector": "Short, thick beak extending from the melon inflection point with low length-to-thickness ratio.",
+    "cranial_inflection_angle": "Visible obtuse angle at the transition point between the melon and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform monochromatic cyan color profile across the entire visible surface."
+}

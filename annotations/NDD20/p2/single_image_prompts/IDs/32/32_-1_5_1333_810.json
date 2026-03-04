@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a deep concave curvature (falcate) characterized by a smooth spline that originates at the posterior dorsal ridge and sweeps inward toward the apex.",
+    "apex_bounding_geometry": "Rounded morphology with a broad pixel radius at the highest point of the fin.",
+    "leading_edge_angle": "High steepness on the anterior margin, transitioning from a shallow angle at the base to a near-vertical rise before curving back toward the apex.",
+    "pixel_aspect_ratio": "The visible fin base width is approximately 1.4 times greater than the maximum vertical pixel height measured from the dorsal ridge."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "A series of at least four parallel linear rake marks are visible on the lower right lateral surface of the body. Several small, irregular notches are present on the lower portion of the trailing edge.",
+  "other_distinctive_markers": "A distinct dark pigmentation patch is visible on the anterior base of the fin, contrasted against a lighter grey-white region extending posteriorly."
+}

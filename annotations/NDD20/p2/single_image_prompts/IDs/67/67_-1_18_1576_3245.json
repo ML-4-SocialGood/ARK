@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Smoothly concave trailing edge following a continuous spline curve from the posterior base to the terminal apex.",
+    "apex_bounding_geometry": "Acute-rounded shape with a minimal pixel radius at the highest morphological point.",
+    "leading_edge_angle": "Steep linear incline, approximately 70 degrees relative to the visible dorsal ridge line.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of the visible base width to the maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex semi-circular arc visible on the dorsal-cranial surface, though precise measurement is constrained by the oblique angle.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "A distinct cluster of dark, punctate markings or pigmented lesions is visible on the upper mid-flank, posterior to the cranial region.",
+  "other_distinctive_markers": "Pronounced cyan-hued bioluminescent-style lighting effect across the dermal surface with high-specularity highlights along the dorsal and pectoral margins."
+}

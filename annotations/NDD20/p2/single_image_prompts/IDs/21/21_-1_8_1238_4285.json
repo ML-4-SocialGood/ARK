@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a simple concave curvature defined by low-polygon linear segments connecting the apex to the posterior base.",
+    "apex_bounding_geometry": "Acute shape classification with a near-zero pixel radius at the vertex of the polygonal junction.",
+    "leading_edge_angle": "Approximately 45-degree upward slope relative to the dorsal longitudinal axis.",
+    "pixel_aspect_ratio": "Base-to-height ratio is approximately 1.8:1 based on visible pixel dimensions."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius convexity with visible polygonal faceting along the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": "Tapered, short triangular projection with a high width-to-length pixel ratio.",
+    "cranial_inflection_angle": "Shallow obtuse angle at the transition point where the melon slope meets the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible low-polygon mesh topology and artificial cyan luminescence/glow effect suggesting a non-biological digital rendering."
+}

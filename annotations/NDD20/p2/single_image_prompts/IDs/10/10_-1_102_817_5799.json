@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave curvature along the trailing edge, defined by a smooth spline from the posterior insertion point to the apex.",
+    "apex_bounding_geometry": "Rounded tip with a low pixel radius at the highest morphological point.",
+    "leading_edge_angle": "Approximately 60 degrees relative to the local longitudinal axis of the visible body segment.",
+    "pixel_aspect_ratio": "Ratio of maximum vertical height to base width is approximately 1.1:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Stylized, bifurcated caudal flukes with a prominent median notch and jagged trailing edge pixel boundaries."
+}

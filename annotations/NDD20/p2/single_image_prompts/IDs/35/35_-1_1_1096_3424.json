@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Pronounced concave spline on the trailing edge, originating from a wide posterior ridge and tapering to an acute apex.",
+    "apex_bounding_geometry": "Narrowly rounded acute apex with minimal pixel radius.",
+    "leading_edge_angle": "Approximately 35-degree inclination of the convex anterior margin relative to the mid-body horizontal axis.",
+    "pixel_aspect_ratio": "1.3:1 ratio of base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smoothly continuous convex arc with a large radius forming the forehead region.",
+    "rostrum_aspect_vector": "Short, blunt rostrum with a length roughly equal to its basal thickness.",
+    "cranial_inflection_angle": "Clear obtuse angle at the transition point between the melon and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan-green pixel values across the entire silhouette; presence of a wide-span caudal fluke with a deep central notch."
+}

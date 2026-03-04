@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge displays a moderate concave curvature defined by a smooth spline arc from the apex to the posterior base.",
+    "apex_bounding_geometry": "Rounded shape classification with a moderate pixel radius at the maximum vertical extent.",
+    "leading_edge_angle": "Steep linear slope approximately 50 degrees relative to the horizontal dorsal midline.",
+    "pixel_aspect_ratio": "Maximum base width is slightly greater than maximum vertical height, approximately 1.1:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex arc with a large radius extending from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "Short and robust rostrum with a proportional pixel length approximately 1.5 times its thickness at the base.",
+    "cranial_inflection_angle": "Measurable obtuse angle where the melon's distal curvature meets the rostrum's proximal dorsal line."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge is characterized by a linear spline with zero curvature; it is a straight segment from the apex to the posterior base.",
+    "apex_bounding_geometry": "Acute intersection of two linear edges; pixel radius is effectively zero at the point of convergence.",
+    "leading_edge_angle": "Angular steepness is approximately 70 degrees relative to the longitudinal axis of the dorsal boundary.",
+    "pixel_aspect_ratio": "Maximum base width is approximately 1.1 times the vertical height from the base to the apex."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Curvature is represented by a large radius; the melon profile consists of flat polygonal facets rather than a continuous arc.",
+    "rostrum_aspect_vector": "Rostrum is short and triangular with a length approximately 20% of the total cranial width.",
+    "cranial_inflection_angle": "Visible obtuse angle of approximately 150 degrees where the anterior-dorsal slope meets the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The object is a low-poly 3D model with a uniform, emissive cyan coloration and faceted geometric surfaces."
+}

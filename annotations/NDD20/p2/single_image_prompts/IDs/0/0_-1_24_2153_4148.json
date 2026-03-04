@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a moderately concave spline curvature from the posterior dorsal ridge to the distal apex.",
+    "apex_bounding_geometry": "Acute shape classification with a near-zero pixel radius, forming a sharp point.",
+    "leading_edge_angle": "Approximately 65 degrees relative to the horizontal dorsal midline axis.",
+    "pixel_aspect_ratio": "Measured base-to-height ratio of approximately 1.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius convexity, representing a shallow, flattened melon profile.",
+    "rostrum_aspect_vector": "Short, stubby beak with a high thickness-to-length pixel ratio.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 140 degrees at the melon-rostrum junction."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform monochromatic cyan pixel coloration across the entire morphological structure, characteristic of a digital rendering or mesh model."
+}

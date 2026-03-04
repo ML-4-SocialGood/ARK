@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave spline-fitted curve along the trailing edge from the apex to the posterior base, indicating moderate falcation.",
+    "apex_bounding_geometry": "Rounded shape classification with a broad pixel radius at the fin's highest morphological point.",
+    "leading_edge_angle": "Steep anterior margin approximately 50 to 55 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.15:1 ratio of maximum base width to maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smoothly convex arc with a moderate radius fitted to the anterior-dorsal cranial boundary.",
+    "rostrum_aspect_vector": "Short, thick beak with low longitudinal pixel extension relative to vertical thickness.",
+    "cranial_inflection_angle": "Approximately 145 degree interior angle at the pixel coordinate where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Cyan-green luminescent surface texture and visible polygonal mesh facets, particularly at the pectoral fin and peduncle margins."
+}

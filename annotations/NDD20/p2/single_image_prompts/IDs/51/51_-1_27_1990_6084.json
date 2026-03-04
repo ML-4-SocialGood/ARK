@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is linear with zero curvature; trailing margin follows a straight-line vector from apex to dorsal ridge.",
+    "apex_bounding_geometry": "Acute shape classification with a sharp, low-radius termination point.",
+    "leading_edge_angle": "Steep anterior margin measured at approximately 50 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Base-to-height ratio is approximately 1.5:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Moderate convexity with visible faceted curvature along the anterior-dorsal cranial boundary.",
+    "rostrum_aspect_vector": "Short, truncated beak protrusion with a near 1:1 length-to-thickness ratio from the melon inflection point.",
+    "cranial_inflection_angle": "Obtuse interior angle measured at approximately 140 degrees at the transition from melon to rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject exhibits low-polygon mesh topology and an artificial lighting gradient on the ventral surface."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": null,
+    "leading_edge_angle": null,
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Shallow, flattened convex arc with a very large radius relative to the cranial volume, characteristic of a low-polygon mesh.",
+    "rostrum_aspect_vector": "Short, conical protrusion with a base width approximately equal to the visible length from the inflection point.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 160 degrees at the transition between the anterior melon slope and the dorsal rostrum surface."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Digital low-poly artifacting throughout the mesh geometry; uniform cyan/aquamarine surface with high-intensity white specular highlights along the dorsal ridge."
+}

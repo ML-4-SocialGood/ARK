@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge curvature with a moderate-degree spline fit from the apex to the posterior insertion point.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius at the termination point.",
+    "leading_edge_angle": "Approximately 70 degrees relative to the horizontal dorsal body axis.",
+    "pixel_aspect_ratio": "Estimated 0.6:1 maximum base width to maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Shallow convex curvature fitting the anterior-dorsal boundary of the cranial region.",
+    "rostrum_aspect_vector": "Extreme aspect ratio; extremely long, thin, linear projection extending horizontally from the cranial midpoint.",
+    "cranial_inflection_angle": "Obtuse angle approximately 165 degrees at the transition point between the melon slope and the linear appendage."
+  },
+  "acquired_anomalies_or_scars": "Diffuse, small, irregular white speckling and pitting distributed across the visible lateral and dorsal surfaces.",
+  "other_distinctive_markers": "Presence of a singular, elongated, tapered horizontal protrusion originating from the anterior cranial section."
+}

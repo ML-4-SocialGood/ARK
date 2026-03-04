@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits multiple irregular discontinuities and deep concave notches, preventing a smooth spline fit; curvature is non-monotonic due to structural loss.",
+    "apex_bounding_geometry": "Acute shape classification with a small pixel radius, forming a sharp point.",
+    "leading_edge_angle": "Steep anterior margin contour, approximately 55 degrees relative to the horizontal dorsal ridge line.",
+    "pixel_aspect_ratio": "Approximately 1.15:1 ratio of maximum base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "Prominent jagged excisions and irregular notches on the posterior margin; light-colored micro-stippling across the mid-lateral surface of the fin and dorsal ridge.",
+  "other_distinctive_markers": "Distinctive saw-tooth pattern on the lower two-thirds of the trailing edge."
+}

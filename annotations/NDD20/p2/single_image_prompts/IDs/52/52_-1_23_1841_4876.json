@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": "Acute vertex with near-zero pixel radius",
+    "leading_edge_angle": "Steep linear margin oriented at approximately 75 degrees relative to the longitudinal body axis",
+    "pixel_aspect_ratio": "Max vertical height is approximately double the pixel width of the base"
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-polygon 3D mesh rendering with uniform cyan vertex shading and a localized high-intensity pixel cluster in the ocular region"
+}

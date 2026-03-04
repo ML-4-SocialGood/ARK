@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Strongly concave spline curvature on the trailing edge, originating from the posterior base to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius at the peak.",
+    "leading_edge_angle": "Approximate 55-degree angular steepness relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Maximum base width to vertical height ratio of approximately 0.8:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex parabolic curve with a large radius defining a smooth, rounded melon.",
+    "rostrum_aspect_vector": "Short, robust beak projection with high pixel thickness relative to its visible length.",
+    "cranial_inflection_angle": "Obtuse angle approximately 150 degrees at the juncture of the melon and rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Vivid cyan-to-white gradient luminescent surface rendering across the entire organism profile."
+}

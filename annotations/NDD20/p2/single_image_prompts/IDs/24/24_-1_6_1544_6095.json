@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Slightly concave trailing edge curve defined by a low-polygon spline segment extending from the mid-dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius resulting in a sharp point.",
+    "leading_edge_angle": "Approximately 65-degree incline relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex low-polygon arc with a moderate radius defining the forehead region.",
+    "rostrum_aspect_vector": "Short, thick beak geometry with a low length-to-thickness ratio extending from the cranial base.",
+    "cranial_inflection_angle": "Approximately 140-degree obtuse interior angle where the melon slope meets the dorsal rostrum line."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon 3D model with a translucent cyan luminescent texture and visible internal gradient artifacts."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is linear with zero curvature, defined by a straight-line polygonal edge from the apex to the posterior base.",
+    "apex_bounding_geometry": "Acute point classification with a minimal pixel radius at the vertex junction.",
+    "leading_edge_angle": "Steep linear incline of approximately 65 degrees relative to the horizontal longitudinal axis.",
+    "pixel_aspect_ratio": "Maximal base width is approximately 1.2 times the vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Low-polygon faceted construction; no smooth curvilinear radius is present in the pixel data.",
+    "rostrum_aspect_vector": "Short, blocky rostrum with a visible length approximately equal to its vertical thickness.",
+    "cranial_inflection_angle": "Distinct obtuse polygonal vertex marking the transition from the melon slope to the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Two parallel horizontal white linear markings visible on the mid-lateral flank.",
+  "other_distinctive_markers": "Subject is a low-fidelity 3D mesh model with a uniform cyan-teal emissive texture."
+}

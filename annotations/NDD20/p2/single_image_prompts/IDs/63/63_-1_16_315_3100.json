@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a linear-to-slightly-concave spline from the dorsal insertion to the acute apex.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius resulting in a sharp point.",
+    "leading_edge_angle": "Steep positive slope relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Height-dominant ratio of approximately 0.7:1 base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Small radius convex arc forming a distinct rounded protrusion.",
+    "rostrum_aspect_vector": "Short longitudinal pixel length relative to the vertical thickness at the base of the beak.",
+    "cranial_inflection_angle": "Distinct obtuse angle at the melon-rostrum junction."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-polygon geometric mesh with a luminescent cyan gradient texture."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge displays a concave spline curvature from the posterior base to the apex.",
+    "apex_bounding_geometry": "Rounded morphology with a large pixel radius at the highest morphological point.",
+    "leading_edge_angle": "Steep anterior margin contour, approximately 50 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "The ratio of base width to vertical height is approximately 1.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex curvature with a wide radius extending from the dorsal cranium to the rostrum junction.",
+    "rostrum_aspect_vector": "Short pixel length with high relative thickness, terminating in a blunt tip.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the transition point where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": "A prominent white elliptical mark is visible on the dorsal-lateral surface of the head; a small irregular indentation is present on the trailing edge of the dorsal fin.",
+  "other_distinctive_markers": "Uniform cyan chromatic profile across the body surface; ventral-lateral pectoral fin is visible with a curved trailing edge."
+}

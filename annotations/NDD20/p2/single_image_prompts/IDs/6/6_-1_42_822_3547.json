@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave curvature of the trailing edge visible in the pixel silhouette from the apex to the dorsal ridge.",
+    "apex_bounding_geometry": "Rounded shape classification with a low pixel radius at the fin's maximum vertical extent.",
+    "leading_edge_angle": "Steep diagonal slope of approximately 60 degrees relative to the dorsal longitudinal axis.",
+    "pixel_aspect_ratio": "Maximum base width is approximately 1.25 times the vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex semi-circular arc forming the dorsal boundary of the cranial region.",
+    "rostrum_aspect_vector": "Short, pointed protrusion extending from the lower anterior portion of the head silhouette.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the pixel transition where the melon curvature meets the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-resolution digital rendering or silhouette characterized by a uniform monochromatic cyan palette."
+}

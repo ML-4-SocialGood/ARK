@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature; the posterior boundary is a straight polygonal segment.",
+    "apex_bounding_geometry": "Small pixel radius; classified as obtuse/bluntly pointed at the terminal vertex.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the horizontal dorsal body axis.",
+    "pixel_aspect_ratio": "1.4:1 ratio of maximal base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex arc with a large radius defined by discrete polygonal facet transitions.",
+    "rostrum_aspect_vector": "Elongated and narrow aspect; thickness decreases linearly toward the distal point.",
+    "cranial_inflection_angle": "Visible inflection point at the rostrum-melon junction measuring approximately 150 degrees."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon 3D digital model featuring visible geometric facets and a uniform cyan-textured surface."
+}

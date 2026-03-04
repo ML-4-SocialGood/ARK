@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge follows a piecewise linear, slightly concave path from the apex to the posterior base, typical of a low-polygon rendering.",
+    "apex_bounding_geometry": "Acute vertex with no measurable rounding radius; the point is defined by a single geometric intersection.",
+    "leading_edge_angle": "Approximately 46 degrees relative to the horizontal dorsal body axis.",
+    "pixel_aspect_ratio": "The base width is approximately 1.15 times the vertical height from the dorsal ridge to the apex."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Continuous, shallow convex arc forming a blunt, bulbous forehead profile.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "A high-contrast pale marking is visible on the posterior edge of the dorsal fin, positioned roughly at the midpoint between the apex and the base.",
+  "other_distinctive_markers": null
+}

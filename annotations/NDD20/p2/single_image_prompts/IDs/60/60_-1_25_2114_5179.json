@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature; no concave spline fitting possible due to flat geometry.",
+    "apex_bounding_geometry": "Acute vertex with a pixel radius of approximately 1, representing a sharp morphological point.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio of approximately 1.5:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Very low convexity; the boundary is defined by flat polygonal facets rather than a continuous curve.",
+    "rostrum_aspect_vector": "Short, tapered extension with a pixel length-to-thickness ratio of approximately 1:1.",
+    "cranial_inflection_angle": "Measurable interior angle of approximately 165 degrees at the transition from melon to rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits a low-poly faceted mesh structure and a uniform cyan color, characteristic of a synthetic 3D model rather than a biological organism."
+}

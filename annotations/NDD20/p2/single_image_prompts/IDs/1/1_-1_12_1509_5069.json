@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a slight concave spline, though significantly discretized by low-polygon rendering artifacts.",
+    "apex_bounding_geometry": "Rounded obtuse vertex at the highest point of the fin.",
+    "leading_edge_angle": "Steep upward slope of approximately 60 degrees relative to the dorsal longitudinal axis.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio is approximately 1.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad convex curvature forming a continuous arc across the cranial region.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible low-polygon mesh geometry and faceted silhouette edges across the entire morphology."
+}

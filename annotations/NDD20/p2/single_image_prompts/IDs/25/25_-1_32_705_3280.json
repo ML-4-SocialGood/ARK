@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge curvature fitting a smooth spline from the posterior dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Rounded morphology with a medium pixel radius at the maximum vertical extent.",
+    "leading_edge_angle": "Steep anterior slope measuring approximately 55 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Maximum pixel base width relative to vertical height measured at approximately 1.2:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex melon profile with a large radius curve extending from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "Short, tapered rostrum with a visible length-to-thickness pixel ratio of approximately 2:1.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the pixel coordinate where the melon's descending slope meets the rostrum's horizontal projection."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform neon green monochromatic luminance across all visible anatomical structures, indicating a rendered or heavily filtered image source."
+}

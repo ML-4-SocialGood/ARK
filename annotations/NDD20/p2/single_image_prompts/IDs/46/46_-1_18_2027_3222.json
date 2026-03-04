@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Strongly falcate trailing edge characterized by a deep, concave curvature fitting a high-degree spline from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Rounded geometry with a small pixel radius at the fin's highest morphological point.",
+    "leading_edge_angle": "Steep linear incline of the anterior margin relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Ratio of maximum base width to maximum vertical height is approximately 0.8:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Pronounced convex curvature of the melon boundary with a smooth, high-radius arc.",
+    "rostrum_aspect_vector": "Short and thick rostrum with a low length-to-thickness ratio projecting from the melon inflection point.",
+    "cranial_inflection_angle": "Distinct obtuse interior angle where the melon slope meets the rostrum base."
+  },
+  "acquired_anomalies_or_scars": "A visible notch is located at the posterior base of the dorsal fin; faint linear rake marks are present on the lateral skin surface.",
+  "other_distinctive_markers": "Dark pigmented patch surrounding the eye region."
+}

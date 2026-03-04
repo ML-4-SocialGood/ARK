@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge spline with no measurable curvature from posterior base to apex.",
+    "apex_bounding_geometry": "Acute point with minimal pixel radius, forming a sharp vertex.",
+    "leading_edge_angle": "Approximately 50-degree posterior incline relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Approximately 1.5:1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Short, wedge-shaped anterior terminus with low length-to-thickness ratio.",
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Artificial low-polygon geometric rendering with uniform cyan luminance."
+}

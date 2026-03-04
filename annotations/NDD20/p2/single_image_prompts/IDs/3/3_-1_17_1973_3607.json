@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave spline following the trailing edge, exhibiting high curvature toward a posterior-facing tip.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius, resulting in a sharp terminal point.",
+    "leading_edge_angle": "Steep linear incline estimated at 65 degrees relative to the horizontal dorsal body ridge.",
+    "pixel_aspect_ratio": "Approximate 0.8:1 ratio of base width to maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad, elliptical convexity forming a smooth curvature for the forehead region.",
+    "rostrum_aspect_vector": "Short, robust projection with high thickness-to-length ratio extending from the melon base.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 140 degrees where the melon slope meets the dorsal rostrum boundary."
+  },
+  "acquired_anomalies_or_scars": "Visible punctate white lesions or epidermal marks distributed across the lateral flank and dorsal-lateral surface.",
+  "other_distinctive_markers": "Visible leading edge of the right pectoral fin and prominent mid-lateral light-and-dark contrast transition."
+}

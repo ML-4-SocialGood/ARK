@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Deep concave curvature along the posterior margin, exhibiting a distinct falcate profile from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Small pixel radius classification: rounded apex.",
+    "leading_edge_angle": "Approximately 45-degree convex incline relative to the visible horizontal body axis.",
+    "pixel_aspect_ratio": "Estimated ratio of 2.2:1 (base width to vertical height)."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "A distinct triangular notch is visible on the upper third of the trailing edge; numerous small, white circular depigmented spots are scattered across the mid-flank and the surface of the dorsal fin.",
+  "other_distinctive_markers": "Jagged, irregular micro-contouring observed along the lower half of the trailing edge."
+}

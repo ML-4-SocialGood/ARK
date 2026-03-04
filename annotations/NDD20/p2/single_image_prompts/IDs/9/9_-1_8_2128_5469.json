@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Low-resolution concave curvature on trailing edge fitting a single-bend spline from base to apex.",
+    "apex_bounding_geometry": "Acute vertex with minimal rounding radius due to low-poly mesh structure.",
+    "leading_edge_angle": "Linear segment at approximately 55 degrees relative to the horizontal dorsal midline.",
+    "pixel_aspect_ratio": "Approximate 1.4:1 ratio of longitudinal base length to vertical apex height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large-radius convexity transitioning into a near-linear slope toward the anterior.",
+    "rostrum_aspect_vector": "High thickness-to-length ratio, exhibiting a blunt, triangular terminal point.",
+    "cranial_inflection_angle": "Obtuse transition angle of approximately 160 degrees at the junction of the melon and rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Non-biological teal-colored luminescent texture mapping across the dorsal and lateral surfaces of a low-polygon geometric mesh."
+}

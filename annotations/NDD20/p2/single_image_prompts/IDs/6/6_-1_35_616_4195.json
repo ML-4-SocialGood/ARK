@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a deep concave spline curvature starting from the posterior base and terminating at the apex, consistent with a falcate morphological profile.",
+    "apex_bounding_geometry": "The fin's highest point exhibits a broad pixel radius curvature, classified morphologically as rounded.",
+    "leading_edge_angle": "The anterior margin contour presents a steep linear slope of approximately 55 degrees relative to the horizontal dorsal ridge line.",
+    "pixel_aspect_ratio": "Maximum pixel base width to vertical height ratio is approximately 1.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon displays a high-radius structural convexity, forming a prominent bulbous arc from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "Visible rostrum extending from the melon inflection point with a robust, moderately tapered pixel thickness and a length approximately equal to the melon's height.",
+    "cranial_inflection_angle": "A distinct obtuse angle is measurable at the pixel transition where the downward slope of the melon meets the superior plane of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits a uniform neon-cyan emissive-style coloration with high-contrast specular highlights along the dorsal midline and melon, suggesting a non-biological or highly processed digital rendering."
+}

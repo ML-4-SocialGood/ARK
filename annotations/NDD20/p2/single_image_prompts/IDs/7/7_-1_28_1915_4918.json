@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge is characterized by two discrete linear segments meeting at a concave interior angle, creating a geometric falcate profile.",
+    "apex_bounding_geometry": "Acute vertex with a pixel radius near zero, forming a sharp tip at the highest morphological point.",
+    "leading_edge_angle": "Approximately 58 degrees relative to the horizontal dorsal ridge line.",
+    "pixel_aspect_ratio": "Maximum base width to maximum vertical height ratio is approximately 1.15:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convexity is defined by a series of polygonal facets forming a rounded arc at the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": "Extremely short, tapered beak with a length-to-thickness ratio of approximately 0.4:1.",
+    "cranial_inflection_angle": "Interior angle of approximately 145 degrees at the transition coordinate from the melon curvature to the rostrum protrusion."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays low-polygon topology and faceted surface normals consistent with a digital 3D model rather than a biological specimen."
+}

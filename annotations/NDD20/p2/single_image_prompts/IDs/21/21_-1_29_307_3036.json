@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Deep concave curvature along the trailing edge from the posterior insertion point to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius resulting in a sharp point.",
+    "leading_edge_angle": "Convex anterior margin rising at a steep diagonal angle relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio of approximately 1.3:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius convex curve defining a broad, sloping melon boundary.",
+    "rostrum_aspect_vector": "Short, thickened protrusion with a pixel length nearly equal to its base thickness.",
+    "cranial_inflection_angle": "Distinct obtuse angle visible at the pixel coordinate where the melon curvature meets the rostrum's dorsal plane."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays an artificial uniform green bioluminescent-like luminosity with internal structural highlight patterns across the flank."
+}

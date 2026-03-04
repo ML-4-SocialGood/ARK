@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Nearly linear trailing edge with negligible concave curvature visible in the polygonal mesh.",
+    "apex_bounding_geometry": "Acute apex shape classification with a minimal pixel radius, forming a sharp point.",
+    "leading_edge_angle": "Approximately 50 degrees relative to the longitudinal dorsal ridge.",
+    "pixel_aspect_ratio": "Approximate 1.7:1 ratio of base width to maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Extremely large radius indicating a highly flattened, low-profile melon convexity.",
+    "rostrum_aspect_vector": "Short, thick beak profile where length is roughly equivalent to the thickness at the base of the inflection point.",
+    "cranial_inflection_angle": "Highly obtuse angle of approximately 165 degrees at the transition from the melon to the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible low-polygon mesh facets and internal emissive texture mapping providing a translucent appearance."
+}

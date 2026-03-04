@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a pronounced concave curvature with a smooth spline transition from the apex to the posterior base.",
+    "apex_bounding_geometry": "Acute-rounded geometry with a tight pixel radius at the maximum vertical extremity.",
+    "leading_edge_angle": "Approximately 75 degrees relative to the horizontal base axis of the visible cutout.",
+    "pixel_aspect_ratio": "Height-to-width ratio of approximately 1.4:1 based on maximum vertical pixel height versus visible horizontal base chord."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "A small V-shaped notch is located on the upper third of the trailing edge; several faint vertical and diagonal linear scars are visible on the lateral surface of the fin.",
+  "other_distinctive_markers": "A distinct white circular punctate mark is visible on the posterior-ventral margin of the fin."
+}

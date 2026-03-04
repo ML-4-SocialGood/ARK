@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": null,
+    "leading_edge_angle": null,
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius convex arc forming a smooth, rounded cranial dome transitioning from the dorsal ridge.",
+    "rostrum_aspect_vector": "Short, low-aspect ratio beak with a blunt terminus, extending approximately 0.5x the width of the melon base.",
+    "cranial_inflection_angle": "Shallow obtuse angle visible at the pixel juncture where the downward slope of the melon meets the horizontal plane of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays a uniform cyan-teal bioluminescent emissive texture with visible low-polygon vertex edges and internal volumetric light artifacts characteristic of a digital rendering."
+}

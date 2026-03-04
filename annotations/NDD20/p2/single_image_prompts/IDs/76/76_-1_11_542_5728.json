@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a slightly concave, near-linear spline with minimal curvature until the basal junction.",
+    "apex_bounding_geometry": "Acute shape classification with a small pixel radius, forming a sharp point at the maximum dorsal extension.",
+    "leading_edge_angle": "Approximately 60-degree steepness relative to the local longitudinal axis of the dorsal ridge.",
+    "pixel_aspect_ratio": "Approximately 1.1:1, with the base width slightly exceeding the vertical height from the dorsal ridge."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth, continuous convex arc forming a rounded melon region with a moderate radius of curvature.",
+    "rostrum_aspect_vector": "Tapered, short-profile beak showing a decreasing thickness towards the distal tip.",
+    "cranial_inflection_angle": "Obtuse interior angle (estimated 145 degrees) at the pixel coordinate where the melon curvature descends into the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays a uniform cyan-toned bioluminescent or rendered glow with subtle internal luminance variations across the torso."
+}

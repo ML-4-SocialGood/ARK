@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is non-falcate, consisting of a straight linear segment with zero curvature due to low-polygon rendering.",
+    "apex_bounding_geometry": "Acute vertex with near-zero pixel radius, formed by the intersection of two linear polygonal edges.",
+    "leading_edge_angle": "Approximately 65 degrees relative to the dorsal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Approximately 1.0:1.2 base-width to vertical-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convexity is defined by a single flat facet rather than a continuous arc, yielding an infinite radius along the facet surface.",
+    "rostrum_aspect_vector": "Short, blocky projection with a length-to-thickness ratio of approximately 1:1.",
+    "cranial_inflection_angle": "Approximately 145 degrees at the sharp polygonal vertex where the forehead facet meets the rostrum facet."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is an artificial, low-fidelity 3D model exhibiting faceted shading and a uniform cyan emission color."
+}

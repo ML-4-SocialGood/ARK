@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a deep concave curvature consistent with a falcate spline from the posterior ridge to the apex.",
+    "apex_bounding_geometry": "Apex is categorized as rounded-obtuse, displaying a broad pixel radius at the highest morphological point.",
+    "leading_edge_angle": "Anterior margin displays a steep convex slope at approximately 55 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.15:1, where the pixel base width slightly exceeds the vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Melon displays a smooth, low-profile convex arc transition into the anterior dorsal line.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": "Distinct obtuse angle visible at the pixel coordinate where the descending melon slope meets the base of the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Visible V-shaped notch located on the upper third of the dorsal fin trailing edge; multiple superficial linear striae present on the lateral surface of the dorsal fin.",
+  "other_distinctive_markers": "Pronounced dark-pigmented 'saddle' region observed directly ventral to the dorsal fin insertion point."
+}

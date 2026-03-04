@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge consists of two discrete linear segments forming a shallow concave spline characteristic of a low-polygon mesh.",
+    "apex_bounding_geometry": "Apex is defined by a flat horizontal line segment, categorized as an obtuse geometric shape.",
+    "leading_edge_angle": "The anterior margin is a straight segment at approximately a 50-degree angle relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "The fin exhibits a wider base than vertical height, with an approximate ratio of 1.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon boundary is formed by a sequence of flat surfaces creating a broad, low-curvature convex arc.",
+    "rostrum_aspect_vector": "The rostrum is a blunt, truncated protrusion with a high thickness-to-length ratio, showing minimal horizontal extension.",
+    "cranial_inflection_angle": "The transition point from melon to rostrum presents a shallow, highly obtuse interior angle."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays visible low-polygon geometric facets and a uniform, monochromatic cyan translucent appearance."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a distinct concave curvature from the dorsal ridge to the apex, creating a falcate profile.",
+    "apex_bounding_geometry": "The apex is acute and narrowly rounded.",
+    "leading_edge_angle": "The anterior margin displays a steep positive slope of approximately 55-60 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "The ratio of the maximum pixel base width to the vertical height is approximately 1.0:1.3."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon displays a continuous convex arc forming the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": "The rostrum is short and tapered, extending approximately 30 pixels from the melon inflection point.",
+    "cranial_inflection_angle": "A clear obtuse angle is visible at the transition coordinate between the melon slope and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The organism displays a uniform, high-intensity cyan-toned luminescent texture across its entire visible surface area."
+}

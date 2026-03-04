@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge is characterized by a straight linear segment with zero concave curvature, meeting the dorsal ridge at a sharp geometric vertex.",
+    "apex_bounding_geometry": "Acute vertex with a near-zero pixel radius, forming a sharp triangular point.",
+    "leading_edge_angle": "Linear anterior margin positioned at approximately a 65-degree incline relative to the longitudinal dorsal axis.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio is approximately 1.8:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon 3D digital model characterized by faceted geometry and a monochromatic cyan emissive texture; standard pectoral appendages are not distinct from the primary body mesh."
+}

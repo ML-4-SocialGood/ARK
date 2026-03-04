@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": null,
+    "leading_edge_angle": null,
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad, large-radius convex curve fitting the anterior cranial profile, indicating a prominent, rounded melon structure.",
+    "rostrum_aspect_vector": "Proportionally short and robust rostrum; the visible extension from the melon inflection point has a low length-to-width pixel ratio.",
+    "cranial_inflection_angle": "A distinct obtuse angle is measurable at the pixel coordinate where the melon's descending curve transitions into the horizontal dorsal plane of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

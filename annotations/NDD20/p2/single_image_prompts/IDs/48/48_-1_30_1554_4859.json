@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is a straight linear segment with zero curvature, characteristic of a non-falcate triangular geometry.",
+    "apex_bounding_geometry": "Acute point with a minimal pixel radius, forming a sharp vertex.",
+    "leading_edge_angle": "Linear incline at approximately 55 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Base-to-height ratio of approximately 1.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Non-convex; the region is defined by a flat diagonal facet rather than a curved arc.",
+    "rostrum_aspect_vector": "Short, tapered protrusion with a 1:1 length-to-thickness ratio at the base.",
+    "cranial_inflection_angle": "Obtuse angle of approximately 155 degrees at the transition point between the cranial slope and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon synthetic 3D model with a glowing cyan texture and visible faceted edges."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a slight concave curvature originating from the dorsal ridge and terminating at an acute apex, following a simple falcate spline.",
+    "apex_bounding_geometry": "Apex is classified as acute with a minimal pixel radius, forming a sharp point at the highest morphological coordinate.",
+    "leading_edge_angle": "Angular steepness of approximately 55 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Maximum base width is approximately equal to the maximum vertical height, resulting in a 1:1 ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Melon presents a smooth, medium-radius convex arc forming a distinct bulbous region.",
+    "rostrum_aspect_vector": "Visible beak extending from the melon inflection point with a length approximately twice its thickness at the base.",
+    "cranial_inflection_angle": "A distinct obtuse interior angle is visible where the melon slope transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits a non-biological luminescent cyan texture and low-polygon surface geometry characteristic of a digital 3D model rather than an organic subject."
+}

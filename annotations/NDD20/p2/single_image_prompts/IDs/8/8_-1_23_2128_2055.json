@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge (left-facing) displays a deep concave spline from the apex to the posterior base, creating a pronounced falcate curvature.",
+    "apex_bounding_geometry": "The apex is classified as rounded with a smooth, non-acute pixel radius at the highest morphological point.",
+    "leading_edge_angle": "The leading edge (right-facing) presents a shallow, gradual convex slope at approximately 25 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximate 1.7:1 ratio of the visible fin base width to the maximum vertical height from the dorsal midline."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "A single distinct V-shaped notch is visible on the lower third of the trailing edge. Faint linear rake marks are visible as light-colored striations on the lateral flank below the fin.",
+  "other_distinctive_markers": null
+}

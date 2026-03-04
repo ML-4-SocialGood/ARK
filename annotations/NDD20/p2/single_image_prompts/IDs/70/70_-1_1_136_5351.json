@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge presents as a linear segment with no observable spline curvature due to low-polygon rendering.",
+    "apex_bounding_geometry": "Acute shape classification with a single-vertex pixel radius at the maximum vertical point.",
+    "leading_edge_angle": "Linear anterior margin oriented at approximately 55 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.4:1 ratio of base pixel width to maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Segmented convex boundary representing a broad radius curve over the cranial region.",
+    "rostrum_aspect_vector": "Short, blunt projection with a high thickness-to-length ratio extending from the cranial inflection.",
+    "cranial_inflection_angle": "Visible obtuse interior angle at the pixel junction where the melon slope meets the dorsal rostrum line."
+  },
+  "acquired_anomalies_or_scars": "Distinct irregular white patch located at the anterior base of the dorsal fin; secondary diffuse white region on the upper right flank.",
+  "other_distinctive_markers": "The subject exhibits a low-polygon geometric mesh structure throughout its silhouette, characteristic of a digital model."
+}

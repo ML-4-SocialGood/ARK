@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Moderate concave spline fitting the trailing edge from the posterior insertion point to the apex.",
+    "apex_bounding_geometry": "Acute vertex with a small pixel radius, indicating a sharp termination.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the longitudinal dorsal ridge.",
+    "pixel_aspect_ratio": "Approximate 1.1:1 ratio of longitudinal base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex curvature with a consistent radius across the anterior cranial surface.",
+    "rostrum_aspect_vector": "Proportional projection of approximately 15 pixels in length with a thick base.",
+    "cranial_inflection_angle": "Approximately 135-degree interior angle at the melon-rostrum junction."
+  },
+  "acquired_anomalies_or_scars": "Luminance anomaly present as a bright elliptical patch on the dorsal-lateral surface near the fluke insertion.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge follows a linear vector with zero curvature, lacking a concave falcate profile.",
+    "apex_bounding_geometry": "Acute shape classification with a near-zero pixel radius at the vertex point.",
+    "leading_edge_angle": "Steep anterior margin approximately 75 degrees relative to the horizontal longitudinal axis.",
+    "pixel_aspect_ratio": "Estimated 0.5:1 ratio of maximum base width to vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Indistinct structural convexity; the boundary follows a flat polygonal taper rather than a rounded arc.",
+    "rostrum_aspect_vector": "Elongated pixel length with a narrow, uniform thickness extending from the cranial inflection point.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the pixel transition where the cranial slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a low-polygon 3D digital model with faceted geometry and uniform cyan vertex shading."
+}

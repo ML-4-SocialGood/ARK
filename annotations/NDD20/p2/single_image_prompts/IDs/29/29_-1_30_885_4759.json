@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Zero curvature; trailing edge is a linear segment from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute vertex with a near-zero pixel radius; sharp geometric point.",
+    "leading_edge_angle": "Approximately 60 degrees relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Approximately 1.2:1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius indicating low convexity; cranial boundary is composed of near-planar polygonal facets.",
+    "rostrum_aspect_vector": "Elongated, tapered rostrum with a pixel length approximately 2.5 times the basal thickness.",
+    "cranial_inflection_angle": "Shallow obtuse angle at the facet intersection where the melon slope transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-poly faceted mesh geometry with monochromatic cyan luminance/emissive effect."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge curve following a parabolic spline from the apex to the posterior insertion point.",
+    "apex_bounding_geometry": "Rounded apex with obtuse morphological shape classification.",
+    "leading_edge_angle": "Approximately 50-degree steepness relative to the horizontal longitudinal body axis.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio of approximately 1.1:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex arc with a large radius forming the dorsal cranial boundary from mid-head to the snout base.",
+    "rostrum_aspect_vector": "Short, thick conical protrusion with a low length-to-thickness ratio.",
+    "cranial_inflection_angle": "High obtuse angle at the transition coordinate where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Polygonal low-poly mesh geometry with uniform cyan coloration and high-contrast specular highlights."
+}

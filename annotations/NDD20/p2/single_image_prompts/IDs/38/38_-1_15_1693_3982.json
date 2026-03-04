@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature, forming a straight pixel boundary from the dorsal ridge to the apex due to low-polygon geometric construction.",
+    "apex_bounding_geometry": "Acute angular point with a pixel radius approaching zero; classified as an acute vertex.",
+    "leading_edge_angle": "Steep linear contour oriented at approximately 60 degrees relative to the horizontal dorsal body axis.",
+    "pixel_aspect_ratio": "Approximate 1:1 ratio between the visible base width and the maximum vertical height of the dorsal projection."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Flat, non-curved plane representing the melon region, resulting in an undefined/infinite radius for a fitted curve.",
+    "rostrum_aspect_vector": "Short, tapered triangular extension with a thick base and low proportional length relative to the cranial volume.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 155 degrees at the pixel vertex where the cranial slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a digitally rendered low-polygon mesh characterized by uniform cyan luminescence and faceted shading typical of early-generation 3D graphics."
+}

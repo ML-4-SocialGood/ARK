@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a moderate concave curvature (falcate) from the posterior ridge to the apex.",
+    "apex_bounding_geometry": "The apex is classified as rounded with a wide pixel radius.",
+    "leading_edge_angle": "The anterior margin has a steep positive slope of approximately 65 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.4:1 ratio of maximum base width to maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "A gradual convex arc with a large radius defines the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": "The rostrum is short and thick with a low length-to-thickness ratio.",
+    "cranial_inflection_angle": "A wide, obtuse interior angle is visible where the melon slope transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays a uniform monochromatic cyan luminescence and a low-polygon digital mesh topology."
+}

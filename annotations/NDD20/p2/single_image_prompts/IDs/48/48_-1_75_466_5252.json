@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Deeply concave trailing edge with a high-curvature spline extending from the posterior dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Rounded apex with an obtuse pixel radius classification.",
+    "leading_edge_angle": "Steep anterior margin contour, approximately 65 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Base-to-height ratio of approximately 1:1.1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Moderate convexity visible on the dorsal-anterior margin, partially obscured by high-intensity specular bloom.",
+    "rostrum_aspect_vector": "Short, robust rostrum with a pixel length approximately 1.5 times its thickness at the base.",
+    "cranial_inflection_angle": "Measurable obtuse interior angle of approximately 145 degrees at the transition point from the melon to the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced polygonal faceting on ventral and posterior margins and extreme overexposure/specular glare on the dorsal-lateral surface."
+}

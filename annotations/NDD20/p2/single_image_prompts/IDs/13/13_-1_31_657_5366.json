@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": "Acute shape classification with a pixel radius of zero due to hard vertex geometry.",
+    "leading_edge_angle": "Vertical orientation at approximately 85 degrees relative to the dorsal plane.",
+    "pixel_aspect_ratio": "1:2.4 base-width to vertical-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Short, pyramidal rostrum with approximately 12x12 pixel dimensions.",
+    "cranial_inflection_angle": "Obtuse angle approximately 140 degrees at the facet intersection."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a low-fidelity 3D model with visible polygonal facets and aliasing."
+}

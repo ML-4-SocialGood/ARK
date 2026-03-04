@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Moderately falcate trailing edge characterized by a smooth concave spline curvature from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Rounded apex with a broad morphological pixel radius.",
+    "leading_edge_angle": "Approximately 45-degree angular steepness relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.2:1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Gradual convex arc forming a prominent, rounded melon region.",
+    "rostrum_aspect_vector": "Short, robust rostrum with a low length-to-thickness pixel ratio extending from the melon base.",
+    "cranial_inflection_angle": "Obtuse interior angle at the pixel coordinate where the melon slope transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

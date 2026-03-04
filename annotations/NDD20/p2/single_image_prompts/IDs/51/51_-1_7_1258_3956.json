@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge with a steep inward curvature fitting a deep parabolic spline toward the base.",
+    "apex_bounding_geometry": "Acute shape classification with a sharp, pointed vertex and minimal rounding radius.",
+    "leading_edge_angle": "Approximately 60 degrees relative to the horizontal longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.2:1 base-width to vertical-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth convex curve with a broad radius transitioning from the dorsal region to the rostrum.",
+    "rostrum_aspect_vector": "Short, robust beak with a high thickness-to-length ratio.",
+    "cranial_inflection_angle": "Measurable indentation at the melon-rostrum junction forming an interior angle of approximately 135 degrees."
+  },
+  "acquired_anomalies_or_scars": "Single circular depigmented or highlighted mark located on the upper flank posterior to the dorsal fin.",
+  "other_distinctive_markers": "Visible low-polygon mesh geometry and monochromatic cyan digital rendering artifacts."
+}

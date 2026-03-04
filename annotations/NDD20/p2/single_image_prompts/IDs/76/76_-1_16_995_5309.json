@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": "Acute point defined by a single polygonal vertex with minimal pixel radius.",
+    "leading_edge_angle": "Linear margin at approximately 70 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximate ratio of 0.7:1 base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Short, thick beak with a 1:1 pixel length to thickness ratio.",
+    "cranial_inflection_angle": "Obtuse angle at the polygonal vertex where the melon plane meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Synthetic low-poly 3D mesh structure with flat shading and cyan-white gradient color mapping."
+}

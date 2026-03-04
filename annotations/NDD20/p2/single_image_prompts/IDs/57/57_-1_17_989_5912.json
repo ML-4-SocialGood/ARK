@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": null,
+    "leading_edge_angle": null,
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad, smooth convex arc forming the anterior cranial boundary with a large radius relative to the transverse head width.",
+    "rostrum_aspect_vector": "Short, conical extension with a pixel length roughly equal to its width at the base of the melon.",
+    "cranial_inflection_angle": "Highly obtuse transition angle of approximately 155 degrees visible at the pixel boundary where the melon meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a stylized, monochromatic cyan-colored 3D mesh model with uniform polygonal surfaces and artificial specular lighting."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": null,
+    "leading_edge_angle": null,
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smoothly convex arc with a consistent radius transitioning from the dorsal cranium to the rostral indentation.",
+    "rostrum_aspect_vector": "Short, blunt projection with high pixel thickness relative to length, extending approximately 45 pixels from the cranial inflection point.",
+    "cranial_inflection_angle": "Obtuse angle approximately 140 degrees visible at the pixel junction of the melon and the dorsal rostrum margin."
+  },
+  "acquired_anomalies_or_scars": "Thin, linear superficial marks visible on the lateral melon and upper flank area.",
+  "other_distinctive_markers": "Pronounced light caustic refraction patterns on the mid-dorsal surface; visible dark pigmentation surrounding the eye."
+}

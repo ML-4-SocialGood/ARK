@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Strongly concave trailing edge defining a parabolic spline that transitions from a sharp apex to a wide posterior base.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius, resulting in a sharply pointed morphological termination.",
+    "leading_edge_angle": "Linear anterior margin with an approximate 45-degree inclination relative to the dorsal body plane.",
+    "pixel_aspect_ratio": "Height-to-base ratio of approximately 1.1:1, showing a vertically elongated silhouette."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Low-profile, large-radius convexity indicating a shallow-sloped melon structure.",
+    "rostrum_aspect_vector": "Short longitudinal projection with a high thickness-to-length ratio relative to the cranial height.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 155 degrees at the distinct pixel junction between the melon and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

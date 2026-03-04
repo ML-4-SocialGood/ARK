@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave parabolic spline curvature along the trailing edge from the apex to the posterior insertion point.",
+    "apex_bounding_geometry": "Rounded vertex with a narrow pixel radius, forming the transition between the convex leading edge and concave trailing edge.",
+    "leading_edge_angle": "Convex anterior slope at approximately 45 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio of approximately 1.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad, gradual convex arc originating from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "Short, robust terminal projection with a low length-to-thickness ratio (approx 1:2).",
+    "cranial_inflection_angle": "Obtuse transition angle of approximately 155 degrees at the junction where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced lateral tonal gradient between dark dorsal pigmentation and lighter gray-green lateral flanks."
+}

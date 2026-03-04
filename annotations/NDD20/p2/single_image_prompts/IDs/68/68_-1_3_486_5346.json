@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature; the spline fit reveals a straight geometric segment from apex to posterior base.",
+    "apex_bounding_geometry": "Acute vertex classification with a pixel radius near zero, resulting in a sharp point.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the longitudinal dorsal midline.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of maximum pixel base width to vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Linear polygonal segment with zero convexity; curvature fits an infinite radius due to low-poly geometry.",
+    "rostrum_aspect_vector": "Short, pyramidal rostrum with a thickness approximately equal to its visible length from the inflection point.",
+    "cranial_inflection_angle": "Obtuse angle of approximately 165 degrees where the cranial slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a low-polygon 3D model exhibiting a translucent cyan-teal shader and distinct geometric facets."
+}

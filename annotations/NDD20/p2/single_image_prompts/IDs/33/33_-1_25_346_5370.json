@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge shows a sharp, linear concave break consistent with a low-polygon mesh edge rather than a biological spline.",
+    "apex_bounding_geometry": "Acute vertex with a pixel radius near zero due to geometric aliasing.",
+    "leading_edge_angle": "Approximately 45-degree linear incline relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.2:1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius composed of flat polygonal facets with a distinct geometric ridge.",
+    "rostrum_aspect_vector": "Short, tapered protrusion with a blunt terminal facet; pixel thickness is high relative to length.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 160 degrees at the junction of the melon and rostrum facets."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject exhibits a non-biological neon-teal monochromatic luminance and a low-polygon synthetic mesh structure."
+}

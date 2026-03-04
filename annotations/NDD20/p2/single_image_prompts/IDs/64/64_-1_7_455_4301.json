@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a moderate concave curvature forming a shallow parabolic spline from the mid-point to the apex.",
+    "apex_bounding_geometry": "Rounded morphology with a broad pixel radius at the highest vertical point of the fin.",
+    "leading_edge_angle": "Acute slope of approximately 35 degrees relative to the horizontal dorsal midline.",
+    "pixel_aspect_ratio": "Approximately 1.8:1 ratio of estimated base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad convex arc with a smooth, large-radius curvature extending from the blowhole region toward the rostrum.",
+    "rostrum_aspect_vector": "Short, blunt projection with a pixel length roughly equal to its basal thickness extending from the melon inflection point.",
+    "cranial_inflection_angle": "Obtuse inflection point of approximately 145 degrees visible at the transition between the melon and the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Distinct V-shaped notch visible on the lower third of the dorsal fin trailing edge.",
+  "other_distinctive_markers": "Significant specular highlights along the dorsal-lateral surface caused by directional overhead lighting, obscuring fine skin texture."
+}

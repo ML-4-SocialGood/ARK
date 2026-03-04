@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge curvature with a posterior-directed spline fit.",
+    "apex_bounding_geometry": "Rounded morphology with a small pixel radius.",
+    "leading_edge_angle": "Approximately 40-degree incline relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Approximate 1.5:1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Moderate convex curvature extending from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "Short, blunt beak with a low length-to-thickness pixel ratio.",
+    "cranial_inflection_angle": "Shallow obtuse angle at the transition coordinate from the melon to the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Single dark circular pigmentation mark or lesion visible on the posterior flank.",
+  "other_distinctive_markers": "Light-colored highlight on the distal tip of the rostrum; eye visible as a dark circular pixel cluster."
+}

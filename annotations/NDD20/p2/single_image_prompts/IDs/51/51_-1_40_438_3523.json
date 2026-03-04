@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge curvature following a low-polygon spline from dorsal ridge to apex.",
+    "apex_bounding_geometry": "Blunted apex with a small pixel radius, exhibiting polygonal discretization.",
+    "leading_edge_angle": "Approximately 45-degree positive slope relative to the horizontal dorsal ridge line.",
+    "pixel_aspect_ratio": "Base width is approximately 1.5 times the vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smoothly convex arc with a large radius tapering towards the anterior.",
+    "rostrum_aspect_vector": "Short, conical extension with high thickness-to-length ratio.",
+    "cranial_inflection_angle": "Obtuse angle of approximately 140 degrees at the junction of the melon and rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a low-polygon, monochromatic cyan 3D rendered model."
+}

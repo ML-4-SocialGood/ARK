@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a deep concave spline fitting, originating from a sharp posterior insertion point and curving toward a rounded apex.",
+    "apex_bounding_geometry": "Rounded apex morphology with an approximate 15-pixel curvature radius; classified as obtuse-rounded.",
+    "leading_edge_angle": "Smoothly convex anterior margin with a steepness of approximately 45 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Calculated ratio of 1.8:1 between the longitudinal base width and the maximum vertical height from the dorsal ridge."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "High-convexity melon arc with a tight radius fitting the anterior-dorsal boundary, indicating a bulbous morphology.",
+    "rostrum_aspect_vector": "Short, robust rostrum with a pixel length approximately 0.5 times the vertical cranial thickness at the ocular coordinate.",
+    "cranial_inflection_angle": "Well-defined inflection point at the melon-rostrum transition with a measurable interior angle of approximately 135 degrees."
+  },
+  "acquired_anomalies_or_scars": "Visible circular depigmented spot (possible lesion or scar) on the upper right flank, located posterior to the ocular region.",
+  "other_distinctive_markers": "Pronounced dark dorsal cape providing high contrast against the lighter, greenish-tinted mid-body coloration."
+}

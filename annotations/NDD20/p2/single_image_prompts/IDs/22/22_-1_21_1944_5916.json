@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge with a discrete angular transition characteristic of a low-polygon mesh geometry.",
+    "apex_bounding_geometry": "Acute vertex classification with a near-zero pixel radius; sharp triangular termination.",
+    "leading_edge_angle": "Linear anterior margin at approximately 55 degrees relative to the dorsal midline axis.",
+    "pixel_aspect_ratio": "Approximately 1.2:1 ratio of maximum base width to vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex cranial boundary represented by a series of discrete polygonal segments with a broad radius.",
+    "rostrum_aspect_vector": "Short, blunt anterior projection with a thickness approximately equal to its protruding length.",
+    "cranial_inflection_angle": "Obtuse transition angle of approximately 140 degrees where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Monochromatic cyan emissive shader applied to a stylized, low-resolution 3D model with visible mesh tessellation."
+}

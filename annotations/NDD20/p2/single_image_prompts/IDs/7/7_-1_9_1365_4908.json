@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Strongly concave spline curvature on the trailing edge, exhibiting high falcation with a deep posterior notch and a sharp, backward-swept orientation.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius, forming a sharp, pointed tip at the highest morphological coordinate.",
+    "leading_edge_angle": "Approximately 45-50 degrees relative to the longitudinal body axis, following a straight to slightly convex anterior margin.",
+    "pixel_aspect_ratio": "Estimated 1.2:1 ratio of maximum pixel base width to maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Moderate convex radius forming a smooth, rounded curvature on the anterior-dorsal cranial boundary.",
+    "rostrum_aspect_vector": "Short, thick visible rostrum with high girth relative to its projection length from the cranial inflection point.",
+    "cranial_inflection_angle": "Distinct obtuse angle of approximately 135 degrees at the pixel transition from the melon slope to the rostrum base."
+  },
+  "acquired_anomalies_or_scars": "Multiple horizontal linear depigmented scars (rake marks) are visible on the mid-lateral flank and dorsal ridge; a small V-shaped notch is present on the upper third of the dorsal fin trailing edge.",
+  "other_distinctive_markers": "Pronounced cyan-teal chromatic shift across the entire subject; high-contrast dappled lighting patterns (caustics) visible along the dorsal-lateral surface."
+}

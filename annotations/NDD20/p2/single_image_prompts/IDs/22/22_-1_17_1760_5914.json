@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge displays a shallow concave curvature defined by a single polygonal vertex inflection.",
+    "apex_bounding_geometry": "Rounded apex with an obtuse morphological profile and a pixel radius of approximately 15 units.",
+    "leading_edge_angle": "High angular steepness of approximately 65 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Maximum vertical pixel height is approximately 1.15 times the maximum horizontal base width."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex curvature with a shallow radius fitted to the low-polygon cranial-dorsal boundary.",
+    "rostrum_aspect_vector": "Truncated beak structure with a length-to-thickness ratio of approximately 0.9:1.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 145 degrees at the transition point between the melon slope and rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon 3D digital model with a monochromatic cyan emissive shader and faceted geometry."
+}

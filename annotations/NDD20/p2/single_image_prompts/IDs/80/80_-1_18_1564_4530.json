@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "A concave trailing edge curve is visible, fitting a basic inward-tapering spline from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Rounded shape classification with a low-resolution pixel radius at the morphological peak.",
+    "leading_edge_angle": "Approximately 60 degrees relative to the horizontal dorsal body axis.",
+    "pixel_aspect_ratio": "Approximate 1.4:1 ratio of maximum base width to maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "A broad convex arc defines the anterior cranial boundary, though extreme pixelation prevents precise radius fitting.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays a monochromatic cyan color profile and digital aliasing consistent with a low-poly 3D model."
+}

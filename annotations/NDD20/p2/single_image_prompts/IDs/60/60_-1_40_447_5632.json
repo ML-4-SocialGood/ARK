@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a gentle concave curvature from the posterior base to the apex, following a smooth spline with moderate inward deviation.",
+    "apex_bounding_geometry": "Acute-rounded geometry with a small pixel radius, indicating a sharp but slightly blunted highest morphological point.",
+    "leading_edge_angle": "Anterior margin steepness is approximately 55-60 degrees relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Maximum base width to vertical height ratio is approximately 1:1.15."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad convex melon arc with a medium-sized radius fitted to the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": "Short and robust beak with high pixel thickness relative to its short visible length extending from the melon.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 165 degrees at the point where the melon slope transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Multiple dark, circular punctate markings or pits are visible on the lateral surface of the head and melon region; possible focal lesions.",
+  "other_distinctive_markers": "Prominent high-contrast white/light-toned patch on the dorsal midline anterior to the fin; visible white dental line at the mouth gape."
+}

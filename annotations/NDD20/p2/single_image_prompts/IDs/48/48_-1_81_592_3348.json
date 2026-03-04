@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a concave inward curvature from the apex down to the posterior insertion point.",
+    "apex_bounding_geometry": "The apex is classified as acute, forming a sharp point with a minimal pixel radius.",
+    "leading_edge_angle": "The anterior margin is oriented at a steep posterior angle of approximately 60 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "A ratio of approximately 1.1:1, where the vertical height slightly exceeds the maximum pixel base width."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon is defined by a convex semi-circular arc that forms a distinct, rounded forehead profile.",
+    "rostrum_aspect_vector": "The rostrum is short and blunt, with its horizontal extension appearing approximately equal to its vertical thickness at the base.",
+    "cranial_inflection_angle": "A measurable obtuse angle is present at the pixel coordinate where the descending melon slope transitions into the horizontal rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is rendered as a low-polygon 3D model characterized by visible geometric facets and a uniform, glowing cyan-white texture."
+}

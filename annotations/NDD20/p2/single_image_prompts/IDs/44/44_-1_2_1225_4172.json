@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": null,
+    "leading_edge_angle": null,
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "A large-radius, smooth convex arc forming the dorsal-anterior boundary of the head.",
+    "rostrum_aspect_vector": "Short, conical projection with a thick base and a length-to-thickness ratio of approximately 1.2:1 visible on the right terminus.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 140 degrees where the melon slope meets the dorsal margin of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-fidelity 3D polygonal model featuring a luminous cyan and magenta gradient texture rather than biological skin."
+}

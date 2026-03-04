@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge is approximately linear with no measurable concave falcation visible in the pixel data.",
+    "apex_bounding_geometry": "Acute apex with a minimal pixel radius, forming a sharp vertex.",
+    "leading_edge_angle": "Approximately 60 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Maximum base width to vertical height ratio is approximately 1:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth, moderate radius convexity defining the dorsal boundary of the melon.",
+    "rostrum_aspect_vector": "Short, tapered rostrum with a length approximately equal to its basal thickness.",
+    "cranial_inflection_angle": "Obtuse interior angle where the melon slope transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

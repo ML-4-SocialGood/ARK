@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge follows a near-linear spline with minimal concavity, extending from the dorsal ridge to the acute apex.",
+    "apex_bounding_geometry": "The highest morphological point is classified as acute, tapering to a sharp vertex with a negligible pixel radius.",
+    "leading_edge_angle": "The anterior margin contour displays a steep angle of approximately 70 degrees relative to the horizontal longitudinal axis.",
+    "pixel_aspect_ratio": "The ratio of the fin's maximum base width to its maximum vertical height is approximately 0.8:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon boundary follows a large-radius convex arc, showing a smooth transition from the blowhole region.",
+    "rostrum_aspect_vector": "The rostrum is represented by a short, thick pixel cluster with a length-to-thickness ratio of approximately 1:1.",
+    "cranial_inflection_angle": "A distinct obtuse inflection angle is visible at the pixel coordinate where the melon slope meets the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits sharp edges and flat-shaded surfaces consistent with a low-polygon 3D digital model."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge curvature fitting a parabolic spline descending from the apex to the posterior insertion point.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius, resulting in a sharply pointed terminal morphology.",
+    "leading_edge_angle": "Steep anterior margin contour positioned at approximately 65 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of maximum base width to vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Prominent convex arc with a moderate radius curvature defining the frontal-lateral cranial boundary.",
+    "rostrum_aspect_vector": "Short and robust rostrum with a visible length-to-thickness ratio of approximately 1.5:1.",
+    "cranial_inflection_angle": "Distinct obtuse interior angle at the transition point between the melon's descent and the rostrum's emergence."
+  },
+  "acquired_anomalies_or_scars": "A small, circular, white depigmented spot or focal lesion is visible on the mid-lateral flank.",
+  "other_distinctive_markers": "A broad, light-colored transverse pigment band is clearly visible on the dorsal surface of the caudal peduncle area."
+}

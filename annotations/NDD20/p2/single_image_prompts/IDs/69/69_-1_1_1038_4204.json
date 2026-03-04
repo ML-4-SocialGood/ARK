@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits minimal concave curvature, defined by a discrete staircase pixel pattern rather than a continuous spline.",
+    "apex_bounding_geometry": "Acute shape classification with a tight pixel radius of approximately 2-3 pixels at the highest morphological point.",
+    "leading_edge_angle": "Steep anterior margin contour measured at approximately 60 degrees relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Base-to-height ratio is approximately 1.4:1 based on maximum pixel dimensions."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex melon curvature with a small radius, characterized by low-resolution polygonal segments.",
+    "rostrum_aspect_vector": "Short and blunt rostrum with a length-to-thickness pixel ratio of approximately 1:1 extending from the melon.",
+    "cranial_inflection_angle": "Measurable obtuse interior angle of approximately 155 degrees at the junction where the melon slope meets the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a low-fidelity 3D digital asset characterized by significant edge aliasing and simplified monochromatic cyan texturing."
+}

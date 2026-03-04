@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Moderately concave trailing edge following a smooth parabolic spline from the posterior insertion point to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a tight, rounded pixel radius.",
+    "leading_edge_angle": "Approximately 45-degree slope relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Approximate 1.4:1 ratio of maximum pixel base width to maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Shallow convexity with a large radius curve fitted to the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": "Short, robust rostrum with high thickness relative to the visible length extending from the melon.",
+    "cranial_inflection_angle": "Wide obtuse interior angle visible at the pixel transition where the melon gradient meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform teal/cyan monochromatic color profile consistent with a synthetic 3D rendering; jagged pixelation and non-biological geometry observed on the trailing fluke edges."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave spline fitting the posterior margin from the dorsal insertion point to the apex.",
+    "apex_bounding_geometry": "Small pixel radius, rounded-acute vertex.",
+    "leading_edge_angle": "Approximately 50-degree incline relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Estimated 1.3:1 ratio of base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Wide-radius convex arc characterizing a shallow melon profile.",
+    "rostrum_aspect_vector": "Short, stout beak with low longitudinal pixel extension relative to thickness.",
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform monochromatic cyan surface coloration consistent with a digital rendering."
+}

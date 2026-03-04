@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge defined by segmented linear boundaries in a low-polygon mesh.",
+    "apex_bounding_geometry": "Acute angular vertex with near-zero radius.",
+    "leading_edge_angle": "Approximately 45-degree linear incline relative to the dorsal longitudinal axis.",
+    "pixel_aspect_ratio": "Estimated 1.5:1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Angular convexity composed of planar facets forming a generalized cranial arc.",
+    "rostrum_aspect_vector": "Short, thick pyramidal geometry with high width-to-length ratio.",
+    "cranial_inflection_angle": "Obtuse interior angle at the specific junction where the melon plane meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a non-biological low-polygon 3D model with monochromatic cyan emissive texturing."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is linear with zero curvature, forming a strictly triangular profile without a concave spline.",
+    "apex_bounding_geometry": "Acute point with a minimal pixel radius of approximately 1-2 pixels.",
+    "leading_edge_angle": "Steep positive slope measured at approximately 75 degrees relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Ratio of maximum base width to vertical height is approximately 0.8:1.0."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex melon curvature with a broad radius forming a smooth, rounded cranial dome.",
+    "rostrum_aspect_vector": "Short, blunt protrusion with a pixel length-to-thickness ratio of approximately 1:1.",
+    "cranial_inflection_angle": "Defined obtuse angle at the pixel coordinate where the melon curvature transitions into the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays visible low-polygon mesh geometry and faceted surface shading across all anatomical regions."
+}

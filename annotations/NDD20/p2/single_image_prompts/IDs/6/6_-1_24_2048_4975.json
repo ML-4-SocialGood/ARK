@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is linear with zero curvature; non-falcate",
+    "apex_bounding_geometry": "Acute shape classification with minimal pixel radius approximating a sharp vertex",
+    "leading_edge_angle": "Approximately 40-45 degree angle relative to the horizontal body axis",
+    "pixel_aspect_ratio": "Approximately 2.1:1 ratio of base width to vertical height"
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Synthetic low-poly geometric representation with non-biological cyan color and internal glow gradients"
+}

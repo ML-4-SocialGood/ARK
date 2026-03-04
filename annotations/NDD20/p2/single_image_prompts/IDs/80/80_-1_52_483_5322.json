@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a simple concave spline with a linear descent from the apex transitioning into a slight curve at the posterior base.",
+    "apex_bounding_geometry": "Acute shape classification with a sharp vertex and minimal pixel radius.",
+    "leading_edge_angle": "Approximately 50 degrees relative to the dorsal longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of maximum base width to maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex arc with a broad curvature radius starting from the dorsal blowhole region.",
+    "rostrum_aspect_vector": "Short, robust projection with a length-to-thickness ratio of approximately 1.5:1.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the pixel coordinate where the melon slope meets the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Jagged, polygonal silhouette edges and low-resolution texture mapping consistent with a low-polygon 3D digital model."
+}

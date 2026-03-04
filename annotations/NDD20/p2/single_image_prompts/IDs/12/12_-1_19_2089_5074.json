@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a slight concave curvature composed of two discrete linear segments meeting at a shallow interior angle due to low-polygon rendering.",
+    "apex_bounding_geometry": "Approximate pixel radius of 10px; shape classification is obtuse and rounded with visible vertex intersections.",
+    "leading_edge_angle": "The anterior margin is steep, measuring approximately 68 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "The ratio of maximum vertical pixel height to maximum base pixel width is approximately 1.15:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The structural convexity is high, featuring a segmented arc with a radius approximately equal to the height of the cranial region.",
+    "rostrum_aspect_vector": "The visible beak extends with a proportional length of approximately 55 pixels and a base thickness of 32 pixels.",
+    "cranial_inflection_angle": "The measurable interior angle at the transition from melon to rostrum is approximately 142 degrees."
+  },
+  "acquired_anomalies_or_scars": "Faint vertical linear striations resembling rake marks are visible on the lateral flank immediately posterior to the ocular region.",
+  "other_distinctive_markers": "The subject is a low-polygon 3D digital model characterized by visible triangular surface tessellation and sharp geometric edges across the entire morphology."
+}

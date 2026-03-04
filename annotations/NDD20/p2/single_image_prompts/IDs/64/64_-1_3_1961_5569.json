@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Deeply concave trailing edge forming a sharp falcate curve from the posterior base to the apex.",
+    "apex_bounding_geometry": "Highly acute apex with a minimal pixel radius, ending in a sharp point.",
+    "leading_edge_angle": "Steep positive gradient approximately 70 degrees relative to the dorsal ridge.",
+    "pixel_aspect_ratio": "Narrow profile with a height-to-base ratio of approximately 1.5:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth, parabolic convexity transitioning into a defined rostrum.",
+    "rostrum_aspect_vector": "Short, conical beak with high thickness relative to the visible length.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 140 degrees where the melon meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Prominent circular white lesion or pigment mark on the dorsal fin; several light-colored circular patches visible on the lateral flank and head region.",
+  "other_distinctive_markers": "Pronounced polygonal segmentation along the silhouette edges and sharp specular highlights on the rostrum and melon."
+}

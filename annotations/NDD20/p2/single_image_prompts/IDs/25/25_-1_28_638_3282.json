@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Strongly concave spline trailing from the apex to the posterior insertion point, indicating a falcate morphology.",
+    "apex_bounding_geometry": "Acute shape classification with a tight pixel radius at the highest morphological point.",
+    "leading_edge_angle": "Estimated 40-degree posterior inclination relative to the longitudinal dorsal midline.",
+    "pixel_aspect_ratio": "Base-to-height ratio of approximately 1.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Moderate radius convexity forming a smooth, rounded profile from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "Short, thick protrusion with a low length-to-base-width ratio.",
+    "cranial_inflection_angle": "Distinct obtuse angle visible where the melon slope meets the dorsal plane of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform monochromatic cyan pixel intensity across the entire organism silhouette."
+}

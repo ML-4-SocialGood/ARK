@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is primarily linear with a slight concave angular transition at the posterior base.",
+    "apex_bounding_geometry": "Acute vertex with no measurable pixel rounding, resulting in a sharp point.",
+    "leading_edge_angle": "Approximately 55-degree posterior angle relative to the dorsal body plane.",
+    "pixel_aspect_ratio": "Approximate 1.4:1 ratio of basal width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Near-infinite radius along the dorsal-anterior boundary, consisting of flat polygonal facets.",
+    "rostrum_aspect_vector": "Short, blunt wedge-shaped termination lacking a distinct elongated beak separate from the main cranial mass.",
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Synthetic teal coloration with prominent low-polygon facet edges and simplified geometric anatomy."
+}

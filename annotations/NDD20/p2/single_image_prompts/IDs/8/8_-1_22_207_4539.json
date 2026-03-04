@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave spline fitted to the posterior edge showing moderate curvature from the dorsal ridge to the rounded apex.",
+    "apex_bounding_geometry": "Moderate pixel radius with a rounded shape classification.",
+    "leading_edge_angle": "Approximately 50 degrees relative to the dorsal midline.",
+    "pixel_aspect_ratio": "Estimated 1.3:1 ratio of maximum base width to maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex arc with a broad radius forming a prominent, bulbous melon.",
+    "rostrum_aspect_vector": "Short, stubby projection with a thick base and minimal length relative to the melon size.",
+    "cranial_inflection_angle": "Shallow obtuse angle at the transition point between the melon and the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Presence of faint, parallel linear marks on the lower posterior flank consistent with rake marks.",
+  "other_distinctive_markers": "Artificial cyan-colored texture and high-intensity specular highlights on the dorsal surface indicative of a non-biological rendering."
+}

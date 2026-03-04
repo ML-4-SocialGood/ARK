@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Deeply concave trailing edge spline with a sharp terminal taper toward the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius, forming a sharp point.",
+    "leading_edge_angle": "High angular steepness relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Narrow pixel base width relative to the vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth, medium-radius convexity defining the dorsal-anterior cranial boundary.",
+    "rostrum_aspect_vector": "Short, tapered beak profile with a low length-to-thickness ratio.",
+    "cranial_inflection_angle": "Distinct obtuse angle at the pixel junction where the melon slope transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The object is a stylized, cyan-colored, glowing semi-transparent model with internal light refraction patterns."
+}

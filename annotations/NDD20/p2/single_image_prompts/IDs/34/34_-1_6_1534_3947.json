@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Moderate concave curvature on the posterior edge, following a smooth spline from the dorsal base to the apex.",
+    "apex_bounding_geometry": "Rounded apex classification with a smooth, medium-radius curve at the maximum vertical point.",
+    "leading_edge_angle": "Acute angular incline relative to the longitudinal dorsal axis of the body.",
+    "pixel_aspect_ratio": "Base width exceeds maximum vertical height, approximately 1.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth convex arc with a large radius relative to the cranial length, transitioning from the blowhole region to the rostrum.",
+    "rostrum_aspect_vector": "Proportionally short and tapered beak with a thick base-to-length ratio extending from the melon base.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the pixel coordinate where the melon slope meets the rostrum's dorsal surface."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Fully visible caudal fluke with a distinct median notch and symmetric trailing edges."
+}

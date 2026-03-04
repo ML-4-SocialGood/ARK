@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge follows a nearly linear spline from the apex to the dorsal ridge with negligible concave curvature.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius at the highest morphological vertex.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the vertical longitudinal body axis.",
+    "pixel_aspect_ratio": "The ratio of maximum base width to vertical height is approximately 1.1:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Moderate convexity with a smooth, consistent arc radius defining the cranial boundary.",
+    "rostrum_aspect_vector": "Short, conical extension with a length-to-base thickness ratio of approximately 1:1.",
+    "cranial_inflection_angle": "An obtuse interior angle of approximately 145 degrees at the junction where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits uniform cyan luminescence and a distinct low-polygon geometric mesh structure."
+}

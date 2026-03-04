@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge follows a concave spline transition with multiple sharp discontinuities (notches) of varying depths and widths along the vertical margin.",
+    "apex_bounding_geometry": "Morphological apex is classified as rounded with a broad pixel radius; obtuse curvature.",
+    "leading_edge_angle": "Linear anterior margin oriented at approximately a 50-degree incline relative to the horizontal dorsal ridge line.",
+    "pixel_aspect_ratio": "Base-to-height ratio is approximately 1.3:1, where the base width at the dorsal ridge exceeds the vertical height from base to apex."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "Multiple distinct V-shaped and U-shaped notches present on the trailing edge. A major traumatic indentation or missing tissue segment is visible at the posterior base of the dorsal segment. Scattered circular depigmented maculae are present across the lateral surface of the fin and torso.",
+  "other_distinctive_markers": "Dense clustering of small, high-contrast white spots concentrated on the lower mid-section of the dorsal fin lateral surface."
+}

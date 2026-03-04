@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a smooth concave spline, curving posteriorly to form a distinct falcate shape.",
+    "apex_bounding_geometry": "Apex is characterized by a rounded shape classification with a moderate pixel radius, lacking sharp acute termination.",
+    "leading_edge_angle": "Leading edge displays a steep positive slope of approximately 65 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Maximum pixel base width is roughly 1.1 times the maximum vertical height from the dorsal ridge to the apex."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon presents a broad convex arc with a large radius of curvature, transitioning smoothly from the dorsal cranial boundary.",
+    "rostrum_aspect_vector": "The rostrum is relatively short and thick, extending with low proportional length from the melon inflection point.",
+    "cranial_inflection_angle": "Transition from melon to rostrum occurs at a wide, obtuse interior angle, resulting in a subtle structural break."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits a low-polygon geometric mesh structure and a uniform cyan-teal color gradient, consistent with a non-biological 3D digital model."
+}

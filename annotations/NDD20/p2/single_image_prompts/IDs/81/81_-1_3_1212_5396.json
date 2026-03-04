@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": null,
+    "leading_edge_angle": null,
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Low-curvature convex arc with a large radius relative to the cranial length, transitioning from the dorsal-midline to the rostrum base.",
+    "rostrum_aspect_vector": "Short, thick beak projection with a pixel length-to-thickness ratio of approximately 1:1, showing minimal tapering.",
+    "cranial_inflection_angle": "Wide obtuse angle of approximately 160 degrees at the pixel coordinate where the melon slope meets the dorsal margin of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays synthetic visual properties, specifically a low-polygon 3D mesh structure with visible facets on the pectoral fins and a uniform monochromatic green surface texture."
+}

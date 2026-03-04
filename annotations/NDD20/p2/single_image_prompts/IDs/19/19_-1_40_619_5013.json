@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": "Acute vertex with zero pixel radius due to polygonal mesh architecture",
+    "leading_edge_angle": "Approximately 45 degrees relative to the dorsal ridge line",
+    "pixel_aspect_ratio": "Approximately 2.5:1 base-width to vertical-height ratio"
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Short, conical protrusion with a 1:1 length-to-thickness ratio",
+    "cranial_inflection_angle": "Obtuse interior angle formed by the intersection of two planar facets"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-polygon 3D mesh topology with a uniform cyan-green emissive shader"
+}

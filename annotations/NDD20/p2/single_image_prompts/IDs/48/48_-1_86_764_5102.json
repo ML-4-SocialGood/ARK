@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero measurable spline curvature; boundary is a straight pixel segment.",
+    "apex_bounding_geometry": "Acute point with a pixel radius of approximately zero; sharp geometric termination.",
+    "leading_edge_angle": "Approximately 45 degrees relative to the primary longitudinal body axis.",
+    "pixel_aspect_ratio": "Base-to-height ratio is approximately 1.5:1 based on maximum pixel extent."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan luminescence and faceted low-polygon surface geometry."
+}

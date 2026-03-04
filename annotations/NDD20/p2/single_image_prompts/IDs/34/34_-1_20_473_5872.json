@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Smooth concave curvature along the posterior margin from the apex to the dorsal insertion point.",
+    "apex_bounding_geometry": "Obtusely rounded apex with a wide pixel radius; lacks acute tapering.",
+    "leading_edge_angle": "Shallow anterior margin slope of approximately 30 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Estimated 1.7:1 ratio of maximum base width to vertical peak height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Prominent convex semi-circular arc defining the anterior-dorsal boundary of the forehead.",
+    "rostrum_aspect_vector": "Short, robust rostrum with a low length-to-thickness ratio extending from the cranial base.",
+    "cranial_inflection_angle": "Distinct obtuse interior angle visible at the pixel junction where the melon slope transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform monochromatic cyan luminescence across the entire anatomical surface, obscuring fine skin texture and pigmentation."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Deeply falcate; trailing edge exhibits a smooth concave spline from the apex to the posterior insertion point.",
+    "apex_bounding_geometry": "Rounded apex with a small pixel radius, transitioning from a convex leading edge to a concave trailing edge.",
+    "leading_edge_angle": "Convex leading edge slanting posteriorly at approximately 50 degrees from the dorsal ridge.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio is approximately 1.15:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex arc with a moderate radius, though the boundary is partially masked by high-intensity specular highlights.",
+    "rostrum_aspect_vector": "Short, distally tapering rostrum visible at the anterior tip.",
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Intense overexposure on the dorsal and lateral flanks, resulting in significant pixel saturation and loss of fine texture detail."
+}

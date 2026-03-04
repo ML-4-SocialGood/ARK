@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge trajectory; spline fit indicates zero curvature on the posterior margin.",
+    "apex_bounding_geometry": "Acute vertex point; pixel radius is negligible, appearing as a single coordinate intersection.",
+    "leading_edge_angle": "Steep anterior margin measured at approximately 72 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Maximum vertical height to base width ratio of approximately 1.8:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Elongated, needle-like projection with a length-to-base-thickness ratio of approximately 5:1.",
+    "cranial_inflection_angle": "Sharp, non-gradated interior angle at the pixel junction of the rostrum and the primary cranial mass."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a stylized low-poly 3D mesh exhibiting uniform cyan-emissive shading and faceted geometric surfaces."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave spline along the posterior margin, exhibiting a deep inward curve from the apex to the lower insertion point.",
+    "apex_bounding_geometry": "Rounded shape classification with a smooth, medium-radius pixel curvature at the highest dorsal point.",
+    "leading_edge_angle": "Steep convex curvature of the anterior margin, maintaining a high positive gradient relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.8:1 ratio of maximum horizontal base pixels to maximum vertical height pixels."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "Single circular depigmented lesion or scar visible on the lower lateral flank; faint linear parallel scarring present on the dorsal surface posterior to the fin.",
+  "other_distinctive_markers": "High-contrast pigmentation boundary between a dark dorsal cape and the lighter grey lateral region."
+}

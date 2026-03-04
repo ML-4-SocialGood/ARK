@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave spline with a singular inflection point along the trailing edge from the posterior ridge to the apex.",
+    "apex_bounding_geometry": "Acute vertex with a sharp, zero-radius polygonal point.",
+    "leading_edge_angle": "Approximately 55-degree angular steepness relative to the longitudinal dorsal axis.",
+    "pixel_aspect_ratio": "Approximately 1.6:1 base width to vertical height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad convex curvature with a wide radius defining the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": "Short, tapered extension with a high thickness-to-length ratio, exhibiting minimal distinct beak elongation.",
+    "cranial_inflection_angle": "Approximately 160-degree obtuse interior angle where the melon slope transitions into the snout taper."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-poly mesh geometry with faceted shading and uniform cyan/teal pixel values."
+}

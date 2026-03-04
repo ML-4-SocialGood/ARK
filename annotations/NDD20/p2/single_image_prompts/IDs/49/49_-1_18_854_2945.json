@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Moderate concave curvature on the posterior margin, describing a smooth spline from the dorsal ridge to the rounded apex.",
+    "apex_bounding_geometry": "Rounded classification with a wide pixel radius at the maximum morphological height.",
+    "leading_edge_angle": "Approximately 45-degree positive slope relative to the horizontal longitudinal axis of the torso.",
+    "pixel_aspect_ratio": "Approximately 1.2:1 ratio of maximum base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth convex curve with a large radius extending from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "Relatively short and robust projection with a high thickness-to-length ratio.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the transition point from the melon slope to the dorsal surface of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced specular highlights in high-intensity cyan/white visible along the dorsal-lateral ridge, indicative of light refraction or caustics."
+}

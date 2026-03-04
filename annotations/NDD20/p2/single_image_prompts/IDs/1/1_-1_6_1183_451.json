@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is characterized by a short vertical drop from the apex followed by a straight linear slope to the posterior base, exhibiting negligible concave curvature or falcation.",
+    "apex_bounding_geometry": "Apex is acute and sharply pointed with a minimal pixel radius.",
+    "leading_edge_angle": "The anterior margin follows a straight diagonal path at an angle of approximately 55 degrees relative to the horizontal base axis.",
+    "pixel_aspect_ratio": "The ratio of maximum base width to maximum vertical height is approximately 1.8:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "Small white punctate marks are visible on the lateral surface of the fin, possibly representing minor lesions or pigmentation markers.",
+  "other_distinctive_markers": "Highly triangular fin morphology with a distinct linear trailing edge profile, lacking the typical falcate curvature seen in many delphinids."
+}

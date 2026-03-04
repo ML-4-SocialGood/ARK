@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave curvature on the trailing edge forming a falcate profile.",
+    "apex_bounding_geometry": "Rounded shape with a discernible pixel radius at the maximum vertical extent.",
+    "leading_edge_angle": "Posteriorly swept angle relative to the dorsal midline.",
+    "pixel_aspect_ratio": "Horizontal base measurement is greater than the vertical height measurement."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex semi-circular arc profile on the dorsal cranial region.",
+    "rostrum_aspect_vector": "Diminutive length and broad thickness relative to the cranial mass.",
+    "cranial_inflection_angle": "Obtuse transition angle located at the anterior melon boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Monochromatic cyan luminance across the entire visible surface."
+}

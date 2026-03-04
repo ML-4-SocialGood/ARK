@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a concave spline curve from the dorsal ridge base to the apex.",
+    "apex_bounding_geometry": "Small pixel radius at the highest point, categorized as an acute shape classification.",
+    "leading_edge_angle": "Anterior margin rises at an approximate 55-degree angle relative to the horizontal dorsal line.",
+    "pixel_aspect_ratio": "Maximum base width to vertical height ratio is approximately 1.3:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Gradual convex curve with a large radius forming the forehead region.",
+    "rostrum_aspect_vector": "Short, robust beak with a thick vertical profile relative to its horizontal extension.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the pixel coordinate where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-fidelity polygonal geometry and flat shading indicative of a digital 3D model rather than a biological organism."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge follows a linear-to-slightly-concave spline from the dorsal ridge to the sharp apex.",
+    "apex_bounding_geometry": "Acute vertex with sharp pixel termination; minimal radius.",
+    "leading_edge_angle": "Approximately 70-80 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio is approximately 1.1:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Shallow convexity with a large radius arc along the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": "Short, tapered rostrum with moderate thickness relative to length.",
+    "cranial_inflection_angle": "Highly obtuse interior angle at the pixel coordinate where the melon transitions to the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon 3D model with a monochromatic green luminescent texture."
+}

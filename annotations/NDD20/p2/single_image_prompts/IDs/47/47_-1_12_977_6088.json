@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge is characterized by a linear polygonal segment with zero curvature, showing no falcate arc.",
+    "apex_bounding_geometry": "Acute angle classification; the apex is a single sharp vertex with a pixel radius approximating zero.",
+    "leading_edge_angle": "Linear anterior margin oriented at approximately 55 degrees relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "The ratio of the maximum pixel base width to maximum vertical pixel height is approximately 1:1.1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Structural convexity is defined by a faceted polygonal arc with a large radius of curvature.",
+    "rostrum_aspect_vector": "Short, blunt rostrum with a length approximately 0.5 times the thickness of the visible melon.",
+    "cranial_inflection_angle": "A distinct obtuse interior angle of approximately 145 degrees is visible where the melon slope transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon 3D digital model with a uniform cyan surface color and visible polygonal facets."
+}

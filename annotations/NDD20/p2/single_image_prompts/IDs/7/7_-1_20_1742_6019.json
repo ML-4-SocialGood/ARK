@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Distinct concave curvature (falcate) on the trailing edge from the posterior insertion to the apex.",
+    "apex_bounding_geometry": "Rounded obtuse shape with a moderate pixel radius at the highest morphological point.",
+    "leading_edge_angle": "Approximately 55-degree incline relative to the longitudinal dorsal axis.",
+    "pixel_aspect_ratio": "Approximately 1:1.2 maximum base width to maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Prominent convex arc defining the forehead, measured by a medium-radius curve transition.",
+    "rostrum_aspect_vector": "Short, robust beak structure visible extending from the cranial inflection point.",
+    "cranial_inflection_angle": "Visible indentation at approximately 130 degrees where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform monochromatic cyan luminescence across the entire specimen body surface."
+}

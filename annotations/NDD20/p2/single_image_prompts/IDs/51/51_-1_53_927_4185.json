@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "trailing edge exhibits a continuous concave spline curve with a smooth transition from the dorsal ridge to the apex",
+    "apex_bounding_geometry": "rounded geometry with a moderate pixel radius at the highest morphological point",
+    "leading_edge_angle": "linear anterior margin oriented at approximately 55 degrees relative to the horizontal longitudinal axis",
+    "pixel_aspect_ratio": "approximately 1:1 ratio between the maximum pixel base width and vertical height"
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "broad, low-eccentricity convex arc along the anterior-dorsal boundary",
+    "rostrum_aspect_vector": "short rostrum extension with high thickness-to-length ratio relative to melon volume",
+    "cranial_inflection_angle": "obtuse interior angle at the transition point between the melon slope and the rostrum"
+  },
+  "acquired_anomalies_or_scars": "cluster of high-luminance white irregular marks or lesions located posterior to the eye and along the mid-dorsal flank",
+  "other_distinctive_markers": "uniform high-intensity cyan/teal luminosity across the entire visible morphological surface"
+}

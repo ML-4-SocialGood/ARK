@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with a subtle concave inflection near the base and a slight protrusion halfway to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius, forming a sharp vertex.",
+    "leading_edge_angle": "Steep linear ascent estimated at 75 degrees relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Vertical height significantly exceeds the longitudinal base width, ratio approximately 1.5:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Continuous convex curvature forming a distinct semi-circular arc from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "Short, robust beak with a high thickness-to-length ratio and a rounded terminal point.",
+    "cranial_inflection_angle": "Distinct obtuse interior angle of approximately 135 degrees at the melon-rostrum junction."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

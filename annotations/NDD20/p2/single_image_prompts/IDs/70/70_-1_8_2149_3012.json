@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Moderately concave trailing edge with a smooth spline curvature extending from the posterior dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute shape with a narrow pixel radius at the highest morphological point.",
+    "leading_edge_angle": "Approximately 35-degree positive slope relative to the horizontal longitudinal body axis.",
+    "pixel_aspect_ratio": "Measured at approximately 1.1:1 ratio of maximum base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex semi-circular arc with a moderate radius defining the forehead region.",
+    "rostrum_aspect_vector": "Short, thickened beak geometry extending anteriorly from the melon inflection point.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the pixel junction where the melon slope meets the rostrum base."
+  },
+  "acquired_anomalies_or_scars": "A distinct, circular white depigmented lesion or scar is located on the upper flank, approximately one dorsal fin width anterior-ventral to the fin base; several faint linear rake marks are visible on the mid-lateral surface.",
+  "other_distinctive_markers": "Highly saturated cyan/teal chromaticity across the entire dorsal and lateral pixel area."
+}

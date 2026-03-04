@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a concave spline curvature extending from the posterior dorsal junction to the apex.",
+    "apex_bounding_geometry": "Rounded shape classification with a broad pixel radius at the fin's distal extremity.",
+    "leading_edge_angle": "Approximately 50-degree angular ascent relative to the horizontal longitudinal axis of the torso.",
+    "pixel_aspect_ratio": "Base-to-height ratio is approximately 1.8:1, indicating a wide structural foundation relative to vertical extension."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth, continuous convex arc fitted to the anterior-dorsal boundary with no visible blowhole depression in this orientation.",
+    "rostrum_aspect_vector": "Short, robust pixel length with a high thickness-to-length ratio extending from the cranial inflection.",
+    "cranial_inflection_angle": "Obtuse interior angle at the specific pixel junction where the melon's descent meets the dorsal plane of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays a uniform monochromatic cyan luminescence across the entirety of the visible epidermal pixels."
+}

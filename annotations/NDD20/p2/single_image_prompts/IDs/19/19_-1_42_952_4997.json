@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge presents a nearly linear spline with negligible curvature, indicating a non-falcate profile.",
+    "apex_bounding_geometry": "Rounded apex with an obtuse morphological point.",
+    "leading_edge_angle": "Approximate 50-degree incline relative to the dorsal longitudinal axis.",
+    "pixel_aspect_ratio": "Maximum base width is approximately 1.5 times the maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex melon boundary following a smooth, large-radius arc.",
+    "rostrum_aspect_vector": "Short, thick rostrum; pixel length approximately equal to pixel thickness at the base.",
+    "cranial_inflection_angle": "Visible obtuse angle at the transition from the melon to the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

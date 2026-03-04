@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a significant discontinuity characterized by a deep, V-shaped notch located approximately midway between the apex and the dorsal ridge; the upper segment is near-linear while the lower segment follows a shallow concave spline.",
+    "apex_bounding_geometry": "Small radius rounded apex, approximately 12-18 pixels in curvature, forming a distinct point before the posterior vertical drop-off.",
+    "leading_edge_angle": "Convex anterior margin with an approximate 65-degree slope relative to the horizontal longitudinal axis of the torso.",
+    "pixel_aspect_ratio": "Measured at approximately 0.9:1, where the vertical height from the dorsal ridge to the apex is slightly greater than the base width."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "Prominent triangular excision/notch on the trailing edge of the dorsal fin, indicating substantial previous tissue loss.",
+  "other_distinctive_markers": null
+}

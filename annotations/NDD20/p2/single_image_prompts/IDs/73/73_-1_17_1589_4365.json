@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero measurable curvature visible in the digital mesh geometry.",
+    "apex_bounding_geometry": "Sharp acute vertex with a negligible pixel radius; categorized as a geometric point.",
+    "leading_edge_angle": "Approximately 75 degrees relative to the horizontal longitudinal axis of the dorsal ridge.",
+    "pixel_aspect_ratio": "Approximately 0.4:1; the vertical height significantly exceeds the narrow base width."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Parabolic arc with constant curvature radius defining the anterior-dorsal cranial boundary.",
+    "rostrum_aspect_vector": "Short pixel length with high proportional thickness extending from the melon inflection point.",
+    "cranial_inflection_angle": "Measurable obtuse interior angle of approximately 145 degrees at the melon-to-rostrum transition."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Synthetic 3D render properties including low-poly geometric edges and a uniform emissive cyan-blue gradient texture."
+}

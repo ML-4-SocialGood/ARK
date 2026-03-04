@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is a concave polyline consisting of two linear segments meeting at an obtuse internal vertex.",
+    "apex_bounding_geometry": "Acute vertex with a 0-pixel radius due to the low-polygon geometric construction.",
+    "leading_edge_angle": "Approximately 45 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Maximum base width is approximately 1.5 times the maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex faceted arc composed of large-scale polygonal planes with a high radius of curvature.",
+    "rostrum_aspect_vector": "Short, thickened beak with a length-to-thickness ratio of approximately 1:1.",
+    "cranial_inflection_angle": "Obtuse angle of approximately 135 degrees where the rostrum meets the melon slope."
+  },
+  "acquired_anomalies_or_scars": "A distinct circular white pixel cluster is visible on the mid-section of the left pectoral flipper.",
+  "other_distinctive_markers": "The subject is a low-fidelity 3D mesh model with visible flat shading facets and a uniform cyan monochromatic texture."
+}

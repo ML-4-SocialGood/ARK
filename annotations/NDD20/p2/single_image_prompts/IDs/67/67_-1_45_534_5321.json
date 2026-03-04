@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge is a perfectly straight linear segment with zero curvature, consistent with a low-polygon mesh geometry.",
+    "apex_bounding_geometry": "The apex is a sharp acute vertex with a pixel radius of zero.",
+    "leading_edge_angle": "The anterior margin is a straight line at a constant steep diagonal angle relative to the dorsal plane.",
+    "pixel_aspect_ratio": "The fin base width to vertical height ratio is approximately 0.85:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "The visible beak is a pointed triangular protrusion with a length approximately 2.5 times its base thickness.",
+    "cranial_inflection_angle": "A sharp, measurable vertex exists at the transition point with an interior angle of approximately 155 degrees."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon digital 3D model with an emissive cyan texture and no biological surface data."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature from base to apex.",
+    "apex_bounding_geometry": "Acute vertex; shape classified as acute with minimal pixel radius.",
+    "leading_edge_angle": "Approximately 60 degrees relative to the horizontal longitudinal axis.",
+    "pixel_aspect_ratio": "Approximate ratio of 1.4:1 base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Short, triangular geometric projection with length approximately equal to base thickness.",
+    "cranial_inflection_angle": "Obtuse vertex at the junction of the flat anterior cranial facet and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Synthetic low-poly mesh structure with a uniform cyan emissive shader."
+}

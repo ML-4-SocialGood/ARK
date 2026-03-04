@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a linear to slightly concave curvature from the dorsal ridge to the sharp apex point.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius at the highest vertex of the fin.",
+    "leading_edge_angle": "Angular steepness of approximately 60 degrees relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Maximum base width to maximum vertical height ratio is approximately 0.8:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Structural convexity of the melon is represented by a moderate curve radius formed by polygonal facets.",
+    "rostrum_aspect_vector": "Visible beak is short and tapered, with a length approximately 0.3 times the total cranial length from the melon to the tip.",
+    "cranial_inflection_angle": "Measurable obtuse interior angle at the pixel coordinate where the descending melon slope meets the horizontal rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a stylized low-poly 3D mesh featuring a monochromatic cyan-green luminescent surface texture against a black background."
+}

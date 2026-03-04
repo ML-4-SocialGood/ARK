@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge is characterized by a linear, zero-curvature spline, indicating a non-falcate triangular geometry.",
+    "apex_bounding_geometry": "Acute shape classification with a pixel radius near zero, forming a sharp point at the highest morphological coordinate.",
+    "leading_edge_angle": "The anterior margin contour presents a steep upward gradient of approximately 55 degrees relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Maximum pixel base width to vertical height ratio is approximately 1.15:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "The visible beak exhibits a tapered profile with a pixel length-to-thickness ratio of approximately 2.2:1.",
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits low-fidelity polygonal geometry and an artificial, monochromatic cyan emissive texture map characteristic of early 3D digital assets."
+}

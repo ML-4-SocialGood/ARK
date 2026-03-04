@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge follows a near-linear spline with minimal concave curvature from the dorsal insertion to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a negligible pixel radius at the terminal point.",
+    "leading_edge_angle": "Approximately 45-degree angular steepness relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Estimated ratio of 1.6:1 base-width to vertical-height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a stylized, cyan-colored digital model characterized by low-poly geometric facets rather than organic biological surfaces."
+}

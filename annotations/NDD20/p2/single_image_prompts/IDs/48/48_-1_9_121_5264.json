@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge follows a near-linear path with a subtle concave curve near the dorsal ridge transition.",
+    "apex_bounding_geometry": "Acute vertex with a sharp, pointed shape classification and minimal pixel radius.",
+    "leading_edge_angle": "Approximately 40 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.3:1 ratio of base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon contour is flat, representing an infinite radius due to the low-polygon geometric simplification.",
+    "rostrum_aspect_vector": "Short, stubby beak with a proportional pixel length significantly less than the melon height.",
+    "cranial_inflection_angle": "Approximately 150 degrees at the vertex where the melon plane meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-fidelity polygonal representation exhibiting faceted shading and localized emissive texture mapping."
+}

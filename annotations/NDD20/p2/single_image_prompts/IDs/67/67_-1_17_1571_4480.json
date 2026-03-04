@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is represented by a linear, non-curved segment typical of a low-polygon mesh.",
+    "apex_bounding_geometry": "Acute angle formed by a single vertex point; pixel radius is zero.",
+    "leading_edge_angle": "Approximately 65 to 70 degrees relative to the dorsal longitudinal axis.",
+    "pixel_aspect_ratio": "Roughly 1.1:1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-fidelity synthetic 3D model with visible planar facets and uniform cyan texturing."
+}

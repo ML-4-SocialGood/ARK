@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Deeply concave curvature along the trailing edge with a visible notch located on the posterior basal margin.",
+    "apex_bounding_geometry": "Rounded morphology with a moderate pixel radius at the highest morphological point.",
+    "leading_edge_angle": "Steep linear incline at an approximately 55-degree angle relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Base width is significantly greater than vertical height, approximately 1.5:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth, large-radius convex arc characterizing the forehead region.",
+    "rostrum_aspect_vector": "Short pixel length with a thick base and blunt terminal point relative to the cranial volume.",
+    "cranial_inflection_angle": "Clearly defined obtuse angle at the pixel junction where the melon slope transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Visible physical notch on the lower trailing edge of the dorsal fin; faint dark linear markings on the mid-lateral flank.",
+  "other_distinctive_markers": "Secondary vertical fin-like protrusion located on the dorsal side of the caudal peduncle, distinct from the primary dorsal fin and flukes."
+}

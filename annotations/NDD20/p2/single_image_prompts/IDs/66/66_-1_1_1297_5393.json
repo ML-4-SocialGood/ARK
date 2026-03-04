@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Zero mathematical curvature; trailing edge is a linear polygonal segment.",
+    "apex_bounding_geometry": "Acute classification; pixel radius is 0 due to sharp vertex rendering.",
+    "leading_edge_angle": "Approximately 45-degree linear incline relative to the dorsal axis.",
+    "pixel_aspect_ratio": "Approximate 1:1.2 ratio of base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Blunt, rectangular profile with high thickness-to-length ratio.",
+    "cranial_inflection_angle": "Measurable 115-degree angle at the junction of the forehead and rostrum facets."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-fidelity polygonal mesh construction with visible flat facets and monochromatic teal emissive shading."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge (left-facing) exhibits a strong concave spline interrupted by a distinct, semi-circular notch located approximately 45% of the distance from the base to the apex.",
+    "apex_bounding_geometry": "Rounded shape classification with a moderate pixel radius; the highest point exhibits a smooth curvature rather than an acute point.",
+    "leading_edge_angle": "The leading edge (right-facing) presents a smooth convex contour with an approximate 40-degree angular slope relative to the horizontal base axis.",
+    "pixel_aspect_ratio": "The visible fin base width is approximately 1.7 times the vertical height from base to apex."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "A deep, irregular notch is present on the trailing edge; extensive white and grey mottled depigmentation or epidermal scarring is visible across the lower third of the fin base.",
+  "other_distinctive_markers": "High-contrast light-colored patterning at the posterior base provides a unique visual identifier against the dark dorsal coloration."
+}

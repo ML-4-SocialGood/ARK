@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave spline curvature along the trailing edge extending from the dorsal ridge to the rounded apex.",
+    "apex_bounding_geometry": "Rounded apex with a medium pixel radius and obtuse shape classification.",
+    "leading_edge_angle": "Approximately 55 to 60-degree posterior incline relative to the dorsal horizontal body axis.",
+    "pixel_aspect_ratio": "Maximum base width is approximately equal to vertical height, resulting in a 1:1 ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex curvature with a small radius creating a distinct forehead profile.",
+    "rostrum_aspect_vector": "Short, tapered protrusion with a pixel length-to-thickness ratio of approximately 1:1.",
+    "cranial_inflection_angle": "Visible obtuse interior angle where the melon slope transitions into the rostrum line."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Artificial 3D model rendering with cyan luminescence and visible low-polygon edge aliasing."
+}

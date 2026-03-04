@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave spline fitting the trailing edge from a broad base to a tapered apex.",
+    "apex_bounding_geometry": "Small-radius rounded apex, exhibiting an acute angle approximately 50-60 degrees.",
+    "leading_edge_angle": "Steeply ascending straight-line margin at approximately 45 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.2:1 ratio of base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large-radius convex arc transitioning smoothly from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "Short, conical extension with a high thickness-to-length ratio.",
+    "cranial_inflection_angle": "Obtuse interior angle estimated at 150 degrees at the transition from melon to rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Overall uniform cyan-teal luminescent appearance with simplified, low-poly surface geometry."
+}

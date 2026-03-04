@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a linear, non-falcated vector due to low-polygon geometric constraints.",
+    "apex_bounding_geometry": "Acute vertex point with negligible pixel radius.",
+    "leading_edge_angle": "Approximately 45-degree posterior angle relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Pointed, low-poly convexity with a sharp, minimal radius of curvature.",
+    "rostrum_aspect_vector": "Short, tapered rostrum with high relative thickness, typical of low-resolution digital modeling.",
+    "cranial_inflection_angle": "Obtuse angle transition at the pixel junction where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a 3D digital model featuring a low-polygon mesh and a glowing cyan emissive texture with internal light patterns."
+}

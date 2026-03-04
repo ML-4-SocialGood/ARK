@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge follows a segmented linear path with a minor inward deflection, approximating a low-curvature concave spline.",
+    "apex_bounding_geometry": "Apex exhibits a coarse, obtuse rounding with a radius of approximately 12-15 pixels.",
+    "leading_edge_angle": "The anterior margin forms an approximate 50-degree angle relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Measured base-to-height ratio is approximately 1.15:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Melon displays a shallow, wide-radius convexity with a gradual, flattened slope toward the anterior tip.",
+    "rostrum_aspect_vector": "Rostrum is short, approximately 20% of the cranial length, with a blunt, non-tapering pixel thickness.",
+    "cranial_inflection_angle": "Inflection point at the melon-rostrum junction exhibits a shallow obtuse angle of approximately 165 degrees."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible low-poly geometric mesh triangulation across the entire body surface; monochromatic cyan texture with artificial specular highlights."
+}

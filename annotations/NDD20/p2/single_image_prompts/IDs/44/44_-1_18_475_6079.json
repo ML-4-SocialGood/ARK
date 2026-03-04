@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave curvature on the trailing edge forming a moderately deep arc from the dorsal ridge to the acute apex.",
+    "apex_bounding_geometry": "Acute shape classification with a small pixel radius at the termination point.",
+    "leading_edge_angle": "Steep posterior-leaning slope approximately 45 to 60 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex frontal bulge with a wide-radius curve visible from the anterior-ventral perspective.",
+    "rostrum_aspect_vector": "Short, tapered rostrum with moderate thickness, significantly foreshortened by the camera angle.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the transition point between the melon bulge and the upper margin of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan-toned luminescent texture and low-polygonal mesh topology characteristic of a digital rendering."
+}

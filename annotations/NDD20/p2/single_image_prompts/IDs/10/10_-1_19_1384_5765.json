@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a moderate concave spline curvature from the posterior dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Rounded apex with an obtuse shape classification and large pixel radius.",
+    "leading_edge_angle": "Anterior margin slopes at an approximately 55-degree angle relative to the horizontal longitudinal axis.",
+    "pixel_aspect_ratio": "Base width of the fin is approximately 1.3 times its maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex curvature with a medium radius, creating a bulbous melon profile.",
+    "rostrum_aspect_vector": "Short rostrum length with high pixel thickness relative to length, approximately 1:1 ratio from the inflection point.",
+    "cranial_inflection_angle": "Shallow obtuse interior angle at the pixel coordinate where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits uniform monochromatic cyan luminescence across the entire visible surface, lacking any standard biological skin texture or pigmentation patterns."
+}

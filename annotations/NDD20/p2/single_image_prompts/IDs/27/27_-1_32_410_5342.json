@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is a strictly linear segment with zero curvature, forming a straight line from the apex to the dorsal ridge.",
+    "apex_bounding_geometry": "Acute vertex with a zero-pixel radius, forming a sharp point.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the horizontal longitudinal axis.",
+    "pixel_aspect_ratio": "Height-to-base width ratio of approximately 1.2:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Surface is composed of flat polygonal planes with an infinite radius, providing a non-curved, angular forehead transition.",
+    "rostrum_aspect_vector": "Short, conical projection with a length-to-thickness ratio of approximately 1:1.",
+    "cranial_inflection_angle": "Distinct obtuse vertex where the planar melon slope meets the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon 3D digital model with a cyan-colored translucent material and static light-colored mottling in the texture map."
+}

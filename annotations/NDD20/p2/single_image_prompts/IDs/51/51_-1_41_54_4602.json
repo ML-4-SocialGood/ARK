@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a linear geometric profile with zero measurable concave curvature, following a straight pixel path from the apex to the posterior insertion point.",
+    "apex_bounding_geometry": "Acute shape classification; the apex terminates in a sharp vertex with a pixel radius of approximately 1.0.",
+    "leading_edge_angle": "Approximately 50 degrees relative to the vertical longitudinal body axis.",
+    "pixel_aspect_ratio": "Maximum vertical height to maximum base width ratio of approximately 1.3:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad, low-convexity arc with a large radius; the slope tapers gradually toward the anterior terminus.",
+    "rostrum_aspect_vector": "Short, acute triangular geometry; the beak length is roughly 5% of the visible longitudinal body length.",
+    "cranial_inflection_angle": "Obtuse angle of approximately 165 degrees at the specific pixel transition between the melon slope and the rostrum tip."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform monochromatic cyan-green luminescence and low-polygon mesh topology; three distinct elliptical high-value luminance patches are visible on the mid-body and posterior regions."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave parabolic curvature on the trailing edge extending from the apex to the posterior insertion point at the dorsal ridge.",
+    "apex_bounding_geometry": "Rounded morphology with a moderate curvature radius at the highest vertical point, lacking acute angularity.",
+    "leading_edge_angle": "Convex slope approximately 40 degrees relative to the horizontal longitudinal axis of the torso.",
+    "pixel_aspect_ratio": "Approximately 1.4:1 ratio of longitudinal base chord length to maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex semi-circular arc with a wide radius transitioning smoothly from the blowhole area to the rostrum base.",
+    "rostrum_aspect_vector": "Short, robust beak with a thickness-to-length ratio of approximately 0.5 measured from the inflection point.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 135 degrees at the junction of the melon and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible right pectoral fin with a falcate trailing edge and tapered tip."
+}

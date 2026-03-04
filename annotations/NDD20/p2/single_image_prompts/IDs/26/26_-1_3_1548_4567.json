@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Strongly concave trailing edge spline with a deep indentation before the dorsal ridge intersection.",
+    "apex_bounding_geometry": "Acute shape classification with a sharp, low-radius pixel termination point.",
+    "leading_edge_angle": "High angular steepness relative to the horizontal body axis with a slight convex curvature.",
+    "pixel_aspect_ratio": "Approximate 1.5:1 ratio of maximum base width to vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex arc with a consistent radius forming a prominent, rounded forehead boundary.",
+    "rostrum_aspect_vector": "Short, thick beak projection with a pixel length nearly equal to the thickness at the inflection point.",
+    "cranial_inflection_angle": "Distinct obtuse interior angle measured at the junction where the melon slope meets the dorsal rostrum line."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject exhibits uniform cyan-spectrum luminescence across all visible pixel surfaces; structural rendering appears low-polygon or stylized."
+}

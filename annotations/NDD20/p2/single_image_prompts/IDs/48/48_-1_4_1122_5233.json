@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature across the pixel boundary",
+    "apex_bounding_geometry": "Acute vertex point with minimal pixel radius and sharp shape classification",
+    "leading_edge_angle": "Approximately 70 degrees relative to the horizontal dorsal body axis",
+    "pixel_aspect_ratio": "Approximately 0.5:1 base-to-height ratio"
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Flat linear slope; curvature radius is infinite due to absence of convex arc",
+    "rostrum_aspect_vector": "Short, tapered vertex extension with low proportional pixel thickness",
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Synthetic low-polygon mesh topology and vertex shading artifacts"
+}

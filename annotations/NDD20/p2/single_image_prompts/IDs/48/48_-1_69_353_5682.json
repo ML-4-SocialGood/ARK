@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave spline fit to the posterior margin showing moderate curvature.",
+    "apex_bounding_geometry": "Acute apex with a rounded tip radius.",
+    "leading_edge_angle": "High-steepness linear contour approximately 55 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.5:1 base-width to vertical-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth convex arc with a consistent radius forming a prominent cranial bulge.",
+    "rostrum_aspect_vector": "Tapered geometry with a moderate length-to-thickness ratio ending in a terminal point.",
+    "cranial_inflection_angle": "Measurable obtuse angle at the pixel coordinate where the melon slope transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Specimen displays low-poly mesh geometry particularly in the caudal section and a uniform cyan luminescence consistent with a non-biological digital render."
+}

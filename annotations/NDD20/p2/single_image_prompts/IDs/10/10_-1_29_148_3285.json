@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a distinct concave curvature following a parabolic spline from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Rounded morphology with a moderate pixel radius at the fin's highest morphological point.",
+    "leading_edge_angle": "Convex anterior margin with a steepness of approximately 50-60 degrees relative to the dorsal horizontal body axis.",
+    "pixel_aspect_ratio": "Approximate 1.3:1 ratio of maximum pixel base width to maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius convexity defining a broad and smooth anterior-dorsal cranial boundary.",
+    "rostrum_aspect_vector": "Short horizontal projection with high vertical thickness from the apparent melon terminus.",
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "High-saturation cyan color profile with a distinct dark longitudinal band across the mid-lateral flank."
+}

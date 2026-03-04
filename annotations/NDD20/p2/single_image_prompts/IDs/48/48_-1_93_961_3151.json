@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero measurable curvature; a straight spline from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a pixel radius of approximately 1, forming a sharp geometric point.",
+    "leading_edge_angle": "Steep incline measured at approximately 70 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of maximum pixel base width to maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Small-radius convex arc creating a pronounced, rounded forehead boundary.",
+    "rostrum_aspect_vector": "Short, thickened beak with low proportional pixel length relative to its width at the base.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 135 degrees where the melon slope transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Image exhibits low-polygon digital artifacts and aliased edges consistent with a 3D model or stylized graphic."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge spline with minimal posterior curvature toward the base.",
+    "apex_bounding_geometry": "Rounded apex with an obtuse curvature relative to the leading and trailing margins.",
+    "leading_edge_angle": "Approximately 40-50 degree incline relative to the longitudinal dorsal ridge.",
+    "pixel_aspect_ratio": "Approximately 1.8:1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad, low-curvature convex arc with no distinct melon-to-rostrum demarcation.",
+    "rostrum_aspect_vector": "Short, blunt anterior projection with high thickness relative to length.",
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform green chromatic luminance and low-polygon surface texture consistent with a synthetic or stylized rendering."
+}

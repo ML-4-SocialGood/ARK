@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Moderate falcation characterized by a smooth concave spline curve along the posterior margin.",
+    "apex_bounding_geometry": "Rounded apex classification with an obtuse pixel radius at the highest morphological point.",
+    "leading_edge_angle": "Steeply ascending anterior margin at approximately 55 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximate 1.1:1 ratio of maximum base width to maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex curvature with a broad radius arc fitted to the anterior-dorsal boundary of the melon.",
+    "rostrum_aspect_vector": "Short and robust beak with a low length-to-thickness ratio visible from the inflection point.",
+    "cranial_inflection_angle": "Clear obtuse interior angle where the melon slope transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Small, distinct notch present on the trailing edge of the dorsal fin; subtle linear marks visible posterior to the ocular region.",
+  "other_distinctive_markers": "Significant caustic light refraction patterns across the dorsal and lateral skin surfaces."
+}

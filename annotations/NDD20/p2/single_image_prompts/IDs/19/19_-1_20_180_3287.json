@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Strongly concave trailing edge with a deep curvature transitioning from the posterior ridge to an acute apex.",
+    "apex_bounding_geometry": "Acute point with a minimal pixel radius, indicating a sharp morphological peak.",
+    "leading_edge_angle": "Convex anterior margin with a steep slope approximately 50 degrees relative to the horizontal longitudinal axis.",
+    "pixel_aspect_ratio": "Approximately 1.25:1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Posterior flukes are visible on the far left of the frame; image exhibits low-polygon count and digital texture artifacts consistent with a three-dimensional model."
+}

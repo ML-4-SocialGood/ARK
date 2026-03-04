@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Moderately concave trailing edge curvature following a smooth spline from apex to posterior base.",
+    "apex_bounding_geometry": "Acute shape classification with a tight pixel radius at the highest morphological point.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Approximate 0.9:1 ratio of base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius smooth convexity forming a continuous parabolic arc along the cranial boundary.",
+    "rostrum_aspect_vector": "Short, blunt rostrum with a low length-to-thickness ratio extending from the cranial base.",
+    "cranial_inflection_angle": "Highly obtuse interior angle of approximately 160 degrees at the transition from melon to rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Saturated cyan-teal bioluminescent glow with high-intensity white light patches along the dorsal and mid-lateral regions."
+}

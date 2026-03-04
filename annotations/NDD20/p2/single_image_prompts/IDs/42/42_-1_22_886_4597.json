@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": null,
+    "leading_edge_angle": null,
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth, low-radius convex curve visible on the anterior-dorsal boundary of the cranial segment.",
+    "rostrum_aspect_vector": "Elongated, narrow protrusion extending from the anterior cranial base, ending in an acute pixel point.",
+    "cranial_inflection_angle": "Distinctive obtuse notch at the intersection of the melon slope and the rostrum dorsal plane."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The image appears as a false-color cyan segmentation mask; two pectoral fin-like structures are visible extending ventrally from the primary body mass."
+}

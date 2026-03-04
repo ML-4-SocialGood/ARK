@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave curvature along the trailing edge spline from apex to posterior insertion.",
+    "apex_bounding_geometry": "Rounded morphology with a detectable pixel radius at the maximum dorsal point.",
+    "leading_edge_angle": "Steep linear ascent relative to the horizontal dorsal ridge line.",
+    "pixel_aspect_ratio": "Maximum pixel base width exceeds maximum vertical height with an approximate ratio of 1.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "Visible light-colored rectangular mark positioned at the posterior base of the dorsal fin.",
+  "other_distinctive_markers": null
+}

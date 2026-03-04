@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave spline fitting from the apex to the posterior insertion point, indicating a moderately deep falcate curvature.",
+    "apex_bounding_geometry": "Rounded classification with a narrow pixel radius at the fin's maximum vertical point.",
+    "leading_edge_angle": "Convex anterior margin transitioning from approximately 25 degrees at the base to 65 degrees near the apex relative to the horizontal axis.",
+    "pixel_aspect_ratio": "Approximately 2.3:1 ratio of maximum visible base width to maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "Distinct linear diagonal scratch visible on the upper lateral surface of the fin; diffuse lighter pigmentation patches and minor skin irregularities near the posterior base.",
+  "other_distinctive_markers": null
+}

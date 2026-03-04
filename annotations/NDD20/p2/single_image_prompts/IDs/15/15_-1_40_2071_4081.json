@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a concave spline curvature from the posterior insertion point to the apex.",
+    "apex_bounding_geometry": "The highest morphological point is characterized by a rounded shape with a small pixel radius.",
+    "leading_edge_angle": "The anterior margin presents a steep convex slope relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Vertical pixel height exceeds the maximum horizontal base width, resulting in a tall aspect ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon region displays a broad, convex arc boundary with a large structural radius.",
+    "rostrum_aspect_vector": "The visible rostrum is thick and short in length relative to its base width, extending from the cranial base.",
+    "cranial_inflection_angle": "A distinct obtuse interior angle is visible at the pixel coordinate where the melon slope transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "High-contrast white patches are visible on the mid-lateral and ventral body surfaces."
+}

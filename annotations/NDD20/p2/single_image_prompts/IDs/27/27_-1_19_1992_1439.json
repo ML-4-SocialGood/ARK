@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave spline fitting a falcate profile on the trailing edge, with curvature increasing from the mid-point to the posterior base.",
+    "apex_bounding_geometry": "Rounded morphological point with an obtuse pixel radius.",
+    "leading_edge_angle": "Constant positive slope transitioning from the dorsal ridge at approximately 40 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Ratio of maximum horizontal base width to maximum vertical height is approximately 1.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "Cluster of small, circular white depigmented focal marks on the anterior-dorsal flank; irregular light-gray mottled patches on the mid-to-posterior surface of the dorsal fin.",
+  "other_distinctive_markers": null
+}

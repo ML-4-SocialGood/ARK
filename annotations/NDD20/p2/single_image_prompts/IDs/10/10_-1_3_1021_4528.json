@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Sharp concave polygonal trailing edge with a single discrete vertex inflection; lacks smooth curvilinear properties.",
+    "apex_bounding_geometry": "Acute geometric vertex with a pixel radius of zero, forming a sharp point.",
+    "leading_edge_angle": "Approximately 48 degrees relative to the dorsal longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.25:1 ratio of the pixel base width to the vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Truncated, blocky projection with a length-to-thickness ratio of approximately 1:2.",
+    "cranial_inflection_angle": "Approximately 130 degrees at the polygonal junction where the forehead facet transitions to the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is an artificial low-polygon 3D model featuring a uniform cyan emissive texture and visible geometric facets."
+}

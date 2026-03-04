@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with near-zero curvature, lacking standard falcate geometry.",
+    "apex_bounding_geometry": "Acute point with minimal pixel radius; classified as acute.",
+    "leading_edge_angle": "Approximately 70-75 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "High vertical-to-base ratio, roughly 2.5:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Small radius curve fitting a tight, highly convex anterior-dorsal boundary.",
+    "rostrum_aspect_vector": "Short, blunt projection with a pixel length nearly equal to its base thickness.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 130 degrees at the rostrum-melon junction."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Bioluminescent-like cyan light emission localized within the orbital/eye region."
+}

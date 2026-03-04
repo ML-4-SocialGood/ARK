@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": "Acute vertex with no measurable pixel radius, forming a sharp point.",
+    "leading_edge_angle": "Approximately 60 degrees relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Approximate 1:1 ratio between maximum base width and vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Short, blunt protrusion with minimal longitudinal pixel extension.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 155 degrees where the forehead slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible low-polygon mesh boundaries and aliasing consistent with a synthetic 3D digital model."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge presents as a straight linear segment with zero observable curvature, meeting the dorsal ridge at a sharp vertex.",
+    "apex_bounding_geometry": "Acute angular vertex with a pixel radius approaching zero, forming a sharp point rather than a rounded morphological feature.",
+    "leading_edge_angle": "Approximately 50 degrees relative to the visible longitudinal axis of the dorsal surface.",
+    "pixel_aspect_ratio": "Approximately 1.5:1 ratio of the observed base width to the vertical height from the dorsal ridge to the apex."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Melon boundary is composed of flat, faceted planes with negligible curvature; no smooth arc radius can be fitted to the pixel data.",
+    "rostrum_aspect_vector": "Rostrum is elongated and tapers linearly to a sharp point; thickness decreases steadily from the inflection point to the terminal tip.",
+    "cranial_inflection_angle": "Measurable interior angle at the transition from the melon facet to the rostrum is approximately 165 degrees."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays prominent geometric faceting and low-polygon mesh artifacts across the entire visible surface, indicating a synthetic or low-resolution digital origin."
+}

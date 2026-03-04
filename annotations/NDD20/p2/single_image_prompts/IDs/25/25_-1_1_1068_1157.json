@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge follows a concave spline, transitioning from a steep descent at the apex to a more horizontal orientation at the posterior insertion point.",
+    "apex_bounding_geometry": "The highest morphological point exhibits a rounded pixel radius, lacking acute or sharp tapering.",
+    "leading_edge_angle": "The anterior margin presents a steep linear ascent at approximately 65 degrees relative to the horizontal axis of the dorsal ridge.",
+    "pixel_aspect_ratio": "The ratio of the fin's maximum base width to its maximum vertical height is approximately 1.7:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "Numerous small, white punctate speckles are distributed across the lateral surface of the dorsal fin and the adjacent dorsal ridge.",
+  "other_distinctive_markers": "Strong specular highlights are visible on the wet surface of the skin along the anterior portion of the dorsal ridge."
+}

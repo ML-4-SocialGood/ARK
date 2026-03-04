@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a straight to slightly convex linear spline with no concave falcation.",
+    "apex_bounding_geometry": "Rounded shape classification with a large pixel radius at the peak.",
+    "leading_edge_angle": "Approximately 45-degree linear incline relative to the dorsal midline axis.",
+    "pixel_aspect_ratio": "Approximately 1.0 ratio between the maximum base width and maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad, large-radius convex arc forming a continuous curve across the cranial region.",
+    "rostrum_aspect_vector": "Short, thick conical protrusion; pixel length is significantly less than melon width.",
+    "cranial_inflection_angle": "Wide obtuse angle (approx. 155 degrees) at the transition from melon slope to rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a stylized, low-polygon 3D model with luminescent cyan shading and no organic textures."
+}

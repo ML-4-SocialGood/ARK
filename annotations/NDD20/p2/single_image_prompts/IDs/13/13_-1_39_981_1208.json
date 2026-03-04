@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Deeply concave, smooth spline fitting the trailing edge from the posterior dorsal ridge to the apex, indicating a high degree of falcation.",
+    "apex_bounding_geometry": "Small pixel radius apex classified as rounded-acute, displaying a distinct posterior orientation.",
+    "leading_edge_angle": "Linear to slightly convex anterior margin rising at a steep angular trajectory relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Maximum base width is approximately 1.7 times the maximum vertical height from the dorsal midline to the apex."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "Multiple white, irregular, branched linear scars (likely tooth rakes) located on the lower anterior body surface; a minor structural indentation is visible on the extreme tip of the apex.",
+  "other_distinctive_markers": "Extensive light-toned mottling and speckled pigmentation patterns distributed across the lateral surface of the dorsal fin."
+}

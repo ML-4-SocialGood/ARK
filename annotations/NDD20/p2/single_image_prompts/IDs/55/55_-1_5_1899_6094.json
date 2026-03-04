@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is linear with zero curvature, characteristic of a low-polygon geometric primitive.",
+    "apex_bounding_geometry": "Acute vertex with near-zero pixel radius; sharp angular point.",
+    "leading_edge_angle": "Steeply angled at approximately 70 degrees relative to the dorsal body axis.",
+    "pixel_aspect_ratio": "Approximately 0.4 base width to 1.0 vertical height, indicating a tall, narrow silhouette."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convexity is composed of two discrete flat polygonal segments rather than a radius-based curve.",
+    "rostrum_aspect_vector": "Short, blunt projection with a length-to-thickness ratio of approximately 1:1.",
+    "cranial_inflection_angle": "Obtuse angle of approximately 145 degrees where the melon facet meets the rostrum facet."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-fidelity 3D mesh model with a uniform cyan luminescent texture and visible polygonal facets."
+}

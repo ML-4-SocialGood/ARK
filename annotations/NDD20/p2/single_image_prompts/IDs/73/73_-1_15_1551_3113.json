@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Strongly concave trailing edge exhibiting a deep falcate curve towards the base.",
+    "apex_bounding_geometry": "Acute shape with a narrow pixel radius, resulting in a pointed tip.",
+    "leading_edge_angle": "Approximately 50 degrees relative to the dorsal longitudinal axis.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio is approximately 1.2:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius convexity, exhibiting a smooth, rounded profile.",
+    "rostrum_aspect_vector": "Short, robust beak; horizontal pixel length is approximately 25% of the total cranial height.",
+    "cranial_inflection_angle": "Clear obtuse angle of approximately 140 degrees where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Prominent V-shaped notch located on the mid-to-lower trailing edge of the dorsal fin. Visible linear scar or marking running diagonally across the upper lateral flank behind the blowhole region.",
+  "other_distinctive_markers": "Specimen exhibits a highly saturated cyan-blue pixel hue across the entire visible surface, likely due to external lighting or post-processing."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is characterized by a single linear polygonal segment with zero curvature, sloping from the apex to the dorsal ridge.",
+    "apex_bounding_geometry": "Acute vertex with a minimal pixel radius, representing the intersection of two straight polygonal edges.",
+    "leading_edge_angle": "Steep anterior slope of approximately 75 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximate ratio of 1:2.2 (base width to vertical height)."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Short, sharp triangular protrusion with a thickness approximately equal to its length.",
+    "cranial_inflection_angle": "Obtuse angle of approximately 135 degrees at the vertex where the cranial slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a low-poly, monochromatic cyan 3D model featuring aliased edges and flat-shaded polygonal facets."
+}

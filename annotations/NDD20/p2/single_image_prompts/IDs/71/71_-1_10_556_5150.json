@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a moderate concave curvature, following a spline that steepens toward the posterior insertion point.",
+    "apex_bounding_geometry": "The fin terminates in an acute apex with a small rounded radius of approximately 5-8 pixels.",
+    "leading_edge_angle": "The anterior margin maintains a steep linear incline of approximately 55 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of the maximum base width to the vertical height from the dorsal ridge."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon displays a smooth, convex arc with a consistent radius of curvature from the blowhole to the beak base.",
+    "rostrum_aspect_vector": "The rostrum is short and robust, with a visible length approximately equal to its thickness at the inflection point.",
+    "cranial_inflection_angle": "A clear obtuse inflection point is visible between the melon and the rostrum, measured at approximately 145 degrees."
+  },
+  "acquired_anomalies_or_scars": "A series of dark, circular markings are visible on the mid-lateral flank, potentially indicating skin lesions or texture artifacts.",
+  "other_distinctive_markers": "The subject displays a uniform cyan monochromatic spectral signature across all visible pixel data, and the caudal peduncle exhibits a sharp angular transition to the fluke."
+}

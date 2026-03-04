@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a low-magnitude concave spline fitting from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Rounded apex shape classification with a wide pixel radius.",
+    "leading_edge_angle": "Steep linear slope of approximately 60 degrees relative to the horizontal dorsal body axis.",
+    "pixel_aspect_ratio": "Approximate 1.4:1 ratio of maximum pixel base width to vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Continuous, large-radius convex arc characteristic of a blunt, non-beaked cranial structure.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible left pectoral fin with a tapered, slightly falcate trailing edge and rounded distal tip."
+}

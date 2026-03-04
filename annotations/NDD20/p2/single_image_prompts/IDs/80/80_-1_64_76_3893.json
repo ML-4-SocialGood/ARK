@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": "Acute vertex; sub-pixel radius (<1px); classification: acute.",
+    "leading_edge_angle": "Approximately 42 degrees relative to the longitudinal dorsal-ventral axis.",
+    "pixel_aspect_ratio": "1.2:1 (estimated base-to-height ratio)."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Linear extension approximately 15 pixels in length with an 8 pixel thickness at base.",
+    "cranial_inflection_angle": "Approximately 140 degrees at the rostrum-to-cranium junction."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-poly, monochromatic cyan digital model with visible aliasing and flat-shaded polygonal facets."
+}

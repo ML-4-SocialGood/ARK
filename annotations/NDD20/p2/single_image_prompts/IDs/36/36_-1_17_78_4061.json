@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge presents a piecewise linear concave profile composed of two distinct polygonal facets, resulting in a non-smooth, notched curve.",
+    "apex_bounding_geometry": "Classification is acute; the apex is formed by a single vertex with a negligible pixel radius.",
+    "leading_edge_angle": "The anterior margin is a straight linear segment angled at approximately 55 degrees relative to the horizontal dorsal midline.",
+    "pixel_aspect_ratio": "Maximum pixel base width is approximately 1.2 times the vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The structural convexity consists of three discrete linear segments approximating a wide radius relative to the cranial depth.",
+    "rostrum_aspect_vector": "Short, tapered rostrum with a thickness at the base approximately equal to 0.7 times its visible pixel length.",
+    "cranial_inflection_angle": "A sharp interior angle of approximately 140 degrees is visible at the faceted intersection of the melon and rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays low-polygon geometric facets and a uniform cyan-gradient texture characteristic of a 3D digital asset."
+}

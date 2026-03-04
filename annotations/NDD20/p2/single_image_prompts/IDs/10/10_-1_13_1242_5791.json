@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a continuous concave curvature from the apex to the dorsal insertion point.",
+    "apex_bounding_geometry": "Rounded apex with an obtuse shape classification at the highest morphological point.",
+    "leading_edge_angle": "Convex leading edge oriented at an approximate 55-degree angle relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximate 1.4:1 ratio of maximum pixel base width to maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Gently sloping convex arc with a large radius fitted to the anterior-dorsal cranial boundary.",
+    "rostrum_aspect_vector": "Short, robust beak morphology with a pixel length-to-thickness ratio of approximately 1:1.",
+    "cranial_inflection_angle": "Shallow obtuse interior angle at the transition point between the melon and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced contrast between a dark dorsal field and a highly reflective white lateral/ventral field, with a visible dark ocular patch."
+}

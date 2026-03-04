@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear to slightly concave trailing edge spline with negligible falcate curvature visible.",
+    "apex_bounding_geometry": "Acute apex with a sharp point and minimal pixel radius.",
+    "leading_edge_angle": "Steep anterior margin estimated at approximately 55 degrees relative to the horizontal body plane.",
+    "pixel_aspect_ratio": "Max base width is approximately 1.1 times the vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex melon arc with a moderate radius tapering towards the rostrum.",
+    "rostrum_aspect_vector": "Short, robust rostrum with a visible length approximately equal to its thickness at the base.",
+    "cranial_inflection_angle": "Distinct obtuse angle observed at the pixel coordinate where the melon slope meets the dorsal rostrum."
+  },
+  "acquired_anomalies_or_scars": "A prominent cluster of bright, high-contrast horizontal striations and textured marks located on the dorsal cranial region above the ocular area.",
+  "other_distinctive_markers": "The subject displays a uniform monochromatic teal/cyan pixel distribution consistent with specialized sensor output or post-processing filters."
+}

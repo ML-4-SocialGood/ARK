@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Deeply concave trailing edge exhibiting a smooth, continuous spline from the posterior insertion point to the apex, indicating high falcation.",
+    "apex_bounding_geometry": "Rounded morphological apex with a small pixel radius, positioned as the terminal vertical point of the fin.",
+    "leading_edge_angle": "Steep anterior margin sloped at approximately 55 degrees relative to the local longitudinal dorsal ridge.",
+    "pixel_aspect_ratio": "Measured ratio of approximately 1.15:1, comparing the pixel width at the dorsal insertion to the maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Pronounced convex arc with a tight radius fitting the bulbous anterior-dorsal cranial boundary.",
+    "rostrum_aspect_vector": "Short, stubby beak with a low length-to-thickness ratio extending from the melon's distal margin.",
+    "cranial_inflection_angle": "Measurable obtuse interior angle at the pixel coordinate where the convex melon gradient transitions to the dorsal rostrum line."
+  },
+  "acquired_anomalies_or_scars": "A small, singular V-shaped notch is visible on the posterior trailing edge of the dorsal fin, located approximately one-quarter up from the base.",
+  "other_distinctive_markers": "Prominent broad-based left pectoral fin visible in the lower-left quadrant of the frame."
+}

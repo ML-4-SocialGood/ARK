@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero measurable falcation; edge follows a straight spline from apex to posterior insertion point.",
+    "apex_bounding_geometry": "Acute vertex with minimal pixel radius, forming a sharp point rather than a rounded curvature.",
+    "leading_edge_angle": "Steep incline of approximately 52 degrees relative to the horizontal dorsal ridge line.",
+    "pixel_aspect_ratio": "Base-to-height ratio of approximately 1.2:1 based on pixel dimensions."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Subtle, large-radius convexity resulting in a relatively flat slope transitioning to the blowhole region.",
+    "rostrum_aspect_vector": "Short, robust beak profile where visible length is roughly 0.7x its vertical thickness at the base.",
+    "cranial_inflection_angle": "Shallow obtuse angle of approximately 155 degrees where the melon contour meets the superior rostrum plane."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced polygonal edge artifacts visible along the ventral silhouette and pectoral fin margins, indicative of a low-resolution synthetic 3D mesh structure."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge spline exhibiting a continuous curve from the apex to the posterior dorsal ridge.",
+    "apex_bounding_geometry": "Rounded apex with a smooth, medium-radius pixel curvature.",
+    "leading_edge_angle": "Approximate 45-degree angular steepness relative to the horizontal dorsal body axis.",
+    "pixel_aspect_ratio": "Measured ratio of approximately 1.1:1 base width to vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Shallow, large-radius convexity with a gradual slope towards the anterior terminus.",
+    "rostrum_aspect_vector": "Short, integrated anterior projection with minimal pixel extension beyond the melon inflection.",
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject exhibits low-polygon geometric surface facets and a non-biological uniform cyan texture with synthetic lighting highlights."
+}

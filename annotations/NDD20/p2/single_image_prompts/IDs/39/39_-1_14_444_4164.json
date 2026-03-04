@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with negligible curvature, following a straight spline from the dorsal ridge to the sharp apex.",
+    "apex_bounding_geometry": "Acute classification; the apex terminates in a sharp vertex with a near-zero pixel radius.",
+    "leading_edge_angle": "Steep anterior margin, approximately 65 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximately 0.5; the vertical height is roughly twice the width of the pixel base."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex melon boundary represented by a large-radius curve composed of distinct polygonal facets.",
+    "rostrum_aspect_vector": "Short, high-thickness rostrum with a length approximately equal to its vertical base thickness.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 140 degrees at the vertex where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits a low-polygon geometric mesh structure with cyan vertex shading and faceted surface geometry characteristic of early 3D rendering."
+}

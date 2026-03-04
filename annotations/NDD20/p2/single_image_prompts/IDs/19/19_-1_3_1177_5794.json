@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a moderately concave spline from the dorsal ridge junction to the apex.",
+    "apex_bounding_geometry": "Small pixel radius, acute vertex shape classification.",
+    "leading_edge_angle": "Steep positive slope, approximately 55 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximate 1:1 ratio between the maximum pixel base width and vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Consistent convex curvature with a medium pixel radius.",
+    "rostrum_aspect_vector": "Relatively short and robust pixel length-to-thickness ratio.",
+    "cranial_inflection_angle": "Distinct obtuse inflection point at the transition between the melon and rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Highly stylized low-poly geometric mesh with a monochromatic luminescent cyan texture."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Strongly concave trailing edge with a high-degree curvature originating from the posterior dorsal ridge to a backward-sweeping apex.",
+    "apex_bounding_geometry": "Acute and sharply pointed apex with minimal rounding at the terminal pixel cluster.",
+    "leading_edge_angle": "Convex anterior margin with a steep incline of approximately 40 degrees relative to the horizontal dorsal midline.",
+    "pixel_aspect_ratio": "Broad base-to-height ratio estimated at approximately 1.8:1 based on visible pixel distribution."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large, smooth convex arc forming a bulbous forehead structure with a wide curvature radius.",
+    "rostrum_aspect_vector": "Short, low-profile beak with minimal horizontal extension beyond the melon's leading edge.",
+    "cranial_inflection_angle": "Distinct obtuse notch visible where the melon curvature meets the superior plane of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The specimen exhibits a non-biological uniform teal/cyan coloration with high-frequency specular highlights concentrated on the anterior-dorsal surface."
+}

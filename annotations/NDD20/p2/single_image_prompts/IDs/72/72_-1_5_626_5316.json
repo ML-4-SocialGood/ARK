@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge is a straight linear segment with zero curvature, characteristic of low-poly geometry rather than a biological spline.",
+    "apex_bounding_geometry": "Acute vertex with a negligible pixel radius, forming a sharp angular point.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Approximately 1.6:1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "A single high-contrast white linear segment is visible on the lower posterior flank.",
+  "other_distinctive_markers": "Subject exhibits a non-biological low-poly mesh structure and monochromatic cyan self-illumination/emissive texture."
+}

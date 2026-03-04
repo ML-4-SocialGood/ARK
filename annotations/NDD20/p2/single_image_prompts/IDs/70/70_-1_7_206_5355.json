@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge follows a near-linear spline with minimal concavity, consistent with low-polygon mesh geometry.",
+    "apex_bounding_geometry": "Apex is acute, characterized by a single pixel-point vertex with no measurable curvature radius.",
+    "leading_edge_angle": "Steep anterior margin at approximately 75 degrees relative to the horizontal dorsal ridge line.",
+    "pixel_aspect_ratio": "0.55:1 ratio between the maximum base width and the vertical height from the dorsal ridge to the apex."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Melon exhibits a large-radius convex curve that tapers directly into the anterior point of the mesh structure.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a low-polygon 3D asset with visible faceted geometry and synthetic texture mapping."
+}

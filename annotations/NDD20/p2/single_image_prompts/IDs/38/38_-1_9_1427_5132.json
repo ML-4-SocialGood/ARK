@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge is characterized by a straight linear segment with zero curvature, exhibiting no measurable falcation from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "The highest morphological point terminates in a single-pixel acute vertex with no measurable radius.",
+    "leading_edge_angle": "The anterior margin contour presents a steep linear ascent at approximately 60 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximately 1:1; the vertical height from the dorsal ridge to the apex is equal to the longitudinal base width."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon 3D geometric mesh with a uniform cyan emissive texture; the morphology includes four distinct, triangular ventral-lateral fins rather than a single pectoral pair."
+}

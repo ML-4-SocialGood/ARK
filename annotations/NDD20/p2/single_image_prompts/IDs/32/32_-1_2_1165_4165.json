@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave spline transition fitted to the trailing edge, originating at the apex and terminating at the posterior dorsal insertion point.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius at the highest morphological point.",
+    "leading_edge_angle": "Approximately 45-degree inclination relative to the primary horizontal body axis.",
+    "pixel_aspect_ratio": "Calculated ratio of approximately 1.4:1 for maximum base width to maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex semi-circular arc fitted to the anterior-dorsal boundary, showing clear structural convexity.",
+    "rostrum_aspect_vector": "Short pixel length with high relative thickness extending from the cranial inflection point.",
+    "cranial_inflection_angle": "Defined obtuse angle at the pixel coordinate where the descending melon slope transitions into the rostrum ridge."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Luminous cyan-colored digital low-poly 3D mesh geometry with visible polygonal facets and high-contrast shading."
+}

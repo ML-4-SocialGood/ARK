@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": null,
+    "leading_edge_angle": "Approximately 45 degrees relative to the horizontal dorsal midline",
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smoothly convex semi-circular arc fitting the anterior-dorsal boundary",
+    "rostrum_aspect_vector": "Short, robust beak with low length-to-thickness pixel ratio",
+    "cranial_inflection_angle": "Clear obtuse interior angle at the transition from the melon to the rostrum"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extreme specular highlights across the lateral and dorsal surfaces suggest a digital rendering or low-resolution capture"
+}

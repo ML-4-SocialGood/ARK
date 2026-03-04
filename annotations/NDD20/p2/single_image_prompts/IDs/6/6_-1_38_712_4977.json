@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge spline with negligible curvature, meeting the posterior body axis at a sharp interior angle.",
+    "apex_bounding_geometry": "Acute point classification with a pixel radius near zero, indicating a sharp geometric vertex.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the longitudinal dorsal ridge.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 base width to vertical height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex arc with a consistent radius roughly 1/4 the total cranial width.",
+    "rostrum_aspect_vector": "Short, conical protrusion with a pixel length roughly equal to its basal thickness.",
+    "cranial_inflection_angle": "Obtuse angle of approximately 150 degrees at the transition point between the melon and rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon 3D model exhibiting a uniform cyan-teal emissive glow against a zero-value black background."
+}

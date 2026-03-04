@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Deeply concave trailing edge spline extending from the posterior base to the acute apex.",
+    "apex_bounding_geometry": "Acute, pointed geometry with minimal rounding radius at the highest morphological point.",
+    "leading_edge_angle": "Approximately 50 degrees relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Approximately 1.4:1 (base width to vertical height)."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad, low-curvature convexity along the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": "Short and thick beak projection; length is approximately equal to its thickness at the base.",
+    "cranial_inflection_angle": "Obtuse interior angle (approximately 150 degrees) at the melon-rostrum junction."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Caudal fin (fluke) is visible, exhibiting sharp, geometric tip morphology and a distinct median notch."
+}

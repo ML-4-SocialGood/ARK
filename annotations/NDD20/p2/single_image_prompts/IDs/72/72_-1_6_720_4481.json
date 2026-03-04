@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge displays a nearly linear profile with a slight concave curvature near the base ridge.",
+    "apex_bounding_geometry": "Rounded apex with a small pixel radius and obtuse shape classification.",
+    "leading_edge_angle": "Steep anterior margin, approximately 65 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Base width is approximately 1.4 times the maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius convex curve indicating a smooth, gradual melon slope.",
+    "rostrum_aspect_vector": "Short, thick beak with high vertical-to-horizontal pixel ratio.",
+    "cranial_inflection_angle": "Visible obtuse interior angle at the transition point between the melon and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan-blue coloration across the entire visible surface; presence of low-polygon aliasing on the distal edges of the flippers and flukes."
+}

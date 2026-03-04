@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a straight-line vector with zero curvature, consistent with a single polygonal segment.",
+    "apex_bounding_geometry": "Acute vertex with no measurable rounding; shape classification is acute.",
+    "leading_edge_angle": "Approximately 70 degrees relative to the longitudinal body axis at the point of insertion.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Segmented convex arc with a moderate radius, defined by discrete polygonal faces.",
+    "rostrum_aspect_vector": "Highly elongated and narrow; pixel length is approximately 4x the base thickness.",
+    "cranial_inflection_angle": "Measurable interior angle of approximately 155 degrees at the transition from the melon slope to the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible low-polygon mesh topology and a glowing gradient texture with internal specular highlights; absence of biological dermal micro-features."
+}

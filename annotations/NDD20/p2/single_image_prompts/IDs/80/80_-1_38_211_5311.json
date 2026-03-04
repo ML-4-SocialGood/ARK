@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature; the spline fit from the dorsal ridge to the apex is a straight line segment.",
+    "apex_bounding_geometry": "Acute vertex with a pixel radius of zero; the highest morphological point is a sharp polygonal corner.",
+    "leading_edge_angle": "Approximately 50 degrees relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of the maximum pixel base width to maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Short, triangular protrusion with a length-to-thickness ratio of approximately 1:1.",
+    "cranial_inflection_angle": "Approximately 155 degrees at the hard-edged pixel boundary where the forehead facet transitions into the snout."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-polygon 3D digital mesh structure with visible faceted shading and a luminescent cyan/teal gradient texture."
+}

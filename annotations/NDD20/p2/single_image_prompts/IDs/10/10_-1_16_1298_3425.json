@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Strongly concave spline fitting along the trailing edge, exhibiting a pronounced recurve toward the posterior base.",
+    "apex_bounding_geometry": "Small pixel radius, shape classified as acute-rounded.",
+    "leading_edge_angle": "Approximately 40-degree linear slope relative to the horizontal mid-body axis.",
+    "pixel_aspect_ratio": "Base width is approximately 1.5 times the vertical height from the dorsal ridge."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth, moderate-radius convex curve originating from the blowhole region and terminating at the rostrum base.",
+    "rostrum_aspect_vector": "Short, tapered rostrum with a length approximately equal to the melon's vertical thickness.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 135 degrees where the melon meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": "A distinct white linear mark is visible on the dorsal surface anterior to the blowhole; minor irregular indentations present along the trailing edge of the dorsal fin.",
+  "other_distinctive_markers": "Uniform turquoise-cyan color cast across the entire pixel map; clearly defined pectoral fin with a rounded leading edge and straight trailing edge."
+}

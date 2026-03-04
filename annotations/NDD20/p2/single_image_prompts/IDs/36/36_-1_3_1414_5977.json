@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge curvature with distinct polygonal discretization.",
+    "apex_bounding_geometry": "Rounded apex with a broad pixel radius consistent with low-polygon geometric approximation.",
+    "leading_edge_angle": "Approximately 50 degrees relative to the longitudinal dorsal ridge.",
+    "pixel_aspect_ratio": "1.25:1 ratio of maximum base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large-radius convex arc transitioning into a simplified forehead slope.",
+    "rostrum_aspect_vector": "Short, blunt rostrum with a proportional 1:1 length-to-width pixel ratio visible from the inflection point.",
+    "cranial_inflection_angle": "Approximately 135 degrees at the pixel transition from melon to rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject exhibits a uniform cyan-teal monochromatic luminosity and low-poly topological surface artifacts."
+}

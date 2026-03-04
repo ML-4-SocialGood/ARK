@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature, characteristic of a low-poly geometric mesh.",
+    "apex_bounding_geometry": "Acute shape classification with a zero-pixel radius at the vertex.",
+    "leading_edge_angle": "Approximately 50 degrees relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of maximum base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Short, blunt beak with a pixel thickness-to-length ratio of approximately 1:1.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 155 degrees at the melon-rostrum transition."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Artificial low-polygon 3D model with an emissive cyan-green color map and visible faceted geometry."
+}

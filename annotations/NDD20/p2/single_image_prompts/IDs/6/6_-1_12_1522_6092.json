@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": null,
+    "leading_edge_angle": null,
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex semi-circular boundary at the anterior-most cranial margin.",
+    "rostrum_aspect_vector": "Elongated, tapering rostrum with an approximate 3:1 length-to-width pixel ratio.",
+    "cranial_inflection_angle": "Defined obtuse angle visible at the pixel coordinate where the melon slope meets the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Dorsal perspective revealing bilateral symmetry of pectoral fins and longitudinal body tapering."
+}

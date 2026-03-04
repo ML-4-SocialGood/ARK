@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Smooth concave curvature on the trailing edge, following a parabolic spline from the dorsal insertion to the apex.",
+    "apex_bounding_geometry": "Rounded morphology with an obtuse angle at the highest morphological point.",
+    "leading_edge_angle": "Steep linear incline approximately 55 degrees relative to the primary longitudinal body axis.",
+    "pixel_aspect_ratio": "Maximum base width is approximately 1.6 times the maximum vertical height from the dorsal ridge."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad convex arc with a large pixel radius forming a smooth, rounded forehead profile.",
+    "rostrum_aspect_vector": "Short and thick pixel representation of the beak, showing a low length-to-thickness ratio.",
+    "cranial_inflection_angle": "Obtuse transition angle visible at the pixel coordinate where the descending melon curve meets the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Translucent, iridescent cyan-to-white light-emissive texture across the entire visible surface."
+}

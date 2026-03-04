@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is non-falcate, consisting of a straight linear pixel boundary with zero curvature.",
+    "apex_bounding_geometry": "Acute apex with a vertex radius of zero pixels due to polygonal mesh construction.",
+    "leading_edge_angle": "Steep linear slope at approximately 55 degrees relative to the dorsal ridge.",
+    "pixel_aspect_ratio": "Base-to-height ratio of approximately 1.1:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Null; the melon region is composed of two flat polygonal facets rather than a curved arc.",
+    "rostrum_aspect_vector": "Short, tapered triangular projection with a 1:1 length-to-thickness ratio.",
+    "cranial_inflection_angle": "Measured at approximately 150 degrees at the vertex where the melon facet meets the rostrum facet."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon 3D model with a uniform emissive cyan texture and lacks biological surface details."
+}

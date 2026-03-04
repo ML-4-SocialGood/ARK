@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a moderately concave curvature with a smooth spline transition from the apex to the posterior dorsal ridge.",
+    "apex_bounding_geometry": "Acute shape classification with a small pixel radius, creating a sharp termination point.",
+    "leading_edge_angle": "Approximately 45-degree angular steepness relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Base-to-height ratio of approximately 1.25:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Shallow convex arc with a large radius relative to the head size, sloping gradually toward the rostrum.",
+    "rostrum_aspect_vector": "Short, stubby beak with a low length-to-thickness ratio, protruding distinctly from the cranial base.",
+    "cranial_inflection_angle": "Clear obtuse inflection point of approximately 150 degrees where the melon contour meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Circular, high-luminance light-cyan macule or patch located on the dorsal surface anterior to the fin.",
+  "other_distinctive_markers": "Overall low-polygon geometric rendering style with non-naturalistic uniform surface luminance and sharpened perimeter aliasing."
+}

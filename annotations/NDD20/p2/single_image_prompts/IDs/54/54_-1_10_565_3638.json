@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge follows a slightly concave spline from the posterior base to the apex.",
+    "apex_bounding_geometry": "Pointed apex with an acute shape classification and small pixel radius.",
+    "leading_edge_angle": "Linear anterior margin at approximately a 35-degree angle relative to the dorsal midline.",
+    "pixel_aspect_ratio": "The fin's base width is approximately 2.5 times its vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Minimal structural convexity with a large-radius curve, appearing nearly flat in the profile view.",
+    "rostrum_aspect_vector": "Short, triangular rostrum with a thick base and limited extension from the melon inflection.",
+    "cranial_inflection_angle": "Large obtuse interior angle at the specific pixel transition between the melon and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits uniform green pixel coloration and low-polygon surface geometry consistent with a digital model."
+}

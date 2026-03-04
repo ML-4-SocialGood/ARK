@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Strongly falcate concave curvature along the trailing edge, defined by a single sharp inward spline curve.",
+    "apex_bounding_geometry": "Acute vertex termination with near-zero pixel radius, forming a sharp geometric point.",
+    "leading_edge_angle": "Steep anterior margin set at approximately a 55-degree angle relative to the dorsal body axis.",
+    "pixel_aspect_ratio": "Measured ratio of approximately 1.3:1 (base width to vertical height)."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Flat-to-low convexity arc defined by a linear polygon segment rather than a smooth curve.",
+    "rostrum_aspect_vector": "Short and thick pixel profile; length is approximately equal to the thickness at the base.",
+    "cranial_inflection_angle": "Visible obtuse interior angle where the melon slope transitions to the rostrum upper margin."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits low-polygon geometric mesh edges and a non-biological uniform cyan-teal luminescent texture."
+}

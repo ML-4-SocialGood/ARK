@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge displays a concave spline curvature from the apex to the posterior base, creating a distinctly falcate profile.",
+    "apex_bounding_geometry": "The apex is classified as rounded with a medium pixel radius at the highest morphological point.",
+    "leading_edge_angle": "The anterior margin contour presents an approximate 45-degree angular steepness relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximate 1.4:1 ratio of the maximum pixel base width to the maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Low-profile convexity with a large arc radius transitioning from the blowhole region to the rostrum.",
+    "rostrum_aspect_vector": "Visible beak is short and robust; pixel length from the inflection point is approximately equal to the thickness at the base.",
+    "cranial_inflection_angle": "An obtuse interior angle is visible at the pixel coordinate where the melon curvature transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": "A distinct white concentric circular pattern, resembling a fingerprint or digital watermark, is located on the upper posterior portion of the dorsal fin.",
+  "other_distinctive_markers": "High-intensity specular highlights causing pixel saturation along the dorsal-lateral ridge; presence of a dark, longitudinal lateral band."
+}

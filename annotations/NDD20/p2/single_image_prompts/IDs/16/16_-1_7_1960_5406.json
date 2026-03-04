@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Minimal falcation; trailing edge presents as a near-linear spline with slight concave curvature at the basal insertion point.",
+    "apex_bounding_geometry": "Acute shape classification with minimal pixel radius terminating in a sharp vertex.",
+    "leading_edge_angle": "Approximately 55-60 degrees relative to the dorsal longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.4:1 ratio of maximum basal width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Extremely large radius resulting in a nearly linear, low-poly slope from the cranial peak to the rostrum.",
+    "rostrum_aspect_vector": "Short, thickened triangular projection with length approximately equal to its basal thickness.",
+    "cranial_inflection_angle": "High obtuse angle at the transition point between the cranial slope and the dorsal rostrum ridge."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced low-polygon topology and simplified texture mapping characteristic of a digital asset rather than a biological organism."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": null,
+    "leading_edge_angle": null,
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Continuous convex curvature with a broad radius defining the dorsal-anterior cranial boundary.",
+    "rostrum_aspect_vector": "Tapered triangular projection with a pixel length-to-base-thickness ratio of approximately 1.1:1.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 165 degrees where the melon gradient transitions to the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

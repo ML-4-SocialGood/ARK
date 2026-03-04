@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature; characteristic of low-poly polygon boundaries.",
+    "apex_bounding_geometry": "Acute vertex with a pixel radius of approximately 1, forming a sharp geometric point.",
+    "leading_edge_angle": "Approximately 45 degrees relative to the horizontal dorsal ridge line.",
+    "pixel_aspect_ratio": "Approximate ratio of 1.1:1 base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex faceted arc forming a blunt anterior profile without a distinct separate beak.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a low-polygon 3D model with uniform cyan luminescence and visible polygonal face intersections."
+}

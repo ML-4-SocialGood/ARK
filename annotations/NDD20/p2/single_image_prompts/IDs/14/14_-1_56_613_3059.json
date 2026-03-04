@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave parabolic curve following the trailing edge from the posterior insertion point to the apex.",
+    "apex_bounding_geometry": "Acute-rounded vertex with a small pixel radius at the tip of the fin.",
+    "leading_edge_angle": "Steep anterior slope measured at approximately 55 degrees relative to the dorsal longitudinal axis.",
+    "pixel_aspect_ratio": "Estimated 1.4:1 ratio of maximum base width to the vertical height of the fin."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large convex arc radius forming a prominent, rounded forehead profile.",
+    "rostrum_aspect_vector": "Short, robust rostrum visible with a high thickness-to-length ratio relative to the cranial mass.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the pixel junction where the melon slope meets the dorsal rostrum line."
+  },
+  "acquired_anomalies_or_scars": "Distinct circular pale-colored lesion or pigment mark located on the mid-dorsal flank, posterior to the blowhole region.",
+  "other_distinctive_markers": "Visible eye-to-flipper dark stripe or pigment band extending along the lower lateral cranial surface."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge is predominantly linear with zero visible curvature, fitting a straight-line vector from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute point with a minimal pixel radius, forming a sharp triangular termination.",
+    "leading_edge_angle": "High steepness measured at approximately 75 degrees relative to the horizontal dorsal plane.",
+    "pixel_aspect_ratio": "Base-to-height ratio is approximately 0.8:1, indicating a taller, narrower profile."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex curvature with a medium-to-large radius, exhibiting a bulbous structural profile.",
+    "rostrum_aspect_vector": "Short, blunt rostrum with a low length-to-thickness ratio, extending minimally from the cranial base.",
+    "cranial_inflection_angle": "Indistinct inflection point characterized by a wide obtuse transition of approximately 160 degrees from melon to snout tip."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Cyan-toned emissive luminescence across the entire body; visible low-polygon mesh artifacts; glowing white elliptical patch situated in the post-ocular region."
+}

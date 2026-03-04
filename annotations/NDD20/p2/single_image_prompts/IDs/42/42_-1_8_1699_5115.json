@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": "Acute vertex with near-zero pixel radius; triangular profile.",
+    "leading_edge_angle": "Linear margin approximately 65-70 degrees relative to the dorsal longitudinal axis.",
+    "pixel_aspect_ratio": "Approximate 1:1.2 base width to vertical height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Tapered conical geometry; short pixel length relative to total cranial volume.",
+    "cranial_inflection_angle": "Distinct obtuse angle at the polygonal junction of the melon slope and rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon 3D digital model with a uniform cyan emissive texture and no biological surface detailing."
+}

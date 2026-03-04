@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with no measurable curvature, terminating in a sharp vertex transition.",
+    "apex_bounding_geometry": "Acute point with a radius of zero pixels, defined by a single polygonal vertex.",
+    "leading_edge_angle": "Linear margin at an approximate 50-degree incline relative to the dorsal midline.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Non-curvilinear; the melon region is represented by two intersecting planar facets forming a ridge.",
+    "rostrum_aspect_vector": "Short, blocky rostrum with a length-to-thickness ratio of approximately 1:1, terminating in a blunt tip.",
+    "cranial_inflection_angle": "Distinct obtuse angle of approximately 150 degrees at the intersection of the melon and rostrum planes."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays a low-polygon digital mesh structure with monochromatic green-cyan surface illumination."
+}

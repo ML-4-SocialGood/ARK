@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is linear with no discernible spline curvature, represented by a single straight polygon edge.",
+    "apex_bounding_geometry": "Acute vertex with a pixel radius of approximately 1; shape classification: acute.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the dorsal longitudinal axis.",
+    "pixel_aspect_ratio": "Approximately 1.3:1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Short, triangular protrusion tapering to a point; thickness is roughly equal to length.",
+    "cranial_inflection_angle": "Approximately 155 degrees at the transition from the cranial slope to the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a monochromatic cyan-teal luminescent low-polygon model with internal light-intensity gradients suggesting a simplified skeletal structure."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a gentle concave curvature forming a falcate profile, though discrete due to low-poly edge resolution.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius resulting in a sharp point.",
+    "leading_edge_angle": "Steep anterior margin contour at approximately 55 degrees relative to the dorsal longitudinal axis.",
+    "pixel_aspect_ratio": "The maximum vertical height exceeds the pixel base width, resulting in a ratio of approximately 1.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Pronounced convex melon arc with a small radius of curvature visible at the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": "Visible short, stubby rostrum with a low length-to-thickness pixel ratio.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the transition point between the melon descent and rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a stylized low-poly 3D model with a uniform, luminous cyan-blue emissive texture."
+}

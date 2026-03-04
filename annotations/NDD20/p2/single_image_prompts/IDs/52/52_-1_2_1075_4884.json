@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with a sharp posterior projection; minimal falcate curvature observed due to low-polygon rendering.",
+    "apex_bounding_geometry": "Acute vertex with a near-zero pixel radius at the apex point.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius approximating a flat surface due to polygonal mesh facets.",
+    "rostrum_aspect_vector": "Short, triangular projection with a length-to-thickness ratio of approximately 2:1.",
+    "cranial_inflection_angle": "Sharp obtuse angle of approximately 140 degrees at the junction of the melon and rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible low-polygon geometric mesh structure and high-contrast artificial texture mapping."
+}

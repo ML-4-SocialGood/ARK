@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear-to-concave spline fit along the trailing edge with minimal posterior curvature.",
+    "apex_bounding_geometry": "Rounded morphology with a narrow pixel radius at the maximum vertical extent.",
+    "leading_edge_angle": "Steep linear ascent, approximately 65-70 degrees relative to the horizontal base.",
+    "pixel_aspect_ratio": "Narrow profile with an approximate ratio of 0.6:1 base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

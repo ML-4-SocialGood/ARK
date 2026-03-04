@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave curvature on the trailing edge characterized by a deep spline arc from the posterior base to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a sharp terminal pixel vertex.",
+    "leading_edge_angle": "Approximately 50-degree linear inclination relative to the longitudinal dorsal ridge.",
+    "pixel_aspect_ratio": "Maximum base width to maximum vertical height ratio of approximately 1.2:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth, low-profile convex curve fitting a large radius along the dorsal-anterior cranial plane.",
+    "rostrum_aspect_vector": "Short, tapered rostrum with a length-to-base-thickness ratio of approximately 1:1.",
+    "cranial_inflection_angle": "Obtuse inflection point measuring approximately 155 degrees where the melon slope meets the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform artificial cyan/turquoise monochromatic surface rendering across the entire organism silhouette."
+}

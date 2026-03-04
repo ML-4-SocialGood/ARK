@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Deeply concave trailing edge with a pronounced falcate curve from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Narrowly rounded apex with a small pixel radius.",
+    "leading_edge_angle": "Convex anterior margin with a steepness of approximately 50 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Maximum pixel base width to vertical height ratio of approximately 0.85:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Gently sloping convex melon forming a continuous large-radius arc toward the rostrum.",
+    "rostrum_aspect_vector": "Short, robust rostrum with a low length-to-thickness ratio protruding from the cranial base.",
+    "cranial_inflection_angle": "Highly obtuse angle of approximately 160 degrees at the transition point between the melon and rostrum."
+  },
+  "acquired_anomalies_or_scars": "Distinct white depigmented notch or scar located on the mid-trailing edge of the dorsal fin.",
+  "other_distinctive_markers": "Prominent tri-color hourglass pigmentation pattern on the lateral flank, characterized by a dark dorsal cape and lighter thoracic and caudal patches."
+}

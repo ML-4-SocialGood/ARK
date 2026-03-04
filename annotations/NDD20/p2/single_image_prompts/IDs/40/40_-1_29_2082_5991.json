@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge displays a concave spline curvature extending from the posterior insertion point to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius, creating a sharp point at the highest morphological extent.",
+    "leading_edge_angle": "Steep linear margin measured at approximately 55-60 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Maximum base width is approximately 1.4 times the maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth, large-radius convex arc defining the melon boundary from the blowhole area to the rostrum.",
+    "rostrum_aspect_vector": "Extremely short and blunt rostrum with a minimal length-to-thickness pixel ratio.",
+    "cranial_inflection_angle": "Shallow obtuse angle of approximately 165 degrees at the pixel transition between the melon and the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Visible irregularly shaped light-colored patch on the dorsal ridge immediately anterior to the dorsal fin; small punctate markings on the lateral flank.",
+  "other_distinctive_markers": "Dark pigmented patch surrounding the ocular region and a distinct pectoral fin with a convex leading edge."
+}

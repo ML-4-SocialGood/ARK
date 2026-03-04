@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Slightly concave trailing edge following a moderate falcate spline from the apex to the posterior insertion point.",
+    "apex_bounding_geometry": "Large pixel radius classified as obtuse and rounded.",
+    "leading_edge_angle": "Approximately 45-degree angular steepness relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Base width is approximately 1.8 times the vertical height from the dorsal midline."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Continuous convex curvature with a wide radius forming a smooth transition from the blowhole region toward the rostrum.",
+    "rostrum_aspect_vector": "Short, thickened beak with a low length-to-thickness ratio extending anteriorly.",
+    "cranial_inflection_angle": "Visible obtuse angle at the pixel coordinate where the melon slope meets the dorsal margin of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits a non-biological cyan luminescent shader with a high-intensity internal core visible through a semi-translucent surface."
+}

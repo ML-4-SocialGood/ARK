@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a smooth concave spline curve with a posterior sweep from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Rounded morphology with an obtuse vertex angle; pixel radius is approximately 10-15% of the total fin height.",
+    "leading_edge_angle": "Anterior margin maintains a linear incline of approximately 50-55 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Maximum pixel base width to vertical height ratio is approximately 1.2:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Melon displays a broad, convex semi-circular arc with a consistent radius typical of a low-detail digital mesh.",
+    "rostrum_aspect_vector": "Visible beak is short and tapered, with a pixel length roughly 1.5 times its thickness at the base.",
+    "cranial_inflection_angle": "A distinct obtuse angle is measurable at the pixel coordinate where the descending melon slope meets the horizontal rostrum plane."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject exhibits uniform cyan-spectrum luminosity and low-polygon geometric artifacts across the entire visible surface."
+}

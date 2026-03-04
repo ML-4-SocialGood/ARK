@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge is characterized by a linear pixel path with zero measurable curvature, representing a non-falcate straight boundary.",
+    "apex_bounding_geometry": "The highest morphological point consists of an acute angular vertex with a pixel radius of approximately 1.",
+    "leading_edge_angle": "The anterior margin contour is oriented at approximately 60 degrees relative to the longitudinal dorsal body axis.",
+    "pixel_aspect_ratio": "The ratio of the maximum pixel base width to the maximum vertical pixel height is approximately 1.1:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon boundary is defined by a high-radius curve approaching a linear slope with minimal measurable convexity.",
+    "rostrum_aspect_vector": "The beak is a tapered, elongated extension with a length approximately 2.5 times its thickness at the base.",
+    "cranial_inflection_angle": "The transition from the melon slope to the rostrum is an obtuse angle of approximately 165 degrees."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays low-polygon geometric topology with visible faceted planes and sharp edge transitions characteristic of a 3D digital model."
+}

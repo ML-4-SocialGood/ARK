@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Slightly concave spline fitting the trailing edge from the posterior ridge to the blunt apex.",
+    "apex_bounding_geometry": "Rounded shape classification with a large pixel radius relative to the fin's height.",
+    "leading_edge_angle": "Approximately 25-30 degree incline relative to the longitudinal dorsal axis.",
+    "pixel_aspect_ratio": "Low aspect ratio with a base width approximately double the vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad convex arc fitting the anterior-dorsal cranial boundary from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "Short, thick beak with a low length-to-base-width pixel ratio.",
+    "cranial_inflection_angle": "Obtuse interior angle where the melon curvature transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible circular ocular region and a distinct horizontal light-colored band along the rostrum."
+}

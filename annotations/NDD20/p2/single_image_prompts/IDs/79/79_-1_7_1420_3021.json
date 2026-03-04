@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": null,
+    "leading_edge_angle": null,
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smoothly convex arc with a wide radius extending from the blowhole region toward the rostrum base.",
+    "rostrum_aspect_vector": "Proportionally short and thick beak with a low pixel length-to-width ratio.",
+    "cranial_inflection_angle": "Shallow, obtuse interior angle at the transition point where the melon curvature meets the rostrum ridge."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Presence of a prominent, darkly pigmented pectoral fin with a tapered apex and recurved trailing edge."
+}

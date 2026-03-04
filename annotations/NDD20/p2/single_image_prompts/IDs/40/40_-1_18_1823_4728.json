@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a smooth, shallow concave spline curvature from the posterior insertion point to the apex.",
+    "apex_bounding_geometry": "Rounded shape classification with an obtuse interior angle at the highest morphological point.",
+    "leading_edge_angle": "Anterior margin maintains a consistent slope of approximately 45-50 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Estimated 2.0:1 ratio between the visible base width and the vertical height from the dorsal ridge."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large-radius convex arc forming a smooth, rounded forehead profile.",
+    "rostrum_aspect_vector": "Short, thick beak protrusion with a low length-to-width pixel ratio extending from the cranial base.",
+    "cranial_inflection_angle": "Shallow obtuse angle visible where the melon's descent meets the dorsal plane of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Prominent visibility of both pectoral fins and ocular region; uniform turquoise-toned pixel values across the entire visible fuselage."
+}

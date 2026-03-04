@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is defined by a sharp concave polygonal path resulting in a falcate silhouette.",
+    "apex_bounding_geometry": "Acute vertex with a single-pixel terminal point; radius is zero due to low-poly rasterization.",
+    "leading_edge_angle": "Steep linear ascent at approximately 70 degrees relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Maximum base width to maximum vertical height ratio of approximately 1.5:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convexity is composed of discrete linear segments; a continuous mathematical arc is not present.",
+    "rostrum_aspect_vector": "Tapered triangular projection with a pixel length roughly twice its base thickness.",
+    "cranial_inflection_angle": "Distinct obtuse angle where the descending melon slope meets the horizontal rostrum plane."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject exhibits low-polygon 3D geometry with a uniform cyan emissive texture and an absence of biological skin features."
+}

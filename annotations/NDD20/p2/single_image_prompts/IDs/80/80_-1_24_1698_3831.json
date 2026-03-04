@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge is characterized by a linear pixel boundary with zero curvature from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute shape classification consisting of a sharp single-vertex point with a negligible pixel radius.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Ratio of maximum pixel base width to maximum vertical pixel height is approximately 1.1:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Uniform convex curvature across the anterior-dorsal boundary with no distinct melon protrusion visible.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-polygon 3D mesh geometry featuring a luminescent cyan-to-teal gradient texture with no organic skin detailing."
+}

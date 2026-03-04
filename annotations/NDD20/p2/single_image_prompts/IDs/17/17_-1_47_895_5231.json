@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature; strictly polygonal boundary from apex to posterior base intersection.",
+    "apex_bounding_geometry": "Acute vertex with minimal pixel radius; sharp angular point characteristic of low-poly rendering.",
+    "leading_edge_angle": "Approximately 40-degree linear incline relative to the horizontal dorsal midline.",
+    "pixel_aspect_ratio": "Approximately 1.5:1 ratio of maximum base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Flat profile with negligible curvature; melon boundary is defined by a single linear polygon segment.",
+    "rostrum_aspect_vector": "Short, blunt beak projection; pixel length is approximately equal to its thickness at the base.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 160 degrees at the rostrum-melon junction."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible faceted low-poly mesh topology; three parallel horizontal texture lines posterior to the ocular region; singular notch on the trailing edge of the primary pectoral fin."
+}

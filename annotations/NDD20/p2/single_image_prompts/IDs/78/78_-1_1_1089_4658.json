@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a concave, non-curvilinear profile consisting of two distinct linear segments meeting at an obtuse interior vertex.",
+    "apex_bounding_geometry": "Acute vertex with a pixel radius approaching zero, forming a sharp geometric point.",
+    "leading_edge_angle": "The anterior margin rises at an approximate 55-degree angle relative to the longitudinal dorsal axis.",
+    "pixel_aspect_ratio": "Approximately 1.2:1, comparing the horizontal pixel distance between the anterior and posterior base points to the vertical height from the base to the apex."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon 3D model with visible flat-shaded triangular facets and an internal cyan-to-white gradient glow."
+}

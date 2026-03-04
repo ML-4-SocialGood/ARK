@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Smooth concave curvature on the trailing edge, transitioning from a vertical apex to a horizontal dorsal base.",
+    "apex_bounding_geometry": "Rounded shape classification with a wide pixel radius at the highest morphological point.",
+    "leading_edge_angle": "Steep positive gradient of approximately 50 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Height and base width are approximately equilateral with a ratio of 1.0."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius convex arc with a gradual slope merging directly into the rostrum.",
+    "rostrum_aspect_vector": "Stubby, blunt projection with a short pixel length relative to its vertical thickness.",
+    "cranial_inflection_angle": "High obtuse angle showing minimal indentation at the transition point between the melon and rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan digital texture with high-contrast luminance gradients and low-polygon edge geometry."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a moderately concave falcate curvature from the apex to the posterior base insertion.",
+    "apex_bounding_geometry": "Acute shape classification with a small-radius rounded apex tip.",
+    "leading_edge_angle": "Steep linear margin angled at approximately 60 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Base width is approximately 1.2 times the vertical pixel height of the fin."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex melon boundary with a smooth, medium-radius arc transition from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "Visible rostrum is short and robust, with pixel length roughly equal to its vertical thickness at the melon interface.",
+    "cranial_inflection_angle": "Identifiable obtuse interior angle at the pixel coordinate where the descending melon slope meets the horizontal rostrum plane."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extreme artificial cyan-green luminescence/overexposure across the entire specimen silhouette against an absolute black background."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The posterior edge (left) exhibits a continuous convex curvature from the apex to the dorsal ridge, indicating an atypical reverse-falcate morphology.",
+    "apex_bounding_geometry": "Acute shape classification with a sharp, minimal pixel radius at the fin's highest morphological point.",
+    "leading_edge_angle": "The anterior margin (right) is concave with an incline of approximately 45 degrees relative to the horizontal longitudinal body axis.",
+    "pixel_aspect_ratio": "The ratio of the maximum pixel base width to the maximum vertical pixel height is approximately 0.7:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "A large-radius convex curve defines the prominent melon, creating a smooth, bulbous forehead profile on the right-hand structure.",
+    "rostrum_aspect_vector": "The rostrum is short and stout, with a pixel length roughly 1.6 times its vertical thickness measured at the base.",
+    "cranial_inflection_angle": "A distinct obtuse angle of approximately 140 degrees is visible where the melon slope transitions into the rostrum's dorsal surface."
+  },
+  "acquired_anomalies_or_scars": "Multiple circular depigmented lesions, consistent with parasitic attachment marks, are visible on the lateral flank and head region.",
+  "other_distinctive_markers": "Highly anomalous elongated needle-like appendage extending from the posterior/tail region; visible blowhole and ocular aperture on the right-hand cranial structure."
+}

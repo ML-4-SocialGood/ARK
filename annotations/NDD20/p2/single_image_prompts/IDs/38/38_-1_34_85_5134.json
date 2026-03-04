@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is a linear, straight segment with zero curvature, characteristic of low-polygon geometry.",
+    "apex_bounding_geometry": "Acute shape classification with a pixel radius of zero; represented by a sharp vertex.",
+    "leading_edge_angle": "Linear slope at approximately 60 degrees relative to the dorsal ridge.",
+    "pixel_aspect_ratio": "Approximately 1.0; base width and vertical height are near-equal in pixel count."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Short, tapered triangular projection; length-to-thickness ratio is approximately 1.2:1.",
+    "cranial_inflection_angle": "Distinct obtuse angle formed by the intersection of two planar polygons."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Synthetic low-poly 3D model topology with uniform cyan emissive texture and jagged aliased edge borders."
+}

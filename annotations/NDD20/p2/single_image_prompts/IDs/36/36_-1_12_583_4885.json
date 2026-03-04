@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Zero curvature; trailing edge is a linear pixel boundary with no measurable spline deviation.",
+    "apex_bounding_geometry": "Acute vertex; minimal pixel radius (~1px) consistent with a sharp geometric point.",
+    "leading_edge_angle": "Approximately 58 degrees relative to the horizontal dorsal body axis.",
+    "pixel_aspect_ratio": "1.15:1 ratio of maximum base width to maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Short, triangular wedge; pixel length from inflection point is approximately 0.8x the base thickness.",
+    "cranial_inflection_angle": "142-degree interior angle at the pixel coordinate where the flat facial facet meets the dorsal rostrum surface."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a low-polygon 3D mesh exhibiting flat-shaded facets and a translucent cyan texture with internal caustic-like luminance patterns."
+}

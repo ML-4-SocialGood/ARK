@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Pronounced concave spline fitting the trailing edge from the apex to the posterior base, indicating high falcation.",
+    "apex_bounding_geometry": "Acute tip with a small pixel radius, forming a sharp point at the maximum vertical extent.",
+    "leading_edge_angle": "Steeply ascending linear-to-slightly-convex contour at approximately 45 degrees relative to the dorsal ridge.",
+    "pixel_aspect_ratio": "Approximate 1:1.2 ratio between the visible base chord length and the vertical height from the dorsal ridge to the apex."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth, mid-radius convex curve extending from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "Short, robust beak with a high thickness-to-length ratio, extending anteriorly from the melon inflection.",
+    "cranial_inflection_angle": "Distinct obtuse interior angle at the specific pixel junction where the melon slope transitions into the upper rostrum."
+  },
+  "acquired_anomalies_or_scars": "Small, bright white circular depigmentation mark (potential scar or lesion) located at the anterior base of the dorsal fin.",
+  "other_distinctive_markers": "Pronounced teal/cyan light scattering across the entirety of the visible epidermis; visible peduncle narrowing prior to the tail fluke."
+}

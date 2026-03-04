@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge is characterized by a straight, linear spline with no discernible falcate curvature from the apex to the posterior insertion point.",
+    "apex_bounding_geometry": "Acute vertex with a minimal pixel radius, resulting in a sharp, non-rounded peak.",
+    "leading_edge_angle": "Approximately 45-degree posterior incline relative to the longitudinal axis of the dorsal ridge.",
+    "pixel_aspect_ratio": "Maximum pixel base width is approximately double the maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad convexity with a large curvature radius forming a blunt, rounded anterior profile.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a stylized low-polygon 3D digital model with a self-illuminated cyan texture and visible geometric mesh faceting."
+}

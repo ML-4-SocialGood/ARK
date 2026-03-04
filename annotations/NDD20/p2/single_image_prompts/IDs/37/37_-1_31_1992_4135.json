@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a simple concave curvature formed by two discrete linear segments meeting at a shallow vertex.",
+    "apex_bounding_geometry": "Acute shape with a sharp, single-pixel radius apex point.",
+    "leading_edge_angle": "Anterior margin is oriented at approximately 60 degrees relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Maximum horizontal base width to maximum vertical height ratio is approximately 1.1:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Melon presents a low-profile convexity with a large fitted arc radius, resulting in a shallow forehead slope.",
+    "rostrum_aspect_vector": "Beak is short and conical; pixel length is approximately 1.2 times the thickness measured at the base.",
+    "cranial_inflection_angle": "Transition between melon and rostrum is marked by an obtuse angle of approximately 165 degrees."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject exhibits synthetic visual artifacts including low-polygon mesh geometry and a uniform monochromatic cyan emissive texture."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is a perfectly straight line with zero curvature; no falcation is visible in the geometric mesh.",
+    "apex_bounding_geometry": "Acute vertex with a radius of approximately zero pixels; sharp triangular termination.",
+    "leading_edge_angle": "Approximately 65 degrees relative to the horizontal longitudinal axis of the body mesh.",
+    "pixel_aspect_ratio": "Maximum base width to vertical height ratio of approximately 0.85:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Short, wedge-shaped protrusion with a length-to-thickness ratio of approximately 1:1.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 155 degrees at the point of the facet transition."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon 3D model with a uniform cyan emissive texture and no organic surface detail."
+}

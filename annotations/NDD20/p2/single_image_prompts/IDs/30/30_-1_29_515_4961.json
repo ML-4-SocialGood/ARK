@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is a linear segment with zero curvature, exhibiting no measurable falcation or spline-based arc.",
+    "apex_bounding_geometry": "Acute vertex with a sharp, near-zero pixel radius at the morphological peak.",
+    "leading_edge_angle": "Approximately 75 degrees relative to the horizontal dorsal midline.",
+    "pixel_aspect_ratio": "Estimated 2.2:1 ratio of maximum vertical height to base pixel width."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Short, stout rostral protrusion with a pixel length roughly equivalent to its base thickness.",
+    "cranial_inflection_angle": "Highly obtuse angle, approximately 160 degrees, at the transition between the cranial slope and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a non-biological, cyan-colored 3D polygonal mesh with visible facets, internal luminescence, and translucent material properties."
+}

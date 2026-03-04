@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave spline curvature along the trailing edge from the posterior insertion point to the apex.",
+    "apex_bounding_geometry": "Small pixel radius resulting in a rounded-acute shape classification.",
+    "leading_edge_angle": "Approximately 45-degree incline relative to the dorsal body axis.",
+    "pixel_aspect_ratio": "Maximum base width is approximately 1.1 times the vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Shallow convex arc fitted to the anterior-dorsal boundary of the head.",
+    "rostrum_aspect_vector": "Extremely high length-to-thickness ratio; thin, needle-like projection extending linearly from the head.",
+    "cranial_inflection_angle": "Visible obtuse angle approximately 160 degrees at the pixel transition from melon to rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan-teal monochromatic coloration and a singular, elongated tusk-like structure on the rostrum."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is a linear segment with zero curvature, terminating at an acute vertex.",
+    "apex_bounding_geometry": "Acute shape classification defined by a single vertex with a sub-pixel radius.",
+    "leading_edge_angle": "Approximately 35-40 degrees relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio of approximately 2.5:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Luminescent cyan and white surface shader; low-polygon mesh topology; two distinct sharp ventral appendages visible in the anterior region."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Strongly concave trailing edge spline with a deep posterior notch leading to the dorsal ridge.",
+    "apex_bounding_geometry": "Rounded morphology at the highest vertical pixel coordinate.",
+    "leading_edge_angle": "Gradual convex anterior margin approximately 45 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Base width is approximately 1.5 times the maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Prominent bulbous convex arc forming a high-radius curve on the anterior-dorsal cranial surface.",
+    "rostrum_aspect_vector": "Short, thick rostrum with visible length approximately equal to its base thickness.",
+    "cranial_inflection_angle": "Visible concave transition point between the melon and rostrum forming an obtuse interior angle."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Vivid cyan-turquoise artificial coloring with high-contrast caustic light patterns across the entire dorsal and lateral pixel surfaces."
+}

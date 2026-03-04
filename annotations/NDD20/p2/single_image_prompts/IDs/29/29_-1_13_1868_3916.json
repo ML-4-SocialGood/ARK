@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a segmented concave profile with a single visible vertex, indicating low falcation.",
+    "apex_bounding_geometry": "Sharp acute vertex with a zero-pixel radius classification.",
+    "leading_edge_angle": "Linear slope of approximately 55 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Base-to-height ratio of approximately 1.1:1 based on pixel dimensions."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Melon convexity is represented by a segmented arc of three discrete linear polygonal edges.",
+    "rostrum_aspect_vector": "Short, tapered rostrum with a length-to-base-thickness ratio of approximately 1.5:1.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 145 degrees at the melon-rostrum transition."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-polygon 3D model structure with visible facets and uniform cyan color profile."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Moderate concave curvature along the posterior margin extending from the apex to the dorsal insertion point.",
+    "apex_bounding_geometry": "Rounded morphology with a wide pixel radius at the terminal point of the dorsal fin.",
+    "leading_edge_angle": "Approximately 35-degree ascending slope relative to the horizontal dorsal midline.",
+    "pixel_aspect_ratio": "Base-to-height ratio of approximately 2.5:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Gently sloping, large-radius curve with low convexity.",
+    "rostrum_aspect_vector": "Short, tapered rostrum with a length approximately equal to the thickness at the melon inflection point.",
+    "cranial_inflection_angle": "High obtuse angle showing a smooth, indistinct transition from the melon to the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The image displays a low-poly 3D mesh structure with a monochromatic cyan-blue emissive texture typical of a digital rendering."
+}

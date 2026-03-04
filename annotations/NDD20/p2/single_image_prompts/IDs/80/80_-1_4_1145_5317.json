@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge follows a straight, linear spline with no measurable curvature or falcation.",
+    "apex_bounding_geometry": "Acute vertex with an extremely small pixel radius, forming a sharp point.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the longitudinal dorsal ridge.",
+    "pixel_aspect_ratio": "1.4:1 base width to vertical height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Tapered conical extension with a pixel length roughly 2.5 times its base thickness.",
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Object exhibits low-polygon geometry, internal cyan luminescence, and volumetric translucency."
+}

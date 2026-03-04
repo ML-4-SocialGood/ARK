@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge is a straight linear segment with zero curvature, characteristic of low-polygon geometry.",
+    "apex_bounding_geometry": "Acute vertex with zero pixel radius forming a sharp point.",
+    "leading_edge_angle": "Approximately 70 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximate 1:1 ratio between the maximum base width and vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon boundary is a flat polygonal plane with zero curvature (infinite radius).",
+    "rostrum_aspect_vector": "Short, thick beak tapering to a single point vertex with a nearly 1:1 length-to-thickness ratio.",
+    "cranial_inflection_angle": "Fixed interior angle of approximately 145 degrees at the planar intersection of the forehead and snout."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is an artificial low-polygon 3D model with visible faceted edges and a cyan bioluminescent texture."
+}

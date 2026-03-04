@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Moderately concave trailing edge following a smooth spline curve from the apex to the posterior insertion point.",
+    "apex_bounding_geometry": "Rounded morphology with a medium pixel radius; non-acute.",
+    "leading_edge_angle": "Approximately 45 degrees relative to the horizontal longitudinal axis of the torso.",
+    "pixel_aspect_ratio": "Approximately 1.3:1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth, continuous convex curve with a consistent radius across the anterior-dorsal surface.",
+    "rostrum_aspect_vector": "Visible rostrum showing a moderate pixel length relative to the melon diameter, with a distinct taper toward the tip.",
+    "cranial_inflection_angle": "Obtuse angle approximately 135 degrees where the melon slope meets the dorsal plane of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

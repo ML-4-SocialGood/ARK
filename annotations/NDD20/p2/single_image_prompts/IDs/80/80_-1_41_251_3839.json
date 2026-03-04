@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits linear pixel distribution with zero curvature, characteristic of a low-polygon geometric primitive.",
+    "apex_bounding_geometry": "Acute shape classification with a vertex width of approximately 2 pixels.",
+    "leading_edge_angle": "Approximately 60 degrees relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of maximum pixel base width to maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convexity is defined by a low-resolution polygonal arc with visible segment transitions.",
+    "rostrum_aspect_vector": "Short, tapered rostrum with a length approximately 1.2 times the thickness at the melon inflection point.",
+    "cranial_inflection_angle": "Measurable interior angle of approximately 150 degrees at the specific pixel coordinate where the melon slope transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a 3D polygonal model exhibiting flat-shading gradients and sharp aliased edges against a void-black background."
+}

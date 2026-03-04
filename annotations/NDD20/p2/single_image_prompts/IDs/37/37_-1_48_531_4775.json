@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a straight spline in the proximal section transitioning to a slight concavity near the distal apex.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius, forming a sharp termination point.",
+    "leading_edge_angle": "Approximate 45-degree posterior inclination relative to the dorsal longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximate 1.4:1 ratio of maximum base pixel width to maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad-radius arc forming a smooth, low-profile convexity on the dorsal-anterior cranial surface.",
+    "rostrum_aspect_vector": "Short, robust beak with high vertical thickness relative to its visible longitudinal length.",
+    "cranial_inflection_angle": "Measurable obtuse angle at the pixel coordinate where the melon slope meets the dorsal rostrum line."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Prominent ventral pectoral fin visible with a broad base and tapered tip; entire specimen displays a high-saturation cyan color profile."
+}

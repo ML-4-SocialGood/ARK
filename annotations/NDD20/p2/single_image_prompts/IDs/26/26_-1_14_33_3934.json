@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a concave spline curvature from the acute apex to the posterior base.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius, resulting in a sharp triangular vertex.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the horizontal dorsal midline.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of base chord length to vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius curvature indicating minimal convexity of the dorsal cranial region.",
+    "rostrum_aspect_vector": "Elongated and narrow aspect ratio with a sharp, tapering terminal vertex.",
+    "cranial_inflection_angle": "Highly obtuse interior angle (approximately 165 degrees) where the melon slope transitions to the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Synthetic low-polygon mesh topology and monochromatic cyan luminance with flat gradient shading."
+}

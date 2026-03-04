@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge curve exhibiting a smooth falcate spline from the apex descending to the posterior insertion point.",
+    "apex_bounding_geometry": "Rounded morphological profile with an obtuse pixel radius at the highest point.",
+    "leading_edge_angle": null,
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius convex arc forming a smooth, rounded forehead profile.",
+    "rostrum_aspect_vector": "Short and thick visible beak proportion extending from the cranial base.",
+    "cranial_inflection_angle": "Obtuse interior angle measurable at the pixel junction where the melon convexity meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced specular highlights and high-intensity glare along the dorsal ridge and lateral melon region."
+}

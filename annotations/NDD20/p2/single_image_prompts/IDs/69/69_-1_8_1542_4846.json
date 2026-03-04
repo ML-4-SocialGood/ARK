@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is linear with zero curvature due to low-polygon mesh geometry; no spline-fit curvature is present.",
+    "apex_bounding_geometry": "Acute vertex with zero pixel radius, forming a sharp geometric point.",
+    "leading_edge_angle": "Approximately 75 degrees relative to the dorsal ridge line.",
+    "pixel_aspect_ratio": "Approximately 1.2:1 ratio of base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Non-curvilinear; the region is composed of flat polygonal facets with no measurable arc radius.",
+    "rostrum_aspect_vector": "Short, thick, and pyramidal; approximately 1:1 pixel length to thickness ratio.",
+    "cranial_inflection_angle": "Sharp vertex inflection point with an interior angle of approximately 145 degrees."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a low-fidelity 3D digital asset characterized by a luminescent cyan texture and prominent polygonal aliasing."
+}

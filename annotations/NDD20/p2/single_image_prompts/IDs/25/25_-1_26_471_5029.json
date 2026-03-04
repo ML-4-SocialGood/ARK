@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a piecewise linear concave curvature consisting of two low-poly segments.",
+    "apex_bounding_geometry": "Acute vertex forming the highest point with a pixel radius of zero.",
+    "leading_edge_angle": "Linear anterior margin oriented at approximately 55 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Base width is approximately 1.5 times the vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Small-radius faceted curve forming the blunt anterior-dorsal boundary of the snout.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon 3D computer model featuring cyan-to-white emissive lighting and faceted geometry."
+}

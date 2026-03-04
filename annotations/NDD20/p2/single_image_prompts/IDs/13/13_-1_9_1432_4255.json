@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge follows a distinct concave curvature, forming a smooth falcate spline from the posterior insertion point to the apex.",
+    "apex_bounding_geometry": "The apex is classified as rounded with a moderate pixel radius, showing no acute or jagged termination.",
+    "leading_edge_angle": "The anterior margin rises at an approximate 45-degree angle relative to the horizontal dorsal ridge line.",
+    "pixel_aspect_ratio": "The visible base width of the fin is approximately 1.5 times its maximum vertical height from the dorsal midline."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon presents a continuous convex arc with a large radius, transitioning smoothly from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "A short, robust beak is visible, where the pixel length from the inflection point to the tip is approximately equal to its vertical thickness at the base.",
+    "cranial_inflection_angle": "A defined obtuse angle is measurable at the pixel junction where the descending melon slope meets the horizontal rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A large area of high-intensity specular reflection (glare) is present across the mid-dorsal and lateral surface, obscuring local epidermal texture."
+}

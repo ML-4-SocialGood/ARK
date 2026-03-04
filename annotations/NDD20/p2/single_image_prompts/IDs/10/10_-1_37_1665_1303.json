@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge (left side of frame) displays a moderate concave spline, with curvature depth peaking at the mid-vertical point and a slight flattening near the base.",
+    "apex_bounding_geometry": "The apex exhibits a broad, rounded geometry with a significant pixel radius, classified as obtuse.",
+    "leading_edge_angle": "The leading edge (right side of frame) follows a convex trajectory with an approximate 55-degree angular ascent relative to the horizontal dorsal line.",
+    "pixel_aspect_ratio": "The ratio of the visible base chord length to the vertical height of the apex is approximately 1.2:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "A horizontal linear indentation is visible on the dermal surface to the right of the fin base. The trailing edge boundary exhibits several micro-notches and irregular pixel-level contours.",
+  "other_distinctive_markers": "A prominent, high-contrast light-colored patch is visible on the flank region in the lower-right quadrant of the image. The epidermal surface is covered in high-frequency specular highlights caused by water droplets."
+}

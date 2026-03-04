@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a moderate concave curvature following a parabolic spline from the apex to the dorsal ridge insertion point.",
+    "apex_bounding_geometry": "Rounded apex characterized by a wide pixel radius and obtuse curvature.",
+    "leading_edge_angle": "Anterior margin displays a steep linear ascent at an angle of approximately 60 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Maximum pixel base width to vertical height ratio is approximately 1.1:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Melon presents as a broad, large-radius convex arc extending to the anterior-most point.",
+    "rostrum_aspect_vector": "Short, blunt rostrum with a low length-to-thickness ratio, appearing as a minor protrusion from the cranial base.",
+    "cranial_inflection_angle": "Transition from melon to rostrum occurs at a wide obtuse angle with minimal indentation."
+  },
+  "acquired_anomalies_or_scars": "A distinct V-shaped notch is visible on the trailing edge of the ventral pectoral fin.",
+  "other_distinctive_markers": "Uniform cyan monochromatic pixel values across the entire anatomical surface, suggesting artificial rendering or extreme filtration."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Moderately concave trailing edge with a smooth spline curvature extending from the posterior dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a small pixel radius at the highest morphological point.",
+    "leading_edge_angle": "Steep linear margin angled at approximately 70 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Vertical pixel height exceeds the horizontal base width with an approximate ratio of 1.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex arc with a consistent radius defining the structural curvature of the forehead.",
+    "rostrum_aspect_vector": "Short, robust beak with a thickness-to-length ratio of approximately 1:1.5 extending from the cranial base.",
+    "cranial_inflection_angle": "Distinct obtuse interior angle of approximately 145 degrees at the transition point between the melon and the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Multiple fine, linear white striations concentrated on the anterior melon and mid-body dorsal surface, indicative of minor physical trauma or social markings.",
+  "other_distinctive_markers": "Pronounced subsurface scattering and translucency across the dermal layer, particularly visible on the dorsal fin and flukes."
+}

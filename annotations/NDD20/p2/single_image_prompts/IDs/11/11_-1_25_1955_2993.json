@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Moderate concave curvature on the trailing edge forming a smooth falcate spline from the ridge to the apex.",
+    "apex_bounding_geometry": "Rounded apex classification with a moderate pixel radius transition.",
+    "leading_edge_angle": "Approximately 45-degree angular steepness relative to the visible longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of the observed base width to the vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smoothly convex arc with a large radius extending from the blowhole region to the anterior-most visible point of the forehead.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced high-contrast lateral pigmentation transition with a bright white flank region visible."
+}

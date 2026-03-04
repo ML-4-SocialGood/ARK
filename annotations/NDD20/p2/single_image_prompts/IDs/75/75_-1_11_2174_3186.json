@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a pronounced concave curvature from the dorsal ridge to the apex, forming a deep falcate profile.",
+    "apex_bounding_geometry": "The highest morphological point is acute with a minimal pixel radius, creating a sharp but slightly rounded tip.",
+    "leading_edge_angle": "The anterior margin contour presents a steep positive slope of approximately 65 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "The fin displays a ratio of approximately 1.1:1, where the base width at the dorsal ridge is slightly greater than the vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon shows a continuous, smooth convex arc with a medium-scale radius extending from the blowhole region toward the rostrum.",
+    "rostrum_aspect_vector": "The visible rostrum is short and thick, with a length extending from the melon inflection point that is roughly twice its basal thickness.",
+    "cranial_inflection_angle": "A distinct obtuse interior angle is measurable at the pixel coordinate where the melon's descending slope meets the horizontal plane of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays a uniform cyan-green false-color luminosity against a null-data black background, which obscures fine-scale dermal texture."
+}

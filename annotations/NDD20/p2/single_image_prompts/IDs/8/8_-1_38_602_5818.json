@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge spline exhibiting a posterior-oriented curve from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius at the peak morphological point.",
+    "leading_edge_angle": "Approximately 45-degree angular steepness of the anterior margin contour relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Estimated 1.4:1 ratio of maximum pixel base width to maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex curvature with a consistent radius across the dorsal-anterior cranial boundary.",
+    "rostrum_aspect_vector": "Short proportional length and high thickness of the visible beak extending from the melon inflection point.",
+    "cranial_inflection_angle": "Distinct obtuse interior angle where the melon slope transitions into the rostrum contour."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform monochromatic cyan pigmentation across the entire visible surface area."
+}

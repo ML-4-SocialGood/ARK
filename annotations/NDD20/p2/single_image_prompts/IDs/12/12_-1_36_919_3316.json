@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave parabolic curvature along the trailing edge, originating from the posterior insertion point and tapering toward the apex.",
+    "apex_bounding_geometry": "Rounded shape classification with a moderate pixel radius at the maximum vertical morphological point.",
+    "leading_edge_angle": "Approximately 40-degree upward slope relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Estimated 1.5:1 ratio of maximum pixel base width to maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth, large-radius convex curve extending from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "Short, thick rostrum displaying a high thickness-to-length pixel ratio and blunt termination.",
+    "cranial_inflection_angle": "Visible obtuse interior angle where the steep melon slope transitions into the dorsal surface of the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Multiple white linear depigmented striations on the lateral flank; small circular mark on the dorsal-lateral cranial surface near the blowhole region.",
+  "other_distinctive_markers": "Pronounced pale horizontal band extending along the lower lateral body region."
+}

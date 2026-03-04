@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge follows a near-linear spline with minimal concave curvature, resulting in a non-falcate, triangular profile.",
+    "apex_bounding_geometry": "Acute shape classification with a sharp, minimal pixel radius at the highest point.",
+    "leading_edge_angle": "Steep anterior margin contour, approximately 70-75 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "High aspect ratio where maximum vertical pixel height is approximately 1.5 times the maximum base width."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convexity with a moderate radius forming a distinct, rounded forehead protrusion.",
+    "rostrum_aspect_vector": "Short, thick beak profile with a length-to-thickness ratio of approximately 1:1 visible from the inflection point.",
+    "cranial_inflection_angle": "Measurable obtuse angle of approximately 140 degrees at the transition point between the melon and rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform monochromatic green pixel saturation across the entire subject silhouette, likely due to image processing or sensor filter."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": "acute vertex with minimal pixel radius",
+    "leading_edge_angle": "approximately 45 degrees relative to the vertical body axis",
+    "pixel_aspect_ratio": "approximately 1.1:1 base-to-height ratio"
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "broad convex curve defined by discrete polygonal segments",
+    "rostrum_aspect_vector": "short, blunt protrusion with approximately 1:1 length-to-thickness ratio",
+    "cranial_inflection_angle": "obtuse transition angle of approximately 150 degrees"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "low-fidelity polygonal mesh rendering with internal cyan glow and diffuse lighting highlights"
+}

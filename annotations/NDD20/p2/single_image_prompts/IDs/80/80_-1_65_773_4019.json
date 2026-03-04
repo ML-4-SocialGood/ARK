@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a consistent concave curvature from the apex to the posterior insertion point, forming a falcate profile.",
+    "apex_bounding_geometry": "The apex is classified as acute with a very small pixel radius, creating a sharp, pointed vertex.",
+    "leading_edge_angle": "The anterior margin is steeply angled at approximately 55 degrees relative to the dorsal body axis.",
+    "pixel_aspect_ratio": "The fin displays a ratio where the base width is approximately 1.2 times the vertical height from the dorsal ridge to the apex."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon presents a smooth, convex arc with a moderate radius transition from the blowhole area to the rostrum base.",
+    "rostrum_aspect_vector": "The rostrum is relatively short and thick, showing a low length-to-girth ratio at the visible projection.",
+    "cranial_inflection_angle": "A shallow obtuse inflection angle is visible where the distal slope of the melon meets the superior margin of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits a uniform, non-biological monochromatic teal hue and a low-polygon synthetic surface texture characteristic of a 3D model."
+}

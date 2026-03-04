@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature, representing a straight-line spline from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute vertex with minimal pixel radius, terminating in a sharp point.",
+    "leading_edge_angle": "High angular steepness, nearly vertical relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Narrow profile with a pixel base width approximately 0.3 times the vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon convexity is non-continuous and composed of flat polygonal facets; a smooth arc radius is not present.",
+    "rostrum_aspect_vector": "Short, sharply tapered beak with a high thickness-to-length pixel ratio.",
+    "cranial_inflection_angle": "Definitive obtuse angle where the faceted melon slope meets the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-polygon 3D digital asset with non-biological emissive cyan texture mapping."
+}

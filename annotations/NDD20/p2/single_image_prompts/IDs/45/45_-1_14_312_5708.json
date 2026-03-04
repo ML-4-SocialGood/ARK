@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with no measurable curvature; consistent with low-polygon geometric rendering.",
+    "apex_bounding_geometry": "Acute angular vertex with minimal pixel radius; shape is a sharp polygonal point.",
+    "leading_edge_angle": "Approximately 45-degree linear slope relative to the dorsal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.3:1 base-width to vertical-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Segmented polygonal boundary approximating a curve; lacks a singular measurable arc radius.",
+    "rostrum_aspect_vector": "Short, blunt rostrum with a width-to-length ratio near 1:1; lacks anatomical tapering.",
+    "cranial_inflection_angle": "Visible obtuse angle where the melon facet meets the rostrum facet."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan monochromatic coloration and low-poly geometric mesh structure indicative of a digital model rather than biological tissue."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge curvature following a smooth spline from the dorsal ridge to the acute apex.",
+    "apex_bounding_geometry": "Acute apex with a minimal pixel radius, forming a sharp morphological point against the background.",
+    "leading_edge_angle": "Approximately 45-degree anterior margin contour relative to the visible longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximate 1.3:1 ratio of the fin's maximum base width to its vertical height from the body wall."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large, smooth convex radius defining the dorsal-anterior cranial boundary with no abrupt structural deviations.",
+    "rostrum_aspect_vector": "Short, blunt anterior protrusion with a high thickness-to-length ratio relative to the melon inflection point.",
+    "cranial_inflection_angle": "Highly obtuse interior angle (approaching 160 degrees) where the melon curve transitions into the blunt rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays uniform cyan luminescence and internal translucency indicative of a digital simulation rather than biological tissue."
+}

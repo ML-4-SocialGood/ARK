@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is a perfectly linear polygonal segment; spline fitting indicates a straight path with zero concave curvature.",
+    "apex_bounding_geometry": "Acute classification; pixel radius is approximately 1 pixel, forming a sharp vertex.",
+    "leading_edge_angle": "Approximately 70 degrees relative to the longitudinal dorsal ridge line.",
+    "pixel_aspect_ratio": "Approximately 0.6:1 base-width to vertical-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Segmented polygonal convexity; the arc is defined by three discrete linear facets rather than a smooth radius.",
+    "rostrum_aspect_vector": "Short, blunt beak; pixel length is roughly equal to the beak's vertical thickness at the base.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 145 degrees at the melon-rostrum transition."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The object is a low-polygon 3D asset with a translucent green bioluminescent-style texture and visible geometric facets."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a slight concave curvature from the apex to the dorsal ridge, defined by linear polygonal segments.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius, forming a sharp geometric point.",
+    "leading_edge_angle": "Approximately 70 degrees relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Maximum base width to vertical height ratio of approximately 1:1.2."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex arc defined by a low-resolution polygonal curve with a medium radius.",
+    "rostrum_aspect_vector": "Short pixel length with high proportional thickness relative to the cranial base.",
+    "cranial_inflection_angle": "Measurable obtuse angle where the distal melon slope meets the dorsal plane of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a low-polygon 3D digital model characterized by faceted surfaces and significant aliasing along geometric boundaries."
+}

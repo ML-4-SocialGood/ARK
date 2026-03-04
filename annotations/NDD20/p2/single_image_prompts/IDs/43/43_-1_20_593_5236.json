@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature; comprised of two straight-line polygonal segments meeting at an obtuse interior vertex.",
+    "apex_bounding_geometry": "Acute classification; sharp single-pixel vertex with no measurable radius.",
+    "leading_edge_angle": "Approximately 60 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "High verticality; approximate ratio of 1.4:1 vertical height to base width."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a low-poly 3D mesh model with uniform cyan luminescence and visible geometric facets; does not represent a biological organism."
+}

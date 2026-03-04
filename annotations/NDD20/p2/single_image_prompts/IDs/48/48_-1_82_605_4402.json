@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a deep concave parabolic spline from the posterior dorsal insertion to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius, forming a sharp point.",
+    "leading_edge_angle": "Approximately 50-degree angular steepness relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Approximately 1.1:1, with the maximum pixel base width slightly exceeding the vertical pixel height from the dorsal ridge."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large-radius convex arc forming the anterior-dorsal cranial boundary.",
+    "rostrum_aspect_vector": "Short, low-aspect ratio rostrum with a thickness nearly equal to its protruding pixel length.",
+    "cranial_inflection_angle": "Distinct obtuse angle of approximately 145 degrees where the melon slope meets the dorsal surface of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The image displays a low-polygon geometric mesh structure typical of a 3D model rather than biological skin texture."
+}

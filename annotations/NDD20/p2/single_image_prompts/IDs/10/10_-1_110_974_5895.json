@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Moderate concave curvature along the posterior margin following a segmented polygonal path.",
+    "apex_bounding_geometry": "Small pixel radius categorized as rounded with low-density edge sampling.",
+    "leading_edge_angle": "Approximately 55-60 degree incline relative to the longitudinal dorsal ridge.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio is approximately 1.3:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Shallow convex arc with limited structural curvature visible.",
+    "rostrum_aspect_vector": "Short, truncated beak with a high thickness-to-length ratio.",
+    "cranial_inflection_angle": "Obtuse transition angle at the junction of the melon and rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits a low-poly digital mesh structure with a uniform cyan-white luminous gradient."
+}

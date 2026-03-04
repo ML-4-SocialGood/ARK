@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a slight concave spline curvature from the apex to the posterior dorsal ridge.",
+    "apex_bounding_geometry": "Acute shape classification with a sharp convergence and minimal pixel radius.",
+    "leading_edge_angle": "Anterior margin displays a steep linear slope of approximately 55 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of maximum base pixel width to maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convexity is characterized by a large-radius smooth curve with no distinct transition point.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan-teal luminescence across the entire pixel cluster and visible low-polygon geometric surface edges indicative of a digital rendering."
+}

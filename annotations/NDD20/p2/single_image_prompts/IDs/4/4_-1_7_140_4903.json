@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a linear spline with a subtle concave inflection at the posterior base-body junction.",
+    "apex_bounding_geometry": "Acute vertex with near-zero pixel radius; sharp geometric point classification.",
+    "leading_edge_angle": "Anterior margin is oriented at approximately 60 degrees relative to the dorsal horizontal axis.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio is approximately 1.0:1.2."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius convex spline forming a prominent bulbous melon geometry.",
+    "rostrum_aspect_vector": "Short, blunt anterior projection with a low length-to-thickness ratio extending from the melon base.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 160 degrees at the pixel transition from melon to dorsal rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Surface topology is defined by discrete low-polygon facets; uniform cyan-white gradient luminosity suggests a synthetic 3D rendering."
+}

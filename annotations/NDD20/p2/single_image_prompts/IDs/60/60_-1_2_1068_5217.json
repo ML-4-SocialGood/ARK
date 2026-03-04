@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Slightly concave trailing edge curve defined by a low-polygon segmented spline",
+    "apex_bounding_geometry": "Acute shape classification with minimal pixel radius at the vertex",
+    "leading_edge_angle": "Approximately 45-degree linear incline relative to the horizontal dorsal midline",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of base pixel width to maximum vertical pixel height"
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Gentle convex arc radius approximated by discrete polygonal facets",
+    "rostrum_aspect_vector": "Short, tapered rostrum with low pixel length-to-thickness ratio",
+    "cranial_inflection_angle": "Obtuse interior angle at the specific vertex where the melon slope meets the rostrum"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-fidelity 3D mesh topology with emissive cyan-tinted texture mapping"
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature; the pixel boundary follows a straight vertical path from the dorsal ridge to the upper margin.",
+    "apex_bounding_geometry": null,
+    "leading_edge_angle": "Approximately 88 degrees relative to the horizontal body axis, indicating a near-vertical anterior margin.",
+    "pixel_aspect_ratio": "0.7:1 maximum base width to maximum vertical pixel height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Extremely elongated and needle-like; pixel length is approximately 12 times the thickness at the point of origin.",
+    "cranial_inflection_angle": "Approximately 150 degrees at the junction where the linear melon plane meets the rostrum spike."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon digital model with translucent cyan shading and a glowing white luminescence at the ocular region."
+}

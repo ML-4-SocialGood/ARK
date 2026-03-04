@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Deeply concave trailing edge spline with a sharp inward curvature characteristic of a falcate profile.",
+    "apex_bounding_geometry": "Acute point with a minimal pixel radius due to the low-poly polygonal vertex at the fin's highest morphological point.",
+    "leading_edge_angle": "Steep incline, measured at approximately 55 degrees relative to the dorsal longitudinal axis.",
+    "pixel_aspect_ratio": "Broad base-to-height ratio, estimated at 1.4:1 based on maximum base width versus vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth semi-spherical convexity defining the anterior-dorsal cranial boundary.",
+    "rostrum_aspect_vector": "Short and thick rostrum with a length roughly equivalent to its thickness at the base extending from the inflection point.",
+    "cranial_inflection_angle": "Visible obtuse angle of approximately 135 degrees at the specific pixel junction where the melon transitions to the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-polygon 3D mesh topology featuring a stylized cyan-to-white emissive gradient texture rather than biological skin."
+}

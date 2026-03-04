@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a concave spline consistent with a falcate morphological profile.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius at the peak.",
+    "leading_edge_angle": "Approx. 50-60 degree incline relative to the horizontal dorsal ridge.",
+    "pixel_aspect_ratio": "Approximately 1:1.1 ratio of maximum base width to vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smoothly convex arc with a moderate radius defining the forehead region.",
+    "rostrum_aspect_vector": "Visible short-length rostrum with a high thickness-to-length pixel ratio.",
+    "cranial_inflection_angle": "Defined obtuse angle where the melon slope meets the base of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan/turquoise monochromatic surface and low-polygon mesh geometry."
+}

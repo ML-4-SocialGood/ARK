@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero measurable curvature; a straight-line pixel path from the dorsal ridge to the apex vertex.",
+    "apex_bounding_geometry": "Acute shape classification with a near-zero pixel radius at the vertex.",
+    "leading_edge_angle": "Steep positive slope approximately 65 degrees relative to the horizontal dorsal axis.",
+    "pixel_aspect_ratio": "Base-to-height ratio is approximately 0.6."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "High radius of curvature characterized by low-poly segmented polygonal faces rather than a smooth arc.",
+    "rostrum_aspect_vector": "Short, thick rostrum tapering to a point, roughly one-third the pixel length of the cranial region.",
+    "cranial_inflection_angle": "Obtuse transition angle of approximately 135 degrees where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject exhibits low-poly geometric topology and a cyan/teal emissive glow effect characteristic of a 3D digital model."
+}

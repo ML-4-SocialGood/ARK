@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave spline curvature on the trailing edge from the posterior ridge to the apex.",
+    "apex_bounding_geometry": "Small pixel radius, rounded shape classification.",
+    "leading_edge_angle": "Convex margin with an angular steepness of approximately 60 degrees relative to the horizontal axis of the dorsal ridge.",
+    "pixel_aspect_ratio": "Approximate 1.1:1 ratio of maximum pixel base width to maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex melon arc with a moderate radius curve fitted to the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": "Short rostrum length relative to thickness, extending from the visible melon inflection.",
+    "cranial_inflection_angle": "Obtuse interior angle at the pixel coordinate where the melon slope transitions to the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Multiple pale linear scratches on the anterior-lateral flank and melon region.",
+  "other_distinctive_markers": "Mottled depigmentation pattern visible on the dorsal surface of the right pectoral fin."
+}

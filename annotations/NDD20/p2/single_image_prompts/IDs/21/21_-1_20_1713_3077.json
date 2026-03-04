@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge following a falcate spline from the posterior dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Rounded shape classification with a moderate pixel radius.",
+    "leading_edge_angle": "Steep anterior margin contour approximately 50-60 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximate ratio of 1.4:1 base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smoothly convex arc forming the anterior-dorsal cranial boundary.",
+    "rostrum_aspect_vector": "Short, tapered beak extending from the melon inflection point.",
+    "cranial_inflection_angle": "Obtuse interior angle at the pixel coordinate transition between the melon and rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays a highly unique synthetic-looking cloud/sky texture overlay across the entire somatic surface."
+}

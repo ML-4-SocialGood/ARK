@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Strongly concave spline fitting the trailing edge from the posterior insertion point to the apex.",
+    "apex_bounding_geometry": "Rounded geometry with an obtuse profile at the highest morphological point.",
+    "leading_edge_angle": "Moderately steep convex gradient approximately 50 degrees from the horizontal axis.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of maximum base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Moderate convexity with a continuous smooth arc from the blowhole to the cranial inflection point.",
+    "rostrum_aspect_vector": "Short, blunt rostrum with proportional thickness nearly equal to visible length from the inflection point.",
+    "cranial_inflection_angle": "Obtuse interior angle where the melon slope meets the dorsal rostrum surface."
+  },
+  "acquired_anomalies_or_scars": "Small irregular notch visible on the posterior margin of the dorsal fin near the base.",
+  "other_distinctive_markers": null
+}

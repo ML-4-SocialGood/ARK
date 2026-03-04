@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave spline curvature visible along the posterior margin before pixel truncation at the frame boundary",
+    "apex_bounding_geometry": null,
+    "leading_edge_angle": null,
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Wide-radius convex arc forming the anterior-dorsal profile of the head",
+    "rostrum_aspect_vector": "Short, robust pixel projection with a low length-to-thickness ratio relative to the cranial height",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the transition point between the melon and the rostrum"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive specular highlight saturation on the dorsal-lateral flank obscuring surface pigmentation"
+}

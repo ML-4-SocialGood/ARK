@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": null,
+    "leading_edge_angle": null,
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Wide-radius convex parabolic arc defining the anterior-dorsal boundary of the cranial region in the dorsal plane.",
+    "rostrum_aspect_vector": "Short, tapered triangular projection extending anteriorly, with a length-to-width ratio of approximately 1:1 at the base.",
+    "cranial_inflection_angle": "Subtle concave transition point visible at the pixel boundary where the melon arc meets the rostrum profile."
+  },
+  "acquired_anomalies_or_scars": "Distinct notch and associated white depigmented patch located on the posterior margin of the right pectoral fin; faint linear scratches visible on the dorsal melon surface.",
+  "other_distinctive_markers": "The subject is rendered entirely within a monochromatic cyan-green spectral range, likely due to artificial lighting or camera-trap filtration."
+}

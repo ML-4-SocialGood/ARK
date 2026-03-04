@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a predominantly linear trajectory with a slight concave curvature at the junction with the dorsal ridge.",
+    "apex_bounding_geometry": "Acute vertex with a narrow pixel radius; geometric classification is acute.",
+    "leading_edge_angle": "The anterior margin contour is set at approximately a 50-degree steepness relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio between the maximum pixel base width and the maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The anterior-dorsal boundary follows a broad, continuous curve that tapers into a pointed snout.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-polygon 3D mesh model with a uniform emissive cyan texture and visible polygonal edges along the silhouette."
+}

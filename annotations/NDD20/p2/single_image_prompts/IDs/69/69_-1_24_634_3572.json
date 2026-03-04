@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a consistent concave curvature from the dorsal ridge to the apex, resulting in a falcate profile.",
+    "apex_bounding_geometry": "Rounded geometry with an obtuse shape classification at the highest morphological point.",
+    "leading_edge_angle": "Steep anterior margin contour measuring approximately 55-60 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximate 1.4:1 ratio of the maximum pixel base width to the maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex semi-circular arc profile defining the structural boundary of the melon.",
+    "rostrum_aspect_vector": "Short, thickened rostrum extending forward from the melon inflection point with a low length-to-width pixel ratio.",
+    "cranial_inflection_angle": "Distinct obtuse interior angle visible at the pixel junction where the melon slope transitions to the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-polygon synthetic mesh rendering with visible edge aliasing and a cyan-to-white light-source gradient."
+}

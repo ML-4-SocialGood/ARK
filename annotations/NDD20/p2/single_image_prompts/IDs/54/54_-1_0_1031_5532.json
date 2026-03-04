@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave posterior margin following a smooth parabolic curve from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Rounded geometry with a large pixel radius at the maximum vertical extent.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the horizontal pixel axis of the body.",
+    "pixel_aspect_ratio": "Base-to-height ratio of approximately 0.95:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad, low-curvature arc forming a blunt anterior-dorsal profile.",
+    "rostrum_aspect_vector": "Minimal extension from melon; visible beak length-to-thickness ratio is less than 0.5:1.",
+    "cranial_inflection_angle": "Highly obtuse angle approaching 160 degrees at the point of transition from melon to rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject exhibits an artificial cyan emissive shader effect across the ventral and lateral surfaces with no distinct biological skin texture visible."
+}

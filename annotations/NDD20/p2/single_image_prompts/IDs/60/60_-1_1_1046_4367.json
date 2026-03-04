@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Slightly concave trailing edge forming a smooth hyperbolic curve from the posterior insertion point to the apex.",
+    "apex_bounding_geometry": "Rounded morphology with a broad pixel radius, lacking acute angular termination.",
+    "leading_edge_angle": "Approximately 40-45 degrees relative to the dorsal midline axis.",
+    "pixel_aspect_ratio": "Approximately 1.4:1 ratio of base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broadly convex arc with a large radius, transitioning smoothly from the blowhole area toward the rostrum.",
+    "rostrum_aspect_vector": "Short, tapered projection with a length-to-base-thickness ratio of approximately 1.5:1.",
+    "cranial_inflection_angle": "Obtuse angle of approximately 155 degrees at the point where the melon slope meets the dorsal surface of the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Multiple dark, localized pixel clusters on the lateral flank and cephalic region, appearing as discrete texture-mapped markings.",
+  "other_distinctive_markers": "Pronounced polygonal segmentation visible on the ventral-caudal transition and an atypically thin, elongated caudal peduncle geometry."
+}

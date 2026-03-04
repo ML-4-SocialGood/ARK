@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a simple concave spline curve with discrete polygonal stepping.",
+    "apex_bounding_geometry": "Rounded obtuse apex defined by low-resolution vertex clusters.",
+    "leading_edge_angle": "Linear ascending margin at approximately 55 degrees relative to the dorsal longitudinal axis.",
+    "pixel_aspect_ratio": "Maximum base width is approximately 1.4 times the maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad, shallow convex curvature with a high pixel radius and minimal vertical loft.",
+    "rostrum_aspect_vector": "Short, triangular pixel protrusion with length approximately equal to its base thickness.",
+    "cranial_inflection_angle": "Obtuse transition angle of approximately 165 degrees at the melon-rostrum junction."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan surface coloration with polygonal vertex shading and digital aliasing typical of low-fidelity 3D rendering."
+}

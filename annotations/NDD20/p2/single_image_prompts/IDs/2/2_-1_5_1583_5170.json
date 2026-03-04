@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge is a linear segment with zero curvature, typical of low-polygon modeling; no concave spline fitting possible.",
+    "apex_bounding_geometry": "Acute vertex with a pixel radius near zero; geometrically sharp point.",
+    "leading_edge_angle": "Linear slope approximately 40 degrees relative to the dorsal longitudinal axis.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio is approximately 1.5:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Geometric convexity is comprised of a single flat facet rather than a smooth arc; radius is infinite along the facet plane.",
+    "rostrum_aspect_vector": "Short, thick aspect ratio where the visible length from inflection to tip is roughly equal to the base thickness.",
+    "cranial_inflection_angle": "Distinct vertex junction showing a subtle change in slope of approximately 170 degrees at the rostrum-melon transition."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a legacy low-polygon 3D mesh with visible vertex edges and flat-shaded surface normals."
+}

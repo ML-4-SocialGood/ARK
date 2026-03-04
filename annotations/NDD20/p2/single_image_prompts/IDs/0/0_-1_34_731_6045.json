@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge following a multi-segmented polygonal path from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Small pixel radius, morphology classified as rounded-acute.",
+    "leading_edge_angle": "Steep positive slope of approximately 60 degrees relative to the horizontal longitudinal axis.",
+    "pixel_aspect_ratio": "Base chord width to vertical height ratio is approximately 1.1:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Shallow structural convexity with a large radius transitioning into a flattened dorsal plane.",
+    "rostrum_aspect_vector": "Short, tapered rostrum with moderate thickness at the base tapering to a distal point.",
+    "cranial_inflection_angle": "Broad obtuse interior angle where the melon slope meets the dorsal margin of the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pectoral fin displays a jagged, irregular ventral margin; caudal region is truncated by the frame boundary."
+}

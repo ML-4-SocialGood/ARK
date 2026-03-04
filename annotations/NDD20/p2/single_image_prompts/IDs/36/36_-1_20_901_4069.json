@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave spline fit on the trailing edge, exhibiting a smooth inward curvature from the apex to the posterior insertion point.",
+    "apex_bounding_geometry": "Rounded morphology with a distal radius approximately 5-8% of the total fin height.",
+    "leading_edge_angle": "Measured at approximately 48 degrees relative to the horizontal pixel axis of the dorsal ridge.",
+    "pixel_aspect_ratio": "Height-to-width ratio approximately 1.15 based on vertical displacement from base to apex versus horizontal span of the base."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex parabolic curve with a large radius extending from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "Short horizontal extension relative to cranial depth; approximately 2:1 length-to-width ratio at the visible rostrum base.",
+    "cranial_inflection_angle": "Approximately 140-degree obtuse angle at the pixel coordinate where the melon curvature meets the dorsal rostrum line."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan-green pixel saturation across the subject body with high-intensity white highlights on the dorsal flank; subject silhouette is isolated on a black background."
+}

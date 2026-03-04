@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature; lacks a falcate spline due to geometric rendering.",
+    "apex_bounding_geometry": "Acute, sharp vertex with a pixel radius near zero.",
+    "leading_edge_angle": "Steep linear margin contour at approximately 45 degrees relative to the dorsal ridge.",
+    "pixel_aspect_ratio": "Approximate 1:1 ratio between the fin base and vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Extremely high radius; the melon is a flat, linear slope with minimal convexity.",
+    "rostrum_aspect_vector": "Short pixel length and thick, blocky morphology extending from the cranial slope.",
+    "cranial_inflection_angle": "Shallow, obtuse interior angle at the pixel coordinate where the forehead meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a low-poly 3D model with visible faceted polygons rather than organic tissue."
+}

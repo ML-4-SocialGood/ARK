@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Non-continuous spline composed of two discrete linear segments forming a shallow concave recession along the trailing edge.",
+    "apex_bounding_geometry": "Acute vertex with minimal pixel radius, characteristic of a low-polygon geometric model.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 0.9:1 ratio of base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Broad, low-aspect ratio snout with high vertical pixel thickness and short extension relative to cranial width.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 145 degrees at the transition from the dorsal cranium to the snout."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible low-polygon mesh topology; high-luminance/glowing texture map within the oral cavity; singular high-contrast white pixel cluster on the mid-lateral flank."
+}

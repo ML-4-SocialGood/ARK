@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Deeply concave trailing edge with a continuous spline curvature extending from the dorsal insertion to the apex.",
+    "apex_bounding_geometry": "Acute, sharp morphology with a minimal pixel radius at the terminal point.",
+    "leading_edge_angle": "Steep positive incline, approximately 65 degrees relative to the primary longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximate 1.2:1 ratio of base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius convexity with a gradual slope descending toward the rostrum.",
+    "rostrum_aspect_vector": "Short, thickened horizontal projection with low length-to-thickness ratio.",
+    "cranial_inflection_angle": "Obtuse interior angle (~155 degrees) at the transition point between the melon and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan-teal digital shading and low-polygon smoothness characteristic of a non-biological 3D rendered model."
+}

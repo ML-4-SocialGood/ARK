@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": null,
+    "leading_edge_angle": null,
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius convex curve fitted to the anterior cranial boundary starting from the blowhole region to the rostrum base.",
+    "rostrum_aspect_vector": "Short and thick rostrum appearing approximately 0.15 times the length of the visible head profile.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the pixel junction where the melon's downward slope meets the horizontal plane of the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Dark punctate markings visible on the pectoral fin and lower lateral flank; minor irregular notch on the posterior edge of the pectoral fin.",
+  "other_distinctive_markers": "Clearly defined circular ocular region; high-intensity specular highlights along the dorsal-lateral ridge."
+}

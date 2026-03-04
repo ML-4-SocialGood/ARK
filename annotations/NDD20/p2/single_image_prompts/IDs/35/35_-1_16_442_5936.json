@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature, forming a straight-line spline from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute shape classification; sharp vertex point with minimal pixel radius.",
+    "leading_edge_angle": "Approximately 50-degree inclination relative to the dorsal body axis.",
+    "pixel_aspect_ratio": "Maximum pixel base width is approximately 1.3 times the vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad parabolic taper; low-convexity curve transitioning smoothly towards the distal tip.",
+    "rostrum_aspect_vector": "Short, blunt protrusion; thickness at the base is nearly equal to the visible length.",
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-polygon geometric mesh structure with visible faceted shading and jagged silhouette edges."
+}

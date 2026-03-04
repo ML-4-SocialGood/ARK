@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Highly irregular and jagged spline along the trailing edge with multiple non-linear inflection points indicating significant tissue loss.",
+    "apex_bounding_geometry": "Rounded shape classification with a moderate pixel radius and no acute angular termination.",
+    "leading_edge_angle": "Approximately 45-degree linear slope relative to the horizontal cropped baseline.",
+    "pixel_aspect_ratio": "Approximately 1.15:1 (base width to vertical height)."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "Extensive deep notches and indentations along the entire trailing edge; multiple horizontal linear rake marks (parallel scarring) on the lateral surface; white punctate markings near the posterior base.",
+  "other_distinctive_markers": "Unique combination of deep V-shaped notches and distinct parallel lateral scarring patterns."
+}

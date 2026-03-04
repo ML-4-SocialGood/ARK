@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a shallow concave curvature transitioning from the basal ridge to the apex.",
+    "apex_bounding_geometry": "Rounded morphology with a moderate pixel radius at the fin's maximum vertical point.",
+    "leading_edge_angle": "Anterior margin presents a smooth convex arc at approximately 55 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Basal width to maximum vertical height ratio is approximately 1.6:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex melon profile defined by a medium-radius arc fitted to the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": "Short and thick rostrum visible in profile, extending anteriorly from the melon inflection point.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the pixel coordinate where the melon slope meets the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced attenuation of the caudal peduncle proximal to the fluke."
+}

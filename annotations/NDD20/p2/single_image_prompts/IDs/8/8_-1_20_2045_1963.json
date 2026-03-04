@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave curvature following a smooth spline from the posterior insertion point to the apex along the trailing edge.",
+    "apex_bounding_geometry": "Rounded shape classification with a small pixel radius at the morphological peak.",
+    "leading_edge_angle": "Moderate linear incline relative to the horizontal longitudinal axis of the visible dorsal ridge.",
+    "pixel_aspect_ratio": "Broad base width to vertical height ratio, approximately 1.8:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": "Multiple small, white punctate markings distributed across the lateral surface of the fin and dorsal flank; no significant trailing edge notches or traumatic indentations detected.",
+  "other_distinctive_markers": "Darker, vertically-oriented mottled pigmentation patch visible on the central lateral surface of the dorsal fin."
+}

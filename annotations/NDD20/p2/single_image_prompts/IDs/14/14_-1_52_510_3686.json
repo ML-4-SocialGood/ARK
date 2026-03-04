@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Highly concave trailing edge exhibiting a deep, smooth spline curvature from the posterior base to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius, forming a sharp point.",
+    "leading_edge_angle": "Steep upward slope forming an acute angle of approximately 60-70 degrees relative to the dorsal horizontal axis.",
+    "pixel_aspect_ratio": "High vertical-to-horizontal ratio; the fin's height significantly exceeds its basal width."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Moderate convexity with a continuous smooth arc transitioning from the blowhole region to the snout.",
+    "rostrum_aspect_vector": "Short, robust rostrum with a thick pixel width relative to its projection length.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the transition point between the melon's descent and the rostrum's horizontal extension."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject appears to be a low-polygon 3D digital model characterized by monochromatic green luminescence and sharp, non-biological geometric edges on the pectoral and caudal fins."
+}

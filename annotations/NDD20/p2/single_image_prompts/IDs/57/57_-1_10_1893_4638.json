@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Deeply concave curvature along the posterior edge forming a distinct sickle shape from the dorsal ridge to the apex",
+    "apex_bounding_geometry": "Rounded apex with a small pixel radius of curvature",
+    "leading_edge_angle": "Approximately 55 degrees relative to the longitudinal body axis",
+    "pixel_aspect_ratio": "Approximate 1.1:1 ratio of base width to vertical height"
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad convex arc forming a continuous curve from the blowhole region to the rostrum base",
+    "rostrum_aspect_vector": "Short, robust rostrum with low length-to-thickness pixel ratio",
+    "cranial_inflection_angle": "Visible obtuse angle at the pixel coordinate where the melon's descent meets the dorsal rostrum"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

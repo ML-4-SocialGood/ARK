@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Significant concave curvature on the trailing edge, forming a smooth falcate spline from the posterior ridge to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a narrow pixel radius at the highest morphological point.",
+    "leading_edge_angle": "Steep linear margin oriented at approximately 55 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.2:1 ratio of the fin's base width to its vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex melon with a moderate, uniform curvature radius visible along the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": "Short, thick rostrum extending from the melon with a low length-to-width pixel ratio.",
+    "cranial_inflection_angle": "Distinct obtuse angle of approximately 135 degrees at the transition point between the melon slope and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

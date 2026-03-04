@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave curvature following a parabolic spline from the apex to the posterior insertion point.",
+    "apex_bounding_geometry": "Acute-angled tip with minimal pixel radius rounding.",
+    "leading_edge_angle": "Approximately 50 degrees relative to the dorsal longitudinal axis.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 base-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad, large-radius convex arc transitioning smoothly into the rostrum.",
+    "rostrum_aspect_vector": "Short, blunt rostrum with a high thickness-to-length ratio relative to the cranial mass.",
+    "cranial_inflection_angle": "Obtuse transition angle approximately 150 degrees at the melon-rostrum junction."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan digital shader texture with high-specular highlights across the dorsal-lateral surface against a monochromatic black background."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge is composed of two discrete linear segments forming a concave geometric angle at the midpoint.",
+    "apex_bounding_geometry": "Single acute vertex point with a pixel radius of zero; sharp polygonal termination.",
+    "leading_edge_angle": "Linear margin oriented at approximately 55 degrees relative to the horizontal dorsal ridge line.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of base chord length to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Segmented curvature comprised of flat polygonal facets with a high effective radius.",
+    "rostrum_aspect_vector": "Short, blunt geometric projection with nearly equal pixel thickness and length from the inflection point.",
+    "cranial_inflection_angle": "125-degree obtuse interior angle at the sharp pixel transition between the melon and rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a low-polygon 3D digital model with uniform cyan shading and visible facet edges; lacks biological texture."
+}

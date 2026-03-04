@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge curvature following a parabolic spline from the posterior insertion to the apex.",
+    "apex_bounding_geometry": "Small pixel radius, classified as rounded-acute morphology.",
+    "leading_edge_angle": "Steep posterior inclination, approximately 45 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio of approximately 1.1:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth, uniform convex arc forming a hemispherical dome.",
+    "rostrum_aspect_vector": "Elongated pixel projection with a high length-to-width ratio, tapering to a distal point.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the transition point between the descending melon slope and the horizontal rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Luminescent teal texture with a high density of white specular noise/speckles and visible low-polygon geometric edges."
+}

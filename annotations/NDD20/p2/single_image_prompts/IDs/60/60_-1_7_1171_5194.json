@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a slight concave curvature composed of discrete linear segments meeting at obtuse angles due to low-polygon rendering.",
+    "apex_bounding_geometry": "Bluntly rounded apex with a wide pixel radius relative to the fin height; shape classification is obtuse.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the horizontal dorsal ridge of the body.",
+    "pixel_aspect_ratio": "Approximately 1.0, where the base width at the dorsal ridge is nearly equal to the maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius curvature with low convexity, defined by approximately three visible polygonal facets on the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": "Proportionally short and thick rostrum extending from the melon inflection, characterized by a blocky rectangular pixel profile.",
+    "cranial_inflection_angle": "Obtuse interior angle measured at approximately 145 degrees where the melon slope transitions into the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays a low-polygon mesh topology with sharp faceted shading and uniform vertex lighting, characteristic of a synthetic 3D asset rather than an organic biological entity."
+}

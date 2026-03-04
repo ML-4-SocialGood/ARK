@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge exhibits a smooth concave curvature from the dorsal ridge junction to the apex.",
+    "apex_bounding_geometry": "Rounded morphology with a moderate pixel radius at the highest morphological point.",
+    "leading_edge_angle": "Steep convex anterior margin oriented at approximately 60 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximate 1:1 ratio between the maximum pixel base width and maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad hemispherical convexity defining the anterior-dorsal boundary with a large curvature radius.",
+    "rostrum_aspect_vector": "Short, thick rostrum extension with a low length-to-thickness ratio relative to the melon height.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the pixel coordinate where the descending melon slope meets the rostrum's dorsal plane."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform monochromatic cyan-turquoise luminescence across the entire anatomical surface with no discernible biological textures or pigmentation patterns."
+}

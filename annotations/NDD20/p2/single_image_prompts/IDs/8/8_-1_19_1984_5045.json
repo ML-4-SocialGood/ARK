@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with negligible curvature, descending at a consistent negative slope from the apex to the posterior base.",
+    "apex_bounding_geometry": "Acute geometry with a minimal pixel radius, forming a sharp point at the maximum dorsal elevation.",
+    "leading_edge_angle": "High angular steepness, approximately 70 degrees relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of maximum base width to vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Moderate convex curvature with a wide radius, forming a low-profile cranial dome.",
+    "rostrum_aspect_vector": "Short, conical projection with a high thickness-to-length ratio, tapering to a sharp terminal point.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 145 degrees at the transition point between the melon and the dorsal rostrum margin."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits a non-biological, high-luminance cyan surface reflectance and a low-polygon geometric structure characteristic of a synthetic 3D model."
+}

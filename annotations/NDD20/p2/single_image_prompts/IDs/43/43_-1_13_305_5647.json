@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": null,
+    "leading_edge_angle": null,
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad, shallow convex arc across the anterior-dorsal boundary, indicating a large radius spline fit.",
+    "rostrum_aspect_vector": "Visible short, blunt rostrum with a high thickness-to-length ratio extending from the cranial inflection point.",
+    "cranial_inflection_angle": "Obtuse interior angle visible at the pixel coordinate junction where the melon slope transitions to the dorsal rostrum surface."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

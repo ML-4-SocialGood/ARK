@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Sub-falcate; the trailing edge is defined by a shallow concave curve formed by discrete linear polygon segments.",
+    "apex_bounding_geometry": "Bluntly rounded apex with an obtuse shape classification, typical of low-resolution vertex interpolation.",
+    "leading_edge_angle": "Approximately 48-degree linear incline relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Approximate 1.1:1 ratio of maximal base pixel width to maximal vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius convexity with a smooth, continuous curve originating from the blowhole region.",
+    "rostrum_aspect_vector": "Short, thick proportional aspect; low-length protrusion extending minimally from the anterior cranial boundary.",
+    "cranial_inflection_angle": "Shallow interior angle (approximately 165 degrees) where the melon slope transitions into the dorsal rostrum margin."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible low-polygon mesh structure and synthetic cyan-to-white specular gradient shading consistent with a 3D digital model."
+}

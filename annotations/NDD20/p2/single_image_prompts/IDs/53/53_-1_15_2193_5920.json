@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a simplified concave spline curvature defined by two linear segments meeting at an obtuse angle.",
+    "apex_bounding_geometry": "Acute shape classification defined by a single vertex at the peak of the fin mesh.",
+    "leading_edge_angle": "Approximately 50 degrees relative to the longitudinal dorsal axis.",
+    "pixel_aspect_ratio": "Approximately 1.3:1 base width to vertical height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large-radius convex arc formed by three distinct polygonal facets.",
+    "rostrum_aspect_vector": "Short, thick beak-like projection tapering to a terminal point, roughly 1:1 length-to-thickness ratio at the base.",
+    "cranial_inflection_angle": "Obtuse interior angle approximately 140 degrees at the transition point between the melon and rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan-toned emissive shading and low-poly, faceted geometric topology characteristic of a legacy digital asset."
+}

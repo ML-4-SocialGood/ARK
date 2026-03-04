@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a concave spline with high curvature starting from the dorsal ridge and tapering towards the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a minimal pixel radius at the fin's highest morphological point.",
+    "leading_edge_angle": "Anterior margin contour is oriented at approximately 55 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Base chord width to maximum vertical height ratio is approximately 1:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex parabolic curve fitted to the anterior-dorsal cranial boundary.",
+    "rostrum_aspect_vector": "Short, low-profile beak projection with pixel thickness approximately 50% of its visible length.",
+    "cranial_inflection_angle": "Transition between melon and rostrum forms a measurable obtuse angle of approximately 145 degrees."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a monochromatic cyan-green digital rendering/3D model isolated against a black background."
+}

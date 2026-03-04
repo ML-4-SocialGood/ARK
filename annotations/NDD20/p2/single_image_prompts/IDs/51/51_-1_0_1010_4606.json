@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge consists of a strictly linear pixel segment with zero curvature, transitioning directly from apex to dorsal ridge.",
+    "apex_bounding_geometry": "Apex is characterized by a flat horizontal edge approximately 6 pixels wide; shape classification is obtuse.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the horizontal dorsal midline.",
+    "pixel_aspect_ratio": "Approximately 1.3:1 ratio of maximum base width to maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The boundary is composed of two discrete linear segments forming a low-polygon convex vertex; no continuous arc is visible.",
+    "rostrum_aspect_vector": "Short, blunt triangular protrusion with a length roughly equivalent to its base thickness.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 145 degrees at the pixel coordinate where the melon segment meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-polygon 3D mesh architecture and uniform cyan/teal emissive color profile without organic texture or shading."
+}

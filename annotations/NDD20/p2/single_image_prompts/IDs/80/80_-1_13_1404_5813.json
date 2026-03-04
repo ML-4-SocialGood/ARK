@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Smooth concave spline fitting on the posterior margin from the apex to the dorsal ridge junction.",
+    "apex_bounding_geometry": "Rounded morphology with a significant pixel radius at the maximum vertical point.",
+    "leading_edge_angle": "Steep anterior margin contour at approximately 55 degrees relative to the horizontal dorsal line.",
+    "pixel_aspect_ratio": "Base-to-height ratio of approximately 1.1:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Small-radius convex curve forming a distinct frontal bulge.",
+    "rostrum_aspect_vector": "Short, low-aspect ratio beak with length roughly equal to vertical base thickness.",
+    "cranial_inflection_angle": "Visible concave notch at the transition point between the melon slope and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject features a uniform cyan digital luminescent texture with high-contrast specular highlights and visible edge aliasing."
+}

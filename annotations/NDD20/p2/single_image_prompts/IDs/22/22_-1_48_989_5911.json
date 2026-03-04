@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Slightly concave trailing edge following a shallow spline from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a sharp pixel radius.",
+    "leading_edge_angle": "Approximately 35-degree angular steepness relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 base width to vertical height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Shallow convexity with a large radius curve transitioning smoothly into the anterior region.",
+    "rostrum_aspect_vector": "Short, tapered rostrum with high thickness relative to length, ending in a sharp point.",
+    "cranial_inflection_angle": "Highly obtuse angle at the transition point between the melon slope and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject displays a uniform bioluminescent or neon cyan luminance across the entire visible surface with high-intensity highlights on the ocular and dorsal regions."
+}

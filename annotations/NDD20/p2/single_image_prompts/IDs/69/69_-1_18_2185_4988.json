@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a non-continuous concave profile defined by two discrete linear segments meeting at an obtuse vertex",
+    "apex_bounding_geometry": "Acute shape classification with a sharp, zero-radius pixel vertex",
+    "leading_edge_angle": "Approximately 58 degrees relative to the dorsal longitudinal axis following a linear polygonal boundary",
+    "pixel_aspect_ratio": "Approximately 1.1:1 base-width to vertical-height ratio"
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Shallow convexity defined by a series of discrete planar facets rather than a smooth arc",
+    "rostrum_aspect_vector": "Short, high-thickness beak proportional to the cranial volume, tapering to a blunt point",
+    "cranial_inflection_angle": "Clear obtuse inflection point at the intersection of the melon and rostrum planes"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Image displays low-polygon 3D mesh topology; a singular rectangular grey texture artifact is visible on the posterior-upper quadrant of the dorsal fin"
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear; trailing edge displays zero curvature, representing a direct vector between the apex vertex and dorsal ridge due to low-poly construction.",
+    "apex_bounding_geometry": "Acute; apex terminates in a single pixel/vertex with no measurable radius.",
+    "leading_edge_angle": "Approximately 65 degrees relative to the horizontal dorsal midline axis.",
+    "pixel_aspect_ratio": "Approximately 1:1.8 ratio of maximum base width to vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Segmented low-poly convexity; boundary is composed of flat-shaded linear segments rather than a continuous curve.",
+    "rostrum_aspect_vector": "Short, blunt projection; pixel length and thickness are nearly equivalent at a 1:1 ratio.",
+    "cranial_inflection_angle": "Obtuse; approximately 160 degrees at the pixel transition from melon to rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a low-fidelity 3D model characterized by visible polygonal facets and artificial linear color gradients."
+}

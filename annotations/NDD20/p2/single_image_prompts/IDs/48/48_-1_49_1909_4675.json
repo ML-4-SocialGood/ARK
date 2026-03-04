@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a moderate concave curvature (falcate) from the apex down to the posterior dorsal ridge.",
+    "apex_bounding_geometry": "Apex is acute with a small-radius rounded tip.",
+    "leading_edge_angle": "Approximately 50 degrees relative to the horizontal longitudinal axis.",
+    "pixel_aspect_ratio": "Height-to-base ratio is approximately 1:1.2."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Smooth, semi-circular convexity with a medium-sized radius.",
+    "rostrum_aspect_vector": "Short, robust rostrum; length is roughly equal to its vertical thickness at the base.",
+    "cranial_inflection_angle": "Obtuse angle, approximately 135 degrees, at the point of inflection between the melon and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform cyan-to-teal gradient coloration across the entire 3D model surface with no pixel-level biological texture."
+}

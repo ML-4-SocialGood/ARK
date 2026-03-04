@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge exhibits a deep concave curvature forming a parabolic arc from the apex to the posterior insertion point.",
+    "apex_bounding_geometry": "Acute shape with a small pixel radius at the dorsal-most morphological tip.",
+    "leading_edge_angle": "Steep anterior slope of approximately 65-70 degrees relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Max vertical height to max basal width ratio is approximately 1.4:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Continuous convex curvature of the melon with a uniform radius of arc extending to the rostrum base.",
+    "rostrum_aspect_vector": "Short, thickened beak-like extension with a high thickness-to-length pixel ratio.",
+    "cranial_inflection_angle": "Clearly defined obtuse angle of approximately 130 degrees at the junction where the melon slope meets the rostrum."
+  },
+  "acquired_anomalies_or_scars": "A distinct bright elliptical pixel cluster is visible on the mid-lateral flank.",
+  "other_distinctive_markers": "Visible polygonal edges and low-fidelity texture mapping indicate a non-biological digital rendering origin."
+}

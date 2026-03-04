@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with a discrete angular transition at the posterior base, exhibiting minimal curvature characteristic of a low-polygon mesh.",
+    "apex_bounding_geometry": "Acute point with a near-zero pixel radius, forming a sharp vertex.",
+    "leading_edge_angle": "Approximately 50 degrees relative to the longitudinal dorsal axis.",
+    "pixel_aspect_ratio": "Base-to-height ratio of approximately 1.2:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Large radius curve with three distinct linear segments forming a low-convexity profile.",
+    "rostrum_aspect_vector": "Short, stubby rostrum with a length-to-thickness ratio of roughly 1.5:1.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 155 degrees where the melon meets the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits a low-polygon geometric mesh topology and uniform monochromatic cyan shading consistent with a synthetic 3D model."
+}

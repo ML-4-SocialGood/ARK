@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave trailing edge curvature fitting a parabolic spline from the apex to the posterior dorsal insertion point.",
+    "apex_bounding_geometry": "Acute shape classification with a sharp, pointed vertex and minimal pixel radius.",
+    "leading_edge_angle": "Approximately 65 degrees relative to the horizontal longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of maximum base width to vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex semi-circular arc forming a distinct, rounded forehead profile.",
+    "rostrum_aspect_vector": "Short, blunt beak projection with a length-to-thickness ratio of approximately 1.2:1 from the inflection point.",
+    "cranial_inflection_angle": "Obtuse interior angle of approximately 140 degrees at the pixel transition from melon to rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Highly stylized low-polygon silhouette rendering with sharp, angular pectoral fins and tail flukes."
+}

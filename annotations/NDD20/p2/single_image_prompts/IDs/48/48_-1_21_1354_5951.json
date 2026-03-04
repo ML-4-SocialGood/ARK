@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature; trailing boundary consists of a straight pixel segment",
+    "apex_bounding_geometry": "Acute vertex shape classification with a zero-pixel radius",
+    "leading_edge_angle": "Approximately 60 degrees relative to the dorsal longitudinal axis",
+    "pixel_aspect_ratio": "Approximate 1.1:1 ratio of base pixel width to maximum vertical pixel height"
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Short, conical extension with roughly equal pixel length and base thickness",
+    "cranial_inflection_angle": "Approximately 140 degrees at the polygonal vertex where the melon and rostrum meet"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is a low-polygon 3D digital model characterized by discrete planar surfaces and a cyan-to-white gradient texture"
+}

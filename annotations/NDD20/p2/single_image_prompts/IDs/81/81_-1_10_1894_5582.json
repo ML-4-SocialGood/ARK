@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Trailing edge displays a smooth, shallow concave spline curvature from the apex to the posterior insertion point.",
+    "apex_bounding_geometry": "Rounded apex with an obtuse shape classification and a moderate pixel radius.",
+    "leading_edge_angle": "Anterior margin slope is approximately 40 degrees relative to the dorsal horizontal axis.",
+    "pixel_aspect_ratio": "Dorsal fin base width to vertical height ratio is approximately 1.7:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Melon profile fits a wide-radius convex arc with a smooth surface boundary.",
+    "rostrum_aspect_vector": "Rostrum is short and thick with a low length-to-base-width pixel ratio.",
+    "cranial_inflection_angle": "Obtuse angle at the inflection point where the melon slope transitions into the rostrum ridge."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Uniform monochromatic cyan/turquoise pigmentation across the entire visible dermal surface."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature, characteristic of a low-polygon mesh geometry.",
+    "apex_bounding_geometry": "Acute vertex with a pixel radius of zero, terminating in a sharp point.",
+    "leading_edge_angle": "Approximately 65 degrees relative to the longitudinal body axis.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio is approximately 1.5:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Polygonal convexity defined by flat facets; represents a discretized curvature.",
+    "rostrum_aspect_vector": "Short, thickened protrusion with a pixel length roughly equal to its base thickness.",
+    "cranial_inflection_angle": "Distinct obtuse angle of approximately 145 degrees at the melon-rostrum junction."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a stylized 3D model with a glowing cyan texture and visible mesh triangulation."
+}

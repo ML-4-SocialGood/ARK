@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": null,
+    "apex_bounding_geometry": "Acute shape classification; apex terminates in a narrow, sharply defined point at the vertical terminus.",
+    "leading_edge_angle": null,
+    "pixel_aspect_ratio": null
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad elliptical curvature; high-radius convexity visible from the frontal perspective.",
+    "rostrum_aspect_vector": "Significantly foreshortened due to head-on orientation; thickness at base is approximately equal to visible pixel length.",
+    "cranial_inflection_angle": "Obtuse transition angle visible at the specific pixel junction where the melon slope meets the base of the rostrum."
+  },
+  "acquired_anomalies_or_scars": "Distinct circular indentation on the upper-central region of the melon; minor light-colored punctate marks visible on the rostrum and lower melon surface.",
+  "other_distinctive_markers": "Symmetrical visibility of lateral pectoral fins; monochrome blue/cyan hue across all visible anatomical structures."
+}

@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Concave spline fitting the trailing edge from the dorsal ridge to the apex, exhibiting a distinct falcate curvature.",
+    "apex_bounding_geometry": "Acute triangular tip with a small pixel radius at the highest morphological point.",
+    "leading_edge_angle": "Approximately 55-degree ascending slope relative to the horizontal body axis.",
+    "pixel_aspect_ratio": "Base width to vertical height ratio is approximately 1.7:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Broad convex curvature of the melon, measured along the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": "Short, low-profile beak with a length-to-thickness ratio of approximately 1.5:1 extending from the inflection point.",
+    "cranial_inflection_angle": "Obtuse angle at the pixel transition where the melon curvature meets the rostrum ridge."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Intense cyan bioluminescent-like glow and high-contrast specular highlights across the dorsal and lateral surfaces."
+}

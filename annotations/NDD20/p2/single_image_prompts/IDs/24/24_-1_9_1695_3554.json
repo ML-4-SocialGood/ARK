@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge presents a linear diagonal slope with a distinct single-pixel concave step-in at the posterior basal junction.",
+    "apex_bounding_geometry": "Acute vertex classification with a minimal pixel radius of approximately 1-2 pixels at the highest morphological point.",
+    "leading_edge_angle": "Highly steep anterior margin, oriented at approximately 80-85 degrees relative to the horizontal dorsal midline.",
+    "pixel_aspect_ratio": "Narrow geometric profile with a calculated base-width to vertical-height ratio of approximately 0.55:1."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Uniform convex semi-circular arc with a consistent pixel curvature radius forming the anterior-dorsal boundary.",
+    "rostrum_aspect_vector": null,
+    "cranial_inflection_angle": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is a monochromatic cyan-colored digital silhouette exhibiting pronounced aliasing artifacts and a low-polygon structural representation."
+}

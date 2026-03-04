@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with negligible curvature; spline fits a straight line from the posterior dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute shape classification with a pixel radius of approximately 2 pixels.",
+    "leading_edge_angle": "Approximately 55 degrees relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of maximum base width to maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Convex curvature with a pixel-defined radius of approximately 15 pixels at the anterior-ventral aspect.",
+    "rostrum_aspect_vector": "Short, triangular projection with a 1:1 length-to-thickness ratio relative to the melon inflection.",
+    "cranial_inflection_angle": "Approximately 145 degrees at the junction between the melon slope and the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits a monochromatic cyan luminosity with internal intensity gradients, characteristic of a digital sprite rather than biological tissue."
+}

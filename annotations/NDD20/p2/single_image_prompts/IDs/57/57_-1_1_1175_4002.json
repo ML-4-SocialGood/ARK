@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with a sharp concave inflection at the posterior base, characterized by polygonal segments rather than a smooth spline.",
+    "apex_bounding_geometry": "Acute triangular vertex with a near-zero pixel radius, forming a sharp point.",
+    "leading_edge_angle": "Approximately 50 degrees relative to the horizontal dorsal midline.",
+    "pixel_aspect_ratio": "Approximately 1.2:1 base-width-to-height ratio."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Low-curvature, elongated convex slope transitioning into a flat anterior plane.",
+    "rostrum_aspect_vector": "Short, tapered protrusion with a sharp conical terminus; length is approximately 15% of the total head length.",
+    "cranial_inflection_angle": "Approximately 165 degrees at the transition point between the melon slope and the rostrum base."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Artificial low-polygon geometric structure with high-saturation cyan/teal emissive texture mapping and distinct aliasing on silhouettes."
+}

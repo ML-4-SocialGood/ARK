@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature, forming a straight pixel boundary from the dorsal ridge to the apex.",
+    "apex_bounding_geometry": "Acute triangular vertex with a minimal pixel radius, creating a sharp geometric point.",
+    "leading_edge_angle": "Steep linear slope estimated at 65 degrees relative to the horizontal longitudinal body axis.",
+    "pixel_aspect_ratio": "Approximately 1.1:1 ratio of maximum pixel base width to maximum vertical pixel height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "Distinct convex curve with a consistent radius forming a bulbous cranial protrusion.",
+    "rostrum_aspect_vector": "Short, sharply tapered beak with a pixel length roughly equivalent to its base thickness.",
+    "cranial_inflection_angle": "Distinct obtuse interior angle at the pixel coordinate where the melon curvature meets the rostrum's dorsal edge."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Monochromatic fluorescent green surface rendering and low-fidelity polygonal mesh artifacts."
+}

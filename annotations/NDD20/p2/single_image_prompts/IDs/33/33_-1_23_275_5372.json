@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "The trailing edge is a straight linear segment with zero curvature, consistent with a low-polygon mesh structure.",
+    "apex_bounding_geometry": "Acute vertex with zero pixel radius, forming a sharp point at the intersection of the leading and trailing edges.",
+    "leading_edge_angle": "Approximately 45 degrees relative to the horizontal body axis, following a perfectly linear path.",
+    "pixel_aspect_ratio": "The base width is approximately 1.8 times the vertical pixel height of the fin."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": "The melon is represented by a flat, faceted plane with no measurable arc radius or convexity.",
+    "rostrum_aspect_vector": "Short, wedge-shaped beak with a pixel length-to-thickness ratio of approximately 1.2:1.",
+    "cranial_inflection_angle": "A sharp obtuse angle of approximately 140 degrees is visible at the transition from the melon facet to the rostrum."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits pronounced low-polygon geometry throughout its morphology, with visible faceted edges and no organic smoothing."
+}

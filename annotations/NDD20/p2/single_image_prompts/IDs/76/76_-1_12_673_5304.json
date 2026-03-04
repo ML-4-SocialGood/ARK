@@ -1,0 +1,15 @@
+{
+  "dorsal_fin_geometric_silhouette": {
+    "falcation_vector": "Linear trailing edge with zero curvature; the pixel boundary forms a straight line from ridge to apex.",
+    "apex_bounding_geometry": "Acute vertex with a pixel radius of 0; classified as a sharp point due to polygonal mesh geometry.",
+    "leading_edge_angle": "Approximately 58 degrees relative to the horizontal longitudinal axis of the body.",
+    "pixel_aspect_ratio": "1.1:1 ratio of base pixel width to maximum vertical height."
+  },
+  "anterior_cranial_contour": {
+    "melon_arc_radius": null,
+    "rostrum_aspect_vector": "Short, conical projection; visible pixel length is approximately equal to the thickness at the base.",
+    "cranial_inflection_angle": "Distinct obtuse vertex at the pixel coordinate where the cranial slope meets the rostrum facet."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Low-polygon 3D model architecture with monochromatic cyan shading and absence of biological skin texture or features."
+}
