@@ -1,0 +1,18 @@
+{
+  "lateral_torso_line_topology": {
+    "vertical_line_count_and_spacing": "12 distinct vertical white lines traverse the primary bounding box of the torso, with spacing remaining largely uniform across the ribcage and narrowing slightly toward the posterior flank.",
+    "intersection_coordinates_bifurcations": null,
+    "discontinuity_mapping": "The three most posterior line segments are abbreviated, terminating before crossing the dorsal midline or reaching the lower torso boundary."
+  },
+  "posterior_constellation_clusters": {
+    "spatial_cluster_density": "A cluster of 4 high-contrast white spots is visible on the lower lateral haunch near the upper hind limb joint.",
+    "linear_blob_alignment": "Two white spots on the mid-thigh align to form a short horizontal geometric line."
+  },
+  "macro_horn_vector_geometry": {
+    "curve_trajectory_2d": "The horn silhouettes are short, straight spikes projecting posteriorly at an approximate 150-degree angle from the facial plane.",
+    "apical_span_ratio": "The estimated pixel distance between the horn tips is approximately 1.75 times the width of the horn bases.",
+    "terminal_contrast_ratio": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A prominent white chevron is present on the bridge of the nose between the eyes, with two distinct white spots visible on the lower cheek region."
+}

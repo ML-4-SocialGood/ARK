@@ -1,0 +1,18 @@
+{
+  "lateral_torso_line_topology": {
+    "vertical_line_count_and_spacing": "Approximately 13 high-contrast vertical line segments are visible on the primary foreground subject; spacing is relatively uniform, though inter-line distance increases slightly toward the posterior haunch.",
+    "intersection_coordinates_bifurcations": "A distinct Y-shaped bifurcation is visible on the 11th vertical line (counting from neck to tail) where it splits at the dorsal margin.",
+    "discontinuity_mapping": "Several abbreviated segments are visible on the lower mid-flank, particularly between the 5th and 7th lines, where white pixels terminate before reaching the ventral boundary."
+  },
+  "posterior_constellation_clusters": {
+    "spatial_cluster_density": "A cluster of approximately 3-4 distinct white spots is located on the lower posterior haunch of the foreground subject.",
+    "linear_blob_alignment": "Two distinct spots on the upper hind limb align vertically with the terminal trajectory of the posterior-most vertical line."
+  },
+  "macro_horn_vector_geometry": {
+    "curve_trajectory_2d": null,
+    "apical_span_ratio": null,
+    "terminal_contrast_ratio": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "White facial markings are visible, including a chevron between the eyes and two distinct white spots on the lower cheek/mandible region."
+}

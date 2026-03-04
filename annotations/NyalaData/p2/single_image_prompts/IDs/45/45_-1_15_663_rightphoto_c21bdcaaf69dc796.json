@@ -1,0 +1,18 @@
+{
+  "lateral_torso_line_topology": {
+    "vertical_line_count_and_spacing": "11 distinct vertical white lines traversing the torso. Spacing is largely equidistant through the midsection, with slightly increased frequency toward the anterior shoulder region.",
+    "intersection_coordinates_bifurcations": null,
+    "discontinuity_mapping": "Lines 5, 6, 7, and 8 (counted from posterior) exhibit lower-hemisphere discontinuities where the pixel data is obscured by a high-luminance foreground blur/foliage."
+  },
+  "posterior_constellation_clusters": {
+    "spatial_cluster_density": "A localized cluster of approximately 5 white spots is visible on the lateral posterior haunch, positioned between the vertical lines and the tail base.",
+    "linear_blob_alignment": "Three spots on the upper hind limb align to form a horizontal geometric row roughly parallel to the ground plane."
+  },
+  "macro_horn_vector_geometry": {
+    "curve_trajectory_2d": null,
+    "apical_span_ratio": null,
+    "terminal_contrast_ratio": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible white spots on the lower mandible and a high-contrast white patch/chevron on the lower throat area."
+}

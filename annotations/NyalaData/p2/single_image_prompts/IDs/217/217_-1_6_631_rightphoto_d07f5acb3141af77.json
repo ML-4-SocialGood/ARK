@@ -1,0 +1,18 @@
+{
+  "lateral_torso_line_topology": {
+    "vertical_line_count_and_spacing": "12 distinct vertical white lines observed across the primary torso bounding box; spacing is approximately equidistant with a slight increase in frequency towards the mid-posterior region.",
+    "intersection_coordinates_bifurcations": null,
+    "discontinuity_mapping": "Line segments 4, 7, and 9 (counting from anterior to posterior) exhibit vertical abbreviations, failing to traverse the full distance to the ventral torso boundary."
+  },
+  "posterior_constellation_clusters": {
+    "spatial_cluster_density": "A cluster of approximately 5-6 high-contrast white spots is located on the posterior-lateral haunch, primarily concentrated in the lower-quadrant of the hindquarter.",
+    "linear_blob_alignment": "A subset of three spots on the upper hind limb aligns in a diagonal geometric vector approximately parallel to the posterior muscle contour."
+  },
+  "macro_horn_vector_geometry": {
+    "curve_trajectory_2d": "Lyrate curvature with a spiral twist; the vector originates at approximately 45 degrees from the skull base, sweeping laterally before orienting vertically and medially at the tips.",
+    "apical_span_ratio": "The pixel distance between the terminal apical tips is approximately 2.8 times the pixel width measured at the horn bases.",
+    "terminal_contrast_ratio": "High-contrast ivory tipping occupies approximately 18% of the total vertical pixel length of the horn structure."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Prominent white erectile dorsal mane extending from the nape to the tail; distinct white facial chevron and white markings on the lower limbs above the hooves."
+}

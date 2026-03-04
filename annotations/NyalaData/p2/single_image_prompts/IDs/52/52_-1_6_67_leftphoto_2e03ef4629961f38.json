@@ -1,0 +1,18 @@
+{
+  "lateral_torso_line_topology": {
+    "vertical_line_count_and_spacing": "12 distinct vertical white lines traversing the torso. Spacing is irregular, with higher density in the posterior region where lines are separated by approximately 45-60 pixels compared to the mid-torso spacing of 80-100 pixels.",
+    "intersection_coordinates_bifurcations": null,
+    "discontinuity_mapping": "Lines 9, 10, and 11 (counting from anterior to posterior) exhibit vertical termination before reaching the lower ventral boundary, appearing as truncated segments on the upper flank."
+  },
+  "posterior_constellation_clusters": {
+    "spatial_cluster_density": "Two distinct high-contrast white circular spots are visible on the upper posterior haunch, positioned horizontally relative to each other.",
+    "linear_blob_alignment": null
+  },
+  "macro_horn_vector_geometry": {
+    "curve_trajectory_2d": null,
+    "apical_span_ratio": null,
+    "terminal_contrast_ratio": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible white horizontal patches on the lower distal segments of the limbs (pastern region) and a white patch on the posterior pelvic area."
+}

@@ -1,0 +1,18 @@
+{
+  "lateral_torso_line_topology": {
+    "vertical_line_count_and_spacing": "10 distinct high-contrast vertical lines traversing the torso. Spacing is relatively equidistant across the midsection, with slightly increased density observed in the posterior third of the torso bounding box.",
+    "intersection_coordinates_bifurcations": null,
+    "discontinuity_mapping": "The anterior-most line segment is abbreviated, terminating at approximately 35% of the vertical torso height. Several posterior lines show tapering and loss of pixel intensity near the ventral margin."
+  },
+  "posterior_constellation_clusters": {
+    "spatial_cluster_density": "A sparse cluster of approximately 4-5 high-contrast white spots is visible on the upper hindquarters and lateral flank area.",
+    "linear_blob_alignment": "Two distinct circular spots on the mid-posterior haunch exhibit a horizontal linear alignment."
+  },
+  "macro_horn_vector_geometry": {
+    "curve_trajectory_2d": null,
+    "apical_span_ratio": null,
+    "terminal_contrast_ratio": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Prominent white transverse patch located on the lower cervical/ventral neck region. Distinct white markings are visible on the medial surfaces of the forelimbs and hindlimbs."
+}

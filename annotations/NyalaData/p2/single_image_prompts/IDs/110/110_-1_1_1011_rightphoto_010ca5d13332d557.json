@@ -1,0 +1,18 @@
+{
+  "lateral_torso_line_topology": {
+    "vertical_line_count_and_spacing": "12 high-contrast vertical line segments traversing the torso bounding box; spacing is narrowest in the mid-anterior region and widens slightly toward the posterior haunch.",
+    "intersection_coordinates_bifurcations": "A Y-shaped topological split is visible on the dorsal portion of the final posterior line segment before the haunch.",
+    "discontinuity_mapping": "The first three anterior lines and the fifth line from the shoulder terminate mid-torso, failing to reach the ventral boundary."
+  },
+  "posterior_constellation_clusters": {
+    "spatial_cluster_density": "A cluster of approximately 5-6 high-contrast spots is located on the lower haunch, appearing as a dense grouping near the stifle joint.",
+    "linear_blob_alignment": "Three distinct spots align horizontally across the mid-thigh, forming a semi-connected geometric line."
+  },
+  "macro_horn_vector_geometry": {
+    "curve_trajectory_2d": null,
+    "apical_span_ratio": null,
+    "terminal_contrast_ratio": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Two high-contrast white spots are present on the cheek area below the eye; a white transverse patch is visible on the lower throat region."
+}

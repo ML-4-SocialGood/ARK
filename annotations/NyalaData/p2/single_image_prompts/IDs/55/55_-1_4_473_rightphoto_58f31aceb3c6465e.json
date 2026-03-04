@@ -1,0 +1,18 @@
+{
+  "lateral_torso_line_topology": {
+    "vertical_line_count_and_spacing": "Approximately 10 distinct vertical white line segments are visible across the lateral torso. Spacing is relatively uniform, though lines 3-6 (from posterior) exhibit higher pixel width and contrast compared to anterior segments.",
+    "intersection_coordinates_bifurcations": null,
+    "discontinuity_mapping": "The posterior-most line segments (left side of frame) are discontinuous, consisting of vertically aligned elliptical spots rather than solid lines."
+  },
+  "posterior_constellation_clusters": {
+    "spatial_cluster_density": "A cluster of 4-5 high-contrast white spots is visible on the lower haunch above the hock, with a dense grouping in the center of the posterior flank.",
+    "linear_blob_alignment": "A horizontal alignment of three spots is visible on the mid-posterior haunch, creating a semi-linear geometric pattern."
+  },
+  "macro_horn_vector_geometry": {
+    "curve_trajectory_2d": null,
+    "apical_span_ratio": null,
+    "terminal_contrast_ratio": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A wide white transverse band is visible across the lower neck. Significant foreground occlusion is present due to out-of-focus linear elements (likely fencing) bisecting the subject's head and torso."
+}

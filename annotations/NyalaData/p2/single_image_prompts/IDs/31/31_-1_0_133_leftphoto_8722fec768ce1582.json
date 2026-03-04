@@ -1,0 +1,18 @@
+{
+  "lateral_torso_line_topology": {
+    "vertical_line_count_and_spacing": "12 distinct vertical line segments traversing the torso. Spacing is largely equidistant through the mid-section with increased density observed as they approach the posterior haunch.",
+    "intersection_coordinates_bifurcations": "A Y-shaped bifurcation is visible on the 4th vertical line from the anterior, splitting in the upper-dorsal quadrant. A secondary intersection occurs where the 8th line appears to merge with a faint horizontal trace at the mid-flank.",
+    "discontinuity_mapping": "Lines 1, 10, and 11 are abbreviated, terminating before the ventral-most region of the torso. Line 5 shows a pixel-level break in the mid-flank."
+  },
+  "posterior_constellation_clusters": {
+    "spatial_cluster_density": "A cluster of 4 distinct high-contrast spots is visible on the lower posterior haunch, arranged in a roughly triangular grouping.",
+    "linear_blob_alignment": "Two spots located on the mid-posterior thigh align along a semi-horizontal axis."
+  },
+  "macro_horn_vector_geometry": {
+    "curve_trajectory_2d": "The horns exhibit a posterior-to-dorsal vector with a visible lyrate curvature originating from the frontal bone at approximately a 45-degree angle from the sagittal plane.",
+    "apical_span_ratio": null,
+    "terminal_contrast_ratio": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A prominent white transverse patch is visible on the lower-ventral throat region."
+}

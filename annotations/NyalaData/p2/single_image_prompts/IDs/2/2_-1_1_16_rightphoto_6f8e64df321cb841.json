@@ -1,0 +1,18 @@
+{
+  "lateral_torso_line_topology": {
+    "vertical_line_count_and_spacing": "Approximately 6 primary high-contrast vertical lines with 2 additional abbreviated/faint segments at the anterior and posterior margins. Spacing is relatively equidistant across the central torso mass.",
+    "intersection_coordinates_bifurcations": null,
+    "discontinuity_mapping": "Anterior-most line (closest to neck) and posterior-most line (closest to haunch) terminate prematurely before crossing the torso midline. Central lines 2 and 5 (counting from anterior) show thinning or partial pixel gaps in the lower third of the torso."
+  },
+  "posterior_constellation_clusters": {
+    "spatial_cluster_density": "Low density; one high-contrast primary spot on the upper posterior haunch and two smaller, lower-intensity spots located on the posterior distal thigh.",
+    "linear_blob_alignment": null
+  },
+  "macro_horn_vector_geometry": {
+    "curve_trajectory_2d": "Dual-spiral lyrate curvature; horns originate at approximately a 40-degree lateral angle from the skull, curving posteriorly and then medially towards the terminal tips.",
+    "apical_span_ratio": "Approximately 2.1:1 ratio between the pixel distance of the horn tips compared to the pixel width of the combined horn bases.",
+    "terminal_contrast_ratio": "Approximately 0.15 of the total horn length exhibits high-contrast ivory/bright-pixel tipping."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "White facial chevron between the orbital regions; two distinct white spots on the right cheek (malar region); tricolor limb markers consisting of black lower distal segments, white bands, and orange/tan proximal segments."
+}
