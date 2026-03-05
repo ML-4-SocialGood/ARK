@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at a diagonal angle directed towards the nasal region.",
+    "aspect_ratio_factor": "Oval morphology with a significant elongation along the primary axis, indicating a high aspect ratio.",
+    "inferior_centroid_shift": "Visible downward elongation and narrowing at the ventral aspect of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge exhibits a relatively flat, shallow U-shape across the dorsal midline.",
+    "normalized_band_thickness": "The dark band is thick, encompassing approximately one-third of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide white cranial gap is visible between the two dark semicircular ear regions.",
+    "apex_contour_smoothness": "The ear boundaries are smoothly curved and semicircular with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

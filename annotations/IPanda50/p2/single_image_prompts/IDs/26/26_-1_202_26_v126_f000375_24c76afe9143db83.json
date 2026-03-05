@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation with the primary axis tilted approximately 40 degrees inward towards the muzzle.",
+    "aspect_ratio_factor": "Ellipsoidal; vertical axis is longer than the horizontal width, creating an elongated oval profile.",
+    "inferior_centroid_shift": "Distinct downward tapering observed, with the lowest point of the patch shifted significantly below the horizontal midline."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve along the posterior margin where the black band meets the white dorsal fur.",
+    "normalized_band_thickness": "High thickness, covering approximately 45 percent of the visible lateral shoulder area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation between ears, with the inter-ear gap measuring approximately twice the width of a single ear.",
+    "apex_contour_smoothness": "Convex hemispherical curvature with no visible flattening at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

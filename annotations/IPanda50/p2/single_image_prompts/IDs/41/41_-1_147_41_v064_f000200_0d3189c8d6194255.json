@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at a sharp downward diagonal toward the rostrum.",
+    "aspect_ratio_factor": "Ellipsoid morphology with a high ratio of length to width.",
+    "inferior_centroid_shift": "Visible tapering and narrowing at the lower margin of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, flat U-shape with minimal posterior curvature.",
+    "normalized_band_thickness": "High relative thickness, extending from the base of the neck to the mid-thoracic region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smooth, convex semicircular curve on the visible right ear."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

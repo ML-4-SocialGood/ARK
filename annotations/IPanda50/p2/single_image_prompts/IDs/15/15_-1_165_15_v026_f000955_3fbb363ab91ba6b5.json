@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The patches exhibit an oblique orientation, angled approximately 45 degrees downward and outward from the bridge of the nose.",
+    "aspect_ratio_factor": "The patches are elongated ovals with a visual vertical-to-horizontal ratio of approximately 1.8:1.",
+    "inferior_centroid_shift": "There is a visible downward tapering, with the bulk of the pigment concentrated in the upper two-thirds, creating a teardrop effect."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the band displays a smooth, deep U-shaped curve where the black pigment meets the white dorsal fur.",
+    "normalized_band_thickness": "The dark band is thick, occupying approximately one-third of the visible upper torso's vertical profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely spaced, with the gap between the inner edges roughly equal to 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "The tops of the ears exhibit a consistent semicircular smoothness with no visible flattening or irregularities."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

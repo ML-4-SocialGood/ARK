@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees downward relative to the horizontal facial axis, slanting toward the snout.",
+    "aspect_ratio_factor": "Elongated oval with a high aspect ratio; length significantly exceeds width from the lateral perspective.",
+    "inferior_centroid_shift": "Notable downward tapering with the lowest point shifted anteriorly toward the cheek."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Gradual, flat U-shaped curve at the posterior edge of the shoulder band.",
+    "normalized_band_thickness": "Substantial thickness, covering approximately one-third of the visible torso length from the shoulder to the mid-section."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Semicircular with a smooth, continuous curvature across the superior boundary of the visible pinna."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

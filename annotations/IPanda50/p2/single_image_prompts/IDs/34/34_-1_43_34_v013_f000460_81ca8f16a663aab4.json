@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the eye patches is oriented at approximately a 45-degree angle outward from the tilted vertical midline of the skull.",
+    "aspect_ratio_factor": "The eye patches exhibit an elongated oval geometry with an approximate 1:1.5 width-to-height ratio along the dominant axis.",
+    "inferior_centroid_shift": "There is a visible downward tapering effect where the lower margin of the patch is narrower than the upper margin, creating a teardrop profile."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the transverse dark band across the shoulders displays a broad, shallow U-shaped curvature.",
+    "normalized_band_thickness": "The dark band is thick, occupying approximately 35% of the visible upper torso area between the neck and mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are set wide apart with a gap roughly equivalent to 2.5 times the transverse width of an individual pinna.",
+    "apex_contour_smoothness": "The superior boundaries of the ears exhibit a smooth, circular curvature with no observed flattening."
+  },
+  "acquired_anomalies_or_scars": "A distinct brownish-tan discolored spot is visible on the white fur of the forehead, centered between the superior margins of the eye patches.",
+  "other_distinctive_markers": null
+}

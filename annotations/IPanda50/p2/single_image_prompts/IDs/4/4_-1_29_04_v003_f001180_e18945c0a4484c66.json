@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 75 degrees relative to the horizontal facial axis, pointing downward toward the muzzle.",
+    "aspect_ratio_factor": "Elongated oval morphology with a visual height-to-width ratio of approximately 2:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering towards the inferior margin, with the lowest point distal to the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve profile at the posterior edge of the dark band.",
+    "normalized_band_thickness": "The dark band occupies approximately 45% of the visible longitudinal torso segment."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the dark ear regions is approximately 1.3 times the width of an individual ear base.",
+    "apex_contour_smoothness": "Highly smooth, rounded semicircular profile at the top boundary of both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

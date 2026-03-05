@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible left eye patch (viewer's right) displays an approximately 45-degree diagonal orientation relative to the horizontal facial axis, sloping downwards and outwards.",
+    "aspect_ratio_factor": "The visible eye patch is distinctly oval, with its primary vertical-diagonal axis roughly twice the length of its horizontal-diagonal width.",
+    "inferior_centroid_shift": "The patch exhibits a pronounced downward tapering effect toward the outer lateral margin, shifting the visual mass below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band across the shoulder region is thick and prominent, occupying approximately 30% of the visible vertical torso plane."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ear regions are separated by a wide gap approximately 1.5 times the width of a single ear pinna.",
+    "apex_contour_smoothness": "The top boundaries of both visible ears exhibit a smooth, continuous semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is captured with an open mandible, exposing the tongue and lower dentition; the right eye patch (viewer's left) is partially obscured by the right forelimb."
+}

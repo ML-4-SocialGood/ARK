@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical orientation tilted approximately 15 degrees posteriorly relative to the cranial-caudal axis of the snout.",
+    "aspect_ratio_factor": "Elongated oval with a visual height-to-width ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "Moderate downward tapering resulting in a teardrop-like extension below the ocular center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curvature along the posterior margin of the transverse band.",
+    "normalized_band_thickness": "Substantial thickness occupying approximately 35-40% of the visible torso height at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear separation of black pinna regions by a white fur gap approximately equal to the width of one pinna.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular top boundaries with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

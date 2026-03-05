@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the camera-right eye patch is oriented at a diagonal angle of approximately 45 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch is distinctly oval-shaped with an estimated length-to-width ratio of 1.8:1.",
+    "inferior_centroid_shift": "A pronounced tapering effect is visible toward the lower-lateral margin of the patch, extending well below its geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band at the visible lateral flanks is robust, covering approximately 40-45% of the visible torso length between the forelimbs and hindlimbs."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ear regions are separated by a wide gap approximately 1.5 times the horizontal width of a single pinna.",
+    "apex_contour_smoothness": "The superior boundaries of the ears are smoothly rounded and exhibit a continuous semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant soil accumulation and brown staining are visible on the ventral white pelage and the extremities of the limbs."
+}

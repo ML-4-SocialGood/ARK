@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward tilt relative to the horizontal facial axis, oriented towards the snout.",
+    "aspect_ratio_factor": "Oval morphology with an elongated vertical axis, approximately a 1.7:1 ratio of length to width.",
+    "inferior_centroid_shift": "Significant downward tapering where the inferior margin extends further from the geometric center toward the rostrum."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve profile at the posterior boundary of the dark band.",
+    "normalized_band_thickness": "Substantial thickness, representing approximately 30-35% of the visible dorsal-to-ventral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation between pinnae, with a gap approximately 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "Consistent semicircular curvature with a smooth, rounded apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Notable brownish-red/rufous pigmentation staining on the fur in the ventral-pelvic region."
+}

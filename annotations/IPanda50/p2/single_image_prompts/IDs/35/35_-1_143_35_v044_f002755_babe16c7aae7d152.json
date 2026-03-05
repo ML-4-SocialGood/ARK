@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band follows a steep diagonal trajectory from the dorsal midline down the lateral flank, characteristic of a deep V-shape curvature.",
+    "normalized_band_thickness": "The band is visually thick, representing approximately 30-35% of the visible torso length from this lateral-posterior perspective."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The black pinnae are separated by a visible white gap roughly equal to the transverse diameter of one ear.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a continuous, smooth, and rounded convex curvature."
+  },
+  "acquired_anomalies_or_scars": "A prominent, irregularly shaped pinkish-red patch of exposed skin or significantly thinned fur is visible on the lower left rump region.",
+  "other_distinctive_markers": null
+}

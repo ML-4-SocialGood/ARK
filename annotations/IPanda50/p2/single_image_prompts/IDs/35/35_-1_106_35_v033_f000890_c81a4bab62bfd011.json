@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes are oriented at an oblique angle, slanting downward and inward toward the rostrum.",
+    "aspect_ratio_factor": "Oval; the vertical length of the patch is approximately 1.8 times the horizontal width.",
+    "inferior_centroid_shift": "The patch displays a downward vertical elongation, with the bottom tip tapering significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The band is thick and prominent, occupying approximately 30% of the visible torso length on the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the ears is roughly 1.5 times the horizontal diameter of an individual ear.",
+    "apex_contour_smoothness": "The superior boundaries of the ears exhibit a smooth, convex, semi-circular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A bamboo fragment is held horizontally against the mid-torso; significant yellow-brown staining is visible on the ventral fur relative to the cranial fur."
+}

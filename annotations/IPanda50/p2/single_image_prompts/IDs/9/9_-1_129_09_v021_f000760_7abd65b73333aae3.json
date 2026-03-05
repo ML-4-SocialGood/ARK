@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "approximately 45 degrees downward toward the muzzle relative to the horizontal facial axis",
+    "aspect_ratio_factor": "ovoid with vertical elongation",
+    "inferior_centroid_shift": "teardrop-like downward tapering"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "substantial thickness, occupying approximately one-third of the visible vertical torso profile"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "wide lateral separation approximately 1.5 times the width of an individual pinna",
+    "apex_contour_smoothness": "continuous semicircular curvature"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

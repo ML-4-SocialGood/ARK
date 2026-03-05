@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-60 degrees relative to the horizontal facial axis, angled downwards and outwards from the ocular center.",
+    "aspect_ratio_factor": "Vertically elongated oval with an estimated width-to-height ratio of 1:1.6.",
+    "inferior_centroid_shift": "Pronounced downward tapering where the inferior margin extends significantly further from the geometric center than the superior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "Shallow, flat U-shaped profile across the posterior edge of the thoracic band.",
+    "normalized_band_thickness": "Estimated at 0.4 relative to the visible upper torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the pinnae is approximately 1.5 times the width of an individual ear unit.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular curvature at the apex of both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Highly visible dark pigmentation in the perineal region exposed by the splayed seated posture."
+}

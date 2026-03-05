@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis is oriented at a steep downward angle of approximately 75 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Vertical oval morphology with a height-to-width ratio of approximately 2:1.",
+    "inferior_centroid_shift": "The patch exhibits a clear downward taper, with the lowest vertex situated significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge displays a shallow U-shape curvature as it transitions into the white dorsal fur.",
+    "normalized_band_thickness": "The band is relatively thick, occupying approximately 30% of the visible torso area from the shoulder to the mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned with a wide gap, roughly 2.5 times the horizontal width of an individual pinna.",
+    "apex_contour_smoothness": "The apex of each ear is rounded, though the left ear (viewer's right) appears slightly more flattened due to perspective."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

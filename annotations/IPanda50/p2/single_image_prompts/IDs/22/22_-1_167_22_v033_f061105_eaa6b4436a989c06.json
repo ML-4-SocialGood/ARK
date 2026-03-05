@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, slanted downward and inward toward the muzzle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Oval-shaped blobs with a vertical-to-horizontal ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Distinct downward elongation present, with the lowest point of the patch extending significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band occupies approximately 35% of the visible torso height at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-ear gap is approximately 1.8 times the horizontal width of a single ear unit.",
+    "apex_contour_smoothness": "High smoothness; the top boundary follows a consistent semicircular curve."
+  },
+  "acquired_anomalies_or_scars": "Presence of approximately five distinct, circular, reddish-brown patches or dermatological markers on the ventral chest and abdominal fur.",
+  "other_distinctive_markers": "The pink tongue is protruding from the mouth (tongue-out behavior)."
+}

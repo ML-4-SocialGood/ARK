@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are oriented at a downward angle of approximately 30 to 45 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The patches exhibit an elongated oval morphology with a vertical height greater than the horizontal width.",
+    "inferior_centroid_shift": "The patches display a pronounced downward taper, with the inferior boundary extending significantly further from the geometric center than the superior boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned laterally on the cranium with a separation distance approximately 1.5 times the width of an individual pinna.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, rounded semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

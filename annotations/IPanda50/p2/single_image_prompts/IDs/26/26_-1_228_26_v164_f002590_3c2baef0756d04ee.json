@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the black eye patches is oriented diagonally at approximately a 45-degree angle, slanting downwards toward the midline of the snout.",
+    "aspect_ratio_factor": "The eye patches exhibit an oval geometry where the vertical height is greater than the horizontal width, creating a teardrop-like aspect ratio.",
+    "inferior_centroid_shift": "There is a pronounced downward tapering of the eye patches, with the lowest points extending significantly below the geometric center towards the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark dorsal band across the shoulders displays a shallow, broad U-shape with no sharp V-point visible.",
+    "normalized_band_thickness": "The dark band is thick, occupying approximately 35% of the visible vertical torso height when measured at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned laterally with a wide gap between them, roughly spanning twice the width of a single ear.",
+    "apex_contour_smoothness": "The top boundaries of the pinnae exhibit a smooth, semicircular curvature without any visible flattening of the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

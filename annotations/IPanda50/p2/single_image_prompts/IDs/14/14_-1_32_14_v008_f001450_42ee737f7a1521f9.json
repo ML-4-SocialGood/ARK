@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are oriented obliquely, angled downward toward the muzzle.",
+    "aspect_ratio_factor": "Eye patches appear as elongated ovals with a significantly higher vertical-to-horizontal ratio.",
+    "inferior_centroid_shift": "The patches exhibit a downward tapering effect, extending further below the ocular center than above it."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The dark ear regions are separated by a broad white cranial gap wider than the width of an individual ear.",
+    "apex_contour_smoothness": "The superior boundaries of the ears are uniformly curved and rounded."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

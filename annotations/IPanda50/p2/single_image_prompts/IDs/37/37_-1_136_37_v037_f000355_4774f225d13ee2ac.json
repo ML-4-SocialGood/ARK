@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at approximately 75 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval geometry with a high vertical-to-horizontal aspect ratio.",
+    "inferior_centroid_shift": "The patch exhibits a distinct downward tapering, with a significant reduction in width at the inferior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band at the lateral shoulders occupies approximately one-third of the visible vertical torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the two pinnae regions is roughly 1.5 times the width of an individual ear base.",
+    "apex_contour_smoothness": "The superior boundaries of the ears show a smooth, continuous semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The ventral and thoracic fur displays significant brownish-yellow discoloration compared to the brighter white fur on the cranial region."
+}

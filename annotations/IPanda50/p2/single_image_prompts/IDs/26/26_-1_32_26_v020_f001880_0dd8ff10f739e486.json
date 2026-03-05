@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation angled approximately 45 degrees downward from the lateral toward the medial facial region.",
+    "aspect_ratio_factor": "Ovoid shape with a longitudinal axis approximately twice the length of the transverse axis.",
+    "inferior_centroid_shift": "The lower boundary tapers to a point significantly below the horizontal midline of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape with a nearly horizontal posterior margin across the dorsal midline.",
+    "normalized_band_thickness": "The dark band constitutes approximately one-third of the total visible vertical torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, with the gap between ears measuring roughly 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "High degree of smoothness with a consistently rounded, semicircular superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant accumulation of light-colored organic debris and foliage particles on the mid-lateral section of the black dorsal band."
+}

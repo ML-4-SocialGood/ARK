@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented near-vertically relative to the horizontal line of the snout.",
+    "aspect_ratio_factor": "High aspect ratio, appearing as an elongated oval or sliver in the lateral view.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, flat U-shape along the posterior boundary.",
+    "normalized_band_thickness": "Wide band covering approximately 35% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smoothly rounded convex apex on the visible right ear."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

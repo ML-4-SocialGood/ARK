@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical-oblique orientation, angling inward and downward toward the muzzle at approximately 45 degrees.",
+    "aspect_ratio_factor": "Elongated ovoid with a vertical-to-horizontal ratio significantly greater than 1:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering where the mass of the black patch extends further below the eye than above it."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Substantial gap across the white cranial fur, approximately 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Smooth, convex curvature at the superior margins of the ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

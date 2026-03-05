@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the eye patch is oriented at approximately a 45-degree angle, sloping downwards and outwards from the inner corner of the eye.",
+    "aspect_ratio_factor": "The eye patch is distinctly oval-shaped, with its longitudinal axis being roughly double the length of its transverse width.",
+    "inferior_centroid_shift": "There is a pronounced downward tapering effect, with the lower half of the patch extending significantly further from the center than the upper half."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The black shoulder band is wide and substantial, covering approximately one-third of the visible upper-torso depth."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A clear gap is visible between the black ear regions, measuring approximately 1.5 times the base width of a single pinna.",
+    "apex_contour_smoothness": "The upper boundaries of the ears are uniformly rounded, exhibiting a smooth semicircular curvature with no flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

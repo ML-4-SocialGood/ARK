@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented diagonally, approximately 45 degrees relative to the horizontal facial line, angled toward the rostrum.",
+    "aspect_ratio_factor": "Oval morphology with an estimated aspect ratio of 1.5:1, longer along the diagonal axis.",
+    "inferior_centroid_shift": "Significant downward and anterior tapering toward the muzzle area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shaped profile on the posterior edge where the black fur meets the white dorsal fur.",
+    "normalized_band_thickness": "High thickness, occupying roughly 30-35% of the visible trunk length from the side profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible pinna exhibits a smoothly rounded, convex upper boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

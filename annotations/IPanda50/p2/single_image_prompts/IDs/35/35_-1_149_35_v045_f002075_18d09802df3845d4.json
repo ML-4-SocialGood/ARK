@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees relative to the vertical midline, oriented downward toward the muzzle.",
+    "aspect_ratio_factor": "Ovoid with a vertical-to-horizontal ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Distinct downward tapering with the center of mass shifted toward the upper nasal region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve along the posterior edge of the scapular band.",
+    "normalized_band_thickness": "High thickness, covering the entire shoulder region and extending down the forelimbs."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap, approximately twice the width of a single ear unit.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular top boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

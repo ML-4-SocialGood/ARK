@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique angle with the primary axis slanting downwards from the medial canthus toward the lateral edge",
+    "aspect_ratio_factor": "Elongated oval with width significantly exceeding height",
+    "inferior_centroid_shift": "Pronounced downward tapering with the lower boundary extending below the horizontal midline of the patch"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap across the cranial crown, approximately equal to the horizontal width of the frontal bone",
+    "apex_contour_smoothness": "Smooth, rounded semicircular profile without flattening"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Open mouth posture revealing lower dentition and lingual tissue"
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve along the posterior edge of the transverse band",
+    "normalized_band_thickness": "The dark band covers approximately 30% of the visible dorsal torso, maintaining uniform thickness across the upper shoulder region"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct gap approximately equal to 1.5 times the width of an individual ear region",
+    "apex_contour_smoothness": "Rounded semicircular curvature with slight apex flattening on the left ear"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A small brownish-yellow circular mark/smudge is visible on the upper white dorsal region near the midline"
+}

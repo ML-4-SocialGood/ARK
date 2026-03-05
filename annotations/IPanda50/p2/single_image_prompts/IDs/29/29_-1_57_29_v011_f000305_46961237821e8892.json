@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward diagonal orientation relative to the sagittal plane of the head.",
+    "aspect_ratio_factor": "Elongated oval blob with an approximate 2:1 length-to-width ratio.",
+    "inferior_centroid_shift": "Distinct downward elongation tapering towards the lateral aspect of the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped posterior boundary across the dorsal midline.",
+    "normalized_band_thickness": "High thickness, extending across approximately 45% of the visible upper torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smooth, continuous convex curvature at the apex of the visible pinna."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

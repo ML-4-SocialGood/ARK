@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward tilt relative to the horizontal axis of the snout.",
+    "aspect_ratio_factor": "Elongated oval shape with a high length-to-width ratio.",
+    "inferior_centroid_shift": "Distinct tapering at the inferior-anterior boundary of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, flat U-shaped curve along the posterior margin.",
+    "normalized_band_thickness": "Broad band approximately 25-30% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Visible gap of white pelage separating the two distinct dark ear regions.",
+    "apex_contour_smoothness": "Smoothly rounded convex curvature on the superior margin of the visible pinna."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

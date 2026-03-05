@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, angled approximately 45 degrees downward toward the rostrum.",
+    "aspect_ratio_factor": "Elongated teardrop shape, where vertical height exceeds horizontal width.",
+    "inferior_centroid_shift": "Pronounced downward tapering extending from the geometric center to a distinct inferior point."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve along the posterior margin of the band.",
+    "normalized_band_thickness": "Uniform broad thickness across the visible transverse span."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance is approximately 1.5 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "Symmetrically rounded convex curvature at the top of both pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis is angled approximately 30 degrees upward from the snout toward the ear, roughly parallel to the bridge of the nose.",
+    "aspect_ratio_factor": "Oval-shaped blob with an approximate 1.7:1 ratio of length to width.",
+    "inferior_centroid_shift": "Moderate ventral tapering; the lowest point of the patch is notably lower than the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape profile visible along the posterior boundary of the transverse band.",
+    "normalized_band_thickness": "Approximately 0.35 of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant gap; the distance between the inner edges of the ears is approximately equal to the width of one ear region.",
+    "apex_contour_smoothness": "Smooth, semicircular convex curvature at the top of both pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

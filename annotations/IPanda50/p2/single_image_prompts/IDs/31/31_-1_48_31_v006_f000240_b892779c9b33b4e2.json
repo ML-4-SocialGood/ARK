@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at approximately a 45-degree angle downward relative to the longitudinal axis of the skull.",
+    "aspect_ratio_factor": "The eye patch exhibits an elongated oval geometry with a vertical-to-horizontal ratio of roughly 1.6:1.",
+    "inferior_centroid_shift": "The lower margin of the patch shows a distinct tapering toward the rostrum, shifting the lowest point anteriorly from the vertical centroid."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the transverse band follows a shallow, broad U-shaped profile across the dorsal spine.",
+    "normalized_band_thickness": "The band is relatively thick, occupying approximately 25 percent of the total visible thoracic length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-pinna gap is significant, measured at approximately 1.5 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "The superior boundary of the pinna is characterized by a high-curvature, smoothly rounded semicircular profile."
+  },
+  "acquired_anomalies_or_scars": "Several irregular brownish-tan patches are visible on the white fur across the posterior dorsal and lateral regions, consistent with soil staining.",
+  "other_distinctive_markers": null
+}

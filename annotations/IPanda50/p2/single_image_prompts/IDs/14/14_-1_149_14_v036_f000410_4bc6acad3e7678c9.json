@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, primary axis of the left patch is tilted forward relative to the head midline.",
+    "aspect_ratio_factor": "Elongated oval, height of the visible patch exceeds its width.",
+    "inferior_centroid_shift": "Minor downward tapering visible at the ventral-most point of the black pixel cluster."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep U-shape profile with a smooth posterior curve extending toward the mid-torso.",
+    "normalized_band_thickness": "High thickness, extending approximately one-quarter the length of the visible dorsal spine."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Convex, smooth semicircular curvature visible on the left ear."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced yellow-beige hue present on the dorsal and lateral white pelage regions."
+}

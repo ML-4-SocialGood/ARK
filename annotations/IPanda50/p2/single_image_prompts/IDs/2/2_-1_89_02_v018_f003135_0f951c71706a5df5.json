@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 80 degrees relative to the horizontal axis of the snout, oriented vertically with a slight forward tilt.",
+    "aspect_ratio_factor": "Elongated oval with a vertical-to-horizontal ratio of approximately 2:1.",
+    "inferior_centroid_shift": "The lower portion of the patch tapers into a narrower point, extending significantly below the horizontal midline of the ocular region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve along the posterior margin where the black band meets the white dorsal fur.",
+    "normalized_band_thickness": "Broad band coverage, representing approximately 50% of the visible torso height from the shoulder down."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible pinna exhibits a smooth, continuous semicircular curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible dentition and interior oral cavity due to open mouth posture."
+}

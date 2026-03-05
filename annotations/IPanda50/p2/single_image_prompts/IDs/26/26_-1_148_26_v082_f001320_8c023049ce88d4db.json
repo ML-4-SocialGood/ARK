@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented at approximately a 45-degree angle downward towards the rostrum.",
+    "aspect_ratio_factor": "The eye patch exhibits an elongated oval geometry with a vertical-to-horizontal ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "There is a pronounced downward tapering where the inferior margin extends notably further from the geometric center than the superior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band follows a smooth, broad U-shaped curve across the dorsal surface.",
+    "normalized_band_thickness": "The dark band occupies approximately 25 to 30 percent of the visible longitudinal torso area at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct white cranial gap exists between the ears, measuring roughly 1.5 times the horizontal width of a single pinna.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit highly smooth, semicircular convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Small fragments of green vegetation/detritus are adhered to the fur on the right forelimb and the right lateral facial region."
+}

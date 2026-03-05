@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical-oblique, angled approximately 15-20 degrees toward the midline from the vertical axis.",
+    "aspect_ratio_factor": "Elongated oval with a visual height-to-width ratio of approximately 1.8:1.",
+    "inferior_centroid_shift": "Marked downward tapering where the bottom vertex extends significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve across the posterior boundary where the black fur meets the white dorsal fur.",
+    "normalized_band_thickness": "Thick transverse band, occupying approximately 35% of the visible torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant lateral separation, with a wide gap across the white cranial fur.",
+    "apex_contour_smoothness": "Smooth, rounded semicircular convex profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

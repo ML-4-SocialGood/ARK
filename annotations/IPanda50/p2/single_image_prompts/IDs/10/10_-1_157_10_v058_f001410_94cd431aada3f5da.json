@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left-side eye patch is oriented diagonally at approximately a 45-degree angle relative to the facial midline, tapering toward the snout.",
+    "aspect_ratio_factor": "The eye patch exhibits a teardrop or oval morphology, with the longitudinal axis significantly longer than the transverse width.",
+    "inferior_centroid_shift": "There is a visible downward and anterior tapering of the patch, with the lowest point extending toward the muzzle area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A clear spatial gap is maintained between the two dark, semicircular ear regions across the cranial vault.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, convex, and rounded curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

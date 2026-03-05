@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, angled approximately 45 degrees downward toward the rostrum.",
+    "aspect_ratio_factor": "Distinctly elongated oval with the longitudinal axis significantly greater than the transverse axis.",
+    "inferior_centroid_shift": "Visible tapering and extension at the ventral extremity of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior curve with minimal indentation.",
+    "normalized_band_thickness": "Wide transverse band, occupying approximately 30-35% of the visible dorsal span."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap approximately 2.0 times the width of a single pinna.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular profile without visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

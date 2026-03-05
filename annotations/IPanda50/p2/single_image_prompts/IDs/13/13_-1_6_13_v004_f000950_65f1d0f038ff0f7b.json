@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at a slight downward angle of approximately 15 degrees relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "The patch exhibits an elongated ovoid morphology with a width-to-height ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "There is a noticeable downward tapering on the ventral-rostral margin of the eye patch, extending the visual mass below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The band is substantial and broad, spanning approximately 40% of the visible dorsal-lateral surface area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The superior boundary of the visible pinna displays a smooth, continuous convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

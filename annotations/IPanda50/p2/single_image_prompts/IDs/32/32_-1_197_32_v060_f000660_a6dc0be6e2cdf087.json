@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical orientation with a slight outward tilt of approximately 15-20 degrees from the vertical midline of the face.",
+    "aspect_ratio_factor": "Elongated oval with a high aspect ratio, where height significantly exceeds width.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the lowest point extending well below the geometric center toward the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Smooth, wide U-shaped curve along the posterior edge of the transverse band.",
+    "normalized_band_thickness": "Moderately thick, occupying approximately 20% of the visible dorsal-to-caudal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation across the cranial vault.",
+    "apex_contour_smoothness": "Uniformly convex and rounded at the superior boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brown-pigmented staining on the fur of the hindquarters and paws, contrasting with the black pigmentation of the forelimbs."
+}

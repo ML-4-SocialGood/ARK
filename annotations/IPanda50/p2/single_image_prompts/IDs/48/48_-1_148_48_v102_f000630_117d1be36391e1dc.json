@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the black eye patches are oriented near-vertically with a slight outward tilt at the inferior edges.",
+    "aspect_ratio_factor": "The eye patches exhibit a vertical oval morphology with a height-to-width ratio greater than 1.5.",
+    "inferior_centroid_shift": "The patches show a downward tapering effect, where the widest section is located in the superior half of the blob."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned at the lateral extremes of the cranial apex, separated by a wide white sagittal region.",
+    "apex_contour_smoothness": "The top boundaries of the ears are rounded but show a slight upward tapering towards the center."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

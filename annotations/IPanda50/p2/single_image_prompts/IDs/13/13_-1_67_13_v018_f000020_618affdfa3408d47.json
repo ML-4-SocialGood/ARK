@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped posterior boundary with no significant midline indentation.",
+    "normalized_band_thickness": "Broad and uniform thickness across the scapular region, covering approximately 20-25% of the visible dorsal length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distinct wide-set separation between the two visible black ear patches across the white cranial crown.",
+    "apex_contour_smoothness": "Smooth, rounded convex curvature at the superior apex of the pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

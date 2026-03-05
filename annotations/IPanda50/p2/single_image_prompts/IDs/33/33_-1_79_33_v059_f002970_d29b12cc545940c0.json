@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, sloping downward and outward from the medial to lateral edges.",
+    "aspect_ratio_factor": "Irregular oval, significantly wider along the diagonal axis than the orthogonal axis.",
+    "inferior_centroid_shift": "Distinct elongation towards the lower lateral quadrant, resulting in an asymmetrical teardrop shape."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the dark ear regions is approximately 1.5 times the visible width of a single ear.",
+    "apex_contour_smoothness": "Convex semicircular profile with a slight degree of flattening at the superior apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

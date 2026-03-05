@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees relative to the horizontal facial axis, tapering toward the snout.",
+    "aspect_ratio_factor": "Elongated oval morphology, where the visual height is approximately 1.5 times the width.",
+    "inferior_centroid_shift": "Pronounced downward tapering of the patch at its inferior pole, creating a teardrop effect."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Broad transverse band across the shoulder region, occupying roughly 30 percent of the visible dorsal area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the dark ear regions is approximately twice the width of a single ear.",
+    "apex_contour_smoothness": "The dorsal boundaries of the ears are smoothly rounded and semicircular."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

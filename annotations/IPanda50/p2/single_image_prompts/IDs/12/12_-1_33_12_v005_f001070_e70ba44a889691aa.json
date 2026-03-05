@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at approximately a 45-degree angle downward relative to the horizontal facial axis of the snout.",
+    "aspect_ratio_factor": "Elongated ovoid shape with an estimated length-to-width ratio of 2:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the inferior boundary extending significantly below the horizontal midline of the eye patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The lateral dark band occupies approximately 35% of the visible vertical torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-pinna gap is approximately 1.5 times the horizontal width of a single ear region.",
+    "apex_contour_smoothness": "Top boundaries of both ears exhibit a smooth, semi-circular convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible reddish-brown discoloration or staining is present across the ventral fur of the lower abdomen."
+}

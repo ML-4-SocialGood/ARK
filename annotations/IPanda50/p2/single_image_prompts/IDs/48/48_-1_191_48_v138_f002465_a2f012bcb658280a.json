@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, oriented at approximately 60 degrees relative to the horizontal axis, sloping downwards towards the snout.",
+    "aspect_ratio_factor": "Highly elliptical/oval, with the major axis significantly longer than the minor axis.",
+    "inferior_centroid_shift": "Visible downward tapering where the black pigment extends considerably below the eye's horizontal midline."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Thick; the dark band covers approximately 45% of the visible vertical length of the torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, roughly equivalent to the width of the upper skull.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular top boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

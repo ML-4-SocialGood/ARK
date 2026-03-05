@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band at the visible lateral flanks occupies approximately one-third of the vertical torso profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide white inter-ear gap is visible, roughly equal to 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "The top boundaries of the ears are characterized by smooth, semicircular curves."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

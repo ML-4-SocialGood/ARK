@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band exhibits a shallow, flat U-shape curve across the visible portion of the back.",
+    "normalized_band_thickness": "The dark band is thick, occupying approximately 40% of the visible torso height between the neck and the mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "There is a significant gap between the ears, with the white cranial fur space appearing wider than the horizontal width of an individual ear.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae are perfectly rounded with a smooth convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

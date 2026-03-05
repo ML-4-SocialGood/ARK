@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, oriented at a downward angle of approximately 45 degrees towards the muzzle relative to the facial midline.",
+    "aspect_ratio_factor": "Oval, with the longitudinal axis significantly greater than the transverse axis.",
+    "inferior_centroid_shift": "Moderate tapering of the patch at its ventral-most point."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, flat U-shape along the posterior boundary.",
+    "normalized_band_thickness": "Significant thickness, accounting for approximately 35% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Broad distance between the medial boundaries of the pinnae.",
+    "apex_contour_smoothness": "Smoothly rounded apex with no observable flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Presence of several small, dark-colored debris particles scattered across the white fur of the back and upper flanks."
+}

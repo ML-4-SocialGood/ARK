@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the right eye patch is oriented nearly vertically with a slight anterior tilt of approximately 15-20 degrees toward the rostrum.",
+    "aspect_ratio_factor": "The eye patch exhibits an oval geometry with a vertical height approximately 1.8 times its horizontal width.",
+    "inferior_centroid_shift": "The patch displays a distinct inferior elongation, with the lowest point extending significantly below the horizontal midline of the ocular region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The band appears thick and uniform, extending from the base of the neck to the mid-humeral region, representing approximately 30% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a gap roughly equivalent to 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The superior boundaries of both pinnae exhibit smooth, semicircular convex curvature without visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

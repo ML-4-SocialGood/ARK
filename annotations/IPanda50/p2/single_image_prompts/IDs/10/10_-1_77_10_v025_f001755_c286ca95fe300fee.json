@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, tilted approximately 60 degrees relative to the horizontal facial axis toward the snout.",
+    "aspect_ratio_factor": "Oval, elongated along the vertical-oblique axis.",
+    "inferior_centroid_shift": "Visible downward tapering toward the lower margin of the left eye patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smoothly rounded curvature on the apex of the visible left ear."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

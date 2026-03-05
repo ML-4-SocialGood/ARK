@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The longitudinal axis of the visible right-side eye patch is oriented nearly vertically, with a slight posterior tilt relative to the cranial plane.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval geometry, with a vertical height approximately 1.8 times its horizontal width.",
+    "inferior_centroid_shift": "The patch exhibits a distinct downward taper, where the lower portion is significantly narrower than the upper bulbous region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the transverse band across the scapulae shows a broad and shallow U-shaped curvature.",
+    "normalized_band_thickness": "The dark band is relatively thick, occupying approximately 30% of the visible dorsal-ventral torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the medial edges of the ears is approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The upper boundaries of the pinnae are characterized by a smooth, semi-circular convex profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

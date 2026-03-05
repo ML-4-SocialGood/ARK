@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, angled approximately 45 degrees downward toward the snout relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Ovoid morphology with a width-to-height ratio of approximately 1.4:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering where the lowest point of the patch is shifted significantly below the geometric center toward the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve profile visible along the posterior boundary of the shoulder band.",
+    "normalized_band_thickness": "High lateral thickness, occupying approximately 35% of the visible torso height in this perspective."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the medial edges of the ears is approximately 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "Highly smooth, semicircular convex curvature at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

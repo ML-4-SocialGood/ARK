@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation with the primary axis of both patches angled downward and inward toward the nasal bridge.",
+    "aspect_ratio_factor": "Oval-teardrop morphology with a vertical-to-horizontal aspect ratio slightly greater than 1.0.",
+    "inferior_centroid_shift": "Significant downward tapering observed, with the lowest point of each patch extending well below its geometric center toward the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shape curvature along the posterior margin of the band across the upper back.",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 35% of the visible torso span at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide separation across the cranial crown, estimated at 1.5 times the horizontal diameter of an individual ear.",
+    "apex_contour_smoothness": "Smooth, rounded semicircular curvature at the superior boundaries of both pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

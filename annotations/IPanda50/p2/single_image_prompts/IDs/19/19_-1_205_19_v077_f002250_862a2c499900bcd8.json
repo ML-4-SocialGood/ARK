@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, with the primary axis angled medially and downward at approximately 45 degrees relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "Vertically elongated oval with height greater than width.",
+    "inferior_centroid_shift": "Moderate downward tapering where the patch narrows toward its lowest visible point."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Broad transverse band, occupying approximately 40% of the visible torso flank height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation between pinnae, approximately 1.5 times the lateral width of a single ear base.",
+    "apex_contour_smoothness": "Smoothly rounded, convex apex curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A small dark punctate mark is visible on the white fur of the muzzle, positioned superior to the nose leather."
+}

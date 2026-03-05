@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique downward orientation at approximately 45 degrees relative to the median facial plane, based on the visible right eye patch.",
+    "aspect_ratio_factor": "Elongated oval profile with a vertical-to-horizontal ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Marked downward tapering where the inferior boundary extends significantly below the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior edge with minimal vertical deflection across the visible spine area.",
+    "normalized_band_thickness": "Thick lateral bands occupying approximately 35% of the visible dorsal-ventral torso span."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant separation distance roughly equivalent to the width of the cranial vault between the ears.",
+    "apex_contour_smoothness": "Uniformly convex and smoothly rounded upper margins on both visible pinnae."
+  },
+  "acquired_anomalies_or_scars": "Prominent brownish-red discoloration and staining across the fur of the lower abdomen and inguinal region.",
+  "other_distinctive_markers": null
+}

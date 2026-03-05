@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the eye patches is oriented vertically, nearly perpendicular to the horizontal facial axis.",
+    "aspect_ratio_factor": "High vertical-to-horizontal ratio, appearing as elongated ovals.",
+    "inferior_centroid_shift": "Clear downward tapering with the inferior margin extending significantly below the geometric center toward the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band encompasses approximately the upper 35% of the visible vertical torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation between ears across the white cranial crown.",
+    "apex_contour_smoothness": "Top boundaries of the pinnae exhibit smooth, semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

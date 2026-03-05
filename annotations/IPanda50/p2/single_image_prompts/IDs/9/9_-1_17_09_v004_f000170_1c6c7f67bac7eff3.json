@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 30 degrees relative to the snout-to-ear axis, following the upward tilt of the head",
+    "aspect_ratio_factor": "Elliptical, with an elongated vertical-to-horizontal ratio of approximately 2:1",
+    "inferior_centroid_shift": "Clear tapering observed at the ventral margin of the patch"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape curvature at the posterior edge of the shoulder band",
+    "normalized_band_thickness": "Broad band occupying roughly 35% of the visible torso length between the neck and mid-back"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap between ear bases is approximately equivalent to one ear width",
+    "apex_contour_smoothness": "Smooth, rounded semicircular profile at the cranial apex"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

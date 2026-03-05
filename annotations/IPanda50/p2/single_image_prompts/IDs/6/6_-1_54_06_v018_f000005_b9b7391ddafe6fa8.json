@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation tilted approximately 45 degrees downward towards the rostrum relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated ellipsoid shape with an approximate 1.7:1 width-to-height ratio along the primary axis.",
+    "inferior_centroid_shift": "Visible downward tapering at the medial-inferior margin, extending the patch below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape transition at the posterior boundary between the dark mantle and white dorsal fur.",
+    "normalized_band_thickness": "Substantial thickness covering approximately 40% of the visible vertical torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation with an inter-pinna gap approximately 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "Smoothly curved, semicircular apex at the superior boundary of both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Prominent brownish-beige soil staining on the abdominal fur; presence of foreground bamboo stalks partially occluding the muzzle and thoracic regions."
+}

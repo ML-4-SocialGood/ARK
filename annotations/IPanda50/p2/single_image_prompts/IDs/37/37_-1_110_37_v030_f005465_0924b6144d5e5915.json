@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at a downward diagonal angle of approximately 45 degrees relative to the snout-to-ear axis.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval shape with a visual length-to-width ratio of approximately 2:1.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band exhibits a broad, flat U-shape curvature across the dorsal area.",
+    "normalized_band_thickness": "The dark band is thick, occupying approximately 40% of the visible torso length from the neck to the mid-section."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide gap, approximately 1.5 to 2 times the width of a single ear base.",
+    "apex_contour_smoothness": "The visible ears show a rounded apex with a slight flattening on the superior edge."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is grasping a green and brown bamboo stalk in its mouth; moderate motion blur is present on the head and front limb regions."
+}

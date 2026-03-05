@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, with the primary axis of each patch angled approximately 45 degrees downward and outward from the center of the face.",
+    "aspect_ratio_factor": "Elongated oval, with the vertical dimension significantly greater than the horizontal width.",
+    "inferior_centroid_shift": "Pronounced downward taper toward the ventral-lateral aspect of the cheeks, showing a distinct extension below the eye center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High; the dark band encompasses the entire shoulder and upper thoracic region, extending to approximately one-third of the visible torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral displacement, with the ear regions situated on the upper-outer corners of the cranium.",
+    "apex_contour_smoothness": "Smooth, highly convex, and semi-circular curvature at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-yellow discoloration visible on the white fur of the lower thoracic and abdominal regions compared to the bright white facial fur."
+}

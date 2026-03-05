@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation tilting downwards toward the anterior snout, approximately 45 degrees relative to the horizontal facial midline.",
+    "aspect_ratio_factor": "Elongated oval shape with the longitudinal axis significantly exceeding the vertical axis.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, flat U-shaped curve along the posterior margin across the spine.",
+    "normalized_band_thickness": "Broad band occupying approximately one-third of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Substantial separation between the dark semicircular regions across the white cranial vertex.",
+    "apex_contour_smoothness": "Regular, smooth semicircular convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patches is oriented at approximately a 45-degree angle downward toward the rostrum.",
+    "aspect_ratio_factor": "The patches exhibit an elongated oval geometry, with the longitudinal axis significantly exceeding the transverse width.",
+    "inferior_centroid_shift": "Visible downward tapering is present, extending the patch area toward the lower-medial section of the face."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "The posterior edge of the dark band displays a shallow, wide U-shape curve across the dorsal region.",
+    "normalized_band_thickness": "The band is relatively thick, occupying approximately 35-40% of the visible upper torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide cranial gap, roughly equivalent to 1.5 times the lateral width of a single pinna.",
+    "apex_contour_smoothness": "The superior boundaries of the ears are characterized by a smooth, rounded semicircular contour."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is actively interacting with a large, high-contrast blue synthetic object held against its chest and mouth."
+}

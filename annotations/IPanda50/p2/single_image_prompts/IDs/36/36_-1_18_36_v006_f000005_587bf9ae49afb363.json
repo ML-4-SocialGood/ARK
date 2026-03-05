@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, approximately 45 degrees relative to the snout-ear axis, tapering toward the muzzle.",
+    "aspect_ratio_factor": "Vertical oval with a width-to-height ratio estimated at 1:1.5.",
+    "inferior_centroid_shift": "Moderate downward tapering visible, with the mass concentrated in the superior-posterior quadrant."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve along the posterior edge of the scapular band.",
+    "normalized_band_thickness": "Consistent thickness across the visible lateral flank, occupying approximately 20% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, distance between internal ear margins is roughly equal to 1.5 times the ear base width.",
+    "apex_contour_smoothness": "Convex and highly rounded apex with smooth semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

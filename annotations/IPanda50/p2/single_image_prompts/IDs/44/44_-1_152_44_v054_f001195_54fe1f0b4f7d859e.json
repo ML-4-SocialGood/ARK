@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Patches are oriented at a diagonal angle of approximately 45 degrees relative to the horizontal facial axis, slanting downwards towards the lateral edges.",
+    "aspect_ratio_factor": "The eye patches exhibit an oval/elliptical profile with vertical elongation.",
+    "inferior_centroid_shift": "A clear downward tapering is visible, with the lowest point of the patch extending below the geometric center of the black blob."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the band displays a broad, smooth U-shape curve across the dorsal midline.",
+    "normalized_band_thickness": "The dark band is thick and prominent, occupying roughly 25 percent of the visible torso length at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "There is a significant gap between the ears, roughly equal to 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "The top boundaries of the ears are highly curved and appear perfectly rounded without visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal axis oriented at approximately 45 degrees downward toward the rostrum",
+    "aspect_ratio_factor": "Oval morphology with a higher vertical-to-horizontal ratio",
+    "inferior_centroid_shift": "Visible downward tapering toward the inferior-medial corner of each patch"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Broad transverse band relative to the visible upper torso area"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant lateral gap relative to the total cranial width",
+    "apex_contour_smoothness": "Smoothly rounded convex curvature at the superior boundary"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

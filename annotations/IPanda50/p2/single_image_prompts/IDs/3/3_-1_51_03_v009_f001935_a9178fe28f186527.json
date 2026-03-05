@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the patches is oriented at approximately a 45-degree angle descending from the lateral edge toward the nasal region.",
+    "aspect_ratio_factor": "The patches exhibit an elongated oval morphology with a vertical-to-horizontal ratio significantly greater than 1:1.",
+    "inferior_centroid_shift": "There is a visible downward extension below the geometric center of the patch, resulting in a subtle teardrop profile."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band displays a wide, shallow U-shape across the dorsal midline.",
+    "normalized_band_thickness": "The dark band covers approximately 40% of the visible torso length along the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned wide on the cranium, separated by a gap roughly twice the width of a single ear base.",
+    "apex_contour_smoothness": "The superior boundaries of the ears are highly curved and appear uniformly rounded."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

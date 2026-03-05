@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, angled approximately 50 degrees relative to the horizontal facial axis, tapering toward the snout.",
+    "aspect_ratio_factor": "Vertical oval profile with a height-to-width ratio of approximately 1.4:1.",
+    "inferior_centroid_shift": "Moderate tapering at the lower edge, shifting the geometric center toward the upper half of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curvature along the posterior edge across the interscapular region.",
+    "normalized_band_thickness": "The band appears thick, covering approximately one-third of the visible upper torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant separation between ears, distance approximately equal to 1.5x the width of one ear.",
+    "apex_contour_smoothness": "Uniformly rounded semi-circular apex with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

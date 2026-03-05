@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped posterior edge with a slight indentation at the spinal midline.",
+    "normalized_band_thickness": "Significant band thickness, occupying approximately 25% of the visible longitudinal torso length, remaining consistent at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A clear cranial gap is visible between the two black ear regions, estimated at 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Smooth, continuous semi-circular curvature along the superior boundary of both pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The transition from the black dorsal band to the white thoracic fur is marked by a very sharp, high-contrast linear boundary."
+}

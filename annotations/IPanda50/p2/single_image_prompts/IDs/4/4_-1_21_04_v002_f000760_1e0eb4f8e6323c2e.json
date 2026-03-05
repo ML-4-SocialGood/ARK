@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "Shallow U-shape profile at the posterior boundary",
+    "normalized_band_thickness": "Approximately 0.3 relative to the vertical extent of the visible torso"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap between ear regions is approximately 1.5 times the horizontal width of a single ear",
+    "apex_contour_smoothness": "Convex, rounded apex with a textured, tufted edge"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-yellow oxidation/staining of the white pelage on the cranium and chest"
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal tilt oriented downwards toward the snout at approximately a 45-degree angle.",
+    "aspect_ratio_factor": "Elongated vertical oval with a distinct height-to-width ratio.",
+    "inferior_centroid_shift": "Pronounced downward tapering of the patch margin below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Smooth U-shaped profile along the posterior boundary of the transverse band.",
+    "normalized_band_thickness": "Broad band occupying approximately 30-35 percent of the visible dorsal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide cranial gap approximately twice the width of a single ear region.",
+    "apex_contour_smoothness": "Consistent semicircular curvature across the superior apex of both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

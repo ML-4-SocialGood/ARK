@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation approximately 45 degrees relative to the horizontal axis, slanting downwards towards the lateral edges of the face.",
+    "aspect_ratio_factor": "Vertical oval with an estimated width-to-height ratio of 0.6:1.",
+    "inferior_centroid_shift": "Visible downward tapering at the inferior pole, creating a non-symmetrical vertical mass distribution."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve where the posterior edge of the dark band meets the white dorsal fur.",
+    "normalized_band_thickness": "Dark band spans approximately 35% of the cranial-caudal visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, roughly twice the horizontal width of an individual pinna.",
+    "apex_contour_smoothness": "Highly smooth, consistent semi-circular curvature at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

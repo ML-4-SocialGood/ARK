@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, tilted downward and outward approximately 45 degrees from the horizontal facial plane.",
+    "aspect_ratio_factor": "Vertically elongated oval with a high aspect ratio.",
+    "inferior_centroid_shift": "Significant downward tapering toward the outer lower edge of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Smooth, wide U-shape curvature along the posterior margin of the band.",
+    "normalized_band_thickness": "The dark band occupies approximately 25-30% of the visible dorsal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between pinnae, exceeding the width of a single ear structure.",
+    "apex_contour_smoothness": "Smoothly rounded convex curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": "Notable reddish-pink discoloration or thinning of fur on the lower dorsal/sacral region.",
+  "other_distinctive_markers": "Partial occlusion of the facial and thoracic regions by foreground bamboo foliage."
+}

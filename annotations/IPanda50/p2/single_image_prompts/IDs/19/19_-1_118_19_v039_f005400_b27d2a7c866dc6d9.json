@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis of the visible eye patch is oriented at a steep downward-diagonal angle of approximately 50-60 degrees relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "Oval-elongated blob with a vertical-to-horizontal ratio greater than 1.5:1.",
+    "inferior_centroid_shift": "Moderate downward tapering observed where the lower boundary of the patch converges toward the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge exhibits a broad, shallow U-shape curvature across the shoulder blades.",
+    "normalized_band_thickness": "High relative thickness, occupying roughly one-third of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation between pinnae, positioned at the 10 o'clock and 2 o'clock positions of the cranium.",
+    "apex_contour_smoothness": "Consistent semi-circular smoothness at the apex of both ears with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

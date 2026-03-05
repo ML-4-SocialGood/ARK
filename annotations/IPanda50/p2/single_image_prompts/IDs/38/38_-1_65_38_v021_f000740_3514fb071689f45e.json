@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation approximately 45 degrees relative to the horizontal facial axis on the visible left patch.",
+    "aspect_ratio_factor": "Oval morphology with an elongated longitudinal axis.",
+    "inferior_centroid_shift": "Pronounced downward tapering toward the snout, creating a tear-drop effect below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep U-shaped profile along the posterior margin of the transverse band.",
+    "normalized_band_thickness": "High relative thickness covering a significant portion of the scapular and upper torso regions."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation between the dark ear regions, approximately 1.5 to 2 times the width of a single ear.",
+    "apex_contour_smoothness": "Rounded semicircular curvature at the superior boundary of the ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

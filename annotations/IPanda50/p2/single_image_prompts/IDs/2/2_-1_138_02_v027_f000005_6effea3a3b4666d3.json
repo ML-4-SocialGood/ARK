@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented nearly vertically, approximately 80 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Oval profile with a height significantly exceeding width, appearing approximately 2:1.",
+    "inferior_centroid_shift": "Visible downward tapering where the lower terminus is narrower than the superior region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary across the dorsal midline.",
+    "normalized_band_thickness": "Band occupies approximately 25 percent of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance between ears is approximately 0.4 times the total head width in lateral profile.",
+    "apex_contour_smoothness": "Continuous, smooth semicircular curvature at the superior edges."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

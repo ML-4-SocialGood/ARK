@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the black eye patches is oriented roughly vertically with a slight inward tilt toward the nasal bridge.",
+    "aspect_ratio_factor": "The eye patches appear as vertically elongated ovals with an estimated height-to-width ratio of 1.5:1.",
+    "inferior_centroid_shift": "A distinct downward tapering effect is visible, extending the lower margin of the patches below their geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band appears as a thick, solid stripe spanning the entire width of the upper torso and shoulder region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide white cranial gap is visible between the two dark semicircular ear regions.",
+    "apex_contour_smoothness": "The superior boundary of the ears is smoothly rounded and semicircular."
+  },
+  "acquired_anomalies_or_scars": "A high-contrast yellowish-white rectangular feature is visible on the right ear (viewer's left), suggesting a research identification tag.",
+  "other_distinctive_markers": null
+}

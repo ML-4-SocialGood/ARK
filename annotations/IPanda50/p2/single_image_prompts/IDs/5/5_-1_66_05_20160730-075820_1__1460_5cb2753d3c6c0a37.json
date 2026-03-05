@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oriented at approximately a 45-degree downward angle relative to the snout-to-ear facial axis.",
+    "aspect_ratio_factor": "Vertical oval with a width-to-height ratio of approximately 1:1.5.",
+    "inferior_centroid_shift": "Distinct downward elongation forming a teardrop profile below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "A shallow U-shape curvature at the posterior edge where the black fur meets the white dorsal fur.",
+    "normalized_band_thickness": "The band appears thick, occupying approximately 40% of the visible torso height from the shoulder to the mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A clear gap is visible between the ears, roughly equivalent to 1.5 times the horizontal width of the pinna base.",
+    "apex_contour_smoothness": "Smoothly rounded convex curvature at the top of both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

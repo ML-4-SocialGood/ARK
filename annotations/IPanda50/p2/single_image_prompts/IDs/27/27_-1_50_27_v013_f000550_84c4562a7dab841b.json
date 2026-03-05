@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal slant approximately 35 degrees relative to the horizontal snout axis, extending upward toward the posterior.",
+    "aspect_ratio_factor": "Distinctly oval with a length-to-width ratio of approximately 1.7:1.",
+    "inferior_centroid_shift": "Visible downward tapering toward the anterior margin, creating a teardrop-like effect with the lowest point shifted forward of the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary at the interface between the black shoulder band and the white dorsal fur.",
+    "normalized_band_thickness": "High thickness, covering the entire scapular region and approximately 30 percent of the visible lateral torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "Smooth, semi-circular convex curvature with no visible flattening or irregularities."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Presence of a transverse bamboo stalk held in the oral cavity, partially occluding the mandibular region."
+}

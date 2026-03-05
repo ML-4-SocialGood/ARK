@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "shallow U-shaped posterior edge with a slight dip towards the spine",
+    "normalized_band_thickness": "broad, occupying approximately 35-40% of the visible dorsal torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "pointed apex with sharp curvature at the peak"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

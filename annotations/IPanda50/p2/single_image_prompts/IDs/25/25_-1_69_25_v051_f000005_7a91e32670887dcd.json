@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation of approximately 45 degrees relative to the midline of the face.",
+    "aspect_ratio_factor": "Oval profile with an estimated width-to-height ratio of 1.4:1.",
+    "inferior_centroid_shift": "Subtle downward tapering towards the inferior margin, creating a teardrop-like extension."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Broad lateral thickness, occupying approximately 35% of the visible vertical torso height in the current pose."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smooth, semicircular convex curvature on the visible left ear."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Compact curled-ball posture with the plantar surface of the hind paw positioned adjacent to the facial disk."
+}

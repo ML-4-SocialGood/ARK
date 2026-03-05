@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible eye patch on the left side of the face is oriented at a downward angle of approximately 45 degrees relative to the horizontal axis of the snout.",
+    "aspect_ratio_factor": "The eye patch displays an oval morphology with a vertical-to-horizontal ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "There is a distinct downward tapering, with the lower portion of the patch appearing more elongated towards the cheek compared to the upper margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dorsal band presents a broad, shallow U-shaped profile across the shoulders.",
+    "normalized_band_thickness": "The dark band maintains a consistent thickness across the lateral flanks, occupying approximately 25-30% of the total visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The dark pinna regions are widely spaced at the upper lateral corners of the cranium with a broad white gap along the vertex.",
+    "apex_contour_smoothness": "The top boundaries of the visible ears exhibit a smooth, rounded semicircular profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

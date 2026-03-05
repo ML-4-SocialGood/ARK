@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The left eye patch (viewer's right) is oriented at a steep upward diagonal angle towards the ear, while the right eye patch (viewer's left) appears more horizontally aligned with a slight upward tilt.",
+    "aspect_ratio_factor": "Both patches are distinctly ellipsoid, with a longitudinal length approximately 1.8 times the transverse width.",
+    "inferior_centroid_shift": "The patches exhibit a pronounced downward taper towards the muzzle, with the geometric mass concentrated in the upper-lateral region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band appears broad, covering approximately 40% of the visible torso between the neck and the mid-abdomen."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-ear gap is roughly 1.5 times the width of a single ear unit.",
+    "apex_contour_smoothness": "The ears exhibit highly rounded, convex apexes with no visible flattening or notched edges."
+  },
+  "acquired_anomalies_or_scars": "A prominent reddish-brown discolouration or potential lesion is visible in the lower ventral/inguinal region within the white fur patch.",
+  "other_distinctive_markers": "Significant yellowish-brown environmental staining is present across the fur of the lower abdomen and hindquarters."
+}

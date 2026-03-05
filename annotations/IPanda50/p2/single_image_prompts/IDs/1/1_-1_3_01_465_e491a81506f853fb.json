@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible eye patch is oriented at approximately a 45-degree downward angle relative to the horizontal axis of the head.",
+    "aspect_ratio_factor": "The patch displays an elongated oval shape with a high length-to-width ratio.",
+    "inferior_centroid_shift": "The patch exhibits a visible teardrop taper where the lower portion extends significantly below the horizontal midline of the eye area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "The posterior boundary of the dorsal band forms a shallow, wide U-shape across the upper torso.",
+    "normalized_band_thickness": "The band is thick and prominent, covering roughly 30% of the visible vertical torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned laterally with a wide inter-ear gap roughly 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "The top boundaries of the ears show a smooth, continuous semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

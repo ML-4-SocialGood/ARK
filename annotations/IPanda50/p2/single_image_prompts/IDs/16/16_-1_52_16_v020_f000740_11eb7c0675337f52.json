@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented vertically with a slight inward tilt toward the rostrum.",
+    "aspect_ratio_factor": "Oval morphology with a vertical-to-horizontal ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Minor downward taper observed, creating a slight teardrop profile at the lower margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Smooth, broad U-shaped curve at the posterior margin where the black band meets the white dorsal fur.",
+    "normalized_band_thickness": "Thickness is approximately 30% relative to the total visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible pinna exhibits a smooth, semicircular convex curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree diagonal tilt relative to the horizontal muzzle axis, oriented downwards toward the medial line.",
+    "aspect_ratio_factor": "Elongated oval shape with a high aspect ratio, length being roughly twice the width.",
+    "inferior_centroid_shift": "Pronounced tapering at the inferior-medial quadrant, extending the patch toward the rostrum."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Thick lateral band extending approximately 40% of the visible vertical torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance roughly equivalent to 1.5 units of individual pinna width.",
+    "apex_contour_smoothness": "Smooth, semicircular convex curvature at the superior margin of the right pinna."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Single visible white-colored claw on the left thoracic limb gripping a vertical wooden structure."
+}

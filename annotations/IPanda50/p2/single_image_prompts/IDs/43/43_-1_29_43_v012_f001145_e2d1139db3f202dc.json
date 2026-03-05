@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique angle of approximately 45 degrees, slanting downwards towards the medial axis of the muzzle.",
+    "aspect_ratio_factor": "Elongated oval morphology with a high vertical-to-horizontal eccentricity.",
+    "inferior_centroid_shift": "Pronounced downward tapering at the inferior-medial margin, extending the patch significantly below its geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped curve across the posterior margin of the transverse band.",
+    "normalized_band_thickness": "Significant thickness across the lateral flanks, representing roughly 25-30% of the visible torso profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Substantial gap between ear regions, with the inter-ear cranial space exceeding the width of a single pinna.",
+    "apex_contour_smoothness": "Uniformly convex and smoothly rounded at the superior apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The tongue is visibly protruding from the left side of the oral cavity."
+}

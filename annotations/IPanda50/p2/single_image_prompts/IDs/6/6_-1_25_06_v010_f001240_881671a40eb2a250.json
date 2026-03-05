@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped profile across the posterior boundary where the black fur meets the white lower back",
+    "normalized_band_thickness": "High thickness, occupying approximately 60% of the visible dorsal torso"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation across the cranium, approximately 1.5 times the width of an individual ear",
+    "apex_contour_smoothness": "Smoothly rounded semi-circular curvature at the superior edges"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

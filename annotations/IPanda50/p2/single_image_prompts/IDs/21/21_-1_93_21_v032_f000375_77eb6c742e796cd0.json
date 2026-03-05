@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, approximately 45 degrees relative to the snout-cranial axis on the visible right eye patch.",
+    "aspect_ratio_factor": "Elongated oval with a width-to-height ratio estimated at 1.4:1.",
+    "inferior_centroid_shift": "Moderate downward tapering toward the muzzle, with the lowest point shifted anteriorly relative to the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior curve across the spine.",
+    "normalized_band_thickness": "High thickness, occupying approximately 40% of the visible dorsal-to-caudal torso span."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Rounded, semicircular apex visible on the right ear region."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

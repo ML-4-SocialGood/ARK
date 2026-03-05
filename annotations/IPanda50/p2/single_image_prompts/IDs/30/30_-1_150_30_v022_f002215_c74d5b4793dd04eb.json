@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible left eye patch is oriented at an oblique downward angle of approximately 45 degrees toward the rostrum.",
+    "aspect_ratio_factor": "The patch is an elongated oval with the vertical dimension significantly exceeding the horizontal width.",
+    "inferior_centroid_shift": "Visible downward tapering is present, causing the geometric center to appear shifted toward the upper half of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band exhibits a shallow U-shaped curvature across the dorsal midline.",
+    "normalized_band_thickness": "The band is thick and consistent, covering approximately 20-25 percent of the longitudinal torso surface visible."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a broad distance, approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The top edges of the pinnae exhibit a smooth, semi-circular convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A black synthetic tracking collar is fitted around the cervical region, located anterior to the dorsal band."
+}

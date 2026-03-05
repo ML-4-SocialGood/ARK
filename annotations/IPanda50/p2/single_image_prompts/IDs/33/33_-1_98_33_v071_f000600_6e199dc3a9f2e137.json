@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees relative to the horizontal facial axis, converging toward the muzzle.",
+    "aspect_ratio_factor": "Teardrop-shaped oval; the longitudinal axis is approximately 1.5 times the transverse width.",
+    "inferior_centroid_shift": "Pronounced downward tapering toward the nasal region, with the lowest vertex situated significantly below the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shape along the posterior margin across the scapular region.",
+    "normalized_band_thickness": "Moderately thick transverse band, occupying roughly 25% of the visible dorsal torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral displacement, with an inter-ear gap roughly equivalent to 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Smooth, convex semicircular curvature at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

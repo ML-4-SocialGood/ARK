@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at a diagonal angle of approximately 45 degrees relative to the median facial plane.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval geometry with an estimated 1.6:1 length-to-width ratio.",
+    "inferior_centroid_shift": "There is a visible ventral tapering, where the patch narrows as it approaches the buccal region, shifting the visual centroid upward."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the medial edges of the ear regions is approximately twice the horizontal width of a single pinna base.",
+    "apex_contour_smoothness": "The distal boundaries of the pinnae exhibit a smooth, continuous convex curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Highly visible recurved, light-colored claws on the raised forelimb and clear dark pigmentation on the plantar surface of the hind limb."
+}

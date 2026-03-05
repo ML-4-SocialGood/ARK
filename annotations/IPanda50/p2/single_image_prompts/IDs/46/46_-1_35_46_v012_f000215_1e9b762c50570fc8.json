@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward and anterior tilt relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval; the vertical axis is notably longer than the horizontal axis.",
+    "inferior_centroid_shift": "The patch exhibits a clear downward tapering, with the bulk of the area concentrated above the lowest point."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shape; the posterior boundary of the band shows a gentle, wide curve across the spine.",
+    "normalized_band_thickness": "Thick; the band occupies approximately 25-30% of the visible dorsal-to-caudal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-ear gap is roughly equivalent to 1.5 to 2 times the width of a single ear.",
+    "apex_contour_smoothness": "Consistent semicircular curvature with no observable flat points on the top boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-yellow discoloration or soil staining on the white fur of the posterior flanks and lower back."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the eye patches is oriented longitudinally, parallel to the cranial-caudal facial axis.",
+    "aspect_ratio_factor": "The visible eye patch exhibits an elongated oval geometry with a high width-to-height ratio.",
+    "inferior_centroid_shift": "There is a distinct tapering of the patch as it approaches the muzzle, with the lowest point shifted ventrally from the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band is thick and prominent, occupying approximately half of the visible upper torso region in this lateral-oblique view."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely spaced with a large white fur gap across the cranial vault.",
+    "apex_contour_smoothness": "The ears exhibit a smooth, convex, semicircular curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

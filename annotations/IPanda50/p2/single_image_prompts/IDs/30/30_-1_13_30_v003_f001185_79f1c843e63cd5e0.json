@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation slanting approximately 45 degrees downward from the lateral edge toward the muzzle.",
+    "aspect_ratio_factor": "The eye patch exhibits a vertical-oval shape with a height-to-width ratio greater than 1.",
+    "inferior_centroid_shift": "The patch tapers significantly at the bottom, creating a downward extension relative to the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the shoulder band exhibits a deep V-shape tapering toward the spine.",
+    "normalized_band_thickness": "The band is substantial, covering approximately 35% of the visible vertical span from the shoulder to the lower torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible left ear displays a smooth, rounded semicircular apex contour."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A pink tongue is visible and protruding from the front of the mouth."
+}

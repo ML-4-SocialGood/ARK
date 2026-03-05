@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 60 degrees relative to the horizontal, tilting anteriorly towards the rostrum.",
+    "aspect_ratio_factor": "Oval with vertical elongation; width-to-height ratio estimated at 1:1.5.",
+    "inferior_centroid_shift": "Tapered downward projection extending significantly below the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve at the posterior boundary of the band.",
+    "normalized_band_thickness": "Large relative thickness, covering approximately 40% of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap distance between ears is approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular profile at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is grasping a circular metallic-colored bowl with its forepaws."
+}

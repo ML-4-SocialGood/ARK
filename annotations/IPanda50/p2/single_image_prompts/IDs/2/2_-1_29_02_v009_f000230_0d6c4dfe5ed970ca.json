@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 80 degrees relative to the horizontal facial axis, with a slight inward tilt at the inferior pole.",
+    "aspect_ratio_factor": "Vertical oval with a height-to-width ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "The patch tapers significantly toward the bottom, placing the visual centroid in the upper half of the structure."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve at the posterior margin where the black pigmentation meets the white dorsal fur.",
+    "normalized_band_thickness": "Thick transverse band covering the full width of the shoulders and the entire visible portion of the upper forelimbs."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-pinna gap is approximately 2.5 times the width of an individual ear.",
+    "apex_contour_smoothness": "Sub-conical shape with a defined, slightly rounded apex rather than a smooth semicircular profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

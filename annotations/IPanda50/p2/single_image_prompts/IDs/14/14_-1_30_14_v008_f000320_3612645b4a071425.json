@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at approximately a 40-degree downward angle relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "Distinctly ovaloid, with the longitudinal axis significantly exceeding the vertical height.",
+    "inferior_centroid_shift": "Significant tapering at the lower-anterior margin, extending the patch toward the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the medial boundaries of the ear regions is roughly 1.5 times the width of the individual pinna.",
+    "apex_contour_smoothness": "Convex and uniformly rounded with no visible flattening or irregularities at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

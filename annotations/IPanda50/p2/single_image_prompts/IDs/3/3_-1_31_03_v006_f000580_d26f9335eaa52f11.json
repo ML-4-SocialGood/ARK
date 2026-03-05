@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation relative to the facial midline, with the major axis angled towards the rostrum.",
+    "aspect_ratio_factor": "Elongated oval with a width-to-height ratio approximately 1:1.5.",
+    "inferior_centroid_shift": "Moderate tapering at the ventral edge, creating a slight teardrop profile."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape across the posterior margin.",
+    "normalized_band_thickness": "The dark band is thick, occupying approximately 35% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, roughly 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Smoothly convex and rounded apex profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brownish-yellow staining/discoloration on the white fur of the hindquarters."
+}

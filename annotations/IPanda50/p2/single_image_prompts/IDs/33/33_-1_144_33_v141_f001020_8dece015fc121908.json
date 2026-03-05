@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation slanting approximately 45 degrees upward and outward from the nasal bridge.",
+    "aspect_ratio_factor": "Vertical-elliptical configuration, significantly longer in the vertical dimension than the horizontal.",
+    "inferior_centroid_shift": "Marked downward tapering with the inferior boundary extending toward the lower muzzle area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shaped curvature across the posterior margin.",
+    "normalized_band_thickness": "Consistent, heavy thickness across the lateral flanks, occupying approximately 30 percent of the visible dorsal plane."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral placement with a gap approximately three times the horizontal width of an individual pinna.",
+    "apex_contour_smoothness": "Smooth, rounded semicircular superior boundaries with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

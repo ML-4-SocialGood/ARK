@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the teardrop-shaped patches is oriented at approximately a 45-degree angle downward from the lateral edges toward the rostrum.",
+    "aspect_ratio_factor": "The patches exhibit an elongated oval shape with a vertical height significantly greater than the horizontal width.",
+    "inferior_centroid_shift": "Pronounced downward tapering is visible, with the lowest point of the patch extending well below its geometric center toward the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band across the shoulders follows a wide, shallow U-shaped curve.",
+    "normalized_band_thickness": "The dark band is thick, encompassing the entire shoulder region and extending down the forelimbs, covering approximately one-third of the visible torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "There is a wide gap between the dark ear regions, separated by the white fur of the cranial crown.",
+    "apex_contour_smoothness": "The tops of the ears exhibit a smooth, semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

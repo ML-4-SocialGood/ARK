@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, with the primary axes of the patches tilted approximately 45 degrees downward toward the nasal midline.",
+    "aspect_ratio_factor": "Pronounced oval morphology with a visual width-to-height ratio estimated at 1.5:1 along the dominant axis.",
+    "inferior_centroid_shift": "Distinct downward elongation present, with the lower margin of the patch tapering toward the cheek area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the band exhibits a wide, shallow U-shape curvature across the dorsal midline.",
+    "normalized_band_thickness": "The band maintains a relatively uniform thickness, occupying approximately 30% of the visible upper torso height at the lateral margins."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant separation between ears, with the inter-pinna distance appearing roughly equal to 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The superior boundaries of the ears are characterized by a smooth, continuous semi-circular arc with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

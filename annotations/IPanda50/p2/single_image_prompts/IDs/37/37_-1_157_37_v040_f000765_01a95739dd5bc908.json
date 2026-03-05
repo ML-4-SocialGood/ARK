@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at a steep downward angle of approximately 50 degrees relative to the horizontal facial midline.",
+    "aspect_ratio_factor": "The eye patch displays an oval morphology with an estimated 1.6:1 length-to-width ratio.",
+    "inferior_centroid_shift": "There is a significant downward taper that extends the patch density well below the geometric center of the eye region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dorsal band exhibits a shallow U-shape with a smooth, slightly convex curve across the spinal midline.",
+    "normalized_band_thickness": "The band is relatively thick, occupying approximately 30% of the visible torso length from the dorsal perspective."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide gap approximately equal to 1.2 times the horizontal width of a single ear pinna.",
+    "apex_contour_smoothness": "The superior margins of the ears are perfectly rounded and semicircular in profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible brownish-yellow staining/discoloration is present across the white dorsal fur and the right cranial region."
+}

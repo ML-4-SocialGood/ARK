@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, wide U-shaped curve along the posterior edge of the transverse band.",
+    "normalized_band_thickness": "The dark band thickness represents approximately 35% of the total visible dorsal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear separation between the two dark pinnae regions, roughly equivalent to the width of the left ear.",
+    "apex_contour_smoothness": "Smooth, symmetrical rounded convex curvature at the top of both visible ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced yellowish-brown staining or pigmentation across the posterior dorsal fur area."
+}

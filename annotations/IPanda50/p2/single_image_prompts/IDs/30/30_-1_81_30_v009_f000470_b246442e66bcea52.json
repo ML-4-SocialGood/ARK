@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, converging toward the central facial midline in the inverted head position.",
+    "aspect_ratio_factor": "Oval, with the long axis approximately twice the length of the short axis.",
+    "inferior_centroid_shift": "Visible tapering toward the rostral-medial aspect of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shaped posterior margin.",
+    "normalized_band_thickness": "The dark band covers approximately 40 percent of the vertical extent of the visible torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap exceeding the horizontal width of a single ear region.",
+    "apex_contour_smoothness": "Smoothly rounded and convex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

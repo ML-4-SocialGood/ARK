@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation approximately 45 degrees relative to the horizontal facial axis, sloping downward towards the snout.",
+    "aspect_ratio_factor": "Oval/elliptical profile with a vertically elongated major axis.",
+    "inferior_centroid_shift": "Moderate downward tapering with a visible extension below the eye center toward the cheek."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curvature on the posterior boundary transition.",
+    "normalized_band_thickness": "Substantial thickness, occupying approximately 25-30% of the visible dorsal-to-caudal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Moderate separation distance approximately equal to the width of one ear base.",
+    "apex_contour_smoothness": "Smoothly rounded apex on the left ear; right ear apex appears slightly flattened."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Presence of small white organic debris or straw particles on the upper-mid section of the black dorsal band."
+}

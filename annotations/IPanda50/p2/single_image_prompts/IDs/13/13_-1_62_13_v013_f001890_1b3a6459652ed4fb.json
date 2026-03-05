@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal downward orientation towards the muzzle.",
+    "aspect_ratio_factor": "Oval, elongated vertically along the diagonal axis.",
+    "inferior_centroid_shift": "Tapered downward with a distinct point at the bottom margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape with minimal posterior curvature.",
+    "normalized_band_thickness": "Approximately one-third of the visible upper torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap equivalent to roughly 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

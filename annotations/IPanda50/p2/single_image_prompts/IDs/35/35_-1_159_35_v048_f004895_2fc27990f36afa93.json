@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 60 degrees downward toward the rostrum relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval with high eccentricity; the longitudinal axis is significantly greater than the transverse width.",
+    "inferior_centroid_shift": "Significant downward tapering where the patch narrows toward the lower-anterior point, creating a teardrop-like asymmetry."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shape across the posterior edge with no sharp vertex at the spine.",
+    "normalized_band_thickness": "High; the band occupies approximately 40% of the visible torso length between the neck and the hindquarters."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap; the white cranial space between the black ear regions is approximately 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "Smoothly convex and rounded with no visible flattening or notches."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Highly prominent and sharp white keratinized claws visible on the left forepaw; presence of a dark fur patch in the sacral/caudal region."
+}

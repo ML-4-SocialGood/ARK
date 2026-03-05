@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis is oriented vertically at approximately 80 degrees relative to the horizontal facial axis, with a slight inward inclination at the superior margin.",
+    "aspect_ratio_factor": "The eye patches are vertically elongated ovals with a visual aspect ratio of approximately 1.7:1 height to width.",
+    "inferior_centroid_shift": "The patches exhibit a downward taper, with the lower half appearing narrower than the upper half and the centroid positioned slightly above the vertical midpoint."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band forms a broad, shallow U-shaped curve across the upper back.",
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The horizontal gap between the medial edges of the ears is approximately 1.3 times the maximum width of a single ear.",
+    "apex_contour_smoothness": "The superior edges of the ears are characterized by a smooth, semi-circular convex curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The white fur across the head and dorsal region displays a distinct yellowish-brown chromatic shift compared to the lower facial and neck regions."
+}

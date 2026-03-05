@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique downward tilt of approximately 45 degrees towards the muzzle relative to the facial midline.",
+    "aspect_ratio_factor": "Elongated oval, with longitudinal axis significantly exceeding the transverse width.",
+    "inferior_centroid_shift": "Pronounced tapering extending from the geometric center toward the inferior-medial boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve at the posterior margin where the black pigmentation meets the white dorsal fur.",
+    "normalized_band_thickness": "Thick transverse band covering approximately 35-40% of the visible anterior torso depth."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation across the superior cranium, approximately double the width of a single pinna.",
+    "apex_contour_smoothness": "Smoothly rounded convex arcs at the superior boundaries of both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Prominent white, sharp unguis (claws) visible on both forepaws, creating high contrast against the black limb fur."
+}

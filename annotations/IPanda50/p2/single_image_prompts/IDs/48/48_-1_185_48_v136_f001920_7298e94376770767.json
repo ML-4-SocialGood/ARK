@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shaped profile along the posterior boundary of the band",
+    "normalized_band_thickness": "The band width constitutes approximately 35% of the visible torso length at the lateral flank"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible pinna exhibits a smooth, continuous semicircular curvature at the apex"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

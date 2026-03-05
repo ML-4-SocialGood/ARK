@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees relative to the horizontal axis, converging toward the rostrum.",
+    "aspect_ratio_factor": "Oval morphology, vertically elongated with a height-to-width ratio greater than 1.5:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the inferior margin extending significantly below the geometric center of the eye patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation, estimated at approximately twice the horizontal width of an individual ear.",
+    "apex_contour_smoothness": "Uniformly smooth, convex semicircular profile at the superior margin."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior curve at the transition between the black thoracic band and white lumbar fur",
+    "normalized_band_thickness": "High; the black band occupies approximately 45-50% of the visible dorsal-to-ventral torso area"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distinct separation gap visible between the two dark semicircular pinnae across the cranial apex",
+    "apex_contour_smoothness": "Smoothly rounded upper boundaries on both ears without visible flattening"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

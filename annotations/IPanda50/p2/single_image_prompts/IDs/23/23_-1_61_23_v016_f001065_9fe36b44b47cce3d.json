@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the dark periocular patches are oriented at approximately 45 degrees relative to the central facial midline, converging towards the rostrum.",
+    "aspect_ratio_factor": "The patches exhibit an elongated oval geometry with a length-to-width ratio significantly greater than 1.0.",
+    "inferior_centroid_shift": "A distinct narrowing and extension of the dark pixels is visible at the inferior margin of the patches towards the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "The posterior margin of the dorsal band presents a shallow U-shaped curve with low eccentricity.",
+    "normalized_band_thickness": "The dark band constitutes approximately 40% of the visible dorsal-ventral span of the torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a broad inter-pinna gap roughly 1.5 times the width of an individual ear.",
+    "apex_contour_smoothness": "The superior borders of the ears are characterized by a smooth, rounded semicircular contour."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

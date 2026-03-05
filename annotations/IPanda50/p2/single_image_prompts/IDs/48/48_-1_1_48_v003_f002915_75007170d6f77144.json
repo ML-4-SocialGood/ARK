@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation angled approximately 60 degrees downward toward the snout.",
+    "aspect_ratio_factor": "Elongated oval morphology with a length-to-width ratio of approximately 1.8:1.",
+    "inferior_centroid_shift": "Visible downward tapering with the lowest point extending toward the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped curvature along the posterior edge.",
+    "normalized_band_thickness": "High thickness occupying approximately 40 percent of the visible torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance approximately 1.5 times the horizontal width of the ear base.",
+    "apex_contour_smoothness": "Smoothly curved, semicircular apex visible on the foreground ear."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

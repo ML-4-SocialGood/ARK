@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Aligned with the facial midline; appearing diagonal relative to the image frame due to the lateral tilt of the cranium.",
+    "aspect_ratio_factor": "Predominantly circular with negligible elongation, estimated ratio 1.05:1.",
+    "inferior_centroid_shift": "Minor tapering observed toward the muzzle, indicating a slight downward elongation from the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape along the posterior boundary of the transverse band.",
+    "normalized_band_thickness": "Thick band spanning approximately 35% of the visible thoracic-to-caudal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clearly separated with a gap estimated at 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Uniformly convex and smoothly rounded at the dorsal-most points."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

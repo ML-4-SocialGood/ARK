@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique inward-downward orientation at approximately 45 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval with the vertical/diagonal axis significantly greater than the horizontal width.",
+    "inferior_centroid_shift": "Distinct downward tapering resulting in a teardrop-like extension below the eye center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve along the posterior boundary where black pixels meet the white mid-back fur.",
+    "normalized_band_thickness": "Occupies approximately 40% of the visible torso length from the neck to the mid-section."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation positioned at the 10 o'clock and 2 o'clock positions on the cranial perimeter.",
+    "apex_contour_smoothness": "Semi-circular with a slightly flattened top on the viewer's right ear and a subtle angular peak on the viewer's left ear."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible yellowish-tan chromatic shift in the fur of the lower abdomen and hindquarters compared to the bright white fur of the head."
+}

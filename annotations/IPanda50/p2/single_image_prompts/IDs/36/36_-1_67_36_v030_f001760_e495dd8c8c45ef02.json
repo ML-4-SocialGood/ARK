@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at an approximately 45-degree angle downward relative to the snout-to-ear horizontal axis.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval morphology with a visual width-to-height ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "There is a noticeable downward tapering toward the posterior-inferior margin of the patch, shifting the visual weight below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible ear apex exhibits a smooth, continuous semicircular convex curvature without flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

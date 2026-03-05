@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "Deep V-shape pointing toward the posterior",
+    "normalized_band_thickness": "High thickness across the shoulders, narrowing slightly as it crosses the spinal midline"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap is visible between the two dark ear regions from the posterior perspective",
+    "apex_contour_smoothness": "Rounded top boundaries"
+  },
+  "acquired_anomalies_or_scars": "Extensive reddish-brown discoloration or staining covering a large portion of the mid-to-lower dorsal fur",
+  "other_distinctive_markers": null
+}

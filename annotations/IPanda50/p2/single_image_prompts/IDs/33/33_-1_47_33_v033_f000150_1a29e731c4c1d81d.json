@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees downward toward the nasal midline.",
+    "aspect_ratio_factor": "Elongated oval geometry, width-to-height ratio approximately 1:1.5.",
+    "inferior_centroid_shift": "Pronounced downward tapering toward the muzzle, creating a teardrop effect."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shape across the posterior margin.",
+    "normalized_band_thickness": "High thickness, extending approximately 35% of the visible dorsal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant gap, approximately 2.5 times the width of a single ear.",
+    "apex_contour_smoothness": "Smoothly rounded, semi-circular top boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Open mouth posture exposing the oral cavity and partial dentition."
+}

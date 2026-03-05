@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, angled downward toward the medial plane of the rostrum.",
+    "aspect_ratio_factor": "Oval morphology with a vertical-to-horizontal elongation.",
+    "inferior_centroid_shift": "Moderate downward elongation with tapering towards the inferior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, occupying approximately 50% of the upper cranial width between the medial edges of the ears.",
+    "apex_contour_smoothness": "High smoothness with a consistent semicircular curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

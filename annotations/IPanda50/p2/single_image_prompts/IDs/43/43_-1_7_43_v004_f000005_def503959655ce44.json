@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation angled approximately 45 degrees downward toward the muzzle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Ovaloid morphology with a longitudinal-to-transverse ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "Distinct tapering at the inferior-medial margin toward the rostrum."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide U-shape curvature at the posterior margin transitioning into the mid-dorsal white fur.",
+    "normalized_band_thickness": "High thickness occupying approximately 35% of the visible torso length from the shoulder to the mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation distance approximately equivalent to 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Regularly rounded convex arc with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

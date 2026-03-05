@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, slanting downward approximately 45 degrees towards the nasal midline.",
+    "aspect_ratio_factor": "Elongated oval, with a length-to-width ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "Significant downward tapering on the medial-inferior boundary towards the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape across the posterior transition to white dorsal fur.",
+    "normalized_band_thickness": "Thick, comprising nearly half of the visible vertical torso dimension in the frame."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap approximately equal to 1.5 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "Consistent semicircular curvature with highly rounded apices."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced fur clumping and saturation (wetness) visible along the ventral jawline and lower neck region."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation approximately 45 degrees downward toward the snout based on the visible right patch.",
+    "aspect_ratio_factor": "Oval-shaped blob with an estimated 1.5:1 ratio of longitudinal length to width.",
+    "inferior_centroid_shift": "Distinct downward taper with the lowest point reaching toward the nasal bridge, well below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped curve along the posterior boundary where black fur meets the white dorsal region.",
+    "normalized_band_thickness": "Large band thickness occupying approximately 40% of the visible upper torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation distance roughly equal to the width of the white cranial surface between the ear bases.",
+    "apex_contour_smoothness": "Rounded convex tops with high edge smoothness despite fur-related pixel jitter."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

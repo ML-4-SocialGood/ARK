@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the black eye patch is oriented at a downward diagonal angle toward the snout.",
+    "aspect_ratio_factor": "Oval morphology with an estimated major-to-minor axis ratio of 2:1.",
+    "inferior_centroid_shift": "Visible narrowing and tapering of the patch as it extends toward the ventral portion of the face."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shaped profile with a relatively straight posterior margin across the dorsal ridge.",
+    "normalized_band_thickness": "Thick transverse band occupying approximately 30% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide spatial gap between the ears relative to the total cranial width.",
+    "apex_contour_smoothness": "Smoothly rounded convex apex without angular edges."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

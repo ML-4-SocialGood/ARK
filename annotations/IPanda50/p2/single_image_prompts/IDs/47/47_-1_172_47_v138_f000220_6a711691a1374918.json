@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented vertically with a slight inward tilt of approximately 15 degrees toward the rostrum at the superior pole.",
+    "aspect_ratio_factor": "High aspect ratio characterized by vertical elongation; the morphology is a distinct oval rather than circular.",
+    "inferior_centroid_shift": "Moderate tapering at the bottom edge, shifting the geometric center slightly above the vertical midpoint of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow V-shape profile at the posterior margin of the band as it crosses the dorsal midline.",
+    "normalized_band_thickness": "Thick transverse band comprising approximately 40% of the visible upper torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation; the gap between the medial edges of the ears is approximately double the width of an individual ear base.",
+    "apex_contour_smoothness": "Smoothly rounded parabolic curves at the ear tips with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced yellowish-brown chromatic variance in the ventral fur compared to the brighter white cranial fur; right forelimb is flexed with the manus positioned near the mouth."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 75 degrees relative to the horizontal facial axis, tilting anteriorly.",
+    "aspect_ratio_factor": "High aspect ratio; the patch is a vertically elongated oval.",
+    "inferior_centroid_shift": "Moderate downward tapering observed toward the maxillary region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Smooth U-shaped curvature along the posterior margin.",
+    "normalized_band_thickness": "Large; the band occupies approximately 40 percent of the visible upper torso depth."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separated by the dorsal width of the cranium, approximately 0.5 head-widths in this profile.",
+    "apex_contour_smoothness": "Smooth, rounded semicircular apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

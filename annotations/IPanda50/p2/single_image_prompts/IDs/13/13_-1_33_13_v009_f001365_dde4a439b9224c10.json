@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape curvature along the posterior edge",
+    "normalized_band_thickness": "Approximately 35-40% of the visible vertical torso height at the lateral flank"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smoothly rounded semi-circular apex"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Presence of small dark spots or debris on the white fur of the posterior dorsal and rump region"
+}

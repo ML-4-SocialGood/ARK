@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree diagonal orientation relative to the muzzle-to-occiput axis.",
+    "aspect_ratio_factor": "Elongated oval with a width-to-height ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "Minimal downward tapering with the geometric center positioned slightly superior to the vertical midpoint."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape with low curvature along the posterior edge of the dark band.",
+    "normalized_band_thickness": "Approximately 30-35% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smooth, continuous semicircular curve on the visible left pinna."
+  },
+  "acquired_anomalies_or_scars": "Prominent, elongated pink/red tissue flap hanging from the right cranial region, indicating significant trauma or partial avulsion of the right ear.",
+  "other_distinctive_markers": "Direct contact and interaction with a blue spherical enrichment object at the superior border of the image."
+}

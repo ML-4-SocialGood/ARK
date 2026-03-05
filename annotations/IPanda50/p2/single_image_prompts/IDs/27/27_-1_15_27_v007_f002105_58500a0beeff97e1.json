@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal, approximately 45 degrees downward from the posterior corner to the anterior nasal region.",
+    "aspect_ratio_factor": "Ovoid, with a longitudinal major axis significantly longer than the vertical minor axis.",
+    "inferior_centroid_shift": "Pronounced tapering at the lower-front margin, shifting the visual weight below the horizontal center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High thickness, covering approximately 40% of the visible dorsal-to-ventral torso profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distinct wide gap across the sagittal plane of the cranium.",
+    "apex_contour_smoothness": "Convex, smoothly rounded top curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

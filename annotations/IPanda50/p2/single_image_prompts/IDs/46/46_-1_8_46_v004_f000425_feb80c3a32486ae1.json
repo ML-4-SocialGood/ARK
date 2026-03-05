@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, angled approximately 45 degrees downward from the orbital center toward the mandible region.",
+    "aspect_ratio_factor": "Oval, with vertical elongation greater than the horizontal width of the patch.",
+    "inferior_centroid_shift": "Pronounced downward tapering where the mass of the patch extends significantly below the ocular center toward the lower cheek."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve along the posterior margin of the dark band across the dorsal midline.",
+    "normalized_band_thickness": "Estimated at 0.30 relative to the total visible longitudinal length of the torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smoothly rounded convex curvature on the visible ear apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

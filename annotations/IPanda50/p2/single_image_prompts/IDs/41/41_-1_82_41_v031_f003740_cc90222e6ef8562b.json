@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation approximately 45 degrees relative to the horizontal facial axis, oriented toward the muzzle.",
+    "aspect_ratio_factor": "Distinctly elongated oval profile with the longitudinal axis significantly greater than the transverse axis.",
+    "inferior_centroid_shift": "Moderate downward elongation resulting in a subtle teardrop-like taper at the inferior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "Shallow U-shaped curve profile along the posterior edge of the dark band.",
+    "normalized_band_thickness": "The dark band is approximately 30 percent of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Substantial lateral separation between the two dark semicircular ear regions.",
+    "apex_contour_smoothness": "Smoothly convex semicircular curvature at the apex of both visible ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

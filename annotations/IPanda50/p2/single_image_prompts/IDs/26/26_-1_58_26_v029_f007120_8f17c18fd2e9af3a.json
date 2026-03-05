@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are angled approximately 45 degrees inward toward the muzzle.",
+    "aspect_ratio_factor": "Oval-shaped with a vertical elongation; estimated height-to-width ratio of 1.4:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the geometric center shifted towards the broader, rounded superior edge."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band occupies approximately the upper 45 percent of the visible torso height from this perspective."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the ears is approximately 1.2 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "Highly smooth, convex semicircular curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is clutching a blue and purple translucent artificial object, appearing to be plastic refuse, in its forepaws."
+}

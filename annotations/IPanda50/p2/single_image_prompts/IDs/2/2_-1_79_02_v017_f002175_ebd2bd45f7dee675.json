@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "shallow U-shape profile along the posterior edge",
+    "normalized_band_thickness": "thick, covering approximately 20-25% of visible dorsal-to-caudal torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "wide gap of white fur separating the two black pinna regions",
+    "apex_contour_smoothness": "smoothly rounded convex apex on visible ears"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "extensive brownish-yellow staining/discoloration on the lower posterior dorsal fur"
+}

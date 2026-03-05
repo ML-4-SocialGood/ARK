@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible dark eye patch is angled downward and forward relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch exhibits an elongated oval shape with a greater height than width from this perspective.",
+    "inferior_centroid_shift": "The patch displays a visible downward tapering towards the lower facial region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band across the back shows a broad, shallow U-shaped profile.",
+    "normalized_band_thickness": "The dark band occupies approximately one-third of the visible torso length along the dorsal surface."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A clear white spatial gap is present between the two distinct dark semicircular ear regions.",
+    "apex_contour_smoothness": "The upper boundaries of the ear regions exhibit a smooth, rounded convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

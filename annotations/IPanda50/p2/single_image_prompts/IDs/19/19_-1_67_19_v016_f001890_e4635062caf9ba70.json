@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation approximately 45 degrees relative to the sagittal facial midline",
+    "aspect_ratio_factor": "Oval morphology with an elongated major axis",
+    "inferior_centroid_shift": "Visible inferior-medial tapering toward the rostrum"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shaped posterior curvature",
+    "normalized_band_thickness": "Significant thickness relative to the dorsal-ventral span of the torso"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant lateral spacing with a clear white inter-pinna region",
+    "apex_contour_smoothness": "Smoothly convex semi-circular apex"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

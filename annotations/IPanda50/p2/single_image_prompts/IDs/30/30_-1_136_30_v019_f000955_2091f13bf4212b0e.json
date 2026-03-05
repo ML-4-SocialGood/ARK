@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation tilted approximately 45 to 50 degrees downward from the medial to lateral aspect relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Oval morphology with a vertical-to-horizontal aspect ratio estimated at 1.5:1.",
+    "inferior_centroid_shift": "Visible downward tapering where the patch lowest point is displaced inferiorly from the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape profile at the posterior margin of the transverse dark band.",
+    "normalized_band_thickness": "The band thickness is approximately 0.3 relative to the total visible longitudinal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct wide gap is present between the dark ear regions, separated by the white cranial vertex.",
+    "apex_contour_smoothness": "Apex exhibits a smooth, continuous convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Distinct yellowish-brown chromatic shift in the fur across the lumbar and pelvic regions compared to the white thoracic region."
+}

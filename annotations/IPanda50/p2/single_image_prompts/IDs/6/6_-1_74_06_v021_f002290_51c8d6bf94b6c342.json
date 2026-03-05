@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at a downward diagonal angle of approximately 45 degrees relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "The right eye patch exhibits a vertically elongated oval shape, where height exceeds width by roughly 1.3:1.",
+    "inferior_centroid_shift": "The patch displays a clear downward tapering, with a significant extension of black pixels reaching toward the lower cheek area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned laterally with a wide white cranial gap between the medial edges of the black fur regions.",
+    "apex_contour_smoothness": "The superior edges of the pinnae exhibit a smooth, rounded semicircular profile with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

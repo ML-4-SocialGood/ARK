@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees relative to the horizontal facial axis, angled toward the snout.",
+    "aspect_ratio_factor": "Vertical ovoid geometry with an estimated width-to-height ratio of 0.6:1.",
+    "inferior_centroid_shift": "Distinct downward elongation of the patch extending from the orbital region toward the lower cheek."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow convex profile forming a wide U-shape along the posterior boundary.",
+    "normalized_band_thickness": "Substantial thickness occupying approximately one-third of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Prominent separation between the black pinna regions across the white cranial vertex.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular apex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

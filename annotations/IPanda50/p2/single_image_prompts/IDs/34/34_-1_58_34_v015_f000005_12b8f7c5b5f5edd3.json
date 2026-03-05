@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, approximately 45 degrees relative to the horizontal facial axis, tapering toward the rostrum.",
+    "aspect_ratio_factor": "Oval/teardrop shape with a height-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Distinct downward tapering with the inferior margin extending notably further from the geometric center than the superior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped profile along the posterior boundary of the transverse band.",
+    "normalized_band_thickness": "Occupies approximately 40% of the visible vertical torso height at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap equivalent to approximately 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Convex and smoothly rounded apex curvature on both visible ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Manual grip of a dark, elongated object positioned at the oral commissure."
+}

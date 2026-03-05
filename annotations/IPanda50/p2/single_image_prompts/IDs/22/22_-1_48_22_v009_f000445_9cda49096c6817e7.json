@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible left eye patch is oriented at a diagonal angle approximately 45 degrees downward relative to the facial midline.",
+    "aspect_ratio_factor": "The eye patch exhibits an elongated oval geometry with a length-to-width ratio of approximately 2:1.",
+    "inferior_centroid_shift": "The patch shows a pronounced tapering and extension towards the lower anterior region near the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dorsal band follows a broad and relatively flat U-shape across the upper back.",
+    "normalized_band_thickness": "The dark band is thick, occupying approximately 40% of the visible lateral-dorsal torso region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely separated by a broad white cranial vertex, with the gap being significantly wider than the width of a single ear.",
+    "apex_contour_smoothness": "The top boundaries of both ears are uniformly rounded and convex."
+  },
+  "acquired_anomalies_or_scars": "A distinct vertical linear crease or fur thinning is visible on the right lateral white torso area.",
+  "other_distinctive_markers": "Highly prominent, elongated white claws are visible on the distal ends of the paws."
+}

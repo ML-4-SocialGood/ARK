@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented at a downward diagonal angle of approximately 45 degrees relative to the sagittal plane of the skull.",
+    "aspect_ratio_factor": "The eye patch exhibits an elongated oval geometry with a high aspect ratio, where the length significantly exceeds the width.",
+    "inferior_centroid_shift": "There is a pronounced downward tapering where the patch narrows toward its inferior terminus near the zygomatic region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band follows a broad, shallow U-shape across the dorsal midline.",
+    "normalized_band_thickness": "The dark band is broad and thick, occupying approximately one-third of the visible torso length from the neck to the mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are set wide apart with a gap roughly equivalent to 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The apex of both ears is smoothly rounded, forming a consistent semi-circular arc without visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A distinct brownish-red discoloration is visible on the fur of the lower abdominal and inguinal region, deviating from the standard white pelage."
+}

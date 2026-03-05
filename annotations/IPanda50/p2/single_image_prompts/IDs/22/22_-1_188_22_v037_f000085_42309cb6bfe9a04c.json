@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, relatively flat U-shape with slight irregular undulations at the posterior boundary",
+    "normalized_band_thickness": "Approximately 30% of the visible upper-torso length, tapering slightly as it transitions to the lateral flanks"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation distance on the cranial vault, approximately 1.5 times the width of a single pinna",
+    "apex_contour_smoothness": "Rounded, semicircular contours at the superior apex"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive brownish-yellow discoloration and localized fur matting on the lower lumbar and sacral regions"
+}

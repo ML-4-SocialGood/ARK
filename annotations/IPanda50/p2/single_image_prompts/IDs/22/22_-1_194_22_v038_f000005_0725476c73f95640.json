@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are oriented sub-vertically, diverging slightly toward the ears at the superior margins.",
+    "aspect_ratio_factor": "The eye patches exhibit an elongated oval morphology with a high height-to-width ratio.",
+    "inferior_centroid_shift": "The patches show a significant downward taper, with the inferior margin extending further from the geometric center than the superior boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band is thick, occupying approximately 30-35% of the visible vertical torso dimension at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a gap of white fur approximately equal to 1.25 times the transverse width of an individual ear.",
+    "apex_contour_smoothness": "The superior margins of the ears display a smooth, continuous semicircular curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": "A distinct horizontal pinkish/reddish lesion or patch of thinning fur is visible on the lower central abdominal region.",
+  "other_distinctive_markers": null
+}

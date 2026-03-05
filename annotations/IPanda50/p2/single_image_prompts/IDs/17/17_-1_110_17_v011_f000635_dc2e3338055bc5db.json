@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right patch displays a diagonal orientation of approximately 45 degrees relative to the snout-to-ear axis.",
+    "aspect_ratio_factor": "Oval-shaped with an estimated width-to-height ratio exceeding 1.5.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep V-shaped curvature at the posterior boundary of the band.",
+    "normalized_band_thickness": "Approximately 35% of the visible dorsal length from the neck base to the posterior torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-ear white gap is approximately 1.5 times the width of the right ear.",
+    "apex_contour_smoothness": "The tops of the ears exhibit a smooth, semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

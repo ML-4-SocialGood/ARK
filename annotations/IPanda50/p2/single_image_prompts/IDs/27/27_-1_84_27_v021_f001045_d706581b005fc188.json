@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary with a smooth transition into the white lumbar region",
+    "normalized_band_thickness": "Uniform thickness across the dorsal midline, estimated at approximately 20 percent of the total torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear spatial gap between the two distinct dark semicircular regions on the cranial vertex",
+    "apex_contour_smoothness": "Smoothly curved, convex upper margins with no observed flattening"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

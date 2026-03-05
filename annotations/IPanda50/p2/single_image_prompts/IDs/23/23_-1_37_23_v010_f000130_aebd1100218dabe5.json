@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape with a relatively flat profile across the posterior boundary.",
+    "normalized_band_thickness": "Substantial thickness, occupying approximately one-third of the visible distance between the neck and the log occlusion."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation, estimated at 1.5 to 2 times the width of an individual ear region.",
+    "apex_contour_smoothness": "Uniformly convex semicircular curvature with no visible flattening or notches."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The lower torso and limbs are completely occluded by a horizontal wooden log structure in the foreground."
+}

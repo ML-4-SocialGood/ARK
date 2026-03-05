@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible superior portion of the left eye patch indicates a diagonal orientation of approximately 45 degrees relative to the vertical facial axis.",
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band exhibits a shallow, wide U-shape profile.",
+    "normalized_band_thickness": "The dark band occupies approximately 40% of the visible vertical height of the torso at the right lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the ears is approximately twice the width of the right ear's base.",
+    "apex_contour_smoothness": "Both ears display smooth, hemispherical convex curvatures at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

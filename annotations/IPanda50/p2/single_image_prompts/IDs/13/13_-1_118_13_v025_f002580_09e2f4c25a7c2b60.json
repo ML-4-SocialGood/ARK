@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented obliquely, approximately 45 degrees relative to the vertical facial midline, tapering toward the snout.",
+    "aspect_ratio_factor": "Oval morphology with a higher vertical-to-horizontal ratio relative to the tilted facial plane.",
+    "inferior_centroid_shift": "Minor downward elongation visible on the lower-medial quadrant of the patch toward the infraorbital region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape profile across the posterior edge of the dark band.",
+    "normalized_band_thickness": "Consistent thickness across the lateral flanks, approximately 25% of the visible dorsal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct gap between the dark auricular regions, roughly 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "Highly convex and uniformly rounded superior ear margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical orientation of the primary axis of the visible right eye patch relative to the facial midline.",
+    "aspect_ratio_factor": "Elongated oval geometry with a vertical height approximately twice the horizontal width.",
+    "inferior_centroid_shift": "Visible downward taper of the black patch with the lowest point ending below the level of the inner canthus."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark shoulder band exhibits a broad, shallow U-shaped curvature across the upper back.",
+    "normalized_band_thickness": "The dark band is thick, covering roughly one-third of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct white cranial gap is visible between the black ears, roughly equal to the horizontal width of a single ear.",
+    "apex_contour_smoothness": "The tops of the ears exhibit a smooth, rounded semicircular contour."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is captured with an open-mouth posture, exposing visible lower dentition."
+}

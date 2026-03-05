@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "A shallow U-shape is visible at the posterior margin of the dark shoulder band where it meets the white dorsal fur",
+    "normalized_band_thickness": "The dark band is thick, covering approximately one-third of the torso's longitudinal axis as seen from the dorsal perspective"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct white gap on the cranial crown separates the two dark, semicircular ear regions",
+    "apex_contour_smoothness": "The tops of the ears exhibit a smooth, convex curvature with no visible flattening"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brownish-yellow staining is present across the white pelage, particularly concentrated along the spine and lower back"
+}

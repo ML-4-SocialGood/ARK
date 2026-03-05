@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The camera-left patch is near-circular; the camera-right patch displays a primary axis oriented at a ~45-degree angle downward relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "The camera-left patch shows a 1:1 ratio, while the camera-right patch is elongated to approximately 1.5:1.",
+    "inferior_centroid_shift": "The camera-right eye patch shows a distinct downward elongation or tear-drop taper towards the lower cheek region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dorsal band displays a broad, shallow U-shape with minimal curvature intensity.",
+    "normalized_band_thickness": "The dark band occupies approximately 35% of the visible torso area from the neck to the mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are set wide apart at the distal margins of the cranium with a broad white space between them.",
+    "apex_contour_smoothness": "The camera-left ear shows a smooth semicircular apex; the camera-right ear appears more angular or pointed due to the lateral viewing perspective."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A vertical bamboo stalk in the foreground partially occludes the right side of the panda's face and shoulder."
+}

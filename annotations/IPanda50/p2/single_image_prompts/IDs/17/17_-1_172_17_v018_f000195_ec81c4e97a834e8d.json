@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Near-vertical orientation with a slight forward tilt relative to the cranial midline.",
+    "aspect_ratio_factor": "Elongated oval with a significantly higher vertical than horizontal dimension.",
+    "inferior_centroid_shift": "Visible downward tapering at the lower margin of the black patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve along the posterior edge of the band.",
+    "normalized_band_thickness": "Broad band occupying approximately 30 percent of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation between the medial margins of the ear bases.",
+    "apex_contour_smoothness": "Uniformly rounded semicircular curvature at the apex of the ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-tan fur coloration covering the posterior half of the torso and hindquarters, contrasting with the white fur on the neck."
+}

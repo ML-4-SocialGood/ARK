@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 50 degrees relative to the horizontal axis of the snout.",
+    "aspect_ratio_factor": "Elongated oval, with the longitudinal axis approximately twice the transverse width.",
+    "inferior_centroid_shift": "Significant tapering at the inferior-most point, extending downward towards the mid-cheek region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape with a gradual transition from the black dorsal band to the white fur of the lower back.",
+    "normalized_band_thickness": "Significant thickness, covering approximately 40% of the visible vertical torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Broad separation distance, roughly equivalent to the width of the parietal region of the skull.",
+    "apex_contour_smoothness": "Smooth, rounded semicircular contouring on both visible pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Unusual bipedal (standing) posture exposing the ventral abdominal surface."
+}

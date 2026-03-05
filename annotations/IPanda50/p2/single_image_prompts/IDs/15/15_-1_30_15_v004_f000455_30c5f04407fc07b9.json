@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve at the posterior margin",
+    "normalized_band_thickness": "Broad thickness, spanning approximately 25% of the visible torso length at the lateral flank"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant inter-ear gap roughly equal to one-third of total cranial width",
+    "apex_contour_smoothness": "Rounded semicircular apex visible on the right pinna"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant yellowish-beige tinting in the white fur regions of the torso and flank"
+}

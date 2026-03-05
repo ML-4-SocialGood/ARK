@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees relative to the horizontal facial axis, sloping towards the muzzle.",
+    "aspect_ratio_factor": "Elliptical; the longitudinal axis of the visible eye patch is approximately 1.5 times the transverse width.",
+    "inferior_centroid_shift": "Pronounced downward tapering toward the snout, shifting the visual weight of the patch below the geometric center of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep U-shape curvature along the posterior boundary of the transverse band.",
+    "normalized_band_thickness": "Wide band, occupying approximately 40% of the visible upper-torso region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance approximately 1.5 times the width of an individual pinna.",
+    "apex_contour_smoothness": "Convex and smoothly rounded apex curvature."
+  },
+  "acquired_anomalies_or_scars": "A visible artificial tracking collar with a brown strap is present around the cervical region.",
+  "other_distinctive_markers": null
+}

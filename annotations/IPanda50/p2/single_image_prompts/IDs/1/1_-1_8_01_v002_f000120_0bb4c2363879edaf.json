@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, approximately 45 degrees downward relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval with a high ratio of length to width.",
+    "inferior_centroid_shift": "Pronounced tapering towards the ventral-anterior edge, shifting the visual weight below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": "Gently curved U-shape profile at the posterior margin.",
+    "normalized_band_thickness": "Substantial lateral thickness, covering roughly 40 percent of the visible dorsal-ventral torso span."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant gap between ear bases, approximately 1.5 times the width of an individual pinna.",
+    "apex_contour_smoothness": "Smooth, continuous convex curvature at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

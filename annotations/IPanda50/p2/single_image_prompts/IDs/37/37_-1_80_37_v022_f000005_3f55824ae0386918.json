@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, angled approximately 45 degrees relative to the snout-forehead axis.",
+    "aspect_ratio_factor": "Elongated oval; width along the primary axis is approximately 1.6 times the transverse height.",
+    "inferior_centroid_shift": "Distinct tapering observed towards the inferior-medial quadrant."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape with a relatively flat posterior boundary transition.",
+    "normalized_band_thickness": "High; the black band occupies roughly 45% of the visible thoracic segment."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance is approximately 1.2 times the horizontal width of a single ear region.",
+    "apex_contour_smoothness": "Smoothly convex with a semi-circular superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

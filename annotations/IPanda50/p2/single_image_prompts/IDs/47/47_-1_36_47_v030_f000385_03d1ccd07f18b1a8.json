@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 50-degree diagonal downward tilt toward the muzzle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Oval/Ellipsoid, with an estimated length-to-width ratio of 1.6:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the lowest margin extending significantly below the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary transitioning from the dark shoulder band to the white dorsal fur.",
+    "normalized_band_thickness": "High thickness, covering approximately 40% of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, estimated at 2.5 times the width of a single ear region.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular convex curvature at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Highly visible mandibular dentition and sharp white digital claws on the posterior limb."
+}

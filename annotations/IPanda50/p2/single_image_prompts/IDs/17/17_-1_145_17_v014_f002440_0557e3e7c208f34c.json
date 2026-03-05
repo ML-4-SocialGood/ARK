@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape with a nearly horizontal posterior margin",
+    "normalized_band_thickness": "The band is approximately 30-35% of the total visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear separation with a gap approximately 1.5 to 2 times the width of a single pinna base",
+    "apex_contour_smoothness": "Smoothly rounded apexes on both visible ears"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Prominent brownish-yellow fur staining across the lower back and rump area"
+}

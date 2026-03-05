@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented approximately 45 degrees downward relative to the horizontal facial midline.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval aspect ratio, with the vertical dimension significantly exceeding the horizontal width.",
+    "inferior_centroid_shift": "A distinct downward tapering is visible, with the lowest point of the patch extending significantly further from the geometric center toward the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band exhibits a shallow U-shaped curvature across the spinal region.",
+    "normalized_band_thickness": "The dark band is thick, encompassing approximately 35% of the visible dorsal-to-caudal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide white cranial gap approximately equal to 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "The superior boundaries of the ears show a continuous, smooth semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is holding and interacting with multiple green bamboo stalks positioned against its ventral region."
+}

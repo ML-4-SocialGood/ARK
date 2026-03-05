@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the eye patches is oriented obliquely, tilted laterally at approximately 15-20 degrees relative to the vertical midline.",
+    "aspect_ratio_factor": "Vertically elongated oval morphology with a height-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Distinct tapering at the inferior margin, resulting in a centroid shift toward the superior half of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Broad spacing between pinnae, visually estimated at 1.5 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular apex with no visible flattening or irregularities."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

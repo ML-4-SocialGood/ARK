@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the viewer-left eye patch is oriented at a diagonal downward angle toward the muzzle.",
+    "aspect_ratio_factor": "Vertically elongated oval with a height significantly greater than its width.",
+    "inferior_centroid_shift": "The patch exhibits a pronounced downward taper with the lowest point extending well below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape profile observed at the visible posterior edge of the band.",
+    "normalized_band_thickness": "Broad lateral thickness covering approximately 45% of the visible upper torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap is present between the ears, roughly 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "Smooth, semi-circular curvature at the superior boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is holding a dark, slender object between both forepaws positioned near the mouth."
+}

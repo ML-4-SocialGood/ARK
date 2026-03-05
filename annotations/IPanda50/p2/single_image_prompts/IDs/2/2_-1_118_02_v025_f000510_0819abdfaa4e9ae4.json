@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep V-shape profile with the posterior edge of the band tapering toward the tail at the dorsal midline",
+    "normalized_band_thickness": "Substantial band thickness at the lateral flanks, narrowing slightly at the midline"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear gap between ear regions approximately equal to the horizontal width of an individual pinna",
+    "apex_contour_smoothness": "Smooth, rounded semicircular apex curvature on both visible ears"
+  },
+  "acquired_anomalies_or_scars": "Large irregular reddish-brown lesion or patch of significant fur loss located on the lower back/rump region",
+  "other_distinctive_markers": "Pronounced yellowish-tan discoloration of the white fur across the posterior dorsal and lateral regions"
+}

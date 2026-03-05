@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis is oriented nearly vertically with a slight inward tilt of approximately 20 degrees relative to the vertical midline.",
+    "aspect_ratio_factor": "The patches exhibit an ovoid geometry with a vertical height-to-width ratio of approximately 1.4:1.",
+    "inferior_centroid_shift": "A pronounced downward tapering is visible, with the patch narrowing to a point well below the geometric center of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band follows a shallow, wide U-shaped curvature across the interscapular region.",
+    "normalized_band_thickness": "The dark band is substantial, spanning approximately 25 percent of the visible dorsal-to-ventral torso height at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The spatial gap between the dark pinnae regions is approximately twice the width of a single pinna base.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae are convex and generally smooth, with minor textural irregularities at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape profile along the posterior boundary",
+    "normalized_band_thickness": "Broad; the band occupies approximately one-third of the visible upper torso"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct white cranial gap separates the medial boundaries of the two ears",
+    "apex_contour_smoothness": "Convex and smoothly rounded apex curvature"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Localized brownish-tan pigmentation or staining on the lower dorsal/pelvic fur"
+}

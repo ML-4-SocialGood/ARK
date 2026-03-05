@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible eye patch is oriented at a diagonal angle of approximately 60 degrees relative to the horizontal axis of the muzzle.",
+    "aspect_ratio_factor": "The eye patch exhibits an elongated oval shape with a visual width-to-height ratio of approximately 1.8:1.",
+    "inferior_centroid_shift": "The patch displays a pronounced downward taper toward the anterior, indicating a centroid shift toward the lower margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the transverse band displays a shallow, broad U-shaped curve profile.",
+    "normalized_band_thickness": "The dark band occupies approximately 35% of the total visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The apex of the visible right ear is smooth and distinctly semicircular."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Near-vertical orientation with a slight inward tilt of approximately 10 degrees from the vertical facial midline.",
+    "aspect_ratio_factor": "Vertically elongated oval; visual height is approximately double the width.",
+    "inferior_centroid_shift": "The patch exhibits a narrow tapering at the inferior boundary, shifting the geometric centroid toward the superior half."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High; the black pigmentation covers the entirety of the shoulder and upper limb junction visible from the frontal view."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned at the extreme lateral-superior margins of the cranium with a distance approximately 1.5 times the width of the ear itself.",
+    "apex_contour_smoothness": "The visible left ear displays a smooth, continuous semicircular apex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

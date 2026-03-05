@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at approximately a 45-degree angle relative to the snout-to-ear line.",
+    "aspect_ratio_factor": "The eye patch is an elongated oval with an estimated length-to-width ratio of 1.5:1.",
+    "inferior_centroid_shift": "There is a visible tapering of the eye patch toward the snout, indicating a downward geometric shift."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The dark ear regions are separated by a wide white cranial gap approximately equal to the width of one pinna.",
+    "apex_contour_smoothness": "The top boundary of the visible ear displays a smooth, continuous convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

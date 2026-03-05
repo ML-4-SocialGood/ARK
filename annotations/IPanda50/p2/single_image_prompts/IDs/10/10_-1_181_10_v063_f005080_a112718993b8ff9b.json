@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band exhibits a shallow, transverse U-shaped profile across the dorsal midline.",
+    "normalized_band_thickness": "The dark band occupies approximately 30 percent of the visible longitudinal torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The dark ear regions are separated by a broad gap of white fur approximately 1.5 times the width of an individual ear.",
+    "apex_contour_smoothness": "The superior boundaries of the visible pinnae exhibit a smooth, rounded semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A pronounced yellow-brown discoloration is visible on the posterior white fur relative to the brighter white fur of the cranial region."
+}

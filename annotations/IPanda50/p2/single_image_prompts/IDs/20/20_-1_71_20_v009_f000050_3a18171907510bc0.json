@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-60 degrees relative to the horizontal axis, angled downwards towards the rostrum.",
+    "aspect_ratio_factor": "Elongated oval with a high length-to-width ratio.",
+    "inferior_centroid_shift": "Pronounced tapering at the inferior-anterior margin, creating a teardrop effect."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape across the posterior margin of the band.",
+    "normalized_band_thickness": "Moderately wide, comprising roughly 20-25% of the visible anterior-posterior torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Visible gap between the two ear regions approximately equal to the width of the left ear.",
+    "apex_contour_smoothness": "Smooth, semicircular curvature at the dorsal apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

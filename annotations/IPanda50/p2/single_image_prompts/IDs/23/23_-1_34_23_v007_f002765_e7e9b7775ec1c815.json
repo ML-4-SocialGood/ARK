@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep V-shape with a sharp apex pointing toward the posterior region",
+    "normalized_band_thickness": "Thick, occupying approximately 35-40% of the vertical torso visible from this perspective"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clearly defined wide gap separating the two black semicircular ear regions on the cranial crown",
+    "apex_contour_smoothness": "Smooth, rounded convex curvature at the top boundary of both visible ears"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

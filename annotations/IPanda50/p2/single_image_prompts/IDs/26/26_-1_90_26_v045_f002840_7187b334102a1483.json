@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation pointing downward towards the rostral tip at approximately a 45-degree angle",
+    "aspect_ratio_factor": "Elongated oval with the longitudinal axis significantly greater than the vertical axis",
+    "inferior_centroid_shift": "Gradual tapering of the pigment towards the lower-front edge of the patch"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Posterior boundary displays a shallow forward-leaning diagonal slope rather than a defined V or U shape",
+    "normalized_band_thickness": "Approximately 35 to 40 percent of the visible longitudinal torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smoothly rounded semicircular profile without flattening"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

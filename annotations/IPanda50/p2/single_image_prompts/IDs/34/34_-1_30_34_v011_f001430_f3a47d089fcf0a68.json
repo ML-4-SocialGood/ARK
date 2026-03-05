@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are oriented diagonally downwards toward the muzzle at approximately a 45-degree angle relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "The eye patches exhibit an elongated oval/teardrop shape with a height-to-width ratio of approximately 1.7:1.",
+    "inferior_centroid_shift": "Significant downward tapering is visible, with the mass of the patch concentrated in the superior-lateral region and narrowing toward the inferior-medial point."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "A wide, uniform dark band is visible across the shoulders, occupying approximately 30% of the visible anterior torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned laterally with a wide cranial gap approximately twice the width of a single ear base.",
+    "apex_contour_smoothness": "The superior boundaries of the ears display a smooth, continuous semi-circular convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

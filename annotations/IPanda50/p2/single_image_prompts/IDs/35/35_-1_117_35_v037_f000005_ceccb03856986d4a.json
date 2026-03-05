@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented at a downward angle of approximately 60 degrees relative to the horizontal facial axis toward the snout.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval morphology with a high aspect ratio, where the longitudinal axis is significantly greater than the transverse width.",
+    "inferior_centroid_shift": "There is a pronounced downward tapering effect, with the inferior margin extending substantially further from the geometric center than the superior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark dorsal band exhibits a shallow, broad U-shaped curve across the spinal midline.",
+    "normalized_band_thickness": "The dark band is thick, representing approximately one-third of the visible torso height at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap is maintained between the dark ear regions, which are positioned on the lateral-superior corners of the cranium.",
+    "apex_contour_smoothness": "The top boundaries of the ears possess a smooth, convex, and continuous semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Several small pieces of light-colored environmental debris (twigs/foliage) are scattered across the black fur of the shoulder and dorsal band."
+}

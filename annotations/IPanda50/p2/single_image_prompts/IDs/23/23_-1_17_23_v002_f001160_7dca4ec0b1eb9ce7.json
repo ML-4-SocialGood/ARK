@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Roughly horizontal orientation of the primary axis of the visible eye patch relative to the facial plane.",
+    "aspect_ratio_factor": "The eye patch displays an oval profile with a width greater than its height.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve profile observed along the posterior edge of the dark band.",
+    "normalized_band_thickness": "The dark band accounts for approximately 35% of the visible torso area in this profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct gap is visible between the two dark ear regions, approximately equal to the width of one pinna.",
+    "apex_contour_smoothness": "Convex, rounded apex curvature on both visible pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

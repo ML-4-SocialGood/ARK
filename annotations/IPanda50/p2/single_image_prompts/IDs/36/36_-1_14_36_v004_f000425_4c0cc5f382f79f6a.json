@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis is oriented at an oblique angle of approximately 75 degrees relative to the horizontal facial axis, sloping downward toward the snout.",
+    "aspect_ratio_factor": "The patch exhibits an elongated oval aspect ratio, with the vertical dimension significantly exceeding the horizontal width.",
+    "inferior_centroid_shift": "The patch shows a pronounced downward tapering effect, with the lowest point extending significantly below the geometric center toward the lateral muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dorsal band presents a broad, smooth U-shape as it transitions into the white fur of the lower back.",
+    "normalized_band_thickness": "The dark band is thick, covering roughly 30 to 40 percent of the visible torso length from the shoulder to the mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide gap across the white cranial fur, approximately equal to the width of one ear's diameter.",
+    "apex_contour_smoothness": "The top boundaries of the pinnae exhibit a smooth, semicircular curvature with minimal flattening at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "High-contrast white particulate matter or debris is scattered across the black fur of the dorsal region and upper limbs."
+}

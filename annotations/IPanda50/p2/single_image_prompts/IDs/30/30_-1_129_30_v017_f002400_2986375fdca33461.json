@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve with a relatively flat posterior boundary across the spine.",
+    "normalized_band_thickness": "High relative thickness, extending across the entire shoulder region and covering approximately 30% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Prominent separation between the dark ear regions, approximately equal to the width of a single pinna.",
+    "apex_contour_smoothness": "Smooth, symmetrically rounded convex curvature at the top of both visible ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

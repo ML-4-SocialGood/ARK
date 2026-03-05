@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees relative to the horizontal facial axis, tilting downward toward the rostrum.",
+    "aspect_ratio_factor": "Elongated oval with a high aspect ratio, roughly 2:1 length-to-width.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the geometric mass concentrated in the upper-posterior quadrant of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Smooth U-shaped posterior boundary with a wide, even curvature across the dorsal midline.",
+    "normalized_band_thickness": "The dark band occupies approximately 40% of the visible torso length along the mid-dorsal line."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap between the pinnae, roughly 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "High smoothness with a perfectly semicircular, rounded top boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The mouth is agape, exposing the dark interior of the oral cavity and the lower mandible structure."
+}

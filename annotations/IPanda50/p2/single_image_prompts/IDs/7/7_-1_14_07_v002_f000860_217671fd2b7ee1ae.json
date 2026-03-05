@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible eye patch is oriented at a downward diagonal angle of approximately 45 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch exhibits a distinctly oval morphology, with the longitudinal dimension approximately twice the width of the transverse dimension.",
+    "inferior_centroid_shift": "The patch displays a pronounced downward tapering effect towards the muzzle, with the lower margin extending significantly further from the geometric center than the upper margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark dorsal band forms a shallow, wide U-shaped curve across the vertebral column.",
+    "normalized_band_thickness": "The band is visually thick, encompassing approximately 25-30% of the visible torso length at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible right pinna exhibits a smooth, semi-circular rounded apex with no observed flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

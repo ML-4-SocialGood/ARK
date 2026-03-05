@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented approximately 80 degrees relative to the horizontal facial axis, tilting slightly forward at the superior end.",
+    "aspect_ratio_factor": "Elongated oval with a high vertical height-to-width ratio.",
+    "inferior_centroid_shift": "Distinct downward tapering creating a teardrop profile where the lowest point is well below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shape curvature along the posterior edge of the band.",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 40-45% of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide white cranial gap approximately twice the width of a single pinna.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular apex on the visible left ear."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

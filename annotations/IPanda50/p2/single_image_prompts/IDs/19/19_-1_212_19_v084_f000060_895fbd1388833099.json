@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the eye patches is oriented vertically, approximately 90 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "High vertical-to-horizontal aspect ratio; the patches are distinctly elongated ovals rather than circular.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the lower portion of the patch narrowing as it extends toward the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band appears as a thick, heavy mass covering the entirety of the visible upper shoulder and lateral flank area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant wide gap between the ears, which are positioned on the upper lateral corners of the cranium.",
+    "apex_contour_smoothness": "The top boundaries of the ears exhibit a smooth, convex, semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The specimen is observed holding and consuming a non-vegetative, fleshy prey item (likely a fish or small vertebrate), which is a rare visual diagnostic for this species."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented nearly vertically with a slight inward cant toward the rostrum.",
+    "aspect_ratio_factor": "Elongated oval morphology with a vertical height-to-width ratio of approximately 2:1.",
+    "inferior_centroid_shift": "Significant downward tapering resulting in a narrower ventral margin compared to the upper margin of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the transverse band follows a shallow U-shape across the dorsal midline.",
+    "normalized_band_thickness": "The dark band occupies approximately 40 percent of the distance from the neck to the mid-torso along the visible lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely set, separated by a distance greater than the horizontal width of an individual pinna base.",
+    "apex_contour_smoothness": "Convex semicircular apex with moderate irregularity due to coarse, tufted fur texture."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The tip of the tongue is visibly protruding from the oral cavity."
+}

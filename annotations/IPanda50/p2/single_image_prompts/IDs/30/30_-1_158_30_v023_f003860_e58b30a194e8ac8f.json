@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation of approximately 45 degrees relative to the horizontal facial axis, extending towards the cheek area.",
+    "aspect_ratio_factor": "Elongated oval shape with a width-to-height ratio approximately 1.5 to 1.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Substantial gap between the black ear regions, occupying approximately one-third of the total head width.",
+    "apex_contour_smoothness": "Rounded, convex curvature along the superior boundary of both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

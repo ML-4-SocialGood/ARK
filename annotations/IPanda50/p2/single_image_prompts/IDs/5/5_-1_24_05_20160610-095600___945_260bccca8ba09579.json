@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique inward tilt toward the rostrum, approximately 30-45 degrees from the horizontal facial axis.",
+    "aspect_ratio_factor": "Ovoid/teardrop geometry with a vertical elongation; height exceeds width.",
+    "inferior_centroid_shift": "Significant tapering at the ventral margin creating a teardrop effect, with the center of mass shifted toward the upper-mid region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shape across the posterior margin with minimal indentation at the spinal midline.",
+    "normalized_band_thickness": "Uniformly thick across the visible width, occupying approximately 20-25% of the visible dorsal length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation, estimated at twice the width of a single ear unit.",
+    "apex_contour_smoothness": "Convex and rounded, with the distal edges exhibiting high curvature smoothness."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

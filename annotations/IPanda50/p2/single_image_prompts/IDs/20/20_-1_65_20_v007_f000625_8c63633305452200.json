@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree oblique orientation relative to the horizontal facial axis, angled downward towards the rostrum.",
+    "aspect_ratio_factor": "Ellipsoid morphology with a higher vertical-to-horizontal ratio, appearing as elongated ovals.",
+    "inferior_centroid_shift": "Minor tapering observed at the lower-medial quadrant of the patch boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary transitioning into the white dorsal fur.",
+    "normalized_band_thickness": "The band covers approximately 40-50% of the visible torso length along the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance roughly equal to 1.5 times the width of a single ear pinna.",
+    "apex_contour_smoothness": "Convex, semi-circular curvature at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

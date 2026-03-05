@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical orientation with a slight medial tilt towards the nasal region.",
+    "aspect_ratio_factor": "Elongated ovoid morphology with a vertical-to-horizontal ratio of approximately 2:1.",
+    "inferior_centroid_shift": "Distinct downward tapering with the geometric center located in the upper 40% of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap between the ears, occupying approximately 40% of the visible cranial width.",
+    "apex_contour_smoothness": "Smooth, continuous semicircular arcs at the apex of both visible pinnas."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

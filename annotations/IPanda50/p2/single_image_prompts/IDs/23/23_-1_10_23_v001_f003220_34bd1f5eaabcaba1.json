@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation tilted approximately 45 degrees towards the snout",
+    "aspect_ratio_factor": "Oval elongation along the primary axis",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curvature on the posterior edge",
+    "normalized_band_thickness": "Approximately 0.4 relative to the visible dorsal length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distance between ear patches roughly equal to one pinna width",
+    "apex_contour_smoothness": "Rounded semicircular apex"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

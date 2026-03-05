@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees relative to the median facial plane of the tilted head.",
+    "aspect_ratio_factor": "Oval-shaped with a length-to-width ratio estimated at 2:1.",
+    "inferior_centroid_shift": "Distinct teardrop elongation tapering towards the lateral cheek areas."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curvature along the posterior edge of the band.",
+    "normalized_band_thickness": "Consistent thickness across the visible flank, occupying approximately 25% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear separation gap approximately 1.5 times the width of an individual ear base.",
+    "apex_contour_smoothness": "Symmetrically rounded at the superior apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

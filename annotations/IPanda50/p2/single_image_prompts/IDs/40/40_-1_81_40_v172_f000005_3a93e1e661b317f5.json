@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Near-vertical orientation with a slight inward tilt at the superior pole, approximately 80 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval; the vertical axis is approximately 2.5 times longer than the horizontal axis.",
+    "inferior_centroid_shift": "Pronounced downward elongation, with the distance from the centroid to the inferior tip exceeding the distance to the superior tip."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Thick lateral bands, occupying approximately 40% of the visible vertical span of the torso at the flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between ear regions, approximately 1.5 to 2 times the width of an individual ear region.",
+    "apex_contour_smoothness": "Smooth convex curvature along the superior boundary with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

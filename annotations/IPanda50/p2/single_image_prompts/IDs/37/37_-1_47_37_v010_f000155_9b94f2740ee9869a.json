@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the patches is oriented obliquely at approximately a 45-degree angle downward relative to the horizontal facial axis, converging toward the muzzle.",
+    "aspect_ratio_factor": "The patches exhibit an oval morphology with a vertical-to-horizontal visual ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "A pronounced downward taper is visible, with the mass of the patch extending significantly further from the geometric center toward the inferior edge than toward the superior edge."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the band displays a wide, smooth U-shaped curve across the dorsal midline.",
+    "normalized_band_thickness": "The dark band spans approximately 35-40% of the visible torso length from the shoulder to the posterior boundary."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the ear regions is wide, measuring approximately 1.5 times the transverse width of a single ear.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae are characterized by smooth, consistent convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

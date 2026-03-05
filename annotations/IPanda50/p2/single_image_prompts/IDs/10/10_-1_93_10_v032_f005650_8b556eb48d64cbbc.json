@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are angled approximately 45 degrees downward toward the snout relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval shape with a high aspect ratio where the vertical-diagonal length is significantly greater than the width.",
+    "inferior_centroid_shift": "Pronounced downward tapering, with the lower extremity of the patch ending in a narrow point well below the ocular center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shape along the posterior boundary across the shoulder region.",
+    "normalized_band_thickness": "The band is thick, encompassing approximately 35% of the visible dorsal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large gap between pinnae, approximately 1.5 to 2 times the width of a single ear base.",
+    "apex_contour_smoothness": "Smoothly curved, semicircular apex with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brownish-yellow tinting of the white fur on the lumbar and rump sections compared to the brighter white of the head."
+}

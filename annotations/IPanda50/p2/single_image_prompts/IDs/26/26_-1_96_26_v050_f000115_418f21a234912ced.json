@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curvature on the posterior boundary where black pixels meet the white lumbar region.",
+    "normalized_band_thickness": "High; the dark band occupies approximately 40 percent of the visible vertical torso profile from the dorsal perspective."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct white crown gap approximately 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Rounded curvature; the pinna on the right (viewer perspective) appears slightly more flattened than the left."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A short, dark tail is visible at the inferior midline, contrasting against the surrounding white pelvic fur."
+}

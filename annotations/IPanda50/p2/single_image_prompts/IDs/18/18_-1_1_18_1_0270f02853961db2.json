@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible left eye patch is oriented on a diagonal axis approximately 40 degrees relative to the horizontal plane of the head, tilting towards the snout.",
+    "aspect_ratio_factor": "Elongated oval shape with a length approximately 1.8 times its width.",
+    "inferior_centroid_shift": "Pronounced tapering at the lower-inner quadrant, creating a teardrop morphology with the lowest point shifted medially."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dorsal band exhibits a shallow V-shape pointing toward the caudal region.",
+    "normalized_band_thickness": "The band is relatively wide, occupying approximately 30% of the visible torso length along the dorsal midline."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-ear distance is approximately 1.5 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "Smooth, semi-circular convex curvature at the top of the ear boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Dark saturation or dampness is visible on the distal half of the hind limb hanging vertically from the platform."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation at approximately 45 degrees relative to the horizontal facial axis, tilting inward towards the muzzle.",
+    "aspect_ratio_factor": "Elongated oval-shaped blobs with a length-to-width ratio of approximately 2:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the inferior-most point extending significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, flat U-shape curvature at the posterior boundary where the black shoulder band meets the white fur.",
+    "normalized_band_thickness": "Thick transverse band occupying approximately 40% of the visible torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide inter-pinna gap roughly 1.5 times the width of an individual ear.",
+    "apex_contour_smoothness": "Uniformly smooth, semicircular curvature at the dorsal apex."
+  },
+  "acquired_anomalies_or_scars": "A distinct dark circular indentation or aperture is visible in the mid-ventral pelvic region.",
+  "other_distinctive_markers": "Extensive and uniform brownish-soil staining across the entirety of the thoracic and abdominal ventral fur."
+}

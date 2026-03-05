@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation slanting approximately 45 degrees towards the dorsal-posterior region relative to the muzzle axis",
+    "aspect_ratio_factor": "Elongated ovoid shape with a longitudinal axis significantly greater than the transverse width",
+    "inferior_centroid_shift": "Visible tapering at the ventral-most point of the patch creating a slight teardrop effect"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shaped profile across the posterior margin with no sharp V-tapering",
+    "normalized_band_thickness": "Extensive, occupying approximately 35-40% of the visible lateral torso height"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear separation of black auricular regions by a white sagittal crown region",
+    "apex_contour_smoothness": "Regularized hemispherical curvature on the dorsal boundary of the ears"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

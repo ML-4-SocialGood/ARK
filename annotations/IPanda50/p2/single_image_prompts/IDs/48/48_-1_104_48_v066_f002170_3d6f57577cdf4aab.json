@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis of the visible eye patches is oriented approximately 45 degrees downward from the lateral edge toward the snout.",
+    "aspect_ratio_factor": "Ovaloid morphology with a high length-to-width ratio along the dominant axis.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the geometric bulk shifted toward the lower-lateral region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Posterior edge exhibits a deep, smooth U-shaped curvature across the dorsal midline.",
+    "normalized_band_thickness": "Thick transverse band, occupying approximately one-third of the visible cranial-to-caudal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between ear regions, approximately 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Top boundaries of the ears are highly smooth and semicircular."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "High-contrast white claws are clearly visible on the distal appendages of the front paws."
+}

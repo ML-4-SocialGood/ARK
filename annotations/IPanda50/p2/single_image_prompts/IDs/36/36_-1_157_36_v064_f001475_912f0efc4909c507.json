@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation approximately 45 degrees relative to the horizontal facial plane, tapering towards the snout.",
+    "aspect_ratio_factor": "Elongated oval with a major axis significantly longer than the minor axis.",
+    "inferior_centroid_shift": "Pronounced downward tapering extending well below the geometric center toward the cheek."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve across the dorsal midline at the posterior edge.",
+    "normalized_band_thickness": "High thickness, covering approximately one-third of the visible torso length at the shoulder flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, roughly equivalent to double the width of a single ear pinna.",
+    "apex_contour_smoothness": "Smoothly rounded convex apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Heavy yellowish-brown discoloration/staining of the white pelage on the abdominal and ventral regions."
+}

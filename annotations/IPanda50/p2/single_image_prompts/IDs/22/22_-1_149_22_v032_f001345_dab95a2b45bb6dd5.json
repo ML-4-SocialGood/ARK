@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward diagonal orientation relative to the horizontal muzzle axis.",
+    "aspect_ratio_factor": "Vertical ovaloid morphology with a height-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Visible downward tapering where the patch narrows toward its lowest point below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve at the posterior boundary of the transverse band.",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 50% of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Inter-ear gap is approximately 1.5 times the width of a single pinna region.",
+    "apex_contour_smoothness": "Smooth, rounded semi-circular curvature at the top boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Thin, linear, light-colored object protruding horizontally from the oral cavity area."
+}

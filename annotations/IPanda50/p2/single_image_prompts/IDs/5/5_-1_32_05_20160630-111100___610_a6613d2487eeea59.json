@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Near-vertical primary axis with a slight inward tilt toward the nasal bridge at the inferior margin.",
+    "aspect_ratio_factor": "Elongated oval morphology with a vertical length significantly exceeding the horizontal width.",
+    "inferior_centroid_shift": "Pronounced downward tapering where the patch narrows at the bottom, shifting the geometric center toward the upper half."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve profile observed at the posterior margin of the dark band.",
+    "normalized_band_thickness": "The dark band occupies approximately 25-30% of the visible dorsal-to-caudal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation on the cranial vault, approximately 1.5 times the horizontal width of a single pinna.",
+    "apex_contour_smoothness": "Smooth, semicircular curvature across the top boundary with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

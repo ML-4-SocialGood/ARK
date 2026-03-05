@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation with the primary axis of the patches angled downward toward the rostrum at approximately 45 degrees relative to the horizontal axis of the face.",
+    "aspect_ratio_factor": "Elongated ovoid morphology with a vertical-to-horizontal aspect ratio estimated at 1.5:1.",
+    "inferior_centroid_shift": "Moderate downward tapering is observed, with the patch extending further toward the snout from the geometric center of the eye region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band exhibits a shallow U-shaped profile across the dorsal midline.",
+    "normalized_band_thickness": "The dark band is prominent, occupying approximately 30% of the visible lateral height of the torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A clear, distinct gap of white cranial fur separates the two dark semicircular auricular regions.",
+    "apex_contour_smoothness": "The superior boundaries of the ears show a smooth, rounded semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right eye patch exhibits a downward diagonal orientation of approximately 45 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch is an elongated oval with an estimated width-to-height ratio of 1:2.",
+    "inferior_centroid_shift": "Significant downward tapering is visible, with the lowest point of the patch extending towards the muzzle well below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band is thick, covering roughly 40% of the visible upper torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the dark ear regions is roughly equivalent to the horizontal width of one ear.",
+    "apex_contour_smoothness": "The ear boundaries exhibit smooth, rounded semi-circular profiles at their apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A small, bright green elongated object, likely a leaf or insect, is visible on the white fur adjacent to the base of the left ear (viewer's left)."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis of the eye patches exhibits a roughly 45-degree inward tilt toward the muzzle relative to the facial midline.",
+    "aspect_ratio_factor": "Oval-elongated morphology with a width-to-height ratio estimated at 1:1.6.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the geometric center shifted toward the superior region of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Posterior edge exhibits a shallow U-shaped curve profile.",
+    "normalized_band_thickness": "The band is approximately 35% of the visible dorsal torso length at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance is approximately 1.4 times the width of an individual pinna region.",
+    "apex_contour_smoothness": "Both ears display a smooth, convex rounded curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

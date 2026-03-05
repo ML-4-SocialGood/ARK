@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented at an approximately 45-degree inward angle descending toward the rostrum.",
+    "aspect_ratio_factor": "Vertical oval geometry with a height-to-width ratio of approximately 1.4:1.",
+    "inferior_centroid_shift": "Distinct downward tapering observed, with the lowest point of the patch appearing more acute than the rounded superior edge."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the transverse band exhibits a shallow, wide U-shape profile.",
+    "normalized_band_thickness": "The dark band occupies approximately 25-30% of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-pinna gap is wide, roughly equivalent to 1.5 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae are uniformly semicircular and smooth."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis is oriented at approximately 45 degrees relative to the median facial plane.",
+    "aspect_ratio_factor": "Elongated oval shape with the longitudinal axis approximately twice the length of the transverse axis.",
+    "inferior_centroid_shift": "Moderate tapering visible at the ventral-most point of the eye patch, creating a downward-pointing teardrop effect."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "A broad, shallow U-shape curvature is visible along the posterior boundary of the dark band.",
+    "normalized_band_thickness": "The dark band occupies approximately 40% of the visible dorsal-to-ventral torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the medial edges of the ears is approximately 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "The superior boundaries of the ears are smoothly rounded and semicircular."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

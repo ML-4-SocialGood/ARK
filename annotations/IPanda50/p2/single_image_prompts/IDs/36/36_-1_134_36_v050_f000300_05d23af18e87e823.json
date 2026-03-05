@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees downward from the horizontal facial midline toward the rostrum.",
+    "aspect_ratio_factor": "Vertical ovoid with an estimated ratio of 1.8:1 height to width.",
+    "inferior_centroid_shift": "Pronounced inferior tapering extending the lower boundary significantly below the ocular centroid."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Approximately 40% of the visible upper torso area is occupied by the dark band."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distance between pinnae is roughly 2.5 times the width of a single pinna base.",
+    "apex_contour_smoothness": "Smoothly rounded apex with no visible flattening or irregularities."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visual exposure of mandibular teeth through a slightly open mouth."
+}

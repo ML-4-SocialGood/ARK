@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right periocular patch is oriented at an oblique downward angle of approximately 45 degrees relative to the facial midline.",
+    "aspect_ratio_factor": "The patch displays an elongated oval shape with an estimated length-to-width ratio of 1.5:1.",
+    "inferior_centroid_shift": "A distinct downward taper is visible, extending the lower margin of the patch significantly below the ocular center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band exhibits a shallow V-shaped indentation at the dorsal midline.",
+    "normalized_band_thickness": "The transverse band occupies approximately 35-40% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the dark pinnae is approximately equal to the width of one pinna.",
+    "apex_contour_smoothness": "The superior edges of the pinnae are smoothly rounded and semi-circular."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

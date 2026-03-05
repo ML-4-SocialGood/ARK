@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented approximately 45 degrees downward relative to the horizontal facial axis towards the rostrum.",
+    "aspect_ratio_factor": "Elongated oval profile with an approximate width-to-height ratio of 1:2.",
+    "inferior_centroid_shift": "The patch exhibits a pronounced downward taper, where the lowest vertex is significantly distant from the geometric center toward the mouth."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the transverse band displays a wide, smooth U-shape across the upper back.",
+    "normalized_band_thickness": "Estimated at 30% of the visible longitudinal torso length from the shoulder to the lower back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral gap between the pinnae, equivalent to the maximum width of the white cranial cap.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae are smoothly rounded with no visible flattened edges."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brownish-yellow staining present on the white fur of the ventral abdomen and pelvic regions."
+}

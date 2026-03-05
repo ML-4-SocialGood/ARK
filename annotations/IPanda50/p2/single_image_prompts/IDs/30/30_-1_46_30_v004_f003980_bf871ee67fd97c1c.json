@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right eye patch is oriented vertically at approximately 75 to 80 degrees relative to the horizontal axis of the snout.",
+    "aspect_ratio_factor": "Elongated oval; the vertical axis is significantly greater than the horizontal width, approximately a 2.5:1 ratio.",
+    "inferior_centroid_shift": "Pronounced downward tapering; the lowest point of the patch extends significantly below the geometric center towards the lower mandible."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the band displays a shallow, uniform U-shape curvature across the lateral view.",
+    "normalized_band_thickness": "The dark band occupies approximately 45 percent of the visible torso height between the dorsal midline and the ventral occlusion point."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely set, separated by a broad white cranial surface approximately twice the width of a single ear base.",
+    "apex_contour_smoothness": "The right ear displays a smooth, continuous semicircular convex curve at its apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible dentition including canines and molars due to open-mouth feeding posture; pelage exhibits a distinct yellowish-cream hue rather than pure white."
+}

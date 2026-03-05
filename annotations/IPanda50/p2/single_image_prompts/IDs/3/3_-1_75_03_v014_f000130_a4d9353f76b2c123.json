@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis is angled approximately 45-60 degrees downward relative to the horizontal facial midline, tapering toward the snout.",
+    "aspect_ratio_factor": "Oval-elongated; the vertical dimension of the patch is significantly greater than the horizontal width.",
+    "inferior_centroid_shift": "The patch displays a pronounced downward tapering effect, extending the lowest point well below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely set, separated by a broad convex span of white cranial fur.",
+    "apex_contour_smoothness": "The ear boundaries exhibit a smooth, semicircular curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

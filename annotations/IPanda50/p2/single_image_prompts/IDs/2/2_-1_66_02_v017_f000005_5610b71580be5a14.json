@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique diagonal orientation approximately 45 degrees relative to the vertical midline of the tilted cranium",
+    "aspect_ratio_factor": "Oval-elliptical blob with an elongated longitudinal axis",
+    "inferior_centroid_shift": "Pronounced tapering and downward extension towards the lateral-ventral edge"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary with a relatively flat transverse profile",
+    "normalized_band_thickness": "High thickness, extending approximately one-third the length of the visible dorsal plane"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant cranial gap approximately 1.5 times the horizontal width of a single ear region",
+    "apex_contour_smoothness": "Consistent smooth convex curvature without flattened or irregular vertices"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

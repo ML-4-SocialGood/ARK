@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal, oriented at approximately 45 degrees relative to the snout-ear horizontal axis.",
+    "aspect_ratio_factor": "Elongated oval with a width-to-height ratio of approximately 1:2.",
+    "inferior_centroid_shift": "Visible tapering at the inferior-anterior margin of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, flat U-shape curvature along the posterior boundary of the band.",
+    "normalized_band_thickness": "Broad, estimated at approximately 35% of the visible dorsal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, approximately 1.5 times the horizontal width of an individual pinna.",
+    "apex_contour_smoothness": "Symmetrically rounded, semi-circular apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-yellow soil-based staining across the ventral abdominal and pelvic fur regions."
+}

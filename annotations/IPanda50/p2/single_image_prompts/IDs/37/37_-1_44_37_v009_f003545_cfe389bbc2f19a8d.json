@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis of the visible right eye patch is oriented at a downward diagonal angle of approximately 45 degrees relative to the horizontal plane of the head.",
+    "aspect_ratio_factor": "Oval morphology with an estimated width-to-height ratio of 1.6:1.",
+    "inferior_centroid_shift": "Visible downward expansion at the lower margin of the patch, resulting in an asymmetrical taper below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped curve along the posterior edge as it traverses the dorsal midline.",
+    "normalized_band_thickness": "The band is relatively thick, occupying approximately 30% of the visible length from the neck to the mid-torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned wide apart on the lateral edges of the cranial crown.",
+    "apex_contour_smoothness": "Highly smooth, rounded semicircular profiles at the superior boundaries of the pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The typically white regions of the pelage exhibit a distinct yellowish-cream saturation, particularly visible on the dorsal surface and cranium."
+}

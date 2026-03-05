@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patches is oriented diagonally, descending laterally from the medial superior position toward the cheeks.",
+    "aspect_ratio_factor": "Elongated oval morphology with a vertical-to-horizontal ratio significantly greater than 1.0.",
+    "inferior_centroid_shift": "Distinct downward tapering is visible, with the geometric center located in the upper half of the patch's vertical span."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band is broad, covering the entire shoulder and upper humerus region, approximately 35% of the visible torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation between pinnae, with a distance approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "Smoothly curved, semicircular apex with high circularity and no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Proninent rufous/brownish discoloration or soil-based staining present on the ventral abdominal fur."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the transverse dark band exhibits a shallow, wide U-shaped curvature across the dorsal midline.",
+    "normalized_band_thickness": "The dark band occupies approximately 25% of the visible longitudinal torso axis, maintaining relatively uniform thickness until the lateral transitions."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide white-furred cranial gap is visible between the dark pinnas, roughly equivalent to 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The superior margins of the visible pinnas show a smooth, convex semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": "A distinct, dark vertically-oriented linear mark is visible on the left posterior flank, suggesting a potential scar or localized deep fur matting.",
+  "other_distinctive_markers": "Extensive brownish-yellow environmental staining is present across the lower two-thirds of the posterior white fur region."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape with a gentle posterior dip at the midline",
+    "normalized_band_thickness": "Consistent thickness across the torso, representing approximately 30 percent of the visible upper-body height"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, approximately double the horizontal width of an individual pinna",
+    "apex_contour_smoothness": "Smoothly rounded and convex at the superior boundaries"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Isolated dark-furred patch visible on the lower left pelvic region"
+}

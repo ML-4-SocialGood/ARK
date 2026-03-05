@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward tilt directed toward the muzzle for the clearly visible left eye patch.",
+    "aspect_ratio_factor": "Elongated oval, length-to-width ratio estimated at 1.8:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering toward the nasal region from the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Broad dark band visible on the lateral flank, covering approximately 35% of the visible torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance approximately equal to the cranial width between the medial edges.",
+    "apex_contour_smoothness": "Smooth, convex parabolic curvature at the ear apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible sharp white claws on the distal ends of both the fore and hind limbs."
+}

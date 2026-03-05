@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, approximately 45 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval with a high length-to-width ratio.",
+    "inferior_centroid_shift": "Moderate downward tapering towards the inferior margin of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve at the posterior margin of the band.",
+    "normalized_band_thickness": "Significant thickness, occupying roughly one-third of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smooth convex curvature with a slightly blunted apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Highly visible mammary glands/nipples along the ventral surface."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the right eye patch is oriented at a downward angle of approximately 40 degrees relative to the snout-to-ear horizontal axis.",
+    "aspect_ratio_factor": "The eye patch exhibits an oval geometry with a length-to-width ratio estimated at 1.7:1.",
+    "inferior_centroid_shift": "Significant downward tapering is observed toward the snout, with the geometric center located in the upper-posterior third of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge presents a broad U-shaped profile, maintaining a nearly vertical boundary along the lateral flank.",
+    "normalized_band_thickness": "The transverse band occupies approximately 30 percent of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-ear gap is approximately 1.3 times the horizontal width of the right ear base.",
+    "apex_contour_smoothness": "The tops of both ears show a smooth, continuous semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is performing manual manipulation of a blue spherical enrichment object."
+}

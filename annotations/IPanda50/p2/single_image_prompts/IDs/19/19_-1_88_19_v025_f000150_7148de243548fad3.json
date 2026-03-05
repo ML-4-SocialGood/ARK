@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are angled at approximately 45 degrees relative to the horizontal facial axis, sloping downwards towards the muzzle.",
+    "aspect_ratio_factor": "The patches are oval-elongated, with a vertical-to-horizontal ratio of approximately 2:1.",
+    "inferior_centroid_shift": "Significant downward tapering is visible, with the lowest point of the patch extending well below its geometric center towards the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band occupies approximately 30-35% of the visible vertical torso height at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the medial boundaries of the dark ear regions is roughly 1.5 times the lateral width of a single ear.",
+    "apex_contour_smoothness": "The top boundaries of the ears exhibit a smooth, convex, and rounded curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

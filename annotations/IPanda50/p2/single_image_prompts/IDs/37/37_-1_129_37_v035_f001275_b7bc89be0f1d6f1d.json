@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis of the right eye patch is oriented approximately 60 degrees relative to the horizontal facial axis, sloping toward the muzzle.",
+    "aspect_ratio_factor": "Visible patch exhibits an elongated oval geometry with a height-to-width ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "The patch displays a distinct downward taper, with the lowest point extending significantly below the geometric center toward the lower maxilla."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the medial bases of the dark pinnae is approximately 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Both visible ear tops exhibit a smooth, continuous convex curvature without flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented at a negative 45-degree angle relative to the horizontal facial axis, sloping downward toward the rostrum.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval geometry with a high length-to-width ratio.",
+    "inferior_centroid_shift": "There is a distinct downward tapering toward the anterior edge, with the lower tip extending significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band exhibits a shallow, flat U-shaped profile across the dorsal midline.",
+    "normalized_band_thickness": "The dark band is thick, occupying approximately 30-35% of the total visible torso length from the shoulder to the mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible left ear shows a rounded apex with a slightly flattened top boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Presence of a thin, linear yellow-green botanical element protruding from the oral cavity."
+}

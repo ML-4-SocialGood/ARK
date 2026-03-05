@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented vertically with a slight anterior tilt relative to the horizontal plane of the muzzle.",
+    "aspect_ratio_factor": "Elongated oval shape with a high vertical aspect ratio; height significantly exceeds width.",
+    "inferior_centroid_shift": "Notable downward tapering with the inferior boundary extending toward the lower jawline, well below the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge displays a relatively flat U-shape curvature across the dorsal midline.",
+    "normalized_band_thickness": "The dark band is broad at the lateral flank, occupying approximately one-third of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap is present between the dark ear regions, separated by the white pelage of the cranial crown.",
+    "apex_contour_smoothness": "The superior boundaries of the ears exhibit a smooth, convex semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is positioned within a shallow liquid-filled depression, resulting in significant pelage saturation and matting on the lower limbs and ventral surface."
+}

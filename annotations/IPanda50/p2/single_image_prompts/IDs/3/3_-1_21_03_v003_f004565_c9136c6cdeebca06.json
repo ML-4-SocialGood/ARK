@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation angled approximately 45 degrees downward from the posterior to the anterior facial region.",
+    "aspect_ratio_factor": "Ellipsoidal geometry with primary axis length significantly exceeding secondary axis width.",
+    "inferior_centroid_shift": "Noticeable elongation extending the patch's mass towards the inferior-anterior facial quadrant."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Uniform U-shaped curve with minimal posterior vertex protrusion.",
+    "normalized_band_thickness": "Thick transverse band, estimated at 35% of the visible dorsal-to-lumbar span."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant inter-pinnicular gap approximately equal to 1.5 times the width of an individual pinna.",
+    "apex_contour_smoothness": "Regular, smooth convex curvature without apical flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

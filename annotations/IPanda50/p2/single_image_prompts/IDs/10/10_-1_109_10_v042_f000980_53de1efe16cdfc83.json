@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees relative to the vertical midline of the inverted face.",
+    "aspect_ratio_factor": "Ovoid blobs with a height-to-width ratio of approximately 1.3:1.",
+    "inferior_centroid_shift": "Gradual tapering toward the snout (inferior pole in facial coordinate system)."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "A smooth U-shaped curve at the posterior margin of the dark band.",
+    "normalized_band_thickness": "The transverse band occupies approximately 30-35% of the visible dorsal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance is approximately 2.5 times the width of a single pinna region.",
+    "apex_contour_smoothness": "Consistent rounded, semi-circular curvature at the top boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Distinctive inverted head-down posture with ten clearly visible digital claws across two forelimbs."
+}

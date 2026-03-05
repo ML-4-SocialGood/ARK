@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible eye patch is oriented diagonally, sloping downward from the posterior facial region toward the snout.",
+    "aspect_ratio_factor": "Elongated oval shape with a major axis significantly longer than the minor axis.",
+    "inferior_centroid_shift": "Moderate downward taper visible, creating a teardrop-like geometric profile."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve at the posterior margin where the band meets the white dorsal fur.",
+    "normalized_band_thickness": "The band is thick, encompassing approximately 30% of the visible upper torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct gap exists between the two dark ear regions, approximately one ear-width in distance.",
+    "apex_contour_smoothness": "Smoothly rounded convex curvature at the top boundary of both visible ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

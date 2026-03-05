@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide U-shape with a shallow posterior curve that remains relatively flat across the spine.",
+    "normalized_band_thickness": "The band occupies approximately 30% of the visible dorsal-to-caudal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap visible between the medial bases of the ears relative to the cranial width.",
+    "apex_contour_smoothness": "The visible right pinna exhibits a smooth, rounded semicircular apex."
+  },
+  "acquired_anomalies_or_scars": "Large, irregular, reddish-brown area of alopecia and skin trauma located on the posterior dorsal/rump region.",
+  "other_distinctive_markers": "Noticeable yellowish-tan discoloration of the white pelage, particularly concentrated on the posterior half of the body surrounding the lesion."
+}

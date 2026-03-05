@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are oriented at an oblique downward angle of approximately 45 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The patches exhibit an elongated oval shape with a vertical length approximately 1.8 times the horizontal width.",
+    "inferior_centroid_shift": "There is a significant downward teardrop-like tapering where the lowest point of the patch is notably distal to the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band at the visible left lateral flank appears thick, occupying approximately 35% of the visible vertical torso region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible left ear displays a smooth, rounded semicircular apex; the right ear's apex is obscured by a foreground bamboo stalk."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

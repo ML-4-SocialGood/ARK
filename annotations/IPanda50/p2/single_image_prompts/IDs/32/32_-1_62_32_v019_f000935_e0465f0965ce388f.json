@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique tilt oriented anterior-inferiorly on the visible right eye patch",
+    "aspect_ratio_factor": "Elongated oval with height exceeding width along the primary axis",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shaped profile on the posterior margin",
+    "normalized_band_thickness": "Significant thickness relative to the total visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distinct separation between the two dark ear regions across the cranial vertex",
+    "apex_contour_smoothness": "Smooth, convex semicircular curvature"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

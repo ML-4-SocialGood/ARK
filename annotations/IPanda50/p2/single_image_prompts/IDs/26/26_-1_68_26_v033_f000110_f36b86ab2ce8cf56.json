@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented obliquely at approximately 45 degrees, sloping inward toward the muzzle.",
+    "aspect_ratio_factor": "Vertically elongated oval with a height-to-width ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "Significant downward taper extending below the ocular center, forming a teardrop-like projection."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Posterior edge exhibits a shallow, wide U-shape curve across the shoulder region.",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 35% of the visible torso height at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between ears, approximately twice the individual ear width.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular profile with minimal tufting."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

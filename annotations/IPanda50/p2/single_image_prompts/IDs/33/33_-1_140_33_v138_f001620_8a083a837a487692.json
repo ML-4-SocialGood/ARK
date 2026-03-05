@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis is oriented vertically with a slight inward tilt of approximately 15 degrees toward the rostrum.",
+    "aspect_ratio_factor": "Elongated oval/teardrop morphology with a vertical-to-horizontal ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering, with the lower half of the patch significantly narrower than the upper half."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped profile across the posterior boundary where the black band meets the white dorsal fur.",
+    "normalized_band_thickness": "Extensive thickness, covering the entire shoulder region and extending down to the mid-torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap exists between the ear regions, approximately equivalent to the width of one eye patch.",
+    "apex_contour_smoothness": "Smooth, semicircular convex curvature at the top of both visible ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brownish-orange discoloration is present on the fur of the abdominal and inguinal regions."
+}

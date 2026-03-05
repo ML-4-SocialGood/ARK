@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve at the posterior edge of the dark transverse band",
+    "normalized_band_thickness": "Estimated thickness occupying approximately one third of the visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear gap between the two distinct dark semicircular regions on the cranium",
+    "apex_contour_smoothness": "Smoothly rounded convex curvature on both ear tops"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-yellow discoloration or staining on the fur of the lower back and haunches"
+}

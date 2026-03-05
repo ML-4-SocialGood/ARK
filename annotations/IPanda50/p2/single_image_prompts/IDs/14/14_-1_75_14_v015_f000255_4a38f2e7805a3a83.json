@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the high-contrast eye patches are oriented vertically with a slight lateral divergence at the superior margin.",
+    "aspect_ratio_factor": "The eye patches exhibit an oval/teardrop shape with a vertical elongation significantly greater than the horizontal width.",
+    "inferior_centroid_shift": "The patches display a pronounced inferior taper, with the geometric mass concentrated in the superior two-thirds of the patch area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The black band across the shoulders is wide, occupying approximately the same vertical visual space as the head height at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The dark semicircular ear regions are separated by a wide gap across the white cranial fur, roughly equal to 1.5 times the horizontal width of one ear.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, continuous semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

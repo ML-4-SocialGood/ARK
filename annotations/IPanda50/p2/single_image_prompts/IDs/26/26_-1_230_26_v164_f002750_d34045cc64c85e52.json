@@ -1,0 +1,19 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented at approximately a 45-degree angle downward toward the rostrum.",
+    "aspect_ratio_factor": "The visible eye patch exhibits an elongated oval geometry with the vertical length notably exceeding the horizontal width.",
+    "inferior_centroid_shift": "There is a pronounced downward tapering effect on the visible patch, with pigmentation extending significantly toward the lower muzzle.",
+    "dominant_axis_orientation_right": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "The posterior boundary of the dark band displays a broad, smooth U-shape across the dorsal midline.",
+    "normalized_band_thickness": "The dark band occupies approximately 40-50% of the visible upper torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned with a wide lateral gap, roughly 1.5 to 2 times the width of an individual pinna.",
+    "apex_contour_smoothness": "The cranial pinnae exhibit smooth, convex, and perfectly rounded apex contours."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A sharp diagonal occlusion caused by a green bamboo stalk and its shadow bisects the right side of the face."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation angled approximately 45 degrees downward toward the snout.",
+    "aspect_ratio_factor": "Ovoid shape with the longitudinal axis significantly greater than the transverse axis.",
+    "inferior_centroid_shift": "Clear downward elongation resulting in a teardrop-like taper at the base of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The band is thick, occupying approximately 35% of the visible dorsal-ventral span."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Spatially separated by a distance roughly twice the width of a single ear.",
+    "apex_contour_smoothness": "Consistent rounded semicircular curvature at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

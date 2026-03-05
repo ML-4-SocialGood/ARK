@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at an approximate 45-degree angle relative to the sagittal plane of the face, sloping towards the lower mandible.",
+    "aspect_ratio_factor": "Elongated oval morphology with a visible length-to-width ratio of approximately 1.7:1.",
+    "inferior_centroid_shift": "Pronounced tapering at the ventral-posterior margin, shifting the geometric center upwards relative to the lowest visible point of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior profile with a wide, flat transition across the spinal midline.",
+    "normalized_band_thickness": "The dark band is substantial, covering approximately 30% of the visible dorsal-lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": null
+  },
+  "acquired_anomalies_or_scars": "Extensive region of thinning fur and brownish-red discoloration/staining on the posterior-lateral flank and lower dorsal area.",
+  "other_distinctive_markers": "Inverted head position relative to the torso axis; exposure of the oral cavity, including teeth and tongue, due to open-mouth posture."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis of the visible left patch is oriented vertically with a slight forward-leaning oblique angle relative to the facial midline.",
+    "aspect_ratio_factor": "Distinctly oval, exhibiting a high vertical-to-horizontal aspect ratio.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape profile at the posterior margin of the band across the spine.",
+    "normalized_band_thickness": "The dark band occupies approximately 30-35% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant lateral gap between pinnae, approximately 1.5 times the width of an individual ear.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular apex on the visible pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dorsal band exhibits a predominantly vertical and straight profile, characteristic of a flat U-shape with negligible curvature.",
+    "normalized_band_thickness": "The transverse dark band is high-contrast and wide, occupying approximately 30 percent of the visible longitudinal torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The dark ear regions are positioned at the lateral edges of the cranium with a distinct wide gap approximately twice the width of a single ear base.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, convex, and semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

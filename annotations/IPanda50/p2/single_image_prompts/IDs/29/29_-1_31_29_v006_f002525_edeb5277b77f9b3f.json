@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, angled approximately 45 degrees downward toward the muzzle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Oval, with a vertical elongation resulting in a height approximately 1.5 times the width.",
+    "inferior_centroid_shift": "Distinct downward tapering at the medial-inferior corner, shifting the geometric center toward the nasal region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High thickness, covering approximately 40 percent of the visible vertical torso from the shoulder line."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between ears is approximately 1.5 times the horizontal width of a single ear region.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular apex profile with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

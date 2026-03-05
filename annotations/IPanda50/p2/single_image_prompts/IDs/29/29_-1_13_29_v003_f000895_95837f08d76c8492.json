@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are oriented diagonally downwards and outwards at approximately 45 degrees relative to the horizontal facial midline.",
+    "aspect_ratio_factor": "Highly elongated oval morphology with a width-to-height ratio approximately 2:1.",
+    "inferior_centroid_shift": "Visible tapering and extension towards the lower-outer corners, shifting the visual mass away from the medial axis."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shape profile with minimal curvature along the posterior boundary visible across the shoulder region.",
+    "normalized_band_thickness": "Significant thickness extending down the lateral flanks, occupying nearly 40% of the visible vertical torso profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation distance roughly equivalent to 1.5 times the width of a single ear unit.",
+    "apex_contour_smoothness": "Uniformly rounded convex curvature at the ear apices with no observable flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant yellowish-brown chromatic shift in the ventral and lower torso fur compared to the high-luminance white fur on the cranium."
+}

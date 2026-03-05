@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the black eye patches are oriented at approximately a 45-degree inward diagonal tilt toward the muzzle.",
+    "aspect_ratio_factor": "The eye patches exhibit an elongated oval morphology with a vertical major axis; height-to-width ratio is approximately 1.5:1.",
+    "inferior_centroid_shift": "The patches show pronounced downward tapering, with a significant reduction in width at the lowest point relative to the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band at the lateral flanks is thick, covering approximately 35% of the visible vertical torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are set wide apart, with an inter-pinna gap approximately equal to the horizontal width of one ear region.",
+    "apex_contour_smoothness": "The top boundaries of the ears exhibit a smooth, continuous convex curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A prominent area of dark brown/yellowish fur staining is visible on the lower ventral midline near the groin region."
+}

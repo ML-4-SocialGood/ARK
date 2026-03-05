@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the band displays a flat U-shape with a smooth, nearly horizontal boundary across the spine.",
+    "normalized_band_thickness": "The dark band is moderately thick, representing approximately 15% of the total visible longitudinal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely spaced with a gap roughly equivalent to 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "The visible ear tops exhibit a smooth, semi-circular rounded curvature."
+  },
+  "acquired_anomalies_or_scars": "Extensive brownish-red discoloration is visible across the posterior white fur region; a small, dark circular indentation is present on the lower right haunch.",
+  "other_distinctive_markers": "High degree of contrast between the pristine white fur of the upper dorsal region and the heavily soiled/discolored fur on the lower back."
+}

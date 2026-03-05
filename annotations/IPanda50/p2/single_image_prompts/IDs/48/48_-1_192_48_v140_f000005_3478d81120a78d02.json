@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": "The visible right periocular patch exhibits an elongated oval morphology with a longitudinal axis longer than its transverse width.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band follows a wide, shallow U-shaped curve across the dorsal midline.",
+    "normalized_band_thickness": "The dark band is thick and prominent, occupying approximately 30% of the visible longitudinal span of the torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide white cranial gap exists between the black ear regions, though the left ear is partially occluded by the vertical post.",
+    "apex_contour_smoothness": "The visible top boundary of the right ear exhibits a smooth, rounded semi-circular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Five distinct, sharp, light-colored claws are clearly visible on the distal end of the extended front-left limb."
+}

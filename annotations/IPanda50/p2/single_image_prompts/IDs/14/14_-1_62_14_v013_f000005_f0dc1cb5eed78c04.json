@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, tilted approximately 70 degrees relative to the horizontal facial axis, converging towards the muzzle.",
+    "aspect_ratio_factor": "Vertical oval, with a width-to-height ratio of approximately 0.6:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering, with the lower extremity extending further from the geometric center than the superior boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape curvature visible on the posterior boundary where the black band meets the white dorsal fur.",
+    "normalized_band_thickness": "Thick transverse band, occupying approximately 35% of the visible vertical torso region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large gap, approximately 1.5 times the lateral width of a single ear region.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular apex contours."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Active manipulation of a bamboo culm within the mouth; visible lower dentition and tongue."
+}

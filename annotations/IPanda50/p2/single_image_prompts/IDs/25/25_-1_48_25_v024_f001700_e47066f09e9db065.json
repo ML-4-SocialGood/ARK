@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "approximately 45-degree diagonal tilt oriented downward toward the midline of the snout",
+    "aspect_ratio_factor": "vertically elongated oval with a height-to-width ratio of roughly 1.5 to 1",
+    "inferior_centroid_shift": "pronounced downward taper with the lowest point of the patch extending significantly below the geometric center"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "shallow U-shaped posterior boundary with a smooth transition across the spinal region",
+    "normalized_band_thickness": "broad coverage occupying approximately 40 percent of the visible dorsal-lateral torso height"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "wide lateral separation with a white cranial gap approximately 2.5 times the width of an individual ear base",
+    "apex_contour_smoothness": "smoothly rounded semicircular apex with no visible flattening"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

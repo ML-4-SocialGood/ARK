@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The right eye patch exhibits an approximately 45-degree downward tilt toward the rostrum relative to the horizontal midline.",
+    "aspect_ratio_factor": "The visible eye patch is distinctly oval and elongated, with a length-to-width ratio estimated at 1.8:1.",
+    "inferior_centroid_shift": "There is a visible tapering and downward extension of the patch toward the snout's lower lateral margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The black ear regions are separated by a white cranial gap approximately 1.5 times the width of an individual pinna.",
+    "apex_contour_smoothness": "The superior boundaries of the ears are uniformly convex and rounded."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at approximately 80 degrees relative to the horizontal snout-to-ear axis.",
+    "aspect_ratio_factor": "The eye patch is a vertically elongated oval with a ratio of approximately 2:1 height to width.",
+    "inferior_centroid_shift": "The patch exhibits a slight downward tapering, with a narrower rounded base compared to the upper region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dorsal band forms a shallow, wide U-shape profile as it wraps across the upper back.",
+    "normalized_band_thickness": "The dark band covers approximately 35% of the visible torso height at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible ear displays a smooth, continuous convex curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A distinct patch of brownish-tinted fur is present in the lower ventral-abdominal region."
+}

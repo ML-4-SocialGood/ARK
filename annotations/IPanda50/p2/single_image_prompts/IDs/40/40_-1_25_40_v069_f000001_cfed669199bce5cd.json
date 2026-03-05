@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape profile along the posterior edge",
+    "normalized_band_thickness": "Approximately 30% of the visible torso height at the lateral flanks"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distinct gap between ears roughly twice the width of a single ear region",
+    "apex_contour_smoothness": "Smoothly rounded convex tops"
+  },
+  "acquired_anomalies_or_scars": "Prominent brownish-yellow staining or soilage on the right posterior pelvic region and tail",
+  "other_distinctive_markers": "Short visible tail with yellowish-brown discoloration"
+}

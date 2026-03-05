@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at a downward diagonal angle toward the snout.",
+    "aspect_ratio_factor": "The eye patch displays an oval morphology with a length-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "A distinct tapering is visible at the ventral-medial boundary of the patch, extending toward the nasal region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior margin of the dark band exhibits a shallow, wide U-shaped curvature.",
+    "normalized_band_thickness": "The dark band is thick and prominent, covering approximately 40% of the visible upper torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap exists between the ear regions, roughly equal to 2.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae are smoothly convex and semicircular."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive brownish-yellow discoloration and matted texture on the ventral and hindquarter fur, coinciding with active water splashing."
+}

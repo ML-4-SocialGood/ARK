@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at a diagonal angle, approximately 45 degrees downward toward the rostrum.",
+    "aspect_ratio_factor": "The eye patch exhibits an elongated oval geometry with a high aspect ratio, noticeably longer along the diagonal axis than its width.",
+    "inferior_centroid_shift": "There is a pronounced downward extension of the patch, with the lower margin tapering significantly below the ocular center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide cranial gap approximately equal to the transverse width of the forehead region.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, convex, semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

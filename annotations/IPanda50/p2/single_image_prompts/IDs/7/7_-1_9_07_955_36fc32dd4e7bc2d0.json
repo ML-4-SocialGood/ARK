@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at a diagonal angle of approximately 45 degrees downward toward the muzzle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch is elongated and oval-shaped with a width significantly greater than its height.",
+    "inferior_centroid_shift": "The patch exhibits a downward taper toward the lower anterior section near the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dorsal band displays a smooth U-shaped curve profile.",
+    "normalized_band_thickness": "The dark band is thick, representing approximately 40 to 50 percent of the visible lateral torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible ear displays a smooth, rounded semicircular apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

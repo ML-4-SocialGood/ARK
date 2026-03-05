@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the eye patches is oriented vertically, with a slight medial tilt toward the snout.",
+    "aspect_ratio_factor": "The patches are distinctly ovoid, exhibiting a high aspect ratio where the vertical height significantly exceeds the horizontal width.",
+    "inferior_centroid_shift": "The patches show a pronounced downward tapering, with the lowest points extending significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band across the shoulders is relatively thick, covering roughly one-third of the visible upper torso height at the lateral margins."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned on the lateral-dorsal corners of the head, separated by a wide expanse of white cranial fur.",
+    "apex_contour_smoothness": "The top boundaries of the ears are rounded, though the perimeter appears slightly irregular due to fur texture."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

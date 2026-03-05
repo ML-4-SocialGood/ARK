@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal downward slope at approximately 45 degrees toward the rostrum",
+    "aspect_ratio_factor": "Elongated oval with vertical length significantly exceeding horizontal width",
+    "inferior_centroid_shift": "Pronounced tapering toward the lower margin of the patch"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shaped curve along the posterior edge",
+    "normalized_band_thickness": "High thickness, occupying roughly 45% of the visible upper torso profile"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant lateral gap across the cranial vault",
+    "apex_contour_smoothness": "Smoothly rounded semicircular apex"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

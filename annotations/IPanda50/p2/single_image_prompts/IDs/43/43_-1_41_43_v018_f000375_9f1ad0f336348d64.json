@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees downward toward the nasal midline",
+    "aspect_ratio_factor": "Elliptical/oval with a length-to-width ratio of approximately 1.8:1",
+    "inferior_centroid_shift": "Pronounced downward tapering; the lowest point is significantly lower than the geometric center"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "Deep V-shape profile at the posterior margin",
+    "normalized_band_thickness": "Approximately 0.35 relative to the visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap, approximately 1.5x individual ear width",
+    "apex_contour_smoothness": "Predominantly rounded with slight flattening on the right-side pinna"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

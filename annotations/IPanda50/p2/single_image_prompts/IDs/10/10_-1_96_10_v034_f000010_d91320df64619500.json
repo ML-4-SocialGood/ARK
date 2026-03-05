@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are oriented at approximately 45 degrees relative to the midline of the face.",
+    "aspect_ratio_factor": "Distinctly oval geometry with a high length-to-width ratio along the dominant axis.",
+    "inferior_centroid_shift": "The patches exhibit a pronounced downward elongation, tapering toward the rostrum to create a teardrop profile."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band shows a relatively flat U-shape across the dorsal surface.",
+    "normalized_band_thickness": "The dark band occupies approximately 30-35% of the visible dorsal-lateral torso region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a broad cranial distance approximately 1.5 times the width of an individual pinna.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae are characterized by a smooth, convex, semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Prominent, sharp, dark-colored claws are clearly visible on the extended left forepaw."
+}

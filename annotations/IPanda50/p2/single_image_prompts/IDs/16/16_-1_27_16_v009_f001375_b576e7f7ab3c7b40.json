@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree angle relative to the horizontal facial axis, sloping downward toward the snout.",
+    "aspect_ratio_factor": "Oval morphology with a width-to-height ratio estimated at 1:1.5.",
+    "inferior_centroid_shift": "Clear downward tapering, with the patch extending significantly lower than its geometric center toward the inner cheek area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Occupies approximately 35% of the visible vertical height of the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the dark ear regions is approximately 1.5 times the horizontal width of a single pinna.",
+    "apex_contour_smoothness": "Uniformly rounded and smooth convex arcs at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

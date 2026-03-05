@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward tilt toward the rostrum relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval; width-to-height ratio approximately 1.5:1 along the primary axis.",
+    "inferior_centroid_shift": "Significant downward tapering with the inferior vertex noticeably distant from the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped curvature along the posterior dorsal boundary.",
+    "normalized_band_thickness": "The band height is roughly 35-40% of the visible lateral torso profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap between ears is approximately equal to 1.2x the horizontal width of the pinna base.",
+    "apex_contour_smoothness": "High smoothness; the apex of each pinna is distinctly semicircular and rounded."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

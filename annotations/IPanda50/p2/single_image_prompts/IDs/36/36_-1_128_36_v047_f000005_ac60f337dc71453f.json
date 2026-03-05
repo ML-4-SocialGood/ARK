@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 50 degrees relative to the snout-to-ear axis, sloping downward towards the muzzle.",
+    "aspect_ratio_factor": "Ovoid shape with a vertical elongation, estimated at a 1.4:1 height-to-width ratio.",
+    "inferior_centroid_shift": "Pronounced downward tapering where the patch volume extends significantly below the horizontal midpoint."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior edge with a slight asymmetrical slant toward the left flank.",
+    "normalized_band_thickness": "Thickness accounts for approximately 40% of the visible dorsal length from the neck to the lower back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-ear gap is approximately 1.5 times the width of the base of the left ear.",
+    "apex_contour_smoothness": "The distal boundaries of the pinnae exhibit a smooth, semi-circular curvature without flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

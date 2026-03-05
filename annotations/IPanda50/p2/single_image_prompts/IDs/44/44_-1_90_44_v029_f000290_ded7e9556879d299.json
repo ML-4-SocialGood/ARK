@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at a downward diagonal angle of approximately 45 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval geometry with the vertical axis significantly exceeding the horizontal width.",
+    "inferior_centroid_shift": "The patch exhibits a pronounced downward taper toward the muzzle, creating a teardrop-like effect where the lower boundary is more acute than the upper."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the transverse dark band displays a shallow, wide U-shaped curvature across the upper torso.",
+    "normalized_band_thickness": "The dark band occupies approximately 30-35% of the visible vertical height of the torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ear regions are positioned at the lateral extremes of the cranium with a wide inter-pinna gap relative to the head width.",
+    "apex_contour_smoothness": "The cranial pinnae exhibit a smooth, semi-circular curvature along their superior boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The ventral fur shows significant brownish-yellow pigmentation, contrasting with the higher-reflectance white fur of the cranium."
+}

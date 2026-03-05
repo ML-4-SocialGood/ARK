@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented at approximately 60 degrees relative to the horizontal facial axis, dipping towards the snout.",
+    "aspect_ratio_factor": "Oval morphology with vertical elongation.",
+    "inferior_centroid_shift": "Significant downward taper with the lowest point extending well below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, flat U-shape curve along the posterior boundary.",
+    "normalized_band_thickness": "Band thickness occupies approximately 30% of the visible vertical torso profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap, approximately 1.5 times the width of a single ear unit.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular apex contour."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

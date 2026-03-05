@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are oriented diagonally at approximately 45 degrees, descending towards the medial line of the muzzle.",
+    "aspect_ratio_factor": "The patches exhibit an oval morphology with a vertical-to-horizontal aspect ratio of approximately 1.4:1.",
+    "inferior_centroid_shift": "There is a visible downward taper in the patch geometry, with the lower extremity narrowing as it approaches the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned on the far lateral margins of the cranial apex, separated by a wide transverse gap of white fur.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae are uniformly rounded and semicircular without visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

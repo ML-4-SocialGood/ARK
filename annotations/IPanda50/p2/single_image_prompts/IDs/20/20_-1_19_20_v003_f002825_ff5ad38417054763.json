@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation angled approximately 45 degrees downward toward the medial facial axis.",
+    "aspect_ratio_factor": "Oval morphology with vertical elongation visible in both patches.",
+    "inferior_centroid_shift": "Distinct downward tapering effect where the lowest point of the patch extends significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral spacing with a visible white cranial gap approximately twice the width of a single ear region.",
+    "apex_contour_smoothness": "Smooth, semicircular convex curvature across the superior boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

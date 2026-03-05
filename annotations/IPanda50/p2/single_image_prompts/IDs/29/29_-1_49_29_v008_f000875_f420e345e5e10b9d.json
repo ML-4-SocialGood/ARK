@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 60-70 degrees relative to the horizontal facial axis, oriented downwards towards the rostrum.",
+    "aspect_ratio_factor": "Strongly oval with a vertical elongation; the height-to-width ratio is significantly greater than 1.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the inferior margin extending significantly below the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve at the posterior margin as it transitions to the white lumbar region.",
+    "normalized_band_thickness": "Moderately thick, spanning approximately 35% of the visible dorsal length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The horizontal gap between the ear bases is approximately equal to the width of one ear unit.",
+    "apex_contour_smoothness": "Irregularly rounded with a slightly pointed/tufted apex rather than a perfect semicircle."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

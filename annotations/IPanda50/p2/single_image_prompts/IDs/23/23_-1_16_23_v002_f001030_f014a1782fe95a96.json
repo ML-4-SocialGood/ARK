@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique tilt of approximately 45-60 degrees relative to the horizontal facial axis, converging toward the snout.",
+    "aspect_ratio_factor": "Vertically elongated irregular oval with a height-to-width ratio greater than 1.",
+    "inferior_centroid_shift": "Visible downward tapering toward the lower boundary of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curvature on the posterior edge.",
+    "normalized_band_thickness": "High thickness, covering approximately one-third of the visible upper torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between ears, approximately spanning the width of the skull's crown.",
+    "apex_contour_smoothness": "Distinctly pointed apices with minimal rounding."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

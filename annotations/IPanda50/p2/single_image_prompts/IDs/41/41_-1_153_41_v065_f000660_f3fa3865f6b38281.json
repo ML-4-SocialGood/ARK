@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertically elongated, approximately 85 degrees relative to the transverse eye-line axis.",
+    "aspect_ratio_factor": "High elongation, distinctly oval shape with a width-to-height ratio of approximately 1:2.",
+    "inferior_centroid_shift": "Significant downward tapering, with the majority of the blob mass concentrated below the ocular center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Thick transverse band, occupying approximately 35-40% of the visible upper torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation, with a gap approximately equal to 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "Semicircular and rounded apex with no visible flattening or jaggedness."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant chromogenic yellowing of the abdominal and lower thoracic fur relative to the white cranial fur."
+}

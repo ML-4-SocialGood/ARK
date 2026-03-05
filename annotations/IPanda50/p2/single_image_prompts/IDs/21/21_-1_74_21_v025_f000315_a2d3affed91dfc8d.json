@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band thickness on the visible left flank is approximately 25% of the total torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the medial boundaries of the ears is approximately equal to the width of one ear.",
+    "apex_contour_smoothness": "The superior boundaries of the ears are rounded and smooth."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

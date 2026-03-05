@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees downward relative to the horizontal axis of the rostrum.",
+    "aspect_ratio_factor": "Oval-ellipsoid geometry with a visual length-to-width ratio of approximately 2:1.",
+    "inferior_centroid_shift": "Pronounced anterior-inferior tapering towards the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped curvature on the posterior boundary of the dark band.",
+    "normalized_band_thickness": "Wide, occupying approximately 35 percent of the visible dorsal segment length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear gap between ears, approximately 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular apex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

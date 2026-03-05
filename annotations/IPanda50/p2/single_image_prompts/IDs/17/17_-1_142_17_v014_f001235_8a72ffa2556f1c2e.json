@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is vertically oriented with a slight medial tilt toward the snout region.",
+    "aspect_ratio_factor": "Elongated oval blobs with a high height-to-width ratio.",
+    "inferior_centroid_shift": "Visible downward tapering effect with the lowest point clearly extending below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band covers approximately one-third of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide white cranial gap is visible, separating the two dark ear regions.",
+    "apex_contour_smoothness": "Convex, rounded upper ear boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

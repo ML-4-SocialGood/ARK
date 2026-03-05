@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible left eye patch is oriented at a diagonal angle of approximately 45 degrees downward toward the muzzle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch exhibits an elongated oval geometry with a length-to-width ratio of approximately 2:1.",
+    "inferior_centroid_shift": "Visible downward tapering where the patch extends significantly below the horizontal midline of the eye toward the cheek."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band follows a flat U-shape with no deep V-shaped indentation at the spine.",
+    "normalized_band_thickness": "The transverse dark band is broad, occupying approximately 35% of the visible dorsal-lateral torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The dark ear regions are separated by a wide cranial gap roughly equal to the transverse width of one ear.",
+    "apex_contour_smoothness": "The tops of the ears are predominantly rounded with a subtle horizontal flattening at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is captured in an open-mouth posture, making the internal oral cavity and dentition clearly visible."
+}

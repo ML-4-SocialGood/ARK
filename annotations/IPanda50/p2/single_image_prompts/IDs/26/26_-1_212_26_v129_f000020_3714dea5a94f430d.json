@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right periocular patch is oriented at an oblique angle of approximately 45 degrees relative to the horizontal facial axis, sloping downwards towards the rostrum.",
+    "aspect_ratio_factor": "The patch exhibits an elongated oval profile with an estimated width-to-height ratio of 1.7:1.",
+    "inferior_centroid_shift": "The patch displays a pronounced downward taper, with the lowest vertex situated significantly below the geometric center of the overall black pixel mass."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark transverse band presents a broad, shallow U-shaped curvature across the dorsal midline.",
+    "normalized_band_thickness": "The dark band maintains a vertical thickness of approximately 30 percent of the visible torso height at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The dark semicircular ear regions are separated by a cranial gap approximately 2.5 times the horizontal width of a single pinna base.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, continuous convex curvature forming a regular semicircular arc."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The white fur on the upper dorsal and posterior regions displays a distinct reddish-brown chromatic variation compared to the white fur on the cranial region."
+}

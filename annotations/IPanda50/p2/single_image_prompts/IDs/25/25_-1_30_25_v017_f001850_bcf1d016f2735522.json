@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape profile along the posterior boundary of the transverse dark band.",
+    "normalized_band_thickness": "The dark band constitutes approximately 40-50% of the visible dorsal-torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct medial gap of white fur separates the two dark semicircular ear regions.",
+    "apex_contour_smoothness": "Smooth, convex curvature on the superior margins of both pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible eye patches are oriented diagonally at approximately a 45-degree angle relative to the sagittal plane of the face.",
+    "aspect_ratio_factor": "The eye patches exhibit an oval morphology with an estimated width-to-height ratio of 1.5:1.",
+    "inferior_centroid_shift": "The patches show a clear downward tapering, with the lower margin extending significantly further from the geometric center than the upper margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ear regions are separated by a wide white cranial gap approximately 1.5 times the horizontal width of a single pinna.",
+    "apex_contour_smoothness": "The superior boundaries of the ears exhibit a smooth, continuous convex semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

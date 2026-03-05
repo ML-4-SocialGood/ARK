@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at a steep diagonal angle, approximately 75 degrees relative to the sagittal plane of the snout.",
+    "aspect_ratio_factor": "The eye patch exhibits an elongated oval morphology with a visible height-to-width ratio of approximately 1.8:1.",
+    "inferior_centroid_shift": "The patch displays a pronounced inferior taper, with the pixel density concentrated in the upper two-thirds, creating a teardrop effect toward the lower snout region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the transverse band exhibits a wide, shallow U-shaped profile across the dorsal midline.",
+    "normalized_band_thickness": "The dark band occupies approximately 35-40% of the visible torso height when measured at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible right ear shows a continuous, smooth semicircular curvature at the apex with no discernible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

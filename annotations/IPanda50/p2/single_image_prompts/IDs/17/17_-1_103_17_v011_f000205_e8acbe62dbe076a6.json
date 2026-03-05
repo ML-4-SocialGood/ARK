@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, approximately 60 degrees relative to the horizontal facial axis, sloping downward toward the snout.",
+    "aspect_ratio_factor": "Elongated oval with a height-to-width ratio of approximately 2:1.",
+    "inferior_centroid_shift": "Significant downward taper with the lowest point extending well below the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Thick; the dark band occupies approximately 45% of the visible torso height in the current sitting posture."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap, approximately 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "Smooth, rounded parabolic curvature at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced reddish-brown fur coloration throughout the lower abdominal and pelvic region, contrasting with standard white fur."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees downward toward the rostrum, though partially obscured by motion blur.",
+    "aspect_ratio_factor": "Vertically elongated oval shape with a height-to-width ratio of approximately 1.4:1.",
+    "inferior_centroid_shift": "Significant downward tapering creating a teardrop effect with the ventral-most point extended well below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape with a relatively flat posterior boundary across the shoulder blades.",
+    "normalized_band_thickness": "Substantial thickness, covering approximately 35% of the visible torso height at the lateral margins."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation with a broad white sagittal region between the ear bases.",
+    "apex_contour_smoothness": "Smooth, rounded semicircular apex on both visible pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant yellow-brown discoloration/staining present on the ventral fur and lower hind limbs compared to the white fur on the head."
+}

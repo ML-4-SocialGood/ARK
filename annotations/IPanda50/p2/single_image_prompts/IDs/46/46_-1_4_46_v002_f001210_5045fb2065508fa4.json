@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, sloping downward from the nasal region toward the lower cheek at approximately 45 degrees.",
+    "aspect_ratio_factor": "Elongated oval; the vertical axis of the patch is noticeably longer than its width.",
+    "inferior_centroid_shift": "Visible downward extension below the eye, creating a teardrop-like taper toward the inferior-lateral boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape; the posterior edge of the band across the shoulder region shows a broad, gentle curve.",
+    "normalized_band_thickness": "High thickness; the band occupies approximately 35% of the visible torso length from the neck to the lower back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation; the ears are positioned at the lateral extremes of the white cranial crown.",
+    "apex_contour_smoothness": "Rounded; the top margins of the ears exhibit a smooth, semicircular convex profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

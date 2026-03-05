@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 70 to 80 degrees relative to the horizontal facial axis, tilting outward from the midline.",
+    "aspect_ratio_factor": "Oval-shaped with a vertical elongation; height appears approximately 1.5 to 2 times the width.",
+    "inferior_centroid_shift": "Distinct downward tapering towards the lower interior edge, with the lowest point clearly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve profile along the posterior edge of the dark band.",
+    "normalized_band_thickness": "Moderately thick, occupying approximately 25-30% of the visible dorsal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between the ears, with the inter-ear distance approximately 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Highly rounded and smooth parabolic curvature at the top boundary of both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

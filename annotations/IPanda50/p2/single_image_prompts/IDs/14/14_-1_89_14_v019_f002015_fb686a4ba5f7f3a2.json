@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is near-vertical, oriented approximately 80 degrees relative to the horizontal axis of the muzzle.",
+    "aspect_ratio_factor": "Pronounced vertical oval, where the height of the patch significantly exceeds the width.",
+    "inferior_centroid_shift": "The patch exhibits a subtle downward tapering, with the lowest point shifted vertically below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible ear displays a smooth, continuous convex curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Elongated and coarse fur texture visible in the sub-mandibular and cervical regions."
+}

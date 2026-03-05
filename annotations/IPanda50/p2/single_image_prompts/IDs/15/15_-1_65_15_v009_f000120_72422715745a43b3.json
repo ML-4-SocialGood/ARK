@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique inward-downward orientation at approximately 45 degrees relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "Vertically elongated ovoids with a height-to-width ratio of roughly 1.4:1.",
+    "inferior_centroid_shift": "Marked downward elongation with the lowest point positioned significantly below the vertical center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide-set positioning with an inter-ear gap approximately 1.5 to 2 times the width of a single pinna.",
+    "apex_contour_smoothness": "Smooth, convex semicircular curvature along the superior margin."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

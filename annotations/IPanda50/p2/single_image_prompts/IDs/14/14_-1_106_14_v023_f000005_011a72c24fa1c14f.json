@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are angled inwardly and downwardly at approximately 45 degrees relative to the horizontal facial plane, converging towards the muzzle.",
+    "aspect_ratio_factor": "Vertical oval morphology where the height of the patch significantly exceeds its width.",
+    "inferior_centroid_shift": "Distinct downward tapering at the base of the patches, extending the lower margin significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Broad vertical thickness at the lateral shoulder regions, occupying approximately 40% of the visible upper torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide horizontal separation between the ears, roughly equivalent to the width of the forehead.",
+    "apex_contour_smoothness": "Uniformly rounded semicircular curvature at the top boundary of both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-yellow fur staining is visible across the ventral abdominal and lower thoracic regions."
+}

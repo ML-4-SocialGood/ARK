@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the eye patches is oriented obliquely, roughly 30 degrees relative to the vertical facial midline, slanting towards the ears.",
+    "aspect_ratio_factor": "Distinctly oval with a high vertical-to-horizontal aspect ratio.",
+    "inferior_centroid_shift": "Visible tapering toward the muzzle, creating a downward-pointing teardrop effect."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve along the posterior edge where the black fur meets the white dorsal fur.",
+    "normalized_band_thickness": "Broad band thickness, occupying approximately 35% of the visible torso length along the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation between ears, approximately equal to 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular apex with no visible irregularities."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Highly visible digital claws on both the forepaws and hindpaws due to the animal's prone/supine orientation."
+}

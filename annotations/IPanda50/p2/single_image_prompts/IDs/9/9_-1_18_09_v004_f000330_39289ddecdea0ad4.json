@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Anterior-inferior orientation, angled approximately 30 degrees downward relative to the snout-to-ear axis.",
+    "aspect_ratio_factor": "Elongated ovaloid blob, significantly longer along the primary axis than its width.",
+    "inferior_centroid_shift": "Pronounced tapering extending anteriorly towards the rostrum, creating a teardrop shape that extends significantly below the ocular center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve profile visible at the posterior boundary where the black thoracic band meets the white dorsal fur.",
+    "normalized_band_thickness": "Band occupies approximately 45 percent of the visible lateral torso area between the neck and the mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-pinna gap is approximately equal to the visible lateral width of the cranial vault between the ear bases.",
+    "apex_contour_smoothness": "The visible right pinna exhibits a smooth, continuous semicircular curvature at the apex with no visible notches."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

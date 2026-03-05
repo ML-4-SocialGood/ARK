@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation approximately 45 degrees downward from the horizontal axis towards the muzzle.",
+    "aspect_ratio_factor": "Oval morphology with a vertical primary axis longer than the horizontal secondary axis.",
+    "inferior_centroid_shift": "Visible tapering at the inferior-most boundary of the left eye patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide U-shaped curvature on the posterior boundary of the dark transverse band.",
+    "normalized_band_thickness": "Thick band extending roughly one-third of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant separation distance between ears across the white cranial fur.",
+    "apex_contour_smoothness": "Smooth, consistently rounded semicircular top boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees relative to the sagittal plane, sloping toward the rostrum.",
+    "aspect_ratio_factor": "Oval morphology with a width-to-height ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Visible tapering at the inferior-medial margin, creating a teardrop-shaped profile."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shaped profile with a smooth curvature across the posterior edge.",
+    "normalized_band_thickness": "The dark band occupies approximately 35% of the visible longitudinal torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant gap, approximately 1.8 times the horizontal width of a single pinna.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular apex with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Vivid pink tongue extended and visible in the lower foreground interacting with the paw/substrate."
+}

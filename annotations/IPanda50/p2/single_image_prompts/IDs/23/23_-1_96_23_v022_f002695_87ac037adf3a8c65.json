@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique downward angle of approximately 45 degrees relative to the snout-to-ear axis.",
+    "aspect_ratio_factor": "Elongated ovoid morphology with a width-to-height ratio greater than 1.5:1.",
+    "inferior_centroid_shift": "Visual tapering observed toward the ventral-anterior margin of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve across the posterior margin of the band.",
+    "normalized_band_thickness": "Approximately 30-35% of the visible dorsal-to-ventral torso height at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Broad medial separation, spanning most of the visible cranial width.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular profile at the superior-most boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

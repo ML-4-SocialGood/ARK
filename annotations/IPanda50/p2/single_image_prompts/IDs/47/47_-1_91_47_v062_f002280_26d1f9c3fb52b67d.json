@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are angled approximately 45 degrees inward toward the snout.",
+    "aspect_ratio_factor": "The patches exhibit an elongated oval morphology with a vertical-to-horizontal ratio of roughly 1.6:1.",
+    "inferior_centroid_shift": "There is a pronounced downward and medial tapering of the patches toward the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The single fully visible ear displays a smooth, rounded semicircular apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject has an open-mouth posture, making the tongue and inner oral cavity visible."
+}

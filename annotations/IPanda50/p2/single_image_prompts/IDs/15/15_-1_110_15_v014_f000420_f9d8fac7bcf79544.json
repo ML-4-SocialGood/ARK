@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 60 degrees relative to the horizontal facial axis, sloping downwards towards the rostrum.",
+    "aspect_ratio_factor": "Elongated oval with a width-to-height ratio of approximately 1:1.7.",
+    "inferior_centroid_shift": "Pronounced downward tapering towards the anterior, shifting the visual mass below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped curve at the posterior boundary.",
+    "normalized_band_thickness": "Occupies approximately 35% of the visible dorsal length from the neck base."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance across the cranium is approximately twice the lateral width of a single ear.",
+    "apex_contour_smoothness": "Asymmetrical curvature with a distinct apex, resulting in a somewhat pointed rather than perfectly rounded top."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the band exhibits a wide, shallow U-shaped curve that is consistent across the dorsal midline.",
+    "normalized_band_thickness": "The dark band is relatively thick, covering approximately 30% of the visible torso length from the shoulder to the mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "There is a significant horizontal gap between the two ears, with a white fur region roughly twice the width of a single ear separating them.",
+    "apex_contour_smoothness": "The top edges of the ears are distinctly rounded and semicircular in profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

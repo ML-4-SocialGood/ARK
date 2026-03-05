@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Relatively flat U-shape with a horizontal posterior boundary edge",
+    "normalized_band_thickness": "High thickness, covering approximately the upper third of the visible torso area"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance approximately equal to 1.5x the width of a single ear base",
+    "apex_contour_smoothness": "High smoothness with a consistent semicircular convex curvature"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is situated behind vertical metal bars causing periodic linear occlusions across the entire dorsal and cranial regions"
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented at a roughly 45-degree angle descending from the ocular region toward the muzzle.",
+    "aspect_ratio_factor": "The eye patch exhibits an elongated oval morphology with a visual width-to-height ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "The patch shows a distinct downward taper, with the inferior margin extending significantly further from the eye center than the superior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The black band at the lateral flank appears robust, occupying approximately one-third of the visible side-profile torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The specimen is captured in a supine posture with the mouth open, making the lower mandibular dentition clearly visible."
+}

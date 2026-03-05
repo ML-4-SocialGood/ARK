@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis is oriented at a diagonal angle of approximately 45 degrees, slanting downwards towards the muzzle.",
+    "aspect_ratio_factor": "The eye patches exhibit an elongated oval shape with a vertical-to-horizontal ratio greater than 1.5:1.",
+    "inferior_centroid_shift": "The patches show a pronounced downward elongation, with the lowest point extending significantly below the horizontal midline of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dorsal band forms a shallow, smooth U-shape curve across the spine.",
+    "normalized_band_thickness": "The band is relatively wide, covering approximately 30% of the visible torso from the shoulder to the mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are set wide apart on the cranium, separated by a distance roughly twice the width of the base of each ear.",
+    "apex_contour_smoothness": "The superior margins of both ears are uniformly convex and exhibit a smooth, rounded profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Distinct brownish-yellow discoloration is visible across the fur of the hindquarters and lower dorsal region."
+}

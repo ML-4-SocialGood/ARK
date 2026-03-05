@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at approximately a 45-degree angle relative to the facial midline, appearing nearly vertical in the image frame due to the inverted head posture.",
+    "aspect_ratio_factor": "Distinctly ovaloid, with an estimated width-to-height ratio of 1:2 along its primary axis.",
+    "inferior_centroid_shift": "Pronounced tapering toward the rostrum, with the geometric center shifted toward the superior edge of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide U-shaped posterior boundary where the black pigment meets the white fur of the lower back.",
+    "normalized_band_thickness": "The band is relatively thick, occupying approximately 40% of the visible dorsal-lateral torso in this compressed, curled orientation."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible ear exhibits a smooth, continuous convex semicircular curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is displaying an extreme hyper-flexed somatic posture with the cranium inverted and tucked toward the ventral-pelvic region."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented at a downward oblique angle towards the muzzle",
+    "aspect_ratio_factor": "Ovoid geometry where the horizontal length is approximately twice the vertical height",
+    "inferior_centroid_shift": "Visual tapering is present, with the lower boundary extending further toward the snout than the upper boundary"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band exhibits a broad and shallow U-shaped curvature across the shoulders",
+    "normalized_band_thickness": "The dark band occupies approximately 30% of the total visible torso length from the neck to the hindquarters"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide gap, estimated at roughly 1.5 times the width of a single ear",
+    "apex_contour_smoothness": "The upper boundaries of the pinnae are smoothly rounded with no visible flattening or irregular notches"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

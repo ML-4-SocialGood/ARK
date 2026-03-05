@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented at an approximately 45-degree angle downward toward the muzzle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval morphology with an estimated length-to-width ratio of 1.7:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the lowest point of the patch shifted significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped curve along the posterior margin of the dark band.",
+    "normalized_band_thickness": "High thickness, encompassing approximately 40% of the visible torso height at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap, measuring approximately 2.5 times the horizontal width of a single pinna region.",
+    "apex_contour_smoothness": "Consistent, smooth semicircular curvature at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at a approximately 45-degree downward angle relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "The eye patch exhibits an elongated oval geometry with a length-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Significant downward tapering towards the muzzle, creating a teardrop-shaped profile with the bulk of the pigment below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "A broad, shallow U-shaped curvature is visible along the posterior edge of the transverse dark band.",
+    "normalized_band_thickness": "The dark band occupies approximately 30-35% of the visible dorsal-ventral height of the torso at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide, continuous white cranial bridge approximately 1.5 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "The top boundaries of the ears exhibit smooth, convex, semicircular curvatures."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Fur exhibits significant clumping and texture changes consistent with high moisture/rainfall; vertical linear artifacts are visible in the foreground suggesting active precipitation."
+}

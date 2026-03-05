@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation at approximately 45 degrees relative to the horizontal rostral-caudal axis, sloping downward posteriorly.",
+    "aspect_ratio_factor": "Elongated ellipsoid with a longitudinal-to-transverse ratio of approximately 2:1.",
+    "inferior_centroid_shift": "Moderate tapering toward the ventral-posterior margin, shifting the lowest point posterior to the vertical midline of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped posterior boundary with a nearly linear profile across the dorsal midline.",
+    "normalized_band_thickness": "Significant thickness, occupying approximately 35% of the visible longitudinal torso span."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap width is approximately 2.5 times the horizontal basal width of the left pinna.",
+    "apex_contour_smoothness": "Smooth, continuous convex curvature with a rounded apex profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Localized fur matting and saturation visible on the pelvic limbs and ventral-caudal region, likely indicative of moisture contact."
+}

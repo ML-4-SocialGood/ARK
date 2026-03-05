@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible left periocular patch displays an approximately 45-degree downward diagonal orientation toward the rostrum.",
+    "aspect_ratio_factor": "Elongated oval with an estimated width-to-height ratio of 1.6:1.",
+    "inferior_centroid_shift": "Pronounced tapering toward the lower-inner quadrant near the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped profile along the posterior margin.",
+    "normalized_band_thickness": "Relatively thick band, representing approximately 35% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the dark pinna regions is approximately 1.5 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "Smoothly rounded convex curvature at the apex of both visible ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

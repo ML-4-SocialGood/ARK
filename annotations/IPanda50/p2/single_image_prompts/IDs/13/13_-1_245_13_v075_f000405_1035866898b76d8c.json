@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape with a relatively straight posterior boundary across the spine",
+    "normalized_band_thickness": "Narrow band, occupying approximately 10-15% of the visible dorsal torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear gap between ear regions approximately equal to the width of one ear base",
+    "apex_contour_smoothness": "Uniformly convex and rounded semicircular tops"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant yellowish-brown discoloration or staining present on the lower lumbar and rump areas of the white fur"
+}

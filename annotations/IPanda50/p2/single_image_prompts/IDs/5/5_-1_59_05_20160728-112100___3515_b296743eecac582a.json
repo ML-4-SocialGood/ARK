@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-60 degrees downward relative to the horizontal axis of the muzzle.",
+    "aspect_ratio_factor": "Elongated oval with a high vertical-to-horizontal ratio on the visible right patch.",
+    "inferior_centroid_shift": "Pronounced tapering where the patch narrows significantly toward the lower cheek area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary with a wide, flat transition across the spine.",
+    "normalized_band_thickness": "High thickness, covering approximately 35-40 percent of the visible lateral torso profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant cranial gap between ears, separated by a broad white vertex.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular profile with no visible flattening or irregularities."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

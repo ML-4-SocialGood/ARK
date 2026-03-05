@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward diagonal orientation relative to the horizontal facial axis for the visible eye patch.",
+    "aspect_ratio_factor": "Ovoid morphology with a width-to-height ratio of approximately 1.2:1.",
+    "inferior_centroid_shift": "Moderate downward tapering with a visible elongation towards the inferior-medial quadrant."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shaped curvature along the posterior edge of the band.",
+    "normalized_band_thickness": "High; the band occupies approximately 35% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large gap measuring approximately 1.5 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "Smooth, continuous semicircular curvature with no observable flattening at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

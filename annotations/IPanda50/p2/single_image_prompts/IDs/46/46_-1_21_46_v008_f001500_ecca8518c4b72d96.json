@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped profile with a largely horizontal posterior margin.",
+    "normalized_band_thickness": "The dark band occupies roughly one-third of the visible upper torso vertical extent."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distinct gap observed between the medial boundaries of the two dark ear structures.",
+    "apex_contour_smoothness": "The top edges of the visible ears are smoothly rounded without flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

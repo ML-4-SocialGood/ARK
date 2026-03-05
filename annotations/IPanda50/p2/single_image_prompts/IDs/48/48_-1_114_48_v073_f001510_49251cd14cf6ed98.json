@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary longitudinal axes of the eye patches are oriented at approximately 60 degrees relative to the horizontal facial axis, tapering downwards and inwards toward the muzzle.",
+    "aspect_ratio_factor": "The patches exhibit an ovoid geometry with a height-to-width ratio of approximately 1.7:1.",
+    "inferior_centroid_shift": "There is a pronounced downward elongation, with the lowest point of the patch extending significantly below the horizontal midline of the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band at the visible lateral shoulder junction occupies approximately 30 percent of the vertical height of the visible torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the medial edges of the ears is approximately 1.8 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, unbroken semi-circular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Distinct yellowish-brown chromatic saturation is present in the fur of the ventral and lower abdominal regions, contrasting with the high-value white fur of the cranium."
+}

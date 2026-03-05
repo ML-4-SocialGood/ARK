@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape profile along the posterior edge of the transverse band",
+    "normalized_band_thickness": "Approximately 0.20 of the visible torso height"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant lateral separation between the dark ear patches relative to head width",
+    "apex_contour_smoothness": "Smoothly rounded apex visible on the right ear boundary"
+  },
+  "acquired_anomalies_or_scars": "Large reddish-brown vertical discoloration covering the sacral region and tail",
+  "other_distinctive_markers": "Pervasive yellowish-tan hue across all typically white fur regions"
+}

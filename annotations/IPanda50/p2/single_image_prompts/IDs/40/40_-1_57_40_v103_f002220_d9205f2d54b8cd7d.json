@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the superior eye patch is oriented at approximately a 40-degree angle descending toward the snout, while the inferior patch is nearly horizontal.",
+    "aspect_ratio_factor": "The patches exhibit an elongated ovoid geometry with an estimated 1.5:1 width-to-height ratio.",
+    "inferior_centroid_shift": "A distinct downward tapering is visible on the inner-ventral portion of the eye patches."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the black band shows a wide, smooth U-shaped curvature across the lateral profile.",
+    "normalized_band_thickness": "The band occupies approximately 30-40% of the visible vertical height of the upper torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-pinna gap is significant, estimated at twice the width of a single ear's base.",
+    "apex_contour_smoothness": "The top edges of the ears are distinctly rounded and semi-circular."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, angled approximately 40 degrees downward relative to the cranial horizontal axis.",
+    "aspect_ratio_factor": "Elongated oval shape with a visible major-to-minor axis ratio of approximately 2:1.",
+    "inferior_centroid_shift": "Moderate downward tapering at the anterior-inferior edge."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape with a nearly linear posterior boundary across the dorsal midline.",
+    "normalized_band_thickness": "Band width accounts for approximately 30% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear separation between the two black pinnae, with an intervening white fur gap roughly 1.5 times the width of one pinna base.",
+    "apex_contour_smoothness": "Symmetrically rounded convex apexes."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The torso pelage exhibits significant yellowish-brown staining, contrasting with the whiter cranial fur."
+}

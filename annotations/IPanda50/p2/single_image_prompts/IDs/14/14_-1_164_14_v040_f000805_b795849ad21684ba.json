@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical-oblique orientation, angled approximately 70 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval; estimated height-to-width ratio of 1.5:1.",
+    "inferior_centroid_shift": "Significant downward tapering where the inferior boundary extends noticeably further from the ocular center than the superior boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "The posterior edge of the band displays a shallow, flat U-shaped profile across the shoulders.",
+    "normalized_band_thickness": "Thick band coverage, estimated at 0.4 relative to the visible upper torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between the ear regions, approximately three times the width of a single pinna.",
+    "apex_contour_smoothness": "Smooth, rounded semicircular curvature at the apex of both visible ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Distinct brownish-yellow discoloration of the fur in the ventral/abdominal region."
+}

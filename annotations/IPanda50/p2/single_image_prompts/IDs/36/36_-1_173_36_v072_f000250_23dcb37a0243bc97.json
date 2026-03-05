@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal downward tilt approximately 45 degrees relative to the muzzle axis on the visible right patch.",
+    "aspect_ratio_factor": "Elongated oval with the longitudinal axis significantly greater than the transverse axis.",
+    "inferior_centroid_shift": "Distinct downward taper observed at the lower margin of the visible right ocular patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep U-shape profile at the posterior margin of the transverse band.",
+    "normalized_band_thickness": "Thick band occupying approximately 40-50% of the visible upper dorsal torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear gap between ear regions approximately 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Smoothly convex and rounded curvature at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Presence of a hemispherical metallic object in the immediate lower-right foreground."
+}

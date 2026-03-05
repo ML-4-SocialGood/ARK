@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "approximately 50 degrees downward relative to the horizontal facial axis",
+    "aspect_ratio_factor": "elongated oval with a length-to-width ratio of approximately 2:1",
+    "inferior_centroid_shift": "pronounced downward tapering resulting in a teardrop profile below the geometric center"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "deeply curved posterior edge forming a distinct V-shape at the dorsal midline",
+    "normalized_band_thickness": "thick, occupying approximately 35% of the visible lateral torso height"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "wide gap across the cranial apex approximately equal to the width of one ear region",
+    "apex_contour_smoothness": "smoothly rounded with subtle flattening at the dorsal apex"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "a thin, elongated, light-colored object is held within the oral cavity"
+}

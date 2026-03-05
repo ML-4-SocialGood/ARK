@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the black eye patches are angled downwards and medially toward the snout at approximately 40 to 45 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The patches exhibit an oval geometry where the vertical dimension is notably greater than the horizontal width.",
+    "inferior_centroid_shift": "The patches show a clear downward elongation, with the lowest point tapering toward the muzzle below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the transverse band across the shoulders displays a wide, shallow U-shaped curve.",
+    "normalized_band_thickness": "The band is relatively thick, covering approximately 30-35% of the visible dorsal torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are set wide apart with a gap across the cranium roughly equivalent to the lateral width of a single ear.",
+    "apex_contour_smoothness": "The top edges of the pinnae exhibit a smooth, rounded, and convex hemispherical contour."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical primary axis with a slight inward tilt of the inferior margins toward the nasal bridge.",
+    "aspect_ratio_factor": "Elongated oval; the vertical height is approximately 1.6 times the horizontal width.",
+    "inferior_centroid_shift": "The patch narrows significantly at its lowest point, exhibiting a teardrop-like taper that shifts the geometric center upward."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape; the posterior edge of the transverse band across the shoulders follows a broad, gentle curve.",
+    "normalized_band_thickness": "Thick relative height, occupying approximately 35% of the visible dorsal-ventral torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between the ear regions, separated by a broad white cranial vertex.",
+    "apex_contour_smoothness": "Smoothly rounded convex apexes on both visible pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

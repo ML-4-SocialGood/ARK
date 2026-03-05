@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation approximately 45 degrees relative to the sagittal facial midline",
+    "aspect_ratio_factor": "Elongated oval with an estimated 2:1 vertical-to-horizontal ratio",
+    "inferior_centroid_shift": "Visual downward and lateral tapering toward the cheek region"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Significant, covering approximately 50% of the visible upper torso height"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, approximately 1.5 times the width of an individual pinna",
+    "apex_contour_smoothness": "Convex semicircular curvature with smooth, rounded tops"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

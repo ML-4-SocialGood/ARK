@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward tilt relative to the horizontal facial axis, oriented toward the rostrum.",
+    "aspect_ratio_factor": "Elongated oval shape with the major axis significantly exceeding the minor axis.",
+    "inferior_centroid_shift": "Pronounced downward tapering toward the inferior margin, shifting the geometric center toward the superior-posterior region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped curve along the posterior edge of the dark transverse band.",
+    "normalized_band_thickness": "Dorsal band occupies approximately 30-40% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between pinnae, approximately 1.5 times the horizontal width of a single ear region.",
+    "apex_contour_smoothness": "Consistent, smooth semicircular convex curvature at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

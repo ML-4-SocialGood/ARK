@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees downward toward the muzzle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Oval morphology with vertical elongation.",
+    "inferior_centroid_shift": "Distinct downward tapering, with the lowest point of the patch extending significantly below its geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep U-shaped profile on the posterior edge of the transverse band.",
+    "normalized_band_thickness": "Variable thickness, narrowing slightly at the spine and widening significantly at the lateral shoulder regions."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between pinna regions, approximately equal to the horizontal width of the cranial surface between them.",
+    "apex_contour_smoothness": "Smooth, rounded convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

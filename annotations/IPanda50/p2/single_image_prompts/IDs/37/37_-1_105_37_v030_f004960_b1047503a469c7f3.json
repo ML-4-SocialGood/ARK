@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right eye patch is oriented vertically, roughly 85 degrees relative to the muzzle horizontal axis",
+    "aspect_ratio_factor": "Vertical elongated oval with a high height-to-width ratio due to side-profile perspective",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Smooth, wide U-shape along the posterior boundary of the thoracic band",
+    "normalized_band_thickness": "The band occupies approximately 35 percent of the visible upper torso's vertical height"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct gap is visible between the two black ear regions along the cranial crest",
+    "apex_contour_smoothness": "Convex and smoothly rounded semicircular tops"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

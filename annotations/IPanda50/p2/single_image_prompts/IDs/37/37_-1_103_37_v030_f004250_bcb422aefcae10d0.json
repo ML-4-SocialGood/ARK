@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees relative to the horizontal facial axis, sloping downward toward the rostrum.",
+    "aspect_ratio_factor": "Elongated vertical oval with an estimated 1.5:1 height-to-width ratio.",
+    "inferior_centroid_shift": "Pronounced downward elongation where the inferior pole of the patch is significantly lower than the medial eye center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve along the posterior boundary of the dark transverse band.",
+    "normalized_band_thickness": "Substantial thickness, covering approximately 35% of the visible upper torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct gap approximately equal to the horizontal width of one ear region separates the two pinnae.",
+    "apex_contour_smoothness": "Convex and smoothly rounded arcs across the superior boundaries of the ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at an approximate 45-degree downward angle relative to the facial midline.",
+    "aspect_ratio_factor": "Oval morphology with the vertical axis significantly longer than the horizontal axis.",
+    "inferior_centroid_shift": "Distinct downward tapering towards the muzzle, creating an elongated tear-drop effect."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior edge with a relatively straight transverse orientation.",
+    "normalized_band_thickness": "The band occupies approximately 25-30% of the visible length of the torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap between ears is approximately 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "The apex of the ears exhibits a smooth, rounded semicircular profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible sharp, light-colored claws on the posterior limb resting on the wooden log structure."
+}

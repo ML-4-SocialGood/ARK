@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique downward tilt towards the rostrum at approximately 45-degree angle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Vertically elongated oval morphology where the major axis height exceeds the horizontal width.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the lowest point extending significantly below the geometric center of the eye patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curvature on the posterior boundary of the transverse dark band.",
+    "normalized_band_thickness": "Moderate thickness at the lateral flanks, comprising roughly 25-30% of the visible torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant lateral gap between the dark semicircular ear regions across the white cranial vertex.",
+    "apex_contour_smoothness": "Smooth, convex semicircular curvature at the superior apex of the ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

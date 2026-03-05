@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique vertical orientation of the right eye patch, approximately 75 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Distinctly oval morphology with a vertical height approximately twice the horizontal width.",
+    "inferior_centroid_shift": "Pronounced downward tapering of the right eye patch, with the lowest point extending well below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curvature along the posterior edge of the dark transverse band.",
+    "normalized_band_thickness": "The dark band occupies approximately 35% of the visible dorsal torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance between ears is approximately 1.5 times the horizontal width of an individual ear.",
+    "apex_contour_smoothness": "High degree of smoothness with a perfectly rounded convex curvature at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

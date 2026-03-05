@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Near-vertical orientation, approximately 80 degrees relative to the longitudinal axis of the snout.",
+    "aspect_ratio_factor": "Pronounced oval profile with vertical elongation significantly exceeding horizontal width.",
+    "inferior_centroid_shift": "Marked downward tapering where the patch area expands ventrally from the ocular center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary at the transition point between the dark shoulder band and white dorsal fur.",
+    "normalized_band_thickness": "High relative thickness, covering approximately 40-50% of the visible torso height from the lateral perspective."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, roughly equivalent to 1.5 times the maximum width of the right pinna.",
+    "apex_contour_smoothness": "Uniformly smooth, semicircular convex curvature across the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant exposure of the dentition (canines and incisors) resulting from an open-mouth, cephalic-tilt posture."
+}

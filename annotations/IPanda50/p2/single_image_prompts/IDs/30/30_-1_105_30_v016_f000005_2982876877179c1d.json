@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curvature along the posterior boundary of the transverse band",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 25-30% of the visible dorsal-to-caudal torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant gap between the lateralized dark regions across the cranial vault",
+    "apex_contour_smoothness": "Smooth, rounded convex tops visible from the posterior perspective"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced reddish-brown pigmentation or staining on the fur in the lower right posterior/tail region"
+}

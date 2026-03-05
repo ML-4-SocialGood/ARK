@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "The posterior edge of the dark band exhibits a broad, relatively flat U-shaped curve as it transitions into the cream-colored lower back fur.",
+    "normalized_band_thickness": "The band is visually thick, extending from the base of the neck to approximately the mid-dorsal region of the visible torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The dark ear regions are separated by a wide expanse of cream-colored cranial fur, indicating a significant lateral distance.",
+    "apex_contour_smoothness": "The visible top boundary of the ears shows a smooth, rounded semicircular profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

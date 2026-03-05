@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique diagonal orientation with the superior pole positioned laterally and the inferior pole positioned medially.",
+    "aspect_ratio_factor": "Elongated oval profile with a length-to-width ratio significantly greater than 1.0.",
+    "inferior_centroid_shift": "Visible downward tapering toward the rostrum, extending below the horizontal eye line."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped posterior boundary across the scapular region.",
+    "normalized_band_thickness": "Substantial thickness occupying approximately one-third of the visible dorsal-to-caudal torso span."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distinct gap between the medial edges of the dark ear regions relative to total cranial width.",
+    "apex_contour_smoothness": "Smooth, convex semicircular curvature at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

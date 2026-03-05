@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical orientation with a slight inward tilt toward the muzzle, visible on the right eye patch.",
+    "aspect_ratio_factor": "Oval shape with a vertical elongation where height exceeds width.",
+    "inferior_centroid_shift": "Slight downward tapering of the patch below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Thick transverse band occupying approximately one-third of the visible vertical torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral gap between the two black ear regions across the cranial dome.",
+    "apex_contour_smoothness": "Rounded semicircular curvature at the apex of the ears."
+  },
+  "acquired_anomalies_or_scars": "Total absence of black periocular fur around the left eye (viewer's right) revealing pink skin/tissue; prominently visible protruding lower teeth.",
+  "other_distinctive_markers": "Extensive yellowish-brown staining on the white fur of the ventral region and lower neck."
+}

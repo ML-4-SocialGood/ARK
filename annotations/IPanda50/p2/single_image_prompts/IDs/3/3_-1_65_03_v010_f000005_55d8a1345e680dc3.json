@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape along the posterior boundary of the transverse band.",
+    "normalized_band_thickness": "Significant thickness, occupying approximately 35-40% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A clear cranial gap is visible between the dark pinna regions.",
+    "apex_contour_smoothness": "Rounded apex with a slightly asymmetrical, upright orientation."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

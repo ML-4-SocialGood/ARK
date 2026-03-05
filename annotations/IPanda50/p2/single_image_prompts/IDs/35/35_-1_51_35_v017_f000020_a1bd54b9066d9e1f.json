@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Slanted at approximately 45 degrees relative to the snout-to-ear axis, tapering downwards and forwards.",
+    "aspect_ratio_factor": "Elongated oval with a major axis roughly twice the length of the minor axis.",
+    "inferior_centroid_shift": "Distinct downward elongation with a sharp taper toward the anterior ventral margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "Smooth U-shaped posterior boundary along the dorsal spine.",
+    "normalized_band_thickness": "The black transverse band occupies approximately 35-40% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct white cranial gap approximately 1.5 times the width of a single ear is visible between the black pinnae.",
+    "apex_contour_smoothness": "Regularly rounded semicircular top boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

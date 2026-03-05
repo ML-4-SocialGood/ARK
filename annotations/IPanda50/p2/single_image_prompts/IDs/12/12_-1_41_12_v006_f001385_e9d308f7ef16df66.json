@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The right eye patch displays an oblique orientation, approximately 60 degrees relative to the horizontal facial axis, tilting toward the rostrum.",
+    "aspect_ratio_factor": "The eye patches are oval, with a vertical elongation ratio approximately 1.5 times the horizontal width.",
+    "inferior_centroid_shift": "Clear downward tapering present, with the lower terminal point situated below the geometric center of the eye patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band is thick, encompassing approximately 30% of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide white cranial expanse, roughly equal to 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "The ears exhibit a smooth, convex semicircular curvature at their superior boundaries."
+  },
+  "acquired_anomalies_or_scars": "Prominent pinkish-red discolored regions are visible on the abdominal and chest area, possibly indicating sparse fur or skin irritation.",
+  "other_distinctive_markers": null
+}

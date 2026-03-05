@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique diagonal orientation angled downward towards the rostrum.",
+    "aspect_ratio_factor": "Vertical oval morphology with a height-to-width ratio greater than 1.",
+    "inferior_centroid_shift": "Pronounced inferior tapering where the patch narrows significantly at its lowest visible point."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape with a relatively straight posterior margin across the dorsal midline.",
+    "normalized_band_thickness": "High lateral thickness extending approximately one-third the length of the visible torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation distance approximately equal to the width of the cranial vault between the pinnae.",
+    "apex_contour_smoothness": "Smooth, rounded semicircular profile with no visible irregularities."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brownish-yellow chromophore saturation in the white fur across the posterior dorsal and flank regions."
+}

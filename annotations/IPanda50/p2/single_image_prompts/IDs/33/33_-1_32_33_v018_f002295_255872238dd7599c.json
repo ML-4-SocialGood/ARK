@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patches is oriented at approximately a 45-degree downward angle toward the rostrum relative to the horizontal facial midline.",
+    "aspect_ratio_factor": "The patches exhibit an elongated oval morphology with a vertical-to-horizontal aspect ratio estimated at 2:1.",
+    "inferior_centroid_shift": "There is a distinct downward tapering, with the inferior margin of the patch extending significantly lower than the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the transverse band displays a broad, shallow U-shape across the spinal midline.",
+    "normalized_band_thickness": "The band is wide and uniform, occupying approximately 30% of the visible dorsal-caudal span of the torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely set, separated by a distance greater than the width of a single pinna across the cranial crown.",
+    "apex_contour_smoothness": "The superior margins of the ears are highly rounded and semicircular with smooth curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant yellowish-brown discoloration is visible on the posterior white fur of the hindquarters compared to the cleaner white fur of the neck and shoulders."
+}

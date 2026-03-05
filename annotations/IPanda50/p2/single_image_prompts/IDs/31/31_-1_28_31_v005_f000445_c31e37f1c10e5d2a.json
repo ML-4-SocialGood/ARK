@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, approximately 60 degrees relative to the horizontal facial plane, tapering toward the rostrum.",
+    "aspect_ratio_factor": "Vertically elongated oval with a length-to-width ratio significantly greater than 1.",
+    "inferior_centroid_shift": "Pronounced inferior extension resulting in a teardrop-shaped profile with a deep downward taper."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped curve along the posterior margin of the transverse band.",
+    "normalized_band_thickness": "Significant thickness, occupying approximately 35% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, approximately twice the basal width of a single ear region.",
+    "apex_contour_smoothness": "Smooth, uniform semicircular convex curvature at the top boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant yellowish-tan pigmentation present across the posterior dorsal and lateral white fur regions."
+}

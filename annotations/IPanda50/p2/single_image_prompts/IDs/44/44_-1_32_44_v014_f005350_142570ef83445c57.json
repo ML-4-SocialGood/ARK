@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the eye patch is oriented at a downward diagonal angle toward the rostrum, approximately 40 degrees from the inter-ocular line.",
+    "aspect_ratio_factor": "The eye patch is oval-shaped, with a longitudinal length approximately 1.4 times the transverse width.",
+    "inferior_centroid_shift": "A pronounced tapering is visible at the inferior margin, extending the patch significantly toward the lower mandible area relative to its geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "The posterior boundary of the dark transverse band exhibits a shallow U-shaped curve where it meets the white dorsal fur.",
+    "normalized_band_thickness": "The dark band appears to cover approximately one-third of the visible upper torso area at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The black ear regions are separated by a broad white cranial gap roughly twice the width of a single ear.",
+    "apex_contour_smoothness": "The superior margins of the ears demonstrate a smooth, continuous convex curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, oriented at an approximate 45-degree angle downward from the medial to the lateral edge.",
+    "aspect_ratio_factor": "Elongated oval, with the vertical axis significantly longer than the horizontal width.",
+    "inferior_centroid_shift": "Marked downward taper, with the lowest point extending well below the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped curvature along the posterior edge of the band.",
+    "normalized_band_thickness": "Consistent thickness across the spine, representing approximately 25% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide spacing, with a clear white cranial gap between the two black ear patches.",
+    "apex_contour_smoothness": "Smooth, rounded semi-circular profiles at the top of both pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-yellow discoloration of the fur on the hindquarters and lower back area."
+}

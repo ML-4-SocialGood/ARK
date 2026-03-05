@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Near-vertical orientation with a slight anterior tilt toward the rostrum",
+    "aspect_ratio_factor": "Elongated oval with a vertical axis approximately 1.5 times the length of the horizontal axis",
+    "inferior_centroid_shift": "Slight downward tapering observed at the ventral margin of the patch"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shaped profile along the posterior boundary of the dark region",
+    "normalized_band_thickness": "Extends across approximately 40 percent of the visible dorsal-to-ventral torso profile"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distinct gap between the two dark regions approximately equal to the width of a single ear base",
+    "apex_contour_smoothness": "Uniformly convex and rounded superior curvature"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

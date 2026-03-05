@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical-oblique orientation with a visible inward tilt of approximately 15-20 degrees towards the nasal midline at the inferior terminus.",
+    "aspect_ratio_factor": "Elongated ovaloid morphology with a high aspect ratio, where vertical length significantly exceeds horizontal width.",
+    "inferior_centroid_shift": "Pronounced tapering at the ventral margin of the patches, resulting in a geometric center shifted toward the superior half of the blob."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation across the cranial vault, with the distance between pinnae roughly equivalent to the width of the forehead region.",
+    "apex_contour_smoothness": "Consistent semicircular curvature with no visible flattening or irregularities on the superior boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

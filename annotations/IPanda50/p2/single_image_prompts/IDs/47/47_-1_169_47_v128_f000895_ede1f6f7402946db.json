@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis of the visible right eye patch is oriented at approximately a 45-degree angle toward the snout.",
+    "aspect_ratio_factor": "Oval morphology with an estimated aspect ratio of 1.6:1.",
+    "inferior_centroid_shift": "Moderate downward tapering observed toward the anterior edge, shifting the geometric center upward."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shape profile with a relatively flat posterior boundary across the dorsal midline.",
+    "normalized_band_thickness": "Substantial band thickness, comprising approximately 35% of the visible dorsal-to-caudal length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant cranial gap between pinnae, approximately 2.5 times the width of a single ear.",
+    "apex_contour_smoothness": "Smooth, continuous convex curvature with no visible flattening at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Distinct dark pigmentation is visible on the tail, contrasting with the surrounding white pelvic fur."
+}

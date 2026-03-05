@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible eye patch is oriented at a roughly 45-degree angle descending toward the muzzle relative to the facial midline.",
+    "aspect_ratio_factor": "The visible patch exhibits an elongated oval shape with an approximate 2:1 length-to-width ratio.",
+    "inferior_centroid_shift": "Moderate downward tapering is observed at the inferior margin, creating a teardrop-like effect."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Ears are positioned laterally with a wide cranial gap approximately twice the width of the individual pinna.",
+    "apex_contour_smoothness": "Ears exhibit a smooth, continuous semicircular curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Distinct yellowish-brown pelage staining is visible on the fur of the lower chin and throat area."
+}

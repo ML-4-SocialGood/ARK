@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-60 degrees relative to the horizontal facial axis, converging downward toward the muzzle.",
+    "aspect_ratio_factor": "Oval-shaped patches with an elongated vertical-to-horizontal axis ratio.",
+    "inferior_centroid_shift": "Visible downward tapering effect from the geometric center toward the lower orbital margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation positioned at the upper cranial vertices.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular apexes."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

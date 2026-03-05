@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dorsal band exhibits a broad, relatively flat U-shape with minimal vertical deviation across the midline.",
+    "normalized_band_thickness": "The band is wide, occupying approximately 35-40% of the visible vertical torso height at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct gap is visible between the ears, roughly equivalent to 1.5 times the width of a single ear at its widest point.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, convex, semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The anterior edge of the dorsal band (where it meets the neck) features a prominent, sharp V-shaped indentation of white fur pointing toward the caudal region."
+}

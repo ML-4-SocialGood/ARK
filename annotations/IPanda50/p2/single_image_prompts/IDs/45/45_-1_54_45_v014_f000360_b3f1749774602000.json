@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of both patches are oriented obliquely, angled approximately 45 degrees downward toward the snout relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The patches exhibit an ellipsoidal geometry with a vertical-to-horizontal ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "There is a pronounced downward tapering effect toward the inner nasal region, shifting the visual mass below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the transverse band exhibits a shallow, wide U-shape across the dorsal midline.",
+    "normalized_band_thickness": "The band occupies approximately 25-30% of the visible dorsal-ventral torso height at the lateral margins."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely separated by a distance approximately equal to twice the horizontal width of an individual ear.",
+    "apex_contour_smoothness": "The top boundaries of the ears exhibit a smooth, semi-circular curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A vertical green bamboo stalk occludes the right side of the subject's head and torso from the camera's perspective."
+}

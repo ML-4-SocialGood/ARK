@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward tilt toward the muzzle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Vertically oriented oval with an estimated height-to-width ratio of 1.4:1.",
+    "inferior_centroid_shift": "Moderate downward tapering resulting in a teardrop profile."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High thickness, covering approximately 40% of the visible upper torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large gap between ears, exceeding the width of an individual ear structure.",
+    "apex_contour_smoothness": "Uniformly rounded semicircular top boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brownish-yellow ventral staining across the white fur of the chest and abdomen."
+}

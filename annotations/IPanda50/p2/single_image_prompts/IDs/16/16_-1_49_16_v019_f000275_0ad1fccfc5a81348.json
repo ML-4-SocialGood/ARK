@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The right eye patch exhibits a downward diagonal orientation angled toward the muzzle relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "The right eye patch is an elongated oval with a vertical-to-horizontal ratio of approximately 1.5.",
+    "inferior_centroid_shift": "The patch displays a distinct downward taper, with the lower boundary extending significantly further from the eye than the upper boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band at the shoulder area occupies approximately 35% of the visible upper torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the inner edges of the ears is roughly equal to the width of a single ear.",
+    "apex_contour_smoothness": "The tops of the ears exhibit a smooth, convex, semi-circular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Bright white claws are prominently visible and sharply defined on the digits of both hind paws."
+}

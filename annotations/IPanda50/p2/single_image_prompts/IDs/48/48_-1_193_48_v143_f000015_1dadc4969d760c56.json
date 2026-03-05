@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation at approximately 45 degrees relative to the horizontal midline, sloping downwards toward the snout.",
+    "aspect_ratio_factor": "Oval geometry with a width-to-height ratio of approximately 1.5:1 along the dominant axis.",
+    "inferior_centroid_shift": "Slight tapering at the inferior-lateral boundary, creating a non-symmetrical oval profile."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Smooth, wide U-shaped curvature on the posterior boundary of the transverse band.",
+    "normalized_band_thickness": "Relatively consistent thickness across the dorsal plane, approximately 20% of the visible torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant gap between ear regions, situated at the lateral-most points of the cranial vault.",
+    "apex_contour_smoothness": "Continuous semicircular curvature without visible flattening of the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

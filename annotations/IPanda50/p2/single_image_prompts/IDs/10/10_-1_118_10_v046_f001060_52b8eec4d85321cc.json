@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical-oblique orientation, angled approximately 75 degrees relative to the horizontal facial axis, with the top of the patch leaning away from the cranial midline.",
+    "aspect_ratio_factor": "The right eye patch (viewer's right) is an elongated oval with a visual height-to-width ratio of approximately 2:1.",
+    "inferior_centroid_shift": "The patch exhibits an inferior tapering effect, being wider at its upper boundary than its lower boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide cranial gap, approximately twice the lateral width of a single pinna.",
+    "apex_contour_smoothness": "Both ears exhibit smooth, semicircular apex curvatures without visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The specimen is observed with an open mouth revealing teeth; prominent black claws are visible on the raised forepaws."
+}

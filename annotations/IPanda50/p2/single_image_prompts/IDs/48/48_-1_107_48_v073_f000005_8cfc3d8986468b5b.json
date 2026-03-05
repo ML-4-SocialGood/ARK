@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented at approximately a 45-degree angle downward relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval geometry with a width-to-height ratio estimated at 0.6:1.",
+    "inferior_centroid_shift": "The patch exhibits a distinct downward taper toward the muzzle, with the inferior tip extending roughly one-third of the patch's total height below its geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band displays a smooth, flat U-shape curve profile as it transitions down the lateral flank.",
+    "normalized_band_thickness": "The band is prominent, covering approximately 30% of the visible longitudinal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The spatial gap between the medial margins of the ears is approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The superior boundaries of the ears are uniformly rounded with a smooth, semicircular contour."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive yellow-brown chromatic staining is visible on the fur of the lower abdomen and posterior haunch region."
+}

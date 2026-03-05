@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, tilted approximately 45 degrees relative to the horizontal facial midline towards the ventral-medial plane.",
+    "aspect_ratio_factor": "Ovoid morphology with a vertical-to-horizontal aspect ratio greater than 1.5:1.",
+    "inferior_centroid_shift": "Significant downward tapering with the lowest point extending well below the horizontal geometric center of the eye patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Spatial separation approximately equal to 1.5 times the maximum horizontal width of the left pinna.",
+    "apex_contour_smoothness": "Smooth, continuous semicircular convex curvature at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

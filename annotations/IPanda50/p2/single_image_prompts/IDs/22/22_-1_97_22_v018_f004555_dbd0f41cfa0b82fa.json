@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the black patches is oriented at approximately a 35-degree angle toward the snout relative to the vertical midline of the face.",
+    "aspect_ratio_factor": "The patches exhibit an elongated oval morphology where the length along the primary axis is approximately 1.8 times the width.",
+    "inferior_centroid_shift": "There is a distinct downward tapering towards the medial-inferior margin, shifting the visual weight below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dorsal band forms a shallow, wide U-shape across the upper back.",
+    "normalized_band_thickness": "The dark band is notably thick, appearing to cover nearly half of the visible upper torso region in this orientation."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a significant gap of white cranial fur, approximately twice the lateral width of a single pinna.",
+    "apex_contour_smoothness": "The distal edges of the ears are characterized by a smooth, uniform semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The individual is captured in a fully inverted vertical posture within the fork of a tree, with the head oriented towards the ground."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique inward tilt toward the muzzle, approximately 45 degrees relative to the vertical midline of the skull due to downward head posture.",
+    "aspect_ratio_factor": "Elongated oval blobs with a length-to-width ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "Significant tapering at the lower boundary, extending the patch area ventrally toward the cheek region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape along the posterior boundary where the black fur meets the white dorsal region.",
+    "normalized_band_thickness": "High thickness, covering approximately 40% of the visible shoulder-to-hip longitudinal axis."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral placement with a clear white inter-pinna gap roughly equal to 1.5 times the horizontal width of one ear.",
+    "apex_contour_smoothness": "Consistent semi-circular curvature with no visible flattening or irregularities."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is holding a purple spherical object with frayed white textile edges in its forepaws."
+}

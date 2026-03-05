@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward tilt toward the rostrum for the visible right eye patch.",
+    "aspect_ratio_factor": "Vertical oval with height exceeding width.",
+    "inferior_centroid_shift": "Distinct downward tapering at the ventral margin of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary across the upper back.",
+    "normalized_band_thickness": "Thick band occupying approximately 30-40% of the visible dorsal torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant wide gap across the white cranial crown between the two ears.",
+    "apex_contour_smoothness": "Smoothly rounded convex tops on both visible pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

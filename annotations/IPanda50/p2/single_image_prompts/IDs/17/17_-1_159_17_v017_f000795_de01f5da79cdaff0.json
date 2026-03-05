@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, angled downward approximately 45 degrees towards the muzzle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval, with the vertical-oblique length significantly exceeding the width.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the lower pole of the patch extending much further from the eye center than the upper pole."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape profile along the posterior edge of the transverse band.",
+    "normalized_band_thickness": "High relative thickness, occupying roughly 40% of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Moderate separation distance approximately equal to the width of one ear at its base.",
+    "apex_contour_smoothness": "Smooth, convex semicircular curvature at the cranial apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brownish-red fur pigmentation present in the ventral abdominal and pelvic regions."
+}

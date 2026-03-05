@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, primary axis of the patches is tilted approximately 45 degrees outward from the facial midline.",
+    "aspect_ratio_factor": "Oval morphology, with the vertical dimension significantly exceeding the horizontal width.",
+    "inferior_centroid_shift": "Subtle downward tapering observed on the lower-lateral margins of the black patches."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shape with a smooth posterior margin across the upper dorsal region.",
+    "normalized_band_thickness": "The dark band occupies roughly one-third of the visible torso length from the cervical region to the mid-thoracic area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, the gap between ears is approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "Consistent rounded semicircular curvature at the apex of both pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

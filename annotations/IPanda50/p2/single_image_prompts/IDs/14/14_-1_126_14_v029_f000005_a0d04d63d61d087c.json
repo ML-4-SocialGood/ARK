@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, approximately 45 degrees relative to the horizontal facial axis, sloping downward toward the muzzle.",
+    "aspect_ratio_factor": "Elongated oval with an estimated aspect ratio of 1.8:1.",
+    "inferior_centroid_shift": "The patch exhibits a broad, rounded inferior margin with minimal tapering."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape profile along the posterior edge of the band.",
+    "normalized_band_thickness": "Significant thickness, approximately 35% of the visible dorsal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct gap is visible between the ears, roughly equivalent to the width of the individual pinna base.",
+    "apex_contour_smoothness": "Rounded, convex curvature at the apex of both visible ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

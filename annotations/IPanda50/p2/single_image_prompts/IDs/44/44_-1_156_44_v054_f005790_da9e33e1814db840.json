@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right eye patch is oriented at approximately a 45-degree downward angle relative to the horizontal axis of the cranium.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval morphology where the length along the dominant axis is approximately 1.6 times the perpendicular width.",
+    "inferior_centroid_shift": "The patch exhibits a pronounced inferior taper, with the lowest point extending significantly further from the eye than the superior point."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the transverse band follows a shallow, broad U-shaped curve across the spinal region.",
+    "normalized_band_thickness": "The dark band is substantial, occupying approximately 35-40% of the visible dorsal length from the base of the neck to the mid-torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The pinnae are set wide apart on the lateral-superior margins of the head, separated by a distance exceeding the width of a single pinna.",
+    "apex_contour_smoothness": "The superior margins of both visible ears exhibit a smooth, semicircular convex curvature without flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

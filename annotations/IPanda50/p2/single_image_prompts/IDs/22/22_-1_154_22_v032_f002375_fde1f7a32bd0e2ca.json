@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible eye patch on the left side of the frame exhibits a primary axis angled approximately 45 degrees downward toward the rostrum.",
+    "aspect_ratio_factor": "The visible eye patch displays a distinct oval geometry with vertical elongation.",
+    "inferior_centroid_shift": "The patch tapers toward the inferior-lateral margin, with the lowest point extending significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The visible posterior edge of the dorsal band suggests a shallow, flat U-shape curve profile.",
+    "normalized_band_thickness": "The band occupies approximately 30 percent of the visible torso height at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Ears are positioned at the lateral-superior boundaries of the cranium with a wide inter-pinna gap.",
+    "apex_contour_smoothness": "The apex of the ears exhibits a smooth, continuous semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Multiple prominent, dark-pigmented mammary glands are visible on the ventral abdominal region."
+}

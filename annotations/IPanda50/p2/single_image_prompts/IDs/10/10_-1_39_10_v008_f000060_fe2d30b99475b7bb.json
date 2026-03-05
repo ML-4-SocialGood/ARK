@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are oriented at a steep diagonal angle, approximately 70 degrees relative to the horizontal facial axis, tapering toward the rostrum.",
+    "aspect_ratio_factor": "The patches exhibit a high aspect ratio, characterized by a vertically elongated oval shape where the height is significantly greater than the width.",
+    "inferior_centroid_shift": "There is a pronounced downward tapering effect, with the lowest point of the patch extending considerably below its geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band at the shoulders is thick and prominent, occupying approximately one-third of the visible upper torso's vertical profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely separated by a broad white cranial region, with the gap between them roughly equal to 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "The top boundaries of the ears are characterized by a smooth, continuous semicircular curvature with no observable flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

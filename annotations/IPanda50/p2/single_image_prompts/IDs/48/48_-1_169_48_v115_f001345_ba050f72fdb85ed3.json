@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "approximately 45-degree diagonal tilt oriented towards the snout",
+    "aspect_ratio_factor": "elongated oval with a horizontal-to-vertical ratio of approximately 1.5:1",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "broad, shallow U-shape across the posterior edge",
+    "normalized_band_thickness": "approximately 25% of the visible dorsal torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "wide gap exceeding the width of an individual pinna",
+    "apex_contour_smoothness": "consistently rounded convex curvature"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

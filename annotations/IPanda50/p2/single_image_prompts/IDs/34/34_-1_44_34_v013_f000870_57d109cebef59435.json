@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The patches exhibit a diagonal orientation slanted at approximately 45 degrees toward the rostrum relative to the sagittal plane of the head.",
+    "aspect_ratio_factor": "The patches are elongated ovals with a length-to-width ratio of approximately 2:1.",
+    "inferior_centroid_shift": "There is a pronounced downward extension of the patch toward the muzzle, creating a clear tapering effect below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "The posterior edge of the dorsal band exhibits a broad, shallow U-shape across the upper back.",
+    "normalized_band_thickness": "The band is relatively thick, occupying roughly 40% of the visible dorsal-torso surface area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned wide apart on the lateral-superior aspects of the cranium with a distinct gap exceeding the width of a single ear.",
+    "apex_contour_smoothness": "The superior margins of the ears exhibit a smooth, convex, and uniformly rounded curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

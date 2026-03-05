@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique downward orientation toward the muzzle area.",
+    "aspect_ratio_factor": "Elongated oval with width significantly exceeding height.",
+    "inferior_centroid_shift": "Notable downward tapering at the medial-inferior margin of the patches."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct gap approximately 1.5 times the width of a single ear on the superior cranial margin.",
+    "apex_contour_smoothness": "Continuous, smooth semi-circular profile at the top of both pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

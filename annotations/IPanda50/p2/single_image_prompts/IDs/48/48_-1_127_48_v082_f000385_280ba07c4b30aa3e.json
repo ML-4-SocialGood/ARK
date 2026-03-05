@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, oriented at approximately a 45-degree downward angle toward the muzzle.",
+    "aspect_ratio_factor": "Elongated oval, with a length-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Distinct tapering at the lower-inner margin towards the bridge of the nose, resulting in a teardrop shape."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High thickness, extending from the base of the neck to the mid-lateral torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide spacing, approximately 1.2 times the width of a single pinna.",
+    "apex_contour_smoothness": "Convex and smoothly rounded at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Presence of a vertical, textured wooden post in the foreground partially obscuring the lower-left lateral aspect of the subject."
+}

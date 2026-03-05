@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation of approximately 45 degrees relative to the horizontal facial axis, pointing downward toward the nasal bridge.",
+    "aspect_ratio_factor": "Teardrop-shaped with an elongated vertical axis, roughly 1.6 times the horizontal width.",
+    "inferior_centroid_shift": "Pronounced downward tapering where the lower boundary of the patch extends significantly further from the center than the upper boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High thickness, occupying approximately 80% of the visible shoulder and upper torso height in the lateral view."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the inner margins of the ear patches is roughly 1.3 times the width of a single ear.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae are uniformly rounded and semicircular."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive brownish-tan staining on the ventral fur across the abdominal and lower thoracic regions."
+}

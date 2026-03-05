@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique diagonal orientation, angled approximately 45 degrees relative to the facial midline towards the lower jaw.",
+    "aspect_ratio_factor": "Oval; the longitudinal axis of the visible right patch is significantly greater than its width.",
+    "inferior_centroid_shift": "Pronounced downward tapering, creating a teardrop effect where the mass is concentrated lower than the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape with a relatively flat posterior boundary across the shoulder region.",
+    "normalized_band_thickness": "Substantial; the band occupies approximately one-third of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant cranial gap between the dark auricular regions, roughly equivalent to the width of an individual pinna.",
+    "apex_contour_smoothness": "High smoothness; the top boundaries of the ears exhibit a consistent semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

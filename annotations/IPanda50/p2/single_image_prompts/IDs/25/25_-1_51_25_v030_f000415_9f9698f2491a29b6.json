@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible left eye patch is oriented at approximately a 45-degree downward angle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval aspect ratio, significantly taller along its dominant axis than its width.",
+    "inferior_centroid_shift": "The patch exhibits a pronounced teardrop-shaped downward taper, shifting the visual weight below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The black dorsal band occupies approximately 30-35% of the visible torso area appearing anterior to the occluding tree trunk."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide cranial gap approximately twice the width of a single ear base.",
+    "apex_contour_smoothness": "The ear apex displays a smooth, continuous semicircular convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

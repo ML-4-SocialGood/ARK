@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees downward relative to the horizontal facial axis, oriented towards the snout.",
+    "aspect_ratio_factor": "Elongated oval shape with a visual width-to-height ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Visible tapering and downward extension at the inferior-medial boundary of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape with a wide, gentle posterior curve profile at the shoulder-back interface.",
+    "normalized_band_thickness": "Thick transverse band occupying approximately 35-40% of the visible dorsal-ventral torso profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant lateral separation, approximately 1.8 to 2 times the width of an individual pinna.",
+    "apex_contour_smoothness": "Smooth, semi-circular convex curvature across the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is interacting with a blue, textured spherical enrichment object held against the muzzle and chest."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation with the primary axis tilted forward towards the snout at approximately 70 degrees",
+    "aspect_ratio_factor": "Elongated oval/ellipsoid with a significantly higher vertical to horizontal ratio",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Relatively flat U-shape with a nearly vertical posterior margin",
+    "normalized_band_thickness": "Approx. 40% of the visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap between ear regions is approximately 1.5 times the base width of a single ear",
+    "apex_contour_smoothness": "Uniformly rounded semi-circular apex"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

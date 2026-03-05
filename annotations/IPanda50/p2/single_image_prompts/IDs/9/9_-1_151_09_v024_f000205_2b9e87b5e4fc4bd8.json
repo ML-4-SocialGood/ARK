@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree diagonal slant toward the rostrum for the single visible patch.",
+    "aspect_ratio_factor": "Elongated oval morphology with an approximate 2:1 length-to-width ratio.",
+    "inferior_centroid_shift": "Pronounced downward tapering where the distance from the geometric center to the inferior tip is notably greater than to the superior boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape across the posterior margin of the shoulder band.",
+    "normalized_band_thickness": "Significant thickness, occupying approximately 40% of the visible dorsal-lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear separation gap between pinnae regions roughly 1.5 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular convex curvature at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The right forelimb (viewer's left) is elevated, completely occluding the right orbital region."
+}

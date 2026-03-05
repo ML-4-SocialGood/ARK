@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep V-shape at the posterior midline vertex pointing towards the lower back.",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 30-40% of the visible dorsal-ventral torso axis."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation across the cranial vault, with white fur visible between the dark regions.",
+    "apex_contour_smoothness": "Pointed/triangular apexes with low curvature smoothness."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

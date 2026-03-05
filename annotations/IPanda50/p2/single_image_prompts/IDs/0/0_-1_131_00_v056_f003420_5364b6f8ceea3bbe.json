@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patches is oriented at approximately a 60-degree angle relative to the horizontal facial midline, sloping downwards towards the muzzle.",
+    "aspect_ratio_factor": "The eye patches exhibit an elongated oval morphology with a vertical-to-horizontal aspect ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "There is a distinct downward tapering where the patch area expands inferiorly from the geometric center toward the lateral nasal boundaries."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark dorsal band across the scapular region exhibits a shallow, wide U-shaped curvature.",
+    "normalized_band_thickness": "The dark band maintains a consistent thickness across the visible torso, representing approximately 25% of the vertical distance between the neck and lower abdomen."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned laterally on the cranium with a wide inter-pinna gap roughly equivalent to 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "The superior margins of the ears demonstrate a smooth, rounded semicircular profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant reddish-brown staining is visible in the lower abdominal and perineal fur, contrasting with the surrounding white ventral pelage."
+}

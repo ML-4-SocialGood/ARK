@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, angled approximately 45 degrees downward toward the snout relative to the horizontal cranial plane.",
+    "aspect_ratio_factor": "Oval-elliptical, with the vertical axis significantly longer than the horizontal width.",
+    "inferior_centroid_shift": "Moderate downward tapering observed, with the lowest point extending toward the rostrum below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shape with a gradual posterior curve across the shoulder blades.",
+    "normalized_band_thickness": "High thickness, extending from the base of the neck to approximately one-third of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation, with a distinct gap greater than the width of a single pinna.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular top boundaries without visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

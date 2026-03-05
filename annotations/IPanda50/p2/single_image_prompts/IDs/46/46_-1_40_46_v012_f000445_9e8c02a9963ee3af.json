@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve profile with a relatively flat transition across the dorsal midline.",
+    "normalized_band_thickness": "Thickness represents approximately 35% of the visible dorsal torso silhouette length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separated by the full width of the cranial vault, appearing at the lateral-most edges of the head silhouette.",
+    "apex_contour_smoothness": "Rounded semicircular apex with smooth, consistent curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Localized brown-toned discoloration present on the posterior-dorsal white pelage near the rump."
+}

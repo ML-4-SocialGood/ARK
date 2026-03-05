@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, flat U-shape with a gradual posterior transition into the white dorsal fur",
+    "normalized_band_thickness": "Approximately 45% of the visible torso length from the nape to the mid-back"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear separation gap between ears roughly equivalent to the width of the cranial vertex",
+    "apex_contour_smoothness": "Convex and smoothly rounded apex curvature on both visible pinnae"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-red tinting on the black pelage of the limbs and shoulder band, likely due to light refraction or environmental staining"
+}

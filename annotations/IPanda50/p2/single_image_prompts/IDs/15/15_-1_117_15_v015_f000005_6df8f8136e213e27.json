@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented diagonally at approximately 45 degrees relative to the horizontal midline.",
+    "aspect_ratio_factor": "Pronounced oval geometry with a vertical-to-horizontal ratio greater than 1.5.",
+    "inferior_centroid_shift": "Distinct tapering at the inferior margin, extending the patch significantly below its geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve along the posterior demarcation of the transverse band.",
+    "normalized_band_thickness": "The black band occupies roughly one-third of the visible torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Visible separation distance roughly equivalent to the width of a single pinna.",
+    "apex_contour_smoothness": "Smooth, rounded convex curvature at the top boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Presence of bamboo stalk in the oral cavity with visible exposure of the mandibular dentition."
+}

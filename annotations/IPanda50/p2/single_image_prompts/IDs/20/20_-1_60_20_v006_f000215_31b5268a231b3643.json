@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation descending anteriorly at approximately 45 degrees relative to the cranial midline.",
+    "aspect_ratio_factor": "Elongated oval morphology with a visual length-to-width ratio of roughly 1.6:1.",
+    "inferior_centroid_shift": "Distinct downward tapering at the ventral margin of the patch, creating a teardrop profile."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curvature on the posterior edge with high symmetry across the spine.",
+    "normalized_band_thickness": "High thickness at the lateral flanks, occupying approximately 30% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Visible separation gap between the medial ear bases approximately equal to the width of one ear.",
+    "apex_contour_smoothness": "Consistently smooth, convex semicircular arc along the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Regular vertical linear occlusions across the entire subject caused by foreground enclosure fencing."
+}

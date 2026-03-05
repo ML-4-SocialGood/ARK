@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical orientation with a slight inward tilt toward the midline of the face.",
+    "aspect_ratio_factor": "High aspect ratio; eye patches are elongated ovals rather than circular.",
+    "inferior_centroid_shift": "Pronounced downward tapering where the patch extends significantly below the ocular center toward the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Robust band thickness across the lateral flanks, appearing as a thick, solid transverse section across the upper torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large gap between pinnae, which are positioned at the lateral edges of the superior cranium.",
+    "apex_contour_smoothness": "Smooth, rounded semicircular curvature at the apex of both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brown-toned staining and discoloration of the ventral (belly) fur compared to the white fur on the head."
+}

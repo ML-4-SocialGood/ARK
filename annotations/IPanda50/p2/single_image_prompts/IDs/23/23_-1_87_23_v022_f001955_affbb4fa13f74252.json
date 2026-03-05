@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at approximately a 40-degree angle relative to the horizontal facial axis, sloping downward toward the snout.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval geometry with an approximate width-to-height ratio of 1.6:1.",
+    "inferior_centroid_shift": "The patch exhibits a distinct downward taper, with the inferior boundary extending significantly below the geometric center of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band on the visible lateral flank occupies approximately 45 percent of the vertical torso height in the image plane."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The apex of the visible ear follows a smooth, continuous convex curve with no observable flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The distal portion of the foreground forelimb exhibits five distinct, high-contrast white keratinized claws."
+}

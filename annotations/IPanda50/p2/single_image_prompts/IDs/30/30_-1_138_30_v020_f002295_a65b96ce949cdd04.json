@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented at a downward diagonal angle of approximately 50 degrees relative to the horizontal facial midline.",
+    "aspect_ratio_factor": "The eye patch presents as an elongated oval with an estimated length-to-width aspect ratio of 1.8:1.",
+    "inferior_centroid_shift": "A pronounced downward taper is visible, with the inferior margin extending significantly further from the ocular center than the superior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior margin of the dark band displays a shallow, broad U-shaped curvature across the upper back.",
+    "normalized_band_thickness": "The dark band is substantial, comprising approximately 40% of the visible vertical torso distance between the white neck fur and the waterline."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a distinct gap approximately equal to 1.1 times the base width of the right ear.",
+    "apex_contour_smoothness": "Both ears exhibit rounded apex contours, though the right ear (viewer's perspective) shows slight irregularities in fur clump shape at the peak."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is partially submerged in a body of water, resulting in high-contrast saturation and clumping of the lower abdominal and dorsal fur."
+}

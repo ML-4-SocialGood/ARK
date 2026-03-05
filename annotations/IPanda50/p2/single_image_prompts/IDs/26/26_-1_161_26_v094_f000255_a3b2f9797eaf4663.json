@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible eye patch exhibits a primary axis oriented approximately 45 degrees downward relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch displays an oval morphology with a vertical-to-horizontal ratio of approximately 2:1.",
+    "inferior_centroid_shift": "There is a pronounced downward taper with the lowest point of the patch extending significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band shows a deep U-shaped curve as it transitions across the shoulder.",
+    "normalized_band_thickness": "The dark band occupies approximately 35% of the visible torso height at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a distance approximately equal to the cranial width between the inner bases of the pinnae.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, semi-circular curvature."
+  },
+  "acquired_anomalies_or_scars": "There is visible light-colored debris (soil or dried vegetation) clustered on the lateral surface of the left shoulder dark band.",
+  "other_distinctive_markers": "The mandible is fully depressed, exposing the inner oral cavity and tongue."
+}

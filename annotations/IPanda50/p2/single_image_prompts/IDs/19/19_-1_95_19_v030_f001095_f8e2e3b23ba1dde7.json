@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, with the primary axis of the black patches tilted approximately 30 degrees toward the sagittal plane.",
+    "aspect_ratio_factor": "Elongated ovoid; the vertical-to-horizontal pixel ratio is approximately 1.5:1.",
+    "inferior_centroid_shift": "Geometric center is offset upwards due to a pronounced tapering at the inferior pole of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curvature at the posterior junction of the black and white pelage.",
+    "normalized_band_thickness": "The interscapular band height occupies approximately 35% of the visible lateral torso profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide inter-ear distance relative to the total horizontal cranial diameter, with a distinct white fur gap.",
+    "apex_contour_smoothness": "Continuous semi-circular convex curve at the pinna apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Highly visible carpal pad on the elevated left front limb and yellowish-brown ventral fur discoloration."
+}

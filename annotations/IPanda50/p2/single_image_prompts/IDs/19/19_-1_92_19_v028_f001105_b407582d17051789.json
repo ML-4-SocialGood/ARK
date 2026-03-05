@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary vertical orientation with a slight lateral tilt toward the superior margin",
+    "aspect_ratio_factor": "Elongated oval profile with a high vertical-to-horizontal ratio",
+    "inferior_centroid_shift": "Significant downward tapering, with the widest section occurring in the superior third of the patch"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Broad band thickness visible at the lateral margins where the forelimbs meet the torso"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide horizontal gap between the two distinct dark ear regions on the cranial perimeter",
+    "apex_contour_smoothness": "Smooth, convex curvature at the top boundary without visible flattening"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

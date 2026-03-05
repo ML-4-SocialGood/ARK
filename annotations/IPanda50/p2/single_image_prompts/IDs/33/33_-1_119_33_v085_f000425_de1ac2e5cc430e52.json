@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonally oriented towards the muzzle at approximately 60 degrees relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "Elongated oval with a vertical height significantly exceeding the horizontal width.",
+    "inferior_centroid_shift": "Pronounced downward tapering, placing the lowest point of the patch well below the geometric center of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shaped profile observed at the posterior interface with the white fur.",
+    "normalized_band_thickness": "The band occupies approximately 50% of the visible torso length from shoulder to mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Ears are widely set apart on the lateral-superior aspects of the cranium.",
+    "apex_contour_smoothness": "Consistent semicircular curvature with no visible flattening or irregularities."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

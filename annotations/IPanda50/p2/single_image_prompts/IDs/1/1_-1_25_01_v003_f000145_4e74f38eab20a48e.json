@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at approximately 75-80 degrees relative to the horizontal facial axis, tilting toward the snout.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval geometry with a vertical length significantly greater than its horizontal width.",
+    "inferior_centroid_shift": "The patch narrows significantly at the bottom, creating a teardrop-shaped taper toward the lower cheek area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band across the shoulders displays a shallow, wide U-shaped curvature across the upper back.",
+    "normalized_band_thickness": "The dark band covers approximately 35-40% of the visible lateral torso height at the shoulders."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned wide apart on the cranial vault, with the gap between them approximately 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae are smoothly convex and lack any visible flattening or irregular notches."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brownish-orange staining or soil accumulation is visible on the fur of the lower abdomen and ventral pelvic region."
+}

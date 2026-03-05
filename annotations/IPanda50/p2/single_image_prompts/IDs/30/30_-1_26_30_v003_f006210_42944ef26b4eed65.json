@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the teardrop-shaped patches is oriented at approximately a 60-degree angle relative to the horizontal facial axis, converging medially towards the rostrum.",
+    "aspect_ratio_factor": "The patches exhibit an elongated oval morphology with a visual height-to-width ratio of approximately 2:1.",
+    "inferior_centroid_shift": "There is a pronounced downward taper, with the lowest point of the patch extending significantly below the horizontal midline of the ocular region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-pinna gap is approximately 1.5 times the horizontal width of a single ear base.",
+    "apex_contour_smoothness": "The superior boundaries of the ears exhibit a smooth, highly circular curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

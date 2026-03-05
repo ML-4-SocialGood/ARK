@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation approximately 45 degrees relative to the snout-to-crown axis, tilted toward the lower-left corner of the frame.",
+    "aspect_ratio_factor": "Elongated oval with an estimated height-to-width ratio of 1.8:1.",
+    "inferior_centroid_shift": "Significant downward tapering observed at the ventral-most point of the patch, extending toward the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, smooth U-shaped curve at the posterior boundary where it meets the white dorsal fur.",
+    "normalized_band_thickness": "High thickness, occupying approximately 35-40% of the visible torso length along the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap approximately 1.5 times the width of a single ear base, following the curve of the cranium.",
+    "apex_contour_smoothness": "Standard semi-circular curvature with high smoothness on both visible pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Highly visible plantar surfaces on the right forepaw, showing distinct digital pads and metacarpal pad texture against the wooden logs."
+}

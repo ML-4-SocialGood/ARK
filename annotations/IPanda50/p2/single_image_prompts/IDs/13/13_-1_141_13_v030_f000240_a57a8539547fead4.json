@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right eye patch is oriented at a near-vertical angle, approximately 75-80 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Oval-elliptical; the vertical axis of the patch is approximately 1.6 times greater than the horizontal width.",
+    "inferior_centroid_shift": "Moderate downward tapering observed at the ventral margin of the patch, extending toward the lower cheek region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped profile; the posterior edge of the band across the dorsal region shows a broad, gentle curve without a sharp vertex.",
+    "normalized_band_thickness": "The band height is approximately 0.45 relative to the visible height of the torso at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the dark ear regions is approximately 2.5 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "The ear apices exhibit smooth, semicircular convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

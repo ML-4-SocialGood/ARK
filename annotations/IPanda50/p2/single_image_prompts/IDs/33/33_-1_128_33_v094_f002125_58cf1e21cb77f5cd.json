@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented vertically with a slight lateral tilt at the superior pole, diverging from the facial midline.",
+    "aspect_ratio_factor": "Pronounced oval geometry with a vertical height approximately 1.6 times greater than the horizontal width.",
+    "inferior_centroid_shift": "Deep downward taper with a sharp point extending towards the muzzle, placing the lowest point far below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band at the lateral flanks is wide, occupying approximately 30% of the visible height of the upper torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-ear gap is wide, estimated at 1.8 times the width of an individual pinna.",
+    "apex_contour_smoothness": "The upper boundaries of both ears exhibit a smooth, continuous convex curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": "Extensive reddish-brown discoloration and matted fur texture visible across the lower abdominal and inguinal regions.",
+  "other_distinctive_markers": null
+}

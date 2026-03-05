@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees relative to the horizontal facial axis, oriented downward toward the rostrum.",
+    "aspect_ratio_factor": "Elliptical with a high aspect ratio, being significantly longer along the dominant axis than its width.",
+    "inferior_centroid_shift": "Pronounced elongation towards the ventral-anterior edge, creating a distinct teardrop shape."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The band covers the entire lateral shoulder area, extending from the base of the neck to the mid-scapular region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a broad cranial gap, roughly 1.5 times the width of an individual ear base.",
+    "apex_contour_smoothness": "Consistent convex curvature with a highly rounded apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant foreground occlusion by green foliage covers approximately 30 percent of the ventral and posterior sections of the subject."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 60-degree downward anterior tilt relative to the horizontal midline of the cranium.",
+    "aspect_ratio_factor": "Vertical-oblong oval with an estimated 2:1 height-to-width ratio.",
+    "inferior_centroid_shift": "The patch narrows significantly toward its ventral limit near the rostrum."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Transverse posterior boundary displays a relatively straight or broad U-shaped profile with no spinal bisection.",
+    "normalized_band_thickness": "High thickness, occupying approximately 35% of the total visible dorsal length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between pinnae, approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "Convex and rounded apex with no visible notches or flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced yellowing/staining of the white pelage on the posterior flanks and rump relative to the head."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, angled inward toward the rostrum at approximately 75 degrees relative to the horizontal facial axis",
+    "aspect_ratio_factor": "Elongated oval with vertical height approximately double the horizontal width",
+    "inferior_centroid_shift": "Pronounced tapering observed at the inferior margin narrowing toward the snout"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large gap between pinnae, with the distance between medial edges exceeding the width of an individual pinna",
+    "apex_contour_smoothness": "Smoothly curved, semicircular convex profile"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

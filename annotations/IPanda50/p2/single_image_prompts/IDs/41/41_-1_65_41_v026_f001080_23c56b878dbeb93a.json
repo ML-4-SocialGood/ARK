@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation sloping downwards and inwards toward the muzzle at approximately a 45-degree angle from the horizontal axis.",
+    "aspect_ratio_factor": "Elongated oval shape with a visual width-to-height ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Distinct downward taper toward the medial canthus, resulting in a teardrop-shaped profile."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary with a relatively flat profile across the spinal region.",
+    "normalized_band_thickness": "The dark band occupies approximately 30% of the visible torso length at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation, with the gap between ears measuring approximately three times the individual ear width.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular apex without visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Notable cream-yellow chromatic shift in the dorsal white fur compared to the more neutral white tone of the facial region."
+}

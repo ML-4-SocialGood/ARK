@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique inward tilt at approximately 45 degrees relative to the horizontal facial axis, converging toward the muzzle.",
+    "aspect_ratio_factor": "Elongated ovoid geometry with a vertical orientation; height-to-width ratio is approximately 1.4:1.",
+    "inferior_centroid_shift": "Significant downward tapering where the inferior margin extends well below the patch's geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High thickness, covering the entirety of the visible lateral shoulder region and upper torso depth."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance is approximately 1.5 times the width of a single pinna bounding box.",
+    "apex_contour_smoothness": "Symmetrical semicircular curvature with high smoothness on the dorsal apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

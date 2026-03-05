@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is vertically oriented with a slight inward tilt toward the rostrum at the superior margin.",
+    "aspect_ratio_factor": "Elongated oval profile with a vertical-to-horizontal ratio of approximately 2:1.",
+    "inferior_centroid_shift": "Geometric center is offset toward the superior margin due to a pronounced downward tapering and rounding at the inferior pole."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped posterior boundary across the dorsal midline.",
+    "normalized_band_thickness": "High thickness at the lateral shoulder regions, maintaining a relatively consistent width across the spine."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide inter-pinna gap relative to individual ear diameter.",
+    "apex_contour_smoothness": "Perfectly rounded, smooth semi-circular apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible lower incisors/canines due to an open-mouth posture and a brown, textured object grasped in the right forepaw."
+}

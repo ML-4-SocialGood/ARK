@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep V-shape tapering sharply toward the central spine at the posterior edge.",
+    "normalized_band_thickness": "High relative thickness at the lateral flanks, narrowing toward the ventral side while maintaining a wide profile across the shoulder blades."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap of white fur separating the two dark semicircular regions across the cranial vault.",
+    "apex_contour_smoothness": "Smoothly rounded convex top boundaries on both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The white dorsal fur creates a sharply defined, symmetrical isosceles-triangle-like intrusion into the dark dorsal band."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree diagonal orientation relative to the horizontal facial plane, angled downwards towards the rostrum.",
+    "aspect_ratio_factor": "Distinctly oval with a visual length-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Pronounced tapering towards the snout with the lowest point extending approximately 60% of the total patch length from the superior edge."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape with a nearly straight posterior edge across the dorsal midline.",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 35% of the visible torso longitudinal axis."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation across the cranial vault, exceeding the visual width of a single pinna.",
+    "apex_contour_smoothness": "Smoothly rounded convex curvature at the superior boundary of the visible ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible dark pigmentation on the posterior haunch/rump region, appearing as a distinct boundary between the white dorsal fur and the black hind limbs."
+}

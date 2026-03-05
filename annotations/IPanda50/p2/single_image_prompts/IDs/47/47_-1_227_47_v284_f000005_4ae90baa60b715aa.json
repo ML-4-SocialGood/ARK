@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the black eye patches is oriented at approximately a 45-degree angle, slanting downwards towards the rostrum relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "The eye patches exhibit an elongated, teardrop morphology with a high aspect ratio, being significantly taller than they are wide along the dominant axis.",
+    "inferior_centroid_shift": "There is a pronounced downward tapering effect where the lower margin of the patch extends further from the geometric center than the upper margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the transverse dark band displays a shallow, broad U-shaped curve as it transitions across the dorsal midline.",
+    "normalized_band_thickness": "The dark band is thick and robust, occupying approximately one-third of the visible vertical height of the upper torso at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned with a wide lateral separation on the upper cranium, with the inter-ear gap exceeding the width of a single ear.",
+    "apex_contour_smoothness": "The superior edges of the pinnae exhibit a smooth, consistently rounded convex curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-yellow staining is visible on the fur surrounding the oral cavity and extending down the medial surface of the lower abdomen and inner thighs."
+}

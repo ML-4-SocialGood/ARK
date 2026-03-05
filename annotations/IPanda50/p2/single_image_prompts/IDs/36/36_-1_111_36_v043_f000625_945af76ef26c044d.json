@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right periocular patch is oriented at a steep oblique angle, approximately 60 degrees relative to the horizontal facial plane due to the upward head tilt.",
+    "aspect_ratio_factor": "The patch exhibits an elongated pyriform geometry, appearing significantly more oval than circular with a longitudinal stretch.",
+    "inferior_centroid_shift": "There is a visible downward tapering of the patch toward the lateral rostrum, with the geometric center shifted superiorly relative to the lowest ventral point."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned laterally with a wide cranial gap approximately twice the width of the ear base.",
+    "apex_contour_smoothness": "The superior boundary of the pinnae exhibits a smooth, convex semicircular arc without visible flattening or irregularities."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

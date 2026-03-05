@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, approximately 45 degrees relative to the horizontal facial axis, tilting downwards toward the muzzle.",
+    "aspect_ratio_factor": "Elongated oval, approximately 1:1.6 width-to-height ratio.",
+    "inferior_centroid_shift": "Distinct downward tapering from the ocular center toward the lower cheek."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped posterior edge.",
+    "normalized_band_thickness": "Relatively thick, occupying approximately 35% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap, approximately 1.5 times the width of a single ear region.",
+    "apex_contour_smoothness": "Smoothly rounded apex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Presence of a neonatal cub with pink skin and sparse fur visible in the ventral-abdominal region."
+}

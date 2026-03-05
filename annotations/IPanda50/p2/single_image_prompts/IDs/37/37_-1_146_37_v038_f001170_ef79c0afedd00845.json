@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axes of the eye patches are oriented diagonally at approximately 45-degree angles, tapering downward toward the nasal bridge.",
+    "aspect_ratio_factor": "The eye patches are distinctly teardrop-shaped and elongated, showing a high aspect ratio compared to a circular geometry.",
+    "inferior_centroid_shift": "A pronounced downward taper is visible, placing the geometric center significantly higher than the lowest point of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band across the shoulders exhibits a broad, shallow U-shaped curvature across the midline.",
+    "normalized_band_thickness": "The dark band is thick, occupying approximately 30-35% of the visible dorsal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The dark ear regions are separated by a distance roughly equivalent to 1.2 times the horizontal width of a single pinna.",
+    "apex_contour_smoothness": "The top boundaries of the ears are generally rounded, with the right pinna exhibiting a slightly more uniform convex curve than the left."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

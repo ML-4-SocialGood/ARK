@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, slanting approximately 45 degrees downward from the ear toward the rostrum.",
+    "aspect_ratio_factor": "Oval, with a length-to-width ratio favoring the longitudinal axis.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape with a relatively flat profile across the spine.",
+    "normalized_band_thickness": "Thick, representing approximately one-third of the visible upper body section."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Pronounced lateral distance between the dark ear markers.",
+    "apex_contour_smoothness": "Convex and rounded apical profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

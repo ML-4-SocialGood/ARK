@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation approximately 45 degrees relative to the primary cranial axis",
+    "aspect_ratio_factor": "Oval morphology with an estimated width-to-height ratio of 2:1",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape profile at the posterior margin of the band",
+    "normalized_band_thickness": "Thickness spans approximately 35% of the visible upper torso area"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Inter-pinna gap is approximately 1.5 times the horizontal width of a single ear",
+    "apex_contour_smoothness": "Smoothly rounded semi-circular apex on the visible pinna"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Interaction with a blue, spherical enrichment object positioned at the oral region"
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 80 degrees relative to the horizontal facial plane, tilted anteriorly.",
+    "aspect_ratio_factor": "Elongated vertical oval with a high height-to-width ratio.",
+    "inferior_centroid_shift": "Marked downward tapering toward the lower anterior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep U-shaped curve at the posterior margin of the band.",
+    "normalized_band_thickness": "Estimated at 0.45 relative to the visible dorsal-ventral torso span."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smoothly rounded semicircular profile at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

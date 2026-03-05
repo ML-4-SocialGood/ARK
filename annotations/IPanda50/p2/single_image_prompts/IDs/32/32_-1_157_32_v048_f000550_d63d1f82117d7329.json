@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis is oriented at an approximately 80-degree angle relative to the horizontal facial axis, tapering downward toward the muzzle.",
+    "aspect_ratio_factor": "The patches exhibit an elongated ellipsoidal shape with a vertical-to-horizontal aspect ratio of approximately 1.8:1.",
+    "inferior_centroid_shift": "Significant downward tapering is visible, with the inferior portion of the patch being narrower than the superior portion, creating a teardrop effect."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band follows a broad, smooth U-shaped curvature across the spine.",
+    "normalized_band_thickness": "The band is vertically thick at the lateral flanks, occupying nearly the entire shoulder region before transitioning into the forelimbs."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned laterally on the crown with a wide gap of white fur separating the medial edges.",
+    "apex_contour_smoothness": "The superior contours of the ears are highly smooth and semicircular without visible flattening or irregularities."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The fur on the lower lumbar and pelvic regions exhibits a distinct brownish-tan discoloration compared to the white fur of the upper cranium and neck."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is tilted approximately 45 degrees downward toward the snout relative to the cranial midline.",
+    "aspect_ratio_factor": "Oval/elliptical morphology with a vertical-to-horizontal ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shape with a relatively flat posterior boundary crossing the spine.",
+    "normalized_band_thickness": "The band appears thick, occupying approximately 25% of the visible dorsal-ventral torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-ear gap is approximately 2.5 to 3 times the width of an individual pinna base.",
+    "apex_contour_smoothness": "Smoothly convex and rounded at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at approximately a 60-degree angle relative to the horizontal facial plane, tilting towards the snout.",
+    "aspect_ratio_factor": "Oval-shaped with a visual width-to-height ratio of approximately 1:1.8, showing clear elongation.",
+    "inferior_centroid_shift": "The patch displays a downward tapering effect where the lower margin extends further from the geometric center than the upper margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "The posterior boundary of the dark band exhibits a broad, shallow U-shape curvature across the lateral and dorsal regions.",
+    "normalized_band_thickness": "The dark band occupies approximately 35% of the total visible vertical torso length from this lateral perspective."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a significant gap approximately equal to 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, semi-circular rounded profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

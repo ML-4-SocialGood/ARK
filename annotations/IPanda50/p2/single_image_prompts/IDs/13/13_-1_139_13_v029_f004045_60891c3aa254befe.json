@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal, oriented approximately 45 degrees relative to the muzzle-to-ear axis",
+    "aspect_ratio_factor": "Elongated oval with an estimated 2:1 length-to-width ratio",
+    "inferior_centroid_shift": "Distinct downward tapering towards the inferior-anterior quadrant of the patch"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad and relatively flat U-shaped curve along the posterior margin",
+    "normalized_band_thickness": "Substantial thickness, comprising approximately one-third of the visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Visible separation gap approximately equal to 1.5 times the horizontal width of a single ear",
+    "apex_contour_smoothness": "Uniformly rounded, semicircular top boundaries"
+  },
+  "acquired_anomalies_or_scars": "Localized brownish-black surface discoloration present on the dorsal white fur field in the lumbar region",
+  "other_distinctive_markers": null
+}

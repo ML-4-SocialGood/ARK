@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the patches are oriented diagonally at approximately 45-50 degrees relative to the horizontal facial axis, sloping downwards and outwards from the medial region toward the cheeks.",
+    "aspect_ratio_factor": "The patches exhibit a vertically elongated teardrop morphology, clearly oval rather than circular, with an estimated height-to-width ratio of 1.5:1.",
+    "inferior_centroid_shift": "There is a pronounced downward tapering effect where the lower boundary of the patch extends significantly further from the eye center than the upper boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "A broad, thick dark band is visible across the shoulders and upper limbs, occupying approximately 35-40% of the visible vertical torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely separated, with the gap between the medial edges of the pinnae measuring approximately 1.7 times the width of a single ear.",
+    "apex_contour_smoothness": "The top boundaries of the ears are smoothly convex and semi-circular with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The ventral and abdominal fur displays significant brown chromatic staining/soiling, creating a distinct contrast with the high-luminance white fur of the cranial region."
+}

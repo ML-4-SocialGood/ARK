@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right-side eye patch is oriented near-vertically, tilted approximately 15 degrees medially toward the rostrum relative to the facial midline.",
+    "aspect_ratio_factor": "The patch is an elongated oval with a vertical height-to-width ratio of approximately 2:1.",
+    "inferior_centroid_shift": "The patch displays a teardrop morphology with a distinct downward taper, positioning the visual mass more heavily in the inferior quadrant."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior margin of the dark band across the shoulders displays a shallow U-shape as it transitions into the white mid-dorsal fur.",
+    "normalized_band_thickness": "The dark transverse band occupies approximately 30% of the visible torso length between the neck base and the lumbar region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the ears is approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae are uniformly convex and semicircular."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

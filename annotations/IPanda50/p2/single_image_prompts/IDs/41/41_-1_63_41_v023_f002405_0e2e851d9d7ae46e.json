@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at a diagonal angle of approximately 45 degrees relative to the snout-to-forehead facial axis.",
+    "aspect_ratio_factor": "The eye patch is distinctly elliptical, with its major axis along the ear-to-snout line being approximately twice the length of its minor axis.",
+    "inferior_centroid_shift": "The patch exhibits a pronounced downward taper towards the snout, creating an asymmetric visual shift of its mass away from the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the transverse band displays a smooth, broad U-shaped curvature across the dorsal midline.",
+    "normalized_band_thickness": "The dark band is substantial in thickness, occupying roughly 30% of the visible longitudinal torso surface."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a broad white cranial region, with the gap between the dark fur areas estimated at 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "The top boundary of the visible right ear pinna is smoothly rounded without significant flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the high-contrast eye patch is oriented at an approximately 45-degree angle relative to the sagittal plane of the cranium, tapering toward the rostrum.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval morphology with a visual length approximately double its width.",
+    "inferior_centroid_shift": "The patch exhibits a distinct teardrop-shaped taper toward the muzzle, indicating a visual shift where the inferior point is further from the geometric center than the superior point."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The dark semicircular ear regions are separated by a wide gap relative to their own diameter, showing a broad white cranial vertex.",
+    "apex_contour_smoothness": "The superior boundaries of the ears display a smooth, continuous convex curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

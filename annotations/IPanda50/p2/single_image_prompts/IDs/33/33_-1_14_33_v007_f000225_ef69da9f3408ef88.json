@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 to 50 degrees relative to the horizontal facial axis, angled ventrally toward the midline of the snout.",
+    "aspect_ratio_factor": "Vertical oval geometry with a high aspect ratio, where height significantly exceeds width.",
+    "inferior_centroid_shift": "Pronounced downward tapering, with the lower margin of the patch extending well below the ocular center toward the lower cheek."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High; the black transverse band occupies the entirety of the visible shoulder and upper limb junction."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide cranial gap approximately twice the width of an individual pinna.",
+    "apex_contour_smoothness": "Uniformly rounded semicircular contours at the superior boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

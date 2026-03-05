@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented vertically with a slight anterior tilt relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "Elongated oval with a vertical height approximately 2.5 times the horizontal width.",
+    "inferior_centroid_shift": "Distinct downward tapering with the lowest point of the patch extending significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": "Relatively flat U-shape across the posterior edge with minimal indentation.",
+    "normalized_band_thickness": "Thick band occupying approximately 30-35% of the visible torso length between the neck and mid-abdomen."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear separation by a wide cranial gap of white fur, roughly equivalent to 1.5 times the base width of a single ear.",
+    "apex_contour_smoothness": "Top boundaries exhibit a smooth, semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patches is oriented obliquely, tilting downward toward the muzzle at approximately a 45-degree angle relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "The eye patches exhibit an oval morphology with a vertical elongation, showing a height-to-width ratio of approximately 1.4:1.",
+    "inferior_centroid_shift": "The patches display a distinct downward taper, with the mass extending significantly below the horizontal midline of the ocular region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior margin of the dorsal band displays a broad, shallow U-shaped curvature across the visible portion of the upper back.",
+    "normalized_band_thickness": "The black dorsal band appears thick, occupying approximately 35% of the visible torso length between the neck and mid-section."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "There is a wide, distinct white sagittal gap between the two black ear regions, roughly equivalent to 1.5 times the horizontal width of the right ear.",
+    "apex_contour_smoothness": "The superior boundaries of the ears are characterized by smooth, semicircular convex arcs without flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

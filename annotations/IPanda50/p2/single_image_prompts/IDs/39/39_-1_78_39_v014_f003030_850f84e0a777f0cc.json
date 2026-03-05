@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal downward orientation approximately 45 degrees relative to the horizontal facial axis based on the visible left patch.",
+    "aspect_ratio_factor": "Elongated oval with a height-to-width ratio significantly greater than 1.0.",
+    "inferior_centroid_shift": "Pronounced downward taper extending the lower boundary well below the geometric center toward the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Large band thickness occupying approximately one-third of the visible lateral torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the ear regions is approximately 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Smooth semicircular curvature at the top boundary of both visible ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

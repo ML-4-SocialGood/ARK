@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "Shallow U-shape curve profile visible along the posterior margin of the dark band",
+    "normalized_band_thickness": "The band occupies approximately one-third of the longitudinal torso length visible between the neck and the lower dorsal region"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide horizontal separation between two distinct dark semicircular auricular regions",
+    "apex_contour_smoothness": "Convex and rounded top boundaries"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patches is oriented at a downward diagonal angle of approximately 30 to 45 degrees toward the rostrum.",
+    "aspect_ratio_factor": "The patches exhibit an elongated oval morphology with a vertical-to-horizontal ratio greater than 1.5:1.",
+    "inferior_centroid_shift": "The patches show a distinct downward tapering, creating a teardrop effect where the lowest point is significantly extended below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band across the scapular region exhibits a broad, shallow U-shaped curve.",
+    "normalized_band_thickness": "The dark band is thick, occupying nearly half of the visible height of the torso at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned wide apart on the lateral edges of the cranium with a significant white gap between them.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae are characterized by a smooth, semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

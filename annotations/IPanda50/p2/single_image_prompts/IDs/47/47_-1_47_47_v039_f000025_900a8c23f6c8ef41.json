@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis of the visible eye patch is oriented at approximately a 45-degree downward angle toward the rostrum relative to the horizontal midline",
+    "aspect_ratio_factor": "Elliptical/oval profile with a vertical height approximately 1.6 times the horizontal width",
+    "inferior_centroid_shift": "Pronounced downward tapering extension reaching below the ocular center toward the lower muzzle"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve at the posterior margin where it transitions into the white dorsal fur",
+    "normalized_band_thickness": "High thickness, extending from the base of the neck to the mid-scapular region, occupying approximately 35% of the visible upper torso"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large separation distance across the cranial vault, approximately 2.5 times the width of a single pinna",
+    "apex_contour_smoothness": "Smoothly rounded, semi-circular convex arcs without flattening"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is in a seated upright posture holding a green, segmented bamboo culm with both forelimbs across the chest"
+}

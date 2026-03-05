@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation with the primary axes of both patches tilted medially toward the muzzle.",
+    "aspect_ratio_factor": "Oval geometry with a vertical elongation, estimated width-to-height ratio of approximately 0.65:1.",
+    "inferior_centroid_shift": "Significant downward extension below the geometric center, particularly at the medial-inferior margins."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral placement with a gap approximately 1.5 times the width of an individual pinna.",
+    "apex_contour_smoothness": "Convex and broadly rounded top boundaries with slight textural fuzziness."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

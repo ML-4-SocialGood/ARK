@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": "Visual ratio is approximately 2:1, identifying the patches as oval rather than circular, although boundaries are diffuse due to motion blur.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The black dorsal band covers approximately 30-35% of the visible torso height when measured from the shoulder to the base of the frame."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the ears is approximately equal to the total width of the white cranial fur visible between them.",
+    "apex_contour_smoothness": "The tops of the ears exhibit a smooth, convex, and semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive brownish-yellow discoloration is visible on the ventral fur in the abdominal and inguinal regions."
+}

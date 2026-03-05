@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Slanted at approximately 45 degrees downward toward the snout.",
+    "aspect_ratio_factor": "Distinctly oval with major axis length significantly exceeding minor axis width.",
+    "inferior_centroid_shift": "Pronounced downward tapering toward the muzzle from the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deeply curved, broad U-shaped posterior boundary.",
+    "normalized_band_thickness": "High thickness, covering approximately 35% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between the two visible black ear regions across the white cranium.",
+    "apex_contour_smoothness": "Smoothly rounded convex curvature at the top of the ear boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

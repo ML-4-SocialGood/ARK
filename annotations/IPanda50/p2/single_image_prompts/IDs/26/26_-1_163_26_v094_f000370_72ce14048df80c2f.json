@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal downward tilt at approximately 45 degrees relative to the cranial midline",
+    "aspect_ratio_factor": "Vertical oval with elongation along the diagonal axis",
+    "inferior_centroid_shift": "Teardrop morphology with a pronounced tapering toward the lower nasal region"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped posterior margin across the scapular region",
+    "normalized_band_thickness": "Approximately 25-30% of the visible dorsal torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap approximately 1.5 times the width of an individual pinna",
+    "apex_contour_smoothness": "Smoothly curved, semi-circular convex upper boundary"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

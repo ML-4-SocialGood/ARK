@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, approximately 45 degrees relative to the horizontal facial axis, sloping downwards towards the rostrum.",
+    "aspect_ratio_factor": "Elongated oval morphology with a visual height-to-width ratio greater than 2:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering extending well below the horizontal eye midline."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, wide U-shape profile along the posterior boundary.",
+    "normalized_band_thickness": "Thick transverse band, occupying approximately 30% of the visible dorsal-to-lumbar span."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smooth, semicircular convex curvature at the dorsal apex of the pinna."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the black eye patches are oriented at a diagonal inward slant of approximately 35 degrees relative to the vertical midline of the face.",
+    "aspect_ratio_factor": "The patches exhibit an elongated oval geometry with an approximate length-to-width ratio of 2:1.",
+    "inferior_centroid_shift": "There is a visible downward expansion in the lower half of the patch, with the widest point situated below the horizontal center of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark dorsal band presents a shallow, relatively flat U-shape across the upper back.",
+    "normalized_band_thickness": "The band appears thick, covering approximately 40% of the visible torso length from the neck to the mid-back region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the medial edges of the ears is approximately equal to 1.2 times the width of a single ear.",
+    "apex_contour_smoothness": "The superior boundaries of the ears are continuously convex and smoothly rounded without any visible flattened sections."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is positioned with its left hind limb raised vertically in the immediate foreground, providing a high-contrast view of the dark fur and plantar surface of the foot."
+}

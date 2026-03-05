@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at approximately a 45-degree angle downward toward the rostrum.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval geometry with an approximate 1.5:1 length-to-width ratio.",
+    "inferior_centroid_shift": "Pronounced downward tapering is visible, with the inferior margin extending notably below the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The visible segment of the dorsal band on the right shoulder represents roughly 35 percent of the lateral torso profile height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the inner margins of the pinnae is approximately 1.5 times the horizontal width of a single ear region.",
+    "apex_contour_smoothness": "The apex of the camera-left ear exhibits a smooth, continuous semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

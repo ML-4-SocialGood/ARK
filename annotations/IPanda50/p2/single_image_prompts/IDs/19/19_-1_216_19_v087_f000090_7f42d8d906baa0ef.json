@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the black eye patches are oriented diagonally, angled approximately 45 degrees upward and outward from the rostrum's central axis.",
+    "aspect_ratio_factor": "The patches exhibit a high aspect ratio, appearing as elongated ovals with the vertical-oblique length significantly exceeding the width.",
+    "inferior_centroid_shift": "There is a distinct downward tapering, where the inferior margin of the patch extends further from the geometric center than the superior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band at the lateral flanks appears thick, occupying approximately one-third of the visible upper torso's vertical profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely set, separated by a distance approximately 1.5 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "The top boundaries of the ears are characterized by a smooth, rounded convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The ventral fur exhibits a pronounced yellowish-brown discoloration compared to the white fur of the head."
+}

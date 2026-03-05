@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the bilateral black eye patches are oriented vertically with a slight inward tilt of approximately 80 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The patches present as vertically elongated ovals with an approximate width-to-height ratio of 1:1.8.",
+    "inferior_centroid_shift": "There is a distinct downward tapering, creating a teardrop morphology where the mass of the patch is concentrated in the superior half."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the transverse dark band across the scapular region displays a shallow, broad U-shaped curve.",
+    "normalized_band_thickness": "The dark band occupies approximately 35-40% of the visible dorsal-ventral torso profile at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the medial edges of the dark ear regions is approximately 1.5 times the width of a single ear region.",
+    "apex_contour_smoothness": "The superior boundaries of the ears are characterized by a continuous, smooth semicircular curvature without flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-red pigment staining is visible on the ventral and pelvic fur regions."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at approximately a 45-degree angle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval geometry with an estimated 2:1 length-to-width ratio.",
+    "inferior_centroid_shift": "The patch exhibits a distinct tapering towards its posterior-inferior margin, shifting the geometric center toward the anterior-superior region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The black band occupies approximately 35-40% of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the two dark ear regions is roughly equivalent to the width of one ear.",
+    "apex_contour_smoothness": "The superior boundaries of the visible ears are characterized by a smooth, semi-circular convex profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced yellowish-brown staining is visible across the white fur of the abdomen and lower thoracic regions."
+}

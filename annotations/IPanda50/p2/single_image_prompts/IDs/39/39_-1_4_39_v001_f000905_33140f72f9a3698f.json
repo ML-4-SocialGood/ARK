@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve along the posterior edge of the thoracic band",
+    "normalized_band_thickness": "Significant thickness across the lateral scapular region, covering approximately one-third of the visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distinct wide separation between the black pinnae with a white sagittal plane gap visible",
+    "apex_contour_smoothness": "Semicircular and smooth convex curvature at the ear apices"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Prominent off-white claws visible on the digits of the right hind paw and left fore paw"
+}

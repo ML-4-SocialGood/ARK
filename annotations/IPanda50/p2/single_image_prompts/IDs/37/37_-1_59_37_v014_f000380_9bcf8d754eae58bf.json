@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, angled approximately 45 degrees downward towards the muzzle relative to the horizontal axis of the head.",
+    "aspect_ratio_factor": "Elongated oval, with the vertical axis approximately 1.8 times the horizontal width.",
+    "inferior_centroid_shift": "The patch tapers distinctly at its lowest point, creating a teardrop-like extension towards the lower face."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape with a broad, gentle curve along the posterior edge of the black saddle.",
+    "normalized_band_thickness": "Significant thickness, covering approximately 35% of the total visible dorsal length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, with the gap between ears roughly equivalent to the width of one ear base.",
+    "apex_contour_smoothness": "Broadly rounded and smooth curvature at the superior apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brownish-tan discoloration is present on the fur of the posterior and hindquarter regions compared to the cream-colored midsection."
+}

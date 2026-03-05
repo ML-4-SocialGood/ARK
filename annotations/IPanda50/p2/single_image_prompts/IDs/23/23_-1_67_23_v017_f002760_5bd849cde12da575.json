@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, approximately 45 degrees relative to the snout-ear axis, tapering toward the rostrum.",
+    "aspect_ratio_factor": "Oval morphology with a length-to-width ratio of approximately 1.8:1.",
+    "inferior_centroid_shift": "Moderate tapering observed at the lower-inner margin towards the nasal region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape along the posterior margin across the scapular region.",
+    "normalized_band_thickness": "High thickness, covering approximately 35-40% of the visible dorsal-lateral torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, roughly equivalent to three times the width of the ear base.",
+    "apex_contour_smoothness": "Uniformly rounded and semicircular along the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

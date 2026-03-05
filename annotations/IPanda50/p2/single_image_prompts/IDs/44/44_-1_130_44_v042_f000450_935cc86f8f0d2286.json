@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique angle approximately 45 degrees downward towards the nasal midline.",
+    "aspect_ratio_factor": "Elongated oval with height-to-width ratio approximately 1.8:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the geometric center shifted towards the upper third of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Thick lateral band covering approximately 30% of the visible vertical shoulder-to-hip torso segment."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation distance approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "Continuous semi-circular curvature with a rounded apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

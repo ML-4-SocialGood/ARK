@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the high-contrast black eye patches are angled approximately 45 degrees downward toward the nasal midline relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Ovoid geometry with a vertical elongation; length is approximately 1.5 times the width.",
+    "inferior_centroid_shift": "Notable downward tapering toward the inner lower corner of each patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior curve profile.",
+    "normalized_band_thickness": "High relative thickness; dark band occupies approximately one-third of the visible torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral spacing between ears, roughly equivalent to the width of the frontal cranial region.",
+    "apex_contour_smoothness": "High smoothness; ears exhibit a rounded, semicircular apex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

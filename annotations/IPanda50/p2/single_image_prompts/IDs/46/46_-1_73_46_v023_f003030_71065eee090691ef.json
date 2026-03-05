@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "The posterior boundary of the dark band exhibits a flat U-shape profile, running nearly horizontal across the dorsal midline.",
+    "normalized_band_thickness": "The dark band occupies approximately 35% of the visible torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned with a wide lateral separation, approximately twice the width of a single pinna base.",
+    "apex_contour_smoothness": "The superior boundary of the pinnae shows a smooth, high-radius semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject has numerous small, yellowish-brown debris fragments (likely wood shavings or bamboo) scattered across the black dorsal band and the white fur of the upper back."
+}

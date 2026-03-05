@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "Flat U-shape with a broad, smooth transition between the black dorsal fur and white cranial/neck fur.",
+    "normalized_band_thickness": "High relative thickness; the black band covers the majority of the visible lower torso and extends broadly towards the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the dark semicircular pinnae is wide, estimated at approximately 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Smooth, rounded apex contours without visible flattening or irregularities."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

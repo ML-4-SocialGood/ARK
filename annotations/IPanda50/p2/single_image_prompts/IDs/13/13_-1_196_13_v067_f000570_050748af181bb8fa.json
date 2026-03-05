@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is tilted at approximately 45 degrees downward from the horizontal axis toward the snout.",
+    "aspect_ratio_factor": "Oval morphology with an elongated vertical axis.",
+    "inferior_centroid_shift": "The patch exhibits a tapered teardrop shape extending downward from the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge displays a shallow U-shape curvature across the dorsal midline.",
+    "normalized_band_thickness": "The dark band constitutes approximately one-third of the visible body length between the neck and the tail region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct gap is visible between the ears, roughly equivalent to the width of the cranial crown.",
+    "apex_contour_smoothness": "The visible ear shows a smooth, semicircular curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

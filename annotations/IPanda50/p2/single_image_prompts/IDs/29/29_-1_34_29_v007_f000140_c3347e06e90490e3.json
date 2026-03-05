@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation slanted approximately 45 degrees downward toward the snout.",
+    "aspect_ratio_factor": "Elongated oval shape with a vertical length significantly exceeding the horizontal width.",
+    "inferior_centroid_shift": "Distinct downward tapering observed where the patch narrowest point extends well below the eye level."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation across the upper cranial vault.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular convex curves at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

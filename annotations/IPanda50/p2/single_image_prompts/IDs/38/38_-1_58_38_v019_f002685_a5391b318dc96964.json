@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation tilted approximately 45 degrees relative to the cranial-snout axis",
+    "aspect_ratio_factor": "Elongated elliptical shape with a length-to-width ratio of approximately 2:1",
+    "inferior_centroid_shift": "Notable downward taper extending toward the anterior-ventral portion of the face"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped profile across the posterior edge of the band",
+    "normalized_band_thickness": "High relative thickness covering approximately one-third of the visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Spatial gap approximately equal to the transverse width of the upper cranium",
+    "apex_contour_smoothness": "Uniformly rounded convex curvature at the top of the ear boundaries"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

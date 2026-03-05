@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patches is oriented at approximately a 60-degree angle relative to the horizontal facial plane, sloping downwards towards the muzzle.",
+    "aspect_ratio_factor": "The eye patches are distinctly oval, with a vertical height-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "There is a pronounced downward elongation, where the lowest point of the black pigment extends significantly below the horizontal midline of the orbital area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band follows a wide, shallow U-shape across the upper back with minimal vertical dipping.",
+    "normalized_band_thickness": "The dark band is thick, occupying roughly 40% of the visible lateral torso profile between the neck and the mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap is present between the ears, estimated at approximately twice the base width of a single ear.",
+    "apex_contour_smoothness": "The ear boundaries exhibit high smoothness with a consistently rounded, semicircular apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is holding a circular, textured brown object in its right forepaw and is oriented toward a pink spherical object suspended by a wire in the upper right quadrant of the frame."
+}

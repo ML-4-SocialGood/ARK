@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis is oriented at approximately a 45-degree angle relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "The patch exhibits an oval geometry with a vertical-to-horizontal ratio of approximately 1.4:1.",
+    "inferior_centroid_shift": "The patch displays a distinct inferior elongation, with the lowest pixel boundary situated significantly below the horizontal midline of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The visible portion of the posterior edge exhibits a relatively flat U-shape profile.",
+    "normalized_band_thickness": "The dark band is thick, occupying approximately 35-40% of the vertical torso space visible from this angle."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-pinna gap is wide, approximately matching the width of the frontal cranial region.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, semi-circular convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

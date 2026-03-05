@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis of the visible eye patch is oriented at a steep downward angle of approximately 70 degrees relative to the horizontal facial midline.",
+    "aspect_ratio_factor": "Elliptical profile with a vertical elongation where height is approximately 1.6 times the horizontal width.",
+    "inferior_centroid_shift": "Moderate tapering observed at the inferior boundary, resulting in a teardrop-like extension towards the lower muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the transverse band displays a wide, shallow U-shaped curvature across the dorsal region.",
+    "normalized_band_thickness": "The dark band occupies approximately 35% of the visible torso height at the lateral flank intersection."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large inter-pinna gap, with a distance between the medial edges approximately equal to 1.5 times the width of an individual pinna.",
+    "apex_contour_smoothness": "The superior margins of the ears exhibit a consistent semi-circular, smooth convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

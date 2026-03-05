@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape curvature along the posterior boundary",
+    "normalized_band_thickness": "Uniform thickness across the visible dorsal width"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant white-furred gap between the dark auricular regions",
+    "apex_contour_smoothness": "Convex, rounded apex curvature"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Small dark particulate matter on the posterior cranial/cervical midline"
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal downward orientation toward the rostrum, approximately 60 degrees from the horizontal facial axis.",
+    "aspect_ratio_factor": "Vertically elongated oval with a height-to-width ratio of approximately 2:1.",
+    "inferior_centroid_shift": "Pronounced tapering at the inferior pole, shifting the visual weight significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior curve across the interscapular region.",
+    "normalized_band_thickness": "The black band occupies approximately 50% of the visible torso area above the horizontal log occlusion."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the medial edges of the pinnae is approximately 1.5 times the width of a single pinna base.",
+    "apex_contour_smoothness": "Smooth, semicircular convex curvature at the superior boundary of both visible ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Presence of a secondary individual in the lower foreground, partially occluded by dense bamboo foliage."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree diagonal tilt relative to the facial midline for the visible left eye patch.",
+    "aspect_ratio_factor": "Elongated oval with a significantly greater vertical-diagonal length compared to width.",
+    "inferior_centroid_shift": "Pronounced tapering at the inferior-medial point, extending toward the muzzle area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shaped curvature at the posterior boundary where black pigmentation meets the tan fur.",
+    "normalized_band_thickness": "Occupies approximately one-third of the visible upper torso longitudinal axis."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large gap between pinnae, positioned laterally on the upper cranium.",
+    "apex_contour_smoothness": "Convex and smoothly rounded superior curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The non-pigmented fur regions display a pervasive tan/brownish hue rather than standard white pixels."
+}

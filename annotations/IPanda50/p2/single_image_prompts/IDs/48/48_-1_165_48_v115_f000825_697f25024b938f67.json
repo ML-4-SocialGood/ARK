@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis is oriented at an approximately 50-degree downward angle toward the rostrum relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Distinctly oval shape, with the vertical-oblique height being approximately 1.5 times the horizontal width.",
+    "inferior_centroid_shift": "Visible downward tapering toward the snout, resulting in a teardrop profile where the bulk of the mass is in the lower half."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band exhibits a broad, shallow U-shaped curvature across the back.",
+    "normalized_band_thickness": "The dark band is thick, occupying approximately 35% of the visible dorsal torso region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the dark auricular regions is approximately 1.3 times the width of a single ear.",
+    "apex_contour_smoothness": "The superior boundaries of the ears exhibit smooth, semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

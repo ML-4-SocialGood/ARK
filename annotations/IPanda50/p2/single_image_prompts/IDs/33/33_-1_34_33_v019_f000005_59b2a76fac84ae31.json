@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at approximately a 45-degree angle relative to the median facial plane, sloping towards the lateral mandible.",
+    "aspect_ratio_factor": "The eye patch displays an oval morphology with an estimated visual aspect ratio of 1.5:1.",
+    "inferior_centroid_shift": "There is a visible tapering effect where the lower portion of the patch narrows significantly as it approaches the snout region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The lateral portion of the shoulder band is visible, occupying approximately 35% of the visible torso length at the flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely spaced, with a gap approximately 1.8 times the horizontal width of a single pinna.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, continuous semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

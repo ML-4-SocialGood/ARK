@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical-oblique orientation, approximately 75 degrees relative to the horizontal axis of the snout.",
+    "aspect_ratio_factor": "Vertically elongated oval with a width-to-height ratio of approximately 1:2.",
+    "inferior_centroid_shift": "Significant downward tapering with a higher density of black pixels in the superior half of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped profile across the posterior boundary of the transverse band.",
+    "normalized_band_thickness": "The band occupies approximately 45% of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible left ear exhibits a smooth, continuous semicircular convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

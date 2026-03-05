@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The black ear regions are widely separated by a white cranial gap roughly equivalent to 1.5 times the horizontal width of a single ear patch.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, rounded convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Multiple green leaves are adhered to the white facial fur, specifically concentrated over the left periocular region and the upper forehead."
+}

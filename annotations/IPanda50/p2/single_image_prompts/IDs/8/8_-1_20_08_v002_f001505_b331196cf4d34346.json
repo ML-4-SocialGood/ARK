@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shape across the posterior edge of the band",
+    "normalized_band_thickness": "Estimated at approximately 20% of the visible dorsal-to-caudal torso segment"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct gap is visible between the two dark ear regions atop the cranium",
+    "apex_contour_smoothness": "The visible left ear displays a smooth, convex, and rounded top boundary"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive accumulation of particulate soil and organic forest debris scattered across the white dorsal fur"
+}

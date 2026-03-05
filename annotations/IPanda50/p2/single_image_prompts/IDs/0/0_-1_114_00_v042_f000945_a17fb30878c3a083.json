@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is angled approximately 30 to 45 degrees downward toward the snout relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch displays an oval profile with a vertical-to-horizontal ratio of approximately 1.4:1.",
+    "inferior_centroid_shift": "There is a visible downward tapering of the patch geometry towards the lower orbital/muzzle region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band across the shoulders occupies approximately 30% of the visible torso height in this upright orientation."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the ears is approximately 2.5 times the width of a single ear region.",
+    "apex_contour_smoothness": "The top boundaries of the ears exhibit a smoothly rounded, semicircular contour."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is positioned behind a series of vertical black metal bars that cause significant periodic occlusion across the head and torso."
+}

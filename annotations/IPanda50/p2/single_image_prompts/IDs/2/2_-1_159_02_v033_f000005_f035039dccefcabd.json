@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, oriented at approximately a 45-degree angle relative to the horizontal facial axis, sloping downwards toward the lateral edges.",
+    "aspect_ratio_factor": "Vertical-dominant oval morphology; the vertical axis is approximately 1.8 times the horizontal width.",
+    "inferior_centroid_shift": "Significant downward tapering, creating a teardrop profile where the lowest point is positioned well below the horizontal center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High; the dark band spans approximately 35% of the visible torso height from the shoulder down to the upper limb articulation."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, with the distance between the medial edges of the ears approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "Smoothly convex and semicircular, exhibiting no visible flattening or irregularities at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

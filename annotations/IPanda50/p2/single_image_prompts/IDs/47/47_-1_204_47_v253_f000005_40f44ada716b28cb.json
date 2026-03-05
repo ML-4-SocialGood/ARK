@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical orientation with a slight medial tilt at the superior pole relative to the facial midline.",
+    "aspect_ratio_factor": "Elongated vertical oval with an estimated width-to-height ratio of 1:2.",
+    "inferior_centroid_shift": "Significant downward tapering where the inferior margin is narrower than the superior margin, shifting the geometric center upward."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap distance between ears is approximately equal to the transverse width of the white cranial fur between the medial ear bases.",
+    "apex_contour_smoothness": "Smooth, convex, and uniformly rounded curvature at the top boundary of both pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A prominent dark fur patch is visible on the submental (chin) region, creating a localized high-contrast marker against the white ventral face."
+}

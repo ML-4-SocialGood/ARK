@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation with the primary axis angled downward towards the nasal midline.",
+    "aspect_ratio_factor": "Oval morphology with the vertical-diagonal axis length exceeding the horizontal width.",
+    "inferior_centroid_shift": "Visible downward elongation extending the patch significantly below the ocular center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior profile with a relatively flat transverse edge.",
+    "normalized_band_thickness": "Broad band representing a large percentage of the visible dorsal torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant cranial gap between the ears, roughly equal to 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "Smoothly rounded, convex semicircular top boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

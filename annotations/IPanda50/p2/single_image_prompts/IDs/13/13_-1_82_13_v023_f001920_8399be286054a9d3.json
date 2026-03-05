@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented at a downward diagonal angle of approximately 45 degrees relative to the horizontal midline of the face.",
+    "aspect_ratio_factor": "Pronounced oval geometry with an estimated aspect ratio of 1:1.6, showing significantly greater height than width.",
+    "inferior_centroid_shift": "Distinct downward tapering observed, with the mass of the patch concentrated in the upper two-thirds and narrowing towards the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped curve along the posterior margin across the dorsal midline.",
+    "normalized_band_thickness": "Consistent transverse thickness across the shoulders, representing roughly 30% of the visible dorsal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large relative gap between ears, positioned on the far lateral-superior margins of the skull.",
+    "apex_contour_smoothness": "Symmetrically rounded apex with a smooth, semi-circular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

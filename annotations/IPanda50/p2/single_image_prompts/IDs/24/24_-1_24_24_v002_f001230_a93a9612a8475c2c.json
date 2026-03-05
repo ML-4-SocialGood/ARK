@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward tilt of the major axis relative to the horizontal line of the snout.",
+    "aspect_ratio_factor": "Vertical oval with a ratio of approximately 1.4:1.",
+    "inferior_centroid_shift": "Distinct elongation towards the lower muzzle, creating a teardrop-shaped lower boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape curvature along the posterior edge of the band.",
+    "normalized_band_thickness": "Estimated at 30% of the visible longitudinal torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, approximately 1.5 times the width of a single ear region.",
+    "apex_contour_smoothness": "Regular, smooth semicircular curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, tilted at approximately 45 degrees relative to the horizontal facial axis, sloping downwards towards the snout.",
+    "aspect_ratio_factor": "Strongly elliptical shape with a visual major-to-minor axis ratio of approximately 2:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering toward the anterior-inferior quadrant of the eye patch area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Relatively flat, shallow U-shaped curve along the posterior edge of the dark band.",
+    "normalized_band_thickness": "Broad band, estimated to occupy approximately 30-35% of the visible dorsal length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distinct white gap visible between the dark ear regions, approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The superior boundary of the ears exhibits a smooth, continuous semicircular convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

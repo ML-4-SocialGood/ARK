@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation tilting away from the midline at approximately 30 to 45 degrees relative to the vertical facial axis",
+    "aspect_ratio_factor": "Oval profile with vertical height significantly exceeding horizontal width",
+    "inferior_centroid_shift": "Pronounced downward tapering with the lowest point extending toward the muzzle well below the geometric center"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation distance between the ears positioned on the lateral-superior boundaries of the cranium",
+    "apex_contour_smoothness": "Smooth, convex semicircular curvature at the top boundary of the ears"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Highly distinct narrow white bridge on the muzzle separating the inward edges of the periocular patches"
+}

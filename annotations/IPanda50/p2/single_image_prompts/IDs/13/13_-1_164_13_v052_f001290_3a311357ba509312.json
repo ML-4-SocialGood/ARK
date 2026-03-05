@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical-oblique orientation, approximately 80 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Ovoid morphology with vertical elongation; estimated 1.5:1 height-to-width ratio.",
+    "inferior_centroid_shift": "Subtle downward tapering resulting in a lower-shifted visual centroid."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary at the interface of black and white fur.",
+    "normalized_band_thickness": "Approximately 35% of the visible dorsal-ventral torso depth."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "Generally rounded hemispherical tops with minor pixel blurring at the edges."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

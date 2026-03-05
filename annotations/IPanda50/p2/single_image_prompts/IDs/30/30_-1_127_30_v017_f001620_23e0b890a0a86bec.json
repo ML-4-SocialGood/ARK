@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The longitudinal axis of the visible eye patch is oriented at a downward diagonal angle toward the snout relative to the facial midline.",
+    "aspect_ratio_factor": "Elongated oval morphology where the length is approximately 1.8 times the width.",
+    "inferior_centroid_shift": "The patch exhibits a distinct ventral elongation, creating an asymmetrical tapering toward the lower edge of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior margin of the dark band forms a shallow, wide-radius U-shaped curve across the dorsal surface.",
+    "normalized_band_thickness": "The dark transverse band occupies approximately 30% of the visible longitudinal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A substantial white gap exists between the ears, measuring roughly 1.5 times the horizontal width of an individual ear region.",
+    "apex_contour_smoothness": "The superior boundaries of the ears exhibit a smooth, continuous semicircular convex profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A localized area of brownish-yellow chromatic discoloration is visible on the white pelage of the lower back and rump."
+}

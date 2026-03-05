@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape profile along the posterior edge of the dark band",
+    "normalized_band_thickness": "Thick transverse band occupying approximately 30-40% of the visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distinct white gap visible between the two dark semicircular pinnae",
+    "apex_contour_smoothness": "Smooth, rounded semicircular contour on both ears"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible brownish-tan staining on the fur of the lower posterior rump and tail region"
+}

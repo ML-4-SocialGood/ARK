@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented approximately 60 degrees downward relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "Distinctly oval, with the vertical dimension significantly greater than the horizontal width.",
+    "inferior_centroid_shift": "The patch exhibits a pronounced downward taper, with the lowest point extending toward the lower cheek."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior edge along the dorsal region.",
+    "normalized_band_thickness": "Thick lateral band occupying roughly half of the visible vertical height of the shoulder region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Relatively wide separation, approximately twice the width of a single ear region.",
+    "apex_contour_smoothness": "Smoothly rounded, convex curvature at the top of the visible ears."
+  },
+  "acquired_anomalies_or_scars": "A single, small dark pigment spot is visible on the white muzzle fur, below the left eye patch.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree angle relative to the snout-ear axis, tapering downwards towards the muzzle.",
+    "aspect_ratio_factor": "Elongated oval with an approximate 1.6:1 length-to-width ratio.",
+    "inferior_centroid_shift": "Pronounced downward taper with the geometric center shifted toward the upper-posterior region of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curvature on the posterior edge of the transverse band.",
+    "normalized_band_thickness": "Significant, occupying approximately 35% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Visible gap approximately 1.5 times the width of the ear base in side profile.",
+    "apex_contour_smoothness": "Smooth, semicircular convex curvature at the top of the ear boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-orange fur discoloration on the posterior lumbar and rump regions, contrasting with the primary white fur."
+}

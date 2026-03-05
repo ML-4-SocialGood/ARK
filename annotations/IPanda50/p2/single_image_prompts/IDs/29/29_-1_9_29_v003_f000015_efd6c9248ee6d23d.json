@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation with the primary axis of the patches tilted inward toward the muzzle at approximately a 45-degree angle",
+    "aspect_ratio_factor": "Oval-teardrop morphology with a vertical elongation relative to the horizontal width",
+    "inferior_centroid_shift": "Significant downward and inward tapering of the patch toward the inferior-medial margin"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shape across the posterior boundary of the shoulder band",
+    "normalized_band_thickness": "Thick transverse band occupying approximately 30-40% of the visible dorsal length from neck to lower back"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between ears, exceeding the width of a single ear by roughly 50%",
+    "apex_contour_smoothness": "Smoothly rounded semicircular contours with no visible flattening"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

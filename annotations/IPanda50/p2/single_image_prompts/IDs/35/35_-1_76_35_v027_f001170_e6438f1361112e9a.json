@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the right eye patch is oriented at approximately a 45-degree angle downward from the medial rostrum toward the lateral side.",
+    "aspect_ratio_factor": "The eye patch is oval-shaped, significantly longer along its dominant axis than its width.",
+    "inferior_centroid_shift": "The patch exhibits a visible downward tapering, with its lowest point situated below the horizontal center of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dorsal band displays a wide, shallow U-shape.",
+    "normalized_band_thickness": "The dark band occupies approximately 30 percent of the visible dorsal torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a broad white expanse of fur across the top of the head.",
+    "apex_contour_smoothness": "The tops of the ears are smoothly rounded and convex."
+  },
+  "acquired_anomalies_or_scars": "A prominent brownish discoloration or stain is visible on the white fur of the lower back and left hip area.",
+  "other_distinctive_markers": "The subject is partially sitting in a shallow pool of water."
+}

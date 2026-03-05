@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad V-shape with a moderate dip toward the posterior at the spinal midline.",
+    "normalized_band_thickness": "High relative thickness; the dark band accounts for approximately 35-40% of the visible vertical torso height at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap exists between the medial boundaries of the ear patches, approximately equal to the base width of a single ear.",
+    "apex_contour_smoothness": "Smoothly convex and rounded at the apex with no visible flattening or jaggedness."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

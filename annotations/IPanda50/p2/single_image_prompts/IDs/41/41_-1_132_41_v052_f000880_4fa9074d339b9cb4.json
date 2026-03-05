@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation tilted approximately 45 degrees downward toward the rostrum relative to the horizontal plane of the skull.",
+    "aspect_ratio_factor": "Elongated oval morphology with an approximate visual width-to-height ratio of 1.5:1.",
+    "inferior_centroid_shift": "Moderate downward tapering observed where the lower margin of the patch narrows toward the cheek region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Predominantly flat U-shaped curvature on the posterior boundary as observed from the lateral perspective.",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 30 to 35 percent of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Visible separation distance roughly equivalent to the width of the cranial crown between the two dark ear regions.",
+    "apex_contour_smoothness": "Uniformly rounded semicircular curvature at the superior margins of the ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

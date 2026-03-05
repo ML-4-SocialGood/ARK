@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at approximately a 45-degree angle downward toward the rostrum relative to the horizontal facial midline.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval geometry with a high aspect ratio where the vertical length along the dominant axis is significantly greater than the transverse width.",
+    "inferior_centroid_shift": "A distinct downward tapering effect is visible toward the medial-inferior point, indicating a shift of the visual mass toward the lower nasal region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

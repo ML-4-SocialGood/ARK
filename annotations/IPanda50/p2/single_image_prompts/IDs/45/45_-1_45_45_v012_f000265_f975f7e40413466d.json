@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented at approximately 60 degrees relative to the horizontal facial axis, sloping downwards towards the muzzle.",
+    "aspect_ratio_factor": "Elongated oval shape with a vertical length significantly exceeding its horizontal width.",
+    "inferior_centroid_shift": "Distinct downward tapering with the lowest point extending well below the geometric center of the eye patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap is visible between the ears, roughly equivalent to 1.5 times the horizontal width of a single ear base.",
+    "apex_contour_smoothness": "Top boundaries exhibit a smooth, convex, and semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

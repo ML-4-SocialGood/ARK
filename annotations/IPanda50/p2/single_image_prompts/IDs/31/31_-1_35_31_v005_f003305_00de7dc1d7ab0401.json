@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees relative to the vertical facial axis, tapering toward the snout.",
+    "aspect_ratio_factor": "Distinctly oval with vertical elongation; vertical-to-horizontal ratio is approximately 1.5:1.",
+    "inferior_centroid_shift": "Visual tapering and downward shift observed at the inferior-medial margin towards the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "Shallow U-shaped curvature across the posterior edge of the dark transverse band.",
+    "normalized_band_thickness": "High relative thickness, occupying approximately one-third of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap, approximately 1.5 times the width of a single ear region.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular convex profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

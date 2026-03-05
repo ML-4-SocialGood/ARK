@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation tilted approximately 45 degrees towards the midline and rostrum.",
+    "aspect_ratio_factor": "Elongated oval blobs with a length-to-width ratio exceeding 1.5.",
+    "inferior_centroid_shift": "Pronounced teardrop tapering with the lower margin extending significantly below the geometric center of the eye patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large spatial gap between the ears located at the superior-lateral corners of the cranium.",
+    "apex_contour_smoothness": "High smoothness with a consistent semicircular convex curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Open mandible displaying visible pink oral mucosa and lower dentition."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation with the primary axis angled approximately 45 degrees downward and outward from the horizontal facial midline.",
+    "aspect_ratio_factor": "Elongated ovoid geometry where the longitudinal axis is approximately 1.4 times the transverse width.",
+    "inferior_centroid_shift": "Pronounced downward tapering resulting in a teardrop-like appearance at the inferior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior curve with a relatively flat profile across the midline.",
+    "normalized_band_thickness": "Consistent thickness across the lateral flanks, occupying approximately 30 percent of the visible dorsal torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation approximately equivalent to two horizontal ear widths.",
+    "apex_contour_smoothness": "High degree of smooth, semicircular curvature at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

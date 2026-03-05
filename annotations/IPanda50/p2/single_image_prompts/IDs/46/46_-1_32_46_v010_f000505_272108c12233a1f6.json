@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented vertically with a slight inward tilt at the inferior margin towards the rostrum.",
+    "aspect_ratio_factor": "Strongly elongated oval; vertical dimension is approximately double the horizontal width.",
+    "inferior_centroid_shift": "Pronounced downward tapering; the inferior portion of the patch is significantly narrower and more pointed than the superior portion."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High relative thickness; the dark band occupies the majority of the visible lateral shoulder and upper thoracic region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation; the gap between the medial edges of the ears is approximately 1.5 times the width of a single ear region.",
+    "apex_contour_smoothness": "Uniformly convex and smooth curvature along the superior boundaries of both pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

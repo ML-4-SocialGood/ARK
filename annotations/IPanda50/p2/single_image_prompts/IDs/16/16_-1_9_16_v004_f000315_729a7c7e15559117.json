@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, with the primary axis of the patch angled at approximately 45 degrees downward toward the muzzle.",
+    "aspect_ratio_factor": "Ellipsoid morphology with an estimated width-to-height ratio of 1.6:1.",
+    "inferior_centroid_shift": "Substantial downward tapering observed, with the lowest point of the patch extending significantly below the geometric center of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High relative thickness, occupying approximately 45% of the visible vertical shoulder region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide-set ears separated by a gap approximately 2.5 times the horizontal width of a single pinna.",
+    "apex_contour_smoothness": "Smoothly curved, semicircular apex with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Prominent white claws are clearly visible on the front left paw, providing high contrast against the dark limb fur."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patches is oriented diagonally, tilted approximately 45 degrees relative to the horizontal facial axis towards the snout.",
+    "aspect_ratio_factor": "The eye patches exhibit an elongated oval morphology with a vertical-to-horizontal ratio greater than 1.",
+    "inferior_centroid_shift": "Visible downward tapering is present, with the lower margin extending significantly below the horizontal midline of the ocular region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a distance roughly equivalent to the width of a single ear at its base.",
+    "apex_contour_smoothness": "The superior boundaries of the ears are predominantly semicircular and rounded."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The ventral and thoracic fur exhibits a significant brownish-tan discoloration compared to the whiter cranial fur."
+}

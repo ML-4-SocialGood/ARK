@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis of the left eye patch is oriented at approximately a 60-degree downward angle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Vertical oval geometry with a height-to-width ratio of approximately 1.8:1.",
+    "inferior_centroid_shift": "Significant downward taper present; the lowest point of the patch extends well below the geometric center toward the maxillary region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curvature along the posterior edge with no sharp V-axial indentation.",
+    "normalized_band_thickness": "The band is wide, occupying roughly 25-30 percent of the visible torso length at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large separation distance, approximately equivalent to 2.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "The ear apices exhibit a rounded, convex curvature without flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The white fur across the torso and flanks exhibits a significant yellowish-brown chromatic shift."
+}

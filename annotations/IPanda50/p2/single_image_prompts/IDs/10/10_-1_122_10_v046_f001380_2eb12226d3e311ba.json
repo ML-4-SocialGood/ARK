@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the eye patches is oriented at approximately a 45-degree angle downward toward the muzzle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Oval-shaped; the visual height of the patch is significantly greater than its horizontal width.",
+    "inferior_centroid_shift": "There is a pronounced downward elongation, with the lowest point of the patch tapering well below the geometric center of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A clear gap is visible between the ear regions, approximately matching the width of the cranial vault between them.",
+    "apex_contour_smoothness": "The top boundaries of the ears are perfectly rounded and semicircular with no flattening visible."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-beige coloration or staining across the ventral fur of the abdomen, contrasting with the off-white fur of the head."
+}

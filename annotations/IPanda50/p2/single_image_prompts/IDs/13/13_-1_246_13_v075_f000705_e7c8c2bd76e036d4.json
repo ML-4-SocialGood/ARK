@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped curve along the posterior margin of the band.",
+    "normalized_band_thickness": "Consistent thickness across the dorsal midline, extending approximately one-quarter down the length of the visible torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation across the dorsal cranium.",
+    "apex_contour_smoothness": "Highly rounded, convex semicircular arcs."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Dust or soil accumulation visible on the fur of the lower lumbar/rump region."
+}

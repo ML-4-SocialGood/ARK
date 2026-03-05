@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, angled approximately 45 degrees downward toward the snout relative to the cranial midline.",
+    "aspect_ratio_factor": "Elongated oval profile with a height-to-width ratio of approximately 1.4:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering, with the mass extending significantly below the horizontal axis of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "Shallow, broad U-shaped curve at the posterior junction between black and white fur.",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 40% of the visible torso depth at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation between pinnae, approximately 1.5 times the width of an individual ear base.",
+    "apex_contour_smoothness": "Consistent convex curvature, appearing as a smooth semi-circular top boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

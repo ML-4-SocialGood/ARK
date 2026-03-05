@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Broad dark band visible on the lateral flanks, occupying approximately 40-50% of the visible torso height"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear separation gap across the white cranial vertex between the dark ear patches",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular curvature on the superior boundary of the visible left ear"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

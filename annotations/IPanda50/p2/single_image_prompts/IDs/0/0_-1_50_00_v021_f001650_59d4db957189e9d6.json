@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The major axis of the left eye patch is oriented at a near-vertical angle, approximately 80 degrees relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "Oval, with an estimated vertical-to-horizontal ratio of 1.5:1.",
+    "inferior_centroid_shift": "Moderate downward elongation creates a teardrop-like taper at the lower-outer boundary of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band exhibits a shallow U-shape transition into the white fur of the mid-back.",
+    "normalized_band_thickness": "The band appears thick, occupying approximately 40% of the visible dorsal-ventral torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide separation is visible between the ears, situated on the lateral-superior margins of the cranium.",
+    "apex_contour_smoothness": "The superior boundaries of both ears exhibit a smooth, convex, semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

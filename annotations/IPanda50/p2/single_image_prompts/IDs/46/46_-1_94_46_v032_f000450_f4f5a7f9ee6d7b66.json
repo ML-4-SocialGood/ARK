@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, tilted approximately 80 degrees relative to the horizontal facial axis, converging toward the muzzle.",
+    "aspect_ratio_factor": "Elongated oval morphology with a width-to-height ratio of approximately 1:2.",
+    "inferior_centroid_shift": "Pronounced downward tapering, with the majority of the patch mass located in the superior half."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The black shoulder band occupies approximately 30% of the visible torso height at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance approximately 1.5 times the horizontal width of a single pinna region.",
+    "apex_contour_smoothness": "Smoothly rounded, convex superior margins without flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

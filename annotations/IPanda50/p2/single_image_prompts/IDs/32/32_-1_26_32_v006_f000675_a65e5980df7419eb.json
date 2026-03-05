@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at a downward diagonal angle of approximately 45 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch exhibits an elongated oval aspect ratio, where the length of the dominant axis is roughly double the width of the transverse axis.",
+    "inferior_centroid_shift": "A clear downward taper is visible, with the mass of the patch extending significantly below the horizontal midline of the orbital region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band follows a broad U-shaped curvature across the dorsal surface.",
+    "normalized_band_thickness": "The band is thick and uniform, covering approximately one-quarter to one-third of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "There is a wide, distinct white gap between the dark ear regions, approximately equal to the horizontal width of one ear.",
+    "apex_contour_smoothness": "The superior boundaries of the ears exhibit a consistent, smooth, and rounded convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is holding a small, spherical yellow-green object in its left forepaw, which creates a high-contrast focal point against the dark limb."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward tilt toward the rostral tip relative to the horizontal facial axis",
+    "aspect_ratio_factor": "Vertically elongated oval with a major-to-minor axis ratio of approximately 1.8",
+    "inferior_centroid_shift": "Distinct downward tapering towards the inferior-medial quadrant of the patch"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped curvature along the posterior boundary",
+    "normalized_band_thickness": "Significant, covering approximately 35% of the visible longitudinal dorsal trunk"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation on the cranial crown, roughly equivalent to 1.5 times the transverse width of a single pinna",
+    "apex_contour_smoothness": "Smoothly rounded convex apex"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented at approximately 45 degrees relative to the horizontal facial plane, slanting downwards from the medial to lateral canthus.",
+    "aspect_ratio_factor": "Oval-shaped blobs with a length-to-width ratio of approximately 1.5.",
+    "inferior_centroid_shift": "Pronounced downward and lateral extension at the lower-outer quadrant, creating a distinctive teardrop-like taper."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep V-shape curvature at the posterior boundary where the dark band meets the white dorsal fur along the spine.",
+    "normalized_band_thickness": "Thick lateral sections covering approximately 35% of the visible vertical height of the upper torso region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation between ear regions, approximately 1.8 to 2 times the width of an individual pinna.",
+    "apex_contour_smoothness": "Highly uniform semicircular curvature with smooth, rounded superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

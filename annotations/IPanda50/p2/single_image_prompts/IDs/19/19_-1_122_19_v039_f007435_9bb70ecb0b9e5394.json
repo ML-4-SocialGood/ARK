@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right eye patch (left in frame) is oriented at approximately a 40-degree angle, slanting downwards towards the rostrum.",
+    "aspect_ratio_factor": "Oval/ellipsoidal with a vertical axis approximately 1.5 times the length of the horizontal axis.",
+    "inferior_centroid_shift": "Distinct downward-medial tapering on the lower portion of the patch, shifting the visual mass below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap between pinnae is approximately 1.5 times the width of the left pinna base.",
+    "apex_contour_smoothness": "Predominantly rounded convex tops, though the right pinna (left in frame) exhibits a slight apical flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

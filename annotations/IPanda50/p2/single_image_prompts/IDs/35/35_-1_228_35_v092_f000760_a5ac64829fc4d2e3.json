@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, tilting approximately 45 degrees downward toward the medial axis.",
+    "aspect_ratio_factor": "Ovoid morphology, with the vertical axis visually longer than the horizontal width.",
+    "inferior_centroid_shift": "Pronounced inferior tapering creating a teardrop profile extending toward the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shaped curvature on the posterior boundary of the dark band.",
+    "normalized_band_thickness": "Occupies approximately 30% of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation, approximately twice the horizontal diameter of an individual ear.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

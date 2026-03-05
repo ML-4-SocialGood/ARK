@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, roughly 70 degrees relative to the horizontal axis of the snout, visible in lateral profile.",
+    "aspect_ratio_factor": "Elongated oval, with a length-to-width ratio significantly greater than 2:1 from the visible angle.",
+    "inferior_centroid_shift": "Slight tapering toward the lower-front edge of the patch is visible."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape at the posterior margin where the black fur meets the white dorsal fur.",
+    "normalized_band_thickness": "Large, occupying roughly 45% of the visible upper torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smoothly convex and rounded top boundary on the visible right ear."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A green bamboo stalk is being held in the mouth, extending across the lower-left quadrant of the head."
+}

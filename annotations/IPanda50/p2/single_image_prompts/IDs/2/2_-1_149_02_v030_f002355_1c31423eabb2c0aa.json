@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary upper-frame eye patch is oriented approximately parallel to the vertical axis of the tilted head.",
+    "aspect_ratio_factor": "The upper eye patch is a rounded oval with a low aspect ratio, while the lower patch is irregularly compressed due to facial tilt.",
+    "inferior_centroid_shift": "The upper eye patch exhibits a slight teardrop-shaped elongation tapering toward the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The black band is thick and continuous across the visible shoulder and lateral torso regions."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely spaced, separated by a distance roughly equivalent to the width of the cranial vault.",
+    "apex_contour_smoothness": "The visible ears exhibit a smooth, semi-circular convex curvature at the top edges."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject has an open-mouth posture with visible lower canines and premolars."
+}

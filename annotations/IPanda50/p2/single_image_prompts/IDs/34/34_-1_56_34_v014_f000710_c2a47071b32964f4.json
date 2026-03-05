@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented at a diagonal angle, approximately 45 degrees relative to the horizontal facial axis, sloping downwards towards the rostrum.",
+    "aspect_ratio_factor": "The eye patch displays an ovaloid aspect ratio, with the longitudinal axis significantly exceeding the transverse width.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dorsal band exhibits a broad U-shaped curve as it transitions across the spine.",
+    "normalized_band_thickness": "The band appears thick, occupying approximately 25-30% of the visible dorsal torso length in this vertical orientation."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A clear cranial gap is visible between the two dark ear regions, roughly equivalent to the width of a single pinna.",
+    "apex_contour_smoothness": "The apexes of both ears appear rounded and convex with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is positioned in a vertical, bipedal climbing posture against a structured vertical surface."
+}

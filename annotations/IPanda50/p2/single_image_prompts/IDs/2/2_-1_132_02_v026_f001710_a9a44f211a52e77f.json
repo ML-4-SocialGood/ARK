@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shape with a smooth posterior curve",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 40% of the visible dorsal region"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear separation between ear regions across the white cranial vertex",
+    "apex_contour_smoothness": "Convex and smoothly rounded semicircular profile"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brownish-red discoloration present on the fur of the posterior dorsal and flank regions"
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation tilted approximately 45 degrees downward toward the muzzle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Oval geometry with a high aspect ratio, length being approximately twice the width.",
+    "inferior_centroid_shift": "Moderate tapering observed at the anterior-inferior portion of the patch toward the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shaped profile at the posterior margin of the transverse band.",
+    "normalized_band_thickness": "The band occupies approximately one-third of the total visible body length in lateral profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned laterally with a wide inter-pinna gap roughly equal to the width of the ear base.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular apex on both visible ear structures."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A distinct gradient in the white pelage from bright white on the neck and shoulders to a yellowish-cream hue on the posterior and lumbar regions."
+}

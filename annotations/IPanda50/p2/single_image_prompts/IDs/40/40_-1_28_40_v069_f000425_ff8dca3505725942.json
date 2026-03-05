@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation with the primary axis angled downward at approximately 45 degrees from the medial canthus toward the lateral-inferior edge.",
+    "aspect_ratio_factor": "Ellipsoidal morphology with an estimated horizontal-to-vertical ratio of 1.8:1.",
+    "inferior_centroid_shift": "Noticeable downward tapering at the lateral-inferior boundary of the black patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped curvature on the posterior edge of the dark shoulder band.",
+    "normalized_band_thickness": "High thickness, occupying approximately 40% of the visible dorsal-to-lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct gap between the dark semicircular ears, estimated at 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "Uniformly rounded and smooth convex curvature at the ear tips."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

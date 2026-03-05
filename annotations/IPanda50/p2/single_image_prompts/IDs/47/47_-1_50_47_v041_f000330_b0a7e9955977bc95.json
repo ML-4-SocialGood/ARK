@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 70-80 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Distinctly oval with a high vertical-to-horizontal aspect ratio.",
+    "inferior_centroid_shift": "Significant downward tapering with the lowest point extending toward the lower jawline."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep U-shape profile at the posterior edge where the black band meets the white dorsal fur.",
+    "normalized_band_thickness": "High thickness at the lateral flanks, covering approximately 40% of the visible torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Moderate gap between ears, estimated at 1.5 times the width of an individual pinna.",
+    "apex_contour_smoothness": "Smoothly rounded convex curvature at the top boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal elongation approximately 45 degrees downward relative to the horizontal facial axis of the visible profile",
+    "aspect_ratio_factor": "Elongated oval with a visual length-to-width ratio of approximately 2:1",
+    "inferior_centroid_shift": "Marked downward tapering toward the muzzle with the lowest point extending significantly below the geometric center"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide U-shaped curvature along the posterior margin of the dark band",
+    "normalized_band_thickness": "High thickness, occupying approximately 40-50 percent of the visible dorsal-ventral span"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smooth, rounded semicircular curvature at the top boundary of the visible ear"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree diagonal tilt relative to the horizontal facial axis, sloping downward toward the muzzle.",
+    "aspect_ratio_factor": "Elongated oval with a length significantly greater than width along the primary diagonal axis.",
+    "inferior_centroid_shift": "Pronounced tapering at the inferior-medial margin, extending toward the nasal region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve with a relatively smooth posterior margin across the dorsal midline.",
+    "normalized_band_thickness": "Broad band occupying approximately one-third of the visible torso length at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation across the cranial vault, with a gap exceeding the width of a single pinna.",
+    "apex_contour_smoothness": "Highly smooth, semi-circular curvature at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible brownish-yellow staining/soiling on the white fur of the posterior dorsal and flank regions."
+}

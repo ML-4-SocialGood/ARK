@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique tilt of approximately 45 degrees downward towards the muzzle relative to the facial midline.",
+    "aspect_ratio_factor": "Ovaloid geometry with a vertical-to-horizontal axis ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "Significant downward tapering with the geometric center positioned in the upper half of the patch footprint."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shaped posterior boundary with a smooth transition across the spine.",
+    "normalized_band_thickness": "Occupies approximately 25-30% of the visible torso length along the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct separation approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular convex curvature at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced yellowish-tan discoloration of the pelage on the dorsal and hindquarter regions compared to the white cranial fur."
+}

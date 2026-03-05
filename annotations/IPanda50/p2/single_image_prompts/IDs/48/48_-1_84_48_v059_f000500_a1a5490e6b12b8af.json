@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees downward relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Oval, with the vertical axis significantly longer than the horizontal width.",
+    "inferior_centroid_shift": "Visible downward tapering toward the snout, with the lowest point of the pigment region sitting well below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, wide U-shape profile along the posterior edge of the shoulder band.",
+    "normalized_band_thickness": "High, covering approximately 40-50% of the visible upper torso length at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap approximately twice the width of the individual pinna base.",
+    "apex_contour_smoothness": "Smoothly convex and rounded curvature at the top boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right eye patch exhibits an oblique orientation angled downward toward the snout at approximately 45 degrees.",
+    "aspect_ratio_factor": "The patch is an elongated oval with a visual aspect ratio of approximately 2:1.",
+    "inferior_centroid_shift": "There is a visible downward taper where the patch extends significantly further below its center than above it."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band on the left lateral flank occupies approximately 30 percent of the visible torso width."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The apex of the visible right ear displays a continuous, smooth semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

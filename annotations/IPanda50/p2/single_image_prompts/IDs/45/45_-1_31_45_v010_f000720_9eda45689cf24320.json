@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at approximately a 75-degree angle relative to the horizontal facial axis, tilting toward the rostrum.",
+    "aspect_ratio_factor": "The eye patch exhibits a high vertical aspect ratio, appearing as an elongated oval rather than a circular blob.",
+    "inferior_centroid_shift": "There is a distinct downward tapering, with the lowest point of the patch extending significantly below its geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band across the shoulders follows a broad, shallow U-shaped curve.",
+    "normalized_band_thickness": "The dark band is substantial, measuring roughly 35% of the total visible height of the torso region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible ear shows a slightly pointed apex rather than a perfectly rounded semicircular contour."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "White particulate matter or debris is visible adhering to the fur on the lower right mandible."
+}

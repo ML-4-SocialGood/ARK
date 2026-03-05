@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented at approximately 45 degrees downward toward the rostrum relative to the facial midline.",
+    "aspect_ratio_factor": "Elongated elliptical shape with an estimated width-to-height ratio of 1.6:1 along the primary axis.",
+    "inferior_centroid_shift": "The patch exhibits a distinct downward tapering, with the lowest point displaced significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band displays a shallow, broad U-shaped curve.",
+    "normalized_band_thickness": "Estimated thickness is 0.40 relative to the visible height of the anterior torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral spacing, approximately three times the width of an individual ear base.",
+    "apex_contour_smoothness": "Uniformly smooth, convex semicircular arc."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible brownish soil staining or discoloration on the ventral and posterior white fur regions."
+}

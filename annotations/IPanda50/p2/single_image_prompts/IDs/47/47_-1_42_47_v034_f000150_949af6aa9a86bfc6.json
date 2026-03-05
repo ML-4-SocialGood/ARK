@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees upward-lateral from the horizontal facial midline.",
+    "aspect_ratio_factor": "Oval-teardrop shape with a height greater than width.",
+    "inferior_centroid_shift": "Visible tapering at the inferior-medial corner near the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark region at the lateral flanks covers approximately 30 percent of the visible vertical torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-ear gap is roughly 1.5 times the width of an individual ear region.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, approximately 45 degrees downward and outward relative to the horizontal midline of the face.",
+    "aspect_ratio_factor": "Elongated ovoid shape with a vertical length significantly exceeding the horizontal width.",
+    "inferior_centroid_shift": "Distinct downward tapering extending significantly below the ocular center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Visible gap between ears approximately 1.5 times the width of an individual ear.",
+    "apex_contour_smoothness": "Uniformly rounded, convex superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

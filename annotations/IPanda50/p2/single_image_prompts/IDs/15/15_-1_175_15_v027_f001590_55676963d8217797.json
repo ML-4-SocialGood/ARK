@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, approximately 45 degrees relative to the rostrum midline.",
+    "aspect_ratio_factor": "Elongated oval with a visual height-to-width ratio of approximately 1.5.",
+    "inferior_centroid_shift": "Pronounced inferior tapering toward the snout, shifting the visual mass below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape curvature at the posterior boundary.",
+    "normalized_band_thickness": "Occupies approximately 40 percent of the visible torso length from the shoulder to the mid-section."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between pinnae is approximately 1.8 times the width of a single ear region.",
+    "apex_contour_smoothness": "Smooth, semicircular convex curvature at the superior margin."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

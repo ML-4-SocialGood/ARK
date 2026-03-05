@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45-55 degrees relative to the horizontal facial axis, angled toward the snout.",
+    "aspect_ratio_factor": "Oval morphology with a vertical elongation approximately 1.5 times the horizontal width.",
+    "inferior_centroid_shift": "Significant downward tapering, with the lower half of the patch narrowing toward the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped profile along the posterior edge of the dark band across the spine.",
+    "normalized_band_thickness": "High thickness, occupying approximately 30-35% of the visible torso length from the neck to the mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap, approximately equivalent to the width of the forehead between the medial edges of the ears.",
+    "apex_contour_smoothness": "Smooth, rounded semicircular top boundaries on both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Distinct yellowish-beige tint in the white pelage of the dorsal region posterior to the dark band, contrasting with the cleaner white of the face."
+}

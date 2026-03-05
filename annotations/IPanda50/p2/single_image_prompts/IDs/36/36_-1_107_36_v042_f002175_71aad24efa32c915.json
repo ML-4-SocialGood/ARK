@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axes are oriented at approximately 45 degrees relative to the median sagittal plane, diverging toward the posterior cranium.",
+    "aspect_ratio_factor": "Elongated oval morphology with a visual length-to-width ratio of approximately 2:1.",
+    "inferior_centroid_shift": "Visible tapering toward the rostral aspect, with the geometric center appearing shifted toward the posterior edge of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Posterior boundary of the transverse band exhibits a wide, shallow U-shaped curvature.",
+    "normalized_band_thickness": "The dark band is thick, encompassing approximately 35% of the visible dorsal torso from the neck to the lower back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between pinnae, which are positioned at the far lateral margins of the cranial vault.",
+    "apex_contour_smoothness": "The superior boundaries of the ears are highly smooth and exhibit a uniform semi-circular arc."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Nominally white fur regions exhibit a pronounced yellowish-cream chromaticity throughout the visible torso and head."
+}

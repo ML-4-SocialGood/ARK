@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The patches are oriented diagonally at approximately 45 degrees relative to the facial midline, converging towards the muzzle.",
+    "aspect_ratio_factor": "Oval morphology with a vertical axis approximately 1.5 times the horizontal width.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge exhibits a smooth, shallow U-shape across the scapular region.",
+    "normalized_band_thickness": "High thickness, occupying roughly 25-30% of the visible dorsal length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap is visible between the ears, roughly 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "The ears exhibit high smoothness with a consistently rounded, semicircular top boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The non-pigmented areas of the coat display a notable yellowish-cream tint compared to pure white pixels."
+}

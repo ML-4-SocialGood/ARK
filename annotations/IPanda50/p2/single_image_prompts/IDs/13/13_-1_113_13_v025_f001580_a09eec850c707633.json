@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique diagonal orientation slanting approximately 45 degrees towards the nasal bridge",
+    "aspect_ratio_factor": "Vertical-oval tear-drop shape with an estimated 1:1.5 width-to-height ratio",
+    "inferior_centroid_shift": "Visible downward tapering effect at the inferior margin of the patch"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary with minimal curvature depth",
+    "normalized_band_thickness": "Approximately 25-30% of the visible longitudinal torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Visible gap between pinnae approximately 1.5 times the horizontal width of a single pinna",
+    "apex_contour_smoothness": "Semicircular convex curvature with slight flattening due to motion blur"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extended pink tongue visible during interaction with a pale elongated object"
+}

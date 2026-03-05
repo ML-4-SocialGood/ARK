@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are oriented diagonally at approximately 45 degrees relative to the horizontal axis, converging downwards towards the snout.",
+    "aspect_ratio_factor": "Eye patches are elongated ovals with a vertical-to-horizontal visual ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Distinct downward tapering is visible, with the inferior margin of the patches extending significantly further from the geometric center than the superior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The black transverse band is thick, encompassing the entire shoulder region and extending down to the mid-humeral section of the forelimbs."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The black semicircular regions are separated by a wide gap across the top of the cranium, approximately equal to the width of the forehead.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit smooth, continuous semicircular curvature with no observable flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

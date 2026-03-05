@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Sharply defined V-shape pointing posteriorly toward the lower back.",
+    "normalized_band_thickness": "Thick transverse band covering approximately half the vertical distance of the visible torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between ears across the white cranial vertex.",
+    "apex_contour_smoothness": "Consistent circular curvature across the superior boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced horizontal fur fold or indentation in the white dorsal region immediately above the black band."
+}

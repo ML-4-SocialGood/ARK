@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, angled approximately 45 degrees downward relative to the horizontal facial axis, converging towards the muzzle.",
+    "aspect_ratio_factor": "Ovoid geometry with a vertical-to-horizontal ratio of approximately 1.4:1.",
+    "inferior_centroid_shift": "Visible downward elongation creating a teardrop profile where the pixel mass is concentrated below the eye center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve profile at the posterior margin of the band.",
+    "normalized_band_thickness": "High thickness, estimated at 0.3 relative to the visible dorsal length from the shoulder to the rump."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation, with ears positioned on the distal-superior cranial margins.",
+    "apex_contour_smoothness": "Smooth, semicircular convex curvature at the top boundary of both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

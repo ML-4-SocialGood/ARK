@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is vertically oriented with a slight inward tilt toward the nasal bridge at the superior margin.",
+    "aspect_ratio_factor": "High aspect ratio; the patch is an elongated oval with height approximately twice the width.",
+    "inferior_centroid_shift": "Significant downward elongation with a tapering effect that extends well below the horizontal orbital axis."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High relative thickness; the dark band encompasses the entire shoulder region and upper thoracic area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation between the ear regions, roughly equal to 1.5 times the individual ear width.",
+    "apex_contour_smoothness": "Smooth, convex semicircular curvature at the apex of both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Exposure of lower incisors and canines due to a slightly open mouth posture."
+}

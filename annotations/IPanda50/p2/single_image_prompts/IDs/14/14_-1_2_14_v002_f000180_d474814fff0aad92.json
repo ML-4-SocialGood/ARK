@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward tilt toward the lateral margin relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Oval-shaped with a width-to-height ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Distinct downward tapering effect with the lowest point shifted significantly below the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Substantial thickness occupying the entire visible shoulder-to-neck transition region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Relative gap distance is approximately 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Smooth, convex semicircular curvature at the top boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

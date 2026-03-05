@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented approximately 45 degrees relative to the sagittal plane of the skull.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval geometry with a length-to-width ratio of approximately 2:1.",
+    "inferior_centroid_shift": "A distinct downward taper is visible toward the rostrum, with the lowest point extending significantly below the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band across the scapular region exhibits a shallow, wide U-shape curve.",
+    "normalized_band_thickness": "The dark band is thick, covering approximately one-third of the visible upper torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide gap roughly equivalent to twice the width of an individual pinna.",
+    "apex_contour_smoothness": "The top boundaries of the ears are predominantly semicircular and smooth."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced yellowish-brown staining or discoloration is visible across the fur of the lower lumbar region and hindquarters."
+}

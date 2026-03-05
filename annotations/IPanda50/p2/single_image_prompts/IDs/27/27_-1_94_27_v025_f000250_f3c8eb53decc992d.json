@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, approximately 45-degree downward tilt relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Oval-shaped, with the longitudinal axis approximately 1.5 times the length of the transverse axis.",
+    "inferior_centroid_shift": "Moderate downward tapering towards the muzzle, with the lower boundary extending further from the eye center than the upper boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curvature along the posterior edge of the dark band.",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 30% of the visible dorsal-to-shoulder vertical span."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between ears is approximately equal to the maximum width of the left ear pinna.",
+    "apex_contour_smoothness": "Rounded convex curvature with slight textural irregularity on the superior edge."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

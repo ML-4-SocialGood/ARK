@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape profile at the posterior junction",
+    "normalized_band_thickness": "Approximately 30% of the visible dorsal-to-ventral torso height at the lateral flank"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap distance approximately 1.5 times the individual pinna width",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular convex curvature"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive soil-based discoloration and organic leaf debris adhering to the dorsal and mid-body white pelage"
+}

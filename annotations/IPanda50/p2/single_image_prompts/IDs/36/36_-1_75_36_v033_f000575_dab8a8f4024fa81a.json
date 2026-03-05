@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 75 degrees downward-forward relative to the horizontal facial axis of the left patch.",
+    "aspect_ratio_factor": "Pronounced vertical oval, approximately 2:1 height-to-width ratio.",
+    "inferior_centroid_shift": "Moderate downward taper with the lowest point shifted anteriorly relative to the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve along the posterior margin as it transitions to the lateral flank.",
+    "normalized_band_thickness": "Occupies approximately 35% of the visible dorsal-to-caudal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap between ear bases is approximately 1.2 times the visible horizontal width of the pinna.",
+    "apex_contour_smoothness": "Smooth, continuous semicircular convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

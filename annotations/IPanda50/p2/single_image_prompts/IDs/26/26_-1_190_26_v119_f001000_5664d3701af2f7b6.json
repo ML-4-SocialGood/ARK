@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Near-vertical orientation, approximately 80 degrees relative to the horizontal muzzle-to-ear axis.",
+    "aspect_ratio_factor": "Elongated vertical oval with a high aspect ratio, where height significantly exceeds width.",
+    "inferior_centroid_shift": "Marked downward tapering with the lowest extremity forming a sharp point significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smooth, continuous convex curvature along the superior boundary of the visible pinna."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

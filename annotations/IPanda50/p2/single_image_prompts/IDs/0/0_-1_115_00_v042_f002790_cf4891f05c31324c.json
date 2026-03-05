@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented vertically, roughly parallel to the longitudinal midline of the cranium.",
+    "aspect_ratio_factor": "High aspect ratio with an elongated oval morphology, significantly taller than it is wide.",
+    "inferior_centroid_shift": "The patch displays a downward elongation with a subtle widening at the inferior pole relative to the superior tip."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "The posterior edge of the dark band exhibits a shallow U-shape curvature across the dorsal midline.",
+    "normalized_band_thickness": "The dark band is thick, encompassing approximately one-third of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct white fur gap is visible between the two dark ear regions, approximately equal to the horizontal width of a single ear.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, rounded semicircular profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

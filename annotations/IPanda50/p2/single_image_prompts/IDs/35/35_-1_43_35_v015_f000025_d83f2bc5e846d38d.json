@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Visible right eye patch displays a ~45-degree downward tilt relative to the horizontal rostrum-ear axis.",
+    "aspect_ratio_factor": "Elliptical blob with an approximate 1.5:1 height-to-width ratio.",
+    "inferior_centroid_shift": "Significant downward tapering with the inferior point narrowing relative to the superior width."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "Shallow U-shaped curve along the posterior boundary.",
+    "normalized_band_thickness": "Band thickness represents approximately 0.35 of the total visible lateral torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap between pinnae is approximately 1.25 times the lateral width of the visible pinna.",
+    "apex_contour_smoothness": "Smooth, continuous semi-circular curvature of the dorsal pinna margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

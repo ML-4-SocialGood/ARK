@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, tilted approximately 45-60 degrees inward toward the nasal midline.",
+    "aspect_ratio_factor": "Distinctly elongated oval with a vertical axis significantly longer than the horizontal width.",
+    "inferior_centroid_shift": "Pronounced downward tapering toward the muzzle, creating a teardrop-shaped extension below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High thickness, extending across the entire visible shoulder and upper torso region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Broad lateral separation across the cranial vertex, exceeding the width of the visible eye patches.",
+    "apex_contour_smoothness": "Smooth, rounded semicircular curvature visible on the upper boundary of the left pinna."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A large green bamboo culm held transversely in the mouth, partially occluding the lower right periocular region."
+}

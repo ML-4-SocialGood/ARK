@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees relative to the horizontal facial axis, sloping inward toward the muzzle.",
+    "aspect_ratio_factor": "Vertical oval profile, with the major axis significantly longer than the minor axis.",
+    "inferior_centroid_shift": "Marked downward tapering toward the inner eye corner, creating a teardrop-like extension below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Substantial gap between the two distinct dark semicircular pinnae, estimated at twice the width of a single ear unit.",
+    "apex_contour_smoothness": "Convex and uniformly rounded curvature at the top of the ear boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

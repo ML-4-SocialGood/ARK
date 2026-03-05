@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward tilt relative to the horizontal facial axis",
+    "aspect_ratio_factor": "Oval-shaped with vertical length exceeding horizontal width",
+    "inferior_centroid_shift": "Moderate downward tapering towards the lower malar region"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve on the posterior margin",
+    "normalized_band_thickness": "Significant thickness, approximately 25-30% of visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant gap, approximately 1.5 times the width of a single pinna",
+    "apex_contour_smoothness": "Smoothly convex, rounded apexes"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

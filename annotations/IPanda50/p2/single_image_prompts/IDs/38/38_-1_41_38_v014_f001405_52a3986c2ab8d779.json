@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the right eye patch (viewer's left) is oriented at a downward diagonal angle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patches exhibit an ovoid geometry with an estimated width-to-height ratio of approximately 1.4:1.",
+    "inferior_centroid_shift": "The patches display a rounded inferior tapering, where the centroid appears shifted toward the upper medial section."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior margin of the dorsal band exhibits a shallow, smooth U-shaped curvature.",
+    "normalized_band_thickness": "The dark band is thick and prominent, covering approximately 25% of the visible dorsal area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide inter-pinna gap is present, approximately equal to the horizontal width of one ear patch.",
+    "apex_contour_smoothness": "The top boundaries of the pinnae are uniformly rounded with a high degree of curvature smoothness."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A small portion of the tongue is visible protruding from the mouth."
+}

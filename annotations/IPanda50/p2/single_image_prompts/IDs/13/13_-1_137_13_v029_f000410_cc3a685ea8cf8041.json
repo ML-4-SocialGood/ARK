@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Near-vertical orientation, approximately 80 degrees relative to the horizontal plane of the snout.",
+    "aspect_ratio_factor": "Elongated vertical oval with a high height-to-width ratio.",
+    "inferior_centroid_shift": "Visible downward tapering, creating a teardrop profile with the point at the lowest extremity."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Approximately 40% of the visible torso height, extending from the base of the neck to the mid-thoracic region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant lateral separation between the two dark semicircular regions across the cranial vault.",
+    "apex_contour_smoothness": "Smooth, convex semicircular curvature at the superior edges."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

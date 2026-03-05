@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented vertically with a slight anterior tilt of approximately 75-80 degrees relative to the snout-to-ear line.",
+    "aspect_ratio_factor": "Elongated vertical oval with a width-to-height ratio of approximately 1:1.6.",
+    "inferior_centroid_shift": "Notable downward tapering with the lowest point extending toward the zygomatic arch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve at the posterior margin, showing no sharp V-type bisection.",
+    "normalized_band_thickness": "Consistent thickness across the torso, representing roughly 25% of the total visible body length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap equivalent to approximately twice the width of a single pinna region.",
+    "apex_contour_smoothness": "Smoothly rounded convex top edge with no visible flattening or jaggedness."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible brownish-tan tinting on the dorsal fur posterior to the dark band."
+}

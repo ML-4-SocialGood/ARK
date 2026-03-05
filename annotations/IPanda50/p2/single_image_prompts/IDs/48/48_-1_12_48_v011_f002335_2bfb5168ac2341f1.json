@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 60 degrees relative to the horizontal facial axis, angled towards the snout.",
+    "aspect_ratio_factor": "Elliptical/oval shape with a vertical elongation; width is approximately 0.6 times the height.",
+    "inferior_centroid_shift": "Pronounced downward tapering, with the lower pole visibly narrower than the upper pole."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap is clearly visible, roughly equivalent to the width of the cranium between the ears.",
+    "apex_contour_smoothness": "Smoothly curved, semi-circular profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

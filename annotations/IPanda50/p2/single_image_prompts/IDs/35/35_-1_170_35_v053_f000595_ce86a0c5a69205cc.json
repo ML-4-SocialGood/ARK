@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented approximately 75 degrees relative to the horizontal facial axis, tilting medially toward the snout.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval geometry with a vertical height approximately twice its horizontal width.",
+    "inferior_centroid_shift": "The patch exhibits a distinct downward tapering, with the mass extending further below the ocular center than above it."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band shows a shallow U-shaped curve where it meets the white lumbar fur.",
+    "normalized_band_thickness": "The dark band is thick, occupying approximately 45 percent of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely spaced, separated by a white cranial crown distance approximately equal to 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "The tops of the ears exhibit a smooth, convex semi-circular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible brownish-tan staining or discoloration of the fur on the lower abdomen and hind-limb regions."
+}

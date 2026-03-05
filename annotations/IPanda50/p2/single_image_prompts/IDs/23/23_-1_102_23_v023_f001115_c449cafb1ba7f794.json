@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal downward slant approximately 45 degrees relative to the snout-ear axis",
+    "aspect_ratio_factor": "Elongated oval with height exceeding width by approximately 1.5 times",
+    "inferior_centroid_shift": "Moderate downward tapering extending towards the muzzle area"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, flat U-shaped posterior edge with minimal midline indentation",
+    "normalized_band_thickness": "Thick transverse band covering approximately 25% of the total visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large separation gap roughly equivalent to twice the individual pinna width",
+    "apex_contour_smoothness": "Smoothly rounded semicircular apex with no visible flattening"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

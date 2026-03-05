@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are angled at approximately 45 degrees descending towards the medial line of the snout.",
+    "aspect_ratio_factor": "The patches exhibit an elongated ovoid morphology with a height-to-width ratio of approximately 1.5:1 along the primary axis.",
+    "inferior_centroid_shift": "There is a pronounced downward tapering where the patch extends significantly toward the muzzle below the horizontal midpoint of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide cranial gap approximately equal to the horizontal width of the forehead between the medial ear bases.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae show smooth, uninterrupted semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

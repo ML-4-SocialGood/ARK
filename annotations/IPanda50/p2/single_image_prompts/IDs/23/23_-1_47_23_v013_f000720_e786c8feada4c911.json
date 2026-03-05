@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible eye patch exhibits a dominant vertical axis, nearly perpendicular to the cranial midline.",
+    "aspect_ratio_factor": "Vertical oval profile with a high height-to-width ratio due to the lateral viewing angle.",
+    "inferior_centroid_shift": "Moderate downward taper observed extending toward the mandibular region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped posterior boundary without a sharp sagittal vertex.",
+    "normalized_band_thickness": "The dark band occupies approximately 45% of the visible dorsal-ventral torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide separation is visible, with a gap roughly equal to the lateral width of the head.",
+    "apex_contour_smoothness": "The superior boundaries of both pinnae are smooth and semicircular."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

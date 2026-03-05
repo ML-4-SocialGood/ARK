@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 75 degrees downward tilt relative to the horizontal facial axis, angled toward the rostrum.",
+    "aspect_ratio_factor": "Elongated vertical oval with a high height-to-width ratio.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the lowest point extending significantly below the geometric center toward the cheek."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Relatively straight posterior boundary with a flat U-shaped profile as viewed from the lateral flank.",
+    "normalized_band_thickness": "Wide band occupying approximately 40% of the visible dorsal-to-ventral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between the black ear regions across the cranial surface.",
+    "apex_contour_smoothness": "Smoothly rounded convex top boundaries on both visible ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Exposed gingiva and dentition visible in the open mouth during mastication."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at a steep diagonal angle, approximately 65 degrees relative to the horizontal plane of the snout.",
+    "aspect_ratio_factor": "The eye patch exhibits an elongated oval geometry with a high aspect ratio, where height significantly exceeds width.",
+    "inferior_centroid_shift": "There is a pronounced downward elongation, with the patch tapering to a point well below the horizontal midline of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dorsal band displays a shallow, wide U-shaped curve as it transitions across the spine.",
+    "normalized_band_thickness": "The dark band occupies approximately 45% of the visible torso height between the neck and mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned with a wide lateral gap, roughly equivalent to 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The top boundary of the visible left ear is a smooth, continuous convex curve with no flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant yellowish-brown environmental staining is visible on the white fur of the lower lumbar and pelvic regions."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonally oriented, approximately 45 degrees relative to the sagittal facial plane, sloping downwards toward the muzzle.",
+    "aspect_ratio_factor": "Elongated oval with a longitudinal axis significantly greater than the transverse width.",
+    "inferior_centroid_shift": "Pronounced downward tapering toward the inferior margin, resulting in a teardrop-shaped profile."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High thickness, occupying approximately 40-50% of the visible lateral shoulder-to-torso profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation, estimated at approximately twice the width of a single pinna.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular apex with continuous, non-flattened curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

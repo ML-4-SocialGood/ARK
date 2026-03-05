@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark shoulder band displays a flat U-shape curve across the spine.",
+    "normalized_band_thickness": "The dark band occupies approximately 30-35% of the total visible height of the torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the inner margins of the dark ear regions is approximately equal to one-and-a-half times the width of the ear base.",
+    "apex_contour_smoothness": "The ear apices exhibit a continuous, smooth semi-circular curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is grasping a thin, linear botanical stalk with its right forelimb; there is a noticeable brown-tinted discoloration on the fur of the lower hindquarters compared to the forelimbs."
+}

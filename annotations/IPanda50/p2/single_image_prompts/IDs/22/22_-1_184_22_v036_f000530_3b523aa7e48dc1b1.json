@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented at a diagonal angle, approximately 45 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval geometry, with the primary axis length approximately 1.5 times the width.",
+    "inferior_centroid_shift": "The patch exhibits a clear downward tapering, with the lower edge extending significantly below the horizontal midline of the ocular region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible cranial pinna shows a smooth, consistently rounded apex contour."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A pink tongue is clearly visible and protruding from the oral cavity."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 60 degrees relative to the snout-to-ear facial midline.",
+    "aspect_ratio_factor": "Oval morphology with a height-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering, with the lowest point extending significantly below the horizontal midpoint of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape profile at the posterior edge of the transverse band.",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 40 percent of the visible lateral torso region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap, estimated at 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "Perfectly rounded semicircular tops with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The tongue is protruding from the right lateral side of the mouth."
+}

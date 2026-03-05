@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 70-degree downward tilt relative to the horizontal facial axis, angled towards the snout.",
+    "aspect_ratio_factor": "Ovaloid with a vertical elongation, approximately 1.4:1 ratio of height to width.",
+    "inferior_centroid_shift": "Pronounced tapering at the ventral edge, with the lowest point extending significantly below the horizontal midline of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped curve at the posterior edge of the band.",
+    "normalized_band_thickness": "Moderately thick, covering roughly 35% of the visible torso length from the shoulder."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear separation with a wide white cranial gap between the two black pinna regions.",
+    "apex_contour_smoothness": "Smoothly rounded, semi-circular curvature on the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

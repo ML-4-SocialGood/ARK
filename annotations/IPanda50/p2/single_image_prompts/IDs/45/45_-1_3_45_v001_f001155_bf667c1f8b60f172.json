@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented at approximately 60 degrees downward relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "Oval morphology with a vertical dimension significantly greater than the horizontal width.",
+    "inferior_centroid_shift": "The patch displays a pronounced downward tapering towards the muzzle, shifting the lowest point well below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "A flat U-shape profile along the posterior edge with minimal curvature at the spinal midline.",
+    "normalized_band_thickness": "The band is thick and consistent, spanning approximately 35% of the visible torso length from the shoulder to the mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large gap between pinnae, approximately 2.5 times the width of an individual ear base.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular tops with no visible flattening or irregularities."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible brownish-yellow staining or discoloration of the white pelage on the dorsal-posterior region and the sagittal crest of the cranium."
+}

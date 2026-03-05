@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of each patch is oriented diagonally, tilted upwards and outwards at approximately 45 to 50 degrees from the horizontal midline.",
+    "aspect_ratio_factor": "Oval morphology with a distinct vertical elongation; the vertical height of the patch significantly exceeds its horizontal width.",
+    "inferior_centroid_shift": "Visible downward tapering where the patch narrows toward its lowest point near the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dorsal band exhibits a broad, shallow U-shaped curve across the upper back.",
+    "normalized_band_thickness": "High thickness, with the dark band covering the entirety of the shoulder and upper back region visible above the branch."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Ears are positioned with a wide gap, located at the superior-lateral margins of the head.",
+    "apex_contour_smoothness": "The top boundaries of the ears are smoothly curved and semicircular."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

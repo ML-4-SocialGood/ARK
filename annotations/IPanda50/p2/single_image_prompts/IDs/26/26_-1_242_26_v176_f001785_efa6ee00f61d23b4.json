@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented at a downward diagonal angle toward the rostrum relative to the facial midline.",
+    "aspect_ratio_factor": "The patch appears as a distinct oval, with a horizontal length approximately 1.5 times its vertical height.",
+    "inferior_centroid_shift": "The patch exhibits a subtle downward taper, with the bulk of the pigment concentrated in the superior-posterior quadrant."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dorsal band displays a wide, shallow U-shaped curvature across the spinal midline.",
+    "normalized_band_thickness": "The band is robust, occupying roughly 30% of the visible torso length from the shoulder to the mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely spaced, separated by a distance roughly equivalent to the width of the cranial crown.",
+    "apex_contour_smoothness": "The ear apices show a smooth, semicircular convex curvature without visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

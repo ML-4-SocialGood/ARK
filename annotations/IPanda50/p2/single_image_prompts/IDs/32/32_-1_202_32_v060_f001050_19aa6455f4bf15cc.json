@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible left eye patch is oriented at approximately a 45-degree angle downward relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch displays an oval morphology with an elongated vertical-oblique dimension relative to its width.",
+    "inferior_centroid_shift": "There is a distinct downward tapering, with the lowest point of the patch extending significantly below the horizontal midline of the orbit toward the lower cheek."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band follows a flat U-shape with no sharp V-shaped indentation towards the head.",
+    "normalized_band_thickness": "The dark band is thick, occupying approximately 35% of the visible dorsal-ventral torso length at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a broad white cranial bridge roughly 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "Both ear apices are smoothly rounded and semicircular in profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right eye patch is oriented with its primary axis at a near-vertical angle, approximately 80 degrees relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "The eye patch is an elongated oval, with a visual height approximately 1.8 times its maximum width.",
+    "inferior_centroid_shift": "There is a distinct downward taper where the patch narrows significantly at the inferior boundary relative to the central geometric mass."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band displays a shallow, broad U-shape as it transitions from the dorsal midline to the lateral flanks.",
+    "normalized_band_thickness": "The dark band occupies approximately 30% of the visible vertical torso height at the shoulder-flank junction."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct gap is visible between the two black ear regions, with a width approximately equal to the horizontal span of the right pinna.",
+    "apex_contour_smoothness": "The superior boundaries of both visible ears exhibit smooth, semicircular convex curves with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brownish-tan pigmentation is visible across the ventral and abdominal fur regions, contrasting with the high-value white cranial fur."
+}

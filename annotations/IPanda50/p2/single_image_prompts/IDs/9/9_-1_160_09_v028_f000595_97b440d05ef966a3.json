@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward tilt relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval with a significantly greater longitudinal axis compared to the transverse width.",
+    "inferior_centroid_shift": "Moderate downward tapering toward the anterior muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Approximately 0.4 relative to the visible vertical span of the torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant gap on the cranial crown, estimated at 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Smoothly convex, semi-circular curvature at the top boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-yellow staining of the ventral fur across the lower chest and abdominal area."
+}

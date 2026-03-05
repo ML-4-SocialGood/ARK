@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical/oblique orientation, tilted approximately 80 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval with a high height-to-width ratio, approximately 2.5:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the lowest boundary extending significantly further from the centroid than the dorsal boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve profile at the posterior edge of the band across the shoulders.",
+    "normalized_band_thickness": "Moderate thickness, occupying approximately 25-30% of the visible torso length along the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation distance, approximately 1.5 times the horizontal width of a single pinna.",
+    "apex_contour_smoothness": "Smoothly rounded semi-circular apex with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-tan pigmentation across the lumbar and hindquarter regions, contrasting with the white cranial and thoracic pelage."
+}

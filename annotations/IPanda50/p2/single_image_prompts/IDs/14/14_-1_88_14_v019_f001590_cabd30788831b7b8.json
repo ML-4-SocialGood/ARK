@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented at an approximate 45-degree angle descending toward the medial facial plane.",
+    "aspect_ratio_factor": "The eye patch exhibits a pronounced oval geometry with a horizontal-to-vertical ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "There is a visible tapering and elongation towards the inferior-medial corner, shifting the geometric center upwards."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned on the upper lateral margins of the cranium with a separation distance roughly equivalent to the width of the forehead.",
+    "apex_contour_smoothness": "The superior boundaries of the ears show a smooth, rounded semicircular profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

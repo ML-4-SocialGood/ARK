@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right eye patch is oriented at a diagonal angle approximately 45 degrees relative to the horizontal facial axis, sloping downward toward the rostrum.",
+    "aspect_ratio_factor": "Oval morphology with an estimated visual ratio of 1.5:1 along its primary diagonal axis.",
+    "inferior_centroid_shift": "The patch exhibits a tapered inferior margin that extends significantly lower than the geometric center of the patch toward the oral commissure."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the two dark ear regions is visible but foreshortened due to the lateral/upward tilt of the cranium.",
+    "apex_contour_smoothness": "The foreground pinna displays a smooth, continuous semicircular curvature at its apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is in an open-mouth posture, exposing lower dentition and oral mucosa; foreground bamboo foliage causes intermittent occlusion of the ventral and lateral torso."
+}

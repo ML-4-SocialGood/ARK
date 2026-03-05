@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonally oriented at approximately 45 degrees relative to the snout-posterior axis of the head",
+    "aspect_ratio_factor": "Elongated oval shape with a visible major-to-minor axis ratio of approximately 2:1",
+    "inferior_centroid_shift": "Moderate downward tapering visible at the anterior-inferior margin of the patch"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High thickness, occupying approximately 40% of the vertical torso segment visible between the neck and mid-abdomen"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-ear gap is clearly visible and spans a distance roughly twice the width of a single ear base",
+    "apex_contour_smoothness": "Convex and rounded apex with a smooth semicircular profile"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

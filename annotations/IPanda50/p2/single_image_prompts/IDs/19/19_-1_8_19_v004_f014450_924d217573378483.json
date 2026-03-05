@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical orientation with a slight inward diagonal tilt toward the nasal bridge at the inferior margin.",
+    "aspect_ratio_factor": "Ovoid morphology with a vertical length approximately 1.7 times the horizontal width.",
+    "inferior_centroid_shift": "Distinct downward tapering observed, with the lowest point of the patch extending significantly below the horizontal orbital plane."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shape profile observed at the posterior interface between the dark shoulder band and the white dorsal fur.",
+    "normalized_band_thickness": "High; the transverse band covers the entirety of the visible shoulder and upper thoracic region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral displacement; the distance between the medial edges of the ears is approximately equal to the cranial width.",
+    "apex_contour_smoothness": "Convex and rounded apex with high curvature smoothness on both visible pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

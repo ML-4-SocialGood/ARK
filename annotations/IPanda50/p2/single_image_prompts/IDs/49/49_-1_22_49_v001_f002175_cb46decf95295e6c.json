@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Smooth, wide U-shape along the posterior edge of the dark band.",
+    "normalized_band_thickness": "High relative thickness, occupying roughly one-third of the total longitudinal torso profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear spatial gap visible between the two black semi-circular regions on the cranium.",
+    "apex_contour_smoothness": "The visible ear shows a continuous convex curvature without flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced yellow-cream tinting across the posterior white fur regions compared to the brighter white of the head."
+}

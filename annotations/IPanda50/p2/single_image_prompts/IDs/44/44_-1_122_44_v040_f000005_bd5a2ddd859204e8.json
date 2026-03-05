@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique vertical orientation, angled approximately 75 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval; the vertical axis is roughly twice the width of the horizontal axis.",
+    "inferior_centroid_shift": "Distinct downward tapering observed, with the patch extending significantly below the geometric center of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Broad coverage; the dark band encompasses the entire shoulder region and extends fully into the forelimbs."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation across the superior cranial vault.",
+    "apex_contour_smoothness": "Symmetric semicircular profiles with smooth, rounded apexes."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped curve at the posterior margin of the thoracic band.",
+    "normalized_band_thickness": "High; the band occupies approximately 35-40% of the visible dorsal torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Moderate lateral separation consistent with typical cranial anatomy, though one ear is partially blurred by motion.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular apex visible on the right pinna."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

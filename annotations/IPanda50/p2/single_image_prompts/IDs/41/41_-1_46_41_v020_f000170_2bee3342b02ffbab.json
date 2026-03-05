@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right eye patch is oriented at an oblique angle of approximately 75 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch displays an oval/elliptical morphology with a high aspect ratio.",
+    "inferior_centroid_shift": "There is a pronounced downward tapering towards the muzzle, creating a teardrop-shaped extension below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dorsal band exhibits a distinct V-shape curvature pointed toward the tail at the midline.",
+    "normalized_band_thickness": "The band is broad, accounting for approximately 35-40% of the total visible longitudinal torso span at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the ear bases is approximately 1.5 times the width of an individual pinna base.",
+    "apex_contour_smoothness": "The top boundaries of the ears are smoothly rounded and convex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The posterior white fur on the rump and hindquarters exhibits a noticeable brownish-yellow tint compared to the brighter white fur of the neck."
+}

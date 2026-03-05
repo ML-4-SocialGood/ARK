@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 75 degrees relative to the horizontal facial axis, angled toward the rostrum.",
+    "aspect_ratio_factor": "Vertically elongated oval with a width-to-height ratio of approximately 1:1.6.",
+    "inferior_centroid_shift": "The patch displays a discernible downward taper, concentrating mass towards the inferior-posterior quadrant."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curvature along the posterior edge of the transverse band.",
+    "normalized_band_thickness": "The dark band occupies approximately 28% of the visible longitudinal torso span."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct gap between the dark auricular regions roughly equal to the basal width of one pinna.",
+    "apex_contour_smoothness": "Smooth, convex semicircular curvature at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

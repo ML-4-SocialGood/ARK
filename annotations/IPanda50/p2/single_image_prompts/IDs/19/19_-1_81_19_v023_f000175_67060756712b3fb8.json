@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the eye patches is oriented obliquely, at approximately a 45-degree angle downward toward the nasal midline.",
+    "aspect_ratio_factor": "The patches exhibit an oval morphology with a vertical-to-horizontal visual ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering is visible, with the lowest point of the pigment extending significantly below the geometric center toward the lower cheek."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band is thick, occupying approximately 35-45% of the visible vertical height of the lateral torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are set widely apart on the lateral edges of the crown, separated by a distance roughly twice the width of a single ear.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, semicircular curvature with no visible flattening or irregularities."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

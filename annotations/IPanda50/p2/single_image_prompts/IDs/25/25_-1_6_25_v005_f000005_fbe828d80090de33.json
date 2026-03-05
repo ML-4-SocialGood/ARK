@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented at a diagonal, approximately 60 degrees relative to the horizontal facial plane, sloping away from the midline.",
+    "aspect_ratio_factor": "The patch is distinctly oval, with the vertical-diagonal axis significantly longer than the horizontal-transverse axis.",
+    "inferior_centroid_shift": "The patch tapers at its inferior edge, creating a teardrop-like appearance with the center of mass shifted towards the superior portion."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ear regions are separated by a wide white cranial gap, approximately equal to 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, continuous convex curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

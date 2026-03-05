@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertically oriented with a slight inward tilt at the superior pole toward the sagittal plane.",
+    "aspect_ratio_factor": "Elongated oval with a high vertical-to-horizontal ratio, approximately 2:1.",
+    "inferior_centroid_shift": "Significant downward tapering with the geometric center positioned in the upper half of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Smooth, wide U-shaped curvature at the posterior boundary transition.",
+    "normalized_band_thickness": "High thickness, occupying approximately 40 percent of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation approximately equal to 1.5 times the horizontal width of a single pinna.",
+    "apex_contour_smoothness": "High smoothness with a consistent semi-circular convex profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced reddish-brown environmental staining present on the fur of the lower abdomen and ventral pelvic region."
+}

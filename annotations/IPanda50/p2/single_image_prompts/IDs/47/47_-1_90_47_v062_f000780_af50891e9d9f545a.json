@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 75 degrees relative to the horizontal facial axis, converging towards the muzzle.",
+    "aspect_ratio_factor": "Elongated oval; height-to-width ratio approximately 1.5:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the geometric center shifted superiorly relative to the lower boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape with minimal posterior curvature across the spine.",
+    "normalized_band_thickness": "Thick transverse band covering approximately 35-40% of the visible dorsal-ventral torso span."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance approximately equal to twice the width of the individual pinna base.",
+    "apex_contour_smoothness": "Smoothly convex and rounded superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

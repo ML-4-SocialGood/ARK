@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the black eye patches slants downward at approximately a 45-60 degree angle toward the muzzle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The patches exhibit an elongated oval geometry with a vertical-to-horizontal ratio greater than 1.0 along their dominant axis.",
+    "inferior_centroid_shift": "There is a pronounced downward tapering where the lowest point of the patch is shifted significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band is broad at the lateral shoulders, occupying a significant portion of the visible upper torso region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap exists between the ears on the cranial crown, approximately 1.5 times the width of a single ear region.",
+    "apex_contour_smoothness": "The superior boundaries of the ears display a smooth, semi-circular curvature without visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

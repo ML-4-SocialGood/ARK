@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at a diagonal angle directed toward the ear base.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval geometry with a length-to-width ratio of approximately 2:1.",
+    "inferior_centroid_shift": "The patch exhibits a distinct downward tapering towards the muzzle, creating a teardrop-like profile."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The dark ear regions are separated by a wide gap approximately 1.5 times the width of the ear base.",
+    "apex_contour_smoothness": "The visible ear apex displays a smooth, continuous semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant reddish-brown pigmentation/staining is visible across the ventral abdominal and thoracic fur regions."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible eye patch is oriented at a downward diagonal angle of approximately 45 degrees relative to the horizontal plane of the face.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval shape with a significantly greater vertical dimension compared to its horizontal width.",
+    "inferior_centroid_shift": "A distinct downward elongation is visible, with the patch tapering to a point significantly below the geometric center of the eye area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band across the back displays a gentle, uniform convex curve rather than a sharp V-shape.",
+    "normalized_band_thickness": "The dark band is robust, occupying roughly 30% of the visible torso length along the dorsal midline."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely spaced with a clear gap of white fur approximately equal to the horizontal width of a single ear.",
+    "apex_contour_smoothness": "The top boundaries of the ears are characterized by a smooth, semi-circular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A small, linear white-colored streak or tuft of fur is visible on the upper-right section of the black dorsal band."
+}

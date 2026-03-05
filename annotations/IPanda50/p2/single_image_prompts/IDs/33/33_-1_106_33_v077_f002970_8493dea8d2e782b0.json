@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "Shallow U-shape curvature along the posterior boundary of the band",
+    "normalized_band_thickness": "High thickness, extending across approximately 30-35% of the visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distinct separation across the cranial crown, distance roughly equivalent to individual ear width",
+    "apex_contour_smoothness": "Smooth, semicircular convex curvature at the ear tips"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Small, dark, elongated organic debris (likely a leaf) adhered to the cream-colored fur on the mid-dorsal region"
+}

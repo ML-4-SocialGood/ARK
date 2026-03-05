@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation directed inward towards the nasal bridge",
+    "aspect_ratio_factor": "Ovoid with vertical elongation",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, flat U-shape curve",
+    "normalized_band_thickness": "Approximately 35% of the visible vertical torso span"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance roughly 1.5 times the width of a single ear base",
+    "apex_contour_smoothness": "Smooth semicircular convex curvature"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Right forelimb positioned to occlude the rostrum and oral cavity"
+}

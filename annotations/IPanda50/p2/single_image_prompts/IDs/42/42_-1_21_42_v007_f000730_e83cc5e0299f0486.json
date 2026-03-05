@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark transverse band follows a shallow and wide U-shaped curve across the dorsal surface.",
+    "normalized_band_thickness": "The dark band occupies approximately one-third of the visible torso length as measured along the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The two dark ear regions are separated by a distinct white cranial vertex area with a width roughly equivalent to the diameter of a single ear region.",
+    "apex_contour_smoothness": "The superior boundaries of the visible ear regions display a smooth, rounded semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

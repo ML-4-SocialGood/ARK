@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are oriented at approximately 60 degrees relative to the horizontal facial midline, angled downwards toward the rostrum.",
+    "aspect_ratio_factor": "Vertically elongated oval morphology with a high aspect ratio where height significantly exceeds width.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the lowest point of the patch shifted significantly inferior to the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral spacing between the dark ear regions relative to the total cranial width, positioned at the 10 and 2 o'clock positions.",
+    "apex_contour_smoothness": "Smooth, semicircular convex curvature at the superior margins of the ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

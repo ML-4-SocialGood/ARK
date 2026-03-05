@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation at approximately 45 degrees relative to the horizontal axis, tapering toward the snout",
+    "aspect_ratio_factor": "Vertically elongated oval with a width-to-height ratio of approximately 0.7:1",
+    "inferior_centroid_shift": "Pronounced downward taper creating a teardrop shape extending significantly below the geometric center of the patch"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve along the posterior edge of the transverse band",
+    "normalized_band_thickness": "Consistent high-contrast band covering approximately 25-30% of the visible upper torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant lateral spacing approximately twice the width of a single ear region",
+    "apex_contour_smoothness": "Consistent semi-circular curvature with no visible flattening of the superior boundary"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

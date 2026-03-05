@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees downward toward the nasal midline.",
+    "aspect_ratio_factor": "Elongated vertical oval shape, with height significantly exceeding width.",
+    "inferior_centroid_shift": "Pronounced downward tapering with a sharp, hook-like terminal point extending well below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep V-shape profile on the posterior edge, tapering to a point along the dorsal midline.",
+    "normalized_band_thickness": "Moderately thick, occupying roughly 30-40% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, approximately 1.5 times the horizontal diameter of a single pinna region.",
+    "apex_contour_smoothness": "Smooth, continuous semicircular curvature at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

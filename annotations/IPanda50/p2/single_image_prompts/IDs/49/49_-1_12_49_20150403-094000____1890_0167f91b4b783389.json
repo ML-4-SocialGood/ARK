@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 75 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval with height significantly exceeding width.",
+    "inferior_centroid_shift": "Pronounced tapering at the inferior margin, extending downward toward the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shape across the posterior margin with minimal spinal indentation.",
+    "normalized_band_thickness": "High thickness, occupying approximately 35% of the visible dorsal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large gap between pinnae, approximately 1.5 times the width of an individual pinna.",
+    "apex_contour_smoothness": "Smooth, rounded semicircular apex with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

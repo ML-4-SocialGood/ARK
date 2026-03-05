@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of both eye patches is oriented vertically, with a slight inward tilt at the superior pole toward the midline.",
+    "aspect_ratio_factor": "Elongated oval blobs with a high height-to-width ratio, significantly taller than they are wide.",
+    "inferior_centroid_shift": "Pronounced downward tapering is visible, with the patch narrowing at its lower extremity well below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band displays a relatively flat U-shape curvature across the dorsal midline.",
+    "normalized_band_thickness": "The transverse dark band occupies approximately one-third of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are set at the lateral edges of the cranium with a white inter-pinnicular gap roughly 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, continuous semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

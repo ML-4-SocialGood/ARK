@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 55 degrees relative to the horizontal facial axis, oriented downwards toward the muzzle.",
+    "aspect_ratio_factor": "Elongated oval with an estimated width-to-height ratio of 1.8:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering toward the lower cheek, extending the patch below its geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped curve at the posterior margin of the shoulder band.",
+    "normalized_band_thickness": "The dark band occupies approximately 40% of the visible torso area above the foreground foliage."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A clear white sagittal gap is visible between the two black ear regions.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular top boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

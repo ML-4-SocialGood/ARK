@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow V-shape pointing posteriorly",
+    "normalized_band_thickness": "Approximately 25% of the total visible length of the torso"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separated by a wide expanse of white cranial fur, approximately twice the width of a single ear",
+    "apex_contour_smoothness": "Uniformly rounded and smooth semicircular profile"
+  },
+  "acquired_anomalies_or_scars": "A distinct white bandage or medical wrap is visible around the neck/upper-shoulder region.",
+  "other_distinctive_markers": "Pronounced brownish-yellow discoloration of the fur on the posterior half of the body compared to the white cranial fur."
+}

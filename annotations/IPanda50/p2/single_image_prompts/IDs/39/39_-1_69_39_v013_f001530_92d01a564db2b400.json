@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward orientation toward the snout, visible on the left ocular patch.",
+    "aspect_ratio_factor": "Ovoid morphology with a visual length-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Significant downward tapering where the inferior margin extends notably below the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band at the lateral flanks represents approximately one-third of the visible vertical torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation between the dark ear regions across the white cranial vertex.",
+    "apex_contour_smoothness": "Uniformly rounded and smooth convex curvature at the apex of the visible pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

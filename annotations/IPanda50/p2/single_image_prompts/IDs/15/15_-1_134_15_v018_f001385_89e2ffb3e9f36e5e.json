@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree diagonal tilt relative to the horizontal facial axis, extending from the medial-superior to the lateral-inferior direction.",
+    "aspect_ratio_factor": "Vertically elongated oval with a width-to-height ratio estimated at 0.7.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the lowest point extending significantly below the horizontal midline of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "Shallow U-shaped curvature on the posterior boundary across the chest area.",
+    "normalized_band_thickness": "The dark band occupies approximately one-third of the vertical span of the visible torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The horizontal gap between the medial edges of the pinnae is approximately 1.5 times the width of an individual pinna.",
+    "apex_contour_smoothness": "Smooth, semicircular convex curvature at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The individual is captured in a bipedal upright posture climbing on a vertical wooden structure."
+}

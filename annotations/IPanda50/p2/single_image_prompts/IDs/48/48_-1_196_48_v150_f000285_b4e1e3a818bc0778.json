@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation slanted approximately 45 degrees downward from the ear towards the rostrum",
+    "aspect_ratio_factor": "Oval/Ovoid shape where the primary axis length is roughly twice the width",
+    "inferior_centroid_shift": "Moderate tapering observed at the anterior-inferior margin near the snout"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Thick transverse band covering approximately 40-50% of the visible lateral shoulder region"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Visible separation between black pinnae across the white cranial vertex, approximately 1.5 times the width of an ear base",
+    "apex_contour_smoothness": "High degree of smoothness with a rounded, semicircular convex profile"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

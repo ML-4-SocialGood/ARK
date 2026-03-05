@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis is oriented nearly vertically with a slight inward slant toward the snout, approximately 80 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patches are distinctly oval, with a vertical length significantly exceeding the horizontal width.",
+    "inferior_centroid_shift": "The patches exhibit a downward tapering effect, where the bulk of the pigment is concentrated above the geometric center, narrowing toward the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band displays a deep V-shape profile, dipping sharply toward the mid-back.",
+    "normalized_band_thickness": "The dark band is broad, covering approximately one-third of the visible torso length at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "There is a wide, clear gap of white fur separating the two distinct dark semicircular ear regions.",
+    "apex_contour_smoothness": "The tops of the ears are predominantly rounded, though the right ear (viewer's perspective) appears slightly flatter due to the head angle."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

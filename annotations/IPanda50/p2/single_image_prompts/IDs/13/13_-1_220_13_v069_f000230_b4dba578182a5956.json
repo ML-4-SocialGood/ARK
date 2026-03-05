@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation approximately 45 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Oval morphology with a length-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Ventral tapering observed with the lowest point extending significantly below the geometric center toward the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "Broad, shallow U-shape profile at the posterior margin of the band.",
+    "normalized_band_thickness": "The band occupies approximately 30% of the visible dorsal-ventral longitudinal torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A cranial gap is visible between the ears, measuring approximately 1.2x the width of a single ear.",
+    "apex_contour_smoothness": "Smoothly rounded semi-circular apex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

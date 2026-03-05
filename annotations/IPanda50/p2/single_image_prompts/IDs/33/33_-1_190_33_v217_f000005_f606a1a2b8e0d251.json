@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees downward slope relative to the horizontal facial midline, tapering towards the rostrum.",
+    "aspect_ratio_factor": "Ellipsoid; vertical height is approximately 1.5 times the horizontal width.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the inferior margin extending significantly below the geometric center of the eye-patch blob."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve along the posterior margin of the transverse dark band.",
+    "normalized_band_thickness": "The band occupies approximately 35% of the visible torso height at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-pinna gap is approximately 1.5 times the horizontal width of a single ear region.",
+    "apex_contour_smoothness": "Smooth, continuous semi-circular curvature at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brownish-yellow chromophore staining present across the lumbar and pelvic fur regions, contrasting with the brighter white of the cranial region."
+}

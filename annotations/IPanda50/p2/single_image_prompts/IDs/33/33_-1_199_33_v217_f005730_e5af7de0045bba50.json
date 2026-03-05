@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The long axis of each teardrop-shaped patch is oriented at approximately a 45-degree angle, converging toward the midline of the snout.",
+    "aspect_ratio_factor": "Ovoid geometry with a vertical-to-horizontal elongation ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Pronounced downward and inward tapering where the patch boundary extends toward the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior margin of the dark band exhibits a shallow, broad U-shaped curvature across the dorsal surface.",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 40% of the visible dorsal torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation between the medial bases of the ears, approximately 1.5 times the width of a single ear region.",
+    "apex_contour_smoothness": "Smooth, convex semicircular curvature at the superior apex of the pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Prominent reddish-pink pigmentation/staining visible on the white fur of the forehead, crown, and upper dorsal region."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at approximately a 45-degree angle relative to the sagittal facial axis.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval geometry with an approximate 1.6:1 ratio of length to width.",
+    "inferior_centroid_shift": "There is a visible tapering of the patch as it extends toward the ventral muzzle region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band comprises approximately 30-35% of the visible torso length between the forelimbs and mid-abdomen."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned with a wide lateral separation corresponding to the maximum width of the cranium.",
+    "apex_contour_smoothness": "The visible ear shows a smooth, rounded semicircular profile at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

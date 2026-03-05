@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at a downward diagonal towards the rostrum.",
+    "aspect_ratio_factor": "Ellipsoid morphology with a vertical major axis longer than the horizontal width.",
+    "inferior_centroid_shift": "Geometric center is displaced upward relative to the tapered inferior terminus of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band covers the entirety of the visible upper shoulder region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant horizontal separation between ears set at the lateral superior cranial margins.",
+    "apex_contour_smoothness": "Uniformly rounded superior curvature without visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

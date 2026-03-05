@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are oriented near-vertically, approximately 80 degrees relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "The eye patches exhibit an elongated oval morphology with a high vertical-to-horizontal ratio.",
+    "inferior_centroid_shift": "The patches show a distinct downward taper, with the inferior boundary extending significantly further from the geometric center than the superior boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band across the shoulders displays a shallow, wide U-shape profile.",
+    "normalized_band_thickness": "The dark band occupies approximately 35% of the visible vertical height of the lateral torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely spaced, separated by a broad white cranial vertex.",
+    "apex_contour_smoothness": "The visible ear apex displays a smooth, rounded semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The fur on the lower torso and forelimbs exhibits significant clumping and darkening due to immersion in the surrounding water feature."
+}

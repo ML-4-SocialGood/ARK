@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are oriented diagonally at approximately 45 degrees relative to the horizontal facial midline, sloping downwards toward the snout.",
+    "aspect_ratio_factor": "The patches exhibit an oval, vertically elongated geometry with a height significantly exceeding the width.",
+    "inferior_centroid_shift": "The patches display a pronounced teardrop-like tapering, with the lowest point extending well below the geometric center of the black region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ear regions are positioned laterally with a wide separation gap approximately equal to twice the width of a single ear.",
+    "apex_contour_smoothness": "The superior edges of the pinnae show a smooth, semi-circular curvature without any visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The fur on the sub-mandibular and neck region displays a notably long, shaggy texture compared to the shorter fur on the cranial dome."
+}

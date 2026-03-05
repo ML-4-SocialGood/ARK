@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis slants downward at approximately a 40-degree angle toward the snout.",
+    "aspect_ratio_factor": "Oval-shaped with a vertical elongation; height appears approximately 1.5 times the width.",
+    "inferior_centroid_shift": "Visible downward tapering with the mass of the patch concentrated below the horizontal eye midline."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Estimated at 40% of the visible torso height at the lateral shoulder region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap between ears is approximately 1.1 times the base width of a single ear.",
+    "apex_contour_smoothness": "Smoothly convex and rounded across the superior margin."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

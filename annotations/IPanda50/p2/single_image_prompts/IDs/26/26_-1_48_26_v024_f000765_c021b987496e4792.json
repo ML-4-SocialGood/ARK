@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal downward orientation of approximately 45 degrees relative to the snout-to-forehead axis.",
+    "aspect_ratio_factor": "Elongated oval with the major axis significantly exceeding the minor axis.",
+    "inferior_centroid_shift": "Pronounced downward tapering toward the lower cheek, extending below the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad and relatively shallow U-shape across the posterior margin of the band.",
+    "normalized_band_thickness": "High relative thickness, occupying roughly one-third of the visible dorsal torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide white inter-auricular gap is visible between the two dark semicircular regions.",
+    "apex_contour_smoothness": "Smooth, convex semicircular curvature along the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

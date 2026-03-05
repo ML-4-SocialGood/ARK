@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical orientation with a slight inward tilt toward the rostrum.",
+    "aspect_ratio_factor": "Vertically elongated oval with a high height-to-width ratio.",
+    "inferior_centroid_shift": "Pronounced downward tapering from the geometric center toward the inferior boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape across the upper thoracic region with minimal posterior dip.",
+    "normalized_band_thickness": "Significant thickness spanning approximately one-third of the visible upper torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation across the cranial vault.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular convex borders."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

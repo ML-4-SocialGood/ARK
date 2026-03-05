@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, approximately 45 degrees downward toward the nasal bridge on the visible left eye patch.",
+    "aspect_ratio_factor": "Elongated oval geometry with a visually horizontal-to-vertical ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "Visible downward tapering in the inferior-medial quadrant of the eye patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation distance between ears, roughly equivalent to 1.3 times the width of an individual ear base.",
+    "apex_contour_smoothness": "Convex curvature with a slightly pointed apex, deviating from a uniform semicircular profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

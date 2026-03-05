@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation slanting downward and medially toward the snout.",
+    "aspect_ratio_factor": "Vertical teardrop morphology with a high height-to-width ratio.",
+    "inferior_centroid_shift": "Significant downward elongation with the lowest point extending well below the horizontal center of the eye patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shaped profile along the posterior edge of the transverse band.",
+    "normalized_band_thickness": "Medium thickness relative to the torso, appearing uniform across the visible upper back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between pinnae, approximately equal to the width of the cranial vault between them.",
+    "apex_contour_smoothness": "Smoothly curved, semicircular apex with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

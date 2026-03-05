@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical orientation roughly perpendicular to the cranial-caudal axis of the head.",
+    "aspect_ratio_factor": "Elongated ovaloid shape with a high vertical-to-horizontal ratio.",
+    "inferior_centroid_shift": "Minor tapering at the ventral extremity of the patch, with the center of mass shifted slightly superiorly."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide U-shaped curvature along the posterior margin as it transitions to the white lumbar region.",
+    "normalized_band_thickness": "Significant thickness, spanning approximately 30-35% of the visible torso's vertical height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smoothly rounded semi-circular apex on the foreground pinna."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is holding a small, bright yellow object in its left forepaw."
+}

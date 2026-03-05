@@ -1,0 +1,16 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation angled approximately 45 degrees toward the snout relative to the vertical facial midline.",
+    "aspect_ratio_factor": "Distinctly elongated oval with the length of the major axis significantly exceeding the minor axis.",
+    "inferior_centroid_shift": "Visible tapering and extension towards the lower-inner quadrant of the face near the rostrum.",
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape profile along the posterior boundary of the dark region.",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 50% of the visible upper dorsal area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral gap between the dark semicircular ear regions across the cranial vault.",
+    "apex_contour_smoothness": "Smooth, consistently rounded semicircular curvature at the superior boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

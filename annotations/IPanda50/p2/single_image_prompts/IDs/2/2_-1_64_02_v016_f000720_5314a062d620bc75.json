@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the patch is oriented vertically with a slight anterior tilt, approximately 75 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The patch presents as a distinct vertical oval with an estimated aspect ratio of 1.8:1.",
+    "inferior_centroid_shift": "There is a visible downward tapering where the inferior margin extends significantly below the ocular center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": "The posterior edge of the shoulder band exhibits a shallow U-shaped profile as it transitions to the white lumbar fur.",
+    "normalized_band_thickness": "The dark band occupies approximately 30-35% of the visible torso height from the shoulder to the mid-section."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The semicircular ears are separated by a clear gap of white cranial fur roughly equal to the width of one pinna.",
+    "apex_contour_smoothness": "The top boundaries of the visible ears exhibit a smooth, perfectly rounded semicircular contour."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal downward-outward orientation relative to the horizontal facial axis",
+    "aspect_ratio_factor": "Elongated oval with a length significantly greater than width",
+    "inferior_centroid_shift": "Visible tapering towards the lower extremity of the patch"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap across the cranial vertex separating the two dark ear regions",
+    "apex_contour_smoothness": "Smoothly rounded convex semicircular tops"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

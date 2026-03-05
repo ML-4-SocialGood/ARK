@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, slanting downwards from the posterior side towards the snout relative to the facial axis.",
+    "aspect_ratio_factor": "Oval/elongated blob with a longitudinal axis significantly longer than the vertical axis.",
+    "inferior_centroid_shift": "Visible downward tapering toward the lower mandible area below the eye position."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Pronounced U-shaped curve at the posterior margin where the black band meets the white dorsal fur.",
+    "normalized_band_thickness": "High relative thickness, covering a substantial portion of the upper torso and shoulder width."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distinct wide gap between the dark ear regions, separated by the white fur of the cranial vertex.",
+    "apex_contour_smoothness": "Rounded, convex curvature at the top boundaries of the visible ear pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation angled approximately 40 degrees downward from the posterior edge toward the muzzle.",
+    "aspect_ratio_factor": "Pronounced oval shape with a longitudinal axis significantly longer than the transverse axis.",
+    "inferior_centroid_shift": "Subtle downward tapering at the anterior-inferior point, resulting in a slight shift of mass toward the lower front."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve profile at the posterior boundary of the dark band.",
+    "normalized_band_thickness": "Moderate thickness, encompassing the entire shoulder region and extending to approximately one-third of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide inter-ear gap, roughly equivalent to twice the width of the ear base.",
+    "apex_contour_smoothness": "Smoothly rounded apex with no visible flattening or irregularities."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

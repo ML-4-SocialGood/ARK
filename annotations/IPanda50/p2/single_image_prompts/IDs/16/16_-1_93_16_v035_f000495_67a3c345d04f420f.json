@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation approximately 45 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Oval morphology with vertical dimension significantly exceeding horizontal width.",
+    "inferior_centroid_shift": "Significant downward taper with the lowest point extending towards the lateral muzzle region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shaped profile with a relatively straight posterior edge across the dorsal region.",
+    "normalized_band_thickness": "High thickness, occupying approximately 40% of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large gap across the cranial vertex, estimated at 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Smooth, continuous semicircular curvature at the apex of both visible ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-yellow discoloration of the fur on the ventral and thoracic regions compared to the white cranial fur."
+}

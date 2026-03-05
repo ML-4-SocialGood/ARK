@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward tilt relative to the horizontal facial axis based on the right-side eye patch",
+    "aspect_ratio_factor": "Oval geometry with an estimated width-to-height ratio of 1.5:1",
+    "inferior_centroid_shift": "Slight downward elongation of the dark pixel mass toward the rostral area"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curvature along the posterior edge of the transverse band",
+    "normalized_band_thickness": "Significant thickness occupying approximately 30% of the visible torso height"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation between ear regions, approximately equivalent to 200% of the individual ear width",
+    "apex_contour_smoothness": "Smoothly rounded semi-circular convex curvature"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

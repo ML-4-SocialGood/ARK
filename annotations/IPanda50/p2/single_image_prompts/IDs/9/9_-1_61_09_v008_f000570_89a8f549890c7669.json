@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward tilt toward the muzzle relative to the horizontal facial axis",
+    "aspect_ratio_factor": "Elongated oval with a width-to-height ratio of approximately 1:2",
+    "inferior_centroid_shift": "Pronounced downward tapering with the lowest point shifted ventrally toward the snout"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shaped curve profile at the posterior edge of the interscapular band",
+    "normalized_band_thickness": "High relative thickness, spanning the entirety of the visible shoulder and upper limb attachment"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap, approximately 1.5 times the width of an individual pinna region",
+    "apex_contour_smoothness": "Highly smooth, convex semicircular curvature"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

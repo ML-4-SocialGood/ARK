@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at approximately a 45-degree downward angle relative to the nasal-cranial axis.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval morphology, with the longitudinal axis approximately 1.6 times the transverse width.",
+    "inferior_centroid_shift": "There is a pronounced downward tapering towards the lower cheek, extending the visual mass significantly below the geometric center of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band exhibits a shallow, wide U-shape across the scapular region.",
+    "normalized_band_thickness": "The band appears thick, occupying approximately 35% of the visible dorsal-to-ventral torso height at the shoulder lateral."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely set across the crown, separated by a gap approximately 2.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "The apex of the pinnae shows a smooth, high-radius convex curvature without flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The tongue is fully protruding from the oral cavity; the ventral fur shows significant yellowish-brown chromatic saturation compared to the white cranial fur."
+}

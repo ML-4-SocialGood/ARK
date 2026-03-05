@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees relative to the horizontal facial axis, angled medially towards the muzzle.",
+    "aspect_ratio_factor": "Ovoid geometry with a vertical elongation, approximately 1.5:1 height-to-width ratio.",
+    "inferior_centroid_shift": "Pronounced downward tapering toward the medial-inferior region of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve across the posterior boundary of the dorsal band.",
+    "normalized_band_thickness": "Approximately 30% of the visible vertical torso profile above the water line."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the dark ear regions is approximately 2.5 times the horizontal width of an individual pinna.",
+    "apex_contour_smoothness": "Semicircular and smooth convex curvature at the top of the ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Open mandible posture exposing the oral cavity and interior dentition."
+}

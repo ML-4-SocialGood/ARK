@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique inward tilt oriented toward the rostrum at approximately 30 degrees from horizontal.",
+    "aspect_ratio_factor": "Oval morphology with horizontal width exceeding vertical height.",
+    "inferior_centroid_shift": "Subtle downward tapering observed on the lower-medial margin of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve across the posterior margin of the dark band.",
+    "normalized_band_thickness": "Moderately thick, occupying approximately 30% of the visible dorsal trunk length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation between pinnae, approximately equal to one ear-width.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular top boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

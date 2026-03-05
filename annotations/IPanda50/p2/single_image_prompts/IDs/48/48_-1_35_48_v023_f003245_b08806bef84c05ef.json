@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented approximately 45 degrees downward toward the nasal midline.",
+    "aspect_ratio_factor": "Oval-shaped with a width-to-height ratio approximately 1.5:1.",
+    "inferior_centroid_shift": "Significant downward tapering observed, with the geometric mass concentrated below the ocular center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Thick, occupying approximately 40% of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large gap, roughly 1.5 times the width of a single pinna region.",
+    "apex_contour_smoothness": "Uniformly rounded, semicircular apex profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

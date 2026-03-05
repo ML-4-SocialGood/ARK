@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep V-shape profile visible along the posterior edge of the dark band",
+    "normalized_band_thickness": "The dark band displays a high relative thickness across the lateral flanks"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distinct wide gap visible between the two dark semicircular ear regions",
+    "apex_contour_smoothness": "Primarily rounded apex contours with slight flattening due to perspective and motion"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

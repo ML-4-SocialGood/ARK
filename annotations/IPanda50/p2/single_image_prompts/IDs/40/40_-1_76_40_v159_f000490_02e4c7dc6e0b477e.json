@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right eye patch is oriented at a steep vertical angle, approximately 75 degrees relative to the horizontal axis of the snout.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval morphology with a significantly high height-to-width ratio.",
+    "inferior_centroid_shift": "The patch exhibits a distinct downward tapering, with the lowest point of the black plumage extending well below the eye's horizontal midline."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the band across the upper back displays a broad, flat U-shape curvature.",
+    "normalized_band_thickness": "The dark band is extremely thick, occupying approximately 50% of the visible torso length from the neck to the mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned laterally with a wide cranial gap approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The ear apices exhibit a smooth, semi-circular convex curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The specimen is observed in a vertical climbing posture, gripping a primary vertical support structure with all four limbs visible in a weight-bearing state."
+}

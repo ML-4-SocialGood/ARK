@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees relative to the median facial plane, angled ventrally toward the rostrum.",
+    "aspect_ratio_factor": "Elongated ellipsoidal blobs with an estimated 2:1 length-to-width ratio.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped curve along the posterior margin.",
+    "normalized_band_thickness": "Approximately 0.25 relative to the visible longitudinal length of the torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Widely spaced at the lateral-superior margins of the cranium, separated by a distance roughly equal to the cranial width.",
+    "apex_contour_smoothness": "Convex and rounded at the superior boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Atypical brown-on-tan pigmentation across the dorsal and pelvic regions, differing from the standard black-on-white phenotype."
+}

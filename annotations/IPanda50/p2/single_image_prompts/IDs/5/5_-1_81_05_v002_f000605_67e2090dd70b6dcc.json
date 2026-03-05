@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 75 degrees relative to the horizontal facial axis, angled toward the ear region.",
+    "aspect_ratio_factor": "Elongated oval shape with height significantly exceeding width.",
+    "inferior_centroid_shift": "Pronounced downward tapering extending well below the eye's horizontal midline."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape along the posterior boundary of the band.",
+    "normalized_band_thickness": "Thick transverse band, occupying approximately 35-40% of the visible torso longitudinal span."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear separation between ear regions across the cranial crown.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular contour at the ear apexes."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the left eye patch is oriented at approximately a 45-degree angle descending toward the muzzle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The patch is an elongated oval, with the vertical dimension approximately 1.5 times the horizontal width.",
+    "inferior_centroid_shift": "There is a pronounced downward tapering effect toward the lower medial corner, pulling the visual center of the patch downward."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band spans approximately 35% of the visible vertical height of the upper torso at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The apex of the visible left ear is characterized by a smooth, perfectly semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A thin, distinct vertical dark streak or line is visible on the white frontal region directly above the left eye patch."
+}

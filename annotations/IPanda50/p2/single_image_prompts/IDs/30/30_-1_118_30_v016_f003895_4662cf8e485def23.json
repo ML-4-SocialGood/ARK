@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonally oriented, with the primary axis angled downward towards the medial line of the rostrum.",
+    "aspect_ratio_factor": "Elongated oval where the vertical-diagonal height significantly exceeds the transverse width.",
+    "inferior_centroid_shift": "Visible downward tapering toward the lower-medial corner, indicating a shift of the centroid toward the upper-lateral region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve along the posterior margin of the transverse band.",
+    "normalized_band_thickness": "Uniformly thick across the shoulder region, encompassing roughly one-fourth of the visible dorsal length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large gap between pinnae, separated by a broad, white cranial vertex.",
+    "apex_contour_smoothness": "Smoothly convex and rounded at the superior boundary of the ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

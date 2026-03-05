@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique downward orientation approximately 45 degrees relative to the cranial midline",
+    "aspect_ratio_factor": "Elongated oval with a major axis roughly twice the length of the minor axis",
+    "inferior_centroid_shift": "Moderate downward taper with the geometric mass concentrated toward the anterior-inferior quadrant"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve along the posterior boundary of the dark region",
+    "normalized_band_thickness": "Wide band spanning approximately 45 percent of the visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant gap approximately 1.5 times the width of a single pinna region",
+    "apex_contour_smoothness": "Smoothly rounded semicircular contour with no visible flattening"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Presence of an elongated, bushy black tail extending from the lower posterior, which is morphologically inconsistent with Ailuropoda melanoleuca"
+}

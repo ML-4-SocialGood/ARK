@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape curve at the posterior edge of the visible shoulder band",
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Narrow visible gap between the two dark ear regions at the cranial apex",
+    "apex_contour_smoothness": "Rounded apex contours"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Atypical brownish-tan pigmentation of the dorsal pelage"
+}

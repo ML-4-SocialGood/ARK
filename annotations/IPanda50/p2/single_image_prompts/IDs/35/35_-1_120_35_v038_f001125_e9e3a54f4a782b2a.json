@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation approximately 45 degrees relative to the snout-ear axis, directed toward the muzzle.",
+    "aspect_ratio_factor": "Elongated oval with a high aspect ratio, where height significantly exceeds width.",
+    "inferior_centroid_shift": "Moderate tapering at the lower-inner margin, creating a downward-pointing teardrop effect."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shaped curvature on the posterior edge across the dorsal midline.",
+    "normalized_band_thickness": "Consistent thick band, occupying approximately 25 percent of the visible longitudinal dorsal area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large gap, approximately equivalent to 2.5 times the horizontal width of a single pinna.",
+    "apex_contour_smoothness": "Convex and generally rounded, though the right pinna shows minor contour irregularities due to fur tufts."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Small white particulates or debris are visible against the dark fur of the left shoulder and forelimb."
+}

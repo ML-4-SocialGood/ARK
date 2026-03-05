@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis is oriented at approximately 75 degrees relative to the horizontal facial axis, leaning towards the anterior snout.",
+    "aspect_ratio_factor": "Ovoid morphology with a vertical-to-horizontal visual ratio of approximately 1.8:1.",
+    "inferior_centroid_shift": "The patch exhibits a distinct downward taper towards the muzzle, shifting the visual weight significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band displays a broad, shallow U-shape curve across the spine.",
+    "normalized_band_thickness": "The dark band comprises approximately 20-25% of the total visible torso length along the dorsal midline."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible superior pinna displays a smooth, continuous semicircular curvature at its apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

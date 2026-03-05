@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented approximately 80 degrees relative to the horizontal facial axis, indicating vertical elongation.",
+    "aspect_ratio_factor": "High aspect ratio; eye patches appear as distinct vertical ovals.",
+    "inferior_centroid_shift": "Visible downward tapering of dark pixels extending toward the muzzle area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped profile across the posterior margin of the dark band.",
+    "normalized_band_thickness": "The band occupies approximately 30-35% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant lateral spacing across the top of the cranium.",
+    "apex_contour_smoothness": "Rounded, convex curvature at the superior edges of the pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented at approximately a 45-degree angle downward toward the snout.",
+    "aspect_ratio_factor": "Ovaloid shape, with the vertical axis significantly longer than the horizontal axis.",
+    "inferior_centroid_shift": "Clear tapering effect in the ventral-anterior direction, with the lowest point extending well below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Broad black band on the visible lateral flank, occupying roughly 40-50% of the visible torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance is approximately 1.5 times the individual width of the pinna regions.",
+    "apex_contour_smoothness": "Smooth, convex semicircular curvature at the tops of both visible ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

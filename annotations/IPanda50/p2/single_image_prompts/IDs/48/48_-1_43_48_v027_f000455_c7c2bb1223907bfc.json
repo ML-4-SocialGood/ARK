@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique vertical orientation, approximately 75 degrees relative to the horizontal facial axis, tapering towards the muzzle.",
+    "aspect_ratio_factor": "Elongated teardrop profile with a high vertical-to-horizontal aspect ratio, significantly taller than wide.",
+    "inferior_centroid_shift": "Pronounced inferior tapering where the narrowest point extends significantly below the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Thick lateral bands at the humeral region, comprising roughly 30% of the visible upper torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large gap between pinnae, approximately equal to the width of the ear base.",
+    "apex_contour_smoothness": "Sub-conical with slightly pointed apices rather than perfectly semicircular arcs."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Maximum mandibular gape revealing full dentition and oral cavity; extensive brown-toned oxidative staining across the ventral abdominal fur and hindquarters."
+}

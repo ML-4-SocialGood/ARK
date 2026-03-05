@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation tilted approximately 45 degrees downward towards the rostrum.",
+    "aspect_ratio_factor": "Elongated oval with a high aspect ratio where length significantly exceeds width.",
+    "inferior_centroid_shift": "Pronounced downward tapering towards the inferior-medial margin near the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct gap is visible between the pinnae, approximately equivalent to the horizontal width of one ear.",
+    "apex_contour_smoothness": "Smooth, semicircular convex curvature along the superior boundaries of both visible pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

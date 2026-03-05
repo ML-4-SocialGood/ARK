@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dorsal band exhibits a broad, flat U-shape curvature.",
+    "normalized_band_thickness": "The band is thick and prominent, occupying approximately 30-35% of the visible lateral torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "There is a distinct gap between the ear regions, though the lower ear is partially occluded and compressed against the ground.",
+    "apex_contour_smoothness": "The visible upper ear displays a smooth, rounded semi-circular apex."
+  },
+  "acquired_anomalies_or_scars": "A distinct reddish-brown mark or potential lesion is visible on the left side of the muzzle/mouth area.",
+  "other_distinctive_markers": "Significant brownish-tan staining is present on the fur across the posterior half of the body, contrasting with the white fur on the head and upper back."
+}

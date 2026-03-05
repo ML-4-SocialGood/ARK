@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 70 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Oval-shaped, with the vertical axis significantly longer than the horizontal width.",
+    "inferior_centroid_shift": "Moderate downward tapering observed towards the maxillary region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, flat U-shape along the posterior boundary of the dark band.",
+    "normalized_band_thickness": "Wide band occupying approximately 35% of the visible torso height from the lateral perspective."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear spatial gap visible between the two dark semicircular pinnae.",
+    "apex_contour_smoothness": "Smoothly rounded convex apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

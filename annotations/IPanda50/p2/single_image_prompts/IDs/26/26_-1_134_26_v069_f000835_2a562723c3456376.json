@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 75 degrees relative to the horizontal facial axis, oriented vertically with a slight inward tilt toward the nasal bridge.",
+    "aspect_ratio_factor": "Distinctly elongated ovoid morphology with a vertical-to-horizontal ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the inferior margin extending significantly below the geometric center toward the lateral muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shape curvature at the posterior edge transitioning from the dorsal midline to the lateral flanks.",
+    "normalized_band_thickness": "Thick band occupying approximately 25-30% of the visible dorsal-to-ventral torso height at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant cranial gap between pinnae, approximately 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Highly rounded, convex apex with continuous circular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

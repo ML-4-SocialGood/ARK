@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape with a slightly irregular and jagged posterior boundary.",
+    "normalized_band_thickness": "Thick transverse band, estimated to cover approximately one-third of the visible torso height from the shoulder to mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap is visible between the ears, though the precise distance is obscured by the rear-facing head orientation.",
+    "apex_contour_smoothness": "The apex of the right ear exhibits a slightly flattened curvature rather than a perfectly rounded hemispherical top."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Prominent brownish-yellow discoloration or staining of the white pelage on the lower dorsal and lumbar regions."
+}

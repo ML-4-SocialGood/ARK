@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertically oriented with a distinct inward tilt toward the muzzle, approximately 60 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Vertically elongated oval with a significantly higher height-to-width ratio.",
+    "inferior_centroid_shift": "Pronounced downward tapering resulting in a tear-drop effect where the lowest point is significantly distal to the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation between the black ear regions, approximately 1.5 times the width of an individual pinna.",
+    "apex_contour_smoothness": "Convex and rounded curvature along the superior boundaries of the ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

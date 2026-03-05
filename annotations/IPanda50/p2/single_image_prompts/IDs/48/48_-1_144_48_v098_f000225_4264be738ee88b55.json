@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of each eye patch is oriented nearly vertically, with a slight lateral divergence of approximately 10 degrees from the sagittal plane at the superior end.",
+    "aspect_ratio_factor": "Vertical ovals with an estimated height-to-width ratio of 1.6:1.",
+    "inferior_centroid_shift": "The patches exhibit a notable downward tapering effect, where the lower portion is narrower than the upper portion, resulting in a geometric center positioned in the upper half of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band at the lateral flanks occupies approximately 35% of the visible torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the medial margins of the ears is approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The ear apices are sharply peaked and triangular in profile, lacking a smooth semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A metal chain is visible around the left carpal/forelimb area. A large, translucent cylindrical ice block is positioned between the hind limbs. The mouth is open, revealing the tongue and teeth."
+}

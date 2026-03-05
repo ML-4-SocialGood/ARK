@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, angled approximately 45 degrees downward from the lateral toward the medial plane based on the visible left eye patch.",
+    "aspect_ratio_factor": "Oval, with the vertical dimension exceeding the horizontal width in the current projection.",
+    "inferior_centroid_shift": "Distinct downward elongation tapering towards the rostrum."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve along the posterior margin.",
+    "normalized_band_thickness": "Broad band occupying approximately 30-35% of the visible dorsal-to-caudal torso span."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap distance is roughly equal to the transverse width of one pinna region.",
+    "apex_contour_smoothness": "Symmetric rounded convex tops."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

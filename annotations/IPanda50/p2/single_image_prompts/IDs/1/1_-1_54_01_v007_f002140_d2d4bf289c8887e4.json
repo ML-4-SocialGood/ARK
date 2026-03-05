@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis of the eye patch is oriented at an approximately 45-degree upward angle relative to the horizontal axis of the face.",
+    "aspect_ratio_factor": "Elongated oval morphology with a width-to-height ratio of approximately 1.8:1.",
+    "inferior_centroid_shift": "Significant downward tapering is visible, situating the geometric center in the superior half of the patch area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Posterior edge displays a broad, shallow U-shaped curvature across the upper dorsal region.",
+    "normalized_band_thickness": "Lateral band height is approximately 25% of the total visible vertical torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Ears are widely spaced at the cranial lateral boundaries, separated by a gap roughly three times the width of an individual pinna.",
+    "apex_contour_smoothness": "Highly smooth, rounded semicircular curvature at the apex of the visible ear region."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced yellowish-brown staining is present on the fur of the abdominal and inguinal regions."
+}

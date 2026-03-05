@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation tilted toward the ear at approximately 45-60 degrees from the horizontal facial axis.",
+    "aspect_ratio_factor": "Distinctly elliptical profile with an estimated 1.5:1 height-to-width ratio.",
+    "inferior_centroid_shift": "Pronounced tapering toward the ventral extremity, creating a vertical elongation below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped curvature along the posterior edge of the transverse band.",
+    "normalized_band_thickness": "The dark band occupies approximately 45% of the visible dorsal-ventral torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Lateral ear placement with a separation distance approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "Uniformly rounded semicircular curvature across the superior boundaries of both pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

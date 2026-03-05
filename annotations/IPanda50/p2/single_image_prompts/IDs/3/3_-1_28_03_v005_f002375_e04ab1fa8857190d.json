@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees relative to the horizontal facial axis, angled downwards towards the rostrum.",
+    "aspect_ratio_factor": "Oval-shaped with an approximate 1.8:1 length-to-width ratio along the dominant axis.",
+    "inferior_centroid_shift": "Distinct downward tapering towards the muzzle, creating a teardrop-shaped profile."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape across the posterior margin of the band.",
+    "normalized_band_thickness": "Thick, occupying approximately 25-30% of the visible torso length between the neck and hindquarters."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, approximately 2.5 times the width of a single ear unit.",
+    "apex_contour_smoothness": "Smooth, semicircular curvature at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brownish-tan chromatic shift in the fur across the posterior lumbar and pelvic regions compared to the white cranial fur."
+}

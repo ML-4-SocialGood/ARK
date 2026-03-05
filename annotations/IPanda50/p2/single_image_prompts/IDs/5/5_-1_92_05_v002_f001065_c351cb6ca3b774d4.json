@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique angle of approximately 45 degrees downward relative to the horizontal cranial axis",
+    "aspect_ratio_factor": "Oval morphology with an estimated 2:1 length-to-width ratio",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve along the posterior margin",
+    "normalized_band_thickness": "Occupies approximately 30% of the total visible thoracic length from a lateral perspective"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distinct separation gap approximately equal to one ear width",
+    "apex_contour_smoothness": "Uniformly rounded convex curvature"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

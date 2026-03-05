@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the right eye patch is oriented at a descending diagonal angle toward the snout relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "The right eye patch displays an elongated oval geometry with a length-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "The patch exhibits a pronounced downward taper, with a significant extension of black pixels toward the lower anterior facial region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The superior boundary of the visible right ear displays a smooth, rounded convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

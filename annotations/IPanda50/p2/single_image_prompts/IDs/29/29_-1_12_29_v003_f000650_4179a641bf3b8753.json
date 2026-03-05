@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward angle relative to the snout-to-ear horizontal axis.",
+    "aspect_ratio_factor": "Elliptical/oval profile with a high length-to-width ratio.",
+    "inferior_centroid_shift": "Tapered inferior margin extending toward the maxillary region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Broad, occupying roughly one-third of the visible upper torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant dorsal separation between pinnae across the cranial vault.",
+    "apex_contour_smoothness": "Symmetrically rounded apical curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

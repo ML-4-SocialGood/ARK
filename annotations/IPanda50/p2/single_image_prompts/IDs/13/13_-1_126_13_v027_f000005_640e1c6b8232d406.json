@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, primary axis angled approximately 45 degrees toward the rostrum relative to the mid-facial line.",
+    "aspect_ratio_factor": "Elongated oval with a high aspect ratio; length significantly exceeds width.",
+    "inferior_centroid_shift": "Moderate downward tapering observed toward the muzzle at the lower terminus of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape profile with a smooth, wide posterior boundary curvature.",
+    "normalized_band_thickness": "Consistent thickness across the transverse axis, comprising approximately one-third of the visible upper dorsal length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant lateral separation with a wide, white cranial vault area between the dark ear regions.",
+    "apex_contour_smoothness": "Smoothly convex, semicircular top boundaries with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

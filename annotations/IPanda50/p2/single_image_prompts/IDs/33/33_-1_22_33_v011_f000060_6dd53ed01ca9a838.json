@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation tilted approximately 45 degrees downward towards the snout relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Vertically elongated oval with an estimated height-to-width aspect ratio of 1.5:1.",
+    "inferior_centroid_shift": "Clear downward tapering where the patch narrows significantly towards its lowest visible point."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior edge with a smooth, non-angular transition across the spinal midline.",
+    "normalized_band_thickness": "The band occupies approximately 30-35% of the visible torso length at the mid-dorsal point."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible ear exhibits a highly smooth hemispherical curvature with no observed flattening at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The posterior region of the white coat displays a distinct yellowish-brown chromatic shift compared to the brighter white fur on the neck."
+}

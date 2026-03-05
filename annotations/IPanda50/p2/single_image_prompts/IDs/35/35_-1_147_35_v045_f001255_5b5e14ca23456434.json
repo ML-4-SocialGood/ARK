@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal, oriented approximately 45 degrees relative to the sagittal plane of the skull",
+    "aspect_ratio_factor": "Elongated oval with a high aspect ratio; major axis significantly longer than the minor axis",
+    "inferior_centroid_shift": "Pronounced tapering at the inferior-lateral margin towards the cheek region"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "Shallow, wide U-shaped posterior boundary",
+    "normalized_band_thickness": "High; the band occupies approximately 35-40% of the visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, roughly equivalent to 1.5 ear-widths across the white cranial vertex",
+    "apex_contour_smoothness": "High; the superior boundaries are consistently rounded and semicircular"
+  },
+  "acquired_anomalies_or_scars": "A distinct, small white patch of fur is visible on the left lateral side of the black dorsal band",
+  "other_distinctive_markers": "Pronounced visibility of the hind paw plantar surfaces and individual claws in the lower right foreground"
+}

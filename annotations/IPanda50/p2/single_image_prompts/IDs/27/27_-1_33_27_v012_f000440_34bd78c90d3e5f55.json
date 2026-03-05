@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees diagonally downward and inward toward the midline.",
+    "aspect_ratio_factor": "Ellipsoidal, with a major-to-minor axis ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Significant downward tapering towards the inferior margin near the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve profile visible at the posterior dorsal transition.",
+    "normalized_band_thickness": "Highly thick, extending from the shoulder junction down through the entire visible forelimb region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral spacing across the cranial vault, exceeding the width of a single pinna.",
+    "apex_contour_smoothness": "Symmetric and smooth semicircular curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, angled approximately 50-60 degrees downward toward the medial axis of the muzzle.",
+    "aspect_ratio_factor": "Vertically elongated ovoid, with height approximately double the width.",
+    "inferior_centroid_shift": "Pronounced inferior tapering, with the lowest point of the patch extending significantly below its geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Substantial lateral thickness, occupying roughly one-third of the visible torso height at the flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide cranial separation, with the pinnae positioned on the lateral-superior margins of the head.",
+    "apex_contour_smoothness": "Varied curvature; the viewer's right ear displays a semi-circular arc, while the viewer's left ear appears more acute and triangular."
+  },
+  "acquired_anomalies_or_scars": "A small, dark, high-contrast focal spot is visible on the upper left region of the forehead.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Sub-vertical orientation with a slight posterior tilt relative to the facial midline.",
+    "aspect_ratio_factor": "Elongated oval with a vertical axis significantly exceeding the horizontal width.",
+    "inferior_centroid_shift": "Pronounced downward tapering where the patch extends vertically toward the lower jawline."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped curvature on the posterior margin of the band.",
+    "normalized_band_thickness": "Large band thickness representing approximately one-third of the visible dorsal length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smooth, rounded hemispherical curvature at the ear apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

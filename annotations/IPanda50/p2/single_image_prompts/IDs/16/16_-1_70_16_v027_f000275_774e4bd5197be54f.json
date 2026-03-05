@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at an approximate 45-degree angle downward and outward from the bridge of the nose.",
+    "aspect_ratio_factor": "The eye patch displays a vertically elongated oval shape with an estimated width-to-height ratio of 1:1.5.",
+    "inferior_centroid_shift": "The patch exhibits a distinct downward tapering, with a higher concentration of black pixels extending below the horizontal midline."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned with a wide lateral gap, separated by approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The superior boundaries of the ears are smoothly rounded and semicircular with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": "A distinct, dark linear mark or indentation is visible in the white fur on the supraorbital region above the right eye (viewer's left).",
+  "other_distinctive_markers": "The tip of the tongue is pink and visibly protruding from the mouth; sharp claws are clearly defined on both the forepaws and hindpaws."
+}

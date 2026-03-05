@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward tilt toward the rostrum along the sagittal plane",
+    "aspect_ratio_factor": "Vertically elongated ovaloid with an estimated 2:1 height-to-width ratio",
+    "inferior_centroid_shift": "Pronounced downward taper with the lower boundary extending significantly below the geometric center"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary",
+    "normalized_band_thickness": "Wide transverse band occupying approximately 40% of the visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation, approximately twice the individual pinna width",
+    "apex_contour_smoothness": "Smoothly rounded semicircular profile"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

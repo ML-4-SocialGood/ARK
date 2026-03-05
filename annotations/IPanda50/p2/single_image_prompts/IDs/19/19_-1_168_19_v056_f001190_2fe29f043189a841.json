@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "approximately 45 degrees relative to the horizontal facial axis, oriented downwards and inwards towards the muzzle",
+    "aspect_ratio_factor": "oval/ellipsoid with vertical elongation",
+    "inferior_centroid_shift": "pronounced downward tapering towards the snout with the lowest point significantly below the geometric center"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "broad, spanning the entire visible shoulder girdle and upper torso"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "wide lateral separation on the cranial vertex",
+    "apex_contour_smoothness": "smoothly rounded semicircular profile"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

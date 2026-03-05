@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, with the primary axis of the patches angled at approximately 45 degrees relative to the horizontal, converging towards the rostrum.",
+    "aspect_ratio_factor": "Vertically elongated ovoid morphology with an approximate width-to-height ratio of 0.7:1.",
+    "inferior_centroid_shift": "Pronounced inferior expansion and tapering, resulting in a teardrop-shaped profile with a lower geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior edge with a relatively flat profile across the dorsal midline.",
+    "normalized_band_thickness": "Moderately thick transverse band occupying approximately 35% of the visible thoracic region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation where the gap between the medial boundaries is approximately 1.5 times the width of an individual pinna.",
+    "apex_contour_smoothness": "Highly smooth, semi-circular convex curvature at the superior margins of the ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Distinct brownish-yellow organic discoloration present on the ventral fur of the thoracic and abdominal regions."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 75 degrees relative to the horizontal facial midline, tapering towards the muzzle.",
+    "aspect_ratio_factor": "Elongated oval with a significantly higher vertical-to-horizontal axis ratio.",
+    "inferior_centroid_shift": "Pronounced downward taper where the narrowest point of the patch is at its lowest vertical extremity."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, wide U-shape profile along the posterior margin of the transverse band.",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 35-40% of the visible dorsal-to-ventral torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap between the medial edges of the ears is approximately 1.5 times the width of an individual pinna.",
+    "apex_contour_smoothness": "Smooth, rounded semicircular curvature at the superior boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Presence of green organic debris/foliage particles adhered to the black fur of the left forelimb."
+}

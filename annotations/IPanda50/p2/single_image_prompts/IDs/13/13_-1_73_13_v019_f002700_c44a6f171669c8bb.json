@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented at approximately a 45-degree downward angle relative to the horizontal axis of the snout.",
+    "aspect_ratio_factor": "The eye patch is distinctly oval and elongated, with an estimated length-to-width ratio of 1.8:1.",
+    "inferior_centroid_shift": "The patch exhibits a pronounced downward taper towards the lower rostrum, placing the lowest point significantly below the geometric center of the blob."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band follows a shallow, broad U-shaped curve as it transitions across the dorsal region.",
+    "normalized_band_thickness": "The dark band occupies approximately 35-40% of the visible vertical height of the upper torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible right ear exhibits a smooth, high-curvature semicircular apex with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject has an open oral cavity, making the pink mucosal tissue and tongue visible against the white facial fur."
+}

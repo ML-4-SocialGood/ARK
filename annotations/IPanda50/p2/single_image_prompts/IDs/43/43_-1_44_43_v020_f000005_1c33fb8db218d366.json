@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation sloping approximately 45 degrees downward toward the muzzle.",
+    "aspect_ratio_factor": "Oval/elliptical shape with a length-to-width ratio of approximately 2:1.",
+    "inferior_centroid_shift": "The lower margin tapers significantly downward from the eye center toward the cheek."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "A wide, shallow U-shaped curve where the black band meets the white dorsal fur.",
+    "normalized_band_thickness": "High; the band covers approximately one-third of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance between ears is approximately 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "Smooth, semi-circular convex curvature at the top of both visible ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

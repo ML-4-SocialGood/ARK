@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented at approximately 75 degrees relative to the horizontal axis of the snout, tilting forward.",
+    "aspect_ratio_factor": "The eye patch exhibits an elongated oval shape with a vertical-to-horizontal visual ratio of approximately 2:1.",
+    "inferior_centroid_shift": "There is a distinct downward taper, with the inferior boundary extending toward the lower cheek area, shifting the centroid toward the upper-posterior quadrant."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band displays a wide, irregular U-shaped profile across the visible upper torso.",
+    "normalized_band_thickness": "The dark band is thick, occupying approximately 40% of the vertical torso depth visible in the profile view."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-ear gap is clearly visible and spans a distance roughly equal to the width of the left ear's base.",
+    "apex_contour_smoothness": "The apex of the visible ear is rounded, though the outline is softened by dense, shaggy fur texture."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A prominent yellowish-cream patch of fur is visible on the cranial crown, contrasting with the surrounding white fur."
+}

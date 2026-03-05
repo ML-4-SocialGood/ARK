@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at a downward angle of approximately 40 degrees toward the rostrum relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "The patch exhibits an elongated oval morphology where the vertical-diagonal length is significantly greater than the transverse width.",
+    "inferior_centroid_shift": "A distinct downward taper is present, with the lowest point of the patch extending towards the muzzle, creating a teardrop-like geometric shift from the center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band follows a broad, shallow U-shape across the upper back.",
+    "normalized_band_thickness": "The dark band occupies roughly 45% of the visible torso height between the neck and the mid-back region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are set wide apart with a large, white inter-pinna cranial gap approximately 2.5 times the width of a single ear.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae are smoothly rounded and convex, showing no signs of flattened or irregular apex geometry."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is engaged in tactile interaction with a blue-colored, textured enrichment sphere attached to thick fiber ropes."
+}

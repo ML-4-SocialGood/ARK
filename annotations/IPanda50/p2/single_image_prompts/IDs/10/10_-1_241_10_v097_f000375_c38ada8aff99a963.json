@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique downward tilt oriented approximately 70 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated teardrop-shaped oval with high vertical-to-horizontal ratio.",
+    "inferior_centroid_shift": "Pronounced downward elongation where the lowest point of the patch extends significantly below the geometric center toward the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve profile at the posterior edge of the band across the spine.",
+    "normalized_band_thickness": "Large relative thickness, covering approximately one-third of the visible torso height at the lateral intersection."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between pinnae, approximately twice the lateral width of a single ear unit.",
+    "apex_contour_smoothness": "Rounded semicircular profile with moderate smoothness and no distinct apex flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Dark-colored organic debris (leaf) visible on the right posterior dorsal region."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right eye patch displays a vertical-oblique orientation, slanting approximately 20 degrees inward toward the snout at its inferior pole.",
+    "aspect_ratio_factor": "Vertically elongated oval; the vertical axis is significantly longer than the horizontal width, approximately a 1.5:1 ratio.",
+    "inferior_centroid_shift": "The patch exhibits an inferior-medial taper, with the lowest point of the pigment extending well below the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "A shallow U-shaped profile is visible at the posterior boundary of the band across the dorsal spine.",
+    "normalized_band_thickness": "The dark band is thick and uniform across the shoulders, occupying roughly 35% of the visible vertical torso height at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-pinna gap is wide, approximately 1.8 times the horizontal width of a single ear base.",
+    "apex_contour_smoothness": "The right pinna exhibits a smooth, semi-circular apex; the left pinna is rounded but appears slightly flattened due to motion blur."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-yellow discoloration is visible on the ventral abdominal fur, contrasting with the white fur on the cranium and upper neck."
+}

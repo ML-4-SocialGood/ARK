@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree inward tilt toward the rostrum relative to the horizontal ocular plane.",
+    "aspect_ratio_factor": "Elliptical with an estimated 2:1 length-to-width ratio.",
+    "inferior_centroid_shift": "Pronounced downward tapering toward the muzzle, indicating a teardrop geometry with the centroid shifted superiorly."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped curvature on the posterior boundary.",
+    "normalized_band_thickness": "Moderate thickness, occupying roughly 25-30% of the visible dorsal-to-caudal torso span."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distance between ear bases is approximately 1.5 times the width of a single ear pinna.",
+    "apex_contour_smoothness": "Convex and semicircular with high curvature smoothness at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Active water displacement (splash) around the forelimbs due to interaction with a terrestrial water feature."
+}

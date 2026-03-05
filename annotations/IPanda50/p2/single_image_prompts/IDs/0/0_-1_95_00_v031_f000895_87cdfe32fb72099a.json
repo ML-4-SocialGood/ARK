@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, approximately 45 degrees downward from the posterior edge toward the snout.",
+    "aspect_ratio_factor": "Oval-shaped with a length significantly exceeding width.",
+    "inferior_centroid_shift": "The patch exhibits a distinct downward teardrop tapering at its lower-anterior boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High thickness, occupying approximately one-third of the total visible lateral torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Broad separation between pinnae across the cranial apex, roughly twice the width of a single ear base.",
+    "apex_contour_smoothness": "Smooth, rounded semicircular profile without flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Presence of desaturated grey/white fur patches transitioning from the black ventral-posterior region toward the hindlimb."
+}

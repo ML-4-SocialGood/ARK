@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique angle of approximately 75 degrees relative to the horizontal facial axis based on the right eye patch",
+    "aspect_ratio_factor": "Elongated oval with a high length-to-width ratio",
+    "inferior_centroid_shift": "Visible downward tapering at the ventral-most point of the eye patch"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Smooth, broad U-shaped curve profile",
+    "normalized_band_thickness": "High thickness, extending approximately 25 percent of the visible lateral torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Substantial lateral separation between pinnae, approximately three ear-widths apart",
+    "apex_contour_smoothness": "Convex, smoothly rounded top boundaries"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree diagonal tilt downward toward the nasal bridge relative to the sagittal plane of the face.",
+    "aspect_ratio_factor": "Elongated oval with a high aspect ratio where vertical length significantly exceeds horizontal width.",
+    "inferior_centroid_shift": "Distinct downward tapering with the lowest point of the patch extending significantly below the horizontal midline of the ocular region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Broad dark band visible at the lateral shoulder junctions, appearing thick relative to the upper torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation approximately equal to the width of the cranial vault between the medial edges of the ears.",
+    "apex_contour_smoothness": "Consistent parabolic curvature resulting in a perfectly rounded dorsal boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive reddish-brown chromatic staining on the fur of the lower abdomen, inguinal region, and hind paw surfaces, contrasting with the white thoracic fur."
+}

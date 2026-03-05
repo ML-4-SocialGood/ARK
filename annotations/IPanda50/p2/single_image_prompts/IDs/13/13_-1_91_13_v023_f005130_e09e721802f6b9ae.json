@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal tilt oriented approximately 45 degrees downward toward the rostrum relative to the facial midline",
+    "aspect_ratio_factor": "Ovoid elongation with a vertical-to-horizontal ratio of approximately 1.4:1",
+    "inferior_centroid_shift": "Pronounced downward tapering with the lowest point significantly distal to the geometric center"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape with a shallow posterior curve visible across the shoulder mantle",
+    "normalized_band_thickness": "Broad band, approximately 0.35 relative to the visible height of the lateral torso"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant separation distance, approximately 1.5 times the width of a single ear unit",
+    "apex_contour_smoothness": "Highly smooth, convex semicircular curvature"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

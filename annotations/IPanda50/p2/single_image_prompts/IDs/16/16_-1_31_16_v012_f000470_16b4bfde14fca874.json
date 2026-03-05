@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 60 degrees downward slant relative to the horizontal facial axis towards the rostrum.",
+    "aspect_ratio_factor": "Elongated oval with a height-to-width ratio of approximately 1.8:1.",
+    "inferior_centroid_shift": "Moderate downward tapering where the patch narrows significantly at its lowest point below the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shaped profile across the posterior edge with no sharp vertex.",
+    "normalized_band_thickness": "Occupies approximately 20-25% of the visible torso height at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A gap equivalent to roughly 1.5 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "Smooth, semi-circular convex curvature at the top boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-yellow environmental staining on the fur of the lower posterior region."
+}

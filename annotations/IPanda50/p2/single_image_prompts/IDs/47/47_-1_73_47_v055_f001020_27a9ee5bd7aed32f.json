@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately vertical orientation relative to the longitudinal facial axis, with a slight oblique tilt toward the snout.",
+    "aspect_ratio_factor": "Oval geometry with a visible height-to-width ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "Moderate downward tapering at the ventral-most point of the eye patch relative to its geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior curvature where the dark band meets the white dorsal fur.",
+    "normalized_band_thickness": "Significant band thickness, occupying roughly 40% of the visible upper torso region from the lateral/dorsal perspective."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smooth, semicircular curvature on the visible ear apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

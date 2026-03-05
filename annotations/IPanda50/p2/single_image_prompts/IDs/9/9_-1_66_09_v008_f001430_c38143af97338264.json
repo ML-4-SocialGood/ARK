@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at a diagonal angle approximately 45 degrees relative to the vertical axis of the head.",
+    "aspect_ratio_factor": "The eye patch displays an elongated, teardrop-like oval geometry with an approximate aspect ratio of 1.8:1.",
+    "inferior_centroid_shift": "The patch exhibits a distinct downward taper, with the bulk of the pigment extending significantly below the geometric center toward the lateral cheek area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band across the shoulders is wide, covering approximately 35% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The dark ear regions are separated by a broad white cranial gap approximately 1.5 times the width of the ear base.",
+    "apex_contour_smoothness": "The visible ear displays a smooth, continuous convex curvature at the apex with no flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Fur on the ventral neck and chest displays significant yellowish-brown discoloration; the oral cavity is slightly open, making the tongue and lower dentition visible."
+}

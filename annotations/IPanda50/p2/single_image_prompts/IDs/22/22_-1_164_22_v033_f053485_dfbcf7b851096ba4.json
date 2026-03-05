@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oriented at an oblique downward angle toward the rostrum",
+    "aspect_ratio_factor": "Elongated oval with a high vertical-to-horizontal ratio from the lateral perspective",
+    "inferior_centroid_shift": "Notable tapering and elongation towards the lower anterior boundary"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape curvature at the posterior margin of the band",
+    "normalized_band_thickness": "High thickness, occupying approximately 40% of the visible dorsal-ventral torso span"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smooth, semicircular convex curvature at the ear apex"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

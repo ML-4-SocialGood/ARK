@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep V-shape with a sharp vertex pointing posteriorly toward the lower torso",
+    "normalized_band_thickness": "High relative thickness; the dark region occupies the entire lower half of the visible posterior frame"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide horizontal gap across the cranial vertex, approximately twice the lateral width of each ear",
+    "apex_contour_smoothness": "Low smoothness; the ear tops exhibit a flattened, slightly irregular profile rather than a continuous arc"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Highly defined acute-angled boundary where the white dorsal fur meets the black posterior band"
+}

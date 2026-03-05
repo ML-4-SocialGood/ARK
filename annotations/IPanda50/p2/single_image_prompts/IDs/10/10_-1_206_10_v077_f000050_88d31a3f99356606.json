@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of each patch is oriented near-vertically with a slight inward tilt of approximately 10-15 degrees toward the facial midline.",
+    "aspect_ratio_factor": "The patches are distinctly oval and elongated, with an estimated height-to-width ratio of 2.4:1.",
+    "inferior_centroid_shift": "The patches exhibit a pronounced downward tapering, with the visual center of mass located in the upper two-thirds of the patch's vertical span."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely separated by a distance approximately 1.5 times the lateral width of a single ear region.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae are rounded and convex, showing standard fur-textured curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A prominent dark circular marking is visible in the umbilical region of the ventral abdomen."
+}

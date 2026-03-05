@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "Broad U-shape curve at the posterior margin",
+    "normalized_band_thickness": "Significant thickness, spanning approximately 30 percent of the visible dorsal torso"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap is approximately 1.5 times the base width of a single ear",
+    "apex_contour_smoothness": "Convex and smoothly rounded apexes"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

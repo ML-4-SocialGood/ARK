@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the high-contrast black eye patches are oriented at approximately 45 degrees relative to the horizontal facial axis, tapering downward towards the medial muzzle.",
+    "aspect_ratio_factor": "The eye patches exhibit an elongated oval geometry with a vertical height approximately double the horizontal width at the midpoint.",
+    "inferior_centroid_shift": "There is a pronounced downward elongation, where the inferior margin of the patch extends significantly further from the ocular center than the superior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band displays a shallow, broad U-shape profile across the interscapular region.",
+    "normalized_band_thickness": "The dark band occupies approximately 30 to 40 percent of the visible longitudinal torso height from the lateral perspective."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a distance roughly equivalent to the transverse width of the cranial crown.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit smooth, semi-circular convex curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is interacting with a dark, spherical object positioned on the ground at its right forelimb."
+}

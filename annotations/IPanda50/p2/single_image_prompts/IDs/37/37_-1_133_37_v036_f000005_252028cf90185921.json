@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 80 degrees relative to the horizontal snout-to-ear axis.",
+    "aspect_ratio_factor": "Elliptical with a height-to-width ratio of roughly 1.8:1.",
+    "inferior_centroid_shift": "Minor tapering toward the inferior margin, resulting in a centroid position slightly above the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Gentle U-shaped curvature on the posterior boundary.",
+    "normalized_band_thickness": "Relative thickness occupies roughly one-third of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distance between ear bases is roughly equal to 1.5 ear-widths.",
+    "apex_contour_smoothness": "The posterior ear shows a rounded convex apex, while the anterior ear appears more triangular from the profile angle."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced accumulation of light-colored bamboo husks across the lower ventral and pelvic regions."
+}

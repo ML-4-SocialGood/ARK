@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 50 degrees relative to the horizontal facial axis, sloping towards the muzzle.",
+    "aspect_ratio_factor": "Oval-ellipsoid, with vertical height approximately 1.5 times the horizontal width.",
+    "inferior_centroid_shift": "Moderate downward tapering below the ocular midpoint, resulting in a slightly pyriform or teardrop-shaped profile."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary with minimal indentation at the spinal midline.",
+    "normalized_band_thickness": "High relative thickness, encompassing approximately 30-35% of the visible longitudinal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation across the cranial vault, exceeding the width of an individual pinna.",
+    "apex_contour_smoothness": "Smoothly rounded convex apex with no visible flattening or irregular notches."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Atypical phenotypic pigmentation where the standard white pelage regions exhibit a distinct light-brown or tan hue."
+}

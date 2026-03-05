@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal downward tilt of approximately 45 degrees relative to the horizontal facial axis, tapering toward the snout.",
+    "aspect_ratio_factor": "Vertical elongation, presenting as an oval with height exceeding width.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the lowest point of the patch appearing significantly below the horizontal midline."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Estimated at 30-40% of the visible upper torso height at the lateral margins."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide separation across the white cranial vertex, approximately twice the width of a single ear region.",
+    "apex_contour_smoothness": "Smoothly rounded, convex semicircular top boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

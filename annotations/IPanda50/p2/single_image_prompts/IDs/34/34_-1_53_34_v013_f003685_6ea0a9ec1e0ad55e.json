@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Prominent deep V-shape tapering towards the posterior midline",
+    "normalized_band_thickness": "Thick lateral profile, occupying approximately 40-50% of the visible upper torso depth at the flanks"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between ears relative to total visible cranial width",
+    "apex_contour_smoothness": "Semicircular with rounded apex contours"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The white fur regions exhibit a distinct brownish-beige tint rather than a bright white phenotype"
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 75 degrees relative to the horizontal facial axis, tilted anteriorly.",
+    "aspect_ratio_factor": "Vertically elongated oval, with a height-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Visible downward tapering where the patch extends significantly below the ocular center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, wide U-shaped posterior boundary visible as the band wraps across the upper torso.",
+    "normalized_band_thickness": "Relative height of the band is approximately 30-35% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct gap is visible between the two dark ear regions on the crown.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, convex rounded curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

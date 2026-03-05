@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented at a downward diagonal angle of approximately 45 degrees towards the muzzle.",
+    "aspect_ratio_factor": "Oval-shaped blobs with an elongated vertical-to-horizontal axis ratio.",
+    "inferior_centroid_shift": "Visible downward elongation resulting in a teardrop-like taper where the lowest point is shifted below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Smooth, wide U-shaped curvature on the posterior boundary of the band.",
+    "normalized_band_thickness": "Consistent thickness across the lateral flanks, representing approximately one-third of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct wide white gap is visible between the two black ear regions, roughly spanning the width of the cranial vault.",
+    "apex_contour_smoothness": "Convex, smooth semicircular profile at the top edge of both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

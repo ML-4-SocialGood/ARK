@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, tilted at approximately 45 degrees relative to the median facial axis due to head rotation.",
+    "aspect_ratio_factor": "Distinctly oval with an elongated major axis; approximate width-to-height ratio of 1.7:1.",
+    "inferior_centroid_shift": "Moderate tapering observed towards the inferior-lateral margin of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape transition between the dark transverse band and the posterior white fur.",
+    "normalized_band_thickness": "The band occupies approximately one-quarter of the total visible longitudinal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation distance across the white cranial vertex, exceeding the individual width of a single pinna.",
+    "apex_contour_smoothness": "High smoothness with a clearly defined convex semicircular curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

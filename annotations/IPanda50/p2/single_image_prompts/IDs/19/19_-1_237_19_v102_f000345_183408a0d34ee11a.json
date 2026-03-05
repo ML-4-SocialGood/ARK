@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped curvature across the posterior boundary",
+    "normalized_band_thickness": "Estimated at 30-35% of the total visible torso height"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap relative to cranial width, typical of a posterior view",
+    "apex_contour_smoothness": "Smoothly rounded, semi-ovoid convex tops"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive brown/mud-like staining across the lower abdominal region and pelvic limbs"
+}

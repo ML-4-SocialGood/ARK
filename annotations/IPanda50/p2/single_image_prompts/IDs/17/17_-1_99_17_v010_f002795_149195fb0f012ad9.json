@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertically oriented with a slight lateral tilt at the superior margins away from the midline.",
+    "aspect_ratio_factor": "Elongated oval shape with a height-to-width ratio of approximately 1.8:1.",
+    "inferior_centroid_shift": "The patch displays an inferior taper, with the lower boundary extending significantly further from the ocular center than the superior boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the band exhibits a shallow U-shape curvature across the dorsal midline.",
+    "normalized_band_thickness": "The transverse band occupies approximately 30% of the visible torso length along the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-aural gap is wide, spanning a distance approximately equal to the horizontal width of the white cranial region.",
+    "apex_contour_smoothness": "The superior margins of the pinnae exhibit smooth, convex semi-circular profiles."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

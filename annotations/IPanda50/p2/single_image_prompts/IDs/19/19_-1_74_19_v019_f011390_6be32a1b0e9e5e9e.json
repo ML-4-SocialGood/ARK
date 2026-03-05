@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical orientation of the visible eye patches relative to the craniofacial midline.",
+    "aspect_ratio_factor": "Elongated oval morphology with a high vertical-to-horizontal ratio.",
+    "inferior_centroid_shift": "Visible downward tapering where the patch width decreases significantly toward the ventral margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": "The visible portions of the posterior edge suggest a broad U-shaped curve.",
+    "normalized_band_thickness": "The dark band occupies approximately 30% of the visible dorsal-to-ventral torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-ear distance is approximately equal to the width of a single pinna.",
+    "apex_contour_smoothness": "Smoothly curved, rounded apex at the top boundary of both ear regions."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

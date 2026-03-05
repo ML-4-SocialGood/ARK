@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Near-vertical with a slight lateral tilt at the superior end.",
+    "aspect_ratio_factor": "High vertical-to-horizontal ratio, distinctly ovaloid.",
+    "inferior_centroid_shift": "Subtle downward tapering with the inferior pole more acute than the superior."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Substantial, covering roughly half of the visible upper torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance roughly equal to the width of the inter-aural cranial space.",
+    "apex_contour_smoothness": "Uniformly convex and smoothly rounded at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

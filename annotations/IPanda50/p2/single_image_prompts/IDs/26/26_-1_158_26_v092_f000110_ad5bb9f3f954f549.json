@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patches is oriented at approximately a 45-degree angle descending toward the muzzle.",
+    "aspect_ratio_factor": "The patches exhibit an elongated oval morphology with a vertical axis significantly greater than the horizontal width.",
+    "inferior_centroid_shift": "There is a pronounced downward tapering where the patch extends lower toward the cheek than the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band follows a wide, shallow U-shape profile as it transitions down the lateral flanks.",
+    "normalized_band_thickness": "The dark band is thick, occupying approximately 40% of the visible torso height from the shoulder to the lower back boundary."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide cranial gap roughly 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The top boundaries of the ears are highly smooth and semicircular with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant accumulation of green vegetative debris and moss-like particles clinging to the fur on the right lateral side of the face, neck, and shoulder."
+}

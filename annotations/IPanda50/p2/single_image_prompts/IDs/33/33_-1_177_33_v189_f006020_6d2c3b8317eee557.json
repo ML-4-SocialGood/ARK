@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch (viewer's right) is oriented approximately 45 degrees downward toward the muzzle relative to the facial midline.",
+    "aspect_ratio_factor": "Oval-teardrop morphology with a high vertical-to-horizontal ratio.",
+    "inferior_centroid_shift": "Distinct downward tapering observed, with the mass of the patch concentrated in the upper two-thirds."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped curve along the posterior edge of the band.",
+    "normalized_band_thickness": "High thickness, extending approximately one-third of the visible trunk length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation distance between the black pinna regions across the white cranial fur.",
+    "apex_contour_smoothness": "Smooth, rounded semi-circular apex on both visible ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep V-shape profile pointing posteriorly along the dorsal midline",
+    "normalized_band_thickness": "The band is thick at the lateral shoulder regions and tapers slightly as it crosses the spine"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct spatial gap approximately 1.5 times the width of an individual ear base",
+    "apex_contour_smoothness": "Smoothly rounded semicircular apexes"
+  },
+  "acquired_anomalies_or_scars": "Extensive area of fur loss or removal on the lower posterior region, exposing skin from the mid-torso down to the hindquarters",
+  "other_distinctive_markers": "Sharp demarcation line between the white dorsal fur and the bare skin of the lower body"
+}

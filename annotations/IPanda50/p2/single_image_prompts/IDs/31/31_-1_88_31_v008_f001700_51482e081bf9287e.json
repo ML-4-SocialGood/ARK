@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right eye patch is oriented at a downward diagonal angle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The patch displays an elongated oval shape with a height significantly exceeding its width in the current perspective.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dorsal band exhibits a shallow U-shaped curvature across the spinal midline.",
+    "normalized_band_thickness": "The band is approximately one-third the thickness of the visible dorsal-to-caudal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide gap, though the left pinna is partially occluded by the head's rotation.",
+    "apex_contour_smoothness": "The visible right ear shows a smooth, rounded semicircular apex contour."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

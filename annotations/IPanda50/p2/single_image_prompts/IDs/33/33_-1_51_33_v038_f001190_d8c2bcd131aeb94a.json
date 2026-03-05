@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Angled approximately 45 degrees downward from the lateral toward the medial facial plane.",
+    "aspect_ratio_factor": "Vertical oval with a height-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "The patch exhibits a rounded, expanded inferior margin with the widest point located below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral set, with a gap roughly equivalent to 1.5 times the basal width of an ear.",
+    "apex_contour_smoothness": "Smooth, continuous semicircular curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

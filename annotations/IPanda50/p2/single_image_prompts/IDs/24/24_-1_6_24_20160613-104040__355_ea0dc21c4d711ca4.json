@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree inward-downward orientation relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elliptical profile with a vertical-to-horizontal ratio significantly greater than 1.",
+    "inferior_centroid_shift": "Pronounced downward tapering toward the muzzle, resulting in a teardrop-like extension below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape across the posterior margin of the transverse band.",
+    "normalized_band_thickness": "Thick lateral bands extending approximately 30% of the visible dorsal-to-posterior length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation with a broad gap of white cranial fur between the pinnae.",
+    "apex_contour_smoothness": "Uniformly rounded semicircular profile at the superior boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

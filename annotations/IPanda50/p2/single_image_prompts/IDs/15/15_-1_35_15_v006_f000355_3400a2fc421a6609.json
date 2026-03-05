@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, tilted approximately 40 degrees relative to the horizontal axis, converging towards the rostrum.",
+    "aspect_ratio_factor": "Vertically elongated oval with an estimated width-to-height ratio of 1:1.6.",
+    "inferior_centroid_shift": "Moderate downward tapering observed; the inferior extremity extends significantly below the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped profile across the posterior boundary of the transverse band.",
+    "normalized_band_thickness": "Consistent thickness across the lateral flanks, occupying roughly 25% of the total visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide inter-pinna gap, estimated at approximately twice the width of a single ear region.",
+    "apex_contour_smoothness": "Convex and generally rounded apex, exhibiting a smooth curvature without visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brownish/rufous discoloration present on the fur of the posterior torso and hindquarters, contrasting with the cream-white fur of the mid-torso."
+}

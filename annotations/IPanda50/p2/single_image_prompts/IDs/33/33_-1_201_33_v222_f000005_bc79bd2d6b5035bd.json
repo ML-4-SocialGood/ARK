@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique inward tilt at approximately a 45-degree angle toward the snout relative to the horizontal facial midline.",
+    "aspect_ratio_factor": "Elongated oval morphology where the vertical height of the patch exceeds its horizontal width.",
+    "inferior_centroid_shift": "Noticeable downward tapering with the narrowest point of the patch extending toward the lower maxillary region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant gap between the pinnae regions, roughly spanning the width of the superior cranial vault.",
+    "apex_contour_smoothness": "Uniformly convex and rounded semicircular profile with high edge smoothness."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

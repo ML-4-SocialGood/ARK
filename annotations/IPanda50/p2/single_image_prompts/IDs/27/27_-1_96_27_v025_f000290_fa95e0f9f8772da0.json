@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 40 to 45 degrees relative to the horizontal axis, tilting inward toward the rostrum.",
+    "aspect_ratio_factor": "Oval-elliptical profile with a vertical elongation relative to the horizontal width.",
+    "inferior_centroid_shift": "Subtle downward tapering present at the medial-inferior boundary, creating a mild teardrop morphology."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shaped posterior boundary with a relatively flat curvature across the spinal midline.",
+    "normalized_band_thickness": "Thick transverse band, estimated at approximately 25-30% of the visible torso length from the lateral perspective."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant gap, approximately 1.5 to 2 times the width of a single ear unit.",
+    "apex_contour_smoothness": "Smooth, rounded semi-circular apex with no visible flattening or notches."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented vertically with a slight outward lateral tilt at the inferior margin",
+    "aspect_ratio_factor": "Elongated oval with a vertical height approximately twice the horizontal width",
+    "inferior_centroid_shift": "Moderate downward tapering observed with the lowest point extending significantly below the eye center"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High relative thickness covering the full shoulder height from the neck base to the upper torso"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation approximately equal to the width of the forehead area",
+    "apex_contour_smoothness": "Smoothly rounded semicircular top edges"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Open oral cavity posture revealing internal mucosal tissue"
+}

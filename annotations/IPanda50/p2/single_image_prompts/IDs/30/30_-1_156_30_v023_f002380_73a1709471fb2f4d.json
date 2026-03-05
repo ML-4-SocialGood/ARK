@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, angled upward toward the lateral cranial boundaries.",
+    "aspect_ratio_factor": "Oval, with a slight vertical elongation relative to the horizontal width.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape profile at the posterior margin of the band.",
+    "normalized_band_thickness": "Approximately 0.3 relative to the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap corresponding to the breadth of the superior cranial vault.",
+    "apex_contour_smoothness": "Smooth, convex semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is positioned behind several vertical foreground occlusions (bars) which bisect the visual field."
+}

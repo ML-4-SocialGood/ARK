@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees downward from the lateral toward the medial facial plane.",
+    "aspect_ratio_factor": "Ovoid, with the major axis significantly longer than the minor axis.",
+    "inferior_centroid_shift": "Distinct teardrop-like taper at the lower edge, creating a downward extension below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shaped profile along the posterior boundary.",
+    "normalized_band_thickness": "Approximately 0.35 relative to the visible dorsal torso region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant gap, approximately twice the transverse width of a single ear.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

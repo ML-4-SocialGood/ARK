@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shape with a relatively flat posterior edge across the midline",
+    "normalized_band_thickness": "High; the band occupies approximately 30% of the visible dorsal torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct wide white gap is visible between the medial edges of the dark ear regions",
+    "apex_contour_smoothness": "Convex and rounded semicircular profile"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive brownish-grey discoloration or staining observed on the fur of the lower dorsal and sacral regions"
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, approximately 45 degrees relative to the facial midline, slanting outwards toward the base of the ears.",
+    "aspect_ratio_factor": "Elongated oval with a length-to-width ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "Distinct tapering at the inferior-lateral margin near the cheek area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High thickness, extending across approximately 40% of the visible lateral torso region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, roughly 1.5 to 2 times the width of a single pinna.",
+    "apex_contour_smoothness": "Smoothly convex and semicircular with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Prominent reddish-brown pigmentation/staining localized on the white fur of the lower ventral and inguinal region."
+}

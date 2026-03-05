@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, approximately 45 degrees downward from the posterior toward the snout.",
+    "aspect_ratio_factor": "Oval shape, with the long axis roughly 1.8 times the length of the short axis.",
+    "inferior_centroid_shift": "Visible downward tapering pointing toward the muzzle at the lower-inner quadrant."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High thickness, covering approximately 50% of the visible upper-torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap across the crown, approximately 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Highly rounded and semicircular top boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

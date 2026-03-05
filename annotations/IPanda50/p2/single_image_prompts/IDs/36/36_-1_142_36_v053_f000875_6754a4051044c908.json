@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented vertically with a slight anterior tilt of approximately 75-80 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Distinctly elongated oval with a high vertical-to-horizontal aspect ratio.",
+    "inferior_centroid_shift": "Pronounced downward tapering where the inferior margin extends significantly further from the geometric center than the superior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior margin of the dark band exhibits a shallow, broad U-shaped curve across the visible flank and spine.",
+    "normalized_band_thickness": "The transverse band is thick, covering approximately 40% of the visible torso length in the lateral-projection view."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The apex of the visible left pinna is non-uniform, showing a slightly pointed or irregular top rather than a perfect semicircle."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject exhibits an open-mouth posture, making the lower dentition visible in the profile."
+}

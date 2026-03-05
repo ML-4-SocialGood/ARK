@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shape curvature observed along the posterior margin of the transverse band.",
+    "normalized_band_thickness": "High thickness; the band occupies approximately 30% of the visible torso length and extends continuously into the thoracic limbs."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant gap present between the pinnae, roughly equivalent to 1.5 times the width of an individual pinna base.",
+    "apex_contour_smoothness": "Smoothly convex semicircular curvature at the superior edges."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive brownish-grey discoloration/staining visible across the white fur of the lumbar and sacral regions."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at approximately a 45-degree angle relative to the horizontal facial axis, sloping downward towards the snout.",
+    "aspect_ratio_factor": "The eye patch exhibits a vertical oval morphology, with an estimated height-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "The patch displays a pronounced downward taper, where the mass extends significantly below the geometric center of the eye region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band across the upper torso exhibits a shallow, wide U-shaped curvature with no sharp vertex.",
+    "normalized_band_thickness": "The dark band is thick, covering approximately 40% of the visible torso length between the neck and the lumbar region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The dark pinna regions are separated by a wide sagittal gap of white fur, roughly equivalent to the width of one individual ear.",
+    "apex_contour_smoothness": "The top boundaries of the visible ears exhibit a smooth, convex, semi-circular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A prominent dark caudal patch (tail) is clearly visible at the posterior terminus of the torso."
+}

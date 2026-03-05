@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, with the primary axis of the patches angled approximately 60 degrees downward toward the medial plane relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval; the patches exhibit a significantly higher vertical-to-horizontal ratio than a circle.",
+    "inferior_centroid_shift": "The lower margin of the patch tapers and extends downward toward the snout, resulting in a visible mass shift below the geometric center of the eye area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve along the posterior margin of the transverse band.",
+    "normalized_band_thickness": "The band is of medium thickness, occupying approximately 20 percent of the visible dorsal-to-caudal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide cranial gap is visible; the distance between the interior margins of the black pinnae is approximately 1.5 to 2 times the width of a single ear.",
+    "apex_contour_smoothness": "Smoothly rounded and semicircular with no visible flattening of the top boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A distinct brownish-tan discoloration is present across the posterior dorsal and lumbar regions, contrasting with the white fur of the mid-torso."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees relative to the horizontal facial plane, sloping towards the muzzle.",
+    "aspect_ratio_factor": "Vertical oval profile with an estimated height-to-width ratio of 1.5:1.",
+    "inferior_centroid_shift": "Significant tapering at the inferior-medial margin creating a teardrop effect."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped curve at the posterior margin of the transverse band.",
+    "normalized_band_thickness": "Thick band encompassing approximately 35-40% of the visible dorsal-to-ventral torso span."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation gap is approximately 1.5 to 2 times the horizontal width of a single ear base.",
+    "apex_contour_smoothness": "Smoothly curved, convex semicircular top boundaries without flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-yellow soil staining present on the posterior dorsal and lateral white fur regions."
+}

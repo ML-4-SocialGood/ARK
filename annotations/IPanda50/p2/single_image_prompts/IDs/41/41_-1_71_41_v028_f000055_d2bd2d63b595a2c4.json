@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Near-vertical orientation with a slight forward tilt of approximately 80 degrees relative to the snout-ear horizontal axis.",
+    "aspect_ratio_factor": "Elongated oval with an estimated 2.5:1 height-to-width ratio.",
+    "inferior_centroid_shift": "Geometric center is shifted towards the superior half, with a gradual tapering toward the inferior-most point."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curvature along the posterior edge of the dark band as it transitions across the shoulder.",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 40% of the visible dorsal length from neck to mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance corresponds to the approximate width of the cranial crown between the medial bases of the ears.",
+    "apex_contour_smoothness": "High degree of smoothness with a rounded, parabolic apex visible on the pinna."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible mandibular dentition due to open mouth; significant yellowish-brown environmental staining present on the white fur of the posterior torso."
+}

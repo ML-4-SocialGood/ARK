@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oriented at approximately a 45-degree angle descending from the temporal region towards the muzzle relative to the horizontal facial midline.",
+    "aspect_ratio_factor": "Distinctly oval with a length-to-width ratio estimated at 1.7:1.",
+    "inferior_centroid_shift": "Exhibits a clear downward tapering where the inferior margin is narrower and more distant from the centroid than the superior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The primary visible pinna displays a highly smooth, continuous semicircular curvature at the apex without flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

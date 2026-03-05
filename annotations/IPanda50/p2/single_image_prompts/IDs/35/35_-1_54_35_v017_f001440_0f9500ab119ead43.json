@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation angled approximately 45 degrees downward toward the rostrum.",
+    "aspect_ratio_factor": "Elongated oval shape with height exceeding width in an approximate 1.6:1 ratio.",
+    "inferior_centroid_shift": "Distinct downward tapering with the geometric center positioned superior to the visual bulk of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High thickness occupying roughly 40 percent of the visible upper torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral placement with a gap approximately twice the width of a single ear unit.",
+    "apex_contour_smoothness": "Continuous semi-circular convexity with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

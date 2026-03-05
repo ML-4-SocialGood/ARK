@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward slant relative to the horizontal facial axis",
+    "aspect_ratio_factor": "Elliptical; height-to-width ratio exceeds 1.5:1, displaying an elongated oval shape",
+    "inferior_centroid_shift": "Significant downward taper extending toward the lower cheek area"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape profile at the posterior margin as visible from the lateral-oblique perspective",
+    "normalized_band_thickness": "Approximately 25-30% of the visible torso length between the neck and the lower back"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large separation distance across the cranial dome, approximately 1.5 times the width of a single pinna",
+    "apex_contour_smoothness": "Highly rounded, semicircular top boundary"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive brownish-yellow fur staining across the abdominal and lower ventral regions"
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible eye patch is oriented at a downward diagonal angle toward the snout.",
+    "aspect_ratio_factor": "The patch exhibits an oval morphology with a vertical length slightly greater than its width.",
+    "inferior_centroid_shift": "A slight downward taper is visible at the lower boundary of the right eye patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the band displays a shallow, relatively flat U-shape curve.",
+    "normalized_band_thickness": "The band is thick, encompassing approximately one-third of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible ear shows a smooth, rounded semicircular top boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The white pelage on the dorsal and posterior regions exhibits a distinct yellowish or light-brown tint."
+}

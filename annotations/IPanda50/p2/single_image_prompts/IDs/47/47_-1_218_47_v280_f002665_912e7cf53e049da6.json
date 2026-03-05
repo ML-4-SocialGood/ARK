@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible left eye patch primary axis is oriented nearly vertically with a slight anterior tilt of approximately 80 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval morphology with a visual width-to-height ratio of approximately 0.55.",
+    "inferior_centroid_shift": "The patch exhibits a distinct downward taper, with the geometric center positioned significantly above the lowest point of the black plumage."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band demonstrates a broad, shallow U-shaped curve profile as it meets the white dorsal fur.",
+    "normalized_band_thickness": "The dark band thickness at the lateral flank is approximately 40% of the visible vertical height of the torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The horizontal distance between the dark ear regions is approximately equivalent to the width of one pinna.",
+    "apex_contour_smoothness": "The ear apices are moderately pointed and irregular, lacking a smooth semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant yellow-brown staining on the ventral fur and the presence of a cylindrical wooden object held in the oral cavity."
+}

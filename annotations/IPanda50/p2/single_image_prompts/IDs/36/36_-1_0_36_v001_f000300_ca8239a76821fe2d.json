@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oriented at approximately 70 degrees relative to the horizontal facial axis, tilting inward toward the rostrum",
+    "aspect_ratio_factor": "Distinctly oval with a vertical height approximately 1.8 times the horizontal width",
+    "inferior_centroid_shift": "Marked downward tapering with the lowest point positioned significantly below the geometric center of the patch"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band at the lateral flanks occupies approximately 25-30% of the visible torso height"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap equivalent to roughly 1.5 times the horizontal width of a single ear region",
+    "apex_contour_smoothness": "Smoothly rounded semicircular apexes with no visible flattening"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible internal oral cavity and lower dentition due to open-mouthed facial expression"
+}

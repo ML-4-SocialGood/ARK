@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axes of the circumorbital patches are inclined at approximately 45-degree angles relative to the horizontal facial plane, directed toward the rostrum.",
+    "aspect_ratio_factor": "Ovoid morphology with a vertical-to-horizontal axis ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering producing a teardrop shape where the lowest point is significantly offset from the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior margin of the dark band across the scapular region exhibits a shallow, broad U-shaped curve.",
+    "normalized_band_thickness": "The transverse band occupies approximately 35% of the visible dorsal-to-ventral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the medial margins of the auricular regions is approximately twice the maximum width of a single pinna.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, semi-circular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

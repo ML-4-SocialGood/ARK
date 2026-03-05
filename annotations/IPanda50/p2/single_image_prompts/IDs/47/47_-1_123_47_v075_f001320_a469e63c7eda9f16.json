@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, oriented at approximately 45 degrees relative to the median facial axis.",
+    "aspect_ratio_factor": "Elongated oval, with an estimated major-to-minor axis ratio of 1.7:1.",
+    "inferior_centroid_shift": "Subtle tapering of the patch toward the nasal-ventral region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped curve at the posterior margin of the shoulder band.",
+    "normalized_band_thickness": "Estimated at 0.35 relative to the total visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap distance is approximately 1.5 times the width of an individual pinna.",
+    "apex_contour_smoothness": "Smooth, regularly curved semicircular apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

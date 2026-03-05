@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical orientation with a slight inferior-medial tilt relative to the sagittal plane of the face.",
+    "aspect_ratio_factor": "Vertically elongated oval; height significantly exceeds width.",
+    "inferior_centroid_shift": "Pronounced downward tapering extending below the horizontal midline of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shaped profile with a relatively flat posterior boundary across the dorsal midline.",
+    "normalized_band_thickness": "Wide lateral thickness, occupying approximately 30% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation, positioned on the outer superior margins of the cranium.",
+    "apex_contour_smoothness": "Smoothly rounded convex apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

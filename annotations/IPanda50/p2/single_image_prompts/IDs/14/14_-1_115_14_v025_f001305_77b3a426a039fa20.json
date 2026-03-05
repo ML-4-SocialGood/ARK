@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is tilted approximately 80 degrees relative to the snout-ear horizontal plane.",
+    "aspect_ratio_factor": "The eye patch is an elongated oval with an estimated 1.5:1 height-to-width ratio.",
+    "inferior_centroid_shift": "The patch tapers downward significantly, with the lowest point extending toward the ventral aspect of the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band follows a broad, shallow U-shaped profile across the dorsal surface.",
+    "normalized_band_thickness": "The dark band occupies approximately 40% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely spaced, with a gap roughly equivalent to 1.5 times the width of an individual pinna.",
+    "apex_contour_smoothness": "The ear apices are distinctly pointed, exhibiting a low degree of curvature smoothness."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A concentrated dark fur patch is visible at the base of the tail."
+}

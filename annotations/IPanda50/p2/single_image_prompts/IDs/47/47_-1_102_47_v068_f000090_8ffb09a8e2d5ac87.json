@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 50-degree downward slant towards the rostrum relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval, with the longitudinal axis approximately 1.5 times the transverse width.",
+    "inferior_centroid_shift": "Distinct downward tapering creating a teardrop-shaped morphology."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shaped curve at the posterior margin where the band meets the lumbar region.",
+    "normalized_band_thickness": "High; the band covers approximately 40% of the visible dorsal-to-ventral torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap approximately equal to 1.2 times the lateral width of a single ear.",
+    "apex_contour_smoothness": "Convex and rounded at the apex with high boundary smoothness."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible brownish-yellow fur discoloration in the lower lumbar and tail region."
+}

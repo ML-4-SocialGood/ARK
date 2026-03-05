@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at a downward diagonal angle toward the rostrum.",
+    "aspect_ratio_factor": "The eye patch exhibits an elongated oval morphology with the vertical axis significantly exceeding the horizontal width.",
+    "inferior_centroid_shift": "A distinct downward tapering effect is visible, creating a teardrop-shaped profile where the mass is concentrated below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "The posterior boundary of the dark transverse band follows a broad, shallow U-shape across the scapular region.",
+    "normalized_band_thickness": "The band is relatively thick, occupying approximately 35% of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The dark semicircular ears are separated by a wide cranial gap, roughly twice the width of the ear base.",
+    "apex_contour_smoothness": "The top boundaries of the ears are characterized by a smooth, continuous semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

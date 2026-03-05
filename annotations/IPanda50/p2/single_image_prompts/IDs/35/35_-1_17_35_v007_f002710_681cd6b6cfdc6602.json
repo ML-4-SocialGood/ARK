@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation tilted approximately 45 degrees downward toward the muzzle relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "Vertical elongated oval with a major axis roughly 1.5 times the minor axis.",
+    "inferior_centroid_shift": "Pronounced inferior tapering where the patch narrows toward its lowest point anteriorly."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary with a relatively straight transverse edge.",
+    "normalized_band_thickness": "Broad band representing approximately 40 percent of the visible dorsal-ventral torso depth."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation across the white cranial vertex, approximately 1.5 times the width of the ear base.",
+    "apex_contour_smoothness": "Top boundaries of the pinnae appear slightly irregular and flattened rather than perfectly hemispherical."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

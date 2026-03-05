@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical-oblique, approximately 75 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Ovaloid, with the longitudinal axis approximately 1.5 times the length of the transverse axis.",
+    "inferior_centroid_shift": "Visible downward tapering at the ventral margin, creating a slight teardrop shape extending towards the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve along the posterior margin of the band.",
+    "normalized_band_thickness": "Significant thickness, occupying approximately 25-30% of the visible dorsal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide horizontal gap, approximately twice the width of a single ear region.",
+    "apex_contour_smoothness": "Smoothly convex and rounded top boundaries without visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

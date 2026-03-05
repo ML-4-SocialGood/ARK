@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, primary axis angled approximately 40 degrees downward from the horizontal towards the medial line of the muzzle.",
+    "aspect_ratio_factor": "Elongated ovaloid shape with a length approximately 1.5 times the width.",
+    "inferior_centroid_shift": "Pronounced inferior tapering observed with the lower margin extending significantly towards the infraorbital region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High thickness, lateral dark region occupies approximately 40% of the visible torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap distance is approximately 1.3 times the maximum horizontal width of the ear pinna.",
+    "apex_contour_smoothness": "High smoothness with a uniform semi-circular curvature at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

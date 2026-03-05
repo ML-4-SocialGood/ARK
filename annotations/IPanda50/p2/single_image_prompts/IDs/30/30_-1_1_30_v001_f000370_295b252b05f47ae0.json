@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the eye patches is oriented vertically with a slight medial tilt of the superior poles.",
+    "aspect_ratio_factor": "High vertical elongation, manifesting as a narrow oval shape.",
+    "inferior_centroid_shift": "Moderate downward tapering observed; the patch area narrows significantly below the horizontal midline."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior margin exhibits a shallow, wide U-shaped curvature across the dorsal midline.",
+    "normalized_band_thickness": "Broad band coverage, encompassing approximately 25 percent of the visible longitudinal torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large gap between the ear regions situated on the distal lateral edges of the cranium.",
+    "apex_contour_smoothness": "Smooth, semicircular convex curvature at the superior boundary of both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

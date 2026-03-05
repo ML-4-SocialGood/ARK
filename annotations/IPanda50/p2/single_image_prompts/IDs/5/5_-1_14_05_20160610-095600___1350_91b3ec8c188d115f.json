@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation approximately 45 degrees relative to the facial midline, extending from the temple toward the snout.",
+    "aspect_ratio_factor": "Elongated oval with a visible aspect ratio of approximately 1.8:1.",
+    "inferior_centroid_shift": "Visible tapering of the patch at the lower boundary towards the rostral region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped curve along the posterior margin.",
+    "normalized_band_thickness": "Relatively high thickness, occupying approximately 30 percent of the visible dorsal length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap of white fur separating the ears, approximately 2.5 times the width of a single ear.",
+    "apex_contour_smoothness": "Smoothly rounded, convex semicircular apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible cream-colored tint on the white dorsal fur regions."
+}

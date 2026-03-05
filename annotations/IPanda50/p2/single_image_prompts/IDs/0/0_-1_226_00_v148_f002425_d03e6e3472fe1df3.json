@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique angle approximately 45 degrees downward from the lateral horizontal axis",
+    "aspect_ratio_factor": "Elongated oval with a length-to-width ratio of approximately 1.5:1",
+    "inferior_centroid_shift": "Pronounced downward tapering towards the lower-outer edge of the patch"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad and flat U-shape along the posterior boundary",
+    "normalized_band_thickness": "Consistent high thickness representing approximately 30 percent of the visible dorsal length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation distance roughly equal to 1.5 times the width of an individual ear",
+    "apex_contour_smoothness": "Smooth semi-circular curvature at the superior margins"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

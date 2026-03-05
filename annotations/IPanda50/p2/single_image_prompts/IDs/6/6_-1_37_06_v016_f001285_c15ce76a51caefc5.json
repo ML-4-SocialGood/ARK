@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees relative to the horizontal facial axis, angled toward the rostrum.",
+    "aspect_ratio_factor": "Oval morphology with a width-to-height ratio approximately 1.5:1.",
+    "inferior_centroid_shift": "Moderate downward tapering observed at the ventral pole of the right patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve along the posterior margin across the vertebral column.",
+    "normalized_band_thickness": "Consistent thickness across the transverse plane, approximately 30% of visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Moderate separation distance, estimated at 1.5 times the width of a single ear unit.",
+    "apex_contour_smoothness": "Smooth, rounded convex curvature at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible left eye patch exhibits a dominant axis oriented at an approximately 45-degree angle downward toward the nasal midline; the right eye patch is occluded.",
+    "aspect_ratio_factor": "The visible eye patch presents as a vertically elongated oval with a height-to-width ratio of approximately 1.8:1.",
+    "inferior_centroid_shift": "The patch displays a distinct inferior-medial taper, concentrating the visual mass below the central horizontal axis of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dorsal band exhibits a wide, shallow U-shaped curvature across the midline.",
+    "normalized_band_thickness": "The black band occupies approximately one-third of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the medial edges of the ears is approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The superior margins of the pinnae are smoothly rounded with no evidence of flattening or angularity."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant reddish-brown staining is present on the fur of the elevated hind paw and lower leg."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees oblique orientation, sloping downward toward the rostrum relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "High aspect ratio; the eye patch is distinctly elongated and oval-shaped rather than circular.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the lowest point of the patch extending significantly below the geometric center toward the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark dorsal band exhibits a broad, shallow U-shaped curvature.",
+    "normalized_band_thickness": "Large relative thickness, with the dark band occupying approximately 35% of the visible torso length along the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible ear displays a smooth, continuous semi-circular curvature at its superior margin."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brown-toned discoloration is present on the white fur of the lower ventral region and proximal hind limbs."
+}

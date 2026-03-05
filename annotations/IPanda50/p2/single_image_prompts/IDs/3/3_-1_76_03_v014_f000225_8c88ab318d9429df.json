@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented nearly vertically with a slight anterior tilt of approximately 75-80 degrees relative to the horizontal plane.",
+    "aspect_ratio_factor": "The eye patch exhibits a distinctly elongated oval geometry with a vertical height significantly exceeding its horizontal width.",
+    "inferior_centroid_shift": "The patch shows an inferior tapering effect, creating a teardrop profile where the mass is concentrated in the upper two-thirds of the blob."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band visible on the lateral flank is substantial, occupying roughly 45 percent of the vertical torso height at the shoulder joint."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The apex of the visible left ear exhibits a smooth, convex semicircular curvature without flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

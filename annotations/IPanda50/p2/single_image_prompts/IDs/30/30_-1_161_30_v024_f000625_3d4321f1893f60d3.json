@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward tilt toward the rostrum relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval morphology with a pronounced major axis compared to the minor axis.",
+    "inferior_centroid_shift": "Distinct downward tapering with the centroid positioned significantly above the lowest ventral point of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve at the posterior edge, though partially bisected by a foreground vertical tree trunk.",
+    "normalized_band_thickness": "High thickness, covering approximately 40% of the visible dorsal-ventral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the medial edges of the black ear regions is roughly equivalent to 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "Smooth, semi-circular curvature at the apex with no visible flattening or irregularities."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced yellowish-beige discoloration of the white fur in the dorsal-lumbar and posterior regions compared to the cranial fur."
+}

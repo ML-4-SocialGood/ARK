@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, flat U-shape profile at the posterior margin",
+    "normalized_band_thickness": "Approximately 25-30% of the visible torso length at the lateral flanks"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct gap between the dark pinnas roughly equal to the width of the cranial vertex",
+    "apex_contour_smoothness": "Rounded, semi-circular curvature at the ear apices"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive brownish-tan fur discoloration on the posterior dorsal and rump region"
+}

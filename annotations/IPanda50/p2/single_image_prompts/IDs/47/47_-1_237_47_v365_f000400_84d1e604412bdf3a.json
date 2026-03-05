@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep V-shape pointing posteriorly toward the lumbar region",
+    "normalized_band_thickness": "High thickness at the lateral flanks, narrowing significantly as it crosses the dorsal midline"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap approximately equal to the width of the white cranial patch is visible between the medial edges of the ears",
+    "apex_contour_smoothness": "Smoothly rounded convex tops with no visible flattened regions"
+  },
+  "acquired_anomalies_or_scars": "A large, distinct brownish discoloration or staining of the fur is visible across the lower back and sacral area",
+  "other_distinctive_markers": null
+}

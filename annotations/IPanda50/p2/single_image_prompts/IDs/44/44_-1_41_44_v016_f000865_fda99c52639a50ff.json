@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Inward-tilting diagonal orientation at approximately 45 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval/ellipsoid shape with vertical height exceeding horizontal width.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the lowest point of the patch extending well below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, wide U-shaped curvature along the posterior boundary of the dark transverse band.",
+    "normalized_band_thickness": "High relative thickness occupying approximately 35% of the visible dorsal profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation approximately equal to the width of the central cranial vertex.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular curvature at the superior boundary of both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape with a relatively straight posterior edge across the dorsal midline.",
+    "normalized_band_thickness": "High thickness, extending approximately one-third of the visible torso length along the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between ears, estimated at 1.5 times the diameter of a single pinna.",
+    "apex_contour_smoothness": "Smooth, rounded semicircular curvature at the apex of both visible ears."
+  },
+  "acquired_anomalies_or_scars": "Extensive reddish-pink discoloration and apparent fur thinning across the lumbar and sacral regions of the dorsal surface.",
+  "other_distinctive_markers": null
+}

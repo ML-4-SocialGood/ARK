@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees downward from the medial to lateral edge relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Oval; the primary axis is approximately 1.5 times the length of the secondary axis.",
+    "inferior_centroid_shift": "Pronounced downward tapering toward the muzzle, creating a distinct teardrop profile with the visual mass concentrated in the lower quadrant."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "Shallow U-shape profile at the posterior margin where the black band meets the white dorsal fur.",
+    "normalized_band_thickness": "High; the dark band occupies approximately 40% of the visible vertical torso height from the shoulder ridge."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation; the lateral gap between ears is approximately 1.2 times the width of a single pinna.",
+    "apex_contour_smoothness": "Highly smooth, semi-circular curvature with no visible flattening at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 60 degrees relative to the horizontal facial axis, angled toward the snout.",
+    "aspect_ratio_factor": "Elongated oval with a significantly high length-to-width ratio.",
+    "inferior_centroid_shift": "The eye patch displays a downward teardrop tapering with the lowest point extending well below the geometric center toward the cheek."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the band displays a relatively flat U-shape curvature across the dorsal line.",
+    "normalized_band_thickness": "The transverse band occupies approximately 35% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the two dark ear regions is roughly equivalent to the width of the primary visible ear base.",
+    "apex_contour_smoothness": "Smooth, semicircular convex curvature at the apex of the pinna."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Heavy matting and clumping of the fur on the lower abdomen and hindquarters due to saturation from the surrounding water."
+}

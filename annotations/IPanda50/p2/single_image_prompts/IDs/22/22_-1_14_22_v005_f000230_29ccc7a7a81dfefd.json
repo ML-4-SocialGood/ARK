@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical orientation, approximately 85 degrees relative to the transverse facial axis.",
+    "aspect_ratio_factor": "Oval morphology with a vertical axis approximately twice the horizontal width.",
+    "inferior_centroid_shift": "Distinct downward tapering observed below the geometric center of the visible patches."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped curve profile at the posterior margin of the dark band.",
+    "normalized_band_thickness": "Approximately 30% of the visible dorsal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant gap across the white cranial surface, roughly twice the width of a single pinna.",
+    "apex_contour_smoothness": "Uniformly rounded apex contours on both visible ear structures."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

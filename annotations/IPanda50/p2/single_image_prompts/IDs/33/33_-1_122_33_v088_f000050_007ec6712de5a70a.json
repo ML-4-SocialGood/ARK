@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Patches are oriented at approximately a 45-degree angle relative to the horizontal facial axis, tilting upward toward the ears.",
+    "aspect_ratio_factor": "The patches exhibit an elongated teardrop/oval shape with the vertical dimension significantly exceeding the horizontal width.",
+    "inferior_centroid_shift": "There is a distinct downward tapering, with the lowest point of the patch extending well below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band forms a broad, shallow U-shape across the upper back.",
+    "normalized_band_thickness": "The dark band occupies approximately one-third of the visible vertical torso profile at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap exists between the black pinna regions, separated by the white fur of the cranial vault.",
+    "apex_contour_smoothness": "The superior boundaries of the ears are highly smooth and exhibit semi-circular curvature with no flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible brownish-yellow staining or soil accumulation is present on the white pelage of the chest and lower facial regions."
+}

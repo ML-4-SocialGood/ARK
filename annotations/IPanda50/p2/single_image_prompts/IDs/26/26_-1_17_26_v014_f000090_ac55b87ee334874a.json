@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape profile at the posterior edge as it transitions toward the lateral torso",
+    "normalized_band_thickness": "High thickness, occupying approximately 40% of the visible upper-torso region"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Moderate separation relative to total cranial width, with clear white fur gap along the sagittal crest",
+    "apex_contour_smoothness": "Smooth, rounded convex curvature at the superior margins"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

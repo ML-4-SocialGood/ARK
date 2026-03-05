@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is angled approximately 45 degrees downward relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch exhibits an elongated oval geometry with a height-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "There is a distinct downward tapering, with the mass of the patch extending significantly below the geometric center toward the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide white cranial gap is visible between the two dark ear regions, although the rightmost ear is heavily occluded by foliage.",
+    "apex_contour_smoothness": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible exposure of the lower incisors within a partially open mouth."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the lower eye patch is oriented at approximately a 45-degree angle relative to the mid-sagittal facial line, directed towards the pinna.",
+    "aspect_ratio_factor": "Oval-shaped morphology with an estimated aspect ratio of 1.5:1.",
+    "inferior_centroid_shift": "Moderate downward tapering observed towards the posterior-ventral cheek region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape across the posterior interface between the dark band and the white lumbar fur.",
+    "normalized_band_thickness": "The transverse band occupies approximately 40% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-pinna gap is approximately 1.2 times the horizontal width of a single ear region.",
+    "apex_contour_smoothness": "Smooth, continuous semicircular curvature at the dorsal apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at a roughly 45-degree angle downward towards the rostrum.",
+    "aspect_ratio_factor": "The patch is an elongated oval with the longitudinal axis approximately 1.8 times the length of the transverse axis.",
+    "inferior_centroid_shift": "The patch exhibits a pronounced downward taper toward the snout, resulting in a tear-drop morphology where the lowest point is significantly distal to the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "The posterior edge of the dark band displays a shallow, broad U-shaped curve across the dorsal midline.",
+    "normalized_band_thickness": "The band is thick and uniform, covering approximately 30% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a white cranial gap roughly equivalent to the horizontal width of a single ear.",
+    "apex_contour_smoothness": "The superior boundaries of both pinnae are smooth and uniformly convex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is holding a reflective, metallic-colored circular object (likely a feeding bowl) in its mouth."
+}

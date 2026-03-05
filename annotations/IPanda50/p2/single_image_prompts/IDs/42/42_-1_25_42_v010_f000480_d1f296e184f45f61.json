@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 60 degrees relative to the horizontal facial axis, angled from posterior-superior to anterior-inferior.",
+    "aspect_ratio_factor": "Elongated oval with an approximate 1.8:1 height-to-width ratio.",
+    "inferior_centroid_shift": "Pronounced downward tapering, creating a teardrop morphology with the centroid shifted towards the superior half."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Approximately 0.4 relative to the visible vertical height of the lateral shoulder region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Spatial gap approximately 1.5 times the horizontal width of the left pinna.",
+    "apex_contour_smoothness": "Smoothly convex, semicircular curvature at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

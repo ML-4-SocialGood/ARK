@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Relatively flat U-shape with a horizontal posterior margin where the black pigmentation meets the white lower dorsal region.",
+    "normalized_band_thickness": "High; the dark transverse band occupies approximately 45% of the visible torso length from the neck base to the posterior boundary."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the medial edges of the black pinnae is approximately 1.2 times the lateral width of the left-most visible ear.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular apex with no visible indentations or flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

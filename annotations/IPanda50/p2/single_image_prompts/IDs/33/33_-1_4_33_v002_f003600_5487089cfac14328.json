@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape with a minimal posterior-facing curvature at the spinal midline.",
+    "normalized_band_thickness": "Relatively thick band, occupying approximately 25-30% of the lateral torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant separation between the dark ear regions, approximately twice the width of a single pinna.",
+    "apex_contour_smoothness": "Convex and smoothly rounded curvature at the top of the ear boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive brownish-tan discoloration present throughout the white fur on the posterior half of the torso and limbs."
+}

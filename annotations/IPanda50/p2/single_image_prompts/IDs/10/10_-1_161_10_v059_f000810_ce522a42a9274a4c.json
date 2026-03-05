@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are oriented at approximately a 45-degree angle relative to the image vertical, aligning with the tilted facial axis toward the rostrum.",
+    "aspect_ratio_factor": "Oval morphology with an elongated vertical-to-horizontal ratio of approximately 3:2.",
+    "inferior_centroid_shift": "Visible downward tapering toward the medial-inferior quadrant, creating a teardrop effect."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the transverse band exhibits a shallow U-shaped curve across the dorsal midline.",
+    "normalized_band_thickness": "The dark band occupies approximately one-third of the visible torso length along the lateral-dorsal transition."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral spacing between pinnae, approximately double the width of the ear base.",
+    "apex_contour_smoothness": "Highly smooth, convex semicircular curvature at the apex of both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

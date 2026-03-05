@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique vertical orientation, slanting approximately 75 degrees toward the rostrum.",
+    "aspect_ratio_factor": "Elongated oval, with vertical length approximately 1.8 times the horizontal width.",
+    "inferior_centroid_shift": "Pronounced downward tapering with a narrow point extending significantly below the geometric center of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Gentle, broad U-shape along the posterior boundary of the thoracic band.",
+    "normalized_band_thickness": "Thick band, estimated at 25% of the total visible dorsal length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large gap, approximately equal to 2.5 times the width of a single ear.",
+    "apex_contour_smoothness": "Convex and rounded, exhibiting a smooth semicircular profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

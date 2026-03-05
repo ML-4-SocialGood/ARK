@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation at approximately a 45-degree angle relative to the sagittal plane of the skull.",
+    "aspect_ratio_factor": "Oval morphology with a length-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Moderate downward tapering towards the muzzle, creating a teardrop-like extension at the ventral margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Predominantly flat U-shape with minimal posterior indentation along the mid-dorsal line.",
+    "normalized_band_thickness": "High; the transverse band occupies roughly 35% of the visible torso length between the neck and mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large cranial gap spanning approximately 1.8 times the horizontal width of a single pinna.",
+    "apex_contour_smoothness": "Consistent semi-circular convexity with no visible flattening or notches at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

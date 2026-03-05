@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary eye patch on the viewer's left shows a near-vertical orientation with an inward tilt of approximately 75 degrees relative to the horizontal axis of the muzzle.",
+    "aspect_ratio_factor": "Elongated oval morphology with a vertical-to-horizontal ratio of approximately 2:1.",
+    "inferior_centroid_shift": "Strong downward tapering effect where the inferior margin terminates in a narrow point significantly below the horizontal midline of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band at the lateral shoulder region is thick, comprising roughly one-third of the visible upper torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are set wide apart on the cranial vault, with the inter-ear gap exceeding the individual width of either ear base.",
+    "apex_contour_smoothness": "The ear on the viewer's left displays a smooth, semicircular convex curvature at the apex, while the viewer's right ear appears more angular due to perspective."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

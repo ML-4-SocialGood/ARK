@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 75 degrees relative to the horizontal facial axis, tilting toward the snout.",
+    "aspect_ratio_factor": "Elongated oval with height-to-width dominance visible from the lateral profile.",
+    "inferior_centroid_shift": "Pronounced downward tapering at the ventral edge of the visible eye patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary with a relatively flat transverse profile.",
+    "normalized_band_thickness": "Thick, occupying approximately 40-45% of the visible shoulder-to-mid-back height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap approximately equivalent to the transverse width of a single ear region.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular profile at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 60-70 degrees relative to the horizontal facial midline, angled downwards towards the muzzle.",
+    "aspect_ratio_factor": "Oval-oblong with a vertical dominance; estimated width-to-height ratio of 1:1.5.",
+    "inferior_centroid_shift": "Distinct tapering at the lower-front margin, shifting the visual weight towards the anteroinferior point."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Relatively flat U-shape across the posterior edge where the black fur meets the white dorsal region.",
+    "normalized_band_thickness": "The band occupies approximately 35% of the visible torso height from the shoulder apex to the mid-belly."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance is approximately 1.0x the width of a single ear region.",
+    "apex_contour_smoothness": "High; the superior boundaries are uniformly rounded and semicircular."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible submental skin fold or adipose compression at the neck due to the upright sitting posture."
+}

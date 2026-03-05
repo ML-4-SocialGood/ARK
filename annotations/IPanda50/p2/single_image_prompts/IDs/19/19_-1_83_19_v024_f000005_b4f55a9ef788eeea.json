@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, angled approximately 45 degrees downward from the posterior toward the anterior facial region.",
+    "aspect_ratio_factor": "Elongated oval with a significantly higher vertical-to-horizontal axis ratio.",
+    "inferior_centroid_shift": "Pronounced tapering at the inferior edge, with the lowest point of the patch shifted anteriorly relative to the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped profile across the posterior margin where the dark fur meets the white dorsal fur.",
+    "normalized_band_thickness": "The band occupies approximately 30% of the visible torso height from the shoulder to the lower back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the inner margins of the ear patches is roughly equivalent to 1.2 times the width of a single ear base.",
+    "apex_contour_smoothness": "Irregular and tufted apex, exhibiting a pointed rather than smooth semicircular contour."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is angled approximately 45 degrees relative to the horizontal facial plane, sloping towards the rostrum.",
+    "aspect_ratio_factor": "Vertically elongated oval with a visual height-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the geometric center located in the upper two-thirds of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary across the dorsal midline with no sharp vertex.",
+    "normalized_band_thickness": "The dark band occupies approximately 35% of the visible torso height between the shoulder and the lower abdomen."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between pinnae, approximately equivalent to 1.8 times the width of a single ear region.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular convex curvature at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Notable brownish-tan hue in the ventral and lower limb fur, contrasting with the high-luminance white of the cranial and dorsal regions."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shape profile with a relatively flat horizontal boundary across the midline",
+    "normalized_band_thickness": "Significant thickness observed at the lateral flanks, narrowing slightly as it crosses the dorsal midline"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap of white pelage approximately equivalent to 1.5 times the width of an individual pinna",
+    "apex_contour_smoothness": "Consistent semicircular curvature with slightly fuzzy, rounded tops"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right eye patch is oriented at a downward diagonal angle toward the anterior/rostrum relative to the facial midline.",
+    "aspect_ratio_factor": "Oval-shaped with the longitudinal axis approximately 1.5 times greater than the horizontal width.",
+    "inferior_centroid_shift": "The patch exhibits a distinct downward taper, with the distance from the geometric center to the lowest point exceeding the distance to the highest point, creating a teardrop profile."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape profile at the posterior edge, curving forward toward the spine.",
+    "normalized_band_thickness": "The dark band maintains a consistent thickness across the spine, occupying approximately 25% of the visible dorsal torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "There is a wide, distinct gap between the dark pinnae regions, roughly equivalent to the width of one ear.",
+    "apex_contour_smoothness": "The superior boundaries of the ears are characterized by a smooth, perfectly rounded semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": "A large, irregular region of brownish discoloration and apparent fur thinning or exposure is visible on the upper rump/posterior dorsal area.",
+  "other_distinctive_markers": null
+}

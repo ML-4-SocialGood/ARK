@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at approximately 45 degrees relative to the sagittal plane of the skull, pointing towards the snout.",
+    "aspect_ratio_factor": "Ovoid morphology with a longitudinal-to-transverse ratio of approximately 1.7:1.",
+    "inferior_centroid_shift": "Distinct tapering observed at the medial-inferior margin, creating a sub-ovoid extension toward the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "A shallow, broad U-shape is visible at the posterior boundary of the transverse dark band across the scapular region.",
+    "normalized_band_thickness": "The dark band constitutes approximately 35% of the visible torso length from the neck base to the posterior curve."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the medial bases of the ears is approximately 1.5 times the width of a single ear unit.",
+    "apex_contour_smoothness": "The visible ear apices exhibit a continuous, smooth convex curvature without discernible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive brownish-yellow oxidation/staining of the white pelage across the dorsal and lumbar regions."
+}

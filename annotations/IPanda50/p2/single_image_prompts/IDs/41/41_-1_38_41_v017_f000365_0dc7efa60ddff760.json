@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve at the posterior margin",
+    "normalized_band_thickness": "Approximately 25% of the visible dorsal-ventral torso span"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation between the dark ear regions",
+    "apex_contour_smoothness": "Rounded, semicircular apex profiles"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is in a vertical, bipedal climbing posture against a bamboo structure"
+}

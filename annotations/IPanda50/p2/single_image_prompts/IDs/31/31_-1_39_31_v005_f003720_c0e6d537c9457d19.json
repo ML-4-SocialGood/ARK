@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique diagonal orientation, approximately 45 degrees relative to the snout-auricular axis, tapering towards the rostrum.",
+    "aspect_ratio_factor": "Vertically elongated oval; the vertical axis is approximately 1.6 times the horizontal width.",
+    "inferior_centroid_shift": "Distinct downward elongation with the ventral point of the patch extending significantly below the geometric center of the orbital region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve across the posterior margin where the dark pigment meets the white lumbar fur.",
+    "normalized_band_thickness": "The band occupies approximately 45% of the visible dorsal-to-ventral torso profile at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap approximately 1.8 times the horizontal width of a single ear region.",
+    "apex_contour_smoothness": "Convex and rounded tops with a slight flattening on the superior-most apex of the left-side ear."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

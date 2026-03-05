@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the eye patches is oriented at approximately a 45-degree angle downward toward the nasal bridge.",
+    "aspect_ratio_factor": "The patches exhibit an elongated oval morphology with a vertical-to-horizontal ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "There is a pronounced downward elongation, with the lowest point of the patch extending significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the transverse band displays a broad, shallow U-shaped curve.",
+    "normalized_band_thickness": "The dark band occupies approximately 40% of the visible vertical height of the lateral torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-ear gap is approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The tops of the ears exhibit smooth, semicircular convex curvatures."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The fur across the crown and dorsal regions appears clumped and matted, consistent with high moisture content."
+}

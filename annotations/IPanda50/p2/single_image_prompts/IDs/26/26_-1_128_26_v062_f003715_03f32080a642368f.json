@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible eye patch on the left side of the frame exhibits a diagonal orientation, tilting approximately 45 to 50 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch displays an elongated ovoid aspect ratio, with the vertical height being significantly greater than the horizontal width.",
+    "inferior_centroid_shift": "There is a pronounced downward tapering towards the muzzle, creating a teardrop morphology with the lowest point well below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band displays a shallow, broad U-shape across the scapular region.",
+    "normalized_band_thickness": "The dark band is thick, covering approximately one-third of the visible lateral torso height from the shoulder to the mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide cranial gap, estimated at approximately twice the width of an individual ear unit.",
+    "apex_contour_smoothness": "The superior contours of the ears are smoothly rounded and semi-circular in shape."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees relative to the facial horizontal, angled downward toward the rostrum",
+    "aspect_ratio_factor": "Elongated oval, vertical axis approximately 1.6 times the horizontal width",
+    "inferior_centroid_shift": "Clear downward elongation extending from the geometric center toward the lower cheek"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, wide U-shaped posterior boundary",
+    "normalized_band_thickness": "Significant thickness, occupying approximately 30% of the visible lateral torso"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap approximately 1.5 times the horizontal width of a single pinna",
+    "apex_contour_smoothness": "Semicircular with smooth, rounded tops"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced yellowish-brown pelage staining on the ventral/abdominal region"
+}

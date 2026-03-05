@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patches is oriented at approximately 45 degrees outward and upward relative to the midline of the snout.",
+    "aspect_ratio_factor": "The eye patches exhibit a vertically elongated oval morphology with a height-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "The lower region of the eye patch displays a slight downward taper, extending further from the geometric center toward the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band on the visible lateral flank occupies approximately 35-40% of the vertical torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely spaced, with the gap between the inner margins approximately equal to the width of the forehead.",
+    "apex_contour_smoothness": "The superior margins of the ears exhibit a smooth, continuous semicircular curvature without flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Clear visibility of the lower incisors and gingival tissue due to the upward tilt of the cranium."
+}

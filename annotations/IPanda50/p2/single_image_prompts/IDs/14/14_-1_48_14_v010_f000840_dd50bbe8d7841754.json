@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at a downward diagonal angle toward the snout, approximately 45 degrees from the horizontal midline.",
+    "aspect_ratio_factor": "The patch is distinctly oval with a high vertical aspect ratio, appearing significantly taller than it is wide.",
+    "inferior_centroid_shift": "The patch exhibits a clear downward tapering, with the lower extremity extending significantly further from the center than the upper margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The black semicircular ear regions are separated by a broad, light-furred cranial gap approximately double the width of a single ear.",
+    "apex_contour_smoothness": "The upper boundaries of the pinnae exhibit smooth, convex, semicircular curves."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

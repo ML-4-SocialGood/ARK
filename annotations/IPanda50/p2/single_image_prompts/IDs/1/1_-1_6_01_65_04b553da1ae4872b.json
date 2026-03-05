@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis is oriented at an oblique angle of approximately 70 degrees relative to the horizontal facial axis, tilted toward the ear.",
+    "aspect_ratio_factor": "Oval morphology with a visual vertical-to-horizontal ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering, with the geometric center shifted toward the superior half of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band is thick, occupying approximately 45% of the visible torso height between the neck and the mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap is visible between the ears, roughly 2.5 times the width of the ear base.",
+    "apex_contour_smoothness": "The ears exhibit high smoothness with a consistently rounded, semicircular apex profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation at approximately 45 degrees relative to the horizontal facial plane, extending from the ear base towards the rostrum.",
+    "aspect_ratio_factor": "Oval/elliptical morphology with the longitudinal axis significantly longer than the transverse axis.",
+    "inferior_centroid_shift": "Gradual downward tapering of the patch at its ventral-most point near the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape profile across the posterior boundary with no significant spinal indentation.",
+    "normalized_band_thickness": "Approximately 0.25 relative to the longitudinal length of the visible white dorsal region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation across the cranial vertex, estimated at 2.5 times the width of a single ear unit.",
+    "apex_contour_smoothness": "Uniformly convex semicircular curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

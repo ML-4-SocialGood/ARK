@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The right eye patch displays an oblique orientation, tilting approximately 45 degrees downward from the medial to the lateral side relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "The eye patch is vertically elongated and oval-shaped, with a height-to-width ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "The patch displays a pronounced downward tapering, with the lowest point of the pigment blob extending significantly below the geometric center toward the lower cheek."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dorsal band across the shoulder region exhibits a shallow, wide U-shaped curvature.",
+    "normalized_band_thickness": "The dark band is thick, covering approximately 35% of the visible torso height from the base of the neck to the mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely set, with an inter-pinna gap roughly equivalent to 1.5 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "The cranial pinnae exhibit a high degree of smoothness with perfectly rounded, semi-circular apex contours."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-yellow discoloration is visible on the ventral fur of the chest and abdomen, contrasting with the whiter fur on the cranium."
+}

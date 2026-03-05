@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 0,
+    "vertex_curvature_index": "Shallow U-shaped posterior profile with minimal central curvature",
+    "normalized_band_thickness": "High thickness at the lateral shoulder regions, tapering significantly to a break at the dorsal midline"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation between the dark semicircular pinnae",
+    "apex_contour_smoothness": "Smoothly rounded convex apexes without visible flattening"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

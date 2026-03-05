@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The eye patches exhibit a vertical orientation with a slight inward tilt toward the nasal bridge.",
+    "aspect_ratio_factor": "The patches are distinctly oval-shaped with high vertical elongation.",
+    "inferior_centroid_shift": "There is a visible downward tapering effect where the lower margin of the patch is more acute than the rounded superior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a broad cranial gap, roughly twice the width of a single visible ear.",
+    "apex_contour_smoothness": "The ear boundaries appear generally rounded, though the pixel resolution creates a soft, blurred edge."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

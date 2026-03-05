@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the eye patches is angled downward and inward toward the nasal bridge at approximately 45 degrees relative to the horizontal facial axis",
+    "aspect_ratio_factor": "Vertical oval/ellipsoid with a width-to-height ratio approximately 1:1.4",
+    "inferior_centroid_shift": "Visible downward tapering where the inferior boundary extends significantly lower than the superior boundary relative to the geometric center"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the medial edges of the ears is approximately 1.5 times the width of a single ear",
+    "apex_contour_smoothness": "Continuous convex semicircular curvature with no visible flattening at the apex"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is positioned in a lateral-supine posture supported by a diagonal structure of cylindrical logs"
+}

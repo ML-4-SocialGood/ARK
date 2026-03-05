@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees downward from the posterior to the anterior direction relative to the head's sagittal plane.",
+    "aspect_ratio_factor": "Elongated oval with an estimated width-to-height ratio of 1:2.",
+    "inferior_centroid_shift": "Significant downward tapering observed toward the ventral-anterior edge of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "The posterior boundary of the dark band across the scapular region exhibits a shallow U-shape curvature.",
+    "normalized_band_thickness": "High relative thickness, occupying approximately one-third of the visible torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap distance is roughly equivalent to 1.5 times the width of a single ear region.",
+    "apex_contour_smoothness": "Smoothly rounded apex with no visible flattening or irregular contouring."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

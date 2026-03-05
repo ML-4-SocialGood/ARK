@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation approximately 45 degrees relative to the horizontal facial axis, tapering toward the muzzle.",
+    "aspect_ratio_factor": "Elongated ovoid with a higher vertical-to-horizontal ratio.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the patch extending significantly below the ocular center toward the lower cheek."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped curve along the posterior edge of the dark band.",
+    "normalized_band_thickness": "Substantial thickness occupying roughly one-third of the visible torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation across the dorsal cranium.",
+    "apex_contour_smoothness": "Consistently smooth, rounded semicircular curvature at the superior boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible yellowish-beige chromatic shift in the ventral fur compared to the high-white cranial fur."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation angled at approximately 55 degrees downward towards the snout relative to the horizontal axis.",
+    "aspect_ratio_factor": "Vertically elongated ovoid, width-to-height ratio approximately 0.65.",
+    "inferior_centroid_shift": "Pronounced downward teardrop taper, extending the patch significantly below the ocular center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped curve on the posterior boundary.",
+    "normalized_band_thickness": "Substantial thickness, representing approximately 35% of the visible trunk length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, estimated at approximately twice the width of a single pinna.",
+    "apex_contour_smoothness": "Smooth, convex semicircular apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

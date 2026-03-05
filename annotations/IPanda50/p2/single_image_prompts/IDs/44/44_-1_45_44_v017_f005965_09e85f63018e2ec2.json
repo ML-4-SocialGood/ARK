@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward tilt relative to the sagittal plane, visible on the right ocular patch.",
+    "aspect_ratio_factor": "Elongated oval morphology with an estimated height-to-width ratio of 1.8:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering of the right eye patch towards the maxillary region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary across the interscapular region.",
+    "normalized_band_thickness": "Occupies approximately 40% of the visible torso length from the neck to the mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Lateral separation between ears is approximately 1.5 times the width of the ear base.",
+    "apex_contour_smoothness": "Smooth, continuous convex curvature at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

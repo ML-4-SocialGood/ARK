@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, angled downward and inward toward the rostrum.",
+    "aspect_ratio_factor": "Distinctly oval, with the vertical dimension significantly exceeding the horizontal width.",
+    "inferior_centroid_shift": "Pronounced downward taper with a sharp descent from the geometric center to the lowest point."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep, broad U-shape curvature at the posterior margin of the band.",
+    "normalized_band_thickness": "High thickness, occupying approximately 35% of the visible longitudinal torso span."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap, approximately 2.5 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "Semicircular and smoothly convex at the top boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

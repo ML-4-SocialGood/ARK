@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape with a nearly linear posterior boundary across the dorsal midline",
+    "normalized_band_thickness": "High thickness, occupying approximately 30% of the visible longitudinal torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation across the cranial vault, exceeding the width of a single pinna",
+    "apex_contour_smoothness": "Smoothly rounded semicircular profile at the superior margins"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive brownish-beige staining/discoloration covering the lower sacral and caudal white fur regions"
+}

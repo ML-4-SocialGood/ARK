@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented nearly vertically, with a slight anterior tilt of approximately 80 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval geometry with a vertical height approximately twice the horizontal width.",
+    "inferior_centroid_shift": "The patch exhibits a tapered inferior profile, with the geometric centroid shifted toward the upper half of the blob."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shape with a relatively straight posterior margin across the dorsal midline.",
+    "normalized_band_thickness": "The dark band occupies approximately 45% of the visible vertical torso height from the lateral perspective."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a white fur gap approximately equal to 1.5 times the width of a single ear unit.",
+    "apex_contour_smoothness": "High degree of smoothness with a consistent semicircular arc at the superior apex of the pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is positioned in a seated posture holding a hind paw with its forelimbs; localized brownish-red discoloration is visible in the perianal region."
+}

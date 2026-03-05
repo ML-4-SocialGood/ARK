@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at approximately 45 to 50 degrees relative to the horizontal facial axis, sloping downward toward the rostrum.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval geometry, with a vertical height exceeding its horizontal width.",
+    "inferior_centroid_shift": "The patch exhibits a distinct downward tapering, with the inferior margin extending notably further from the geometric center than the superior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band across the shoulders presents a shallow, broad U-shaped profile with minimal vertex depth.",
+    "normalized_band_thickness": "The dark band is thick, occupying approximately 40% of the visible dorsal-to-ventral torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are set wide apart, with an inter-ear gap roughly equivalent to 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The apex of the ears exhibits a high degree of smoothness with a symmetric, rounded convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible light-colored particulate debris, likely bamboo fragments, is scattered across the black fur of the left shoulder and upper back."
+}

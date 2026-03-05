@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the high-contrast eye patches are oriented diagonally at approximately 45 degrees, converging toward the nasal bridge.",
+    "aspect_ratio_factor": "The eye patches exhibit a vertical oval morphology with a height-to-width ratio estimated at 1.3:1.",
+    "inferior_centroid_shift": "The patches display distinct downward tapering, with the inferior margin extending significantly further from the centroid than the superior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible cranial pinna displays a smooth, continuous convex curvature at the apex without flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

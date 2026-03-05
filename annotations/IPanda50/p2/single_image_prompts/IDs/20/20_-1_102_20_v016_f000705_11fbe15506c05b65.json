@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are oriented diagonally downward toward the snout at approximately a 45-degree angle relative to the horizontal axis.",
+    "aspect_ratio_factor": "The patches are vertically elongated ovals with an approximate height-to-width ratio of 1.7:1.",
+    "inferior_centroid_shift": "The patches exhibit a significant downward extension, with the bulk of the pigment mass located below the ocular horizontal midline."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a cranial gap approximately equal to 1.2 times the width of a single ear.",
+    "apex_contour_smoothness": "The superior contours of the ears are smoothly rounded with a continuous convex profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The thoracic and abdominal fur displays a matted, spiked texture, indicating a wet or recently cleaned state."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The patches are oriented at approximately a 45-degree inward-downward angle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Distinctly oval, with the long axis significantly exceeding the short axis.",
+    "inferior_centroid_shift": "There is a pronounced downward tapering towards the muzzle, creating a teardrop-like extension below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are set wide apart on the cranial vault, separated by a distance roughly 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, rounded semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

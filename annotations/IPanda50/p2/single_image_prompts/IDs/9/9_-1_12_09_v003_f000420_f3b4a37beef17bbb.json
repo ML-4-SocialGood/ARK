@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at a downward diagonal angle toward the rostrum, approximately 50 degrees from the horizontal facial midline.",
+    "aspect_ratio_factor": "The eye patch displays an oval morphology with vertical elongation, estimated at a 1.6:1 height-to-width ratio.",
+    "inferior_centroid_shift": "The patch exhibits a pronounced downward taper, with the lowest point extending significantly below the horizontal geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark transverse band follows a broad, shallow U-shaped curve across the dorsal midline.",
+    "normalized_band_thickness": "The dark band is substantial, occupying roughly 40% of the visible torso height at the lateral margins."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide white-furred cranial gap, approximately 1.5 times the horizontal width of a single pinna.",
+    "apex_contour_smoothness": "The apex of the left pinna exhibits a smooth, continuous semi-circular curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A small, localized dark pixel cluster is visible on the upper frontal bone region of the cranium, distinct from the primary eye patches and ears."
+}

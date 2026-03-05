@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The eye patches are oriented along a diagonal axis sloping inward and downward toward the muzzle at approximately a 45-degree angle.",
+    "aspect_ratio_factor": "Ovoid morphology with a vertical-to-horizontal aspect ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "Notable tapering and elongation at the inferior-medial boundary extending towards the lateral margins of the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark shoulder band constitutes approximately 30-35% of the visible torso height above the seated fold."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the two ear regions is approximately 1.5 times the horizontal width of a single pinna.",
+    "apex_contour_smoothness": "The superior boundaries of the ears exhibit a smooth, rounded semicircular profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

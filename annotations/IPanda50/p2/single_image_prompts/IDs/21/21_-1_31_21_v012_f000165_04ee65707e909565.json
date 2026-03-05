@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, oriented downwards and inwards toward the muzzle relative to the horizontal axis of the face.",
+    "aspect_ratio_factor": "Oval, with the longitudinal axis significantly exceeding the transverse width.",
+    "inferior_centroid_shift": "Marked downward extension, where the inferior boundary tapers toward the snout area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape profile at the posterior edge of the dark band.",
+    "normalized_band_thickness": "High thickness, extending approximately one-third the length of the visible upper torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, with a distinct white cranial gap approximately equal to the width of one ear.",
+    "apex_contour_smoothness": "Semicircular and smooth rounded top boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

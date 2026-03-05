@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique angle of approximately 45 degrees slanting downward toward the rostrum relative to the horizontal facial midline.",
+    "aspect_ratio_factor": "Elongated vertical oval with a height-to-width ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the geometric center of the patch positioned significantly below the horizontal plane of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High thickness, extending from the base of the neck to approximately the mid-axial region of the visible torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation approximately equivalent to 2.5 times the individual ear width.",
+    "apex_contour_smoothness": "Continuous semi-circular curvature with high smoothness and no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Open-mouth posture revealing the lower incisors and tongue."
+}

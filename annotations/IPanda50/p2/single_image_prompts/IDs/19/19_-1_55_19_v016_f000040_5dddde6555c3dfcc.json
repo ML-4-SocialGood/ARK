@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical-oblique orientation relative to the horizontal facial axis",
+    "aspect_ratio_factor": "Elongated oval with a high height-to-width ratio",
+    "inferior_centroid_shift": "Visible downward tapering toward the inferior margin"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Broad dark band occupying approximately 40% of the visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smoothly curved semicircular apex on the visible ear"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

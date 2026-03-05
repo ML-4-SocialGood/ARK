@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation angled downward toward the muzzle",
+    "aspect_ratio_factor": "Ovoid morphology with primary axis elongation",
+    "inferior_centroid_shift": "Visible downward tapering of the patch boundary relative to the ocular center"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary",
+    "normalized_band_thickness": "Consistent thickness across the transverse plane, approximately 25 percent of visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation distance across the cranial vault",
+    "apex_contour_smoothness": "Smooth semicircular convex curvature"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is oriented approximately 45 degrees relative to the horizontal facial axis, sloping downward toward the rostrum.",
+    "aspect_ratio_factor": "High vertical-to-horizontal aspect ratio; the patch is distinctly oval and elongated.",
+    "inferior_centroid_shift": "Pronounced inferior tapering where the lowest point of the patch is significantly distant from the geometric center, extending toward the lower cheek."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band exhibits a shallow, broad U-shape across the dorsal midline.",
+    "normalized_band_thickness": "Large relative thickness, occupying approximately 30-35% of the visible torso length along the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap is present between the dark pinnae, separated by the white fur of the cranial vertex.",
+    "apex_contour_smoothness": "The visible left ear exhibits a rounded apex with slight flattening along the superior-most edge."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The pelvic limbs show a distinct desaturated, brownish-grey hue in contrast to the high-contrast black of the pectoral limbs."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The left ocular patch axis is oriented obliquely downward toward the snout at approximately 30-45 degrees relative to the facial horizontal; the right patch axis is more vertically aligned with a slight medial incline.",
+    "aspect_ratio_factor": "Both patches are distinctly ovoid; the right patch exhibits a higher height-to-width ratio compared to the left patch, which appears slightly more horizontally expanded.",
+    "inferior_centroid_shift": "The lower boundary of the left patch exhibits a subtle tapering toward the muzzle; the right patch displays a more rounded, vertical teardrop profile with the geometric center positioned above the lower pole."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned at the lateral edges of the superior cranium, separated by a wide gap approximately equal to the width of the visible white forehead.",
+    "apex_contour_smoothness": "The superior margins of both pinnae exhibit a smooth, convex, semicircular profile without flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

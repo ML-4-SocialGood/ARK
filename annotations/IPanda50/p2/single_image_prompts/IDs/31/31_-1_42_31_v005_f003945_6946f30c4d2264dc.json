@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "A shallow U-shape with a relatively straight posterior boundary as it traverses the spine",
+    "normalized_band_thickness": "Approximately 30% of the visible dorsal distance from the neck to the pelvic region"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a broad cranial gap approximately 1.5 to 2 times the width of a single pinna base",
+    "apex_contour_smoothness": "Smooth, rounded semicircular curvature on the superior margins"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Noticeable brownish-yellow staining or discoloration of the pelage on the posterior flanks and rump compared to the whiter mid-dorsal fur"
+}

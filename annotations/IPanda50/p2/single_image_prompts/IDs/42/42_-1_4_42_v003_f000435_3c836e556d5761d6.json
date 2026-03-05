@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the high-contrast eye patches are oriented at approximately 60 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patches exhibit an elongated oval morphology with an estimated length-to-width ratio of 1.6.",
+    "inferior_centroid_shift": "A distinct downward tapering is visible toward the muzzle, creating a significant distance between the geometric center and the lowest point of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The dark semicircular ears are separated by a wide cranial gap approximately equal to the width of the forehead fur.",
+    "apex_contour_smoothness": "The upper boundaries of the pinnae exhibit a smooth, rounded convex curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

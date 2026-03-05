@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonally oriented at approximately 45 degrees relative to the horizontal facial axis, converging towards the rostrum.",
+    "aspect_ratio_factor": "Elongated oval; vertical axis is approximately 1.5 times the horizontal width.",
+    "inferior_centroid_shift": "Moderate downward taper with the lower boundary extending well below the horizontal center of the orbit."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve on the posterior margin of the dark shoulder band.",
+    "normalized_band_thickness": "Relatively wide; the band occupies approximately 30% of the visible torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation; the gap between the medial ear margins is roughly 1.5 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "Highly rounded and smooth semicircular curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brownish-tan discoloration/staining visible on the white ventral fur of the chest and abdomen."
+}

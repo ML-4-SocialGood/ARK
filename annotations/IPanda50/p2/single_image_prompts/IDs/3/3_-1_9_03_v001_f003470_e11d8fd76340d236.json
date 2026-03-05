@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis of the visible eye patches is oriented diagonally at approximately 60 degrees relative to the horizontal facial midline, tapering downwards toward the muzzle.",
+    "aspect_ratio_factor": "Vertical oval morphology with a visual height-to-width ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "Distinct downward elongation with a visible tapering effect where the lower boundary of the patch extends significantly below the geometric center of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide lateral gap between the ear regions, visually estimated at 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "The superior boundaries of the visible ears exhibit a smooth, continuous semicircular curvature without flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge displays a shallow U-shape curvature across the upper back.",
+    "normalized_band_thickness": "The band occupies approximately 30-35% of the visible torso length from shoulder to tail base."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distinct separation between the two black auricular regions by the white cranial vertex.",
+    "apex_contour_smoothness": "Both visible ear boundaries exhibit a smooth, semi-circular curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is captured in a seated posterior-lateral view, leaning its left side against a textured grey vertical surface."
+}

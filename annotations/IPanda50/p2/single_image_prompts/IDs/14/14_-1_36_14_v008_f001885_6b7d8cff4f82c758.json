@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch (viewer's right) is oriented at approximately a 45-degree angle downward and outward from the medial line.",
+    "aspect_ratio_factor": "The eye patch exhibits an elongated oval geometry with a vertical-to-horizontal ratio of approximately 1.6:1 along its dominant axis.",
+    "inferior_centroid_shift": "There is a distinct downward expansion and tapering of the black pigment below the ocular center, creating a teardrop-shaped distribution."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-pinna distance is approximately 1.5 times the horizontal width of a single ear unit.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a high-convexity, smooth semicircular profile with no visible apex flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

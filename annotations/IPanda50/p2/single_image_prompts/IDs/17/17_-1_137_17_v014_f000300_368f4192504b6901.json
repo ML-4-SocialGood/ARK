@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees downward relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval with a vertical height significantly exceeding horizontal width.",
+    "inferior_centroid_shift": "Pronounced downward tapering of the patch below the ocular center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior curvature.",
+    "normalized_band_thickness": "Approximately 35% of the visible upper torso segment."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation across the dorsal cranial plane.",
+    "apex_contour_smoothness": "Smoothly convex, semicircular apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

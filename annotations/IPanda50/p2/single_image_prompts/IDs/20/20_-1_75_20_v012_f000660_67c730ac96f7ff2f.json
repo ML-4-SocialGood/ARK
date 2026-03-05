@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oriented at approximately a 45-degree downward angle toward the muzzle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Exhibits an elongated oval shape with a high aspect ratio.",
+    "inferior_centroid_shift": "The patch displays a distinct downward tapering, with the lowest point extending significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The band is thick, covering approximately one-third of the visible upper torso length at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separated by a wide gap, roughly equivalent to twice the horizontal width of an ear.",
+    "apex_contour_smoothness": "The ear boundaries exhibit a smooth, semi-circular rounded apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

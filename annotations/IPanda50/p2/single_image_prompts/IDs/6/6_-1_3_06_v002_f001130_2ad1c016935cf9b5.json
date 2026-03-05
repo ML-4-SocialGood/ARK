@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis of the visible eye patches is oriented at a ~45-degree downward angle towards the muzzle relative to the facial midline.",
+    "aspect_ratio_factor": "Elongated elliptical profile with an estimated length-to-width ratio of 2:1.",
+    "inferior_centroid_shift": "Marked downward taper with the lowest point extending significantly below the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, wide-radius U-shape profile at the posterior margin of the band.",
+    "normalized_band_thickness": "Thick transverse band occupying approximately 30% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distinct white cranial gap measuring approximately 1.5 times the width of an individual pinna.",
+    "apex_contour_smoothness": "Uniformly convex semicircular curvature at the cranial apex of both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Presence of multiple small, dark debris particles scattered across the white dorsal fur."
+}

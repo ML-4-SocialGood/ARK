@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oriented at a diagonal angle approximately 45 degrees downward relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Distinctly ovaloid, with the longitudinal axis significantly longer than the transverse axis.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band at the lateral flanks is prominent, occupying approximately 25% of the visible vertical torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely set, separated by a distance roughly 1.5 times the width of a single ear region.",
+    "apex_contour_smoothness": "Smooth, continuous semicircular curvature at the superior boundary of both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

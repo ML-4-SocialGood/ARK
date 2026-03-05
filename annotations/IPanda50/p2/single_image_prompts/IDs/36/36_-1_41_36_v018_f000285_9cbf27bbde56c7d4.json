@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 75 degrees relative to the horizontal facial axis, with the superior pole inclined medially toward the sagittal plane.",
+    "aspect_ratio_factor": "Elongated oval morphology with a height-to-width ratio of approximately 1.7:1.",
+    "inferior_centroid_shift": "Pronounced inferior tapering, with the visual distance from the geometric center to the lowest point exceeding the distance to the superior boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High lateral thickness, where the dark band occupies approximately 45 percent of the visible vertical torso height at the shoulder."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-pinna distance is approximately 1.5 times the horizontal width of an individual pinna.",
+    "apex_contour_smoothness": "Smooth, uniformly convex semicircular curvature at the superior boundary of both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

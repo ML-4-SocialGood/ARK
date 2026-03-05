@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible left eye patch (viewer's left) is oriented at a diagonal downward angle toward the rostrum, while the right patch is oriented more vertically.",
+    "aspect_ratio_factor": "Both eye patches exhibit an elongated oval morphology with a vertical-to-horizontal ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "The eye patches exhibit a slight downward taper, with the visual center of mass located in the upper two-thirds of the patch area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": "The posterior boundary of the transverse band exhibits a shallow, wide U-shaped curvature across the visible shoulder area.",
+    "normalized_band_thickness": "The dark band is broad, occupying approximately 35% of the visible torso length from the neck base to the lower back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely spaced, with the inter-pinna gap approximately equal to the lateral width of the right ear.",
+    "apex_contour_smoothness": "The right ear displays a smooth, semicircular apex, while the left ear appears more elongated and slightly pointed at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant yellowish-brown chromal saturation is visible in the fur of the ventral region and lower limbs compared to the cranial region."
+}

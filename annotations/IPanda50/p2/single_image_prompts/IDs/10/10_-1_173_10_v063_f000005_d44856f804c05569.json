@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, flat U-shape curvature at the posterior edge",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 25-30% of the visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Visible gap between the two dark ear regions atop the cranial vault",
+    "apex_contour_smoothness": "Smoothly rounded semicircular apex on the visible pinna"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Panda is oriented vertically in a climbing or hanging posture on a metal bar gate"
+}

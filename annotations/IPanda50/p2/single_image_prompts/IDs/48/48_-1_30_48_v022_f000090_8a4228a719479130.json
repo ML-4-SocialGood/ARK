@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is vertically oriented with a slight lateral tilt away from the sagittal plane.",
+    "aspect_ratio_factor": "Elongated oval configuration with a vertical-to-horizontal ratio of approximately 1.7:1.",
+    "inferior_centroid_shift": "The patch displays a pronounced downward taper, with the geometric center located in the upper third of the blob."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior margin of the dark band exhibits a flat, wide U-shape profile across the thoracic vertebrae.",
+    "normalized_band_thickness": "High relative thickness, encompassing approximately 40% of the visible torso height from shoulder to tail base."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large inter-ear gap, estimated at 1.5 times the width of an individual pinna base.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular apices with no visible flattening or irregularities."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive reddish-brown fur staining is visible on the ventral abdomen and inner pelvic region."
+}

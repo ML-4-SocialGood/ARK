@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical primary axis with a slight medial tilt toward the snout.",
+    "aspect_ratio_factor": "Distinctly oval with a vertical axis approximately 1.6 times longer than the horizontal width.",
+    "inferior_centroid_shift": "Significant downward elongation extending the patch toward the lower muzzle area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge exhibits a shallow U-shaped curvature across the upper back.",
+    "normalized_band_thickness": "The band is relatively thick, occupying about one-quarter of the visible torso flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the ears is approximately 1.5 times the width of one ear.",
+    "apex_contour_smoothness": "The ear tops are smoothly rounded with a semicircular profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

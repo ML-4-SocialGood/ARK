@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique diagonal orientation approximately 45 degrees from the horizontal facial axis.",
+    "aspect_ratio_factor": "Vertical oval configuration with a height-to-width ratio greater than 1.",
+    "inferior_centroid_shift": "Moderate downward tapering creating a teardrop morphology below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "Substantially flat U-shaped posterior edge along the mid-dorsal line.",
+    "normalized_band_thickness": "Approximately 30% of the visible torso height at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation distance across the cranial crown approximately equal to 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Smooth, convex semicircular curvature at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented near-vertically with a slight anterior tilt toward the muzzle.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval geometry, with a vertical height approximately double the horizontal width.",
+    "inferior_centroid_shift": "There is a distinct downward tapering below the geometric center, forming a teardrop-like extension toward the cheek."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior margin of the dorsal band displays a wide, relatively flat U-shape as it transitions across the shoulder region.",
+    "normalized_band_thickness": "The dark band occupies roughly 30-35% of the total visible longitudinal torso length at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely spaced across the cranial vault, with the inter-ear gap roughly 1.5 times the lateral width of a single ear.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit smooth, consistent semi-circular convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant pixel occlusion in the nasal and muzzle region caused by a bright, high-contrast foreground leaf element."
+}

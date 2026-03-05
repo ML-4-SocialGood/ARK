@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Near-vertical orientation with a slight anterior tilt of approximately 75-80 degrees relative to the snout-ear axis.",
+    "aspect_ratio_factor": "Elongated oval with a high aspect ratio where vertical length significantly exceeds horizontal width.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape with a smooth transition along the posterior margin across the dorsal midline.",
+    "normalized_band_thickness": "High lateral thickness, covering approximately 35-40% of the visible thoracic region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Consistent semicircular curvature with high smoothness and no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

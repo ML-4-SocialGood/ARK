@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band displays a shallow U-shaped profile with no sharp vertex.",
+    "normalized_band_thickness": "The dark band is substantial in height, occupying approximately one-third of the visible upper dorsal torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide, well-defined gap is visible between the two distinct dark ear regions.",
+    "apex_contour_smoothness": "The top boundaries of the ears are characterized by smooth, semicircular rounded contours."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The non-black fur areas exhibit a pronounced yellowish-tan saturation rather than a pure white pixel value."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis of the visible eye patch is oriented at a diagonal downward angle toward the muzzle, approximately 40 degrees from the horizontal plane.",
+    "aspect_ratio_factor": "Oval-shaped, with the longitudinal axis significantly exceeding the vertical height.",
+    "inferior_centroid_shift": "Distinct downward tapering observed toward the lower-inner corner of the patch near the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "High thickness, extending from the base of the neck to cover the majority of the visible shoulder flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Highly smooth and rounded curvature at the superior apex of the visible ear."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

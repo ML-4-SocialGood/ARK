@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right patch (camera-left) is oriented at an approximately 45-degree angle downward toward the rostrum.",
+    "aspect_ratio_factor": "The visible patch exhibits an elongated oval geometry with a high width-to-height ratio.",
+    "inferior_centroid_shift": "There is a distinct tapering and elongation towards the lower-front edge of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the band displays a broad, flat U-shaped curve with no sharp V-shaped indentation.",
+    "normalized_band_thickness": "The dark band occupies approximately one-third of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely spaced laterally across the crown with a clear white fur gap.",
+    "apex_contour_smoothness": "The tops of the ears are smoothly convex and semicircular in profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

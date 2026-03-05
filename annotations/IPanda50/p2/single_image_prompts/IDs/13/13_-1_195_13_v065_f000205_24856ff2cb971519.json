@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, tilted approximately 45 degrees relative to the horizontal facial axis toward the rostrum.",
+    "aspect_ratio_factor": "Elongated oval with the primary axis length approximately 1.6 times the width.",
+    "inferior_centroid_shift": "Notable tapering toward the ventral-anterior edge of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shape curvature along the posterior margin.",
+    "normalized_band_thickness": "Moderately thick, occupying approximately 25-30% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct gap is visible between the ears, roughly 1.5 times the width of the ear base.",
+    "apex_contour_smoothness": "Smoothly rounded convex apex on the visible pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

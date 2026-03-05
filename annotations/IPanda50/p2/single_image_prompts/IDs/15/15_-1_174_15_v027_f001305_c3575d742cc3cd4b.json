@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation angled approximately 45 degrees upward toward the cranial pinna relative to the muzzle axis.",
+    "aspect_ratio_factor": "Ellipsoidal profile with a distinct elongation along the dominant axis, approximately a 1.6:1 ratio.",
+    "inferior_centroid_shift": "Pronounced downward tapering toward the nasal region with the geometric center positioned in the upper-outer quadrant of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shaped curve along the posterior boundary where the black pigment meets the dorsal white fur.",
+    "normalized_band_thickness": "High thickness, occupying approximately 35% of the visible upper torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation distance approximately equal to 1.5 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "Smoothly convex and rounded semicircular apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right periocular patch is oriented at a downward angle of approximately 50 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The patch displays an elongated oval geometry with a length-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "The patch shows a distinct downward tapering, creating a teardrop effect where the mass is concentrated significantly below the ocular center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark transverse band exhibits a shallow U-shape curvature across the dorsal midline.",
+    "normalized_band_thickness": "The dark band occupies approximately 35% of the visible torso area from the lateral-dorsal perspective."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible ear displays a smooth, rounded semicircular apex with no visible flattening or irregularities."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}
