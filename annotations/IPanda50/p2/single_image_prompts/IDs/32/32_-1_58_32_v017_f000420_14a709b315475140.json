@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique downward orientation approximately 45 degrees relative to the facial midline",
+    "aspect_ratio_factor": "Vertical oval with a higher height-to-width ratio",
+    "inferior_centroid_shift": "Visible downward tapering toward the muzzle, creating a teardrop-like extension"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape with a relatively straight posterior boundary",
+    "normalized_band_thickness": "Broad band occupying approximately 20-25 percent of the visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant separation across the cranial vault by a distance exceeding the width of a single pinna",
+    "apex_contour_smoothness": "Symmetrically rounded convex arcs"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-tan fur discoloration covering the majority of the posterior dorsal and flank regions"
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad and relatively flat U-shape across the posterior margin of the band.",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 30-35% of the visible dorsal-to-caudal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear separation between the two black pinna regions with a white inter-aural gap roughly equal to one pinna width.",
+    "apex_contour_smoothness": "Symmetric, smoothly rounded apex curvature on both visible pinnae."
+  },
+  "acquired_anomalies_or_scars": "Prominent horizontal brownish discoloration or soil staining on the left posterior dorsal flank.",
+  "other_distinctive_markers": null
+}

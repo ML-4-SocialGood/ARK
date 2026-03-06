@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right eye patch is oriented nearly vertically with a slight forward-leaning tilt of approximately 75 degrees from the horizontal facial midline.",
+    "aspect_ratio_factor": "Oval morphology with a vertical-to-horizontal ratio of approximately 2:1.",
+    "inferior_centroid_shift": "The patch displays a subtle downward taper, with the centroid positioned slightly above the vertical midpoint."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dorsal band presents a broad, shallow U-shape across the dorsal midline.",
+    "normalized_band_thickness": "The band is substantial, covering approximately 35% of the visible longitudinal torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap is visible between the ears, roughly equivalent to 1.2 times the width of a single ear base.",
+    "apex_contour_smoothness": "The cranial pinnae exhibit a smooth, semicircular convex curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

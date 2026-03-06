@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the high-contrast eye patches is oriented diagonally, angling downward approximately 45 degrees toward the midline of the snout.",
+    "aspect_ratio_factor": "The eye patches exhibit an elongated oval morphology with a longitudinal axis significantly longer than the transverse axis.",
+    "inferior_centroid_shift": "A distinct downward tapering is visible, with the mass of the patch extending further toward the rostrum than the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band exhibits a broad, shallow U-shape across the dorsal midline.",
+    "normalized_band_thickness": "The dark band is thick, encompassing approximately 25 percent of the visible torso length at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the medial edges of the dark ear regions is approximately 1.5 times the width of a single ear region.",
+    "apex_contour_smoothness": "The superior boundaries of the ears are characterized by a smooth, rounded convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at an angle of roughly 75 degrees relative to the horizontal axis of the snout.",
+    "aspect_ratio_factor": "The eye patch is an elongated oval with a vertical-to-horizontal ratio of approximately 2:1.",
+    "inferior_centroid_shift": "The patch exhibits a slight downward taper, creating a teardrop-shaped lower margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a distinct section of white fur roughly equal to the width of the individual pinna.",
+    "apex_contour_smoothness": "The superior edges of the ears are smooth and follow a consistent semicircular curve."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Exposure of the upper and lower teeth is visible during the mastication of bamboo stalks."
+}

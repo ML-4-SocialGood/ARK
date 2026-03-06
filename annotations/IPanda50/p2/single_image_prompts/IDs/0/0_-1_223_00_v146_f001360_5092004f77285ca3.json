@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees relative to the longitudinal axis of the snout.",
+    "aspect_ratio_factor": "Oval-shaped, exhibiting a primary vertical elongation.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped profile on the posterior margin of the band.",
+    "normalized_band_thickness": "Moderately thick, covering approximately 25-30% of the visible torso segment between the neck and the hindquarters."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant separation with a white cranial gap wider than the diameter of a single ear.",
+    "apex_contour_smoothness": "Highly smooth, semi-circular arc with no visible irregularities."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive pinkish-brown staining present on the white fur of the dorsal region behind the black shoulder band."
+}

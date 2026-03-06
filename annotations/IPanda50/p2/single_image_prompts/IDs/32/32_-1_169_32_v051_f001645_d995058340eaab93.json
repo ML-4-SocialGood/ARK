@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Relatively flat U-shape along the posterior edge of the transverse band",
+    "normalized_band_thickness": "High relative thickness, occupying approximately one-third of the visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap of white fur between the ears, roughly equivalent to 1.5 times the ear width",
+    "apex_contour_smoothness": "Smooth, rounded semicircular curvature at the apex of both visible ears"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced yellowish-brown discoloration of the white fur on the posterior and lumbar regions compared to the bright white cranial fur"
+}

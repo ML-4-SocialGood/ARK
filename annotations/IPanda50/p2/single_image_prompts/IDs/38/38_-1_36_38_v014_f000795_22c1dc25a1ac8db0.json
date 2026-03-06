@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees downward toward the muzzle relative to the horizontal facial axis",
+    "aspect_ratio_factor": "Oval, with a vertical elongation approximately 1.5 times the width",
+    "inferior_centroid_shift": "Moderate downward tapering toward the muzzle, creating a teardrop-shaped morphology"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve visible at the posterior margin over the shoulders",
+    "normalized_band_thickness": "Broad band extending across the entirety of the shoulder span, covering approximately 30 percent of the visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation, approximately equal to the horizontal diameter of an individual ear",
+    "apex_contour_smoothness": "Regularly rounded with no visible flattening or irregularities"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brownish-yellow discoloration of the fur in the lower ventral and abdominal region compared to the white upper chest"
+}

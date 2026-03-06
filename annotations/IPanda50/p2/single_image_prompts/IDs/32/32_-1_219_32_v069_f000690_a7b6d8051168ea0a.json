@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation slanted approximately 45 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval shape with a visible height-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Distinct downward tapering effect where the lower portion of the patch extends significantly below the ocular center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "A shallow U-shaped curvature is visible at the posterior boundary of the dark shoulder band.",
+    "normalized_band_thickness": "The dark band is thick, encompassing approximately 40% of the visible dorsal-lateral torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the dark ear regions is approximately 1.7 times the base width of a single ear.",
+    "apex_contour_smoothness": "The superior boundaries of the ears exhibit smooth, regular semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant reddish-brown pigmentation or staining is present on the fur of the limbs and extremities, diverging from the deep black observed in the dorsal band."
+}

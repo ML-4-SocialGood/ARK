@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, symmetric U-shaped curvature across the posterior boundary.",
+    "normalized_band_thickness": "Substantial vertical thickness relative to the visible dorsal plane, appearing uniform across the shoulders."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear bilateral separation between the two dark auricular regions across the top of the cranium.",
+    "apex_contour_smoothness": "Smooth, rounded semicircular profile at the superior edges of the pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

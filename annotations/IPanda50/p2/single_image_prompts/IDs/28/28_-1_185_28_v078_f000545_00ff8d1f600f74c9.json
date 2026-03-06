@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at approximately a 45-degree angle downward toward the rostrum.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval geometry with a length-to-width ratio of approximately 2:1.",
+    "inferior_centroid_shift": "There is a distinct tapering toward the lower anterior edge, shifting the visual weight toward the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band exhibits a broad, smooth U-shaped curvature across the upper dorsal region.",
+    "normalized_band_thickness": "The dark band is thick, encompassing approximately 40% of the visible dorsal-to-ventral torso profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide cranial gap of white fur, roughly equivalent to 1.5 times the horizontal width of the ear pinna.",
+    "apex_contour_smoothness": "The top boundaries of the pinnae are uniformly convex and rounded."
+  },
+  "acquired_anomalies_or_scars": "A distinct, sharp linear white/grey mark is visible on the lateral surface of the black fur on the lower hind limb.",
+  "other_distinctive_markers": "Extensive brownish-tan discoloration is present across the white fur of the posterior dorsal and lateral flank regions."
+}

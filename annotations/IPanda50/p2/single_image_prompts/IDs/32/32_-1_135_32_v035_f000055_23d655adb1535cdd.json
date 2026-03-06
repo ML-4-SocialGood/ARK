@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented diagonally, slanting downwards and outwards from the medial to the lateral margins.",
+    "aspect_ratio_factor": "Oval morphology with a vertical-to-horizontal aspect ratio greater than 1:1.",
+    "inferior_centroid_shift": "Pronounced downward expansion resulting in a teardrop-shaped profile where the mass is concentrated at the lower pole."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Posterior edge displays a broad, shallow U-shaped curvature across the dorsal midline.",
+    "normalized_band_thickness": "The dark band maintains a relatively uniform thickness, occupying approximately 25-30% of the visible dorsal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant lateral separation with a medial gap approximately equal to the width of a single pinna.",
+    "apex_contour_smoothness": "Highly smooth, convex semi-circular curvature at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

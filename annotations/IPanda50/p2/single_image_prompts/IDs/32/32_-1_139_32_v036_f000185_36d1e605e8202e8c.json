@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, smooth U-shape curvature on the posterior margin.",
+    "normalized_band_thickness": "High relative thickness at the lateral flanks, narrowing toward the central midline."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Defined gap visible between the two dark semicircular pinnae across the cranial vertex.",
+    "apex_contour_smoothness": "Smoothly rounded and convex apexes."
+  },
+  "acquired_anomalies_or_scars": "Prominent brownish-yellow discoloration and irregular fur texture/staining across the lower back and rump regions.",
+  "other_distinctive_markers": "The dorsal band features a deep, symmetrical V-shaped notch on its anterior (cranial) border, creating a bi-lobed or heart-shaped appearance from a posterior view."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, angled approximately 45 degrees downward from the medial to the lateral facial axis.",
+    "aspect_ratio_factor": "Oval geometry with a longitudinal axis significantly greater than the transverse width.",
+    "inferior_centroid_shift": "Visible downward tapering with the majority of the pigment mass concentrated below the geometric center of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve visible at the posterior margin of the transverse band.",
+    "normalized_band_thickness": "Estimated at 0.35 relative to the visible vertical height of the torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Visual gap approximately equal to twice the width of an individual ear region.",
+    "apex_contour_smoothness": "Rounded, smooth convex curvature along the superior margins of the pinnas."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees relative to the cranial-caudal facial axis.",
+    "aspect_ratio_factor": "High aspect ratio, distinctly oval.",
+    "inferior_centroid_shift": "Visible tapering at the ventral-most point of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Significant, occupying approximately 35% of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distinct gap between the pinnae, approximately 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Smoothly rounded convex apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is in a supine, curled posture with all four limbs oriented towards the ventral midline, creating a high-contrast circular profile."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 80 degrees relative to the horizontal facial axis, showing a vertical orientation with a slight posterior tilt.",
+    "aspect_ratio_factor": "Vertically elongated oval with an estimated height-to-width ratio of 1.5:1.",
+    "inferior_centroid_shift": "Visible downward taper, with the lower margin extending significantly further from the geometric center than the upper margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Smooth, shallow U-shaped curvature across the posterior margin of the dorsal band.",
+    "normalized_band_thickness": "The band is relatively wide, covering approximately 30-35% of the total visible torso profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distinct separation between the black pinnae, with an inter-ear gap roughly equal to 1.5 times the ear width.",
+    "apex_contour_smoothness": "Symmetrically rounded apex with no visible flattening or notched margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

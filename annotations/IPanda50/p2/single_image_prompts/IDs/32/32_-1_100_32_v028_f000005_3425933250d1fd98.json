@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 45 degrees downward and outward from the medial canthus region.",
+    "aspect_ratio_factor": "Elongated oval with a longitudinal axis significantly longer than the transverse width.",
+    "inferior_centroid_shift": "Pronounced inferior tapering, resulting in a teardrop morphology with the lowest point shifted below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep V-shaped indentation at the posterior midline, creating a bi-lobed or heart-shaped upper border.",
+    "normalized_band_thickness": "Thick band, occupying approximately 35-40% of the visible dorsal-to-caudal torso length at the lateral margins."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct white gap on the crown approximately equal to the horizontal width of a single pinna region.",
+    "apex_contour_smoothness": "Smoothly convex and rounded curvature at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The posterior margin of the black shoulder band features a sharp, symmetrical notch pointing towards the head."
+}

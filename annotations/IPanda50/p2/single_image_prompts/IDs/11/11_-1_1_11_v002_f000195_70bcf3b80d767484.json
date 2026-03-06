@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique inward-downward orientation approximately 45 degrees from the horizontal facial midline.",
+    "aspect_ratio_factor": "Oval-elliptical with an estimated 1.3:1 ratio along the dominant diagonal axis.",
+    "inferior_centroid_shift": "Moderate tapering at the medial-inferior margin creating a teardrop-like descent toward the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior edge with a relatively flat profile across the upper scapular region.",
+    "normalized_band_thickness": "High; the band occupies a significant vertical portion of the upper torso extending through the forelimb junction."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide horizontal gap approximately twice the width of an individual pinna.",
+    "apex_contour_smoothness": "Smooth, convex semicircular curvature at the superior boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

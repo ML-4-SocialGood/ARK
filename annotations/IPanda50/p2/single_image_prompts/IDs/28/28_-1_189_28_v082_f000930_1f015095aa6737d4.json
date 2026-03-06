@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the black eye patches are oriented diagonally, tapering medially toward the rostrum relative to the tilted facial midline.",
+    "aspect_ratio_factor": "The patches exhibit an elongated oval geometry with a high length-to-width ratio.",
+    "inferior_centroid_shift": "A distinct downward tapering is visible, with the lowest points of the patches extending significantly toward the snout from their geometric centers."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide spatial gap is clearly visible between the two dark semicircular pinnae, separated by the white cranial fur.",
+    "apex_contour_smoothness": "The superior boundaries of the ears exhibit a smooth, rounded convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

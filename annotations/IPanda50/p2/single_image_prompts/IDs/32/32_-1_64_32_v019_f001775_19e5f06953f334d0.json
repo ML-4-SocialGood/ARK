@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped profile with a smooth posterior edge curvature.",
+    "normalized_band_thickness": "Broad band spanning approximately 30-40% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Convex and rounded superior curvature on the visible right pinna."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Presence of a small, red, spherical object located on the ground surface immediately anterior to the subject's forelimbs."
+}

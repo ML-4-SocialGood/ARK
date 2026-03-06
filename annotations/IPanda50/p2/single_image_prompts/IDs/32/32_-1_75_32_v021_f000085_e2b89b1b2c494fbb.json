@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": "Oval",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape",
+    "normalized_band_thickness": "Approximately 40% of visible torso height"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear separation gap approximately 1.5 times the width of a single ear base",
+    "apex_contour_smoothness": "Rounded curvature"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant yellowish-brown discoloration/staining of the white fur on the hindquarters and lower back"
+}

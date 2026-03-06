@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shaped curvature on the posterior edge with a shallow, relatively flat profile across the spinal midline.",
+    "normalized_band_thickness": "Significant thickness estimated at approximately 30-35% of the visible torso length along the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible right pinna exhibits a smooth, rounded semicircular apex contour."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

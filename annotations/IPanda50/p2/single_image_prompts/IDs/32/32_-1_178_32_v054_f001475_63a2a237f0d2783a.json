@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal downward tilt of approximately 45 degrees relative to the horizontal facial axis, tapering toward the rostrum.",
+    "aspect_ratio_factor": "Pronounced oval morphology with a length-to-width ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "Clear downward elongation where the lowest point of the patch is significantly lower than the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior curve profile across the upper mantle.",
+    "normalized_band_thickness": "Approximately 35% of the visible dorsal-ventral height of the upper torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the medial bases of the ears is roughly 1.5 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "Smoothly rounded, semi-circular convex curvature at the top boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

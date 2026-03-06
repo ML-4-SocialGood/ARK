@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the high-contrast eye patch is oriented at a downward diagonal angle relative to the midline of the muzzle.",
+    "aspect_ratio_factor": "The eye patch presents as a vertically elongated oval, where the vertical height is noticeably greater than the horizontal width.",
+    "inferior_centroid_shift": "A distinct downward tapering is visible, creating a teardrop-shaped profile with the narrowest point oriented toward the lower cheek."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior margin of the dorsal band displays a smooth, broad U-shaped curve as it transitions to the white lumbar fur.",
+    "normalized_band_thickness": "The dark band is thick, encompassing the entire shoulder region and a significant portion of the upper thoracic area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The dark, semicircular ears are separated by a wide white gap across the dorsal surface of the cranium.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, rounded curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow V-shape where the posterior edge of the band tapers downward at the spinal midline.",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 30-35% of the visible upper torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant distance between pinnae, approximately three times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "The right pinna exhibits a smooth, rounded semi-circular apex; the left pinna appears slightly more flattened or angled due to the head orientation."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-yellow soil staining or fur discoloration localized on the lower lumbar and rump region."
+}

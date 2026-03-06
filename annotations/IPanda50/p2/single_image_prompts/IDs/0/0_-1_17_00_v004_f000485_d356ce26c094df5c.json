@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curvature at the posterior boundary where black pixels meet white dorsal pixels",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 30% of the visible longitudinal torso axis"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide horizontal gap visible between the posterior aspects of the dark ear regions",
+    "apex_contour_smoothness": "Rounded, smooth convex curvature on the upper-most visible boundaries of the ears"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive brownish-beige staining or pelage discoloration localized on the lower dorsal and rump regions"
+}

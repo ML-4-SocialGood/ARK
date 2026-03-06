@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation approximately 45 degrees relative to the horizontal facial axis, tapering towards the muzzle.",
+    "aspect_ratio_factor": "Oval-shaped blobs with a vertical-diagonal length greater than the horizontal width.",
+    "inferior_centroid_shift": "Pronounced downward tapering below the geometric center, creating a teardrop morphology."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve along the posterior edge with no sharp V-shaped indentation.",
+    "normalized_band_thickness": "Wide band occupying approximately one-third of the visible dorsal-to-caudal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide white inter-pinna gap roughly equal to the lateral width of one ear region.",
+    "apex_contour_smoothness": "Smooth, rounded semicircular curvature at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

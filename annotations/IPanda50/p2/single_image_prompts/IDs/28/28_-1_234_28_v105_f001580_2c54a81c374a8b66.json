@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, with the primary axis of the patch angled approximately 45 degrees downward toward the muzzle relative to the facial midline.",
+    "aspect_ratio_factor": "High aspect ratio, appearing as an elongated oval rather than a circular blob.",
+    "inferior_centroid_shift": "Pronounced downward tapering, with the patch extending significantly below the geometric center of the eye area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Broad, spanning approximately 45% of the visible torso length between the neck and mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smoothly rounded convex curvature at the ear apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

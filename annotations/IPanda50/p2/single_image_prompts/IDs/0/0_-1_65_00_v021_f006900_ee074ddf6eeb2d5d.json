@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique vertical orientation, roughly 70 degrees relative to the snout-cranial axis.",
+    "aspect_ratio_factor": "Elongated oval with a significantly higher vertical-to-horizontal ratio.",
+    "inferior_centroid_shift": "Visible tapering at the inferior boundary, narrowing towards the zygomatic region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curvature across the posterior boundary.",
+    "normalized_band_thickness": "High thickness, occupying approximately 35-40% of the visible upper torso segment."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance approximately equal to 1.2 times the width of a single pinna base.",
+    "apex_contour_smoothness": "Smooth, convex semicircular curvature at the dorsal apex."
+  },
+  "acquired_anomalies_or_scars": "Extensive reddish-brown discoloration and potential fur thinning across the lumbar and mid-dorsal white regions.",
+  "other_distinctive_markers": null
+}

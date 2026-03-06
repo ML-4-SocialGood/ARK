@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the eye patches is oblique, angled approximately 30 degrees toward the midline of the snout relative to the facial midline.",
+    "aspect_ratio_factor": "Distinctly oval; the longitudinal axis of the patch is approximately 1.6 times the length of the transverse axis.",
+    "inferior_centroid_shift": "Slight tapering is visible toward the inferior margin (near the muzzle), with a subtle increase in black pixel density at the superior-lateral quadrant."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "The posterior boundary of the transverse band exhibits a shallow U-shape curvature across the thoracic region.",
+    "normalized_band_thickness": "The dark band occupies approximately 35-40% of the visible dorsal-lateral torso area from the base of the neck to the mid-spine."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely spaced, separated by a distance approximately twice the horizontal width of a single pinna.",
+    "apex_contour_smoothness": "The visible ear displays a smooth, semi-circular curvature at the apex with no flattening or irregularities."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Clear visual exposure of the plantar and digital pads of the fore and hind paws due to the supine posture."
+}

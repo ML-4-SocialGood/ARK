@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right eye patch is oriented at an oblique downward angle of approximately 45 degrees relative to the horizontal facial midline.",
+    "aspect_ratio_factor": "The eye patch displays an oval morphology with an estimated width-to-height visual ratio of 1.6:1.",
+    "inferior_centroid_shift": "The patch exhibits a pronounced downward tapering toward the snout, with the terminal inferior point situated significantly ventral to the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark transverse band is thick, occupying approximately 40% of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The two dark pinna regions are separated by a wide gap approximately 1.5 times the width of a single pinna base.",
+    "apex_contour_smoothness": "The visible pinnae exhibit high curvature uniformity at the apex, presenting a smooth semi-circular profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

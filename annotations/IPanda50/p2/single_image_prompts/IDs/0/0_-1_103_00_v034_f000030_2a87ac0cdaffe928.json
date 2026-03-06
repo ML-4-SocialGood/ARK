@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, approximately 45-degree downward angle toward the snout relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval with a major axis roughly twice the length of the minor axis.",
+    "inferior_centroid_shift": "Pronounced tapering at the ventral-anterior margin, creating a teardrop-like extension below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped curvature along the posterior boundary of the transverse band.",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 35% of the visible dorsal-to-lumbar torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant gap across the cranial vault, approximately 1.5 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "Highly smooth, semicircular convex curvature at the top boundary of the ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

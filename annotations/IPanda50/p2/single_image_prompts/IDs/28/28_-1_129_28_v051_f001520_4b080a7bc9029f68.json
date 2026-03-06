@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis is vertically oriented with a slight outward tilt relative to the vertical midline of the face.",
+    "aspect_ratio_factor": "The eye patch blobs are elongated ovals, with a vertical height significantly greater than the horizontal width.",
+    "inferior_centroid_shift": "There is a pronounced downward tapering effect where the patch narrows toward its lowest point, well below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band is thick at the lateral flanks, covering approximately one-third of the visible torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide gap across the crown, roughly equivalent to the width of the forehead.",
+    "apex_contour_smoothness": "The top boundaries of the ears are smoothly rounded and semicircular."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A thin, vertical stalk is held near the muzzle; a white cross-shaped pattern is visible on the mid-ventral fur; there is significant brownish-yellow discoloration on the lower abdominal and leg fur."
+}

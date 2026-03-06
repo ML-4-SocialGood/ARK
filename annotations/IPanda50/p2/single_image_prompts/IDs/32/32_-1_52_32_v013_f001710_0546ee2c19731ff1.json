@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep V-shape pointing posteriorly towards the lower back at the midline",
+    "normalized_band_thickness": "Moderately thick, occupying approximately one-third of the visible upper dorsal region, with maximum thickness at the central vertex"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral gap between the ears, roughly equivalent to the width of the ear base",
+    "apex_contour_smoothness": "Rounded, semicircular top boundaries on both visible ears"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced yellowish-brown pelage staining across the lower dorsal and rump area"
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patches is oriented at approximately a 45-degree angle descending toward the rostrum relative to the head's midline.",
+    "aspect_ratio_factor": "Visible elongated oval morphology with an estimated 1.5:1 ratio of length to width.",
+    "inferior_centroid_shift": "A distinct tapering is visible at the lower extremity of the patch, indicating a centroid located in the upper two-thirds of the shape."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior margin of the transverse band exhibits a shallow U-shape curvature across the dorsal midline.",
+    "normalized_band_thickness": "The dark band occupies approximately 25-30% of the visible dorsal length from the base of the neck to the mid-torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide white cranial gap is visible between the ears, roughly equivalent to 2.5 times the horizontal width of a single ear region.",
+    "apex_contour_smoothness": "The top boundaries of the pinnae exhibit a smooth, rounded semicircular profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is partially occluded by multiple vertical gray metallic bars spaced at regular intervals across the foreground."
+}

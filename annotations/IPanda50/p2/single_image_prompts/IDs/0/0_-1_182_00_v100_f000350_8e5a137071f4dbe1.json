@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the eye patches is oriented at a downward diagonal angle toward the muzzle, approximately 30-45 degrees from the horizontal facial axis.",
+    "aspect_ratio_factor": "The patches exhibit an elongated oval shape with a vertical-to-horizontal ratio of approximately 1.4:1.",
+    "inferior_centroid_shift": "There is a pronounced downward tapering where the patch area extends significantly below the geometric center of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the transverse band displays a broad, shallow U-shape across the upper torso.",
+    "normalized_band_thickness": "The dark band is thick, occupying approximately 25-30% of the visible dorsal-ventral torso height at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide white cranial gap, estimated at 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "The tops of the ears exhibit a smooth, convex semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The fur on the posterior torso and hindquarters displays a distinct yellowish-brown chromatic shift compared to the bright white of the cranial region."
+}

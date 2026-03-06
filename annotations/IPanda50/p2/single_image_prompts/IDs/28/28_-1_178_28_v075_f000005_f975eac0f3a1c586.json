@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Near-vertical orientation, approximately 80 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Vertically elongated oval with a height-to-width ratio of approximately 1.8:1.",
+    "inferior_centroid_shift": "Noticeable downward tapering with the lowest point extending significantly below the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shape curvature at the posterior edge of the band.",
+    "normalized_band_thickness": "Significant thickness, covering approximately 40-45% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clearly defined gap between the two black ear regions across the cranial midline.",
+    "apex_contour_smoothness": "Smoothly rounded convex curvature at the superior edges of the pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The right hind paw is upturned, revealing distinct plantar and digital pad morphology."
+}

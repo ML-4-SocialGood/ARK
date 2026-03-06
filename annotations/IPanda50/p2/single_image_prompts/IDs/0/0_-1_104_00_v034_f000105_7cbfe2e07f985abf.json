@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 40-degree downward-lateral orientation relative to the sagittal plane of the head.",
+    "aspect_ratio_factor": "Elongated oval with high eccentricity.",
+    "inferior_centroid_shift": "Pronounced downward tapering towards the muzzle, creating a teardrop-shaped inferior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shape profile with a relatively flat posterior edge.",
+    "normalized_band_thickness": "High thickness, estimated at approximately 35% of the visible anterior-to-posterior torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Moderate gap, approximately 1.5 times the width of an individual pinna.",
+    "apex_contour_smoothness": "Smooth, semi-circular curvature with no visible flattening or notches."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant chromatic variance between the bright white fur on the neck/shoulders and the distinct yellowish/tan discoloration on the posterior hindquarters."
+}

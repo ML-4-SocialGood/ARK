@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 80 degrees relative to the facial midline of the tilted cranium",
+    "aspect_ratio_factor": "Elongated oval with a high vertical-to-horizontal ratio",
+    "inferior_centroid_shift": "Moderate downward tapering extending toward the lateral maxillary region"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation distance approximately twice the horizontal width of the ear itself",
+    "apex_contour_smoothness": "Smoothly rounded semicircular convex curvature"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Spatial overlap and physical proximity with a second, partially occluded individual in the lower frame"
+}

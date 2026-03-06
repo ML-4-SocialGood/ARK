@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation slanted approximately 45 degrees toward the rostrum.",
+    "aspect_ratio_factor": "Vertically elongated ovals; height exceeds width by a factor of approximately 1.5.",
+    "inferior_centroid_shift": "Geometric center is positioned in the upper half of the patch with a distinct narrowing toward the ventral-medial point."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary.",
+    "normalized_band_thickness": "Broad band width, spanning approximately 25-30% of the visible torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Inter-pinna distance is approximately 2.5x the width of a single ear unit.",
+    "apex_contour_smoothness": "Highly smooth, semicircular convex curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

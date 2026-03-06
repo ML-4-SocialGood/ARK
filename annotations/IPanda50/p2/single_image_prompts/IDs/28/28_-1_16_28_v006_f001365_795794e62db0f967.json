@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees relative to the vertical facial midline, converging downward toward the snout.",
+    "aspect_ratio_factor": "High vertical-to-horizontal ratio, appearing as elongated ovals.",
+    "inferior_centroid_shift": "Visible downward elongation extending toward the cheek area, significantly lower than the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Large band thickness, occupying approximately 40% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap, visually estimated as twice the width of a single pinna.",
+    "apex_contour_smoothness": "Smooth, rounded convex curvature along the superior boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree oblique orientation relative to the facial midline axis",
+    "aspect_ratio_factor": "Elongated ovaloid morphology with an estimated aspect ratio of 1:1.8",
+    "inferior_centroid_shift": "Pronounced tapering and elongation towards the inferior-anterior margin of the patch"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped posterior boundary",
+    "normalized_band_thickness": "Approximately 0.25 relative to the total visible longitudinal torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation distance approximately 1.5 times the horizontal width of a single pinna base",
+    "apex_contour_smoothness": "Smoothly rounded semicircular distal margins"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

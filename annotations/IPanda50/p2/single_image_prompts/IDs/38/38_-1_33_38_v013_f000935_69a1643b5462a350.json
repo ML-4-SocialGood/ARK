@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees relative to the sagittal plane of the skull.",
+    "aspect_ratio_factor": "Ovoid geometry with an estimated aspect ratio of 1.5:1.",
+    "inferior_centroid_shift": "Moderate tapering extending towards the rostral region from the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve at the posterior margin of the thoracic band.",
+    "normalized_band_thickness": "Broad band occupying approximately 40% of the visible dorsal-to-mid-torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant inter-pinna gap roughly 2.5 times the width of an individual ear.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular profile at the dorsal apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

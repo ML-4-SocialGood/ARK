@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees downward relative to the facial midline due to the downward tilt of the head",
+    "aspect_ratio_factor": "Oval, with the vertical axis significantly longer than the horizontal axis",
+    "inferior_centroid_shift": "Notable downward tapering at the inferior margin of the left eye patch"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped curve at the posterior margin across the spine",
+    "normalized_band_thickness": "High relative thickness, occupying approximately 40% of the visible dorsal-ventral torso span"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear gap between the dark pinna regions, roughly equal to the width of a single ear",
+    "apex_contour_smoothness": "Smoothly rounded apex contours on both visible ears"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

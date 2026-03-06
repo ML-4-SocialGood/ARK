@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation approximately 45 degrees relative to the facial midline, tapering towards the anterior snout region.",
+    "aspect_ratio_factor": "Elliptical/oval profile with a vertical height approximately 1.8 times the horizontal width.",
+    "inferior_centroid_shift": "Notable downward elongation where the lower boundary of the patch extends further from the eye center than the upper boundary."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "A flat U-shape profile with a relatively straight posterior edge across the spinal midline.",
+    "normalized_band_thickness": "Wide band occupying approximately 35% of the visible dorsal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible ear displays a smooth, continuous convex semicircular curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brownish-tan fur discoloration is present across the entire lower hindquarters and posterior flanks."
+}

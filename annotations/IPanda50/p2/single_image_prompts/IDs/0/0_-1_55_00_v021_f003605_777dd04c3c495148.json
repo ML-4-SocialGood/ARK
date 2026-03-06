@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are oriented at approximately a 45-degree angle relative to the sagittal plane of the face, sloping upwards towards the ears.",
+    "aspect_ratio_factor": "The eye patches exhibit an elongated oval morphology with a visual length-to-width ratio of approximately 1.8:1.",
+    "inferior_centroid_shift": "There is a distinct downward teardrop-style extension from the geometric center of the patches towards the lower cheek area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible superior pinna displays a smooth, semi-circular convex curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

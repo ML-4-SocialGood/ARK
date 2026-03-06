@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is tilted approximately 45 degrees downward toward the snout relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "Oval-shaped blobs with a vertical height greater than the horizontal width.",
+    "inferior_centroid_shift": "Significant downward tapering is visible, extending the dark pixels toward the lower muzzle area."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shape curvature at the posterior boundary where the black band meets the white dorsal fur.",
+    "normalized_band_thickness": "High thickness relative to the visible torso, covering the majority of the shoulder region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large gap between pinnae, which are positioned at the extreme lateral-superior edges of the head.",
+    "apex_contour_smoothness": "Smooth, rounded semicircular profiles at the top boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

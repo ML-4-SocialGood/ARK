@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonally oriented at approximately 45 degrees relative to the horizontal facial axis, converging towards the muzzle.",
+    "aspect_ratio_factor": "Elongated oval with an estimated 1.8:1 length-to-width ratio.",
+    "inferior_centroid_shift": "Pronounced downward tapering, with the inferior tip extending significantly below the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Thick transverse band covering the entire shoulder girdle and extending to the lateral limb junctions."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Gap between medial margins is approximately 1.5 to 2 times the width of a single pinna.",
+    "apex_contour_smoothness": "Smooth, rounded semicircular curvature at the dorsal apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Noticeable yellowish-brown chromatic shift in the fur across the abdominal region compared to the white cranial fur."
+}

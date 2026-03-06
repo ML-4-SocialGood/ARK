@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical-oblique orientation, approximately 55 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "High vertical-to-horizontal aspect ratio, forming an elongated oval.",
+    "inferior_centroid_shift": "Distinct downward tapering, resulting in a teardrop profile."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped curvature at the posterior boundary.",
+    "normalized_band_thickness": "Thick transverse band, extending through the shoulder region to the mid-torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Spatial gap approximately 1.5 times the transverse width of an individual pinna.",
+    "apex_contour_smoothness": "Smooth, continuous semicircular curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

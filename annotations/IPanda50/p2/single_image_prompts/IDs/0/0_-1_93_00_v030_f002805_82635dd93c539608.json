@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right eye patch exhibits a downward diagonal orientation from the ear toward the snout, approximately 45 degrees from the horizontal.",
+    "aspect_ratio_factor": "The visible eye patch is distinctly oval, with a vertical height significantly greater than its horizontal width.",
+    "inferior_centroid_shift": "The patch displays a pronounced downward teardrop taper, extending the dark region significantly below the eye's horizontal centerline."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band at the visible lateral flank is broad, spanning approximately one-third of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The visible right ear displays a smooth, semicircular convex apex without flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

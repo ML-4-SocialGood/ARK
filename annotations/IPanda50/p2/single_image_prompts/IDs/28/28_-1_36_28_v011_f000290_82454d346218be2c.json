@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are oriented obliquely at approximately 60-70 degrees relative to the horizontal facial axis, tapering toward the muzzle.",
+    "aspect_ratio_factor": "Vertically elongated oval patches with an estimated height-to-width ratio of approximately 1.8:1.",
+    "inferior_centroid_shift": "Significant downward tapering observed; the inferior portion of the patch extends further from the geometric center than the superior portion."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely spaced on the superior-lateral margins of the cranium, with a separation distance roughly double the width of a single pinna.",
+    "apex_contour_smoothness": "The ear apices exhibit a continuous, smooth semicircular curvature without flattened or irregular segments."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject's oral cavity is open, exposing the tongue and lower dentition while manipulating a bamboo culm."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Near-vertical orientation, approximately 80 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval shape with an estimated width-to-height ratio of 1:2.2.",
+    "inferior_centroid_shift": "Significant downward tapering where the bottom-most point is notably distant from the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape profile at the posterior edge of the dark transverse band.",
+    "normalized_band_thickness": "The dark band is thick, occupying approximately 40% of the visible vertical torso span."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smoothly rounded apex curvature visible on the primary ear."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

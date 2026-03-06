@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Slanted at approximately 60 degrees downward relative to the horizontal axis of the muzzle.",
+    "aspect_ratio_factor": "Elongated oval with a height-to-width ratio of approximately 2:1.",
+    "inferior_centroid_shift": "Significant downward tapering towards the inferior margin near the maxillary region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Smooth, wide U-shaped curvature on the posterior boundary.",
+    "normalized_band_thickness": "Thick, occupying roughly 40 percent of the visible dorsal-ventral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral placement with a gap approximately twice the width of a single pinna.",
+    "apex_contour_smoothness": "Generally rounded and semicircular with minor tufted irregularities at the dorsal-most points."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brownish-red pigmentation of the fur on the hind limbs and feet, contrasting with the deep black of the forelimbs."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the ovoid eye patches are oriented at approximately a 45-degree angle relative to the transverse facial axis.",
+    "aspect_ratio_factor": "The patches are distinctly ovoid with an estimated 1.5:1 length-to-width ratio.",
+    "inferior_centroid_shift": "The patches exhibit a noticeable taper towards the inferior-lateral margins, with the geometric center shifted superiorly toward the bridge of the nose."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The transverse dark band occupies approximately 30% of the visible longitudinal torso axis."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a lateral gap approximately 1.5 times the width of an individual pinna.",
+    "apex_contour_smoothness": "The superior boundaries of the ears display a smooth, semicircular curvature despite the presence of fur."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject is holding a metallic, reflective hemispherical vessel in close proximity to the oral and manual regions."
+}

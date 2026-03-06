@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible left eye patch is oriented obliquely, sloping downwards towards the rostrum relative to the cranial axis.",
+    "aspect_ratio_factor": "Ovoid shape; the vertical axis of the patch is significantly longer than its horizontal width.",
+    "inferior_centroid_shift": "The patch exhibits a distinct downward taper, with the dark fur extending significantly below the geometric center of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shape profile at the posterior margin where the black band meets the white lumbar fur.",
+    "normalized_band_thickness": "The band is thick, covering the entire scapular region and extending approximately one-third down the visible back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely set, separated by a broad convex span of white cranial fur.",
+    "apex_contour_smoothness": "The ear apices exhibit a smooth, semi-circular curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

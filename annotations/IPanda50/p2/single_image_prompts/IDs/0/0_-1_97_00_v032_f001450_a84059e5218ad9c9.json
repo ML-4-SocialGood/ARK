@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the dark eye patches are oriented vertically with a slight inward tilt at the superior margins, approximately 75 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patches exhibit a vertically elongated oval morphology with an estimated width-to-height ratio of 1:1.6.",
+    "inferior_centroid_shift": "There is a distinct downward tapering effect where the lower portion of the patch extends further from the geometric center than the upper portion, creating a teardrop profile."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The dark ear regions are separated by a broad cranial gap roughly equivalent to 1.5 times the horizontal width of an individual pinna.",
+    "apex_contour_smoothness": "The superior boundaries of the ears exhibit a consistent semicircular curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

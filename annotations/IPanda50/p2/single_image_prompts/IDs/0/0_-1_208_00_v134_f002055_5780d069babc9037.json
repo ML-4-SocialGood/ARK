@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis of visible eye patches is oriented approximately 60 degrees relative to the horizontal facial plane, tapering toward the snout.",
+    "aspect_ratio_factor": "Vertical oval morphology with an estimated height-to-width ratio of 1.5:1.",
+    "inferior_centroid_shift": "Significant downward elongation with the inferior margin extending notably further from the orbital center than the superior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Posterior edge exhibits a shallow, uniform U-shaped curvature across the spinal midline.",
+    "normalized_band_thickness": "The dark transverse band occupies approximately 30% of the visible longitudinal torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large gap between pinnae, approximately 1.5 times the width of an individual ear region.",
+    "apex_contour_smoothness": "Convex and smoothly rounded apex with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

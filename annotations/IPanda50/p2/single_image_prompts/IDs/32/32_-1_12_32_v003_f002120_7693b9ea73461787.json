@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, approximately 75 degrees relative to the horizontal facial axis, diverging laterally at the inferior poles.",
+    "aspect_ratio_factor": "Elongated vertical oval with an estimated aspect ratio of 1.6:1 height-to-width.",
+    "inferior_centroid_shift": "Distinct downward elongation present, with the lower half of the patch appearing more tapered than the rounded superior half."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep U-shape profile with a pronounced posterior extension along the spinal midline.",
+    "normalized_band_thickness": "The band is widest at the lateral shoulder junctions and narrows to approximately 70% of that thickness at the dorsal vertex."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The medial gap between the ears is approximately equal to 1.8 times the individual width of one pinna.",
+    "apex_contour_smoothness": "Irregular curvature with a flattened, sub-acute apex rather than a continuous semi-circle."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extreme lateral expansion of the fur in the genal/cheek region, creating an unusually wide, circular cranial silhouette."
+}

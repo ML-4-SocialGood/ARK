@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 40-degree downward tilt relative to the horizontal facial axis on the visible left patch.",
+    "aspect_ratio_factor": "Pronounced elongated oval with a high height-to-width ratio.",
+    "inferior_centroid_shift": "Distinct downward tapering with the lowest point of the patch shifted ventrally from the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Smooth, shallow U-shaped curvature on the posterior edge of the transverse band.",
+    "normalized_band_thickness": "Substantial band thickness, occupying approximately 25% of the visible dorsal-ventral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide inter-pinna gap, approximately twice the lateral width of a single ear.",
+    "apex_contour_smoothness": "Consistent convex curvature at the ear apex, presenting a perfectly rounded profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brownish-tan chromatic shift in the fur across the lumbar and posterior dorsal regions compared to the cranial region."
+}

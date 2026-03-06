@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, angled approximately 60 degrees downward relative to the horizontal plane of the snout.",
+    "aspect_ratio_factor": "Elongated oval, showing a distinct vertical elongation compared to width.",
+    "inferior_centroid_shift": "Notable downward tapering, where the lowest point of the patch extends significantly below the geometric center of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape along the posterior edge with no sharp V-shaped indentation visible at the spine.",
+    "normalized_band_thickness": "Substantial thickness, representing approximately 25% of the total visible torso length from this lateral perspective."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Broad lateral separation between the two distinct dark ear regions.",
+    "apex_contour_smoothness": "Consistent semi-circular smoothness with no visible flattening of the superior apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

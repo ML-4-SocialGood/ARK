@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at a downward oblique angle relative to the cranial midline.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval geometry with the horizontal dimension significantly exceeding the vertical dimension.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band at the shoulder region occupies approximately 25% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap of white pelage separates the two dark semicircular ear regions.",
+    "apex_contour_smoothness": "The superior boundaries of the ear regions exhibit a smooth, convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

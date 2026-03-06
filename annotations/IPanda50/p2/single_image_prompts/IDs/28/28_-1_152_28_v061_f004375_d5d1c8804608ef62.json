@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the black patches are oriented diagonally at approximately 45 degrees downward toward the snout.",
+    "aspect_ratio_factor": "Oval-elliptical geometry with a vertical-to-horizontal ratio of approximately 1.4:1.",
+    "inferior_centroid_shift": "Significant downward taper visible, with the bottom margin extending considerably below the horizontal center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary across the dorsal midline.",
+    "normalized_band_thickness": "The dark band is thick, occupying roughly 30% of the visible dorsal torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap is present between the dark ear regions, approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "Smoothly convex and rounded superior margins on both ears."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

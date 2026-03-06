@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees downward-inward relative to the horizontal facial midline.",
+    "aspect_ratio_factor": "Elongated oval with an estimated aspect ratio of 1.5:1 along the diagonal axis.",
+    "inferior_centroid_shift": "Pronounced tapering toward the snout, resulting in a teardrop profile where the lowest point is significantly medial to the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Relatively flat posterior edge with a very shallow U-shape profile across the spine.",
+    "normalized_band_thickness": "The band occupies approximately 25-30% of the visible dorsal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large gap, approximately twice the horizontal width of a single pinna.",
+    "apex_contour_smoothness": "Smoothly rounded hemispherical tops with no visible flattening or irregularities."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced yellowish-brown tinting of the white pelage on the torso compared to the brighter white of the facial region."
+}

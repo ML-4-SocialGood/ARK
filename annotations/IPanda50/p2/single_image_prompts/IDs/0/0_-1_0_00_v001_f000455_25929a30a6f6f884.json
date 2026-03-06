@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, approximately 45-60 degrees downward tilt toward the rostrum relative to the facial midline.",
+    "aspect_ratio_factor": "Elongated ovoid with a high height-to-width ratio.",
+    "inferior_centroid_shift": "Pronounced inferior tapering reaching toward the muzzle, creating a teardrop morphology."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape across the posterior margin with a relatively flat transverse profile.",
+    "normalized_band_thickness": "Moderately thick, covering roughly 30-35% of the visible dorsal-to-caudal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral placement with a distinct inter-pinna gap roughly 2.5 times the width of a single ear.",
+    "apex_contour_smoothness": "Symmetric, smooth convex curvature at the superior margin."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Diffuse brownish-orange discoloration/staining present on the white fur of the dorsal nuchal and posterior cranial regions."
+}

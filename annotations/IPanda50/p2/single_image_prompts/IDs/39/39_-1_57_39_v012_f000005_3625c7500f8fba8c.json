@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, tilted approximately 45 degrees downward and outward from the medial facial axis.",
+    "aspect_ratio_factor": "Distinctly oval blobs with a high aspect ratio along the dominant axis.",
+    "inferior_centroid_shift": "Pronounced downward tapering; the lowest point of the patch extends significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shape profile across the posterior edge of the dark band.",
+    "normalized_band_thickness": "High thickness, occupying nearly half of the visible vertical torso span at the lateral shoulder junction."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap, approximately equal to the horizontal width of the upper cranial vault.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular apex with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-beige chromatic shift in the fur on the lower ventral and hindlimb regions compared to the bright white cranial fur."
+}

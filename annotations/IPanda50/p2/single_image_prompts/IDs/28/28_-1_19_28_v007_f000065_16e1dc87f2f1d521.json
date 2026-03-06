@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented diagonally, approximately 45 degrees relative to the vertical axis of the head, tapering toward the snout.",
+    "aspect_ratio_factor": "The eye patch is an elongated oval with the longitudinal dimension significantly exceeding the transverse dimension.",
+    "inferior_centroid_shift": "There is a noticeable downward tapering, with the mass of the patch concentrated dorsally and thinning toward the ventral-rostral point."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "The posterior edge of the dark band forms a broad, shallow U-shape across the upper back.",
+    "normalized_band_thickness": "The dark band is thick, covering approximately one-third of the visible torso length from the neck to the mid-dorsal region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a distance roughly equivalent to the width of the individual pinna bases.",
+    "apex_contour_smoothness": "The visible upper ear displays a smooth, rounded semi-circular apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The white fur on the mid-to-lower dorsal region and hindquarters exhibits a distinct brownish-yellow chromatic shift compared to the brighter white fur on the head and neck."
+}

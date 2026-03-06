@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation, tilted approximately 45 degrees outward from the medial line relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elliptical/Oval shape with a length-to-width ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "Distinct downward tapering towards the muzzle, with the lower terminal point extending significantly below the horizontal midline of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Thick lateral bands at the shoulder junctions, occupying approximately 30% of the visible upper torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation across the cranial vault, with the distance between the ears exceeding the individual width of each pinna.",
+    "apex_contour_smoothness": "The visible left pinna exhibits a semi-circular curvature with a slightly flattened superior apex; the right pinna is partially occluded by the vertical log."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Exposed lower dentition (incisors) visible due to the slightly open mouth posture."
+}

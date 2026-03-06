@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible left eye patch is tilted approximately 70 degrees relative to the cranial-caudal midline, leaning towards the snout.",
+    "aspect_ratio_factor": "Vertical oval with an approximate 1.6:1 height-to-width ratio.",
+    "inferior_centroid_shift": "The patch exhibits a clear downward tapering effect, with the lower boundary narrower than the upper boundary, shifting the geometric centroid upwards."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band displays a shallow, broad U-shape with minimal curvature at the midline.",
+    "normalized_band_thickness": "The dark band occupies approximately 30% of the visible longitudinal torso length from the shoulder to the tail region."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely spaced, separated by a white fur gap approximately twice the width of a single ear base.",
+    "apex_contour_smoothness": "The superior boundaries of both pinnae exhibit smooth, convex, hemispherical curves."
+  },
+  "acquired_anomalies_or_scars": "Extensive brownish-tan environmental staining or mud accumulation is visible across the entire posterior pelvic region and upper hindlimbs.",
+  "other_distinctive_markers": null
+}

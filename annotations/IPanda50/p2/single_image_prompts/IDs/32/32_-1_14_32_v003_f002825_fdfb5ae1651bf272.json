@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation tilted approximately 45 degrees downward toward the snout relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval with a width significantly greater than the height.",
+    "inferior_centroid_shift": "Notable tapering extension at the lower-most point directed toward the nasal bridge."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped curve along the posterior edge of the transverse band.",
+    "normalized_band_thickness": "High thickness, occupying approximately one-third of the visible torso length along the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct white gap approximately equal to one ear-width separates the two dark semicircular regions.",
+    "apex_contour_smoothness": "Convex and smoothly rounded at the top boundary with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible yellow-tan hue on the posterior white fur patches compared to the brighter white fur on the cranial region."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Deep V-shape profile with a distinct posterior-pointing apex along the midline.",
+    "normalized_band_thickness": "Moderate thickness, occupying approximately 30% of the visible dorsal torso length, tapering slightly toward the spine."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between pinnae, approximately equivalent to 1.0x the width of a single ear region.",
+    "apex_contour_smoothness": "Highly rounded and convex apical curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Prominent brownish-yellow circular patch of fur discoloration located on the lower dorsal/lumbar region."
+}

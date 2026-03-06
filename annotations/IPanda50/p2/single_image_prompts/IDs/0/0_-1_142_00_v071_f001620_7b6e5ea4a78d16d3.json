@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical orientation relative to the tilted facial midline, approximately perpendicular to the trans-orbital axis.",
+    "aspect_ratio_factor": "Ovoid, with the vertical axis significantly longer than the horizontal width.",
+    "inferior_centroid_shift": "Distinct downward tapering towards the muzzle, creating a teardrop-shaped profile."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Moderately thick, extending across approximately one-third of the visible lateral torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation across the cranial crown.",
+    "apex_contour_smoothness": "Smooth, semi-circular curvature at the superior edges of the pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced lateral head tilt of approximately 45 degrees relative to the torso."
+}

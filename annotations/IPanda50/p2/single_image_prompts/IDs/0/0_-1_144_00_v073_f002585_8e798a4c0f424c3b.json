@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation tilted approximately 45 degrees downward toward the rostrum.",
+    "aspect_ratio_factor": "Ovoid teardrop shape with a height-to-width ratio of approximately 1.5:1.",
+    "inferior_centroid_shift": "Significant downward elongation with the lowest point shifting toward the outer-lower quadrant."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The lateral band at the left flank occupies roughly 35% of the visible torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "Convex and rounded with high smoothness on the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

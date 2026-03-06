@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation at approximately 45 degrees relative to the horizontal facial axis, converging toward the rostrum.",
+    "aspect_ratio_factor": "Ellipsoidal morphology; the vertical-oblique axis is approximately 1.8 times the horizontal width of the patch.",
+    "inferior_centroid_shift": "Pronounced ventral elongation creates a teardrop profile where the inferior margin extends significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band exhibits a shallow, wide U-shaped curve profile across the upper back.",
+    "normalized_band_thickness": "Broad transverse band occupying approximately 35% of the visible dorsal-ventral torso length at the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral displacement; the inter-aural gap is approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "High smoothness; the top boundaries of the pinnae exhibit continuous convex semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Localized brown-toned fur discolouration is visible in the lower ventral/inguinal region."
+}

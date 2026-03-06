@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": "Broad, shallow U-shape across the posterior edge of the interscapular band.",
+    "normalized_band_thickness": "High thickness, occupying approximately 35% of the visible dorsal torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The distance between the inner margins of the pinnae is approximately equal to the horizontal width of a single pinna.",
+    "apex_contour_smoothness": "Consistently smooth, semi-circular convex curvature at the top of the ear boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive brownish-yellow discoloration or staining of the fur in the ventral and lower dorsal regions."
+}

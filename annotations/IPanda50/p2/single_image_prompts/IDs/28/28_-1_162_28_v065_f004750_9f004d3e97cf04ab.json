@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented nearly vertically, approximately 80 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch is a vertically elongated oval with an estimated width-to-height ratio of 1:1.8.",
+    "inferior_centroid_shift": "The patch exhibits a distinct downward taper, extending further toward the lower jaw than toward the upper cranium."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band at the shoulder region occupies approximately 30% of the visible torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The horizontal gap between the inner ear boundaries is approximately 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "The superior margins of the ears are uniformly rounded and semicircular."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A pink tongue is protruding from the mouth."
+}

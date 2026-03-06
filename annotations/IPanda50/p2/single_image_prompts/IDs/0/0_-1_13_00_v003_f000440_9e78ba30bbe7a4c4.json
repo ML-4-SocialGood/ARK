@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Vertical orientation, approximately 85 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "High vertical ovality; the patch is significantly taller than it is wide.",
+    "inferior_centroid_shift": "The lower portion of the patch shows a distinct downward elongation/tapering below the ocular center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": "The posterior edge of the dark shoulder band displays a broad, flat U-shape curvature.",
+    "normalized_band_thickness": "The dark band occupies approximately 45% of the visible vertical torso depth at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Distance between ears is approximately 1.5 times the width of a single ear base from this perspective.",
+    "apex_contour_smoothness": "The top boundary of the foreground ear exhibits a smooth, rounded semi-circular contour."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced yellowish-brown staining visible on the white fur of the lower abdomen and hindquarters."
+}

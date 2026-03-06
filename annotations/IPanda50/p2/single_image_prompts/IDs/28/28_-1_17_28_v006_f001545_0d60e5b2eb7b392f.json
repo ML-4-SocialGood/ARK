@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Patches are oriented at a steep downward angle of approximately 45 degrees toward the central nasal bridge.",
+    "aspect_ratio_factor": "Patches present as elongated ovals with an estimated height-to-width ratio of 2:1.",
+    "inferior_centroid_shift": "There is a distinct downward elongation where the lowest point of the patch is significantly distal from the geometric center toward the lower muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are positioned laterally with a wide inter-pinna gap roughly 1.5 times the width of a single ear.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, continuous semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

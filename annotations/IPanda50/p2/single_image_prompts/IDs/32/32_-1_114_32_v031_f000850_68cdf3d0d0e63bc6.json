@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis of the visible left eye patch is oriented at approximately 75 degrees relative to the horizontal facial axis, tilting anteriorly.",
+    "aspect_ratio_factor": "Elongated oval shape with a width-to-height ratio of approximately 1:2.",
+    "inferior_centroid_shift": "Pronounced downward tapering towards the lower cheek area, where the lowest point is significantly distal to the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Posterior boundary of the band exhibits a broad, shallow U-shape profile across the dorsal midline.",
+    "normalized_band_thickness": "High relative thickness, occupying roughly 30% of the visible dorsal length from neck to rump."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The visual gap between the dark ear regions is approximately 1.5 times the width of the visible ear base.",
+    "apex_contour_smoothness": "Ear boundaries exhibit high smoothness with a perfectly rounded, hemispherical apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive yellowish-brown discoloration or environmental staining is present on the white fur of the posterior torso and rump."
+}

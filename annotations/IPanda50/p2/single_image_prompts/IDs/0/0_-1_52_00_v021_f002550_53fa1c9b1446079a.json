@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation tilted inward towards the muzzle relative to the transverse facial axis.",
+    "aspect_ratio_factor": "Oval morphology where vertical length exceeds horizontal width.",
+    "inferior_centroid_shift": "Visible downward tapering at the inferior margin of the eye patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad U-shaped curve at the posterior junction with the white dorsal fur.",
+    "normalized_band_thickness": "Moderate thickness relative to the longitudinal axis of the visible torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide inter-ear spacing approximately 1.5 times the width of a single pinna.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular apex profiles."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

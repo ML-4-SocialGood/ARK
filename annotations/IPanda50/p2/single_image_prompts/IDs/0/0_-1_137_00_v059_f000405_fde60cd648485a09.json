@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis of the eye patches is oriented at approximately a 45-degree angle downward toward the rostrum.",
+    "aspect_ratio_factor": "Ovoid morphology with a width-to-height aspect ratio approximately 1.7:1.",
+    "inferior_centroid_shift": "Distinct downward tapering observed, with the lowest point of the patch shifted ventrally from the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped curve profile along the posterior edge of the transverse band.",
+    "normalized_band_thickness": "The dark band occupies approximately 40% of the visible torso length from the shoulder to the lower back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-ear gap is approximately 1.8 times the horizontal width of a single ear base.",
+    "apex_contour_smoothness": "Smooth, rounded semicircular apex on both pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Subject is captured in an active mastication pose with an open mouth, exposing the tongue and mandibular dentition."
+}

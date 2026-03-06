@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible right eye patch is oriented at approximately a 35-degree downward angle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated oval shape with a width-to-height ratio of approximately 1.6:1.",
+    "inferior_centroid_shift": "The patch exhibits distinct tapering towards the anterior-inferior point, creating a teardrop effect."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the band shows a broad, shallow U-shaped curvature.",
+    "normalized_band_thickness": "The dark band is thick, occupying roughly 30% of the visible lateral torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A clear white fur gap exists between the ear bases, roughly equal to 1.5 times the width of an individual ear.",
+    "apex_contour_smoothness": "The top boundaries of the ears are smoothly rounded and semi-circular."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

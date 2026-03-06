@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation, tilted approximately 45 degrees relative to the facial midline due to head posture",
+    "aspect_ratio_factor": "Oval morphology with a significantly greater length than width",
+    "inferior_centroid_shift": "Moderate downward tapering visible towards the lower muzzle area"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, broad U-shaped posterior boundary",
+    "normalized_band_thickness": "Thick transverse band covering approximately one-third of the visible torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation distance between the two pinnae relative to total head width",
+    "apex_contour_smoothness": "Smooth, semi-circular curvature across the superior apex"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced yellowish-brown oxidation or staining present across the primary white pelage of the torso and head"
+}

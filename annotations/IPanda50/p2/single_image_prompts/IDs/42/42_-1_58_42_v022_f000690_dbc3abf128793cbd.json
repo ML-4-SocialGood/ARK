@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, flat U-shape with a gradual posterior transition into the white lumbar region.",
+    "normalized_band_thickness": "High; the dark band occupies approximately 50% of the visible lateral torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear separation with a wide, continuous bridge of white cranial fur between the two dark ear regions.",
+    "apex_contour_smoothness": "Smoothly rounded semicircular apex visible on both pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant brownish-yellow tinting/staining present across the white fur of the dorsal and neck regions."
+}

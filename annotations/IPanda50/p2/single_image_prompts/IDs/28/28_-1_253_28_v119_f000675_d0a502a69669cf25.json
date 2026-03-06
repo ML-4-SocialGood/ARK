@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": "The visible eye patch region displays an elongated oval morphology.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band follows a shallow, broad U-shaped curve.",
+    "normalized_band_thickness": "The dark band occupies approximately one-third of the visible longitudinal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct white cranial gap separates the two black semicircular ear regions.",
+    "apex_contour_smoothness": "The superior boundaries of the ears are distinctly rounded and convex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The specimen is carrying a prominent, saturated red spherical object in its mouth."
+}

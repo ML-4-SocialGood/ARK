@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped profile along the posterior boundary of the transverse band.",
+    "normalized_band_thickness": "Relatively high thickness, covering approximately 40% of the visible torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Broad separation between the two dark ear regions across the white cranial crown.",
+    "apex_contour_smoothness": "Smooth, rounded convex curvature at the top of the visible ear pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A large, distinct blue spherical object is being held against the subject's midsection."
+}

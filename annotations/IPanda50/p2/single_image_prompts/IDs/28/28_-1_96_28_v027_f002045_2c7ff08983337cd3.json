@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the patches is tilted approximately 20 degrees outward from the vertical facial midline.",
+    "aspect_ratio_factor": "Elongated oval; the vertical height is approximately 1.6 times the horizontal width of the patch.",
+    "inferior_centroid_shift": "Significant tapering at the inferior-medial edge, creating a teardrop-shaped descent from the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape; the posterior boundary of the black band across the shoulders displays a gentle, broad curve.",
+    "normalized_band_thickness": "The dark band occupies approximately 30% of the visible longitudinal torso profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-ear gap is wide, measuring approximately 1.5 times the diameter of a single ear region.",
+    "apex_contour_smoothness": "Semicircular and smooth; the top boundary of the ears follows a consistent, rounded arc."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the ovoid eye patches are oriented at approximately 45-degree angles toward the muzzle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patches exhibit an elongated oval shape with a vertical height exceeding the horizontal width.",
+    "inferior_centroid_shift": "The patches show a distinct downward taper with the inferior margin appearing narrower and more pointed than the rounded superior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The dark band across the lateral shoulders and upper torso occupies approximately 35% of the visible vertical torso span."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely set, with a gap approximately 1.5 times the width of an individual pinna.",
+    "apex_contour_smoothness": "The tops of the ears exhibit a smooth, high-curvature semicircular profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The abdominal fur shows significant matting and yellowish-brown discoloration in contrast to the high-contrast white cranial fur."
+}

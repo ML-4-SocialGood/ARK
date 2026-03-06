@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of the eye patches are tilted inward towards the muzzle; due to the lateral head tilt, the viewer-right patch is oriented at approximately a 60-degree angle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The patches exhibit an elongated oval geometry with an estimated aspect ratio of 1.7:1.",
+    "inferior_centroid_shift": "Significant downward tapering is observed; the lowest point of the black patch extends notably below the geometric center, particularly on the tilted side."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band displays a broad, shallow U-shaped curvature across the spine.",
+    "normalized_band_thickness": "The dark band occupies approximately 35% of the visible dorsal torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide white cranial expanse separates the ears, with a gap approximately 1.5 times the horizontal width of a single ear.",
+    "apex_contour_smoothness": "The ear boundaries exhibit a smooth, convex semi-circular curvature at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

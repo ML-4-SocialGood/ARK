@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique diagonal orientation tilted approximately 45 degrees relative to the snout-ear axis.",
+    "aspect_ratio_factor": "Elongated ovaloid with a visual length-to-width ratio of roughly 2:1.",
+    "inferior_centroid_shift": "Visible downward tapering that extends toward the cheek region below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Relatively flat U-shape with a nearly linear posterior boundary.",
+    "normalized_band_thickness": "Estimated at approximately 35% of the visible torso length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "Smoothly rounded convex curvature on the visible left ear."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

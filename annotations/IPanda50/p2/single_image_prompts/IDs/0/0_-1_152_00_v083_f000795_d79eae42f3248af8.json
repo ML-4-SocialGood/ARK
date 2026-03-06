@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis is oriented nearly vertically, approximately 85 degrees relative to the horizontal facial axis, with a slight lateral tilt at the superior margin.",
+    "aspect_ratio_factor": "The patches are vertically elongated ovals with a height-to-width ratio of approximately 1.8:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering is visible, with the distance from the geometric center to the inferior margin significantly exceeding the distance to the superior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dorsal band forms a shallow, broad U-shape curvature across the spine.",
+    "normalized_band_thickness": "The band height at the lateral flanks is estimated to be approximately 35% of the visible dorsal-ventral torso profile."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the pinnae is approximately 1.5 times the horizontal width of a single ear region.",
+    "apex_contour_smoothness": "The superior boundaries of the pinnae exhibit a smooth, continuous semicircular convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

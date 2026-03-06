@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique diagonal orientation at approximately 45 degrees, tapering inferiorly toward the muzzle",
+    "aspect_ratio_factor": "Elongated oval morphology with an estimated height-to-width ratio of 1.6:1",
+    "inferior_centroid_shift": "Moderate downward tapering at the inferior margin, resulting in a teardrop-like extension below the geometric center"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow, wide U-shaped curve profile across the posterior boundary of the shoulder band",
+    "normalized_band_thickness": "Significant thickness, occupying approximately 30% of the visible lateral torso height"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation, estimated at 1.5 times the horizontal width of a single pinna region",
+    "apex_contour_smoothness": "Uniformly rounded semicircular curvature along the superior boundaries"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

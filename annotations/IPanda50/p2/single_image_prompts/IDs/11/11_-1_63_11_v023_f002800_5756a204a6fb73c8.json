@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation slanted approximately 45 degrees toward the anterior muzzle.",
+    "aspect_ratio_factor": "Elongated elliptical shape with a length-to-width ratio of approximately 2:1.",
+    "inferior_centroid_shift": "The patch exhibits a narrow downward taper toward the lower edge, shifting the geometric center upward."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Uniformly curved U-shape at the posterior margin meeting the white dorsal fur.",
+    "normalized_band_thickness": "Broad transverse band spanning the shoulder girdle and extending down the lateral flanks."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance approximately equal to the horizontal width of the left ear region.",
+    "apex_contour_smoothness": "Smoothly rounded convex curvature at the superior margins."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

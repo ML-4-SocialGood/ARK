@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes of both patches are oriented obliquely at approximately a 45-degree angle downward toward the rostrum.",
+    "aspect_ratio_factor": "The patches exhibit an elongated oval morphology with a length-to-width ratio of approximately 1.8:1.",
+    "inferior_centroid_shift": "There is a distinct ventral elongation, where the dark pigmentation extends significantly further below the ocular center than above it."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark band presents a broad, shallow U-shaped curve across the dorsal midline.",
+    "normalized_band_thickness": "The dark band maintains a consistent thickness occupying approximately one-third of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are separated by a wide white cranial expanse approximately 1.5 times the horizontal width of an individual ear.",
+    "apex_contour_smoothness": "The superior margins of the ears exhibit a smooth, semi-circular curvature with no visible flattening at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced visibility of the right forelimb's digital pads and claws due to the flexed resting posture on the wooden substrate."
+}

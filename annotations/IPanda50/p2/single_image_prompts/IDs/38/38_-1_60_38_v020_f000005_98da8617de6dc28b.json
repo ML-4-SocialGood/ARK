@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees downward relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "Oval, appearing approximately 2:1 in length relative to width from the lateral view.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Smooth U-shaped curve along the posterior margin.",
+    "normalized_band_thickness": "Occupies approximately 35% of the visible upper torso segment."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separated by a distance roughly equal to 1.5 times the width of the visible ear base.",
+    "apex_contour_smoothness": "Rounded, exhibiting high convexity at the apex."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patches is oriented diagonally at approximately 45 to 60 degrees relative to the horizontal facial axis, sloping inward toward the rostrum.",
+    "aspect_ratio_factor": "Vertically elongated oval shape with an estimated width-to-height ratio of 0.7.",
+    "inferior_centroid_shift": "Pronounced downward tapering where the patch extends significantly further below the ocular center toward the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The gap between the dark pinna regions is approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The top boundaries are distinctly rounded and convex with visible fur tufting."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

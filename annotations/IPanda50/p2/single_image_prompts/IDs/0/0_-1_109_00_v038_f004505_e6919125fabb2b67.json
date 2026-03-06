@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward tilt relative to the horizontal facial axis towards the snout",
+    "aspect_ratio_factor": "Oval, with a vertical axis significantly longer than the horizontal width",
+    "inferior_centroid_shift": "Pronounced downward tapering where the lowest point extends significantly below the geometric center"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Broad, shallow U-shaped curve along the posterior boundary of the band",
+    "normalized_band_thickness": "High thickness, occupying approximately one-third of the visible torso length at the shoulder interface"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap between ears, roughly equivalent to 1.5 times the width of a single ear",
+    "apex_contour_smoothness": "Smooth, semicircular convex curvature at the top of the ear boundaries"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced yellowish-brown tint or staining on the fur of the hindquarters and posterior dorsal region compared to the white cranial fur"
+}

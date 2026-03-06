@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 80 degrees relative to the horizontal facial axis, displaying a near-vertical orientation with a slight forward tilt.",
+    "aspect_ratio_factor": "Elongated oval with a high vertical eccentricity; height is approximately 1.8 times the width.",
+    "inferior_centroid_shift": "Pronounced downward teardrop tapering with the inferior terminus extending significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap between the medial bases of the pinnae, roughly equal to 40% of the total head width.",
+    "apex_contour_smoothness": "Smoothly rounded, semi-circular convex top boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

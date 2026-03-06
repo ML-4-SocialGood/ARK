@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the eye patches is near-vertical, with a slight lateral outward tilt at the inferior edge relative to the vertical facial midline.",
+    "aspect_ratio_factor": "Elongated oval blobs with a high height-to-width ratio, significantly taller than they are wide.",
+    "inferior_centroid_shift": "The patches exhibit a rounded inferior tapering, with the visual center of mass located above the vertical midpoint of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dorsal band presents a shallow, wide U-shaped curvature across the spine.",
+    "normalized_band_thickness": "The band appears thick, occupying approximately one-third of the visible distance between the neck and the posterior torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Ears are set wide apart with a distinct white sagittal gap roughly twice the width of a single ear base.",
+    "apex_contour_smoothness": "The superior boundaries of the ears show a smooth, continuous semicircular curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

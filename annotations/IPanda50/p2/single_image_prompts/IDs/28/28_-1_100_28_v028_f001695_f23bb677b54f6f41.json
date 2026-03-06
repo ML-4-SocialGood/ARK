@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree inward and downward tilt toward the rostrum relative to the horizontal facial plane",
+    "aspect_ratio_factor": "Elongated ovoid morphology with a visible length-to-width ratio of approximately 1.8:1",
+    "inferior_centroid_shift": "Distinctive tapering at the inferior-medial margin toward the muzzle"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped posterior boundary with minimal indentation at the spinal midline",
+    "normalized_band_thickness": "Consistent thickness across the lateral flanks, occupying approximately 25-30% of the visible dorsal torso"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide cranial separation between the pinnae, estimated at twice the width of a single ear",
+    "apex_contour_smoothness": "Smoothly rounded semi-circular curvature at the superior margins"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

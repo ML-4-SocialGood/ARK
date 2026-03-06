@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique orientation at approximately 45 degrees relative to the facial midline, converging toward the anterior rostrum.",
+    "aspect_ratio_factor": "Elongated oval morphology with a visual length approximately twice the width in the current projection.",
+    "inferior_centroid_shift": "Pronounced tapering toward the snout with the geometric center shifted toward the posterior end of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curvature along the posterior edge of the dark transverse band.",
+    "normalized_band_thickness": "Relatively uniform thickness across the lateral flanks, accounting for approximately 25-30 percent of the visible dorsal torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant separation between the dark ear regions, roughly twice the horizontal width of a single pinna.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular convex curvature at the superior boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

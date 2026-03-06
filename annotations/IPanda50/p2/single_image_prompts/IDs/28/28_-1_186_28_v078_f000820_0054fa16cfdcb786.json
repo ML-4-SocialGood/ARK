@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape across the posterior edge of the thoracic band",
+    "normalized_band_thickness": "Relatively high thickness, spanning approximately one-third of the visible upper torso length"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide horizontal gap between dark pinnae regions relative to cranial width",
+    "apex_contour_smoothness": "Smooth, rounded semicircular contouring at the superior boundary"
+  },
+  "acquired_anomalies_or_scars": "Small clump of light-colored debris on the left dorsal-lateral region; soil and substrate staining visible on the posterior pelvic region and tail",
+  "other_distinctive_markers": "Pronounced prone 'sploot' posture with hind limbs extended laterally and symmetrically away from the sagittal plane"
+}

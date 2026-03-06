@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45 degrees downward toward the rostrum relative to the horizontal facial plane.",
+    "aspect_ratio_factor": "Elliptical, with an estimated width-to-height ratio of 1.5:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the inferior margin extending below the geometric center toward the maxillary region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": "Relatively flat U-shape across the visible posterior neck-shoulder transition.",
+    "normalized_band_thickness": "Broad, occupying approximately 40% of the visible vertical torso length from the shoulder line."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral spacing approximately twice the horizontal width of a single pinna.",
+    "apex_contour_smoothness": "Smoothly convex semicircular arcs at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-grey discoloration/staining of the fur on the ventral abdominal region."
+}

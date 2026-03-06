@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Oblique, angled approximately 45 degrees downward relative to the horizontal axis from the ear to the nose.",
+    "aspect_ratio_factor": "Elongated oval, with an estimated length-to-width ratio of 2.2:1.",
+    "inferior_centroid_shift": "Pronounced downward tapering toward the lower cheek, creating a teardrop-shaped lower margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, smooth U-shaped curve at the posterior margin where the black band meets the white dorsal fur.",
+    "normalized_band_thickness": "Significant, occupying approximately 40% of the visible torso height at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide gap across the cranial vertex, approximately 1.5 times the width of an individual pinna.",
+    "apex_contour_smoothness": "Smoothly rounded and convex at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

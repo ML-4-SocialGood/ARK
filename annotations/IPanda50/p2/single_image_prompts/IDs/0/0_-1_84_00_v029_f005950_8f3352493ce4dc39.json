@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward tilt relative to the horizontal facial axis towards the muzzle.",
+    "aspect_ratio_factor": "Elongated oval shape with the longitudinal axis significantly exceeding the transverse axis.",
+    "inferior_centroid_shift": "Notable downward tapering with the ventral-most point shifted inferiorly relative to the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Smooth, shallow U-shaped profile along the posterior boundary.",
+    "normalized_band_thickness": "Occupies approximately one-third of the visible torso height at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "High degree of curvature smoothness at the apex of the visible ear."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

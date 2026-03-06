@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the upper eye patch is oriented at approximately a 45-degree angle relative to the sagittal facial axis.",
+    "aspect_ratio_factor": "The eye patch exhibits an elongated oval geometry with a width-to-height ratio of approximately 1.5:1 along its dominant axis.",
+    "inferior_centroid_shift": "The patch displays a downward tapering effect towards the muzzle, with the lowest point extending significantly below the ocular center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": "1",
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-pinna gap is wide, roughly corresponding to the width of the cranial vault between the base of the ears.",
+    "apex_contour_smoothness": "The ear apices are smoothly rounded and semicircular in profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The subject's mouth is open, exposing the lower incisors and gingiva, and it is positioned in close proximity to a metallic feeding bowl."
+}

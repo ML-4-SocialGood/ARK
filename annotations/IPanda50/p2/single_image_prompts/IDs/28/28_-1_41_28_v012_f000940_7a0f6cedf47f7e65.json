@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patch is oriented at approximately a 45-degree downward angle relative to the snout-to-ear midline.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval shape with an approximate 1.6:1 length-to-width ratio.",
+    "inferior_centroid_shift": "A distinct tapering is visible at the ventral-most point of the patch, shifting the visual mass below its geometric center toward the snout."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior boundary of the dark transverse band follows a shallow U-shape curvature across the back.",
+    "normalized_band_thickness": "The black band occupies approximately 35% of the visible torso area from the nape to the mid-back."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide white fur gap is clearly visible across the cranial vault, separating the two black semicircular ear regions.",
+    "apex_contour_smoothness": "The visible top boundaries of the ears are highly curved and exhibit smooth, rounded profiles."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced brownish-pink staining/discoloration is visible on the fur of the lower ventral and abdominal regions."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 45-degree downward tilt toward the snout relative to the horizontal facial midline.",
+    "aspect_ratio_factor": "Oval, with the primary axis significantly longer than the secondary axis.",
+    "inferior_centroid_shift": "Noticeable downward tapering of the patch toward the muzzle."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Pronounced V-shape profile on the posterior edge pointing toward the tail.",
+    "normalized_band_thickness": "Thick transverse band, occupying approximately one-quarter of the visible dorsal torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Significant gap between the pinnae, exceeding the horizontal width of a single ear.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular convex curvature at the top boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A small, localized dark speck or piece of debris is visible on the white dorsal fur anterior to the black shoulder band."
+}

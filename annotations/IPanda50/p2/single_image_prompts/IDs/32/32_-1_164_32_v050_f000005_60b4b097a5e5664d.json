@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape with a subtle posterior extension along the spinal midline",
+    "normalized_band_thickness": "Significant thickness, covering approximately 45 percent of the visible upper torso segment"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A narrow gap is visible between the two distinct black fur regions of the ears",
+    "apex_contour_smoothness": "Smooth, rounded convex curvature on the uppermost visible ear"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Strong brownish-sepia fur pigmentation across the lower back and flank areas, deviating from standard white pixels"
+}

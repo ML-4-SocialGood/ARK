@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible eye patches is oriented vertically, approximately 80 to 90 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patches exhibit an ovoid aspect ratio, with the vertical dimension being significantly greater than the horizontal width.",
+    "inferior_centroid_shift": "The patches show a clear downward tapering, with the lowest point narrowing significantly relative to the wider upper portion."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": "The boundary of the dark band at the transition to the neck displays a wide, shallow U-shape curvature profile.",
+    "normalized_band_thickness": "The dark band across the shoulders appears thick and robust, covering nearly half of the visible upper torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The ears are widely spaced at the top corners of the head, separated by a broad white cranial region.",
+    "apex_contour_smoothness": "The ear contours are asymmetrical; the camera-left ear appears more pointed/triangular, while the camera-right ear is more rounded and semicircular."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The ventral and lateral fur on the torso displays a pronounced brownish-tan tint, contrasting with the brighter white fur of the head."
+}

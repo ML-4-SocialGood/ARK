@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Primary axis is oriented at an oblique angle, tilting approximately 45 degrees downward relative to the snout-ear horizontal axis.",
+    "aspect_ratio_factor": "Elongated oval with a visible width-to-height ratio approximately greater than 1.5:1.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "Substantial band width occupying approximately one-third of the visible neck-to-shoulder vertical segment."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Separation distance approximately equal to twice the width of the visible left ear region.",
+    "apex_contour_smoothness": "Convex semicircular curvature with smooth rounding at the superior boundary."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Downward oblique angle of approximately 45 degrees relative to the horizontal facial plane for the visible ocular patch.",
+    "aspect_ratio_factor": "Elongated ovaloid with the primary axis significantly longer than the secondary axis.",
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shaped profile along the posterior edge of the dark band.",
+    "normalized_band_thickness": "Substantial thickness occupying roughly 40-50 percent of the visible vertical torso profile from the lateral view."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct gap between the medial boundaries of the ears roughly equal to 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "Uniformly rounded semicircular apexes."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

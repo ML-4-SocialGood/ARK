@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dark band exhibits a relatively straight, wide U-shape profile with minimal curvature into the white dorsal region.",
+    "normalized_band_thickness": "The band occupies approximately 30% of the visible dorsal length between the neck and the mid-torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide, distinct gap of white fur exists between the two black ear regions, roughly equivalent to the width of a single ear base.",
+    "apex_contour_smoothness": "The superior boundaries of both ears display a smooth, semicircular convex curvature."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive tan and brown-toned staining is present across the white fur of the posterior and rump regions."
+}

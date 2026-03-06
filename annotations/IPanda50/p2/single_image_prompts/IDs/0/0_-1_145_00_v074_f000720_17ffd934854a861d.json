@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 80 degrees relative to the horizontal facial axis, exhibiting a nearly vertical orientation.",
+    "aspect_ratio_factor": "Pronounced vertical oval, with the height significantly exceeding the horizontal width.",
+    "inferior_centroid_shift": "The patch displays a downward tapering, with a rounded inferior margin that extends significantly below the geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "A shallow, wide U-shape is visible at the posterior boundary of the transverse dark band.",
+    "normalized_band_thickness": "The dark band occupies approximately 40% of the visible vertical height of the lateral torso."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A wide gap exists between the ears, roughly 1.5 times the width of a single ear's base.",
+    "apex_contour_smoothness": "The ear apices exhibit smooth, hemispherical curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": null,
+    "aspect_ratio_factor": null,
+    "inferior_centroid_shift": null
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shaped curve along the posterior boundary",
+    "normalized_band_thickness": "Approximately 35-40 percent of the visible torso length at the lateral flank"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Clear gap between the two black ear regions roughly equal to the width of one ear",
+    "apex_contour_smoothness": "Smooth, rounded semicircular curvature with no visible flattening"
+  },
+  "acquired_anomalies_or_scars": "Visible irregular patches of thinned or matted fur on the posterior-lateral haunch and rump",
+  "other_distinctive_markers": "Extensive yellowish-brown discoloration across the majority of the dorsal and ventral white fur regions"
+}

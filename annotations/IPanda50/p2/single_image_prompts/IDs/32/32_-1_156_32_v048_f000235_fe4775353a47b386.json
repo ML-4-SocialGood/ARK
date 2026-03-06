@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at a downward angle of approximately 45 degrees toward the rostrum.",
+    "aspect_ratio_factor": "The eye patch exhibits an elongated oval shape with an estimated width-to-height ratio of 2:1.",
+    "inferior_centroid_shift": "There is a noticeable downward taper toward the snout, with the geometric center positioned in the upper two-thirds of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the transverse band displays a broad U-shaped curvature across the spinal midline.",
+    "normalized_band_thickness": "The dark band is thick, covering roughly one-third of the visible torso area from the lateral perspective."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The inter-ear gap is approximately 1.5 times the width of the individual ear base.",
+    "apex_contour_smoothness": "The tops of the pinnae are smoothly rounded and semicircular in profile."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The mouth is partially open, exposing the lower dentition and tongue."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the visible right eye patch is oriented at approximately a 50-degree angle relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "The eye patch displays an elongated oval morphology with a height-to-width ratio of approximately 1.4:1.",
+    "inferior_centroid_shift": "There is a pronounced downward tapering effect, where the distance from the ocular center to the inferior margin is significantly greater than to the superior margin."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": "The transverse dark band occupies approximately 45% of the visible upper torso height at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The spatial gap between the inner edges of the dark ear regions is approximately 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "The superior boundaries of the ears exhibit a smooth, continuous semicircular curvature with no visible flattening."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

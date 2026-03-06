@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axis of the right eye patch is oriented nearly vertically with a slight anterior tilt of approximately 10-15 degrees toward the muzzle.",
+    "aspect_ratio_factor": "The eye patch is a distinct vertical oval with an estimated height-to-width ratio of 1.7:1.",
+    "inferior_centroid_shift": "Marked downward elongation is visible, with the patch tapering into a rounded point below the central horizontal axis of the eye."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "The posterior edge of the dorsal band exhibits a broad, shallow U-shape curvature across the upper back.",
+    "normalized_band_thickness": "The dark band is thick, encompassing approximately 30% of the visible lateral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": null,
+    "apex_contour_smoothness": "The apex of the visible right pinna is irregular and tufted, exhibiting a non-uniform curvature due to fur texture."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced reddish-brown earth-tone staining is visible across the ventral and abdominal fur regions."
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The primary axes are tilted diagonally outward from the top; the viewer-left patch is nearly vertical while the viewer-right patch is tilted at approximately 40 degrees.",
+    "aspect_ratio_factor": "Ovoid and vertically elongated, with a height approximately double the width.",
+    "inferior_centroid_shift": "The patches exhibit a pronounced downward taper, extending significantly below the geometric center of the eye region."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve across the posterior boundary of the transverse band.",
+    "normalized_band_thickness": "The dark band occupies approximately 35% of the visible dorsal-ventral torso height."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "The lateral gap between the dark pinna regions is approximately equal to 1.2 times the width of a single ear.",
+    "apex_contour_smoothness": "Smoothly rounded, semicircular apex contours."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pink oral tissue (tongue) visible between the mandibles."
+}

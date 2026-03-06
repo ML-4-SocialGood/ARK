@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "diagonal orientation, approximately 45 degrees downward relative to the horizontal facial axis",
+    "aspect_ratio_factor": "elongated oval with a length-to-width ratio of approximately 2:1",
+    "inferior_centroid_shift": "pronounced downward tapering extending towards the lower cheek area"
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "broad U-shaped posterior boundary",
+    "normalized_band_thickness": "thick band covering approximately one-third of the visible lateral torso height"
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "distinct gap of white cranial fur between the dark ear regions",
+    "apex_contour_smoothness": "convex and smoothly rounded curvature"
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

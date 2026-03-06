@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Teardrop-shaped patches oriented at approximately a 45-degree downward angle from the horizontal midline towards the lateral facial edges.",
+    "aspect_ratio_factor": "Elongated oval blobs with a visible height-to-width ratio of approximately 1.5:1 along the primary axis.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the lowest point of the patch shifted significantly below and lateral to its geometric center."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": null,
+    "vertex_curvature_index": null,
+    "normalized_band_thickness": null
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide lateral separation, with a gap approximately equal to twice the width of a single pinna region.",
+    "apex_contour_smoothness": "Smooth, semicircular convex curvature at the superior boundaries."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

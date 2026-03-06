@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "The visible left periocular patch is oriented nearly vertical, approximately 85 degrees relative to the horizontal facial axis.",
+    "aspect_ratio_factor": "Elongated vertical oval with height significantly exceeding width.",
+    "inferior_centroid_shift": "The patch shows a downward elongation, resulting in an inferiorly-shifted centroid relative to the vertical bounds."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Shallow U-shape curve along the posterior margin of the band.",
+    "normalized_band_thickness": "Band thickness is approximately 25% of the visible torso height at the lateral flank."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Wide separation across the top of the skull, exceeding the width of a single ear region.",
+    "apex_contour_smoothness": "Smoothly rounded semi-circular profiles at the superior margins of the pinnae."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Approximately 60 degrees relative to the horizontal facial axis, sloping downward toward the snout.",
+    "aspect_ratio_factor": "Elongated oval with a high vertical-to-horizontal ratio.",
+    "inferior_centroid_shift": "Pronounced downward tapering with the lowest point extending significantly below the geometric center of the patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Flat U-shape profile along the posterior edge of the band.",
+    "normalized_band_thickness": "Broad band occupying approximately one-third of the visible dorsal-ventral torso area."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "A distinct white fur gap is visible between the two dark semicircular ear regions.",
+    "apex_contour_smoothness": "Smoothly rounded convex curvature at the top of the visible pinna."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

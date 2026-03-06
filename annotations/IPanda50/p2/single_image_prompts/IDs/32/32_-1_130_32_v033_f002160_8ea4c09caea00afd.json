@@ -1,0 +1,18 @@
+{
+  "periocular_spatial_geometry": {
+    "dominant_axis_orientation": "Diagonal orientation slanting approximately 45 degrees downward toward the center of the muzzle.",
+    "aspect_ratio_factor": "Teardrop-shaped oval with a significantly greater vertical-to-horizontal length ratio.",
+    "inferior_centroid_shift": "Pronounced downward elongation with the lowest point extending well below the geometric center of the eye patch."
+  },
+  "dorsal_band_topology": {
+    "midline_continuity_metric": 1,
+    "vertex_curvature_index": "Wide, shallow U-shape across the posterior margin with minimal vertex depth.",
+    "normalized_band_thickness": "Consistent high-density thickness spanning approximately one-third of the visible dorsal length."
+  },
+  "cranial_pinna_bounding_metrics": {
+    "inter_bounding_box_euclidean_distance": "Large inter-ear gap roughly equivalent to 1.5 times the width of a single ear base.",
+    "apex_contour_smoothness": "Convex and rounded apex on the right pinna; left pinna displays a slightly more flattened dorsal curve."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}
