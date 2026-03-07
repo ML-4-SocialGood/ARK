@@ -1,0 +1,14 @@
+{
+  "lateral_flank_blob_constellation": {
+    "centroid_triangulation": "High-intensity circular blobs arranged in a series of roughly vertical columns starting posterior to the gill slits and extending toward the posterior flank, forming a semi-regular 2D grid.",
+    "stripe_intersections": "Faint vertical bands of elevated pixel intensity intersect with horizontal rows of white blobs, creating a grid-like pattern of anchor nodes across the central flank."
+  },
+  "carinae_gradient_vectors": {
+    "ridge_trajectory": "A prominent linear feature runs horizontally along the upper flank, characterized by a sharp luminance gradient with higher pixel values on the dorsal side and a defined shadow area immediately ventral."
+  },
+  "dorsal_fin_surface_patterning": {
+    "internal_spot_density": "Low-density distribution of high-luminance circular spots bounded within the visible silhouette of the dorsal fin on the upper-left margin."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The pectoral fin displays a high-density clustering of significantly smaller, stochastic high-luminance spots compared to the larger, ordered blobs on the main flank."
+}

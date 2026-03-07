@@ -1,0 +1,14 @@
+{
+  "lateral_flank_blob_constellation": {
+    "centroid_triangulation": "An array of high-luminance circular pixel clusters arranged in approximately six vertical columns and three horizontal rows, located posterior to the pectoral fin insertion point.",
+    "stripe_intersections": "Vertical bands of higher pixel intensity align with the centers of the high-luminance blobs, forming a discernible rectilinear grid pattern across the mid-flank."
+  },
+  "carinae_gradient_vectors": {
+    "ridge_trajectory": "A single linear feature running horizontally along the superior lateral flank, exhibiting a sharp luminance transition from high (dorsal) to low (ventral)."
+  },
+  "dorsal_fin_surface_patterning": {
+    "internal_spot_density": "Discrete clusters of high-intensity pixels distributed across the first dorsal fin macro-mask, primarily visible on the lower and middle segments."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The pectoral fin displays a dense cluster of small high-luminance spots that are significantly smaller in diameter than the primary blobs observed on the lateral flank."
+}

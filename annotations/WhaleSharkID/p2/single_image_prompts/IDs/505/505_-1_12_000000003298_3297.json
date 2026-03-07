@@ -1,0 +1,14 @@
+{
+  "lateral_flank_blob_constellation": {
+    "centroid_triangulation": "Visible high-luminance local maxima arranged in roughly vertical columns across the lateral mid-section. The spots exhibit a higher pixel intensity (approaching 255 in the R/G/B channels) relative to the surrounding grey dermis, with larger spots located in the ventral-lateral region transitioning to smaller, more densely packed spots dorsally.",
+    "stripe_intersections": "Faint vertical bands of elevated luminance intersect with the horizontal rows of spots, forming a semi-regular grid. These vertical features are most prominent between the dorsal fin base and the pectoral fin insertion point."
+  },
+  "carinae_gradient_vectors": {
+    "ridge_trajectory": "Three prominent horizontal linear features are visible along the upper flank. These are characterized by a sharp luminance gradient: a high-intensity specular highlight on the upper edge and a lower-intensity shadow region directly below, indicating physical protrusion from the body wall."
+  },
+  "dorsal_fin_surface_patterning": {
+    "internal_spot_density": "The macro-mask of the first dorsal fin contains approximately 8-12 visible high-luminance blobs. The distribution is non-uniform, with higher density observed toward the anterior margin and lower density toward the posterior trailing edge."
+  },
+  "acquired_anomalies_or_scars": "A distinct irregular concave notch is visible on the posterior trailing edge of the left pectoral fin, indicating potential tissue loss or physical trauma.",
+  "other_distinctive_markers": null
+}

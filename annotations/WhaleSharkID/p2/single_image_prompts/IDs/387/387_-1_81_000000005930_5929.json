@@ -1,0 +1,14 @@
+{
+  "lateral_flank_blob_constellation": {
+    "centroid_triangulation": "Multiple horizontal rows of high-luminance, roughly circular clusters arranged in a semi-regular grid across the mid-lateral flank, extending from the posterior gill region toward the caudal peduncle.",
+    "stripe_intersections": "Vertical bands of elevated pixel intensity intersect with horizontal rows of high-luminance blobs, forming grid-like anchor nodes where blobs are centered within the vertical bands."
+  },
+  "carinae_gradient_vectors": {
+    "ridge_trajectory": "Three prominent longitudinal ridges visible on the upper third of the flank, defined by a sharp light-above-shadow-below pixel intensity gradient."
+  },
+  "dorsal_fin_surface_patterning": {
+    "internal_spot_density": "A sparse distribution of small, high-luminance blobs visible within the macro-mask of the first dorsal fin, primarily along the leading edge and lower half of the fin silhouette."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A dense concentration of significantly smaller high-luminance points located on the dorsal-lateral surface of the head, anterior to the first vertical stripe."
+}

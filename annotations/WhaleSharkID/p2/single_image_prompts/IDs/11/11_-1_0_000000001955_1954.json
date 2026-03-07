@@ -1,0 +1,14 @@
+{
+  "lateral_flank_blob_constellation": {
+    "centroid_triangulation": "Arrangement of high-intensity circular pixel clusters in vertical columns. Two distinct columns of four roughly equidistant blobs are visible in the mid-flank, with cluster density increasing and size decreasing toward the anterior region.",
+    "stripe_intersections": "Visible vertical bands of elevated pixel intensity intersect the columns of blobs, creating a rectilinear grid-like appearance across the lateral surface."
+  },
+  "carinae_gradient_vectors": {
+    "ridge_trajectory": "A prominent horizontal linear feature is visible along the upper third of the flank, defined by a sharp vertical intensity gradient transition from light pixels above to shadowed pixels below."
+  },
+  "dorsal_fin_surface_patterning": {
+    "internal_spot_density": "A sparse distribution of small, high-luminance blobs is visible within the macro-mask of the first dorsal fin, though individual boundaries are softened by pixel diffusion."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Two distinct, elongated silhouettes of lower pixel intensity are visible beneath the ventral region of the subject."
+}
