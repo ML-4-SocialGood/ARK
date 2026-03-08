@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low ratio (~0.05:1); the visible ventral area is primarily comprised of low-intensity black pixels with minimal high-intensity white point-source clusters.",
+    "spatial_color_mapping": "Dominant contiguous dark field across both lobes; high-contrast white pixels are localized as non-contiguous, sub-circular blobs (diameter <10 pixels) scattered throughout the 2D surface area."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated interior angle of approximately 75 degrees; notch depth occupies roughly 15% of the total vertical bounding height of the fluke.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (2-6 pixel variation) present along the entire trailing edge; edge topography becomes increasingly irregular and jagged towards the distal tips.",
+    "lobe_sweep_trajectory": "Convex curves originating at the median notch and sweeping upward/outward; the trajectory straightens toward the distal tips which terminate in acute points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple high-contrast white circular spots distributed across the dark ventral plane, consistent with rosette-style scarring patterns.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Asymmetrical edge irregularity and micro-indentations visible at the far distal tips of both lobes.",
+  "other_distinctive_markers": null
+}

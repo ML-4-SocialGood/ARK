@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixels across the central and lower surface, with high-intensity (white/light gray) pixels localized to the leading edges and distal tips; approximate ratio of 15% high-intensity to 85% low-intensity.",
+    "spatial_color_mapping": "Contiguous high-intensity bands along the distal trailing edges, widening significantly at the tips. Sparse, discrete high-intensity circular blobs are located in the lower-mid quadrants of both lobes, surrounded by a continuous low-intensity black field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated internal angle of approximately 82 degrees; vertical depth is approximately 15% of the total fluke height.",
+    "edge_topography_serration_map": "Asymmetrical serration profile. Left lobe trailing edge exhibits three primary macro-indentations (peaks and valleys) with pixel amplitudes exceeding 20 pixels. Right lobe trailing edge exhibits higher frequency, lower amplitude saw-tooth serrations (pixel amplitudes 5-10 pixels).",
+    "lobe_sweep_trajectory": "Outer margins exhibit a convex sweep trajectory from the insertion point toward the distal tips, while the trailing edge follows a complex concave curve toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of at least four circular high-contrast pixel clusters on the left lobe (coordinates: lower-center) and a diffused cluster of high-intensity speckles on the lower-right lobe margin.",
+    "linear_abrasions": "Two distinct vertical high-intensity linear disruptions detected on the lower-mid section of the left lobe, and one vertical linear mark on the right lobe proximal to the median notch."
+  },
+  "acquired_anomalies_or_scars": "A prominent irregular indentation/notch on the trailing edge of the left lobe, approximately midway between the median notch and the lateral tip. Small high-intensity clusters (likely barnacles) are visible at the extreme lateral margins of both tips.",
+  "other_distinctive_markers": "Presence of a concentrated field of high-intensity white speckling on the ventral surface of the far right lobe, isolated from the primary leading-edge pigmentation."
+}

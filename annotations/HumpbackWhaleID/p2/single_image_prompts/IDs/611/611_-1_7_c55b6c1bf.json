@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast ratio; approximately 85% low-intensity (black) pixels concentrated in the central and lower regions, with 15% high-intensity (white/light gray) pixels localized at the lateral lobe tips.",
+    "spatial_color_mapping": "Solid black pigmentation across the central peduncle and interior lobe surfaces. High-contrast white mottling with embedded dark circular points is located at the distal ends of both the left and right lobes (approx. 0-15% and 85-100% of the horizontal span)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an estimated internal angle of 75 degrees; narrow vertex width relative to total fluke span.",
+    "edge_topography_serration_map": "Irregular serration pattern along the entire trailing edge; frequency increases towards the distal tips. Right lobe exhibits higher-amplitude, more jagged peaks (approx. 5-10 pixels in height) compared to the left lobe.",
+    "lobe_sweep_trajectory": "Symmetrical upward sweep from the notch; trailing edge displays a sigmoid-like curve (initially concave near the notch, transitioning to convex toward the tips)."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Prominent circular high-contrast clusters (dark rings on white background) on the distal tips of both lobes; left tip contains approx. 6-8 distinct rosettes; right tip contains approx. 5-7 distinct rosettes.",
+    "linear_abrasions": "One clear, thin, diagonal linear pixel disruption (light gray) located on the right lobe, extending from the mid-lobe toward the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Irregular, jagged indentation/loss of material at the extreme distal point of the right lobe trailing edge. Multiple circular depigmented scars (barnacle attachment sites) on both lobe tips.",
+  "other_distinctive_markers": "Highly localized concentration of white pigmentation and circular scarring at the outer tips, contrasting sharply with the uniform black of the rest of the visible fluke surface."
+}

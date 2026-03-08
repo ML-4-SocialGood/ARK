@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low macro-level ratio of high-intensity white pixels (~10%) to low-intensity black pixels (~90%) across the visible ventral surface.",
+    "spatial_color_mapping": "Contiguous high-contrast white annular blobs (rosettes) distributed across the predominantly black fluke surface, with higher spatial density observed on the right lobe and distal edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a calculated pixel angle of approximately 75 degrees and significant bounding-box depth.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the continuous trailing edge boundary, featuring sharp pixel-amplitude peaks and irregular valleys isolated from the water background.",
+    "lobe_sweep_trajectory": "Symmetric convex curves fitted to the trailing edges of both lobes extending from the median notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Extensive spatial detection of circular high-contrast white pixel clusters (rosette-shaped scars) distributed across the entire ventral fluke surface.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Heavy colonization of acorn barnacles (coronulids) forming high-relief, high-contrast clusters at the distal tips and along the lateral edges of the fluke lobes.",
+  "other_distinctive_markers": "Combination of extreme peripheral serration and dense rosette scarring across a near-total black base pigmentation."
+}

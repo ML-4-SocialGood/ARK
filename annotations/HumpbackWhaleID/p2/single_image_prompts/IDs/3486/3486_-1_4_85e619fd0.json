@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 5.5:1 ratio of low-intensity (black/dark-gray) pixels to high-intensity (white) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Left lobe tip displays high-intensity cluster (x:0-60); four distinct vertical white striations at x:120-220. Right lobe displays complex geometric high-intensity network including chevron-like patterns and a dense patch at the distal tip (x:780-980)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated internal angle of approximately 54 degrees relative to the lobe peaks.",
+    "edge_topography_serration_map": "High-frequency serration across 100% of the trailing edge; pixel amplitude of valleys ranges from 8 to 18 pixels relative to local peaks.",
+    "lobe_sweep_trajectory": "Continuous concave curve fitted to the trailing edge trailing from distal tips to the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast circular pixel clusters (potential barnacle scars) detected at the far-left distal tip (x:15, y:120) and scattered within the right lobe's white patterns.",
+    "linear_abrasions": "Numerous parallel linear pixel disruptions (rake marks); vertical orientation on the left lobe (x:130-210) and diagonal/chevron orientation on the right lobe (x:790-940)."
+  },
+  "acquired_anomalies_or_scars": "Extensive linear rake marks across both lobes; significant irregular chipping and jagged erosion across the entire trailing edge boundary.",
+  "other_distinctive_markers": "Highly unique chevron-shaped (zig-zag) high-intensity pigmentation pattern located on the interior portion of the right lobe."
+}

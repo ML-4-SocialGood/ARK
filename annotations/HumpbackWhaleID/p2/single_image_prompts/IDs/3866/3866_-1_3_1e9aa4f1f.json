@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The visible fluke surface is characterized by a dominant low-intensity (black/dark grey) base with localized, high-intensity (white/yellowish) points, creating a high-contrast ratio between the macro-surface and discrete focal anomalies.",
+    "spatial_color_mapping": "Uniformly dark pigment across both lobes. High-contrast yellowish-white circular spots are non-uniformly distributed, with a higher concentration observed on the lower half of the right lobe. Brownish-white textured clusters are localized at the distal tips of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible central V-shaped notch with an acute angle and moderate depth, dividing the symmetrical lobes.",
+    "edge_topography_serration_map": "The trailing edge exhibits high-frequency, irregular serrations with low pixel-amplitude peaks and valleys, transitioning into smoother curves toward the central notch and more jagged, irregular profiles near the tips.",
+    "lobe_sweep_trajectory": "The outer edges exhibit a convex sweep tapering sharply toward the distal tips, while the trailing edges follow a generally concave path toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple discrete, roughly circular high-contrast pixel clusters (approximately 25-30 total) are distributed across the visible surface, corresponding to barnacle attachment points or associated scarring.",
+    "linear_abrasions": "A single distinct diagonal linear mark (~40-50 pixels) of high intensity is visible on the inner portion of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular biological encrustations (likely barnacle colonies) are present on the extreme distal tips of both the left and right lobes, obscuring the natural geometric margin.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:20 ratio of high-intensity (white) pixels to low-intensity (black) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Dominant contiguous black region covering >90% of the fluke area. Discrete high-contrast white focal spots (<15 pixels) are distributed primarily along the sub-marginal zones of the trailing edge and medial lobe surfaces."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central notch with an approximate interior angle of 115 degrees and a bounding-box depth relative to the lobe peaks of approximately 15% of total vertical fluke visibility.",
+    "edge_topography_serration_map": "High-frequency, irregular saw-tooth serrations across the entire visible boundary. Macro-notches are interspersed with micro-serrations, showing pixel-amplitudes of 5 to 30 pixels from the baseline edge curve.",
+    "lobe_sweep_trajectory": "Asymmetrical convex curve; both lobes exhibit a tapering upward and outward sweep from the median notch toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatially clustered circular white pixel groups (3-10 pixel diameter) concentrated on the medial-posterior region of the right lobe and the upper-mid section of the left lobe.",
+    "linear_abrasions": "Multiple parallel white linear marks (rake patterns) detected on the superior margin of the right lobe; individual diagonal linear disruptions visible on the upper quadrant of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "A dense, high-contrast, multi-layered cluster of brownish-white pixels (sessile barnacle colonization) is attached to the extreme lateral tip of the left lobe.",
+  "other_distinctive_markers": "Biological encrustation on the distal left margin creates a unique non-linear geometric protrusion that deviates from the smooth natural curve of the lobe tip."
+}

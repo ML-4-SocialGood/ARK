@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 40:60 ratio of high-intensity (white) pixels concentrated in distal regions to low-intensity (black) pixels dominant in the central and proximal regions.",
+    "spatial_color_mapping": "Two large, high-intensity white geometric regions are mapped to the distal ends of both lobes. These regions are segmented by numerous low-intensity linear streaks. The central region of the fluke is a solid, low-intensity black contiguous block extending from the median notch to the peduncle interface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A shallow V-shaped depression with a wide interior angle (approximately 140 degrees) and minimal bounding-box depth.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations are present along the entire trailing edge boundary. Significant jagged irregularities with higher pixel-amplitude are visible at the distal tips of both the left and right lobes.",
+    "lobe_sweep_trajectory": "The trailing edge exhibits a consistent concave curvature from the distal tips toward the median notch, while the outer margins show a sharp convex curve meeting at the terminal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct, high-contrast circular pixel clusters (white) are detected at the extreme distal tips and along the terminal margins of both fluke lobes.",
+    "linear_abrasions": "Extensive network of non-aligned, high-contrast linear pixel disruptions (rake marks) are visible across the central black region of the right lobe and crossing the white pigmentation of the left lobe distal region."
+  },
+  "acquired_anomalies_or_scars": "Extensive parallel rake mark scarring across the ventral surface of both lobes; localized parasitic or barnacle colonization at the fluke tips.",
+  "other_distinctive_markers": null
+}

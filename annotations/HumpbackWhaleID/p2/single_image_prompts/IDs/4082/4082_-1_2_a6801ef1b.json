@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 55% high-intensity (white/light grey) to 45% low-intensity (black/dark grey) distribution across the visible fluke surface.",
+    "spatial_color_mapping": "Dominant high-intensity central regions on both lobes; dense low-intensity stippling and mottling radiating from the leading edge and median notch. Low-intensity pixels form a solid perimeter along the outer lateral and trailing margins."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "U-shaped depression with a calculated angle of approximately 110 degrees and a depth ratio of roughly 12% relative to total fluke height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (3-10 pixel depth variations) along the continuous linear boundary of both trailing lobes, creating a jagged profile against the background.",
+    "lobe_sweep_trajectory": "Concave curve fitted to the trailing edge from the median notch to the tips; convex curve fitted to the leading edge profile."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast multi-tonal (white, beige, and dark brown) jagged pixel clusters localized at the extreme lateral tips of both lobes.",
+    "linear_abrasions": "Extensive network of fine, unaligned linear pixel disruptions; both dark-on-white and light-on-dark streaks are visible, particularly in the central high-intensity zones of the lobes."
+  },
+  "acquired_anomalies_or_scars": "Prominent external biological accretions (barnacles) at both distal tips; irregular secondary notch/lesion visible on the left side of the primary median notch.",
+  "other_distinctive_markers": "Extensive 'salt and pepper' pixel distribution pattern across the ventral surface, creating a unique non-homogenous texture."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1.5:1 ratio of high-intensity (white) pixels to low-intensity (black) pixels across the visible fluke surface.",
+    "spatial_color_mapping": "Two large contiguous high-intensity white blobs occupy the interior of the left and right lobes. These are bisected by a central low-intensity black zone extending from the peduncle. A continuous low-intensity black band (width approx. 10-40 pixels) maps the entire trailing edge and lobe tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with a calculated internal pixel angle of approximately 65 degrees; depth is roughly 15% of the visible vertical height of the fluke.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge boundary. Pixel-amplitude of peaks varies from 5 to 30 pixels, with the highest density of serration occurring at the distal lobe tips.",
+    "lobe_sweep_trajectory": "Symmetric convex outer curvature on both lobes, sweeping posteriorly to acute, tapered distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct clusters of high-contrast low-intensity pixels located at the extreme distal tips of both lobes. Sparse, small (5-10 pixel diameter) circular dark spots are distributed across the high-intensity white lobe regions.",
+    "linear_abrasions": "A prominent, high-contrast vertical linear disruption is located on the right lobe. Several lower-contrast diagonal and horizontal linear markings are visible on the interior region of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant vertical linear scar on the right lobe surface; irregular, deeply notched trailing edge topography consistent with acquired trauma; clusters of anomalies at both lobe tips.",
+  "other_distinctive_markers": "The boundary between the central low-intensity peduncle region and the high-intensity lobes features a feathered, non-linear pixel intensity gradient."
+}

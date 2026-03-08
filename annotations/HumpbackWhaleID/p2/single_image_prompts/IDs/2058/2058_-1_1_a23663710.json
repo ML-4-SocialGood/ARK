@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity macro contrast; approximately 70% of the visible ventral surface consists of high-reflectance (white) pixels in the medial regions, with 30% low-reflectance (black) pixels forming thick margins.",
+    "spatial_color_mapping": "Contiguous high-intensity white regions occupy the central lobes. Low-intensity black banding (width approximately 10-15% of lobe height) follows the trailing edge. Distinct small low-intensity focal spots are mapped in the distal-superior quadrant of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "Continuous high-frequency serrations extracted along the trailing edge. Pixel-amplitude variance is highest at the fluke tips, where jagged, multi-pixel protrusions create an irregular terminal boundary.",
+    "lobe_sweep_trajectory": "Convex trailing edge curvature exhibiting a sharp upward sweep toward the lateral extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast, jagged pixel clusters detected at the lateral tips of both lobes. Five distinct, small circular low-intensity clusters detected on the high-intensity medial surface of the left lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Irregular morphology and jagged degradation at the right lateral tip, likely representing localized physical trauma or parasitic colonization.",
+  "other_distinctive_markers": null
+}

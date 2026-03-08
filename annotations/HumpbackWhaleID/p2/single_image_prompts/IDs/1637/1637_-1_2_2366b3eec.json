@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast ratio; approximately 70% high-intensity white-spectrum background on distal lobes transitioning to 30% low-intensity black-spectrum mottling and solid-black central peduncle region.",
+    "spatial_color_mapping": "Dominant white contiguous regions on the distal lobes containing numerous discrete low-intensity circular and ovoid blobs (mottling). High-intensity dark pigmentation is concentrated along the anterior leading edges and the central longitudinal axis joining the peduncle."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, high-amplitude jagged serrations along the entire trailing boundary. Approximately 12-18 distinct peaks per lobe with pixel-depth variances ranging from 10 to 50 pixels relative to the local edge mean.",
+    "lobe_sweep_trajectory": "Broad convex curvature extending from the central axis toward the distal tips; the trailing edge follows a generally outward-curving arc."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed clusters of high-contrast, irregular circular textures (barnacle colonization) concentrated at the extreme distal tips and along several prominent trailing edge serrations.",
+    "linear_abrasions": "Faint diagonal linear pixel disruptions visible on the right lobe ventral surface, intersecting the primary pigmentation pattern."
+  },
+  "acquired_anomalies_or_scars": "Heavy physical accumulation of barnacle clusters at the fluke tips, altering the natural geometric boundary and creating a high-relief, irregular texture.",
+  "other_distinctive_markers": "Unique high-contrast 'eye-spot' pigmentation pattern (dark ring with light center) located on the mid-proximal region of the left lobe."
+}

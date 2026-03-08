@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 85% high-intensity white/light grey to 15% low-intensity black/dark grey pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant white contiguous central region across both lobes; secondary black/dark grey pigment concentrated in an irregular border along the trailing edge and median notch; sparse dark focal spots localized in the mid-right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated pixel angle of approximately 55 degrees; bounding-box depth approximately 12% of total lobe height.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations consisting of sharp triangular peaks and irregular valleys distributed along the entire continuous trailing edge.",
+    "lobe_sweep_trajectory": "Convex curve fitted to the trailing edge of both lobes, tapering symmetrically toward the outer tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast cluster of 15+ circular, white/textured objects (barnacle colony) localized on the outer tip of the left lobe (ventral side).",
+    "linear_abrasions": "Detection of 3-4 parallel, dark linear pixel disruptions (~20-40 pixels in length) on the central-right ventral surface."
+  },
+  "acquired_anomalies_or_scars": "Prominent cluster of acorn barnacles on the left lobe tip; irregular pigmentation loss/scarring along trailing edge serrations.",
+  "other_distinctive_markers": "Localized large-scale barnacle colonization on the left lobe terminus creates a significant deviation in the expected leading-edge contour."
+}

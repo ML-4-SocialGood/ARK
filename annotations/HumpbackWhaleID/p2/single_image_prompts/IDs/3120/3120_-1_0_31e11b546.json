@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixels with localized mid-intensity (grey) regions; estimated macro-level ratio of high-to-low intensity pixels is approximately 1:8.",
+    "spatial_color_mapping": "Darkest pixel regions are concentrated at the medial peduncle insertion and along the superior trailing edge. Lighter, mottled grey regions occupy the central-medial portions of both lobes. Distinct high-intensity white punctate spots are distributed along the inferior margin and terminal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped notch with an internal angle of approximately 75 degrees; bounding-box depth is roughly 15% of the total fluke vertical span.",
+    "edge_topography_serration_map": "Irregular, high-frequency serrations extracted along the entire superior trailing edge; pixel amplitude of vertical deviations is greatest at the mid-lobe regions, tapering toward the terminal tips.",
+    "lobe_sweep_trajectory": "Convex curvature fitted to the inferior distal margins transitioning to a sharp upward sweep at the terminal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of high-contrast white circular pixel groups (1-5 pixel diameter) concentrated along the inferior proximal boundary and heavily clustered on both terminal distal tips.",
+    "linear_abrasions": "Multiple dark, unaligned linear pixel disruptions (rake marks) visible across both lobes; a prominent diagonal mark on the left lobe spans approximately 20% of the lobe width."
+  },
+  "acquired_anomalies_or_scars": "Presence of multiple parallel rake marks across both lobes; irregular, ragged topography on both terminal tips indicating significant tissue disruption and scarring.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio characterized by a dominant central low-intensity (black) region covering approximately 40% of the visible surface and lateral high-intensity (white) regions covering approximately 60%.",
+    "spatial_color_mapping": "Central low-intensity V-shaped anchor extending from the peduncle to the median notch. High-intensity lateral lobes featuring non-contiguous yellowish-brown mottling. Peripheral distribution of small low-intensity circular blobs along the trailing edge and tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated interior angle of approximately 110 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge with peak-to-valley amplitudes ranging from 3 to 12 pixels. Distinctive jagged morphology at the distal tips.",
+    "lobe_sweep_trajectory": "Pronounced concave curvature along the trailing edge extending from the distal tips to the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of small, dark, roughly circular pixel groups localized at the trailing edge serrations and distal tips. Sparse white punctate marks visible within the central dark pigmentation.",
+    "linear_abrasions": "Multiple dark, unaligned linear pixel disruptions visible on the left high-intensity lobe, including a series of three parallel diagonal marks approximately 15-20 pixels in length."
+  },
+  "acquired_anomalies_or_scars": "Notable irregular deep indentation on the trailing edge of the left distal tip, distinct from standard serration patterns.",
+  "other_distinctive_markers": "Extensive yellowish-tan bio-fouling/staining across the high-intensity regions of both lobes, primarily concentrated toward the lower leading edge."
+}

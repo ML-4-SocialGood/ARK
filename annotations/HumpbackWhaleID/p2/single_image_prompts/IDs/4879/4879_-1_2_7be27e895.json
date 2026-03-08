@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution; approximately 45% high-intensity (white) and 55% low-intensity (black/dark grey) pixels visible across the total fluke area.",
+    "spatial_color_mapping": "Left lobe is predominantly high-intensity white with small, isolated low-intensity circular spots. Right lobe features a large, contiguous low-intensity dark central mass with high-intensity white regions along the distal trailing edge and the lower interior boundary near the peduncle."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Narrow, deep V-shaped indentation dividing the lobes with a steep angular convergence.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern along the entire trailing edge boundary; amplitude of peaks increases significantly toward the distal tips, showing jagged, multi-pointed projections.",
+    "lobe_sweep_trajectory": "Bi-lateral concave curve originating from the median notch transitioning into a broad convexity toward the outer fluke tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular, high-contrast white pixel clusters (0.5-2% of lobe area) detected primarily on the dark field of the right lobe and scattered on the left lobe.",
+    "linear_abrasions": "Distinct dark, unaligned linear pixel disruptions (rake marks) observed crossing the high-intensity white regions on both the left and right lobes."
+  },
+  "acquired_anomalies_or_scars": "Presence of live, raised white barnacle clusters along the trailing edge tips and various linear rake mark scarring throughout the ventral surface pigmentation.",
+  "other_distinctive_markers": "Highly asymmetrical pigmentation pattern between the left and right lobes, with the left lobe being significantly more leucistic than the right."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low internal contrast; the fluke surface is composed of >98% low-intensity (black/dark-grey) pixels with no visible high-intensity (white) patches.",
+    "spatial_color_mapping": "Solid low-intensity distribution across the entire visible surface; no distinct high-contrast geometric blobs or mottling detected."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with an acute internal pixel angle and significant bounding-box depth.",
+    "edge_topography_serration_map": "High-frequency, irregular serration; right lobe (image right) exhibits multiple high-amplitude jagged valleys (notches), while the left lobe exhibits a more uniform, lower-amplitude serration profile.",
+    "lobe_sweep_trajectory": "Concave curve fitted to the trailing edge of both lobes extending from the median notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular tissue loss and deep jagged indentations concentrated on the outer trailing edge of the right lobe.",
+  "other_distinctive_markers": null
+}

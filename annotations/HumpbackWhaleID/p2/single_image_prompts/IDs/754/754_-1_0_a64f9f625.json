@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast ratio of approximately 0.85 (white) to 0.15 (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Large contiguous white central region covering approximately 85% of the visible area. Black pigmentation is localized to the peripheral trailing margins, the vertex of the median notch, and significant mottling in the lower-left and lower-right corners near the water line."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated internal pixel angle of approximately 65 degrees; bounding-box depth is approximately 15% of the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations along the entire trailing edge boundary. Multiple distinct peaks and irregular valleys are isolated from the water background, with particularly prominent protrusions on the mid-sections of both lobes.",
+    "lobe_sweep_trajectory": "Convex mathematical curve originating at the median notch vertex and sweeping outward to upward-pointing, acute tips on both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of a dense cluster of roughly circular, high-contrast white pixel masses (barnacles) localized on the outer margin of the left fluke tip. Scattered low-density dark circular spots are visible across the central white field.",
+    "linear_abrasions": "Distinct, unaligned black linear pixel disruptions (rake marks) concentrated on the lower peripheral margins of both lobes, particularly visible in the lower-left quadrant."
+  },
+  "acquired_anomalies_or_scars": "Significant cluster of acorn barnacles on the left fluke tip. A single, distinct brownish circular lesion approximately 40-50 pixels in diameter is visible in the mid-lower section of the right lobe.",
+  "other_distinctive_markers": "Highly irregular and uniquely jagged trailing edge topography with prominent 'finger-like' projections characteristic of this individual."
+}

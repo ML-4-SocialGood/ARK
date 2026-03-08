@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 55:45 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral surface area.",
+    "spatial_color_mapping": "The left lobe is dominated by a large contiguous high-intensity white region spanning from the mid-base to the distal tip. The right lobe displays a high-intensity white patch localized on the distal half, with the proximal half and central notch area being primarily low-intensity black."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an estimated pixel angle of 85 degrees and a high depth-to-width ratio.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge; distinct high-amplitude jagged peaks (approximately 10-15 pixels in depth) are clustered at the extreme distal tips of both lobes.",
+    "lobe_sweep_trajectory": "Convex curve fitting from the median notch to the outer tips, showing a consistent outward sweep with a sharp angular termination."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple small, dark circular pixel clusters (low-intensity) are detected against the white high-intensity background of the left lobe's distal region.",
+    "linear_abrasions": "Three to four distinct, roughly parallel dark linear streaks (rake marks) are visible cutting diagonally through the white region of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular tissue loss and heavy jagged scarring are present on the distal tips of both the left and right lobes.",
+  "other_distinctive_markers": "A smaller dark fluke or fin structure is visible in the lower-left foreground, partially occluding the water surface."
+}

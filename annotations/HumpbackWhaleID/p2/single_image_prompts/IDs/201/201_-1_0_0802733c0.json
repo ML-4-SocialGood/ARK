@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio; approximately 60% low-intensity (black) to 40% high-intensity (white) pixels, with white concentrated in the medial lobe regions and black dominating the peripheral boundaries and trailing edges.",
+    "spatial_color_mapping": "Large contiguous white geometric blobs located in the central-medial zones of both lobes. Fine-grained black mottling and dendritic pixel patterns extend from the trailing edges into the white regions. A distinct cluster of small black spots is visible in the lower-central white field of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped median notch with a narrow vertex; estimated pixel angle of 50 degrees and a depth-to-width ratio of approximately 1.2:1 within the local bounding box.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations along the entire trailing edge. Notable jagged peaks and deep valleys, specifically on the distal third of the right lobe. The left lobe exhibits more rounded but equally irregular indentations.",
+    "lobe_sweep_trajectory": "Sigmoidal curve with a slight convex swell near the median notch transitioning into a concave sweep toward the upward-pointing terminal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "A prominent, textured, high-contrast cluster of dark pixel masses (barnacle colonization) is situated on the far-left terminal tip. Small, circular white pixel clusters are visible on the distal tip of the right lobe.",
+    "linear_abrasions": "Two distinct, dark, vertical linear streaks are visible in the lower-right white quadrant of the right lobe, cutting across the primary pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Major structural irregularity on the left fluke tip due to heavy barnacle encrustation, creating a bulbous, non-linear terminal boundary. Multiple deep notches along the trailing edge represent significant tissue loss/acquired trauma.",
+  "other_distinctive_markers": "The left terminal tip exhibits a significant three-dimensional textured protrusion that breaks the standard 2D silhouette of a fluke tip."
+}

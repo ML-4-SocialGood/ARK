@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark grey) pixels with a localized region of high-intensity (white/light grey) on the right lobe; estimated 1:6 ratio.",
+    "spatial_color_mapping": "The left lobe is characterized by a solid low-intensity mask. The right lobe features a large, irregular high-intensity blob spanning from the medial region towards the distal tip. Smaller, high-intensity punctate clusters are visible along the trailing edges of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped median notch with a pixel angle of approximately 50-60 degrees and a depth of ~12% relative to the total lobe height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations along the right trailing edge. The left trailing edge exhibits a major structural indentation approximately 40% of the distance from the median notch to the tip.",
+    "lobe_sweep_trajectory": "Lobe sweep exhibits a convex curve along the primary trailing edge boundary, tapering to sharp points at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-intensity pixel clusters observed along the perimeter of the trailing edge on the right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "A significant, deep notch is present on the trailing edge of the left lobe, indicating previous tissue loss.",
+  "other_distinctive_markers": "The image contains an alphanumeric data strip at the bottom: 'H-9 8/5/00 Pod 1(4) W3 IML Fr. 22'."
+}

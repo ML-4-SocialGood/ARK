@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 40:60 ratio of high-intensity (white/light grey) to low-intensity (black/dark grey) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Bilateral high-intensity regions occupying the lateral quadrants of both lobes; dark low-intensity pigmentation dominates the central peduncle area and trailing edge margins, featuring fine-grained mottling on the right lobe surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated pixel-based internal angle of approximately 55 degrees.",
+    "edge_topography_serration_map": "Irregular serrations characterized by multiple peaks and valleys (3-15 pixel amplitude) distributed along the trailing edge, with significant jaggedness on the inner right lobe.",
+    "lobe_sweep_trajectory": "Concave curve fitted to the trailing edge sweeping from the distal tips toward the median notch, with convex leading edge curvature."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast circular pixel clusters (barnacle colonies) located at the primary distal tips of both lobes; one isolated circular mark on the upper-mid region of the left lobe.",
+    "linear_abrasions": "Parallel vertical linear disruptions (rake marks) detected in the dark-pigmented region of the right lobe near the central axis."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization at distal extremities; multiple localized circular scars and pitting across the ventral surface.",
+  "other_distinctive_markers": "Active water turbulence and spray occluding the lower central insertion point of the fluke into the peduncle."
+}

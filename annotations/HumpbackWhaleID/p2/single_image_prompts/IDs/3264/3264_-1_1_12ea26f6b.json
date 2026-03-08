@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low; dominated by low-intensity dark pixels with high-intensity white pixels occupying less than 3% of the total visible surface area.",
+    "spatial_color_mapping": "Predominantly solid dark pigmentation across both lobes. Distal tip of the right lobe contains a high-contrast contiguous cluster of white pixel blobs. Left lobe exhibits a sparse distribution of high-intensity white punctate spots across the medial and distal surfaces."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct symmetrical V-shaped notch with an internal angle of approximately 125 degrees and a shallow vertical depth.",
+    "edge_topography_serration_map": "Irregular jagged boundary with low-to-moderate frequency variations. The left lobe trailing edge displays relatively smooth micro-serrations, while the right lobe trailing edge exhibits higher-amplitude, sharper peaks particularly toward the distal end.",
+    "lobe_sweep_trajectory": "Concave upward curve from the median notch toward the distal tips of both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct cluster of high-contrast white circular pixel groups localized at the far right distal tip.",
+    "linear_abrasions": "Multiple short, unaligned linear white pixel disruptions (rake-like scratches) are visible on the left lobe's medial surface."
+  },
+  "acquired_anomalies_or_scars": "Localized white scarring/encrustation on the right distal tip; scattered white linear and punctate scars on the left lobe.",
+  "other_distinctive_markers": "Text-based metadata footer present at the bottom of the image frame containing timestamp and GPS coordinates."
+}

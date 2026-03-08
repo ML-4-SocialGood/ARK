@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:12 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Predominantly low-intensity black surface (#000000). High-intensity white clusters (#FFFFFF) located at the distal tips of both lobes. Multiple high-contrast linear white markings: two horizontal parallel lines on the lower left lobe; long, intersecting curved lines across the upper right lobe; several shorter diagonal lines on the outer left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped notch with an estimated angle of 70 degrees and a depth-to-width ratio of approximately 1:3 within its local bounding box.",
+    "edge_topography_serration_map": "Trailing edge shows high-frequency serration. Left lobe features a distinct deep indentation midway between the notch and the tip. Right lobe shows increasing serration amplitude and frequency towards the tip.",
+    "lobe_sweep_trajectory": "The trailing edge displays a continuous concave sweep from the central notch towards both distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Concentrated clusters of high-intensity white pixels at the extreme left and right tips, appearing as irregular circular aggregations.",
+    "linear_abrasions": "Extensive network of white linear pixel disruptions. Specifically: a pair of parallel horizontal lines on the mid-left lobe; multiple long, overlapping arcs on the right lobe; and several diagonal lines on the upper left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive rake-mark patterns visible as white linear features across both lobes. A prominent irregular notch is visible on the trailing edge of the left lobe indicating significant tissue loss.",
+  "other_distinctive_markers": "Unique cross-hatched pattern of white scars on the right lobe, creating a distinct visual texture compared to the relatively sparser left lobe."
+}

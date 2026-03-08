@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:2 ratio of high-intensity (white) to low-intensity (black) pixels across the visible ventral surface, creating a high-contrast macro distribution.",
+    "spatial_color_mapping": "High-intensity white pixels form contiguous patches and streaks primarily on the distal tips and lower-medial margins of both lobes. Vertical white linear streaks are concentrated on the medial region of the left lobe, while a large dark contiguous region dominates the upper central fluke area."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a calculated vertex angle of approximately 52 degrees and a clearly defined bounding-box depth relative to the lobe width.",
+    "edge_topography_serration_map": "High-frequency serration map with irregular pixel-amplitude variations along the trailing edge; the right lobe exhibits more jagged, higher-frequency sawtooth peaks compared to the relatively smoother serration profile of the left lobe.",
+    "lobe_sweep_trajectory": "Trailing edge follows a distinct concave arc from the median notch to the distal tips; the outer lateral margins exhibit a convex sweep trajectory."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of several high-contrast circular pixel clusters: a pair of ring-like scars on the lower-left lobe and a prominent 'bullseye' (white annulus with a dark center) on the mid-upper distal region of the right lobe.",
+    "linear_abrasions": "Several distinct white, unaligned linear pixel streaks (rake marks) are visible on the medial surface of the left lobe and lower-central region of the right lobe, oriented vertically and diagonally."
+  },
+  "acquired_anomalies_or_scars": "Dense clusters of high-intensity, textured calcified structures (acorn barnacles) are anchored to the distal-most tips of both the left and right lobes, resulting in highly irregular perimeter boundaries at these points.",
+  "other_distinctive_markers": "Highly unique 'bullseye' pigmentation scar on the right lobe, characterized by a high-intensity white outer ring surrounding a low-intensity central pixel cluster."
+}

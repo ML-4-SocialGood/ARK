@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast ratio; approximately 60% high-intensity white pixels to 40% low-intensity black pixels.",
+    "spatial_color_mapping": "Left lobe features a large contiguous white area with black borders. A central black triangular mass extends from the peduncle base to the median notch. Right lobe exhibits a white field with black streaking along the trailing edge and distal tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an internal angle of approximately 95 degrees.",
+    "edge_topography_serration_map": "Continuous irregular serration along the trailing edge, with pixel-amplitude peaks most prominent on the distal margins of the right lobe.",
+    "lobe_sweep_trajectory": "Convex trajectory along leading edges; concave sweep along trailing edges from lobe tips toward the central notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple dark, roughly circular pixel clusters visible in the lower central white zone of the left lobe and at the far-left distal tip.",
+    "linear_abrasions": "Several near-vertical black linear disruptions present on the white surface of the right lobe, extending from the trailing edge inward."
+  },
+  "acquired_anomalies_or_scars": "The distal tip of the left lobe shows significant structural irregularity and dark, textured scarring/protrusion relative to the right tip.",
+  "other_distinctive_markers": "Specific 'feathered' pigmentation pattern where black pixels transition into the white field via fine vertical streaks on the medial-right lobe."
+}

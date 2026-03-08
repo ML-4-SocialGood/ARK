@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The surface is dominated by low-intensity black pixels (approx. 75%) with a high-contrast localized region of high-intensity white/grey pixels (approx. 25%) primarily on the distal portion of the right lobe.",
+    "spatial_color_mapping": "Central region and left lobe are predominantly solid low-intensity black. Right lobe contains a contiguous high-intensity white/grey geometric region occupying the outer third of the lobe area, tapering inward from the trailing edge. Multiple discrete, small-scale white circular points (mottling) are distributed across the lower quadrant of the left lobe and the tip of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible V-shaped central depression with a calculated acute angle and significant pixel depth relative to the lobe width.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (jagged peaks and valleys) are continuous along the entire trailing edge boundary, with increased irregularity near the lobe tips.",
+    "lobe_sweep_trajectory": "Concave curvature fitted to the trailing edges of both lobes, leading to sharp, tapered distal points; leading edges show subtle convexity."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detected high-contrast white pixel clusters on the extreme lateral tips of both lobes, with a prominent cluster on the far-right tip area.",
+    "linear_abrasions": "Multiple dark-intensity, vertically-oriented parallel linear disruptions (rake marks) are visible within the high-intensity white region of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Parallel rake mark scars on the right lobe; irregular scarring and potential tissue loss on the extreme lateral tips of both lobes.",
+  "other_distinctive_markers": "A distinct, isolated circular white focal spot is visible near the posterior margin of the right fluke tip."
+}

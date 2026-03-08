@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark grey) with high-intensity (white) clusters at the distal tips and localized linear streaks. High specular glare on the right lobe and center creates localized saturation.",
+    "spatial_color_mapping": "High-intensity white clusters (barnacles) localized at the extreme distal tips. Irregular white mottling present along the lower-left leading edge. Low-intensity black dominates the central and proximal areas."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped central depression with a calculated angle of approximately 50 degrees and significant bounding-box depth relative to the lobe width.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude jagged serrations along the right lobe trailing edge. The left lobe trailing edge features a distinct, high-amplitude smooth U-shaped indentation (crevasse) positioned mid-lobe.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edges from tip to notch; convex curvature along the leading/outer edges."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, roughly circular high-contrast pixel clusters (white) concentrated at the extreme distal tips of both the left and right lobes, consistent with barnacle colonization.",
+    "linear_abrasions": "Multiple distinct, unaligned vertical and diagonal high-contrast linear marks (rake marks/scratches) detected across the central and right lobe surfaces."
+  },
+  "acquired_anomalies_or_scars": "A significant, deep geometric notch or missing tissue section (crevasse) on the inner trailing edge of the left lobe lobe. Large barnacle colonies at both fluke tips.",
+  "other_distinctive_markers": "The specific combination of the deep left-lobe trailing edge indentation and symmetric barnacle clusters at the tips."
+}

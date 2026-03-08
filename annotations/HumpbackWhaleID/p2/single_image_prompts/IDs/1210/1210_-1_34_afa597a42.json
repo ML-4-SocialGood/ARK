@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 80:20 distribution of high-intensity white pixels to low-intensity black pixels across the visible surface.",
+    "spatial_color_mapping": "Large contiguous white high-intensity central region; continuous black low-intensity border along the leading and trailing edges; discrete black circular clusters at the far-left mid-lobe and scattered black points on the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with a calculated vertex angle of approximately 65 degrees.",
+    "edge_topography_serration_map": "Irregular, high-frequency serrations with pixel-amplitude peaks on the outer third of the right trailing edge; lower-frequency, shallower waves on the left trailing edge.",
+    "lobe_sweep_trajectory": "Strongly concave trajectory along the trailing edge leading to high-aspect-ratio distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast white/grey textured clusters representing barnacle colonization concentrated at the distal tips of both the left and right lobes.",
+    "linear_abrasions": "Multiple dark-intensity unaligned linear disruptions (rake marks) crossing the white field of both lobes, notably on the lower-left and central-right regions."
+  },
+  "acquired_anomalies_or_scars": "Extensive linear rake-mark scarring across the ventral field and significant barnacle encrustation on the fluke margins.",
+  "other_distinctive_markers": "Widespread tan-yellow pixel staining (biostaining/diatom film) covering roughly 40% of the white high-intensity fluke area."
+}

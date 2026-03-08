@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low-intensity (dark) pixels dominate approximately 85% of the visible surface, with high-intensity (white/light grey) pixels comprising the remaining 15% in a mottled distribution.",
+    "spatial_color_mapping": "High-contrast light grey mottling is concentrated on the distal regions of the left lobe and the lower interior margin of the right lobe; the central regions near the notch remain predominantly low-intensity black."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with an estimated interior angle of 50 degrees and a depth reaching approximately 10% of the fluke's vertical bounding box.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the continuous trailing boundary, with pixel-amplitude variations most significant on the lateral edges of both lobes, resulting in a jagged silhouette.",
+    "lobe_sweep_trajectory": "Concave curve originating from the median notch, transitioning to a convex sweep towards the distal tips of the lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Several discrete, circular high-contrast pixel clusters are visible on the ventral surface of the right lobe, primarily in the mid-to-lower quadrants.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Irregular notched topography and jagged indentations along the trailing edge indicate significant physical trauma or wear consistent with historical tissue loss.",
+  "other_distinctive_markers": null
+}

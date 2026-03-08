@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low ratio of high-intensity (white) pixels to low-intensity (black) pixels across the visible ventral surface, which is approximately 95% dark-toned.",
+    "spatial_color_mapping": "Dominant contiguous black region across the entire central and medial areas; small, irregular high-contrast white blobs are localized at the extreme distal tips of both the left and right lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow, obtuse V-shaped central depression with a wide angle and minimal depth relative to the vertical axis of the lobes.",
+    "edge_topography_serration_map": "Continuous sequence of high-frequency, low-amplitude irregular serrations (peaks and valleys) along the trailing edge from the median notch to the lateral tips.",
+    "lobe_sweep_trajectory": "Convex upward curve following the outer edges of the lobes as they sweep from the central notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Sparse, roughly circular high-contrast white pixel clusters detected on the right lobe surface and near the tips of both lobes.",
+    "linear_abrasions": "Multiple faint, unaligned white linear streaks oriented horizontally on the medial section of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Irregularities and notches along the trailing edge boundary consistent with minor tissue loss, plus scattered white scarring on the dark ventral surface.",
+  "other_distinctive_markers": "Significant horizontal scanning artifacts and banding noise throughout the entire pixel field, impacting both the subject and the background water."
+}

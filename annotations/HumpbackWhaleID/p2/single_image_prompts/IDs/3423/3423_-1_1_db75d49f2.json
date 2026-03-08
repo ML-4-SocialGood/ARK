@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixels across the medial regions with high-intensity (white) pixels localized on distal lobes; estimated 70:30 ratio.",
+    "spatial_color_mapping": "Central and proximal fluke regions consist of a contiguous dark-pixel blob. The left distal lobe features a white geometric patch interrupted by a vertical dark-pixel line. The right distal lobe contains an extensive white patch with fine-grained dark-pixel mottling and streaks radiating toward the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression at the center, approximately 45 degrees, with a bounding-box depth of roughly 15% of the total lobe height.",
+    "edge_topography_serration_map": "Continuous irregular sawtooth serrations visible along the entire trailing edge boundary; amplitude of peaks is higher on the distal segments of both lobes compared to the medial segments.",
+    "lobe_sweep_trajectory": "Both lobes exhibit a convex leading edge trajectory and a tapered, slightly concave sweep approaching the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular high-contrast pixel clusters (3-10 pixels diameter) observed; approximately 5 clusters on the dark central region and 4-6 along the leading edge of the left lobe, consistent with barnacle attachment sites.",
+    "linear_abrasions": "A prominent vertical dark-pixel linear feature on the left white lobe; several faint horizontal streaks across the central black region; a short diagonal white linear mark on the right distal tip."
+  },
+  "acquired_anomalies_or_scars": "A distinct vertical black scar/pigment mark bisecting the white region of the left lobe; irregular jagged erosion on the far right distal tip.",
+  "other_distinctive_markers": "Fine dendritic-style black pixel striations within the high-intensity white patch of the right lobe."
+}

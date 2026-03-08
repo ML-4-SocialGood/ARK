@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 85% low-intensity (black/dark grey) pixels dominating the central and posterior regions, and 15% high-intensity (white) pixels concentrated along the anterior margins and distal tips.",
+    "spatial_color_mapping": "Contiguous high-intensity white bands mapped along the leading edges of both lobes, spanning from approximately 15% to 85% of the transverse width. These bands exhibit irregular mottling and focal dark spots at the distal extremities."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an approximate pixel angle of 48 degrees; bounding-box depth is roughly 12% of the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "Continuous irregular boundary exhibiting medium-frequency, low-amplitude serrations (peaks and valleys) across both lobes, with higher irregularity observed on the outer 25% of the trailing edge boundaries.",
+    "lobe_sweep_trajectory": "Concave curvature fitted to the leading edge transition, with a secondary convex sweep observed along the trailing edge as it approaches the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, high-contrast dark circular pixel clusters detected within the high-intensity white patches on the distal regions of both the left and right lobes, indicative of localized surface irregularities.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Notable irregular pixel erosion along the distal-most points of the trailing edges, suggesting minor tissue loss or persistent wear patterns.",
+  "other_distinctive_markers": "Pronounced asymmetry in white pigmentation intensity between the left and right lobes, with the left lobe exhibiting a more continuous high-intensity band along the anterior margin."
+}

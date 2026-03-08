@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level ratio dominated by high-intensity (white) pixels covering approximately 90% of the visible surface, framed by a low-intensity (black) boundary along the trailing edge and tips.",
+    "spatial_color_mapping": "Primary contiguous high-intensity white zone across both lobes. Secondary low-intensity black border along the trailing edge. Several discrete, low-intensity circular focal spots are mapped: one in the mid-left lobe, one adjacent to the median notch on the right lobe, and several smaller spots scattered near the lower visible margins."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped depression with a calculated pixel angle of approximately 70-80 degrees relative to the lobe midlines.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (jagged peaks and valleys) visible continuously along the dark trailing edge boundary from the median notch to both distal tips.",
+    "lobe_sweep_trajectory": "Concave curve fitted to the trailing edge, sweeping upwards and outwards to form pointed, dorsally-oriented tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatially distinct dark circular pixel clusters (focal spots) on the white ventral surface. Highly localized, textured brown/tan clusters (barnacle colonization) are visible at the extreme lateral tips of both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive biological colonization (barnacle clusters) present on the distal tips of both the left and right lobes, creating an irregular, high-contrast texture compared to the smooth fluke surface.",
+  "other_distinctive_markers": "The lower portion of the fluke lobes is obscured by high-intensity white pixel noise caused by water turbulence/spray."
+}

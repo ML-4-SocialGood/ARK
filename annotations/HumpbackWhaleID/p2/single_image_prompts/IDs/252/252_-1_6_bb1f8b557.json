@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 75:25 ratio of low-intensity (black/dark grey) to high-intensity (white/light grey) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Left lobe exhibits a dominant low-intensity signature with sparse high-intensity mottling near the median notch. Right lobe contains a large, contiguous, high-intensity geometric region (white) extending from the mid-lobe toward the distal tip, surrounded by a low-intensity boundary along the leading and trailing edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated pixel angle of approximately 40 degrees and a vertical bounding-box depth occupying roughly 15% of the visible fluke's vertical extent.",
+    "edge_topography_serration_map": "Continuous irregular serration profile; high-frequency peaks are prominent on the distal portions of both lobes, particularly visible against the lighter water background on the right lobe.",
+    "lobe_sweep_trajectory": "Concave mathematical curve fitted to the trailing edges of both lobes, terminating in sharp, tapered tips with a slightly convex outer leading edge."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of 4-6 localized, high-contrast white pixel clusters on the medial dark region of the left lobe, consistent with circular scarring patterns.",
+    "linear_abrasions": "A distinct, isolated vertical linear high-intensity mark is visible on the lower medial quadrant of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "A prominent white linear scar on the left lobe and irregular, jagged indentations along the trailing edge of the left lobe suggesting minor historical tissue loss.",
+  "other_distinctive_markers": "Highly asymmetrical pigmentation pattern characterized by a single large, high-intensity patch isolated to the right lobe's interior surface."
+}

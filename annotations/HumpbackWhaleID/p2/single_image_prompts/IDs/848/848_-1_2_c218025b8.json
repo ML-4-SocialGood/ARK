@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast ratio with approximately 90% low-intensity (black/dark grey) pixels on the fluke surface versus 10% high-intensity (white) pixels localized at the distal tips and specific surface marks.",
+    "spatial_color_mapping": "Primary contiguous dark-intensity blob across the central and medial regions of both lobes. Distinct high-intensity (white) clusters at the far distal tips (left and right). Discrete high-intensity speckling on the left lobe's medial-lateral transition."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an estimated pixel angle of 70-80 degrees and a vertical bounding-box depth approximately 1/4 the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations (peaks and valleys) along the entire trailing edge. Notable jagged indentation on the inner trailing edge of the right lobe near the median notch.",
+    "lobe_sweep_trajectory": "Convex curvature on the outer edges of both lobes tapering to acute points at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast white clusters present at the distal tips of both lobes and along the leading edge of the left lobe.",
+    "linear_abrasions": "A prominent, isolated curvilinear (hook-shaped) white pixel disruption located on the medial region of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "A distinct curvilinear 'hook' scar on the right lobe and irregular nicks/indentations along the trailing edge topography.",
+  "other_distinctive_markers": "The hook-shaped white mark on the right lobe serves as a highly unique geometric identifier."
+}

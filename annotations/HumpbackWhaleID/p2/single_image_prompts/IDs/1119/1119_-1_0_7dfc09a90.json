@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.04:0.96 (white:black) across the visible ventral surface; the region is dominated by low-intensity black pixels with minimal high-intensity noise.",
+    "spatial_color_mapping": "Primary black contiguous region spanning from median notch to distal tips; sparse white focal spots (<10 pixel clusters) are mapped along the upper trailing edges and distal tips of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central depression with a calculated pixel angle of approximately 55 degrees; depth is significant, clearly bifurcating the fluke lobes.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations detected along the entire trailing boundary; pixel-amplitude variations of 3-7 pixels are most pronounced on the distal thirds of the lobes.",
+    "lobe_sweep_trajectory": "Mathematical curve shows a parabolic convex sweep from the notch transitioning into a sharp upward concave sweep toward the terminal tips of the lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Discrete high-contrast white circular pixel clusters detected on the right lobe distal tip and scattered across the mid-section of the left lobe, consistent with rosette-pattern scarring.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Presence of multiple white punctate scars likely corresponding to parasitic or barnacle attachment points; no major physical amputations or trauma visible.",
+  "other_distinctive_markers": null
+}

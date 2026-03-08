@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark grey to black) with high-intensity pixels limited to localized anomalies; ratio estimated at <10% high-intensity coverage across the visible ventral field.",
+    "spatial_color_mapping": "No macro-scale geometric mottling or banding; the visible surface presents as a contiguous low-intensity field punctuated by high-intensity focal points at distal tips and linear markings in central and medial regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central depression with an internal angle of approximately 75 degrees and significant pixel-depth relative to the vertical extent of the fluke lobes.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the trailing edge boundary; amplitude of peaks increases distal to the median notch, reaching maximal variance at the outer lobe tips.",
+    "lobe_sweep_trajectory": "Lobe boundaries exhibit a moderate convex sweep from the median notch toward the distal tips along the trailing edge contour."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-intensity, roughly circular pixel clusters concentrated in high-density groups at the distal-most points of both the left and right fluke lobes, consistent with localized surface growth.",
+    "linear_abrasions": "Multiple distinct, unaligned linear pixel disruptions (scratches) of high intensity relative to the dark fluke background, predominantly oriented horizontally and diagonally across both lobes."
+  },
+  "acquired_anomalies_or_scars": "Extensive accumulation of high-intensity circular markers (likely barnacles) at distal lobe tips; numerous light-colored linear abrasions present on the ventral surface of both lobes.",
+  "other_distinctive_markers": "Minor irregular notch situated on the trailing edge of the right lobe, distal to the central median notch."
+}

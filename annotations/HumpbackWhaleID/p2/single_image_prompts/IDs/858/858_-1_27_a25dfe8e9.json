@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.05:0.95 ratio of high-intensity (white/grey barnacle clusters and scars) to low-intensity (black/dark-grey pigmentation) pixels.",
+    "spatial_color_mapping": "Solid low-intensity (black) field across >90% of surface area. Distinct high-contrast white/grey focal points concentrated on the distal tips and scattered along the inferior lateral margins of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped depression with an approximate angle of 45 degrees relative to the lobe intersection, with a depth approximately 1/8th of the vertical lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern observed across the entirety of both trailing edges, featuring sharp peaks and shallow valleys with pixel-amplitudes ranging from 5 to 25 pixels.",
+    "lobe_sweep_trajectory": "Convex curve profile on the distal half of both lobes, tapering into a slight concavity toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast clusters of roughly circular pixel anomalies (barnacles) localized at the extreme lateral tips and inferior-outer margins of both lobes.",
+    "linear_abrasions": "Two distinct, vertically-oriented thin linear pixel disruptions (rake marks) observed on the mid-to-upper portion of the right lobe; several smaller, unaligned scratches on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive calcified barnacle colonization on both fluke tips; several circular depigmented scars (white focal spots) distributed on the left lobe surface.",
+  "other_distinctive_markers": "Asymmetrical accumulation of calcified material on the rightmost tip, creating a jagged, irregular silhouette compared to the smoother leading edge."
+}

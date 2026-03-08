@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark grey) across ~80% of surface area, with high-intensity (white/light grey) pixels accounting for ~20%, primarily localized at the distal tips.",
+    "spatial_color_mapping": "Large contiguous dark-intensity region across the proximal and central areas. Distal tips (lateral lobes) exhibit high-contrast light-grey mottling. The left distal tip shows a large light-grey geometric blob with internal dark punctate spots. The right distal tip shows fragmented light-grey banding extending from the trailing edge inward."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped notch at the central axis, estimated at 130-140 degrees with a shallow vertical depth relative to lobe width.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude irregular serration (peaks and valleys) along the entire span of the trailing edge, creating a jagged boundary against the water background.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a concave sweep from the median notch to the distal tips, characterized by irregular jagged interruptions."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Several small, circular high-contrast white pixel clusters detected on the dark surface of the left lobe and proximal regions, consistent with scar tissue.",
+    "linear_abrasions": "Fine, unaligned linear light-grey pixel disruptions (rake marks) are visible on the dark surface of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Notable jagged erosion and irregular notches along the trailing edge; distinct linear rake marks visible on the mid-section of the right lobe.",
+  "other_distinctive_markers": "Highly asymmetrical pigmentation pattern on the distal tips, particularly the dense white mottling concentrated at the outer extremities."
+}

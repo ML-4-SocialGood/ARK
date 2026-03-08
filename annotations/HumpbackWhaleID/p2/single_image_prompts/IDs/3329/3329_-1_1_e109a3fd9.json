@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 30:70 ratio of high-intensity white (distal lobes) to low-intensity black (central and peduncle regions).",
+    "spatial_color_mapping": "Central black mass extending from the peduncle to the median notch. Right distal lobe contains a contiguous white patch (approx. 20% of lobe surface) with circular black spots. Left distal lobe contains a white patch (approx. 15% of surface) with diffuse mottling at the proximal boundary."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate 65-degree interior angle and a depth of roughly 12% of total fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire span. Notable deep notch (approx. 40 pixels deep) located on the inner trailing edge of the right lobe.",
+    "lobe_sweep_trajectory": "Convex curve trajectory from distal tips to median notch, significantly modulated by serrations."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Five distinct circular black focal spots arranged curvilinearly on the right lobe's white distal patch. High-intensity yellowish-white pixel clusters at both lateral tips indicating barnacle colonization.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant traumatic indentation/missing tissue section on the inner trailing edge of the right lobe near the median notch.",
+  "other_distinctive_markers": "Localized barnacle clusters at the extreme distal tips of both lobes, appearing as high-contrast irregular lumps."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels account for approximately 92% of the surface area, with low-intensity black pixels localized to the trailing edge, distal tips, and median notch.",
+    "spatial_color_mapping": "Contiguous white pigmentation across the majority of the fluke area. Narrow black boundary banding along the trailing edge. Dark pixel clusters concentrated at the median notch and the longitudinal axis of the fluke insertion."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a calculated vertex angle of approximately 50 degrees.",
+    "edge_topography_serration_map": "Continuous high-frequency serrations across the trailing edge with significant peak-to-valley amplitude variations (10-25 pixels) at the distal tips.",
+    "lobe_sweep_trajectory": "Trailing edge follows a sigmoidal curvature with convex outer margins and concave segments proximal to the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed, high-contrast multi-nodal pixel clusters at both distal tips (barnacle colonization). Small isolated circular dark spots on the right lobe interior.",
+    "linear_abrasions": "Prominent vertical linear mark on the mid-left lobe with a distinct reddish-brown chromatic signature. Multiple fine dark horizontal linear marks clustered adjacent to the median notch."
+  },
+  "acquired_anomalies_or_scars": "Prominent vertical reddish-brown linear trauma mark on the mid-left lobe; extensive calcified accumulations at the distal lobe terminals.",
+  "other_distinctive_markers": "Distinctive chromatic variation (reddish-brown) of the primary vertical scar on the left lobe, contrasting with the monochromatic white ventral surface."
+}

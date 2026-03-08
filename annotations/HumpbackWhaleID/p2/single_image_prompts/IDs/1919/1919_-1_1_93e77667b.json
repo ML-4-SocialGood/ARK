@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:1.2 ratio of high-intensity (white) pixels to low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Distal 50% of both left and right fluke lobes are characterized by contiguous high-intensity white patches. The central 50% area, extending from the peduncle to the median notch, is comprised of low-intensity black pixels. The right white patch contains a distinct low-intensity focal spot."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated 90-degree V-shaped notch with a bounding-box depth approximately 1/8th of the vertical lobe height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations along the medial trailing edge (2-4 pixel variance). The distal tips of both lobes exhibit high-amplitude, irregular jaggedness with significant pixel-depth variations from the water background.",
+    "lobe_sweep_trajectory": "Primary concave curve from the median notch extending to the mid-lobe, transitioning to a slight convex upward sweep at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of at least 15 localized, high-contrast white circular pixel clusters (3-6 pixel diameter) scattered across the dark central and lower lateral surfaces of both lobes.",
+    "linear_abrasions": "Three distinct, near-parallel dark linear disruptions crossing the white patch on the left lobe; multiple vertical dark streaks observed on the white patch of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Pronounced irregular tissue loss or jagged erosion on the distal trailing edge of the right lobe relative to the smoother contour of the left lobe tip.",
+  "other_distinctive_markers": "A single, high-contrast circular black focal spot (approx. 10 pixels in diameter) located in the upper-medial quadrant of the right lobe's white patch."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Highly skewed distribution; >90% of visible fluke surface exhibits low-intensity (black) pixel values. The macro-level ratio of high-intensity (white) scar tissue to low-intensity base pigmentation is approximately 1:12.",
+    "spatial_color_mapping": "Primary surface is a solid black contiguous mass. High-contrast white geometric streaks (linear) are mapped primarily across the central region and right lobe, with small circular high-intensity clusters localized at the distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated interior angle of approximately 75 degrees; notch depth is approximately 15% of the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "Low-frequency, low-amplitude irregularities along the trailing edge; the right tip exhibits a higher frequency of jagged pixel-amplitude variations compared to the relatively smooth linear boundary of the left lobe.",
+    "lobe_sweep_trajectory": "Trailing edge follows a slightly convex trajectory from the median notch toward the distal tips; terminal ends show a pronounced posterior and dorsal sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of localized, circular high-contrast pixel clusters (white on black) at the distal edge of the right lobe and scattered along the inferior margin of both lobes.",
+    "linear_abrasions": "Extensive detection of distinct, unaligned white linear pixel disruptions; prominent rake marks consisting of 3-5 parallel lines are visible across the central and right fluke surface."
+  },
+  "acquired_anomalies_or_scars": "Extensive network of white linear scars (likely odontocete rake marks) concentrated on the right fluke lobe; minor irregular notch at the terminal edge of the right fluke tip.",
+  "other_distinctive_markers": null
+}

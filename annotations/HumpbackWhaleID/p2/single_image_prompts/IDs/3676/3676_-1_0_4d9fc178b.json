@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) distribution with approximately 5% high-intensity (white) pixels localized in small focal clusters.",
+    "spatial_color_mapping": "Contiguous solid black field across visible regions with high-contrast, roughly circular white nodes (5-15 pixels in diameter) and irregular white mottling localized on the distal left tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitudes of 2-8 pixels along the visible superior trailing edge of the left lobe; right trailing edge is partially occluded.",
+    "lobe_sweep_trajectory": "Convex mathematical curve visible on the outer edge of the left lobe; right lobe sweep is obscured by vertical glare and frame edge."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular white rings and clusters detected on the left lobe and far right visible area, representing localized high-contrast pixel clusters.",
+    "linear_abrasions": "Short, unaligned horizontal and diagonal white pixel disruptions present on the mid-left ventral surface."
+  },
+  "acquired_anomalies_or_scars": "Circular white scarring patterns and jagged pixel-level erosion/notching on the distal left tip.",
+  "other_distinctive_markers": "Two prominent vertical high-intensity white overexposure bands (light leaks) occlude the central notch region and parts of the right lobe."
+}

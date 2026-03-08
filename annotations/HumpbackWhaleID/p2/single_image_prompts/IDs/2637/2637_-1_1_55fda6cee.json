@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution; approximately 45% high-intensity (white/light gray) to 55% low-intensity (black) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Large high-intensity contiguous regions occupy the distal segments of both lobes. A wide, low-intensity (black) vertical pillar occupies the central region and extends along the trailing edge margin. Transition zones between intensities show high-frequency mottling and pixelated stippling."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow U-shaped central notch with an approximate pixel angle of 145 degrees and a shallow depth-to-width ratio.",
+    "edge_topography_serration_map": "Low-amplitude, fine-grained serrations along the trailing edge boundary; the frequency of peaks increases towards the lateral tips of the fluke.",
+    "lobe_sweep_trajectory": "Convex curvature along the trailing edge of both lobes, tapering to acute, sharp lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, scattered, roughly circular high-contrast white pixel clusters are detected on the lower central low-intensity (black) region.",
+    "linear_abrasions": "One prominent vertical dark linear mark (approximately 20 pixels in length) is visible on the left lobe's high-intensity patch; several shorter, unaligned dark linear disruptions are visible on the right lobe's distal high-intensity field."
+  },
+  "acquired_anomalies_or_scars": "A distinct dark ovoid focal point is located on the lower boundary of the high-intensity patch on the left lobe.",
+  "other_distinctive_markers": "Unique 'islanding' effect characterized by isolated low-intensity pixel clusters within the high-intensity fields of both lobes."
+}

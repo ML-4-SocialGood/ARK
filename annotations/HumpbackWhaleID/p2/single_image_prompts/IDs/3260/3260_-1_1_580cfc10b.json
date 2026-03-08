@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity (white) pixels dominate approximately 85% of the visible surface, with low-intensity (black/dark grey) pixels concentrated along the trailing edge and median notch.",
+    "spatial_color_mapping": "A continuous dark band follows the trailing edge of both lobes. A prominent vertical dark streak is located at the median notch. Multiple small, isolated dark circular spots (mottling) are present in the central-left lobe. A larger, irregular dark patch is visible on the distal tip of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A sharp V-shaped depression with an estimated pixel angle of 100 degrees and a depth of approximately 35 pixels relative to the lobe peaks.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern across both lobes with peak-to-valley amplitudes ranging from 2 to 12 pixels, isolated against the lighter water background.",
+    "lobe_sweep_trajectory": "Convex curvature at the distal tips transitioning into a broad concave sweep toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 6-10 small, dark circular pixel clusters (potential barnacle scars) concentrated on the mid-left lobe.",
+    "linear_abrasions": "Two discrete, near-vertical dark linear streaks are visible on the outer third of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "The trailing edge exhibits extensive irregular serration consistent with physical wear or predator interaction.",
+  "other_distinctive_markers": "The dark pigmentation extending vertically from the median notch creates a distinct 'Y' or 'V' shaped central marking."
+}

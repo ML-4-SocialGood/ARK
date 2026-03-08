@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 1:1.2 ratio of high-intensity (white) to low-intensity (black/dark grey) pixels across the total visible surface area.",
+    "spatial_color_mapping": "Left lobe: primary high-intensity zone occupying the lateral two-thirds, punctuated by approximately 15 discrete low-intensity circular blobs. Right lobe: primary low-intensity zone throughout, with approximately 30 high-intensity rosette clusters distributed unevenly, appearing denser toward the distal tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "U-shaped depression with an estimated internal angle of 115 degrees and a bounding-box depth approximately 1/8th of the visible lobe height.",
+    "edge_topography_serration_map": "Continuous high-frequency serration along the trailing boundary; pixel amplitude varies between 3-10 pixels; right lobe distal edge displays significantly higher irregularity and larger protrusion peaks compared to the left lobe.",
+    "lobe_sweep_trajectory": "Convex trajectory on the superior edge of both lobes; the right lobe exhibits a more acute upward curvature at the distal point relative to the horizontal axis of the notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple circular and annular clusters; left lobe features dark-centered rings on high-intensity background; right lobe features high-intensity clusters (5-15 pixels in diameter) on a low-intensity background.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive surface scarring manifesting as rosette-shaped pixel clusters across both lobes; visible distal edge degradation and irregularity on the right fluke lobe.",
+  "other_distinctive_markers": "Single high-contrast dark vertical linear feature located approximately 5 pixels right of the median notch vertex."
+}

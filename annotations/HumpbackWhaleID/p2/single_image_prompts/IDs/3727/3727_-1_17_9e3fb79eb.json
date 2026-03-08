@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with low-intensity (black) pixels occupying approximately 85% of the visible surface area and high-intensity (white) pixels occupying approximately 15% concentrated at the distal tips.",
+    "spatial_color_mapping": "Central contiguous black region extending from the median notch to the leading edges. High-intensity white contiguous blobs are located at the lateral extremities of both lobes, featuring internal vertical low-intensity striations and 'feathered' edges where white meets black pigmentation."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with an approximate pixel angle of 115 degrees and a vertical depth from the lobe peaks of approximately 60 pixels.",
+    "edge_topography_serration_map": "High-frequency serration along the continuous linear boundary; left lobe contains 9-10 distinct peaks and the right lobe contains 11-12 distinct peaks with pixel-amplitudes ranging from 5 to 20 pixels deep.",
+    "lobe_sweep_trajectory": "Concave trailing edge trajectory extending from the median notch vertex toward the acute, upward-curving distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, localized circular clusters of black pixels (approx. 5-10 pixels in diameter) are detected within the high-intensity white patches on both the left and right distal lobes.",
+    "linear_abrasions": "Multiple horizontal and diagonal thin black linear disruptions (rake marks) are detected cutting across the white pigmentation on the lateral tips of both lobes."
+  },
+  "acquired_anomalies_or_scars": "Presence of parallel linear rake marks and localized dark circular scarring on the high-contrast white areas of the distal lobe tips.",
+  "other_distinctive_markers": "The internal boundary of the white patches exhibits a unique 'brush-stroke' or feathered gradient pattern transitioning into the solid black central region."
+}

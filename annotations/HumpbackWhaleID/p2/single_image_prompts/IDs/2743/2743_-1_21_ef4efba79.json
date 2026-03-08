@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High bimodal contrast; central regions exhibit high-intensity white-to-cream pixels, while margins and focal spots exhibit low-intensity black pixels.",
+    "spatial_color_mapping": "Dominant high-intensity contiguous regions are located in the center of both the left and right lobes. Low-intensity black pixels form a continuous perimeter boundary and converge at the fluke base. Irregular dark mottling is concentrated primarily along the trailing edges and distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped depression with a sharp vertex; estimated pixel angle between lobe tangents is approximately 50 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations observed along the entire trailing edge; pixel-amplitude of peaks increases toward the distal tips, presenting a jagged, non-linear boundary.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a convex curvature sweeping upward and outward from the median notch to the acute distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular and ring-shaped dark pixel clusters (rosettes) are visible, particularly on the right lobe where several 10-20 pixel diameter dark rings are set against the high-intensity white background.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive circular scarring across both ventral lobes, characterized by dark-bordered rings and solid dark circular focal points.",
+  "other_distinctive_markers": "A distinct 'bridge' of high-intensity pixels extends nearly to the median notch, separated only by a narrow low-intensity vertical midline."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70% low-intensity (charcoal/black) to 30% high-intensity (white/light-grey) pixel distribution across the visible surface.",
+    "spatial_color_mapping": "High-intensity white contiguous regions are localized at the distal tips of both lobes; the right lobe exhibits a more consolidated white patch at the tip, while the left lobe shows a more fragmented, mottled white distribution along the outer margin."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible V-shaped central depression with a calculated angle of approximately 65 degrees and a bounding-box depth of roughly 12% of the total visible fluke height.",
+    "edge_topography_serration_map": "High-frequency, jagged serrations with pixel amplitudes between 5 and 15 pixels are present across the entire span of the trailing edge, creating a highly irregular linear boundary.",
+    "lobe_sweep_trajectory": "Convex curvature along the proximal edges transitioning into an upward-sweeping, tapered trajectory toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast textured clusters (barnacles) are concentrated at the extreme distal tips and sporadically along the lower trailing edge margins.",
+    "linear_abrasions": "Detection of faint, vertically aligned parallel linear pixel disruptions (rake marks) on the dark-pigmented central-right lobe region."
+  },
+  "acquired_anomalies_or_scars": "Extensive epibiotic loading (barnacle colonies) at both fluke tips; minor irregular indentations on the trailing edge contour indicating acquired physical tissue loss.",
+  "other_distinctive_markers": "The extreme density of barnacle colonization at the tips significantly alters the 2D pixel silhouette, creating a fringed or thickened edge profile."
+}

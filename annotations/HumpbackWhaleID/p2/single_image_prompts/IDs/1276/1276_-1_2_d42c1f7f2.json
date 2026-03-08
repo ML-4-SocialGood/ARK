@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 45% high-intensity (white/cream) pixels concentrated in central lobe regions versus 55% low-intensity (black/dark-grey) pixels dominant along the lateral margins and the entire trailing edge.",
+    "spatial_color_mapping": "Two primary high-intensity contiguous regions are visible. The left lobe region features heavy low-intensity mottling and pixel fragmentation. The right lobe region is more contiguous but is bisected by several distinct, high-contrast dark linear streaks oriented diagonally from the trailing edge toward the interior."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with a vertex angle of approximately 75 degrees and a bounding box depth roughly 15% of the total fluke height.",
+    "edge_topography_serration_map": "Continuous high-frequency serration across the trailing edge; the left lobe shows higher amplitude peaks (10-15 pixels) compared to the more uniform micro-serrations on the right lobe.",
+    "lobe_sweep_trajectory": "Strong convex curve fitted to the leading edges of both lobes, tapering sharply toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of small, circular, high-intensity pixels (approx. 3-8 pixels in diameter) are visible along the black leading edges and on the distal tips, consistent with barnacle colonization sites.",
+    "linear_abrasions": "Detection of at least four distinct, roughly parallel dark linear streaks on the ventral surface of the right lobe, cutting through the high-intensity white field."
+  },
+  "acquired_anomalies_or_scars": "Prominent rake-mark scarring on the right lobe; irregular jaggedness and potential minor tissue loss along the distal third of the left lobe's trailing edge.",
+  "other_distinctive_markers": "Highly asymmetrical internal pigmentation patterns, with the left lobe showing significantly more internal speckling/mottling compared to the cleaner right lobe."
+}

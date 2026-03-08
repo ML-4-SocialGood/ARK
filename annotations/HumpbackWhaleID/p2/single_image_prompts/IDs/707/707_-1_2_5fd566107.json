@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low ratio of high-intensity pixels to low-intensity pixels; ventral surface is approximately 98% low-intensity black/dark-gray with sparse high-intensity white interruptions.",
+    "spatial_color_mapping": "Uniform dark-gray/black distribution across both lobes; no large contiguous geometric white blobs detected; high-contrast pixels are limited to isolated points and linear streaks."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a sharp vertex angle; notch depth is approximately 15% of the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "High-frequency, irregular saw-tooth serrations along the superior boundary of both lobes; peaks show variable pixel-amplitude with higher density of sharp valleys on the distal halves of each lobe.",
+    "lobe_sweep_trajectory": "Concave arc extending from the median notch toward the distal tips on both the left and right lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple high-contrast circular pixel clusters (white on black) scattered across both lobes, specifically in the lower-medial and lower-lateral regions.",
+    "linear_abrasions": "Several distinct, non-parallel linear pixel streaks detected; one long diagonal high-intensity line on the left lobe and multiple shorter, multi-directional lines on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Irregular, high-intensity textured clusters on the distal tips of both lobes indicative of heavy localized surface disruption; multiple unaligned white linear rake marks visible across the ventral surface.",
+  "other_distinctive_markers": null
+}

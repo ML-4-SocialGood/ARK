@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70% low-intensity (black) to 30% high-intensity (white) across the visible ventral area.",
+    "spatial_color_mapping": "High-intensity white regions are localized at the distal tips of both lobes. The central and medial regions are dominated by low-intensity black pixels. Fine-scale black pixel speckling is interspersed within the white regions of the tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a sharp vertex and an approximate pixel-calculated angle of 75 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular pixel-amplitude serrations present across the entire trailing edge boundary, with more pronounced peaks in the mid-lobe sections.",
+    "lobe_sweep_trajectory": "Concave trajectory initiating from the median notch transitioning to convex curves toward the lateral distal extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of roughly circular high-contrast white pixels visible at the far edges of the lateral tips.",
+    "linear_abrasions": "Several faint, unaligned white linear pixel disruptions detected on the black central-left lobe surface, oriented horizontally."
+  },
+  "acquired_anomalies_or_scars": "Notable irregular structural indentation and jagged pixel loss at the extreme lateral point of the left lobe tip.",
+  "other_distinctive_markers": null
+}

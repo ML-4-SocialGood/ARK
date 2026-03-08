@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio of approximately 7:3 high-intensity (white) to low-intensity (black) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Centrally located low-intensity (black) contiguous geometric region extending from the median notch, flanked by high-intensity (white) lateral lobes. Transition zones show high-frequency mottling and pixel stippling."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped central notch with an approximate internal pixel angle of 50 degrees and significant bounding-box depth.",
+    "edge_topography_serration_map": "Continuous serrated boundary with high-frequency, low-amplitude (2-5 pixel) variations along the entirety of the trailing edge lobes.",
+    "lobe_sweep_trajectory": "Symmetrical concave curve fitted to the posterior boundary of both fluke lobes, tapering to rounded distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, localized dark-intensity pixel clusters (focal spots) distributed across the white field of the right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "High-contrast white pixel formation resembling alphanumeric characters 'OC' or 'QC' located on the left-medial low-intensity (black) region.",
+  "other_distinctive_markers": "Single, isolated low-intensity (dark) focal point situated in the central-posterior region of the right lobe's white high-intensity field."
+}

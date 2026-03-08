@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) across the central 85% of the fluke surface with localized high-intensity (white/grey) clusters situated at the distal lateral tips.",
+    "spatial_color_mapping": "Contiguous high-intensity patches are isolated to the outer lobes; the left tip displays a concentrated, diffused white blob, while the right tip exhibits a fragmented cluster of white speckles against the black base."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a sharp vertex angle; internal angle is approximately 40-45 degrees.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations present along the distal margins; the right lobe exhibits more pronounced, jagged pixel-level peaks and valleys compared to the left lobe.",
+    "lobe_sweep_trajectory": "Sigmoidal curve trajectory; initial concavity emerging from the median notch transitions to a convex sweep toward the tapered, acute-angled tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of circular high-contrast white pixels are visible within the mottled regions of the distal tips, specifically on the right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extreme irregular truncation of the trailing edge on the right lobe tip, appearing as non-uniform jagged notches distinct from natural biological curvature.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio; approximately 45% high-intensity white pixels localized on the left lobe and trailing edges versus 55% low-intensity black pixels in the central and right lobe regions.",
+    "spatial_color_mapping": "Left lobe is a contiguous white region with approximately 5-7 distinct dark circular mottling spots. Right lobe is a contiguous dark region with a narrow white high-intensity band along the trailing edge. A dark vertical band connects the center of the fluke to the peduncle."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped median notch with a deep bounding-box penetration and an acute angle between the lobes.",
+    "edge_topography_serration_map": "Continuous irregular serration along the trailing edge of both lobes; characterized by low-to-medium amplitude jagged peaks and valleys.",
+    "lobe_sweep_trajectory": "Convex sweep trajectory from the central notch to the distal tips of both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple dark circular pixel clusters (mottling/scars) detected on the white pigmentation of the left lobe ventral surface.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Irregular contour and potential physical trauma at the extreme lateral tip of the left lobe; small jagged indentation on the inner trailing edge of the left lobe proximal to the notch.",
+  "other_distinctive_markers": "Significant pigmentation asymmetry between the predominantly white left lobe and predominantly black right lobe."
+}

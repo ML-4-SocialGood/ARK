@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.15:0.85 ratio of high-intensity white/cream pixels to low-intensity black/dark grey pixels on the visible fluke surface.",
+    "spatial_color_mapping": "Dominant high-intensity white patch located on the distal third of the left lobe. Multiple discrete, circular high-intensity focal spots (approx. 5-15 pixels) scattered across the medial and proximal dark regions. Dense high-intensity clusters concentrated at the terminal tips of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped depression with an approximate 38-degree interior angle and significant bounding-box depth relative to the lobe cord length.",
+    "edge_topography_serration_map": "High-frequency, variable-amplitude serrations along the left lobe trailing edge, with peak-to-valley heights ranging from 2-8 pixels. The right lobe edge exhibits similar serration, though partially occluded by water spray.",
+    "lobe_sweep_trajectory": "Convex curvature along the trailing edge of the left lobe, transitioning to a sharp concave sweep as it approaches the median notch; distal tips show rounded geometric termination."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed, high-contrast circular clusters (rosettes) localized at the extreme distal tips of both lobes. Multiple isolated circular white-ring scars (3-10 pixel diameter) distributed across the central-left black pigmentation.",
+    "linear_abrasions": "Four prominent, unaligned dark linear pixel disruptions (rake-like marks) oriented diagonally across the white distal patch of the left lobe. Several shorter, vertical linear interruptions near the central fluke region."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization on the distal margins of both lobes, resulting in irregular structural protrusions. Distinctive dark-pigmented scarring within the high-intensity white patch on the left lobe.",
+  "other_distinctive_markers": "Presence of multiple circular 'halo' marks on the dark ventral surface, indicating legacy attachment sites of ectoparasites or barnacles."
+}

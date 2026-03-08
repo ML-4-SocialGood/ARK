@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity white (approx. 70%) across the central fields, contrasted by low-intensity black (approx. 30%) concentrated on trailing edges and lower medial zones.",
+    "spatial_color_mapping": "Contiguous white central mask; thick black pigmentation along the entire trailing edge; multiple vertical and diagonal dark linear streaks on left lobe; large, irregular dark pigment smudge on the inner-proximal region of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a vertex angle estimated at 55 degrees; depth is significant relative to total lobe height.",
+    "edge_topography_serration_map": "Continuous jagged serration along the trailing edge boundary; high-frequency peaks and valleys with greater amplitude observed near the median notch than at the distal tips.",
+    "lobe_sweep_trajectory": "Strongly convex curvature on the distal edges, tapering into sharp, acute points at the lateral extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast white clusters of elevated pixels concentrated exclusively at the extreme lateral tips of both lobes, indicative of barnacle colonization.",
+    "linear_abrasions": "Numerous distinct dark-gray linear pixel disruptions; vertical rake marks on the left lobe and diagonal rake marks crossing the central right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive biological scarring (rake marks) and heavy barnacle encrustation on both distal tips.",
+  "other_distinctive_markers": "A prominent dark pigment protrusion extending from the notch area into the lower-middle field of the right lobe."
+}

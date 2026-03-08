@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixels across the primary surface area, with localized high-intensity (white/off-white) clusters at the distal tips and scattered specular highlights from water droplets.",
+    "spatial_color_mapping": "Contiguous solid black pigmentation mapping across 95% of the visible surface; high-contrast, irregular yellowish-white geometric blobs are mapped exclusively to the extreme distal tips of the left and right lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, symmetrical V-shaped central depression with a sharp vertex angle; notch depth is approximately 1/8th of the vertical lobe height.",
+    "edge_topography_serration_map": "Continuous irregular serrations along the trailing edge with pixel-level amplitude variations of 2-5 pixels; amplitude increases to high-frequency irregular spikes at the distal tips due to encrustation.",
+    "lobe_sweep_trajectory": "Concave curvature fitted to the trailing edges from the median notch to the tips; leading edges exhibit a slight convex sweep toward the extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of roughly circular, high-contrast pixel formations located at the distal tips of both the left and right lobes, consistent with barnacle colonization.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive calcified biofouling and associated tissue irregularity at the extreme distal margins of both fluke lobes.",
+  "other_distinctive_markers": null
+}

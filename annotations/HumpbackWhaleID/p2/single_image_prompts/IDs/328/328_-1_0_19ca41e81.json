@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 2.5:1 ratio of high-intensity white pixels to low-intensity black/dark-gray pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Dominant high-intensity white region on the distal portions of both lobes. Contiguous low-intensity black region extending from the peduncle into the central 30% of each lobe. Irregular black mottling clusters in the mid-section of the left lobe. Discrete dark linear streaks located on the upper quadrant of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped median notch with a calculated internal angle of approximately 55 degrees and a vertical bounding-box depth of roughly 12% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular micro-serrations with pixel-amplitudes of 2-5 pixels across the entire trailing edge. Three major macro-peaks (>10 pixel amplitude) visible on the medial trailing edge of the left lobe.",
+    "lobe_sweep_trajectory": "Convex curves fitted to the distal edges of both lobes, transitioning to a slight concavity as they approach the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, dark, circular pixel clusters (approx. 4-6 pixels in diameter) localized on the proximal-inner section of the left lobe.",
+    "linear_abrasions": "Multiple parallel linear pixel disruptions (rake marks) oriented diagonally on the right lobe; several intersecting unaligned linear marks on the central-left lobe."
+  },
+  "acquired_anomalies_or_scars": "Highly irregular, jagged trailing edge on the left lobe suggests significant historical tissue loss or trauma; right lobe tip exhibits a localized downward-pointing jagged protrusion.",
+  "other_distinctive_markers": "A distinct, isolated dark spot located at the extreme distal tip of the right fluke."
+}

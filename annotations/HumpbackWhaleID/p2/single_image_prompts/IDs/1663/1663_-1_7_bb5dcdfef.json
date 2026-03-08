@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) with a high-contrast ratio of approximately 85:15 relative to high-intensity (white/grey) markings and clusters.",
+    "spatial_color_mapping": "Primary surface is solid black. High-intensity white clusters are concentrated on the peripheral leading edges and distal tips. Dispersed, low-frequency linear white/grey markings are present across the central and inner regions of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated pixel angle of approximately 42 degrees.",
+    "edge_topography_serration_map": "Irregular serration pattern with pixel-amplitude variations of 3-12 pixels; right lobe trailing edge exhibits more pronounced jaggedness compared to the left.",
+    "lobe_sweep_trajectory": "Trailing edges demonstrate a gradual concave sweep from the median notch to the tips; leading edges are convex and heavily modulated by high-intensity biological clusters."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, roughly circular high-contrast white pixel clusters corresponding to barnacle colonization along the entire visible length of the leading edges and tips.",
+    "linear_abrasions": "Numerous unaligned, multi-directional linear pixel disruptions (rake marks) are visible across the dark ventral surface, with high density on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive linear rake marks across the right lobe surface; heavy barnacle encrustation creating a jagged, high-intensity perimeter on leading edges.",
+  "other_distinctive_markers": "The extreme concentration of barnacle growth on the leading edges creates a unique high-contrast white 'fringe' effect."
+}

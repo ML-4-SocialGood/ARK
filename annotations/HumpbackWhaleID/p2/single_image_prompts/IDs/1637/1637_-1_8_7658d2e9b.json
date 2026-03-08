@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution with approximately 65% high-intensity pixels (white/light-gray) to 35% low-intensity pixels (black/dark-gray) across the visible ventral surface.",
+    "spatial_color_mapping": "Large contiguous high-intensity white regions occupy the central-lateral areas of both lobes. Low-intensity dark regions form a central triangular wedge from the peduncle to the notch and high-density mottled blobs at the distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a calculated vertex angle of approximately 45 degrees. The notch depth accounts for roughly 12% of the visible vertical height along the fluke midline.",
+    "edge_topography_serration_map": "Continuous, high-frequency serrated boundary with pixel-amplitude variations of 10-20 pixels. The frequency of peaks increases towards the distal tips, creating a jagged saw-tooth topography.",
+    "lobe_sweep_trajectory": "S-shaped trajectory; initial concave sweep originating at the median notch transitioning into a strong convex curve as it approaches the lateral lobe extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple high-contrast dark circular clusters (mottling) are distributed across the white lateral fields, with a high concentration of rosettes on the distal third of the left lobe.",
+    "linear_abrasions": "Distinct dark, unaligned linear pixel disruptions (rake marks) are visible on the left lobe, intersecting the white pigmentation at roughly 45-degree angles relative to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular protrusions and high-contrast crusting on the extreme lateral tips of both lobes, indicative of heavy barnacle colonization and secondary scarring.",
+  "other_distinctive_markers": "Pronounced asymmetry in pigmentation density, with the left lobe exhibiting a significantly higher frequency of focal dark spots and linear disruptions compared to the right lobe."
+}

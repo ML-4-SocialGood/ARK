@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white/light-gray base occupies approximately 75-80% of the visible surface; low-intensity black/dark-gray markings and edges occupy the remaining 20-25%.",
+    "spatial_color_mapping": "Dark pigmentation forms a continuous irregular band along the entire trailing edge; discrete low-intensity circular blobs (mottling) are distributed across the high-intensity medial and lateral fields; highest density of dark pixels concentrated at the distal fluke tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an approximate interior angle of 60 degrees; vertical bounding-box depth is approximately 15% of the total vertical fluke profile.",
+    "edge_topography_serration_map": "Highly irregular serration profile with non-uniform frequency; peaks vary in pixel-amplitude from 5 to 25 pixels; significant jaggedness observed on the distal halves of both lobes.",
+    "lobe_sweep_trajectory": "The trailing edge exhibits a concave sweep transitioning from the distal tips toward the median notch; the leading edge (partially visible) suggests a convex outer boundary."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple high-contrast circular pixel clusters (dark on white) detected; prominent clusters are located on the left distal lobe and distributed sporadically across the right medial lobe surface.",
+    "linear_abrasions": "Distinct dark linear pixel vectors; one major diagonal mark (approx. 200 pixels in length) on the right medial lobe; multiple shorter parallel linear marks on both left and right lobes indicative of rake scarring."
+  },
+  "acquired_anomalies_or_scars": "Extensive linear rake marks (parallel diagonal tracks) and significant irregular tissue loss/jaggedness along the trailing edge boundary; heavy concentration of circular scars from barnacle colonization.",
+  "other_distinctive_markers": "The extreme distal tips (points) of the fluke lobes exhibit a high-density accumulation of low-intensity pixels and significantly irregular, non-linear edge topography."
+}

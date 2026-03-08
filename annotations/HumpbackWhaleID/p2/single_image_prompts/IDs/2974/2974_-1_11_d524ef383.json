@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 85-90% low-intensity (black) and 10-15% high-intensity (white) pixels on visible fluke surface.",
+    "spatial_color_mapping": "Dominant contiguous low-intensity region across central and right lobes; focal high-intensity (white) mottle cluster at the left lateral tip; scattered white annular micro-clusters (2-10px) across the dark mid-section."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide V-shaped depression; calculated interior angle approximately 110-120 degrees; vertical bounding-box depth approximately 45 pixels.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire visible boundary; peak-to-valley pixel amplitude ranges from 3 to 12 pixels; one distinct deeper notch located 120 pixels left of the median notch.",
+    "lobe_sweep_trajectory": "Convex upward curve on the visible left lobe sweep; right lobe sweep partially occluded but follows a similar convex path."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular and semi-circular high-contrast white pixel clusters (5-15px diameter) distributed non-uniformly across the dark pigmentation zone, consistent with barnacle attachment sites.",
+    "linear_abrasions": "Faint, narrow (1-2px width) white linear pixel disruptions visible near the median notch and central left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive white scarring/pigmentation localized on the far left tip; irregular notch/indentation on the trailing edge of the left lobe.",
+  "other_distinctive_markers": "Dense high-intensity water cavitation/spray obscuring the lower horizontal boundary of both fluke lobes."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark gray) with significant high-intensity (white/light gray) mottling; estimated macro-level distribution ratio of 65:35 low-to-high intensity.",
+    "spatial_color_mapping": "Large contiguous low-intensity dark region centered at the notch and radiating along the lower lobes. High-intensity stippling and diffuse white patches are concentrated on the lateral-superior quadrants of both lobes, with more dense white pixel clusters on the left distal region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped median notch with a measured angle of approximately 68 degrees and a bounding-box depth extending significantly into the fluke body.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations (peaks and valleys) visible along the entire trailing edge. Left lobe exhibits more acute, jagged peaks (approx. 8-12 pixel amplitude), while right lobe peaks are slightly more rounded but remain frequent.",
+    "lobe_sweep_trajectory": "Outer edges follow a convex mathematical curve tapering to sharp, pointed distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Visible clusters of roughly circular, high-contrast white pixel groups (likely barnacle scars) located primarily on the upper half of the left lobe and near the right distal tip.",
+    "linear_abrasions": "One prominent, near-vertical linear dark disruption (rake mark) located on the mid-section of the left lobe lobe surface. Fainter, shorter linear disruptions are visible in the high-intensity mottled regions of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent vertical rake mark on the left fluke lobe. The extreme serration pattern on the trailing edge suggests cumulative historical physical trauma.",
+  "other_distinctive_markers": "Asymmetrical pigmentation density, with significantly more concentrated white stippling on the left lobe versus more diffuse gray mottling on the right."
+}

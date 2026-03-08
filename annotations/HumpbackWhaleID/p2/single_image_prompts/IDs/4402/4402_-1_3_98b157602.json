@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio; approximately 92% low-intensity (black/dark gray) background pixels with 8% high-intensity (white/light gray) pixels appearing as discrete points and lines.",
+    "spatial_color_mapping": "Sparse distribution of small white circular blobs across both lobes; gray-to-white mottling is concentrated in the interior region adjacent to the median notch. Linear white streaks are densely mapped across the central and lower-mid sections of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated interior angle of approximately 55 degrees at the central lobe junction.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge. The left lobe exhibits a high-amplitude macro-excision (deep notch) at approximately 30% of the distance from the tip to the center; the right lobe shows more uniform, low-amplitude micro-serrations.",
+    "lobe_sweep_trajectory": "Bilateral convex trajectory; the right lobe maintains a more continuous arc while the left lobe's sweep is interrupted by significant edge irregularities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple clusters of high-contrast white circular pixel groups (~5-12 pixels in diameter) scattered bilaterally; prominent clusters are located in the upper-right quadrant and middle-left section.",
+    "linear_abrasions": "Dense network of unaligned, white, multi-directional linear pixel disruptions (rake marks) visible across both lobes, with high density in the lower-central region."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular macro-excision/trauma mark located on the trailing edge of the left lobe.",
+  "other_distinctive_markers": "A distinct, small white ring-shaped pixel structure is visible in the middle-right quadrant of the right lobe surface."
+}

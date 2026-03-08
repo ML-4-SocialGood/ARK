@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level dominance of low-intensity (black) pixels across the surface area with a secondary distribution of high-intensity (white) pixel clusters, creating a high-contrast speckled appearance.",
+    "spatial_color_mapping": "Dense distribution of small, contiguous white circular blobs (approximate diameter 2-10 pixels) scattered across both lobes against a uniform dark background, with higher density clusters at the distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped central depression dividing the lobes with a sharp, well-defined vertex.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern with low-amplitude pixel oscillations (peaks and valleys) along the entire continuous linear boundary of the trailing edge.",
+    "lobe_sweep_trajectory": "Convex curvature from the median notch extending to pointed, slightly hooked lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Extensive spatial detection of circular high-contrast white pixel clusters across both fluke lobes, consistent with localized attachment scars.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "The specific 'starry' density and spatial distribution of white mottling across an almost entirely black surface provides a unique visual identifier."
+}

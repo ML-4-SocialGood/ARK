@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio; approximately 82% high-intensity pixels (white/off-white) and 18% low-intensity pixels (black/dark-grey) localized to edges and base.",
+    "spatial_color_mapping": "Large contiguous white central zone (approx. coordinates [0.15, 0.20] to [0.85, 0.80] relative to fluke bounds). Low-intensity black banding follows the entire trailing edge boundary and the inferior peduncle insertion. Diffuse yellow-brown mottling clusters scattered across the central high-intensity zones of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide V-shaped central notch with an estimated pixel angle of 115 degrees; bounding-box depth is approximately 7% of the total vertical lobe height.",
+    "edge_topography_serration_map": "Highly irregular and jagged trailing edge topography. Left lobe distal region contains deep, non-uniform peaks and valleys (amplitude 15-30 pixels). Right lobe exhibits more rhythmic, lower-amplitude serrations (amplitude 5-12 pixels).",
+    "lobe_sweep_trajectory": "Asymmetric sweep; left lobe follows a sharp convex curve tapering distally with an upward orientation. Right lobe exhibits a broader, more vertical convex sweep with a wider distal chord."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Minor spatial detection of small, dark, roughly circular pixel clusters (3-6 pixel diameter) localized on the lower-mid quadrant of the right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular notches and missing sections of the distal trailing edge on the left lobe, indicating acquired physical trauma.",
+  "other_distinctive_markers": "Visible high-contrast vertical water drainage streams and droplets shedding from the distal tip of the left lobe."
+}

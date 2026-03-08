@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low global contrast ratio; the visible fluke surface is composed of >90% low-intensity (dark) pixels with high-intensity (white/light-tan) pixels localized to distal barnacle clusters and water spray.",
+    "spatial_color_mapping": "Homogeneous dark contiguous region across both lobes. A high-contrast cluster of light-colored geometric shapes is localized at the distal tip of the right lobe (approximate coordinates 90% width, 20% height relative to fluke bounding box)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped median notch with an estimated angle of 42 degrees and a depth of approximately 50 pixels from the adjacent lobe peaks.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitudes ranging from 4 to 12 pixels along the entire visible trailing edge; serrations are most jagged on the right lobe.",
+    "lobe_sweep_trajectory": "Convex curve fitted to the trailing edge of both lobes, transitioning to a downward-tapered convexity at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed cluster of approximately 12-18 roughly circular, high-contrast white and tan pixel groups (barnacles) on the distal tip of the right fluke lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization (Coronula spp.) attached to the trailing edge and distal tip of the right fluke lobe.",
+  "other_distinctive_markers": "A deep, secondary U-shaped indentation on the trailing edge of the right lobe, distinct from standard serrations, located approximately mid-way between the median notch and the tip."
+}

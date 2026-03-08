@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65% low-intensity (black/dark grey) to 35% high-intensity (white/off-white) across the visible ventral area.",
+    "spatial_color_mapping": "Large contiguous high-intensity white patches located at the lateral distal margins of both lobes. The central region near the peduncle is solid low-intensity black. The right lobe shows a large, solid white area with internal black mottling, while the left lobe displays more fragmented white streaks and scattered white pixel clusters."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with an approximate pixel-calculated interior angle of 50-60 degrees; depth is approximately 12% of the total vertical height of the fluke.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations (peaks and valleys) along the entire trailing boundary. The left lobe distal edge features deeper, more irregular jaggedness compared to the slightly smoother serrations on the right lobe.",
+    "lobe_sweep_trajectory": "Strong convex curve sweeping upwards and outwards from the median notch toward the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular high-contrast pixel clusters consistent with barnacle scarring. Two distinct side-by-side circles are visible on the lower-left white patch; several single circular marks are distributed across the right lobe's white and black transition areas.",
+    "linear_abrasions": "Multiple distinct, unaligned linear pixel disruptions. Vertical parallel rake marks are clearly visible on the white section of the right lobe; several finer, diagonal white scratches are present on the black skin of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Presence of vertical rake marks on the right lobe and multiple circular parasitic/barnacle scars on both lobes.",
+  "other_distinctive_markers": "A distinct yellowish-orange pixel cluster/growth is visible on the extreme outer tip of the left lobe."
+}

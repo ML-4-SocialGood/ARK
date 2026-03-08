@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Bimodal high-contrast distribution with approximately 40% high-intensity (white) pixels and 60% low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Left lobe: a contiguous high-intensity white region occupies the distal 60% of the fluke surface, containing various dark mottle clusters. Right lobe: predominantly low-intensity black with a small high-intensity white triangular blob at the distal tip and sparse white punctate spots throughout the medial region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern extracted along both trailing edges; includes multiple sharp peaks and U-shaped valleys with a pixel-amplitude variation of approximately 5-12 pixels.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a convex trajectory sweeping upward towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of dark circular pixel clusters on the high-intensity distal left lobe and high-intensity white circular spots on the low-intensity right lobe.",
+    "linear_abrasions": "Multiple dark, unaligned linear pixel disruptions detected on the white left lobe, including a set of parallel diagonal marks (rake-style) and localized horizontal scratches."
+  },
+  "acquired_anomalies_or_scars": "Extensive surface trauma visible as high-contrast linear rake marks on the left lobe and numerous circular rosette-pattern scars across the entirety of both visible lobe surfaces.",
+  "other_distinctive_markers": null
+}

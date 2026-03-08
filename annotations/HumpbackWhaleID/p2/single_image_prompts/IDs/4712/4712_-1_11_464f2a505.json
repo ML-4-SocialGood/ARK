@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity white pixels occupying approximately 70% of the surface area, contrasted with low-intensity black pixels concentrated at the fluke base, median notch, and perimeter boundaries.",
+    "spatial_color_mapping": "Two large, high-intensity contiguous white lobes divided by a central, low-intensity dark triangular wedge extending from the peduncle to the median notch. Low-intensity dark banding follows the entire trailing edge and terminal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated angle of approximately 50 degrees and a vertical pixel depth of roughly 12% of the fluke's total visible height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations present along the entire trailing edge, with increased pixel-amplitude peaks located at the primary lobe tips.",
+    "lobe_sweep_trajectory": "Moderate convex curvature transitioning to a slight upward sweep as the contour approaches the distal terminal points of both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of dark, high-contrast pixel groupings located along the upper-right and upper-left trailing margins, indicating localized surface disruptions.",
+    "linear_abrasions": "Numerous distinct dark linear pixel disruptions (rake marks) are scattered across the white intensity zones of both lobes, with a major concentration of unaligned marks on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive linear scarring across both ventral lobes; irregular low-intensity dark patches concentrated at the base of the fluke near the water line.",
+  "other_distinctive_markers": "Specific 'anchor' or 'Y' shaped dark pigmentation pattern centered at the fluke hinge."
+}

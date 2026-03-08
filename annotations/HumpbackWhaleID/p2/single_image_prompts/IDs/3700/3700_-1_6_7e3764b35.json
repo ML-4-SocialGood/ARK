@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixels with isolated high-intensity (white) clusters; estimated ratio is approximately 0.05 white to 0.95 black.",
+    "spatial_color_mapping": "Continuous dark pigmentation across >95% of surface; high-contrast white linear feature on left lobe spanning lower-medial to upper-lateral regions; sparse white circular focal spots distributed on both lobes; high-intensity white clusters localized at distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an internal angle of approximately 40-45 degrees; bounding box depth is approximately 15% of total lobe height.",
+    "edge_topography_serration_map": "High-frequency irregular serration with peak amplitudes ranging from 2-8 pixels; significant large-scale negative vertical deviation (notch) on the right lobe trailing edge approximately 3/4 distance from center.",
+    "lobe_sweep_trajectory": "Convex curvature on both lobes sweeping toward sharp, slightly recurved distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-intensity white pixel rings localized on the distal tips (barnacles); scattered faint circular outlines visible across the dark ventral surface.",
+    "linear_abrasions": "One prominent, high-intensity linear scar on the left lobe; multiple low-intensity linear rake marks visible on the right lobe running roughly parallel to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Deep traumatic indentation/notch on the upper trailing edge of the right lobe; prominent diagonal linear scar on the left lobe; barnacle clusters on tips.",
+  "other_distinctive_markers": "Unique deep geometric indentation on the right lobe's trailing edge creating a distinct discontinuity in the contour profile."
+}

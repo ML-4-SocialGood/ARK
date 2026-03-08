@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) distribution; estimated 0.05:0.95 ratio of high-intensity white/light-gray pixels to low-intensity black/dark-gray pixels across the visible ventral surface.",
+    "spatial_color_mapping": "High-contrast light-gray/white mottling cluster localized at the distal tip of the right lobe; distinct brownish-orange high-intensity pixel clusters concentrated on the superior trailing margin of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped central depression with an estimated interior pixel angle of 135 degrees and a bounding-box depth of approximately 15% of the total lobe height.",
+    "edge_topography_serration_map": "Continuous irregular trailing edge boundary with medium-frequency serrations; peak-to-valley pixel amplitude is highest on the distal third of both lobes.",
+    "lobe_sweep_trajectory": "Concave trailing edge curvature extending from the median notch to the distal tips; trailing edge orientation is roughly parallel to the water plane."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density cluster of circular, high-contrast brownish-orange pixel groupings consistent with barnacle colonization located on the upper margin of the left lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant structural irregularity and orange-brown pigmentation on the left lobe's trailing edge caused by dense barnacle colonization.",
+  "other_distinctive_markers": "Active water spray and droplet artifacts occluding the lower medial section of the left fluke lobe."
+}

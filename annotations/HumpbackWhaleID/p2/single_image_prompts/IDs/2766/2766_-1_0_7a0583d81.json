@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High ratio of high-intensity pixels (white) to low-intensity pixels (black); approximately 80% of the visible surface is white, with black pigmentation concentrated at the margins and central axis.",
+    "spatial_color_mapping": "Contiguous black pigmentation bands along the entire trailing edge; a distinct vertical dark band extending from the median notch toward the peduncle; scattered dark focal spots (mottling) distributed across both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with an estimated interior angle of 55 degrees; depth of notch is approximately 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration profile along the trailing edge boundary; contains multiple jagged peaks and deep valleys with non-uniform pixel amplitude.",
+    "lobe_sweep_trajectory": "Concave trajectory originating at the median notch, transitioning into a slightly convex curve toward the distal tips on both the left and right lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular and semi-circular dark pixel clusters (scarring) visible on the medial and distal regions of both lobes, particularly prominent on the right lobe.",
+    "linear_abrasions": "Several short, unaligned dark linear pixel disruptions visible on the left lobe, cutting through the primary white pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Extensive circular scarring across the ventral surface; irregular tearing/erosion visible at the tips of the trailing edge.",
+  "other_distinctive_markers": "Asymmetric trailing edge profile with more pronounced serration peaks on the right lobe tip compared to the left."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio of high-intensity to low-intensity pixels; the surface is dominated by low-intensity (dark) values with minimal high-intensity (white) regions.",
+    "spatial_color_mapping": "Predominantly dark, contiguous pigmentation across both lobes with subtle mottling on the right lobe (viewer's right); a small cluster of higher-intensity pixels is located on the superior margin of the right lobe tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "U-shaped central depression with a calculated pixel convergence angle of approximately 70-80 degrees and a moderate bounding-box depth relative to lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations detected along the entire trailing edge span; distinct peaks and shallow valleys create a jagged linear boundary, most prominent on the outer thirds of both lobes.",
+    "lobe_sweep_trajectory": "Convex curvature fitted to the leading edges, sweeping upwards towards pointed distal extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular indentations and small missing segments along the trailing edge topography, particularly on the superior-most edge of the right lobe.",
+  "other_distinctive_markers": null
+}

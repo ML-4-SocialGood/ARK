@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level distribution is heavily biased toward low-intensity (dark-grey/black) pixels; estimated ratio of high-intensity (white/light-grey) to low-intensity pixels is approximately 0.12:1.",
+    "spatial_color_mapping": "Primary contiguous dark-intensity field across both lobes. Distinct high-contrast white circular blobs (diameter 2-5 pixels) are localized on the mid-to-distal regions of the right lobe. Left lobe shows diffuse grey-scale mottling near the central axis."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped depression with an estimated interior angle of 135-145 degrees; vertex is partially obscured by water-surface pixel noise.",
+    "edge_topography_serration_map": "Right lobe trailing edge exhibits high-frequency, irregular serration with pixel-amplitudes of 4-10 pixels. Left lobe trailing edge is comparatively smoother with three distinct macro-indentations of lower frequency.",
+    "lobe_sweep_trajectory": "Left lobe trajectory is approximately linear with slight terminal convexity; right lobe exhibits a more continuous convex curvature toward the lateral tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of approximately 8-12 discrete, high-contrast circular pixel clusters on the right lobe, consistent with rosette-style scarring.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular serration and jagged contour on the right lobe trailing edge suggests substantial previous tissue loss or mechanical wear.",
+  "other_distinctive_markers": null
+}

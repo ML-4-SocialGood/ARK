@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 30:70 ratio of high-intensity (white/light-gray) to low-intensity (black/dark-gray) pixels across the total visible fluke area.",
+    "spatial_color_mapping": "Large, contiguous high-intensity geometric blob occupying the distal two-thirds of the right fluke lobe; left lobe is predominantly low-intensity with sparse, faint mottled light pixels along the leading edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated pixel angle of approximately 50 degrees at the vertex.",
+    "edge_topography_serration_map": "High-frequency, irregular pixel-amplitude variations along the right trailing edge with a prominent notch-like indentation mid-lobe; left trailing edge displays lower-amplitude, smoother undulating topography.",
+    "lobe_sweep_trajectory": "Symmetrical convex upward sweep for both lobes, terminating in pointed, textured distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast, high-texture pixel clusters concentrated at the distal tips and along the leading edges of both lobes, consistent with localized surface encrustation.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Notable traumatic tissue loss or irregular indentation on the trailing edge of the right lobe, approximately mid-way between the median notch and the distal tip.",
+  "other_distinctive_markers": "Pronounced pigmentation asymmetry characterized by a high-intensity white patch localized almost exclusively on the right lobe against a dark field."
+}

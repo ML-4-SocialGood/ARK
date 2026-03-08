@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low global contrast ratio; dominant low-intensity (black) pixels across >95% of the visible ventral surface, with high-intensity (white) pixels localized to distal tips and scattered scars.",
+    "spatial_color_mapping": "Contiguous dark-field base (near-black). High-contrast white clusters (approx. 50-100 pixels in diameter) localized at the extreme distal tips. Approximately 15-20 circular high-intensity rings (radius 5-10 pixels) distributed semi-randomly across both lobe surfaces."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated interior angle of approximately 25-30 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the trailing edge. Left lobe exhibits 6 distinct peaks with varying pixel-amplitudes (10-30 pixels). Right lobe exhibits 5 primary peaks with similar amplitude variance.",
+    "lobe_sweep_trajectory": "Convex curves sweeping symmetrically from the median notch toward the distal tips, terminating in an upward-curved point."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular white ring patterns (rosette scars) detected across both lobes. Dense high-contrast white pixel clusters corresponding to barnacle colonization are located at the furthest lateral points of both fluke tips.",
+    "linear_abrasions": "Faint, unaligned linear pixel disruptions detected on the inner-left lobe surface, oriented diagonally toward the fluke base."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle encrustation at both distal tips and numerous circular attachment scars (rosettes) distributed across the entire visible ventral dark field.",
+  "other_distinctive_markers": null
+}

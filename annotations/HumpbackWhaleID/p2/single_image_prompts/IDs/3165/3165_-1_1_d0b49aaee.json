@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity (white) surface area comprising approximately 70% of the visible fluke, with low-intensity (black) pixels concentrated at the trailing edges and median notch region, creating a macro-level ratio of roughly 2.3:1.",
+    "spatial_color_mapping": "Two large, contiguous high-intensity (white) zones occupy the center of both lobes. Low-intensity (black) pigmentation forms a continuous boundary along the entire trailing edge, expanding into a dark triangular region at the median notch. Three distinct, discrete low-intensity focal spots (dots) are located in the upper-medial quadrant of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central depression with an estimated pixel angle of 65 degrees and a vertical bounding-box depth of approximately 45 pixels.",
+    "edge_topography_serration_map": "High-frequency serration map along the entire trailing boundary. Right lobe exhibits higher-amplitude peaks (5-10 pixels) and a jagged, irregular distal extremity. Left lobe shows more uniform, lower-amplitude variations.",
+    "lobe_sweep_trajectory": "Leading edge displays a smooth parabolic convexity. The trailing edge follows a sigmoid curve, transitioning from concave near the median notch to convex as it approaches the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Three distinct dark circular pixel clusters detected on the right lobe, oriented in a triangular formation; one smaller isolated dark cluster visible on the inner left lobe.",
+    "linear_abrasions": "A series of at least four faint, dark, non-aligned linear pixel disruptions (rake marks) are visible on the medial portion of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "The distal tip of the right lobe features a prominent, irregular high-contrast mass and jagged indentation, likely representing localized trauma or barnacle colonization.",
+  "other_distinctive_markers": "A trail of high-intensity pixel noise (water droplets) is captured in mid-air directly beneath the trailing edge of the left lobe."
+}

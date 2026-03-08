@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65:35 ratio of high-intensity yellowish-tan pixels to low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant central high-intensity tan region bifurcated by the median notch, bordered by a dense low-intensity black perimeter. Irregular black pixel streaks and small focal clusters are mapped within the interior tan regions, particularly on the right lobe's medial-distal quadrant."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated interior pixel angle of approximately 52 degrees and a high-depth bounding box relative to the lobe height.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude irregular serrations present along the entire trailing edge boundary, characterized by sharp peaks and jagged valleys ranging from 5 to 20 pixels in depth.",
+    "lobe_sweep_trajectory": "Sigmoidal curve fitting showing initial concavity moving outward from the median notch, transitioning to a convex sweep towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of multiple small, circular high-contrast white pixel clusters (rosettes) concentrated primarily on the distal tips and near the insertion point at the bottom center.",
+    "linear_abrasions": "Distinct dark, unaligned linear pixel disruptions (rake marks) observed on the right lobe, specifically a cluster of three parallel diagonal lines in the lower-medial section."
+  },
+  "acquired_anomalies_or_scars": "Significant physical erosion and irregular tissue loss along the trailing edge serrations; dark linear scarring on the right lobe surface.",
+  "other_distinctive_markers": "Unique feathered transition zone where the black perimeter pigmentation interdigitates with the central tan region in a splash-like pattern."
+}

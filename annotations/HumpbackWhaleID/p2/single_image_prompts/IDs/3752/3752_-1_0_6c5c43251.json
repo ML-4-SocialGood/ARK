@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Visible surface area displays a high-contrast ratio of approximately 35% high-intensity (white) pixels to 65% low-intensity (black) pixels.",
+    "spatial_color_mapping": "Large contiguous high-intensity white blobs are localized on the lateral lobes. The left lobe contains a broad, mostly solid white field with dark speckling near the notch. The right lobe contains a smaller, more fragmented white patch with significant dark pixel interruptions. The central peduncle and medial regions are uniformly low-intensity (black)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped central depression with a calculated angle of approximately 48 degrees and a shallow bounding-box depth.",
+    "edge_topography_serration_map": "Low-frequency, medium-amplitude serrations (peaks and valleys) are visible along the continuous trailing boundary, with greater jaggedness observed towards the distal tips.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a symmetrical concave sweep from the median notch to the tips, while leading edges show a smooth convex curvature."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-intensity, roughly circular pixel groups (consistent with barnacle attachment points) are visible at the extreme distal tips of both lobes.",
+    "linear_abrasions": "Distinct dark, unaligned linear pixel disruptions (rake marks) are detected predominantly on the white field of the right lobe and more sparsely on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Multiple vertical and diagonal linear scars (rake marks) are visible as low-intensity disruptions crossing the high-intensity white pigment fields.",
+  "other_distinctive_markers": null
+}

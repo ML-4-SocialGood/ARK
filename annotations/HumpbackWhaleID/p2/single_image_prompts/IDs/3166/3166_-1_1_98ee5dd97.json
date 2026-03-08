@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity white pixels (approx. 85%) contrasted against low-intensity black pixels (approx. 15%) primarily located at the margins and central base.",
+    "spatial_color_mapping": "Contiguous white field across central lobes. Low-intensity black border along the entire superior trailing edge and distal tips. Distinctive black 'fir-tree' or 'pagoda' shaped pigmentation extending vertically from the inferior center base [approx. x: 0.45-0.55, y: 0.65-1.0 relative scale] into the white area."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped central depression with an interior angle of approximately 58 degrees and a vertical bounding-box depth of approx. 12% of the total fluke height.",
+    "edge_topography_serration_map": "Continuous jagged topography with high-frequency micro-variations; pixel-amplitudes range from 2-5 pixels in the center to 15-20 pixels near the distal tips, creating a highly irregular serrated boundary.",
+    "lobe_sweep_trajectory": "Bi-concave mathematical curve extending from the median notch toward sharply pointed, superiorly-oriented lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of 5-8 faint, low-contrast circular ring-like outlines (diameters approx. 15-30 pixels) scattered on the right lobe; concentrated dark focal spots visible on the distal left lobe.",
+    "linear_abrasions": "Two prominent, high-contrast curved black linear marks (length approx. 120 pixels) in the upper right quadrant; multiple smaller, unaligned linear pixel disruptions on the lower left quadrant."
+  },
+  "acquired_anomalies_or_scars": "Unique 'tiered' or 'stacked' black pigmentation pattern at the inferior peduncle junction, consisting of three distinct horizontal segments of decreasing width as they ascend.",
+  "other_distinctive_markers": "Randomized dark 'speckle' pixels scattered throughout the central white field, with a specific dense cluster near the far-left lateral margin."
+}

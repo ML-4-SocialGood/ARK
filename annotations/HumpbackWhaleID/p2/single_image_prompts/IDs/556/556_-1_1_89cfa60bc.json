@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-dominance of low-intensity black pixels (>90%) with sparse high-intensity white linear disruptions.",
+    "spatial_color_mapping": "Contiguous black mapping across central and upper regions. Focal high-contrast white linear groupings located in the lower-left and lower-right quadrants. High-intensity cluster on the far distal left tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow U-shaped depression with a wide obtuse angle and low bounding-box depth relative to fluke width.",
+    "edge_topography_serration_map": "Highly irregular topography. Features a major high-amplitude rectangular indentation on the upper-left lobe boundary. Continuous low-amplitude serrations mapped across the right lobe boundary.",
+    "lobe_sweep_trajectory": "Concave curvature extending from the median notch toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small circular high-contrast white pixel clusters detected on the far left tip and along the right lobe trailing edge.",
+    "linear_abrasions": "Extensive parallel sets of white linear pixel disruptions (rake marks) visible on both lobes, trending diagonally from the lower center toward the outer edges."
+  },
+  "acquired_anomalies_or_scars": "Major V-shaped/rectangular tissue loss on the upper trailing edge of the left lobe.",
+  "other_distinctive_markers": "Prominent, multi-striated parallel rake mark patterns covering approximately 30% of the visible ventral surface."
+}

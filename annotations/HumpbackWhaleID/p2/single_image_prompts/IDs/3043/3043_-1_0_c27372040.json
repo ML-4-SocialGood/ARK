@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 40:60 ratio of high-intensity white/light-gray pixels (concentrated on the right lobe) to low-intensity black/dark-gray pixels (dominant on the left lobe and central regions).",
+    "spatial_color_mapping": "Right lobe: Broad contiguous high-intensity region with localized dark stippling and mottling concentrated near the distal tip and trailing edge. Left lobe: Predominantly uniform low-intensity dark mapping with minor high-intensity pixel clusters near the trailing boundary."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped depression with a calculated pixel angle of approximately 35 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern across both lobes. Right lobe features a prominent high-amplitude peak approximately 30% inward from the tip. Left lobe displays a more uniform, lower-amplitude jagged boundary.",
+    "lobe_sweep_trajectory": "Strong concave curvature originating from the median notch extending to sharply pointed, upturned distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast dark clusters on a light background are visible on the distal tip of the right lobe; similar high-intensity clusters are visible at the extreme tip of the left lobe.",
+    "linear_abrasions": "A distinct, unaligned diagonal linear disruption (scratch) is visible in the upper-medial quadrant of the left lobe, oriented roughly 45 degrees toward the notch."
+  },
+  "acquired_anomalies_or_scars": "Prominent diagonal linear scar on the left lobe surface; irregular indentation/trauma site on the right lobe trailing edge approximately one-third distance from the distal tip.",
+  "other_distinctive_markers": "Pronounced pigmentation asymmetry characterized by a nearly solid dark left lobe and a predominantly white mottled right lobe."
+}

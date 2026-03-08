@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:3 ratio of high-intensity white pixels to low-intensity black/grey pixels across the visible ventral surface.",
+    "spatial_color_mapping": "High-intensity white pigmentation is concentrated in large contiguous blobs at the distal tips of both lobes; the central and medial regions are dominated by low-intensity black pixels with sparse, localized white mottling/speckling."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A narrow V-shaped central notch is visible with an estimated vertex angle of 40 degrees; the lower vertex point is partially obscured by water turbulence.",
+    "edge_topography_serration_map": "The trailing edge exhibits high-frequency, irregular serrations with pixel-amplitudes ranging from 2 to 6 pixels; serrations are more pronounced and jagged on the right lobe compared to the left.",
+    "lobe_sweep_trajectory": "The trailing edges of both lobes follow a distinct concave curve from the median notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of circular high-contrast white pixels are visible on the medial-posterior region of the right lobe and near the trailing edge of the left lobe.",
+    "linear_abrasions": "A single, distinct vertical linear pixel disruption (rake mark) is visible on the inner-medial surface of the left lobe, breaking the dark pigmentation."
+  },
+  "acquired_anomalies_or_scars": "The distal tips of both fluke lobes show significant irregular edge loss; the right tip displays a distinct cluster of brownish-orange pixels (hex range #8B4513 to #A52A2A) suggesting biological growth or exposed tissue.",
+  "other_distinctive_markers": "Pronounced brownish-orange discoloration present at the extreme lateral points of both fluke lobes, contrasting with the primary black and white fluke pigmentation."
+}

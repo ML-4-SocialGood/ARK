@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Pronounced bimodal distribution; left lobe exhibits high-intensity (white) pixel dominance while the right lobe and central region exhibit low-intensity (black) pixel dominance. Ratio of high-to-low intensity pixels is approximately 45:55.",
+    "spatial_color_mapping": "Left lobe: Contiguous white pigmentation from leading edge to trailing edge with dark mottling concentrated at the trailing margin. Right lobe: Solid dark pigmentation with distinct circular white clusters localized on the distal third and along the lower interior margin."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated angle of approximately 35 degrees; the apex is sharp and visible above the water line.",
+    "edge_topography_serration_map": "Left lobe: Micro-serrations with high frequency and low amplitude. Right lobe: Irregular topography characterized by several high-amplitude nicks and a jagged trailing boundary, notably a significant indent midway between the notch and tip.",
+    "lobe_sweep_trajectory": "Left lobe follows a smooth convex curve tapering to a sharp distal point. Right lobe follows a similar convex trajectory but terminates in a blunter, more irregular distal boundary."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular white pixel clusters (scars) detected on the dark right lobe, particularly near the trailing edge. Reciprocal dark circular speckling detected on the white field of the left lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Visible traumatic loss of tissue (nicks) on the trailing edge of the right lobe, including one prominent rectangular indentation midway to the tip.",
+  "other_distinctive_markers": "Foreground occlusion caused by an avian subject (bird) flying centrally across the fluke notch area."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white/light-gray pixels occupy approximately 90% of the interior surface area, contrasted by a low-intensity black/dark-gray peripheral border occupying approximately 10%.",
+    "spatial_color_mapping": "Contiguous dark-intensity band following the entire trailing edge and distal tips. The interior is a uniform light-intensity field with sparse, low-contrast grayish mottling in the center-right region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a narrow vertex angle and a depth of approximately 45 pixels relative to the peak of the adjacent lobes.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the entire margin; right distal tip exhibits higher amplitude, jagged peaks (approx. 5-8 pixels) compared to the smoother, lower-amplitude wave pattern on the medial sections.",
+    "lobe_sweep_trajectory": "Convex curve extending from the median notch toward the distal tips, terminating in a sharp downward hook at the lateral extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Highly symmetrical dark border framing the light-colored ventral surface, with distinct pixel-level 'stepping' on the right lobe tip's serrations."
+}

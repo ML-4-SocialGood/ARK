@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65% low-intensity (dark grey/black) to 35% high-intensity (white/off-white) pixels across the visible ventral surface area.",
+    "spatial_color_mapping": "Left lobe (image left) features a high-intensity contiguous patch on the outer distal margin with interior speckling. Right lobe (image right) exhibits extensive, high-contrast white striations and mottling originating from the tip and extending across approximately 50% of the lobe's surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated aperture of approximately 72 degrees and a depth-to-height ratio of roughly 0.15.",
+    "edge_topography_serration_map": "Irregular trailing boundary with high-frequency micro-serrations and several larger macro-indentations; right lobe distal edge shows higher amplitude pixel-shifts (15-20 pixels) compared to the left.",
+    "lobe_sweep_trajectory": "Convex mathematical curve fitted to the trailing edges of both lobes, sweeping upward from the median notch toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of localized, circular, high-contrast pixel clusters (barnacle colonies) on the terminal distal tips of both lobes; left tip shows a cluster of ~8 units, right tip shows ~6 units.",
+    "linear_abrasions": "Distinct, thin, low-width white linear disruptions (rake marks) visible on the medial dark region of the right lobe, oriented diagonally toward the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Ectoparasitic calcified clusters (barnacles) present on the distal tips; minor structural irregularities/chipping along the trailing edge of the right lobe tip.",
+  "other_distinctive_markers": "Highly asymmetrical pigmentation mapping; the right lobe contains a significantly higher density of white pixel clusters compared to the predominantly dark left lobe."
+}

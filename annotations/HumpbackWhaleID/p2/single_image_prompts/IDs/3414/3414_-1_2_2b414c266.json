@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 60:40 ratio of high-intensity white to low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Large contiguous white regions occupy the distal two-thirds of both lobes. The left lobe contains a high-density cluster of approximately 15-20 small, dark focal spots. The right lobe features a more uniform white field with fewer, larger isolated dark spots. The proximal region and leading edges are dominated by solid low-intensity black pixels."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated U-shaped depression with an approximate pixel angle of 130 degrees and moderate depth.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the entire trailing edge. The serrations transition into deep, irregular jagged peaks at the distal tips of both lobes, isolated against the grey water background.",
+    "lobe_sweep_trajectory": "Concave trajectory from the median notch that flattens before reaching the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple localized circular dark pixel clusters (approximately 2-5 pixels in diameter) are detected primarily on the white background of the left lobe tip.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular tissue loss and jagged serration at both the left and right distal tips, indicating historical trauma or wear.",
+  "other_distinctive_markers": "Unique 'peppered' distribution of dark spots localized specifically to the outer quadrant of the left lobe's white field."
+}

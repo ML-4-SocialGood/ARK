@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixel distribution with high-intensity (white) highlights concentrated at the distal tips and along portions of the leading edge, yielding a high contrast range but a low ratio of light-to-dark surface area.",
+    "spatial_color_mapping": "Large contiguous low-intensity regions cover the interior of both lobes. High-intensity contiguous pixel clusters (blobs) are mapped to the extreme lateral tips and upper margins of the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp, acute V-shaped central depression with significant pixel depth relative to the horizontal width of the fluke lobes.",
+    "edge_topography_serration_map": "High-frequency, irregular serration profile characterized by distinct peaks (denticles) and narrow valleys across the entire trailing edge boundary, clearly contrasted against the ocean background.",
+    "lobe_sweep_trajectory": "Symmetrical convex curvature along the trailing edge of the lobes, tapering into sharp distal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-contrast white circular pixel groups (consistent with barnacle scarring) are visible on the distal tip of the right lobe.",
+    "linear_abrasions": "Prominent, high-contrast dark-to-light linear disruption (rake mark) oriented vertically/diagonally on the right lobe. Additional faint, parallel linear streaks are visible across the central-left lobe area."
+  },
+  "acquired_anomalies_or_scars": "Significant deep linear scar on the right fluke lobe extending from the trailing edge toward the peduncle connection point.",
+  "other_distinctive_markers": "Alphanumeric metadata overlay present at the base of the image containing specific identifiers: TEC98-7/16, ID 11248, TODD CHANDLER, S# N2-4, 04 May 98 Half Moon Bay."
+}

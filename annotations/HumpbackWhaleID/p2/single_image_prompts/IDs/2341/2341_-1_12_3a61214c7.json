@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low global contrast with a dominant distribution of low-intensity (dark) pixels; high-intensity (white/grey) pixels are localized to mottling and scar tissue, estimated at a 1:7 ratio.",
+    "spatial_color_mapping": "Predominantly dark pigmentation with diffuse mid-intensity grey mottling concentrated in the central-medial region and distal lobes; localized high-contrast circular pixel rings (scars) on the right ventral lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped indentation at the central axis dividing the lobes with a defined vertex.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude irregular serrations and jagged notches extracted along the continuous linear boundary of the trailing edge.",
+    "lobe_sweep_trajectory": "Convex leading edges tapering to acute distal points; trailing edges exhibit a generally concave trajectory interrupted by significant serration."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of approximately 5-7 circular, ring-like high-contrast pixel clusters on the mid-to-inner right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant clusters of white, high-intensity barnacle colonization on both distal fluke tips; extensive irregular trailing edge topography indicating traumatic tissue loss.",
+  "other_distinctive_markers": "Combination of distinctive circular scarring and highly irregular 'chewed' trailing edge profile."
+}

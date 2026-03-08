@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio with approximately 80% low-intensity pixels (black/dark grey) and 20% high-intensity pixels (white/light grey) across the visible ventral surface.",
+    "spatial_color_mapping": "Contiguous high-intensity (white) mottled regions localized at the distal lateral margins (tips) of both lobes. Central and proximal fluke regions consist of a dominant, low-intensity (black) contiguous field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped notch with an approximate interior angle of 112 degrees and a depth-to-width ratio of approximately 0.15 relative to the central fluke area.",
+    "edge_topography_serration_map": "Continuous irregular serration across the entire trailing edge boundary; pixel-amplitude of variations is highest (approx. 5-15 pixels) at the outer thirds of each lobe, decreasing in frequency toward the median notch.",
+    "lobe_sweep_trajectory": "Trailing edge exhibits a moderately concave trajectory from the median notch extending to the mid-lobe, transitioning to a convex curve at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular high-contrast pixel clusters (diameter 4-12 pixels) distributed across the dark medial regions, with the highest density observed on the left lobe.",
+    "linear_abrasions": "Detected several unaligned linear pixel disruptions; most prominent are a vertical high-intensity streak at the peduncle junction and diagonal rake-like marks on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive clusters of high-contrast, rough-textured extrusions (barnacles) localized on the extreme leading and trailing edges of the distal tips; several small V-shaped nicks along the trailing edge.",
+  "other_distinctive_markers": "A singular, isolated vertical white pigment streak located precisely on the central axis of the peduncle-fluke transition."
+}

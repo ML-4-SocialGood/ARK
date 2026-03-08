@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixel distribution across the visible fluke surface, with high-intensity (white) pixels occupying approximately 3-5% of the total area, primarily concentrated in localized markings.",
+    "spatial_color_mapping": "Dominant black field. High-contrast white 'V' shaped cluster on the right lobe at approximately coordinates [0.80x, 0.35y]. Small, discrete white circular clusters (mottling) visible on the left lobe between [0.15x, 0.40y] and [0.30x, 0.55y]."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate internal angle of 45-55 degrees, extending significantly toward the fluke's leading edge.",
+    "edge_topography_serration_map": "Extremely irregular and high-amplitude serration map along the entire trailing edge boundary. Multiple distinct peaks and valleys with heights ranging from 5 to 25 pixels, creating a jagged profile isolated from the water background.",
+    "lobe_sweep_trajectory": "Both lobes exhibit a general concave curvature along the trailing edge leading toward the median notch, while the distal tips transition into more complex, irregular geometries."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of several small, high-contrast circular pixel clusters on the left lobe, centered around [0.22x, 0.45y], consistent with focal pigmentation loss.",
+    "linear_abrasions": "A single, prominent vertical linear white disruption (scratch) is detected on the left lobe at approximately [0.24x, 0.50y], oriented nearly perpendicular to the fluke's long axis."
+  },
+  "acquired_anomalies_or_scars": "A prominent white 'V' scar is present on the right lobe. The right distal tip shows an irregular silhouette with high-frequency pixel noise and varied intensities, suggesting biofouling (e.g., barnacles or algae) or past physical trauma.",
+  "other_distinctive_markers": "The combination of the specific 'V' mark on the right lobe and the vertical linear abrasion on the left lobe creates a unique identifying pattern."
+}

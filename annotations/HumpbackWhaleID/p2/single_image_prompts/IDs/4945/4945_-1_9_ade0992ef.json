@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity dark pixels (estimated >95%) with sparse high-intensity white/light-grey pixels localized primarily at the trailing edge boundary and the median notch.",
+    "spatial_color_mapping": "Isolated white mottling patches along the trailing edges of both lobes. Distinct high-intensity punctate clusters near the median notch. A dense, low-contrast brownish-grey textured cluster at the terminal tip of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central notch with a calculated vertex angle of approximately 45-50 degrees.",
+    "edge_topography_serration_map": "Continuous small-scale serrations visible along the entire trailing edge boundary, characterized by high-frequency, low-amplitude (3-6 pixel) peaks and valleys.",
+    "lobe_sweep_trajectory": "Both lobe trailing edges exhibit a symmetrical convex curvature sweeping upward and outward from the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Large, dense cluster of circular, high-contrast textured pixels at the tip of the right lobe consistent with sessile organism colonization. Scattered white circular spots across the mid-region of the left lobe.",
+    "linear_abrasions": "Faint, light-grey linear streaks with non-uniform orientations visible on the dark background of the left lobe's ventral surface."
+  },
+  "acquired_anomalies_or_scars": "Significant accumulation of biofouling/barnacles at the distal tip of the right lobe, creating an irregular, thickened edge profile.",
+  "other_distinctive_markers": "Visible water droplets and filaments shedding vertically from multiple points along the trailing edge of the fluke."
+}

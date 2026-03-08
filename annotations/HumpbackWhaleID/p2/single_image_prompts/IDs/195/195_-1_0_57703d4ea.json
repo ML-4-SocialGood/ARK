@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution with a ratio of approximately 1.2:1 (white-to-black), characterized by a solid dark central peduncle region and bright white medial lobes with dense peripheral black mottling.",
+    "spatial_color_mapping": "Central black mass extends from the peduncle into the notch vertex. Broad contiguous white zones occupy the interior 60% of both lobes. Dense, dendritic black pigment clusters are concentrated along the trailing edge and distal tips, with a higher density of filigree-like patterns on the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped notch with a measured pixel angle of approximately 42 degrees and a significant bounding-box depth relative to the fluke width.",
+    "edge_topography_serration_map": "High-frequency, irregular serration profile. Both lobes exhibit distinct sawtooth-like peaks and valleys with pixel-amplitudes varying between 3-10 pixels. The right lobe tip shows a pronounced irregular jaggedness compared to the left.",
+    "lobe_sweep_trajectory": "Concave curve following the trailing edge toward the notch; the overall lobe shape exhibits a characteristic S-curve with convex leading edges and tapered distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Observation of small, circular, high-intensity white pixel clusters (2-4 pixels in diameter) localized on the black pigment regions of the right lobe, consistent with barnacle-related depigmentation.",
+    "linear_abrasions": "Multiple dark, non-aligned linear pixel disruptions are visible across the white field of the left lobe, appearing as thin scratches cutting through the primary pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Extreme serration and potential loss of tissue at the distal trailing edges, particularly the right tip, along with visible linear rake-like marks on the left lobe.",
+  "other_distinctive_markers": "Unique 'ink-splatter' dendritic patterning on the far right lobe where black pigment forms branching structures into the white field."
+}

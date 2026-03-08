@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) with a secondary distribution of high-intensity (white) pixels, estimated at a 5:1 ratio across the visible surface.",
+    "spatial_color_mapping": "Large contiguous white patch on the distal-medial region of the left lobe; scattered high-contrast punctate spots across the central and right lobe regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a measured pixel angle of approximately 65 degrees and moderate depth relative to lobe width.",
+    "edge_topography_serration_map": "Continuous irregular trailing edge with high-frequency, low-amplitude serrations on the right lobe and larger, more irregular peaks and valleys on the left lobe distal region.",
+    "lobe_sweep_trajectory": "Concave curve fitted to the trailing edge of the right lobe; more complex S-curve on the left lobe trailing edge leading to the tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular high-contrast white clusters localized on the medial left lobe and near the peduncle attachment point.",
+    "linear_abrasions": "Faint diagonal linear pixel disruptions on the left lobe, oriented roughly 45 degrees relative to the median notch axis."
+  },
+  "acquired_anomalies_or_scars": "Prominent notch and irregular hooking at the distal tip of the left lobe.",
+  "other_distinctive_markers": "Presence of a secondary fluke or fin structure in the lower right foreground of the pixel array."
+}

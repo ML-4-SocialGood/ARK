@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution; approximately 80% low-intensity (black) pixels concentrated in the central and proximal regions, with 20% high-intensity (white) pixels localized at the distal fluke tips.",
+    "spatial_color_mapping": "Dominant low-intensity central mass spanning both lobes; high-intensity white patches are mapped to the distal ends of the lobes, specifically a large contiguous white region on the right lobe tip containing fragmented dark pixel clusters."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with acute angular convergence at the fluke's vertical midline.",
+    "edge_topography_serration_map": "High-frequency jagged serrations along the trailing edge; right lobe exhibits larger amplitude pixel-valleys and peaks compared to the more uniform left lobe edge.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a concave sweep from the median notch toward the distal tips; leading edges (partially submerged) show convex curvature."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple dark, roughly circular pixel clusters detected within the high-intensity white field of the right distal lobe tip.",
+    "linear_abrasions": "Fine, vertical low-intensity linear marks visible across the dark pigmented surface of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Distinct irregular indentation or notch on the outer margin of the right fluke tip, indicative of prior tissue loss or significant abrasion.",
+  "other_distinctive_markers": "Unique stippled pigmentation pattern at the transition zone between black and white fields on the right lobe's distal surface."
+}

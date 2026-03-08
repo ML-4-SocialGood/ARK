@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface with a calculated ratio of approximately 92% low-intensity to 8% high-intensity pixels localized to surface anomalies.",
+    "spatial_color_mapping": "Continuous low-intensity (black) pigmentation field across both lobes. High-contrast circular pixel clusters (white/light-grey) are distributed non-uniformly, with high-density clusters at the distal tips and scattered focal points throughout the medial fluke areas."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated internal angle of approximately 75 degrees and a high depth-to-width ratio within the central bounding box.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations detected along the entire trailing edge boundary. Significant pixel-amplitude variations (jagged peaks) are visible, particularly on the upper-outer quadrants of both lobes.",
+    "lobe_sweep_trajectory": "Trailing edges follow a sigmoidal curve, exhibiting concavity adjacent to the median notch transitioning to a broad convexity towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Extensive detection of ring-shaped high-contrast pixel clusters (5-20 pixel diameters) distributed across the ventral surface, with specific high-density clusters in the mid-lower regions of both lobes.",
+    "linear_abrasions": "Fine, unaligned high-intensity linear traces detected on the left lobe, oriented primarily in a transverse axis relative to the fluke span."
+  },
+  "acquired_anomalies_or_scars": "Large, three-dimensional calcified clusters (barnacles) are present and protruding from the distal margins of both the left and right lobes.",
+  "other_distinctive_markers": null
+}

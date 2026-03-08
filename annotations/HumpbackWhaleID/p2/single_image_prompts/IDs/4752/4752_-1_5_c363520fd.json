@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The macro-level ratio consists of approximately 65% high-intensity (white) pixels localized on the lateral lobes and 35% low-intensity (black) pixels concentrated in the central peduncle insertion area and along the inferior and trailing margins.",
+    "spatial_color_mapping": "Two primary high-contrast contiguous white blobs are mapped to the left and right lobes (Coordinates: L[x:120-450, y:300-600], R[x:550-900, y:280-550]). A central low-intensity black vertical band divides these regions. Fine-grain black mottling and focal spots are densely mapped along the transition boundaries of the inferior margins."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "The central depression is a sharp V-shaped notch with an estimated pixel angle of 48 degrees and a narrow bounding-box depth relative to the total fluke width.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations are detected along the continuous trailing edge. Pixel-amplitude variations range from 5 to 25 pixels, with the most extreme peaks and valleys localized at the distal tips of both lobes.",
+    "lobe_sweep_trajectory": "The trailing edge follows a sigmoidal curve; it is convex near the median notch, transitioning to a slight concavity mid-lobe, and returning to a convex sweep toward the outer tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-contrast tan and white circular pixel groups, indicative of barnacle colonies, are localized on the outer distal edges of both lobes.",
+    "linear_abrasions": "Densely mapped, unaligned dark linear pixel disruptions (rake marks) are visible cutting through the high-intensity white pigmentation on both the left and right lobe surfaces."
+  },
+  "acquired_anomalies_or_scars": "Significant tissue irregularity and erosion are visible on the distal tips of the fluke, integrated with barnacle colonization. Numerous healed linear rake marks are distributed across the visible ventral surface.",
+  "other_distinctive_markers": "Detection of non-target biological features in the frame: one dark-intensity avian profile in the upper right quadrant and one pinniped head (sea lion) visible in the lower right foreground at the water surface interface."
+}

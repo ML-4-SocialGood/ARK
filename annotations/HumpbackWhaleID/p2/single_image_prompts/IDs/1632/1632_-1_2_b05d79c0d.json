@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution characterized by a dominant low-intensity (dark grey/black) background interspersed with numerous high-intensity (white) focal points.",
+    "spatial_color_mapping": "The surface presents a uniform dark-grey base. High-contrast white circular pixel blobs are distributed across both lobes, with a significantly higher spatial density and clustering observed on the left lobe compared to the right."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "The central depression is a shallow U-shaped notch with a wide, obtuse vertex angle and low bounding-box depth relative to the total lobe width.",
+    "edge_topography_serration_map": "The trailing edge exhibits continuous, fine-grained serration. The boundary is defined by low-amplitude, high-frequency irregular peaks and valleys, particularly pronounced towards the distal regions.",
+    "lobe_sweep_trajectory": "The trailing edges follow a predominantly convex curve from the central notch to the tips, with localized irregularities near the distal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dozens of high-contrast, roughly circular white pixel clusters are detected. The left lobe contains a dense constellation of approximately 30+ focal spots, while the right lobe shows more isolated and sparsely distributed clusters.",
+    "linear_abrasions": "A single, prominent, diagonal linear white mark is detected on the upper-medial quadrant of the right lobe, cutting through the dark pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Large, irregular, white/beige textured protrusions are visible at both distal tips, indicating significant localized tissue irregularity or parasite colonization. The right lobe also contains a distinct straight-line scar.",
+  "other_distinctive_markers": "Unique combination of high-density circular scarring on the left lobe and a singular prominent diagonal linear abrasion on the right lobe."
+}

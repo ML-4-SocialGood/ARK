@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 75-80% high-intensity (white) pixels to 20-25% low-intensity (black/dark-grey) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant contiguous white central region. Low-intensity black pigmentation is concentrated at the peduncle junction, the distal margins of both lobes, and the median notch. Notable dark mottling and isolated circular spots are clustered on the left lobe's distal tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped central depression with an approximate pixel angle of 55 degrees and a bounding-box depth approximately 1/6th the vertical height of the fluke.",
+    "edge_topography_serration_map": "Highly irregular, high-frequency serrations across the entire trailing edge boundary. Pixel-amplitude of peaks and valleys ranges from 5 to 20 pixels, with more pronounced jaggedness on the left lobe's distal margin.",
+    "lobe_sweep_trajectory": "The trailing edge follows a generally straight trajectory from the median notch to the distal tips, while the visible leading edges exhibit convex curvature."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Widespread detection of circular, high-contrast yellowish-white clusters (diameters 10-30 pixels) corresponding to barnacle colonization; high density on the distal right lobe and scattered across the left lobe.",
+    "linear_abrasions": "One distinct, unaligned dark-grey linear pixel disruption approximately 150 pixels in length, oriented diagonally across the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive circular scarring from barnacle attachment points and a visible linear scratch on the interior of the right lobe.",
+  "other_distinctive_markers": "A distinctive wide vertical pillar of dark pigmentation originates at the peduncle junction and bifurcates slightly as it approaches the median notch."
+}

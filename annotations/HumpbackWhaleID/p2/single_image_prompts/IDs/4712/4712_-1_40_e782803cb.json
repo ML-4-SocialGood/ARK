@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution; approximately 65% high-intensity (off-white/light-gray) pixels in the central regions and 35% low-intensity (black/dark-gray) pixels concentrated at the distal tips and trailing edges.",
+    "spatial_color_mapping": "Contiguous low-intensity black zones dominate the outer distal tips and the entirety of the trailing edge. Central regions of both lobes feature high-intensity light-gray pixels interspersed with discrete black linear streaks and small mottled clusters."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch; the interior angle is approximately 40 degrees with a vertical pixel depth of roughly 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations present across the entire trailing edge; the viewer's left lobe exhibits more extreme scalloping with deeper, more irregular valleys compared to the viewer's right lobe.",
+    "lobe_sweep_trajectory": "Convex curve trajectory originating from the central notch and sweeping toward the distal tips; the leading edge maintains a smooth convex profile relative to the jagged trailing edge."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of dark, circular pixel groups (roughly 5-12 pixels in diameter) are detected on the light-gray interior of the viewer's left lobe.",
+    "linear_abrasions": "Multiple dark, unaligned linear pixel disruptions are visible; notable parallel vertical streaks on the viewer's left lobe and diagonal streaks on the viewer's right lobe consistent with rake marks."
+  },
+  "acquired_anomalies_or_scars": "Extensive rake marks (parallel linear abrasions) across the ventral surface of both lobes and significant tissue loss/fragmentation along the trailing edges creating a jagged profile.",
+  "other_distinctive_markers": "The viewer's left fluke tip displays an exceptionally fragmented and irregular geometric profile compared to the more continuous curve of the viewer's right tip."
+}

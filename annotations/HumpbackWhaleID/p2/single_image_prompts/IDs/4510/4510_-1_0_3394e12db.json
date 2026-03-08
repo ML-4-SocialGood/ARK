@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The ratio of high-intensity (white) pixels to low-intensity (black/dark grey) pixels is approximately 0.06:1, indicating a predominantly dark surface.",
+    "spatial_color_mapping": "Primary surface consists of a contiguous low-intensity dark region. High-contrast white pixel clusters are mapped to the distal tips of both lobes. Distinct, discrete high-intensity circular blobs (3-10 pixel diameter) are sparsely distributed across the central and outer regions of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible V-shaped central notch with a measured pixel angle of approximately 105 degrees.",
+    "edge_topography_serration_map": "Trailing edge exhibits continuous serration with pixel-amplitude variations of 1-3 pixels along the medial sections, increasing to 5-10 pixels of irregularity at the distal tips.",
+    "lobe_sweep_trajectory": "Symmetric convex mathematical curves extending from the median notch to the outer tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular high-contrast white pixel clusters are detected across both lobes, with higher spatial density near the distal regions.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Localized high-contrast white scarring and pigmentation irregularities on the distal tips of both lobes; scattered circular scars across the fluke surface.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity (white) pixels dominate the surface area, estimated at approximately 85% coverage, contrasted against low-intensity (black/dark grey) pixels concentrated at the periphery and localized markings, estimated at 15%.",
+    "spatial_color_mapping": "High-contrast dark-intensity pixels are distributed as discrete circular spots across both lobes. Significant concentration of dark-intensity clusters located in the upper-medial region of the right lobe and mid-lateral region of the left lobe. Solid black banding is continuous along the trailing edge boundary."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated pixel angle of approximately 52 degrees; the vertex is well-defined and exhibits high-contrast edge separation from the background water.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations are visible along the entire trailing edge of the left lobe. The right lobe trailing edge exhibits irregular, high-amplitude peaks, particularly towards the distal tip where the contour becomes globular and non-linear due to external massing.",
+    "lobe_sweep_trajectory": "The trailing edge follows a sigmoidal curve; initial convexity near the median notch transitioning to concavity towards the distal tips on both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular, low-intensity pixel clusters are detected. Notable constellations of 3-5 circular markings are visible in the central-medial region of the right lobe and the mid-section of the left lobe.",
+    "linear_abrasions": "Several unaligned, low-intensity linear streaks (rake marks) are detected: three parallel diagonal streaks on the mid-left lobe and a dense cluster of vertical streaks near the ventral center base."
+  },
+  "acquired_anomalies_or_scars": "A prominent, high-texture, multi-tonal globular mass (consistent with barnacle colonization) is localized on the distal tip of the right lobe, significantly altering the 2D geometric profile.",
+  "other_distinctive_markers": "Heavy water spray/droplet occlusion at the basal center of the fluke, obscuring the intersection point with the peduncle."
+}

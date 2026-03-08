@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Dominance of high-intensity (white/light grey) pixels across approximately 60% of the distal lobes, with a high-contrast transition to low-intensity (black/dark grey) pixels concentrated in the central median region and trailing edge.",
+    "spatial_color_mapping": "Centralized low-intensity contiguous mass spanning the median notch area. High-contrast, irregular dark mottling (blobs) scattered across the high-intensity surface of both lobes, with higher density of focal spots located towards the trailing edge boundaries."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide V-shaped depression with a calculated internal angle of approximately 115 degrees and a shallow bounding-box depth relative to the total lobe width.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern along the entire visible boundary. Pixel-amplitude variations are most pronounced at the distal tips, featuring jagged peaks and deep valleys compared to the smoother medial sections.",
+    "lobe_sweep_trajectory": "Symmetrical concave curvature extending from the median notch to the distal tips, forming a swept-back 2D profile."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple localized circular low-intensity clusters (5-12 pixel diameter) distributed across the mid-section of the right lobe and near the trailing edge of the left lobe, consistent with barnacle attachment sites.",
+    "linear_abrasions": "Several faint, unaligned diagonal linear pixel disruptions visible on the medial-inner region of the left lobe, cutting through the primary pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular raggedness and minor tissue loss visible at the far-left distal tip of the fluke lobe.",
+  "other_distinctive_markers": "Unique 'salt-and-pepper' mottling pattern characterized by sharp boundaries between high and low intensity pixels across the distal surface area."
+}

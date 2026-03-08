@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity (white) pixels occupy approximately 85% of the visible surface area, contrasted against low-intensity (black) pixels localized to the outer perimeter and discrete internal focal points.",
+    "spatial_color_mapping": "A continuous low-intensity black band spans the trailing edge and lateral tips. Distinct low-intensity oval blobs are mapped on the high-intensity field: one prominent larger ellipse on the mid-left lobe, two smaller clusters flanking the median notch, and one small dot on the right interior lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped central depression with an estimated interior angle of 40 degrees and a high depth-to-opening width ratio.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serration pattern across the entire trailing edge. Left lobe shows four primary jagged peaks; right lobe presents a more continuous, finer sawtooth topography with higher peak density.",
+    "lobe_sweep_trajectory": "Concave sweep from the median notch transitioning into a convex curve along the primary trailing edge, terminating in sharp upward-tapering lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of discrete dark circular pixel clusters on the white background field, including a significant 2D oval on the left-central lobe and three smaller satellite clusters near the fluke-to-peduncle junction.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Notable deep, irregular indentation on the outer trailing edge of the left lobe, interrupting the regular serration pattern, suggesting physical tissue loss.",
+  "other_distinctive_markers": null
+}

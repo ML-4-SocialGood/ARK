@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 40:60 ratio of high-intensity (white/light grey) interior pixels to low-intensity (black/dark grey) perimeter pixels.",
+    "spatial_color_mapping": "Large, contiguous light-grey geometric areas are centered in each lobe, surrounded by a heavy dark-grey border of varying width (15-40 pixels) along the trailing edge and lower fluke margin. Minimal dark mottling is present within the light-grey zones."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped depression with an approximate interior angle of 68 degrees and a vertical bounding-box depth of approximately 45 pixels.",
+    "edge_topography_serration_map": "High-frequency serration along both lobes; peaks average 4-8 pixels in height. Serrations are more acute on the inner half of the right lobe's trailing edge.",
+    "lobe_sweep_trajectory": "Trailing edge follows a moderate concave curve from the median notch toward the distal tips; leading edges (visible bottom) show a convex curvature."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple high-contrast white circular clusters detected along the lower dark margins near the fluke's center and scattered along the left lower edge.",
+    "linear_abrasions": "Several faint, near-vertical dark linear streaks are visible on the interior light-grey region of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "A distinct irregular notch or indentation is present at the extreme right distal tip, departing from the standard serration frequency.",
+  "other_distinctive_markers": null
+}

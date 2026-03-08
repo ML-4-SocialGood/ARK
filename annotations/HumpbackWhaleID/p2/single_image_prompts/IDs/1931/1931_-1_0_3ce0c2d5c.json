@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70:30 ratio of high-intensity white pixels to low-intensity black/dark-gray pixels across the visible portions of the ventral fluke.",
+    "spatial_color_mapping": "Large contiguous high-intensity white regions occupy the central interior of both lobes, transitioning to low-intensity black borders at the trailing edge and tips; dark pixel clusters (mottling) are present near the lobe centerlines and base."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, irregular pixel-amplitude variations consisting of deep, sharp-angled valleys and jagged peaks across the entire trailing edge boundary, notably more pronounced on the left lobe's upper margin.",
+    "lobe_sweep_trajectory": "Asymmetrical convexity; the left lobe shows a steep upward curvature leading to a ragged tip, while the right lobe presents a wider, more gradual lateral curve."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple low-intensity circular pixel clusters detected on the high-intensity white field of the right lobe; several smaller, isolated dark spots are visible on the left lobe's mid-section.",
+    "linear_abrasions": "Distinct vertical low-intensity linear disruptions (rake-like marks) visible on the inner right lobe near the area of water spray occlusion."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular tissue loss and ragged edges along the entire trailing margin suggesting previous physical trauma; prominent dark scarring patches on the right lobe interior.",
+  "other_distinctive_markers": "Extreme jaggedness and non-uniform erosion of the trailing edge topography, particularly the deeply recessed sections on the outer left lobe margin."
+}

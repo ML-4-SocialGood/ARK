@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominance of high-intensity pixels (approx. 75%) against low-intensity dark clusters (approx. 25%) concentrated at the central convergence and distal edges.",
+    "spatial_color_mapping": "A contiguous low-intensity region radiates from the median notch into both lobes in a symmetric 'V' pattern. Discrete low-intensity focal points are visible on the medial light field of the left lobe and distal field of the right lobe. High-contrast dark margins are observed at the trailing edge extremities.",
+    "trailing_edge_2d_geometric_contour": {
+      "median_notch_angle": "Shallow V-shaped notch characterized by an approximate 115-degree interior angle and a vertical intrusion depth of ~10% of the visible fluke height.",
+      "edge_topography_serration_map": "High-frequency micro-serrations with a pixel amplitude of 2-5 pixels, appearing most prominent and jagged along the distal half of the trailing edges.",
+      "lobe_sweep_trajectory": "Convex parabolic sweep from the central notch to the fluke tips on both the left and right lobes."
+    },
+    "localized_surface_anomalies": {
+      "rosette_scar_constellations": "Several isolated dark circular pixel clusters detected on the high-intensity light-gray background of both lobes, suggesting localized surface scarring.",
+      "linear_abrasions": null
+    },
+    "acquired_anomalies_or_scars": null,
+    "other_distinctive_markers": "Highly symmetric 'M'-shaped pigmentation pattern originating from the central notch."
+  }
+}

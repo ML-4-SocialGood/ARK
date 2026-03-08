@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 55:45 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Dominant white field on the anatomical right lobe with dark mottling along the periphery. Anatomical left lobe features a white distal tip transitioning to a solid black proximal and central region. High-contrast mottled transition zones present along the mid-lobe boundaries."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow U-shaped depression at the center; estimated aperture of 130 degrees relative to the horizontal fluke axis.",
+    "edge_topography_serration_map": "Continuous irregular serration along the trailing edge, featuring high-frequency pixel-amplitude variations (2-5 pixel peaks) with larger notch-like indentations every 30-50 pixels.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edges leading to upwardly swept, tapered distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-intensity white circular pixel clusters (barnacles) localized at the extreme distal tips of both lobes. Occasional isolated dark circular spots present on the white fields of the anatomical right lobe.",
+    "linear_abrasions": "Multiple light-colored, unaligned linear pixel disruptions (rake marks) crossing the dark central region and anatomical right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization on the distal tips and significant linear scarring across the central and right lobes.",
+  "other_distinctive_markers": "A singular, prominent dark circular spot is located in the lower third of the white field on the anatomical right lobe."
+}

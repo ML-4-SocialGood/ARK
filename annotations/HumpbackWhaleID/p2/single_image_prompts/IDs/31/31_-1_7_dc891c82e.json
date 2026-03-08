@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixel distribution covering ~92% of the visible fluke, with approximately 8% high-intensity (white) pixel clusters scattered as focal points.",
+    "spatial_color_mapping": "Contiguous solid black pigmentation field across both lobes. Distinct high-contrast white circular blobs (2-12 pixels in diameter) are concentrated in a cluster on the mid-left lobe and dispersed along the distal trailing edge of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Symmetric V-shaped depression with a pixel-calculated interior angle of approximately 42 degrees at the medial intersection.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude irregular serrations; peak-to-valley depths vary between 5 and 20 pixels. The right lobe inner boundary exhibits more pronounced, jagged indentations compared to the left.",
+    "lobe_sweep_trajectory": "Convex curvature along the leading edges of both lobes, terminating in acute tips; right tip shows a secondary posterior-oriented hook-like contour."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Prominent spatial detection of white circular pixel clusters (diameter 3-10 pixels) localized to the interior left lobe and the peripheral boundaries of the right lobe, consistent with barnacle scarring.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular serration and traumatic indentations along the trailing edge boundaries; extensive white rosette-style circular scars across the ventral pigmentation.",
+  "other_distinctive_markers": "A deep, secondary notch-like indentation is visible on the trailing edge of the right lobe approximately one-third of the distance from the median notch."
+}

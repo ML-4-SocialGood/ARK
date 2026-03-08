@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 35:65 white-to-black pixel ratio; high contrast between the dark central peduncle/notch area and the bright lateral distal regions.",
+    "spatial_color_mapping": "Large contiguous white patches on the distal halves of both lobes. Left lobe: White region with irregular black pixel mottling centered at [X:15%, Y:40%]. Right lobe: Expansive solid white region starting at [X:70%, Y:35%] and extending to the distal tip, characterized by a feathered interior boundary."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped notch with an estimated internal pixel angle of 72 degrees; base of the notch is partially occluded by water turbulence.",
+    "edge_topography_serration_map": "High-frequency, irregular serration profile. Sharp peaks (amplitudes of 10-15 pixels) are concentrated on the medial trailing edge of both lobes. The right lobe exhibits a prominent notch-adjacent protrusion.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge leading to upward-turned distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of circular, high-intensity, raised pixel groups (barnacles) localized at the extreme distal tips of both the left and right fluke lobes.",
+    "linear_abrasions": "Faint vertical linear pixel disruptions (dark on white) visible on the left lobe's white patch, oriented roughly 80 degrees relative to the horizontal axis."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization (Coronula diadema) on the leading and trailing edges of both fluke tips, causing localized structural irregularities.",
+  "other_distinctive_markers": "Highly distinctive feathered or 'bleeding' transition zone between the black and white pigmentation on the right lobe's interior boundary."
+}

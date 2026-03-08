@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixels with a significant high-intensity (white) region on the right lobe; approximate macro-ratio of 65:35 low-to-high intensity across visible surfaces.",
+    "spatial_color_mapping": "Large contiguous high-intensity (white) blob located on the right lobe, extending from the medial region to the distal tip, interspersed with low-intensity (black) mottling. The left lobe is primarily low-intensity (black) with sparse high-intensity speckling localized near the distal margin."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped central depression with a calculated interior pixel angle of approximately 52 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations detected along the entire trailing edge boundary, featuring sharp peaks and deep valleys with pixel amplitudes ranging from 3 to 12 pixels relative to the mean edge line.",
+    "lobe_sweep_trajectory": "Strongly convex curvature along the primary lobe axes, terminating in acute, upwardly hooked distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast circular pixel clusters (white on black background) detected at the extreme distal tips and along the superior trailing edge margins.",
+    "linear_abrasions": "Parallel vertical linear disruptions (white-on-black) detected on the lower medial section of the right lobe, consistent with rake mark patterns."
+  },
+  "acquired_anomalies_or_scars": "Notable irregular notches and localized pixel-loss on the distal tip of the left lobe; visible linear scarring across the high-intensity patch of the right lobe.",
+  "other_distinctive_markers": "Highly asymmetric pigmentation pattern characterized by a single large, irregular white patch on the right lobe contrasting with a nearly solid black left lobe."
+}

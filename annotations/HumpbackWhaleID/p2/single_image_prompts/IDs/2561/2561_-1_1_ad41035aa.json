@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Highly skewed toward low-intensity (black/dark-grey) pixels with a ratio of approximately 95:5 dark-to-light, where light pixels are limited to distal barnacle clusters and scattered punctate spots.",
+    "spatial_color_mapping": "Homogeneous low-intensity dark mass across >95% of the visible fluke; localized high-contrast (white) irregular geometric blobs at the distal tips; sparse white circular spots (diameter <10px) scattered across the mid-lobe regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped notch with a calculated internal angle of approximately 30 degrees, showing high-contrast separation between lobes.",
+    "edge_topography_serration_map": "Continuous high-frequency, high-amplitude serrations (peaks/valleys) along the trailing edge, exhibiting an irregular sawtooth pattern with varying pixel depths of 5-15 pixels.",
+    "lobe_sweep_trajectory": "Symmetric convex curvature along the upper edges of both lobes, tapering to highly irregular, textured distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast, roughly circular clusters of textured white pixels concentrated at the lateral distal tips of both lobes; scattered small-scale white clusters (possible barnacles) across the dark ventral field.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular calcified masses (barnacle colonization) at the distal tips; trailing edge shows heavy non-uniform erosion/tearing patterns.",
+  "other_distinctive_markers": "Extensive water-surface turbulence and spray create high-frequency white noise (pixel clusters) occluding the lower-central portion of the fluke-to-peduncle junction."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity (white) dominance approximately 85% versus low-intensity (black) pixels (~15%) concentrated at the margins and central peduncle area.",
+    "spatial_color_mapping": "Broad white contiguous zones across both lobes. Dark pixels form a central vertical band at the peduncle and a continuous border along the trailing edge. A distinct irregular dark patch is localized at the distal trailing edge of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped notch; interior angle estimated at 65-70 degrees; depth is approximately 15% of the total vertical lobe height.",
+    "edge_topography_serration_map": "Left lobe trailing edge is moderately smooth with low-amplitude irregularities. Right lobe trailing edge is significantly more serrated, featuring a sequence of 4-5 distinct pixel-peaks nearing the distal tip.",
+    "lobe_sweep_trajectory": "Primary sweep is convex for both lobes from the notch to the tips; the right lobe exhibits a more pronounced change in curvature nearing the outer margin."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": "Detection of fine, dark, vertically oriented linear tracks (approx. 4-5) on the medial-inner region of the left lobe, perpendicular to the leading edge."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A large, distinct low-intensity pigmentation patch on the distal trailing edge of the right lobe, expanding significantly from the standard narrow margin width."
+}

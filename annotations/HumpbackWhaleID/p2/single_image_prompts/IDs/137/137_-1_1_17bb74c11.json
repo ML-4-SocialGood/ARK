@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixels with a macro-ratio estimated at 0.03:1 (high-to-low intensity) across the visible ventral area.",
+    "spatial_color_mapping": "Contiguous low-intensity (black) region dominates both lobes. Isolated high-intensity (white) blobs are mapped to the distal tips of both lobes, three discrete circular points on the medial-right lobe, and several points along the leading edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped depression with a calculated angle of approximately 72 degrees and a bounding-box depth ratio of 0.15 relative to the visible fluke height.",
+    "edge_topography_serration_map": "High-frequency micro-serrations with pixel-amplitudes ranging from 2 to 6 pixels across the entire trailing edge boundary, creating a jagged profile.",
+    "lobe_sweep_trajectory": "Symmetrical convex curves originating from the median notch and tapering to acute points at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 8-10 discrete circular high-intensity pixel clusters (diameters 5-15 pixels) distributed primarily on the right lobe and along the upper margins of both lobes.",
+    "linear_abrasions": "A single distinct vertical high-intensity linear mark (approximately 30 pixels in length) located on the distal third of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Heavy high-intensity (white) encrustations and irregular morphology visible at the distal tips of both lobes, suggesting significant barnacle colonization or localized trauma.",
+  "other_distinctive_markers": null
+}

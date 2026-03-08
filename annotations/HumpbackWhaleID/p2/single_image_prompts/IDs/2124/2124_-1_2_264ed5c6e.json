@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:6 ratio of high-intensity pixels (localized at distal tips) to low-intensity pixels (dominant across the central and medial fluke body).",
+    "spatial_color_mapping": "Dominant low-intensity black/grey across 85% of visible surface. High-contrast white contiguous blobs are mapped to the distal tips of both left and right lobes, with minor light-intensity mottling visible in the upper-medial regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Approximately 115-degree shallow V-shaped depression with a bounding-box depth approximately 10% of the total lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitudes ranging from 3 to 12 pixels, most prominent on the lateral halves of both trailing edges.",
+    "lobe_sweep_trajectory": "Strongly convex trailing edge curve on both lobes, transitioning to a sharp upward sweep at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast white circular clusters detected at the far right distal tip, consistent with barnacle-induced scarring.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive irregular white pigmentation/scarring at the distal lateral tips of both lobes; potential minor irregular notch on the trailing edge of the left lobe.",
+  "other_distinctive_markers": "Significant pixel occlusion caused by white-water spray across the lower central region where the fluke meets the water surface."
+}

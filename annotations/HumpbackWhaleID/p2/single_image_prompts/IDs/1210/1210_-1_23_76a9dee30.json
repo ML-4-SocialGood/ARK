@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast; approximately 75% of visible surface area is high-intensity (white/light grey) while 25% is low-intensity (black/dark grey) concentrated at the trailing edges and specific interior marks.",
+    "spatial_color_mapping": "Primary white contiguous zone centered on both lobes. Dark perimeter banding along the trailing edges. Right lobe features a distinctive 'AC'-shaped dark pixel cluster in the upper distal quadrant. Left lobe contains smaller, vertically-oriented dark streaks."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "Highly irregular trailing edge with high-frequency serrations. Notable deep v-shaped notch on the right lobe trailing edge. Irregular pixel-peaks visible along the entire boundary between the fluke and water/sky background.",
+    "lobe_sweep_trajectory": "Right lobe shows a convex sweep tapering to an acute point at the tip. Left lobe sweep is partially obscured by water splash but appears convex."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-intensity (white) circular pixel clusters are densely packed along the leading edges and fluke tips, exhibiting high contrast against the dark skin in those regions.",
+    "linear_abrasions": "Several low-intensity (dark) linear streaks are present on the white ventral surface of the right lobe, roughly parallel to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Heavy barnacle colonization (high-intensity circular clusters) on leading edges and tips. Large dark pigmentation mark on the distal portion of the right lobe.",
+  "other_distinctive_markers": "The presence of a dark pattern resembling the characters 'AC' on the right lobe is a highly unique identifier."
+}

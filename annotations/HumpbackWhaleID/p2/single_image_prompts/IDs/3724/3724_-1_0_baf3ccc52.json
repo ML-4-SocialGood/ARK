@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low-to-moderate; predominantly mid-range gray pixel values across the fluke surface with concentrated low-intensity (dark) pixels near the insertion point and high-intensity (white) specular highlights from water spray.",
+    "spatial_color_mapping": "Large contiguous dark-gray-to-black mottled blobs located at the central insertion/peduncle area; sparse white micro-pixel clusters distributed across the medial and distal sections of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a pixel-defined angle of approximately 75-85 degrees, exhibiting a deep incision relative to the lobe width.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with varying pixel amplitudes (1-4 pixels) creating a jagged profile along the entire length of the trailing edge.",
+    "lobe_sweep_trajectory": "Left lobe presents a convex sweep towards the tip; right lobe displays a straighter, more elongated linear sweep ending in a slightly rounded tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized white pixel clusters (2-5 pixel diameter) consistent with barnacle scarring patterns on the lower-left quadrant and center-right of the visible fluke surface.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Dark pigmented irregular patches near the median notch and insertion point; visible white scarring on the trailing edge of the left lobe.",
+  "other_distinctive_markers": "Extensive water-droplet occlusion across the ventral surface creates a pseudo-mottled high-contrast texture."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution; the visible ventral surface is approximately 70% high-intensity white pixels and 30% low-intensity black pixels, primarily along the margins and in focal clusters.",
+    "spatial_color_mapping": "Broad contiguous high-intensity white regions occupy the central lobes. Low-intensity black pixels form a continuous border along the trailing edge and leading edge. Distinct, high-contrast dark pixel clusters (mottling) are concentrated on the right lobe and at the interior base of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated internal pixel angle of approximately 65 degrees and a high depth-to-width ratio relative to the lobe width.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations extracted along the trailing boundary, with significant irregular pixel deviations and increased amplitude at the distal lateral tips.",
+    "lobe_sweep_trajectory": "Convex geometric curve trajectory for both lobes, maintaining a consistent outward arc from the median notch to the tapering distal extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular, low-intensity pixel clusters (scars) detected primarily across the high-intensity white pigmentation of the right lobe.",
+    "linear_abrasions": "Several unaligned, low-intensity vertical and diagonal linear disruptions (rake marks) visible on the medial portion of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Pronounced irregular, high-contrast pixel textures and bulbous shapes consistent with parasitic colonization localized at the extreme distal tips of both lobes.",
+  "other_distinctive_markers": "Significant high-intensity specular highlights from water spray occluding the pixel data of the lower central peduncle connection."
+}

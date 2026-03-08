@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Highly skewed towards low-intensity (black) pixels across approximately 95% of the surface area, with extreme high-intensity (white) clusters localized at the distal lateral tips and along the splashing water line.",
+    "spatial_color_mapping": "Dominant contiguous dark-grey to black pixels across both lobes; distinct high-contrast white clusters localized at the left and right trailing edge tips (coordinates approx. far left and far right extrema)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Narrow, acute-angled U-shaped depression at the central symmetry axis; depth is approximately 15% of the total fluke vertical height visible.",
+    "edge_topography_serration_map": "High-frequency, irregular saw-tooth serrations along the entire continuous trailing edge; visible pixel amplitude varies between minor indentations and sharp peaks.",
+    "lobe_sweep_trajectory": "Convex curve extending from the median notch toward the lateral tips, exhibiting a slight upward 'flick' at the distal ends."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of roughly circular, high-contrast white pixel groups (barnacles) localized exclusively on the trailing edge tips and outer lateral margins of both lobes.",
+    "linear_abrasions": "Faint, light-grey linear pixel disruptions (rake marks) oriented vertically and diagonally on the upper regions of the left and right lobes."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization on the distal tips of both fluke lobes, creating a jagged, encrusted appearance distinct from the natural skin texture.",
+  "other_distinctive_markers": null
+}

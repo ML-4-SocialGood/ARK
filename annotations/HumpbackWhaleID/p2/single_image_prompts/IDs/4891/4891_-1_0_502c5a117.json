@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High intensity contrast with approximately 75% white pixels and 25% black/dark-grey pixels concentrated in the central and edge regions.",
+    "spatial_color_mapping": "Dominant white intensity across distal regions; a centralized dark pigmentation zone radiates from the median notch, forming a butterfly-shaped anchor. Isolated dark circular pixel clusters are distributed across the outer lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a pixel-depth approximately 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the entire trailing edge; distinct high-amplitude jagged peaks visible at the lateral tips, consistent with heavy barnacle encrustation.",
+    "lobe_sweep_trajectory": "Concave curvature near the median notch transitioning to a broad convex sweep towards the outer lateral terminals."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed, high-contrast irregular clusters at the extreme left and right tips, indicating heavy bio-fouling or calcified scarring.",
+    "linear_abrasions": "Multiple dark, thin linear features (rake marks) observed on the left lobe, primarily oriented diagonally toward the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Prominent dark oval spots on the right lobe and significant edge wear/irregularities on the distal margins.",
+  "other_distinctive_markers": "Embedded alphanumeric metadata and human-readable text overlay in the lower foreground region of the image."
+}

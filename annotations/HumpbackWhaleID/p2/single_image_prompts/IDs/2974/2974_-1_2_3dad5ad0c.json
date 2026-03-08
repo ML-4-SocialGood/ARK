@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity black pixels with high-intensity white pixel clusters occupying approximately 15-20% of the visible surface area, primarily concentrated at the distal tips.",
+    "spatial_color_mapping": "Large high-intensity white patch on the left distal tip extending along the lower margin; smaller fragmented white patches on the right distal tip; scattered small-scale white mottling and circular spots across the lower central fluke region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an approximate 55-degree angle and a bounding-box depth relative to the lobe width of roughly 1:8.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations present across the entire trailing edge of both lobes; peaks show irregular pixel heights and non-uniform spacing, creating a deeply jagged profile.",
+    "lobe_sweep_trajectory": "Strongly convex trajectory on both lobes curving outward from the notch before tapering into sharp distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "A dense cluster of high-contrast, roughly conical white-and-tan pixel groups (barnacles) localized on the extreme left margin; numerous small white circular scars scattered across the black central regions of both lobes.",
+    "linear_abrasions": "Visible fine-width white linear marks/scratches on the right lobe, including one prominent diagonal mark near the center-right area."
+  },
+  "acquired_anomalies_or_scars": "Massive barnacle colonization on the left fluke tip causing a deviation in the geometric outline; significant irregular notches and indentations along the trailing edge suggest previous physical trauma or wear.",
+  "other_distinctive_markers": "The localized density of the barnacle colony on the left edge creates a unique, protruding textured profile distinct from the otherwise smooth-skinned fluke margins."
+}

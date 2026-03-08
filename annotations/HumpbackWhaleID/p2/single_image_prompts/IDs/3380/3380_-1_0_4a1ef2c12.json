@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity white pixels (approx 75%) across the central surface area; low-intensity dark pixels (approx 25%) concentrated along the trailing edges, distal tips, and central vertical axis.",
+    "spatial_color_mapping": "Contiguous white central region; dark pigmentation forms a continuous band along the trailing edge and outer margins. A distinct vertical dark band bisects the lower central region. Discrete dark circular clusters are localized on the left and right white lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow, obtuse V-shaped depression dividing the lobes with a wide pixel angle and minimal bounding-box depth.",
+    "edge_topography_serration_map": "High-frequency, irregular pixel-amplitude variations along the entire trailing edge; right lobe exhibits higher amplitude peaks and deeper valleys (serrations) compared to the left.",
+    "lobe_sweep_trajectory": "Convex outer margins sweeping upward and outward toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of small, localized dark pixel clusters on the high-intensity white background: two distinct spots on the left mid-lobe and several smaller, less-defined clusters on the right lower lobe.",
+    "linear_abrasions": "Two distinct unaligned dark linear disruptions: one diagonal mark on the mid-left lobe and one near-vertical mark on the mid-right lobe."
+  },
+  "acquired_anomalies_or_scars": "Highly irregular and jagged trailing edge topography; presence of parallel-aligned linear pixel disruptions (rake marks) on the ventral surface.",
+  "other_distinctive_markers": "Prominent vertical dark pigment strip at the median base where the fluke meets the peduncle."
+}

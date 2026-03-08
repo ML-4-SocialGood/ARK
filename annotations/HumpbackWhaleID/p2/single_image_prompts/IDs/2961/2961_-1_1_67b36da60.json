@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast with a dominant high-intensity white interior (approx. 85%) bounded by low-intensity black perimeter regions (approx. 15%).",
+    "spatial_color_mapping": "Large contiguous white pixel region covering central lobes. Low-intensity black banding along trailing edge and outer tips. Small discrete black pixel clusters (diameter <10px) on the proximal-lateral region of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an interior angle of approximately 60 degrees and a vertical bounding-box depth of approx 120 pixels.",
+    "edge_topography_serration_map": "Left lobe trailing edge shows high-amplitude (10-30px) irregular jagged peaks. Right lobe trailing edge shows lower-amplitude (<10px) regular serrations.",
+    "lobe_sweep_trajectory": "Leading edges exhibit a convex curve towards the tips. Trailing edges follow a predominantly concave trajectory meeting at the central notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast, light-colored circular/conical pixel clusters located on the extreme distal tips of both lobes (barnacle colonization).",
+    "linear_abrasions": "One distinct dark vertical linear feature on the left lobe, approximately 30 pixels in length, oriented perpendicular to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Irregular trailing edge contour on the left lobe suggesting past tissue loss. Dense clusters of foreign bodies (barnacles) on lobe tips.",
+  "other_distinctive_markers": "Symmetrical barnacle clusters on both lobe tips providing high-contrast texture against the dark edge."
+}

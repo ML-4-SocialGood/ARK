@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white (approx. 85-90%) against low-intensity black margins (approx. 10-15%). Extreme contrast between the central lobe surfaces and the perimeter pigmentation.",
+    "spatial_color_mapping": "Dominant contiguous white field across both lobes. Black pigmentation is confined to a continuous band along the trailing edge and peduncle insertion. Presence of three discrete dark focal points (point-like mottling) on the interior right lobe and a vertical dark midline gradient."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped indentation with a calculated interior angle of approximately 62 degrees and a bounding-box depth extending roughly 20% of the vertical fluke axis.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the entire trailing boundary. Irregular peaks and valleys with pixel-amplitudes ranging from 3 to 12 pixels. Distinct jagged protrusions are most concentrated on the inner trailing edge of the left lobe.",
+    "lobe_sweep_trajectory": "Concave trailing edge curve leading to sharply tapered, upward-swept distal tips. Leading edge exhibits a smooth convex arc."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Highly localized, high-contrast white-and-grey textured clusters (barnacle colonies) situated on the extreme distal tip and outer margin of the right lobe.",
+    "linear_abrasions": "A series of at least three faint, parallel horizontal linear pixel disruptions (rake-like markings) visible on the medial-lateral section of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent circular dark lesion or 'hole' scar (approximately 15-20 pixels in diameter) located in the upper-right quadrant of the right lobe. Significant bio-fouling/barnacle growth on the right fluke tip.",
+  "other_distinctive_markers": "A subtle but distinct grey vertical ridge-line extending from the peduncle junction toward the median notch, creating a localized pixel intensity gradient in the center of the white field."
+}

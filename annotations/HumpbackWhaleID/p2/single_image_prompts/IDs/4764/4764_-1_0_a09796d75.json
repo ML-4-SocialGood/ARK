@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixels across >90% of the visible ventral area, with high-intensity (white) pixels concentrated at distal tips and small scattered focal points.",
+    "spatial_color_mapping": "Contiguous dark-intensity field covering the majority of both lobes. Distinct high-intensity white geometric clusters are mapped at the distal tips. Small, isolated circular white pixel blobs are distributed across the mid-ventral sections."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped depression at the center-line with an estimated interior angle of 105 degrees and a bounding-box depth approximately 15% of the total vertical height of the lobes.",
+    "edge_topography_serration_map": "High-frequency jaggedness along the entire trailing edge boundary. The right lobe exhibits higher amplitude peaks (10-20 pixels) compared to the left lobe. Isolated deep V-shaped notches are visible on the right lobe trailing edge.",
+    "lobe_sweep_trajectory": "Symmetrical concave curve fitted from the median notch to the distal tips, terminating in sharp upward-tapering points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of a prominent high-contrast white circular ring on the right lobe (mid-center). Multiple smaller white circular clusters (<10 pixel diameter) are visible across both lobes.",
+    "linear_abrasions": "Faint, unaligned diagonal and vertical linear pixel disruptions of lower intensity are visible in the upper-right quadrant of the right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Extensive high-intensity white calcified scarring or barnacle colonization mapped specifically to the extreme left and right distal tips.",
+  "other_distinctive_markers": null
+}

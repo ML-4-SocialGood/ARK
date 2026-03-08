@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark grey to black) base surface with approximately 10-15% high-intensity (white/light grey) focal clusters and linear streaks.",
+    "spatial_color_mapping": "High-intensity white patch at the distal tip of the left lobe; multiple small circular high-contrast clusters distributed mid-lobe bilaterally; a prominent vertical high-intensity linear segment on the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped notch with a vertex angle of approximately 85 degrees and a significant bounding-box depth extending toward the peduncle.",
+    "edge_topography_serration_map": "High-frequency, irregular serration profile with pixel amplitudes varying significantly; deepest indentations located on the interior margins of the trailing edge adjacent to the notch.",
+    "lobe_sweep_trajectory": "Convex leading edge curvature rising from the waterline; trailing edges exhibit a generally linear trajectory with a slight concave pull toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Extensive spatial distribution of circular and annular white pixel clusters (0.5% to 2% of fluke area each) across the central ventral surface of both lobes.",
+    "linear_abrasions": "Primary diagonal high-contrast linear mark on the right lobe approximately mid-way between notch and tip; secondary faint horizontal and diagonal scratches visible on the lower left lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent diagonal white linear scar on the right lobe; significant irregular serration along the trailing edge indicative of physical wear or trauma; high-density barnacle colonization scars.",
+  "other_distinctive_markers": "High-intensity pixel spray and atmospheric glare at the distal tips of both lobes caused by water displacement, obscuring fine edge detail at the extremities."
+}

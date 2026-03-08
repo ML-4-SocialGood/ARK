@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Visible; high-contrast distribution characterized by high-intensity white pixels occupying approximately 40% of the superior-lateral lobe area and low-intensity black pixels occupying approximately 60% of the central and inferior regions.",
+    "spatial_color_mapping": "High-intensity white contiguous blocks are mapped to the lateral-superior regions of both lobes. Dense low-intensity black mottling is concentrated around the median notch and extends inferiorly. A distinct low-intensity linear feature is mapped horizontally across the left lobe mid-section."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A clearly defined V-shaped depression with an acute pixel angle and significant depth relative to the fluke width.",
+    "edge_topography_serration_map": "High-frequency, low-to-medium amplitude serrations are visible across the entire trailing edge boundary, with increased jaggedness and pixel-amplitude variation at the distal tips of both lobes.",
+    "lobe_sweep_trajectory": "The trailing edge follows a concave sweep from the distal tips towards the central median notch, with slight convexity observed in the mid-lobe transition."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detected; multiple small, high-intensity circular pixel clusters are distributed within the low-intensity pigmented region below the median notch.",
+    "linear_abrasions": "Detected; a prominent horizontal low-intensity linear disruption on the left lobe and several shorter vertical low-intensity streaks on the right lobe near the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "A significant horizontal linear scar on the left ventral surface and irregular, high-amplitude jaggedness at the extreme left distal tip suggesting physical trauma.",
+  "other_distinctive_markers": "A dense stippling or 'salt-and-pepper' pixel transition zone located between the solid white and solid black regions on the inferior portion of the right lobe."
+}

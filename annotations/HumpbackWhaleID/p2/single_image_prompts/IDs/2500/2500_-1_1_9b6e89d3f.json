@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark gray/black) across approximately 85-90% of the surface area, with localized high-intensity (white/light gray) clusters occupying the remaining 10-15% primarily at the distal tips and scar sites.",
+    "spatial_color_mapping": "Contiguous low-intensity regions cover the central and medial fluke. High-intensity mottling is clustered at the far left and far right distal tips. Distinctive white circular rings (rosettes) are distributed sporadically across the mid-lobes, and two parallel high-intensity vertical lines are mapped to the lower-central region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a visible interior angle and significant pixel-depth relative to the fluke horizontal span.",
+    "edge_topography_serration_map": "Continuous irregular serration profile; high-frequency, low-amplitude peaks and valleys along the majority of the trailing edge, with more pronounced jaggedness on the outer third of the left lobe.",
+    "lobe_sweep_trajectory": "Concave curvature from the median notch extending outward, transitioning to a convex sweep towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple high-contrast circular and ring-shaped pixel clusters (0-marks) scattered across both lobes, with higher density on the mid-left lobe.",
+    "linear_abrasions": "Two distinct, high-contrast vertical parallel linear pixel disruptions located in the lower-central region of the fluke surface."
+  },
+  "acquired_anomalies_or_scars": "Extensive circular scarring across both lobes and prominent parallel vertical rake-like abrasions in the lower central fluke section.",
+  "other_distinctive_markers": "The combination of the deep median notch and the specific parallel vertical scarring at the fluke base."
+}

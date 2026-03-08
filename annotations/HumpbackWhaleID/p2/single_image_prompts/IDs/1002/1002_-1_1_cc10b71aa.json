@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 80:20 ratio of low-intensity dark-gray/black pixels to high-intensity white/light-gray pixels.",
+    "spatial_color_mapping": "Dominant low-intensity dark region across 80% of the surface. High-intensity contiguous mottling is concentrated on the distal tip of the right lobe. Isolated high-intensity clusters are visible near the median notch and as scattered points on both lobe surfaces."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a pixel angle of approximately 85 degrees and a depth roughly 15% of the total fluke height.",
+    "edge_topography_serration_map": "Highly irregular trailing edge with moderate-to-high frequency serrations; notable deep jagged indentations located on the medial trailing edge of the left lobe.",
+    "lobe_sweep_trajectory": "Convex curve trajectory sweeping upward from the median notch toward the distal tips on both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Two distinct circular high-contrast white pixel clusters (approx. 5-10 pixels in diameter) located in the mid-region of the right lobe.",
+    "linear_abrasions": "Numerous unaligned, high-contrast linear pixel disruptions (rake marks) oriented diagonally across the left lobe and lower right lobe."
+  },
+  "acquired_anomalies_or_scars": "Distinct rake marks across the left fluke lobe; irregular trailing edge profile suggesting previous tissue loss on the medial section of the left lobe.",
+  "other_distinctive_markers": "Heavy white mottling localized specifically to the far right distal tip, creating a high-contrast 'shredded' edge effect."
+}

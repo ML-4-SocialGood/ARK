@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low internal contrast; the fluke surface consists of approximately 98% low-intensity black pixels with high-intensity white pixels localized only at the extreme distal tips.",
+    "spatial_color_mapping": "Solid contiguous black pigmentation across the entire visible surface of both lobes, interrupted only by high-contrast white clusters at the far-left and far-right lateral margins."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Symmetrical V-shaped depression with a central vertex; calculated interior angle of approximately 55 degrees with a vertical bounding-box depth of roughly 15% of the total lobe height.",
+    "edge_topography_serration_map": "High-frequency irregular serration pattern across the full horizontal span; peaks and valleys exhibit a vertical pixel-amplitude variation of 5 to 12 pixels relative to the local edge mean.",
+    "lobe_sweep_trajectory": "Upward-curving trajectory; the trailing edge follows a convex arc from the median notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast white clusters detected at the outermost lateral tips of both the left and right lobes, forming irregular circular groupings.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive non-uniform serration along the trailing edge consistent with accumulated minor tissue loss; significant white clusters on distal margins.",
+  "other_distinctive_markers": null
+}

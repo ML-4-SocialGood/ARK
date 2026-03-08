@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low macro-level ratio; approximately 92% low-intensity (black/dark grey) to 8% high-intensity (light grey/glare) across the visible fluke surface.",
+    "spatial_color_mapping": "Dominant contiguous low-intensity region across entire fluke. Distinct focal patches of medium-intensity grey (mottling) located in the upper distal quadrant of the right lobe and along the leading edge margins of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated internal angle of approximately 45 degrees; notch depth occupies roughly 15% of the total vertical bounding box of the fluke.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitudes ranging from 3 to 12 pixels; notable high-amplitude 'peaks' present on the medial sections of both the left and right lobes.",
+    "lobe_sweep_trajectory": "Concave curvature fitted to the trailing edge, transitioning to a sharp upward convexity at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Sparse detection of roughly circular high-contrast white pixel clusters located on the upper-right distal lobe.",
+    "linear_abrasions": "Subtle detection of vertical-to-diagonal linear grey pixel disruptions on the medial right lobe, breaking the uniform dark pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Irregular jagged indentation on the distal margin of the left lobe tip, exceeding the frequency of standard edge serrations.",
+  "other_distinctive_markers": null
+}

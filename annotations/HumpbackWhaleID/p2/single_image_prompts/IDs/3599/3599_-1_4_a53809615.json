@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio with approximately 65% high-intensity (white) pixels on distal lobes and 35% low-intensity (black) pixels concentrated in the central median and leading edges.",
+    "spatial_color_mapping": "Large contiguous high-intensity white blobs cover the lateral halves of both lobes. A wide, irregular low-intensity black region occupies the central median area. Numerous small, high-contrast dark circular spots are scattered across the white fields, with a higher frequency on the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "The trailing edge exhibits continuous low-amplitude serrations; higher-amplitude irregularities and jaggedness are present at the distal tips. A small, distinct notch is visible on the inner-trailing edge of the left lobe.",
+    "lobe_sweep_trajectory": "Both lobes follow a convex sweep along the trailing edge from the median notch toward the tips; the leading edge displays a slightly concave trajectory near the center, rounding to convex at the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple localized circular dark clusters (~5-12 pixels in diameter) are detected; approximately 15-20 distinct spots on the left lobe and 10 on the right lobe, consistent with barnacle scar pigmentation.",
+    "linear_abrasions": "Several faint, unaligned linear pixel disruptions are visible on the lower-right white region of the right lobe, oriented diagonally to the main fluke axis."
+  },
+  "acquired_anomalies_or_scars": "Irregular, dark, protruding texture at the right distal tip consistent with barnacle colonization; small secondary notch on the trailing edge of the left lobe lobe roughly halfway between center and tip.",
+  "other_distinctive_markers": "Unique vertical linear arrangement of three dark circular spots in the mid-ventral field of the left lobe."
+}

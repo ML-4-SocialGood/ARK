@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70:30 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Two primary high-intensity white contiguous zones occupying the central area of each lobe, bisected by a low-intensity black vertical band at the median notch. Low-intensity black borders delineate the entire trailing and outer edge, with secondary low-intensity mottling and focal spots concentrated near the notch and trailing edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated internal angle of approximately 50 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern. Significant pixel-amplitude variations (peaks and valleys) observed along the continuous boundary, particularly prominent on the upper trailing edge of the left lobe and within the medial notch region.",
+    "lobe_sweep_trajectory": "Concave upward curve extending from the central notch to the acute distal tips of both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of small, roughly circular low-intensity pixel points distributed across the high-intensity white surfaces, primarily in the lower-central region of both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Detection of textured, low-intensity dark masses (barnacles) on the outer distal tip of the left lobe and the trailing edge of the right lobe. Irregular indentation/loss of tissue on the upper left lobe tip.",
+  "other_distinctive_markers": null
+}

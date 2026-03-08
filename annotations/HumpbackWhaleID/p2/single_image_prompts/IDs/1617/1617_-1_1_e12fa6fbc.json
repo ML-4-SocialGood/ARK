@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio characterized by dominant high-intensity white regions (approx. 65% area) and sharp low-intensity black pixel clusters (approx. 35% area).",
+    "spatial_color_mapping": "Contiguous high-intensity white regions occupy the central and distal portions of both lobes. A low-intensity dark vertical band is centered at the peduncle. The left lobe contains a dense, complex lattice of dark pixel clusters in the lower-inner quadrant, while the right lobe displays more isolated, elongated dark markings."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated vertex angle of approximately 65 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serration along the entire trailing edge; peaks exhibit varying pixel-amplitudes of 3-15 pixels, particularly aggressive at the terminal tips.",
+    "lobe_sweep_trajectory": "Outer boundaries exhibit a convex curve from the peduncle to the tips, with a sharp upward trajectory at the distal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, high-intensity white circular clusters are visible at the extreme left and right distal tips against the darker leading-edge background.",
+    "linear_abrasions": "Extensive network of unaligned dark linear disruptions (rake marks) crossing the white ventral surface on both lobes; highest density is on the left lobe with numerous intersecting vectors."
+  },
+  "acquired_anomalies_or_scars": "Prominent linear rake mark scars across both lobes and irregular, jagged physical loss along the trailing edge topography.",
+  "other_distinctive_markers": "Unique, high-density lattice-like network of dark intersecting lines on the lower-left lobe quadrant forming a distinct geometric pattern."
+}

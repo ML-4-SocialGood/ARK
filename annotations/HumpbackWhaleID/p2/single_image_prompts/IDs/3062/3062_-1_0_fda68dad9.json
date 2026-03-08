@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast ratio; approximately 75-80% of the visible surface is high-intensity white, bounded by low-intensity black margins and focal spots.",
+    "spatial_color_mapping": "Dominant white contiguous region across the central and upper lobes. Black pigmentation is concentrated along the trailing edges, the distal tips, and the peduncle junction. Distinct, isolated circular black blobs are localized in the middle-left lobe and the lower-central region near the notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with a measured pixel angle of approximately 115 degrees and a bounding-box depth relative to the fluke span of ~12%.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the trailing edge. The right lobe (viewer perspective) shows higher amplitude peaks and deeper valleys compared to the smoother, albeit still serrated, left lobe.",
+    "lobe_sweep_trajectory": "The leading edges exhibit a smooth convex curve tapering toward the tips. The trailing edges follow a generally concave trajectory from the tips toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial cluster of four distinct dark circular spots on the white field of the left lobe. Two additional dark focal clusters are visible in the lower-center fluke region.",
+    "linear_abrasions": "Set of parallel, diagonal low-intensity linear disruptions (rake marks) detected on the trailing edge of the far-right lobe tip."
+  },
+  "acquired_anomalies_or_scars": "Notable rake marks on the distal right fluke tip and various localized circular pigmentation/scarring marks across the ventral white surface.",
+  "other_distinctive_markers": "Asymmetric pigmentation pattern where the left lobe contains more isolated circular mottling than the predominantly solid white field of the right lobe."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low-intensity dark pixels dominate approximately 95% of the visible surface; high-intensity white/cream pixels are concentrated in localized clusters at the distal tips, creating a high global contrast localized at the extremities.",
+    "spatial_color_mapping": "Primary surface consists of a continuous dark-grey to black field. High-contrast contiguous white/yellowish blobs are mapped to the extreme lateral tips of both the left and right lobes. Minimal high-contrast circular ring motifs are detected in the medial region of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "The central depression is a V-shaped notch with an approximate pixel-calculated interior angle of 115 degrees, featuring irregular, jagged boundaries at the vertex.",
+    "edge_topography_serration_map": "The left lobe trailing edge exhibits high-frequency, low-amplitude serrations. The right lobe trailing edge displays a significant high-amplitude indentation (notched segment) approximately 50 pixels from the median notch, followed by irregular jagged peaks toward the distal tip.",
+    "lobe_sweep_trajectory": "The trailing edge follows a generally concave curve from the median notch to the tips, terminating in pointed, slightly upward-swept distal margins."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct clusters of high-contrast, roughly circular white/tan pixel groups are visible at the extreme distal margins (tips) of both lobes, consistent with localized surface colonization.",
+    "linear_abrasions": "Faint, parallel linear pixel disruptions of low contrast (light grey) are detected running diagonally across the dark field of both the left and right lobes."
+  },
+  "acquired_anomalies_or_scars": "A prominent irregular indentation or missing segment is visible on the trailing edge of the right lobe immediately adjacent to the median notch, indicating significant tissue loss.",
+  "other_distinctive_markers": "A singular, faint circular ring-shaped pigmentation mark is visible in the mid-section of the left lobe's ventral surface."
+}

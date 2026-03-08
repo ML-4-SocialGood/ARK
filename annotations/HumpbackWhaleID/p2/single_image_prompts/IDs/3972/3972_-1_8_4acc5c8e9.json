@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 45 percent high-intensity (white) and 55 percent low-intensity (dark grey/black) coverage across the visible fluke surface.",
+    "spatial_color_mapping": "Primary high-intensity (white) regions are located laterally on both lobes (approx. 0.1-0.4x and 0.6-0.9x horizontal span). A central low-intensity (dark) wedge (0.4-0.6x) extends from the peduncle to the median notch. Low-intensity perimeter banding persists along the entire trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide-angle V-shaped depression with an approximate aperture of 130 degrees and a depth-to-width ratio of approximately 1:6 within the central fluke geometry.",
+    "edge_topography_serration_map": "Continuous high-frequency serration along the 1.0x horizontal span of the trailing edge. Pixel-amplitude of peaks and valleys varies between 5-20 pixels, with significantly increased jaggedness and irregular deep notches at the far distal tips.",
+    "lobe_sweep_trajectory": "Trailing edge exhibits a broad sigmoidal curve with moderate convexity near the notch transitioning into a slight upward concavity towards the outer tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of small, roughly circular high-contrast white pixel groups (barnacle colonization points) located at the far left and far right distal tips on the dark pigmented margins.",
+    "linear_abrasions": "One prominent vertical dark linear mark on the right lobe distal region (approx. 0.85x). Multiple shorter, faint horizontal and diagonal dark linear marks are visible on the left lobe white region (approx. 0.25x)."
+  },
+  "acquired_anomalies_or_scars": "Notable irregular tissue loss and heavy jaggedness on the far right trailing edge tip. Prominent vertical dark scratch/scar on the right lobe ventral surface.",
+  "other_distinctive_markers": "Asymmetric mottling density; the right lobe exhibits significantly more internal low-intensity speckled pixels (mottling) within the primary white region compared to the more uniform white pigmentation of the left lobe."
+}

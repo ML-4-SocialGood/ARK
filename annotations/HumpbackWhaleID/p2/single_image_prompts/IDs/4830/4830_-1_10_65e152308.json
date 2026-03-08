@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 5:95 ratio of high-intensity (white/grey) to low-intensity (black) pixels across the ventral surface of the fluke.",
+    "spatial_color_mapping": "Dominantly black contiguous field. Notable high-intensity circular pixel clusters are located in the medial-lateral regions of both lobes. Greyish-white pixel mottling is localized along the inner boundaries of the median notch and the proximal edges near the water line."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated interior angle of approximately 44 degrees, extending into a narrow vertical fissure.",
+    "edge_topography_serration_map": "High-frequency, irregular saw-tooth topography. Individual peak-to-valley amplitudes range from 4 to 18 pixels, distributed continuously along the trailing boundary from the notch to the distal tips.",
+    "lobe_sweep_trajectory": "General convex curve fitted to the trailing edge of both lobes, transitioning into a pronounced upward sweep toward the distal extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Two primary high-contrast circular clusters detected: one roughly 35% across the left lobe and another 20% across the right lobe relative to the notch. Smaller, lower-contrast white spots are visible near the trailing edge of the right lobe.",
+    "linear_abrasions": "A distinct, vertical high-intensity linear disruption approximately 25 pixels in length is visible on the far-left lobe surface."
+  },
+  "acquired_anomalies_or_scars": "A significant irregular indentation or notch-like pixel loss is visible at the distal tip of the right lobe, indicating structural trauma or a healed amputation.",
+  "other_distinctive_markers": "Exceptionally high-amplitude serration pattern across the entire trailing edge span, characterized by frequent, sharp jagged peaks."
+}

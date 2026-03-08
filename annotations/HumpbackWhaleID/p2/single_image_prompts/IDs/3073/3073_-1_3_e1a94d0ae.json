@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70% high-intensity (white) to 30% low-intensity (black/dark grey) pixel ratio across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant high-intensity regions occupy the central and distal portions of both lobes. Low-intensity pixels are concentrated at the basal hinge and along the trailing edges. Multiple discrete, low-intensity circular mottling clusters are scattered within the high-intensity fields of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped central notch with a calculated pixel angle of approximately 65 degrees.",
+    "edge_topography_serration_map": "Continuous high-frequency serrations along the entire trailing edge boundary, with pixel-amplitude variations between 5 to 15 pixels from the mean edge trajectory.",
+    "lobe_sweep_trajectory": "Lobes exhibit a convex trailing edge curve terminating in sharp distal points. The leading edges show moderate convexity tapering towards the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple circular low-intensity pixel clusters (rosettes) distributed across the interior regions of both lobes, ranging from 5 to 20 pixels in diameter.",
+    "linear_abrasions": "A prominent diagonal linear dark streak is visible on the mid-left lobe, and several thinner parallel vertical linear marks are visible on the mid-right lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular high-contrast texture clusters (barnacle colonization) are located at the extreme distal tips of both the left and right lobes.",
+  "other_distinctive_markers": "Dark, triangular pigmentation field at the central peduncle junction that creates a high-contrast boundary against the adjacent white ventral surface."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity dark pixels (~90-95%) with high-intensity white localized punctate clusters (~5-10%).",
+    "spatial_color_mapping": "Dispersed high-intensity white circular blobs (5-15 pixel diameter) distributed across a dark field; concentration is highest on the distal tips and along the trailing edges of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated internal angle of approximately 120 degrees.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (peaks and valleys of 2-5 pixels) along the entire continuous trailing edge boundary.",
+    "lobe_sweep_trajectory": "Convex curve trajectory starting from the lateral tips and transitioning to a slight concavity as it approaches the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense spatial clusters of high-contrast white circular pixel groups (rosettes) distributed across the visible surface of both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive distribution of circular white punctate scars across the visible fluke surface.",
+  "other_distinctive_markers": null
+}

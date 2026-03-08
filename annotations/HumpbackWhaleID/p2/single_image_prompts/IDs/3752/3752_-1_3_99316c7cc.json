@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 45:55 ratio of high-intensity (white/light grey) to low-intensity (black/dark grey) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Left lobe contains a large contiguous high-intensity region covering ~80% of its area, bounded by a low-intensity margin at the trailing edge and tip. Right lobe is predominantly low-intensity with sparse high-intensity linear streaks and punctate spots."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated pixel angle of approximately 72 degrees and a depth-to-width ratio of ~1:4 within the central region.",
+    "edge_topography_serration_map": "Continuous high-frequency serration along the trailing edge; significant pixel-amplitude variations (jaggedness) observed, particularly on the outer third of both lobes where peaks and valleys exceed 15-pixel depth.",
+    "lobe_sweep_trajectory": "Symmetric convex anterior sweep tapering to sharp, slightly upturned lateral tips; the trailing edge follows a broadly concave arc from the median notch to the outer tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, high-contrast white circular pixel clusters detected on the dark right lobe; isolated dark mottling clusters present within the high-intensity field of the left lobe.",
+    "linear_abrasions": "Multiple prominent, unaligned linear white pixel disruptions (rake marks) crossing diagonally on the right lobe; shorter vertical dark linear marks are visible on the inner-left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive rake marks across the right lobe; irregular, eroded topography of the trailing edge suggests historical tissue loss or significant wear.",
+  "other_distinctive_markers": "High degree of pigmentation asymmetry between the two lobes, with the left lobe being predominantly white and the right lobe predominantly black."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio; approximately 85% high-intensity white pixels and 15% low-intensity black pixels localized primarily at the margins.",
+    "spatial_color_mapping": "Dominant white contiguous central regions on both lobes; thick black border along the entire trailing edge; distinct dark vertical marking on the mid-left lobe; several dark focal spots and linear clusters on the distal right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated interior angle of approximately 70 degrees and significant vertical depth relative to the fluke baseline.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations along the distal margins; extreme pixel-level irregularity at the tips due to epibiotic clusters; moderate irregularity along the interior trailing edge.",
+    "lobe_sweep_trajectory": "Convex trajectory from the notch transitioning to a downward-tapering curve towards the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, irregular high-contrast dark clusters at the extreme tips of both lobes (barnacle colonization); small, sparse circular dark spots (diameter < 5px) in the central white zones.",
+    "linear_abrasions": "One prominent vertical dark linear disruption on the left lobe; multiple unaligned, intersecting linear rake marks on the distal portion of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle encrustation on the lateral tips of both lobes; distinct multiple parallel rake marks on the right lobe surface.",
+  "other_distinctive_markers": "Pronounced lumpy, irregular silhouettes at the distal tips caused by heavy biological loading, exceeding the natural geometric boundary of the fluke."
+}

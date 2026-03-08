@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity with a global ratio of approximately 3:1 dark to light pixels across the visible fluke surface.",
+    "spatial_color_mapping": "The right lobe features a large, contiguous high-intensity (white) region containing irregular low-intensity (black) linear streaks. The left lobe is primarily low-intensity black with sparse high-intensity linear marks. Both distal tips exhibit high-intensity beige/white circular pixel clusters."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Approximate 55-degree V-shaped indentation; the vertex is partially obscured by high-intensity water spray pixels.",
+    "edge_topography_serration_map": "Continuous sequence of irregular, high-frequency triangular serrations with pixel-amplitudes ranging from 5 to 25 pixels along the trailing boundary.",
+    "lobe_sweep_trajectory": "Convex trajectory curving upwards and outwards from the central notch, tapering at the distal extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of circular, high-contrast, textured pixel groups (3-12 pixel diameter) localized at the extreme distal tips of both lobes.",
+    "linear_abrasions": "Multiple high-intensity diagonal linear pixel disruptions (scratches) visible on the right lobe; several horizontal and vertical linear marks on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization at the distal margins of both lobes; prominent linear rake marks across the ventral surface.",
+  "other_distinctive_markers": "Unique vertical low-intensity (black) streak anomaly located on the inner upper quadrant of the left lobe."
+}

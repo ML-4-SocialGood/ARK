@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio characterized by a dominant low-intensity (black) central field and high-intensity (white) localized zones on the distal lobes and upper trailing edges.",
+    "spatial_color_mapping": "Contiguous black pigmentation occupies the central and proximal fluke areas. High-intensity white/grey mottling is concentrated on the distal ends of both lobes, with transition zones showing speckled white-on-black pixels toward the medial region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide V-shaped depression at the fluke center; vertex depth is visible but the precise pixel angle is partially obscured by splash/water-surface intersection.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the horizontal boundary; peaks and valleys exhibit pixel-amplitudes varying between 5 and 15 pixels across the entire length.",
+    "lobe_sweep_trajectory": "Symmetrical upward convex curvature originating from the median notch and extending to the distal tips of both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular white pixel clusters (rosettes) distributed across the dark central and lower surfaces of both lobes; a dense concentration is visible on the distal edges.",
+    "linear_abrasions": "Multiple distinct, unaligned linear white pixel disruptions (rake marks) are visible on the mid-left lobe, primarily oriented vertically and diagonally."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular biological clusters (barnacle colonization) with high-intensity tan and white pixels attached to the extreme distal points of both lobes.",
+  "other_distinctive_markers": "Distinct 'C-shaped' or circular ring marking visible on the upper pigmentation of the right lobe."
+}

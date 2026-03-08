@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Dominant low-intensity pixel area (approximately 92%) against localized high-intensity pixel clusters at distal tips and along linear abrasions (approximately 8%).",
+    "spatial_color_mapping": "Continuous dark-grey/black pigmentation across the primary surface. High-contrast white contiguous clusters are localized at the far-left and far-right distal tips. Scattered high-contrast circular nodes (approx. 10-20 pixels) are visible on the right lobe interior. Linear high-intensity tracks are distributed across the lower and central quadrants of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central depression with a calculated pixel angle of approximately 72 degrees and a vertical bounding-box depth equivalent to roughly 15% of the total visible lobe height.",
+    "edge_topography_serration_map": "Highly irregular trailing boundary featuring high-frequency serrations. Peak-to-valley pixel amplitudes range from 5 to 35 pixels along the entire visible linear boundary, with significant notches on the outer lateral halves.",
+    "lobe_sweep_trajectory": "Outer margins exhibit a consistent convex sweep from the water line to the distal tips. Trailing edge margins follow a multi-segmented concave trajectory toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed, high-relief clusters of white, circular pixel groups (barnacles) at both distal lobe tips. Individual circular high-contrast nodes are detected on the interior surface of the right lobe.",
+    "linear_abrasions": "Extensive network of distinct, unaligned linear white pixel tracks (rake marks) ranging from 40 to 400 pixels in length, oriented diagonally across both lobes."
+  },
+  "acquired_anomalies_or_scars": "Substantial barnacle colonization at the lateral terminal tips; multiple linear rake marks across the ventral surface; several circular scars localized on the right lobe surface.",
+  "other_distinctive_markers": "Localized heavy concentration of calcified organisms creating a high-contrast, textured white border exclusively at the lateral-most points of both lobes."
+}

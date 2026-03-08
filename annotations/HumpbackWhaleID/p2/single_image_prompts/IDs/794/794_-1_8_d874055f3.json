@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 5:95 ratio of high-intensity (white) to low-intensity (black/dark grey) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant contiguous dark pigment across >95% of fluke area. A localized high-contrast white patch is located on the distal edge of the right lobe. Multiple small-diameter (1-5 pixel) white focal spots are scattered across the right and central lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped notch with a pixel angle of approximately 145 degrees and a bounding-box depth of approximately 4% of the fluke span.",
+    "edge_topography_serration_map": "Irregular trailing edge topography. The right lobe trailing edge displays low-frequency, medium-amplitude peaks. The left lobe trailing edge displays high-frequency, low-amplitude serrations. Both distal tips exhibit extreme topographic irregularity due to external clusters.",
+    "lobe_sweep_trajectory": "Concave sweep trajectory along the trailing edges transitioning to convex near the distal tips. Leading edges exhibit a continuous convex curve."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Concentrated clusters of high-contrast, roughly circular pixel groups (white/grey) are detected on the distal tips of both lobes, consistent with barnacle colonization sites.",
+    "linear_abrasions": "Several faint, unaligned linear pixel disruptions (rake marks) are visible on the right lobe, oriented vertically/obliquely relative to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Extensive biological growth (barnacle clusters) and associated calcified scarring at the distal tips of both the left and right fluke lobes.",
+  "other_distinctive_markers": null
+}

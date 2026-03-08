@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Highly skewed towards low-intensity values; the visible fluke surface is approximately 95% dark-grey to black with isolated high-intensity white pixels located along the trailing edge and medial notch.",
+    "spatial_color_mapping": "Predominantly uniform dark pigmentation across both lobes. Focal high-contrast white spots are mapped as sparse clusters (less than 10 pixels in diameter) along the peripheral boundary of the trailing edge and the lateral tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped central depression with an estimated interior angle of approximately 65 degrees and a vertical bounding-box depth equivalent to roughly 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations detected along the entire trailing edge boundary, with distinct peaks occurring at regular intervals of approximately 15-20 pixels.",
+    "lobe_sweep_trajectory": "Strongly convex curvature on the distal edges, transitioning to a slight concavity as the lobes approach the medial notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of high-contrast white pixel clusters localized at the extreme lateral tips of the left and right lobes, consistent with barnacle-related scarring patterns.",
+    "linear_abrasions": "Several faint, unaligned linear pixel disruptions (light grey against dark background) visible on the medial portion of the right lobe, oriented diagonally toward the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Localized white scarring and small indentations along the trailing edge, particularly visible on the right lobe tip, indicating minor physical trauma or parasitic detachment sites.",
+  "other_distinctive_markers": "Presence of a secondary cetacean dorsal fin in the foreground of the image frame, partially occluding the water surface below the fluke."
+}

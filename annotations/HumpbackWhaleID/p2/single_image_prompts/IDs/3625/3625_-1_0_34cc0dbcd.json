@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low ratio of high-intensity pixels to low-intensity pixels; ventral surface is approximately 98% dark/black pigmentation (pixel values < 30) with less than 2% high-intensity white speckling.",
+    "spatial_color_mapping": "Solid, contiguous black pigmentation across the entire visible ventral field. Sparse, high-contrast white micro-blobs (1-3 pixels in diameter) are localized in the lower-central region above the peduncle and scattered along the inferior margin of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped median notch with a calculated angle of approximately 52 degrees and a depth-to-width ratio of roughly 1:1.2 relative to the immediate lobe boundaries.",
+    "edge_topography_serration_map": "The right lobe trailing edge displays high-frequency, low-amplitude sawtooth serrations. The left lobe trailing edge exhibits lower-frequency, irregular jaggedness with larger amplitude deviations (~15-20 pixels) from the mean curve.",
+    "lobe_sweep_trajectory": "The trailing edge follows a broadly convex trajectory from the notch to the tips, with a distinct increase in curvature (convexity) at the distal 1/4 of both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "A small cluster of roughly 12 high-intensity white pixel points is visible on the lower interior quadrant of the right lobe, consistent with focal scarring patterns.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "A prominent, deep irregular indentation/notch is visible on the trailing edge of the right lobe, located approximately midway between the central notch and the fluke tip.",
+  "other_distinctive_markers": "Active water turbulence and spray obscuring the pixel data at the junction of the peduncle and the ventral fluke surface."
+}

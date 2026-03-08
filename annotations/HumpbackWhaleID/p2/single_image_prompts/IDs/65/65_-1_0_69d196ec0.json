@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The surface is dominated by low-intensity (dark grey/black) pixels with high-intensity (white/yellow) localized clusters. Estimated macro-level ratio of high-intensity to low-intensity pixels is approximately 1:4.",
+    "spatial_color_mapping": "Low-intensity pixels are concentrated at the central notch and lower lobe margins. Mid-tone grey mottled regions occupy the central-lateral segments of both lobes. High-intensity pixels form discrete circular clusters mapped heavily across the distal margins and trailing edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a calculated internal angle of approximately 38 degrees and a vertical pixel depth of roughly 12% of total fluke height.",
+    "edge_topography_serration_map": "Continuous irregular serration pattern across the trailing edge with pixel-amplitude variations between 3 and 12 pixels. A significant indentation is visible on the upper margin of the right lobe.",
+    "lobe_sweep_trajectory": "The leading edges exhibit a convex trajectory tapering toward acute distal tips. The trailing edge follows a non-linear, complex path with overall convexity interrupted by micro-serrations."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density circular pixel clusters (barnacle colonization) localized on the right distal tip and left leading edge. Sparsely distributed lower-density clusters are detected across the medial ventral surface of both lobes.",
+    "linear_abrasions": "Fine, dark linear pixel disruptions (~1-2px width) with inconsistent orientations visible on the light-grey mottled background of the interior left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive colonization of raised calcareous barnacle clusters along distal margins and trailing edges. Circular depigmented white scars visible near the lower central axis.",
+  "other_distinctive_markers": null
+}

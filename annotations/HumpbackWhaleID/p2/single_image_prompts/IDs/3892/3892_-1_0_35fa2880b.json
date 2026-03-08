@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity (white) pixels dominate approximately 85-90% of the visible surface, contrasted by a low-intensity (black) border along the trailing edge and localized dark spots.",
+    "spatial_color_mapping": "Primary high-intensity white field across both lobes. A continuous low-intensity black perimeter follows the trailing edge. Small, discrete, low-intensity circular blobs are located at approximately coordinates (0.38, 0.48), (0.78, 0.52), and (0.52, 0.65) relative to the fluke's 2D bounding box."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped notch with an estimated angle of 45 degrees, showing significant depth relative to the lobe width.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitudes varying between 2-10 pixels; most pronounced along the inner right lobe and the distal tips.",
+    "lobe_sweep_trajectory": "Overall convex curve with a moderate lateral sweep extending from the median notch to the tapering distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Three distinct, roughly circular low-intensity clusters visible: one on the mid-left lobe, one on the mid-right lobe, and one near the ventral peduncle junction. Several small, raised white bumps (likely barnacle scars) are distributed across the white field.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Notable yellowish-brown staining or discoloration visible at the base of the fluke near the water line. A small notch or irregularity is visible on the extreme outer edge of the left lobe tip.",
+  "other_distinctive_markers": "The combination of a nearly pure white ventral surface with only three isolated, high-contrast dark spots provides a unique spatial identifier."
+}

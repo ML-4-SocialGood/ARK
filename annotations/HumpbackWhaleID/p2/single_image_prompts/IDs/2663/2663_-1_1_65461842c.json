@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level ratio; high-intensity pixels (RGB values > 200) occupy approximately 85% of the visible fluke surface, with low-intensity pixels (RGB values < 60) restricted to the trailing edges and terminal tips.",
+    "spatial_color_mapping": "Dominant high-intensity white region across the central and proximal areas of both lobes. Low-intensity dark pigmentation forms a continuous jagged band along the entire trailing edge, with significant contiguous expansion at the distal tips. One isolated, circular low-intensity cluster is detected in the upper-right quadrant of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch with a calculated interior angle of approximately 115 degrees; notch depth occupies roughly 15% of the visible fluke vertical axis.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the continuous trailing edge; pixel-amplitudes of peaks and valleys range from 4 to 12 pixels; serrations are more pronounced and irregular on the left lobe compared to the right.",
+    "lobe_sweep_trajectory": "Symmetrical convex curves characterizing both lobes, following an outward and upward arc from the median notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": "Several faint, unaligned grey linear streaks (rake marks) are visible on the left lobe, oriented diagonally toward the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "A prominent, circular dark-pigmented focal mark (approx. 10 pixels in diameter) on the right lobe. The far-left distal tip exhibits a jagged, truncated morphology suggesting historical tissue loss or irregular scarring.",
+  "other_distinctive_markers": null
+}

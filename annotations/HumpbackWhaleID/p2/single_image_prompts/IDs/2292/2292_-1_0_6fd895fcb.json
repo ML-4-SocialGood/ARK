@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface with high-intensity (white) pixels localized in small clusters, estimated at a ratio of approximately 12:1.",
+    "spatial_color_mapping": "The surface is a continuous low-intensity field lacking large-scale white mottling; visual features are restricted to small, discrete circular and annular high-intensity spots distributed across both the left and right lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated angle of approximately 75 degrees and a bounding box depth roughly 1/6th of the vertical fluke extent.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern along the entire visible trailing edge; peaks are sharp and triangular with varying amplitudes, particularly pronounced on the distal portions of both lobes.",
+    "lobe_sweep_trajectory": "Lobes follow a convex upward curve from the median notch, tapering to sharp, elevated tips at the lateral extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Extensive detection of circular and ring-shaped high-contrast pixel clusters ranging in diameter; these are densely distributed across both lobes, representing a high concentration of localized circular scarring.",
+    "linear_abrasions": "Detection of multiple thin, linear pixel disruptions, including a set of parallel diagonal marks on the lower left lobe and isolated vertical scratches on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "High-density circular scarring across the entire ventral surface; the trailing edge exhibits significant jaggedness suggesting cumulative physical wear.",
+  "other_distinctive_markers": null
+}

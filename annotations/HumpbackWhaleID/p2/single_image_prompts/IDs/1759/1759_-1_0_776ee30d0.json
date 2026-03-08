@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity pixel distribution with a low ratio of high-intensity pixels to low-intensity pixels; approximately 92% of the fluke surface area occupies the lower 20% of the grayscale histogram.",
+    "spatial_color_mapping": "Dark base pigmentation with distinct high-intensity pixel clusters. Two primary white spots are located on the mid-right lobe. Faint, non-contiguous light mottling is visible along the lower boundaries of both lobes near the fluke base."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow, obtuse V-shaped notch with an estimated interior angle of 130 degrees; depth of notch is less than 5% of total fluke vertical span.",
+    "edge_topography_serration_map": "Highly irregular trailing edge with moderate-frequency serrations; left lobe exhibits larger, deeper indentations, while the right lobe shows finer, more frequent pixel-level peaks.",
+    "lobe_sweep_trajectory": "Mathematical curve of the trailing edge follows a convex trajectory from the notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of two distinct, high-contrast circular clusters on the right lobe; several smaller, lower-intensity circular clusters are scattered across the lower quadrants of both lobes.",
+    "linear_abrasions": "Two prominent white linear pixel disruptions are visible on the mid-left lobe: one diagonal mark approximately 1/8th of lobe width and one smaller horizontal mark below it."
+  },
+  "acquired_anomalies_or_scars": "Extensive texture-based anomalies on the extreme distal tips of both lobes, appearing as high-contrast, irregular bulbous clusters consistent with external biological attachment.",
+  "other_distinctive_markers": "The extreme left tip exhibits a unique 'tattered' silhouette where the continuous edge is broken by a high-density cluster of high-intensity material."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white region comprises approximately 85% of the visible ventral surface area; low-intensity black perimeter and localized spots comprise approximately 15%.",
+    "spatial_color_mapping": "Central contiguous high-intensity white region. Low-intensity black banding along the entire trailing edge and distal tips. Discrete low-intensity circular spots (diameter ~2-5% lobe width) scattered across the white surface of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a calculated internal angle of approximately 105 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the trailing edges of both lobes. Pixel-amplitude of peaks varies between 5-15 pixels. Right lobe trailing edge exhibits higher irregularity compared to the left.",
+    "lobe_sweep_trajectory": "Convex curvature from the median notch to the distal tips, with the tips tapering and curving slightly upward."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 10 discrete, dark, roughly circular pixel clusters (likely barnacle scars) scattered across the white ventral surface: 6 on the left lobe and 4 on the right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "The distal tip of the right fluke lobe (viewer's right) shows significant irregular tissue loss and high-amplitude jaggedness compared to the left tip.",
+  "other_distinctive_markers": null
+}

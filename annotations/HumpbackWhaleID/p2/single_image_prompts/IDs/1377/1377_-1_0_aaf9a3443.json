@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:3 ratio of high-intensity white/light-grey pixels to low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "High-intensity white and light-grey pixel mottling is mapped to the mid-to-lateral regions of both lobes, radiating outward from a central region of solid low-intensity black pixels."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression at the center of the trailing edge with an estimated pixel angle of 65 degrees.",
+    "edge_topography_serration_map": "Continuous linear boundary exhibiting irregular serrations with peak-to-valley amplitudes ranging from 5 to 20 pixels, increasing in frequency toward the distal tips.",
+    "lobe_sweep_trajectory": "Convex curve trajectory along the outer boundaries of both fluke lobes, sweeping upward and outward."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast, high-texture white pixel clusters localized at the extreme distal tips of both the left and right lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Heavy accumulation of high-intensity, textured white pixel clusters at the distal tips of both lobes, representing significant localized surface anomalies.",
+  "other_distinctive_markers": null
+}

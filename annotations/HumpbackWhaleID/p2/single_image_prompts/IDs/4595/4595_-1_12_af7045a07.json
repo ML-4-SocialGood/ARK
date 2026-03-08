@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low-to-moderate; predominantly low-intensity (dark gray) pixels with isolated high-intensity (white) pixels constituting approximately 5% of the fluke surface area.",
+    "spatial_color_mapping": "Base intensity values range between 40-80 (0-255 scale). High-contrast white circular blobs (intensity 220-255) are distributed across both lobes. A dense cluster is mapped to the mid-horizontal, mid-vertical region of the right lobe. Sparse, isolated white spots are mapped across the medial and lateral regions of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression at the center; internal pixel angle approximately 65 degrees; depth is roughly 15% of the vertical fluke height.",
+    "edge_topography_serration_map": "The left lobe edge features high-frequency, low-amplitude serrations. The right lobe edge features irregular, high-amplitude jagged peaks and deep notches, particularly in the distal half, creating a discontinuous topographical profile.",
+    "lobe_sweep_trajectory": "Trailing edge follows a concave upward curve from the central notch toward the outer tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detected approximately 22 high-contrast circular pixel clusters; 14 mapped to the right lobe (concentrated mid-center) and 8 mapped to the left lobe (dispersed distribution).",
+    "linear_abrasions": "Three short, vertical low-contrast linear disruptions on the left lobe; one distinct diagonal high-contrast linear mark on the lower interior portion of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular tissue loss or jagged indentation on the distal trailing edge of the right lobe; potential physical trauma markings.",
+  "other_distinctive_markers": "High-intensity white saturation at the peduncle junction due to water spray/foam, obscuring the exact interface pixels."
+}

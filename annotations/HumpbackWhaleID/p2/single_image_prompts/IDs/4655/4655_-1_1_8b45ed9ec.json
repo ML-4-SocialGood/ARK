@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio; approximately 85% of pixels are low-intensity black/dark-grey, with approximately 15% high-intensity white/light-grey clustered in distal regions.",
+    "spatial_color_mapping": "Large contiguous mottled white/grey region on the distal third of the left lobe; smaller linear white patterning and mottling on the distal tip of the right lobe; central and proximal fluke surfaces consist of solid low-intensity black pixels."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an internal angle of approximately 72 degrees; high-depth bounding box relative to width.",
+    "edge_topography_serration_map": "Irregular serration profile with moderate frequency; highest pixel-amplitude variations found on the distal outer edges; trailing edge near the median notch transitions to a smoother, lower-amplitude topography.",
+    "lobe_sweep_trajectory": "Primary sweep trajectory exhibits a consistent convex curve from the median notch vertex to the outer lobe tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of circular, high-contrast, raised white pixel groups localized at the extreme distal tips of both the left and right lobes.",
+    "linear_abrasions": "Multiple distinct white linear pixel disruptions (rake marks) observed across the dark ventral surface; notably three parallel diagonal marks on the lower left lobe and several shorter vertical/diagonal marks on the lower right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive linear rake-mark abrasions across both lobes and heavy calcified colonization (barnacle clusters) at both distal tips.",
+  "other_distinctive_markers": "Unique, high-contrast swirl-like pigmentation pattern located on the interior distal portion of the left lobe."
+}

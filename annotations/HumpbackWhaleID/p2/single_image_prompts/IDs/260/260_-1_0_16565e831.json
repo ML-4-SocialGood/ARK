@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio with approximately 75% high-intensity white central area and 25% low-intensity black terminal boundaries.",
+    "spatial_color_mapping": "Broad central white region bounded by a thick, irregularly feathered black band along the trailing edge. Four distinct, low-intensity elliptical focal spots are visible in a triangular configuration within the lower central white field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped indentation with an estimated angle of 155 degrees and a bounding-box depth of approximately 5% of the total fluke height.",
+    "edge_topography_serration_map": "Low-frequency, low-amplitude serrations along the left lobe trailing edge. The right lobe trailing edge features a single high-amplitude concavity (notch) approximately 70% of the distance from the median notch to the tip.",
+    "lobe_sweep_trajectory": "Convex trajectory on both lobes tapering toward distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Cluster of four dark, circular pixel groupings in the central white field; localized high-contrast white/black concentric pattern at the extreme right distal tip.",
+    "linear_abrasions": "Faint, parallel diagonal linear disruptions visible on the lower-left white surface extending towards the center."
+  },
+  "acquired_anomalies_or_scars": "A prominent semi-circular indentation or traumatic notch located on the distal trailing edge of the right fluke lobe.",
+  "other_distinctive_markers": null
+}

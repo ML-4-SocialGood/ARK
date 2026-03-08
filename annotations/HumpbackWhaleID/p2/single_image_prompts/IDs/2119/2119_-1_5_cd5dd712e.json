@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio of approximately 65% high-intensity (white/light-grey) to 35% low-intensity (black/dark-grey) pixels across the visible ventral area.",
+    "spatial_color_mapping": "Contiguous dark-grey banding along the entire trailing edge perimeter. Left lobe features discrete, high-contrast circular dark spots on a light background. Right lobe exhibits a large, contiguous dark-grey geometric mass originating at the median notch and extending toward the mid-lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with a deep bounding-box penetration and an acute pixel-angle of approximately 40 degrees.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude pixel variations along the continuous boundary. Significant jagged topography is present, particularly at the distal tips where irregular clusters break the linear flow.",
+    "lobe_sweep_trajectory": "Overall convex curvature from notch to tips, heavily modulated by secondary high-frequency serrations and irregular distal protrusions."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple localized circular dark-pixel clusters detected on the light field of the left lobe, functioning as high-contrast focal points against the primary pigmentation.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Prominent irregular, high-contrast dark masses on the distal tips of both lobes, exhibiting non-uniform pixel textures indicative of external biological encrustations or trauma.",
+  "other_distinctive_markers": null
+}

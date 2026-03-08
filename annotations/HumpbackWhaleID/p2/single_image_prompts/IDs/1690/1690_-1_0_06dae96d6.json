@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio; approximately 60% high-intensity (white/light-grey) to 40% low-intensity (black/dark-grey) distribution across the visible ventral area.",
+    "spatial_color_mapping": "Left lobe: Large contiguous low-intensity (black) region covering the central and anterior areas, transitioning to a high-intensity mottled region near the tip. Right lobe: Predominantly high-intensity (white) background with 8-10 discrete, high-contrast low-intensity circular blobs scattered across the mid-field and lateral quadrants."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a calculated angle of approximately 28 degrees and a vertical depth comprising roughly 15% of the visible lobe height.",
+    "edge_topography_serration_map": "Left lobe: High-frequency, high-amplitude serrations (jagged peaks and valleys) along the entire trailing edge boundary. Right lobe: Lower-frequency, low-amplitude irregular peaks, with a smoother profile relative to the left lobe.",
+    "lobe_sweep_trajectory": "Convex curve trajectory from notch to tips; left lobe tip exhibits a blunt, irregular termination due to significant edge erosion."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular dark pixel clusters (3-15 pixels in diameter) localized primarily on the right lobe's high-intensity surface and the distal end of the left lobe.",
+    "linear_abrasions": "Several faint, dark linear pixel streaks (~20-50 pixels in length) oriented diagonally across the right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular tissue loss and heavy serration along the left lobe trailing edge, indicating healed physical trauma or intense environmental wear.",
+  "other_distinctive_markers": "Extreme morphological asymmetry between the left and right trailing edges."
+}

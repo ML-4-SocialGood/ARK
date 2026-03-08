@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface area exceeding 90%, with sparse, high-intensity (white) pixel clusters representing less than 10% of the visible fluke surface.",
+    "spatial_color_mapping": "Uniform dark pigmentation with stochastic high-intensity flecks. Two primary high-contrast circular points are detected: one in the mid-central region of the left lobe and one in the mid-lateral region of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide, shallow U-shaped central depression dividing the lobes, with a visible pixel angle of approximately 120 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern along the entire trailing edge boundary; sharp peaks and deep valleys are consistent from the notch to both distal tips.",
+    "lobe_sweep_trajectory": "Bilateral convex upward curvature originating from the median notch and terminating at acute points on the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple localized circular white pixel clusters distributed across both lobes, including a distinct pair of circular marks at mid-lobe coordinates.",
+    "linear_abrasions": "Visible fine-scale, unaligned white linear disruptions (scratches) primarily oriented horizontally and diagonally across the central region of both fluke lobes."
+  },
+  "acquired_anomalies_or_scars": "A significant, irregular cluster of textured, high-contrast pixels (barnacle colony) is attached to the extreme distal end of the left fluke tip.",
+  "other_distinctive_markers": null
+}

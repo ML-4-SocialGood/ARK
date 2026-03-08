@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio is dominated by low-intensity (black/dark grey) pixels, estimated at approximately 85-90% coverage, with sparse high-intensity (white) pixels appearing as narrow linear and punctate regions.",
+    "spatial_color_mapping": "Continuous dark substrate across both lobes. Disrupted by high-contrast white linear filaments and streaks oriented in various diagonal axes. Small high-intensity white blobs are localized at the distal tips and proximal to the median notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a pixel-calculated angle of approximately 50 degrees.",
+    "edge_topography_serration_map": "Irregular boundary with varying pixel-amplitude. Left lobe (viewer perspective) exhibits a distinct, deep semi-circular indentation on the trailing edge. Right lobe exhibits smaller, high-frequency serrations.",
+    "lobe_sweep_trajectory": "Both lobes follow an upward convex trajectory from the median notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast white punctate pixel clusters localized at the extreme distal tips of both the left and right lobes.",
+    "linear_abrasions": "Dense distribution of distinct, unaligned white linear pixel disruptions (rake marks) scattered across the ventral surface of both lobes."
+  },
+  "acquired_anomalies_or_scars": "Notable missing tissue/notch on the trailing edge of the left lobe; extensive coverage of linear rake marks across the entire visible ventral area.",
+  "other_distinctive_markers": null
+}

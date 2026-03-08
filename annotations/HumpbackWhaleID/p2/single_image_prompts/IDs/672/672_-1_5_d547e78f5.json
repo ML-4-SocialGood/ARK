@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixels with approximately 5-10% high-intensity (white) pixels localized at distal tips and linear markings.",
+    "spatial_color_mapping": "High-contrast contiguous white blobs are mapped to the distal tips; left tip exhibits small fragmented mottling while right tip shows a larger, irregular white patch. Multiple high-contrast linear streaks are mapped across the central region and right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped depression with an approximate pixel angle of 75 degrees and a bounding-box depth extending roughly 15% of the visible vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the continuous trailing boundary; distinct irregular valleys and peaks are visible, particularly near the lateral extremities and central notch.",
+    "lobe_sweep_trajectory": "Bilateral convex trajectory from the water line curving into a concave sweep towards the median notch; distal tips show an upward-outward extension."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, clustered high-contrast white circular spots detected on the distal-most edge of the right lobe.",
+    "linear_abrasions": "Distinct vertical white linear disruption located left of the median notch; multiple fine-line rake marks observed on the surface of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent white linear rake marks; dark circular focal point (possible lesion or indentation) visible on the right lobe adjacent to the notch.",
+  "other_distinctive_markers": "Asymmetrical pigmentation distribution where the high-intensity white pixel cluster on the right fluke tip is significantly larger and more contiguous than the cluster on the left tip."
+}

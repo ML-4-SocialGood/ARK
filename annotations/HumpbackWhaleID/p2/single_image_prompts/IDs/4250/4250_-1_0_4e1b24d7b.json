@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark-grey/black) pixels with a very low ratio of high-intensity (white) pixels, estimated at less than 5% of the visible surface.",
+    "spatial_color_mapping": "Primary dark field across both lobes. Discrete high-contrast white focal points are visible: a small singular spot on the mid-left lobe, a dense cluster at the far right distal tip, and faint linear mottling near the peduncle-to-notch transition."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated internal angle of approximately 65 degrees and a bounding-box depth approximately 1/6th the total fluke height.",
+    "edge_topography_serration_map": "Continuous micro-serration along both lobes; edge variations exhibit a high frequency of irregular peaks with a pixel-amplitude range of 4 to 15 pixels relative to the water-line boundary.",
+    "lobe_sweep_trajectory": "Mathematical curve shows a consistent convex sweep from the median notch to the distal tips, with a sharp terminal concavity occurring at the extreme lateral margin of the right tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Concentrated high-contrast white pixel cluster at the distal tip of the right lobe; sparse, singular white circular points (1-2 pixel diameter) scattered on the left medial lobe surface.",
+    "linear_abrasions": "Distinct white linear trajectories (rake marks) originating near the peduncle and radiating distally across the central-ventral fluke area."
+  },
+  "acquired_anomalies_or_scars": "Prominent white rake marks on the central fluke and a likely calcified or scarred lesion at the tip of the right lobe lobe.",
+  "other_distinctive_markers": null
+}

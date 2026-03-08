@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-dominance of low-intensity black pixels across approximately 95% of the visible surface area, with low-dominance high-intensity white pixels appearing as discrete punctate clusters.",
+    "spatial_color_mapping": "Contiguous dark pigmentation across both lobes. High-contrast white punctate clusters are distributed non-uniformly, with a higher concentration observed on the lower central region and the medial portion of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch with a pixel angle of approximately 65 degrees and a moderate bounding-box depth relative to the fluke width.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations along the majority of the trailing edge. A significant, irregular macro-level indentation is visible on the inner trailing edge of the left lobe.",
+    "lobe_sweep_trajectory": "Convex leading edges transitioning to a tapered, slightly convex trailing edge trajectory on both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular and semi-circular high-contrast white clusters (approx. 2-10 pixels in diameter) scattered across the dark ventral surface, consistent with focal scarring patterns.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "A prominent, irregular traumatic indentation (missing tissue) is located on the trailing edge of the left lobe, near the median notch. Widespread punctate depigmentation spots are visible across the surface.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution with an approximate 1.2:1 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Large contiguous white zones situated medially and laterally on both lobes, bisected by a vertical black axial corridor. The trailing edge is bounded by a black margin of varying width (5-20 pixels) that narrows towards the tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Symmetrical V-shaped notch; calculated angle of approximately 32 degrees with a bounding-box depth extending roughly 10% of the fluke's total vertical height.",
+    "edge_topography_serration_map": "Irregular serrated boundary with high-frequency peaks (2-5 pixel amplitude) along the right lobe; the left lobe displays lower-frequency, smoother undulating topography.",
+    "lobe_sweep_trajectory": "Symmetrical upward-sweeping curve exhibiting slight convexity from the notch, transitioning to concavity at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of circular dark-ringed anomalies concentrated on the right lobe distal quadrant; multiple isolated circular spots distributed within the white pigmentation of the left lobe.",
+    "linear_abrasions": "Distinct dark linear pixel streaks oriented diagonally across the white pigmentation of the left lobe and lower inner right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive circular pitting and structural scarring consistent with prior epibiont colonization, most prominent on the right distal margin.",
+  "other_distinctive_markers": "Presence of multiple 'ocellus-like' circular markers (dark center within white field) on the lower inner quadrants of both lobes."
+}

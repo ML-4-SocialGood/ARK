@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The image exhibits a contrast ratio of approximately 35:65 high-intensity (white) to low-intensity (black) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Contiguous high-intensity white regions are localized at the distal tips and peripheral margins of both lobes. A continuous low-intensity black field occupies the central region extending from the median notch to the mid-lobe areas, with scattered high-intensity focal points present in the left lobe's dark field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A shallow V-shaped depression is visible with an internal pixel angle of approximately 80 degrees and a low depth-to-span ratio.",
+    "edge_topography_serration_map": "The trailing edge exhibits high-frequency serration with pixel-amplitude variations between 4-12 pixels; serration peaks are more distinct and irregularly spaced on the right lobe margin compared to the left.",
+    "lobe_sweep_trajectory": "The contour follows a sigmoidal curve, showing moderate concavity near the central notch and transitioning into a convex sweep toward the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of circular, high-contrast beige/white pixel groups (barnacles) are concentrated on the extreme distal tips and lower leading edges of both lobes.",
+    "linear_abrasions": "Several short, non-parallel white linear marks (scratches) are detected within the black pigment field on the left lobe's upper quadrant."
+  },
+  "acquired_anomalies_or_scars": "Significant textural and volumetric anomalies on the fluke tips caused by parasitic barnacle colonization, altering the geometric regularity of the lobe edges.",
+  "other_distinctive_markers": "A singular, prominent high-intensity circular focal spot is located within the black field of the left fluke lobe, approximately one-third of the distance from the leading edge."
+}

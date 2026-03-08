@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with a white-to-black pixel ratio of approximately 8.5:1 across the visible ventral surface.",
+    "spatial_color_mapping": "Primary white contiguous zones covering approx. 80% of surface area; low-intensity (black) boundaries along trailing edges and distal tips; vertical low-intensity column at central base; isolated low-intensity circular clusters in mid-lobe regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep U-shaped depression with an approximate aperture of 70 degrees and a pixel-depth of ~15% relative to the vertical fluke axis.",
+    "edge_topography_serration_map": "High-frequency, irregular saw-tooth pattern; pixel-amplitude variations between 2 and 12 pixels relative to the local edge mean; higher density of peaks toward the distal tips.",
+    "lobe_sweep_trajectory": "Convex curve with a positive second derivative relative to the horizontal axis, terminating in slightly hooked, low-intensity distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple discrete low-intensity circular pixel clusters detected: four in the lower-left quadrant and five in the mid-to-lower right quadrant.",
+    "linear_abrasions": "Single visible linear disruption (approx. 40 pixels in length) at an oblique angle in the lower-right quadrant."
+  },
+  "acquired_anomalies_or_scars": "Large irregular dark marking at the central peduncle transition; non-uniform trailing edge indentations suggestive of previous mechanical impact.",
+  "other_distinctive_markers": "Unique 'feathered' transition zone between dark trailing edge and white ventral field on the right lobe inner margin."
+}

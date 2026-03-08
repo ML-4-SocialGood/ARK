@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast (~1.8:1) between high-intensity central fields and low-intensity trailing edge borders.",
+    "spatial_color_mapping": "Contiguous high-intensity white regions occupy the central and medial portions of both lobes. Low-intensity black pixels define the trailing edges and the region surrounding the median notch. Several dark vertical pixel streaks intersect the high-intensity fields on both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped notch with a calculated internal angle of approximately 45 degrees.",
+    "edge_topography_serration_map": "Trailing edge displays low-amplitude micro-serrations. The lateral tips show high-amplitude, irregular edge topography indicative of dense barnacle colonization.",
+    "lobe_sweep_trajectory": "Smooth convex curvature extending from the central notch to the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-contrast, textured circular pixel groupings (barnacles) are localized at the distal tips of both lobes.",
+    "linear_abrasions": "Visible dark linear pixel disruptions (rake marks) primarily on the right lobe, oriented diagonally relative to the leading edge."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization at the lateral tips; multiple unaligned linear abrasions across both ventral lobes.",
+  "other_distinctive_markers": "Embedded metadata text block at base: 'TEC02-01/30A ID 11508 TODD CHANDLER S# N2-6 11 June 02 San Luis-Arguello 15'."
+}

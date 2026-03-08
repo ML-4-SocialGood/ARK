@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white and light-grey pixels dominate the central regions, bordered by low-intensity black pixels along the perimeter and in internal streaks; estimated macro-level ratio of 70:30 (white to black).",
+    "spatial_color_mapping": "Left lobe contains approximately five distinct low-intensity (black) diagonal bands extending from the trailing edge towards the midline. Right lobe features isolated, high-contrast linear vertical streaks. A central low-intensity vertical column originates at the median notch and extends towards the peduncle."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a pixel angle of approximately 70 degrees and a depth-to-width ratio of approximately 1:1.5 within the central bounding area.",
+    "edge_topography_serration_map": "High-frequency, non-uniform serrations. Right lobe trailing edge exhibits extreme jaggedness with three primary deep-pixel valleys (depth > 25 pixels) creating a 'saw-tooth' profile. Left lobe shows moderate-frequency serrations with lower pixel amplitude.",
+    "lobe_sweep_trajectory": "Outer edges of both lobes follow an upward convex curve, terminating in high-contrast pointed tips with a steep vertical sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-contrast, multi-colored (white/yellowish) pixel groups at the extreme lateral tips of both lobes, indicating clustered textural anomalies.",
+    "linear_abrasions": "Three distinct, near-parallel vertical low-intensity linear marks on the right lobe surface; additional shorter, unaligned diagonal marks located proximal to the right trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Extreme irregular tissue loss along the right trailing edge boundary, resulting in a significantly jagged, non-linear contour compared to the left lobe.",
+  "other_distinctive_markers": "Highly unique 'comb-like' or finger-shaped pigmentation pattern on the left distal region where black bands intersect the light-colored surface."
+}

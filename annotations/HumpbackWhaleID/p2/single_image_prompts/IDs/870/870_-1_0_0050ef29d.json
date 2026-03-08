@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixels across the entire ventral surface with a high macro-contrast ratio against the overexposed background; internal white-to-black pixel ratio is approximately 0.05:1.",
+    "spatial_color_mapping": "Contiguous solid black pigmentation across the majority of the fluke area, punctuated by sparse, high-intensity white circular ring-like blobs distributed across both lateral lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible V-shaped central depression with a calculated angle of approximately 40 degrees and a vertical bounding-box depth of approximately 10% of total fluke height.",
+    "edge_topography_serration_map": "Highly irregular trailing edge characterized by high-frequency, varying-amplitude serrations; pixel-level peaks and valleys are continuous from the median notch to the distal tips.",
+    "lobe_sweep_trajectory": "Geometric curve following an upward and outward trajectory with localized convexity in the mid-lobe regions and slight concavity approaching the terminal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular, high-contrast white rings forming a non-uniform constellation across the central and outer ventral surfaces of both lobes.",
+    "linear_abrasions": "Faint, parallel diagonal linear pixel disruptions detectable on the image-right lobe, cutting through the primary black pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Dense clusters of high-intensity white pixel formations concentrated at the extreme distal tips of both lobes and along portions of the visible leading edge.",
+  "other_distinctive_markers": "Presence of a turbulent water-air interface at the base of the fluke, masking the lower central fluke-to-peduncle transition."
+}

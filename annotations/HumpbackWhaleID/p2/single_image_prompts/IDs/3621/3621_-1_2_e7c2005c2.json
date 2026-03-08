@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65% low-intensity (dark) pixels and 35% high-intensity (white/mottled) pixels visible across the total surface.",
+    "spatial_color_mapping": "Large contiguous region of white/grey mottled pixels occupying the inner and lower sections of the left lobe; right lobe is predominantly dark with sparse, high-intensity stippling along the trailing edge and fluke tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with a pixel angle of approximately 105 degrees and a vertical depth of approximately 55 pixels relative to the lobe peaks.",
+    "edge_topography_serration_map": "High-frequency serrations across the entire trailing edge with irregular pixel-amplitudes; specific deep, non-periodic indentations visible on the medial trailing edge of the left lobe.",
+    "lobe_sweep_trajectory": "Convex curve from the median notch to the distal tips, with both tips exhibiting an upward and outward tapering trajectory."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple discrete circular white pixel clusters (2-5 pixel diameter) scattered across the dark regions of the right lobe and central fluke area.",
+    "linear_abrasions": "Several vertical and diagonal linear pixel disruptions breaking the white mottled field on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Deep, non-uniform indentations on the trailing edge of the left lobe suggesting significant material loss relative to the standard serration pattern.",
+  "other_distinctive_markers": "Extreme lateral pigmentation asymmetry; left lobe exhibits significant white mottling while the right lobe remains nearly entirely dark."
+}

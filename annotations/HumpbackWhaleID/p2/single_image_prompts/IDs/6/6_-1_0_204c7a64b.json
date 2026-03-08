@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low white-to-black ratio; approximately 98% low-intensity (dark grey/black) to 2% high-intensity (white) pixel distribution across the visible fluke surface.",
+    "spatial_color_mapping": "Dominant dark contiguous mass with sparse white focal spots. Notable high-contrast clusters include a primary spot at approx (x=775, y=590 relative to crop) and several small, high-intensity spots along the trailing edge serrations of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a pixel-calculated interior angle of approximately 50 degrees; depth is significant, extending approximately 15% into the vertical height of the visible lobes.",
+    "edge_topography_serration_map": "High-frequency serration along the entire trailing edge. Right lobe exhibits high-amplitude 'teeth' (peaks of 10-15 pixels) with irregular spacing. Left lobe shows a more rhythmic, lower-amplitude sawtooth pattern.",
+    "lobe_sweep_trajectory": "Concave sweep from the distal tips toward the median notch; the outer distal margins exhibit a steep convex curvature."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Several circular high-contrast pixel clusters visible; one distinct white spot on the lower mid-section of the right lobe and multiple smaller clusters localized on the peaks of the trailing edge serrations.",
+    "linear_abrasions": "Presence of multiple vertical, unaligned linear pixel disruptions (pale grey/white rake marks) visible on the right lobe's medial surface."
+  },
+  "acquired_anomalies_or_scars": "The right distal tip exhibits an irregular, jagged profile with localized white scarring/pigmentation, suggesting historical tissue loss or extreme wear.",
+  "other_distinctive_markers": "Highly distinctive 'step-like' serration pattern on the inner-trailing edge of the right lobe, featuring deep, narrow valleys between large pixel-peaks."
+}

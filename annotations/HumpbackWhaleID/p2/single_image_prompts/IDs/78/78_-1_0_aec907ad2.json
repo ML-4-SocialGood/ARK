@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark grey) pixels covering approximately 95% of the visible surface, with high-intensity (white) pixel clusters localized at the distal tips and sparse focal spots.",
+    "spatial_color_mapping": "Large contiguous low-intensity region spanning both lobes. High-contrast contiguous white blobs are located at the extreme distal tips of both lobes. Sparse, small-scale white focal spots are distributed in the lower-central and right-central quadrants."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "U-shaped depression with a calculated wide interior angle of approximately 135 degrees and a shallow bounding-box depth.",
+    "edge_topography_serration_map": "High-frequency serration pattern with varying pixel-amplitude peaks along the outer trailing edges; topography becomes notably smoother and lower in amplitude as the contour approaches the median notch.",
+    "lobe_sweep_trajectory": "Concave trajectory along the trailing edge segments meeting at the notch; the leading edge (bottom boundary) displays a convex upward sweep toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of roughly circular high-contrast white pixel groups (barnacles) localized exclusively on the distal tips and outer edges of both lobes.",
+    "linear_abrasions": "Short, distinct linear pixel disruptions (white rake marks) visible on the right lobe surface, specifically one horizontal disruption in the upper-right quadrant."
+  },
+  "acquired_anomalies_or_scars": "Heavy barnacle colonization on the distal tips; visible linear scratches on the right lobe surface.",
+  "other_distinctive_markers": null
+}

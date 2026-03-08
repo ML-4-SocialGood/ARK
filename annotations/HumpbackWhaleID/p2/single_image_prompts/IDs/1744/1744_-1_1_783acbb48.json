@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity pixel base (estimated 92% coverage) with high-intensity foreground features (estimated 8% coverage) creating a high-contrast ratio of approximately 11.5:1 across the visible fluke surface.",
+    "spatial_color_mapping": "Primary high-intensity clusters concentrated in the mid-right lobe (complex intersecting linear pattern) and lower-left lobe (singular horizontal mark); smaller high-intensity clusters concentrated along the distal trailing edge boundaries."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central indentation; calculated vertex angle of approximately 45 degrees relative to the horizontal fluke axis with a vertical bounding-box depth of approximately 15% of the total fluke height.",
+    "edge_topography_serration_map": "Continuous high-frequency jaggedness along the trailing edge boundary; peak-to-valley pixel amplitude most pronounced on distal lobe tips; edge exhibits a rough, irregular sawtooth topography.",
+    "lobe_sweep_trajectory": "Trailing edge lobes follow a parabolic convex curve from the central notch to the tips; leading edge follows a smooth, broad convex trajectory tapering at the distal ends."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 20-25 small, circular high-contrast pixel clusters concentrated on the upper-distal lobe surfaces and sporadically within the central black pigmentation.",
+    "linear_abrasions": "Significant intersecting white linear pixel arrays on the right lobe forming a grid-like pattern; multiple isolated horizontal and diagonal linear marks on the left lobe and lower-center area."
+  },
+  "acquired_anomalies_or_scars": "Extensive surface scarring including a prominent geometric 'double-cross' or 'hashtag' pattern on the right lobe and widespread punctate depigmentation likely corresponding to bio-fouling or prior parasite attachment points.",
+  "other_distinctive_markers": "Unique horizontal high-intensity stroke located on the lower-left leading edge boundary, isolated from other major scar clusters."
+}

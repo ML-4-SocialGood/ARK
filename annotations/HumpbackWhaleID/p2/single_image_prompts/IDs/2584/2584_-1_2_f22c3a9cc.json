@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface area estimated at 90-95%, with high-intensity (white) localized pixel clusters accounting for the remaining 5-10%.",
+    "spatial_color_mapping": "Homogeneous black base intensity across both lobes; high-contrast white geometric primitives (annular rings and linear segments) are distributed asymmetrically across the fluke surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow, wide U-shaped depression with a calculated interior angle of approximately 140 degrees and a vertical depth relative to the lobe apexes of roughly 12% of total fluke height.",
+    "edge_topography_serration_map": "High-frequency, multi-amplitude serrations along the trailing edge; distal regions show larger jagged peaks (10-20 pixels) while proximal regions near the notch show lower-amplitude variations.",
+    "lobe_sweep_trajectory": "Double-curved sigmoidal trajectory; exhibiting concavity originating at the median notch and transitioning to a broad convexity toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Numerous high-contrast white annular rings (diameters 5-15 pixels) scattered across both lobes, with higher density clusters near the trailing edges and distal tips.",
+    "linear_abrasions": "Detection of multiple unaligned, high-intensity linear pixel streaks (1-3 pixels in width); most prominent are vertical scratches on the lower right lobe and diagonal marks on the mid-left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant accumulation of high-intensity, textured calcified clusters (barnacles) visible on the extreme distal tips and the lower leading edges.",
+  "other_distinctive_markers": "Prominent high-intensity scar/lesion cluster visible at the base of the fluke near the water-line interface."
+}

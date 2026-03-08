@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Highly skewed toward low-intensity pixels (black) with a global contrast ratio of approximately 10:1 based on localized high-intensity white scarring against the dark pigment.",
+    "spatial_color_mapping": "Contiguous solid black field across the entire visible surface. Scattered high-contrast white/grey focal points concentrated in circular rings and linear streaks across both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide V-shaped depression with a calculated internal angle of approximately 140 degrees and shallow bounding-box depth.",
+    "edge_topography_serration_map": "Continuous irregular serration with high-frequency, low-amplitude peaks (1-3 pixels) along the mid-lobe boundaries, transitioning to deeper, more jagged valleys (5-10 pixels) near the lateral tips.",
+    "lobe_sweep_trajectory": "Convex curvature sweeping upward and outward from the median notch toward the lateral distal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular and annular high-contrast white pixel clusters. Significant groupings identified on the left lobe (lower mid-section) and right lobe (adjacent to the median notch).",
+    "linear_abrasions": "Numerous unaligned white linear disruptions; one prominent vertical stroke on the left lobe and several horizontal/diagonal intersecting marks on the right lobe upper quadrant."
+  },
+  "acquired_anomalies_or_scars": "Dense barnacle colonization (Coronula diadema) visible on the extreme lateral tips of both lobes, creating a calcified, high-texture protrusion from the fluke boundary.",
+  "other_distinctive_markers": "Unique cluster of ring-shaped scars near the center-right of the fluke, varying in diameter and pixel intensity."
+}

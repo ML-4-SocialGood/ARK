@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio with dominant low-intensity (black) pixels across approximately 80% of the ventral surface and high-intensity (white) pixels localized at the superior margins.",
+    "spatial_color_mapping": "Contiguous low-intensity black region in the central and basal areas. High-intensity white pigmentation is mapped as irregular, non-contiguous bands and mottling along the trailing edge of both lobes, with increased density at the lateral terminals."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression at the center-point. Bounding-box depth is approximately 8% of the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "Right lobe shows high-frequency, low-amplitude serrations. Left lobe features a notable low-frequency indentation approximately one-third of the distance from the median notch to the tip.",
+    "lobe_sweep_trajectory": "Sigmoidal curve along the trailing edge, transitioning from concave at the median notch to convex toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Concentrated high-contrast white pixel clusters located at the extreme left and right distal tips, showing irregular, raised topography.",
+    "linear_abrasions": "Faint, vertical high-contrast linear marks (parallel rake marks) detected on the lower portion of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "A distinct irregular notch/indentation is visible on the trailing edge of the left lobe, interrupting the expected smooth geometric curve.",
+  "other_distinctive_markers": null
+}

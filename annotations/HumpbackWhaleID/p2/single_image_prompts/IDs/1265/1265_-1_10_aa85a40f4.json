@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 1:1.5 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Dominant low-intensity black field originating from the peduncle and extending through the central longitudinal axis of both lobes. High-intensity white fields cover the lateral distal regions. Transition zones feature high-frequency black-on-white mottling and high-contrast linear streaks on the left lobe surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated internal angle of approximately 42 degrees, with a bounding-box depth extending significantly into the central fluke mass.",
+    "edge_topography_serration_map": "High-frequency irregular serrations along the entire trailing edge boundary. Significant pixel-amplitude variations (notches) are detected, including a major irregular indentation on the mid-right lobe trailing edge and smaller jagged peaks along the left lobe.",
+    "lobe_sweep_trajectory": "Highly convex leading edges curving toward acute fluke tips, followed by a complex concave sweep along the trailing edge leading into the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple clusters of high-contrast, circular yellow and white pixel groups (barnacles) localized along the leading edges and distal tips. Distinct grey-scale circular patches (rosettes) are visible within the black pigmentation fields of both lobes.",
+    "linear_abrasions": "Detection of four primary dark, unaligned linear pixel disruptions (rake marks) on the left lobe's white field, oriented diagonally relative to the leading edge."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization on leading edges; notable irregular indentations on the right lobe trailing edge suggesting tissue loss; multiple high-contrast linear marks on the left lobe.",
+  "other_distinctive_markers": "Unique yellow-hued circular bio-fouling clusters localized at the fluke tips and leading edges."
+}

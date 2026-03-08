@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1.7:1 ratio of high-intensity white pixels (grayscale value >200) to low-intensity black pixels (grayscale value <50) across the visible ventral plane.",
+    "spatial_color_mapping": "Central low-intensity black pigmentation forms a wide wedge-shaped manifold originating at the peduncle; extensive dark-pixel mottling and dendritic striations are distributed along the horizontal axis of the high-intensity white lobes, with higher density in the medial regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped median notch with an estimated interior angle of 94 degrees and a vertical bounding-box depth approximately 12% of the total vertical fluke extent.",
+    "edge_topography_serration_map": "High-frequency, non-uniform serration pattern characterized by pixel-amplitude variances ranging from 3 to 15 pixels; edge profile shows significant jaggedness and irregular peaks at both distal lobe extremities.",
+    "lobe_sweep_trajectory": "Asymmetric parabolic sweep on leading edges; trailing edges exhibit a sigmoid curve transitioning from the concave median notch to the tapered, upward-curving distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of localized, roughly circular high-contrast white pixel clusters (5-12 pixels in diameter) situated within the dark-intensity central pigmentation zone.",
+    "linear_abrasions": "Dense array of parallel and intersecting dark-pixel linear disruptions (rake marks) predominantly oriented horizontally across the high-intensity white surface of both lobes."
+  },
+  "acquired_anomalies_or_scars": "Extensive rake mark patterning across both lobes; irregular pixel-level erosion and non-linear boundary disruptions at the trailing edge margins indicating historical physical trauma.",
+  "other_distinctive_markers": "Distinctive dendritic 'bleeding' pattern at the interface where the dark central pigmentation zones transition into the white lobe regions."
+}

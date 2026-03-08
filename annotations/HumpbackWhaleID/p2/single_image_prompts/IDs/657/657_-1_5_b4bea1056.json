@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low global ratio of high-intensity pixels to low-intensity pixels; the surface is dominated by low-intensity (black) values with high-intensity (white) pixels localized solely at the distal tips.",
+    "spatial_color_mapping": "Uniform low-intensity distribution across 95% of the visible surface area; no high-contrast contiguous geometric blobs or mottling patterns are detected on the main fluke body."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped depression at the center with a calculated angle of approximately 40 degrees and significant penetration into the fluke's longitudinal axis.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude irregular serrations present across the entire trailing edge of both lobes; characterized by numerous jagged peaks and sharp-bottomed valleys.",
+    "lobe_sweep_trajectory": "Concave trailing edge curve meeting a sharp, upward-turned distal tip on both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Highly dense clusters of roughly circular, high-contrast pixel clusters (white on black background) located at the extreme left and right distal tips, corresponding to barnacle colonization.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization covering both distal tips, creating significant visual texture and perimeter irregularities.",
+  "other_distinctive_markers": "The ventral surface displays a near-total black pigmentation (All-Black Type) which is highly distinctive compared to typical variegated markings."
+}

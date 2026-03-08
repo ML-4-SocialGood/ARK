@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white/light-gray pixels occupy approximately 88% of the visible fluke area, with low-intensity black pixels defining the perimeter and focal surface marks.",
+    "spatial_color_mapping": "Central area is a monolithic high-intensity white block. A continuous low-intensity black boundary (10-30 pixels thick) tracks the trailing edge. Discrete dark circular rings are mapped in three primary clusters: a dense group in the mid-left lobe, a single large ring at the lower-center transition, and a sparse group on the mid-right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated internal angle of approximately 72 degrees; notch depth occupies approximately 15% of the total vertical pixel height of the visible fluke.",
+    "edge_topography_serration_map": "High-frequency, stochastic serrations along the entire trailing edge; pixel amplitudes range from 3 to 15 pixels, creating a jagged profile with localized 'notching' every 20-40 horizontal pixels.",
+    "lobe_sweep_trajectory": "Moderate convex curvature originating from the median notch and extending laterally to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of at least 12 distinct dark-ringed circular marks (barnacle scars); highest density in the mid-left region (7 marks) and mid-right region (3 marks).",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Prominent dark circular scars; highly irregular, jagged tissue morphology at both distal tips with distinct black nodular protrusions.",
+  "other_distinctive_markers": "A singular, high-contrast dark focal spot situated directly below the median notch vertex."
+}

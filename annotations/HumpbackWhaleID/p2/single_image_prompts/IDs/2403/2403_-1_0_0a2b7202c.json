@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio between dominant low-intensity (black/dark grey) pixels and discrete high-intensity (white) circular pixel clusters.",
+    "spatial_color_mapping": "Continuous low-intensity black base across both lobes. High-intensity white annular and circular blobs (3-20 pixels in diameter) are non-uniformly distributed across the entire ventral surface, with specific clusters in the central and outer lobe regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped central notch with an approximate angle of 50-60 degrees and a depth roughly equal to 15% of the visible vertical fluke span.",
+    "edge_topography_serration_map": "High-frequency irregular serration pattern along the entire trailing boundary, characterized by varying peak amplitudes (5-25 pixels) and jagged valleys.",
+    "lobe_sweep_trajectory": "Symmetric convex upward curve from the median notch extending towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Extensive spatial distribution of white circular/ring-shaped pixel clusters (rosettes) across both lobes, varying in density with high concentration on the right lobe distal region.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Global circular scarring consistent with barnacle attachment; a distinct, raised biological protrusion (barnacle cluster) is visible on the terminal edge of the left distal tip.",
+  "other_distinctive_markers": "Pronounced localized cluster of barnacles on the extreme left distal tip creating an irregular geometric extension of the fluke profile."
+}

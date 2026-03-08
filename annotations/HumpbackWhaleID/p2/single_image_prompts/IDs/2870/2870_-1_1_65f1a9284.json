@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High dominance of low-intensity (black) pixels across >90% of the visible ventral surface, with high-contrast white highlights limited to the median notch region and distal tips.",
+    "spatial_color_mapping": "Large contiguous low-intensity dark zone spanning both lobes. A medium-intensity gray focal patch is mapped immediately adjacent to the median notch. Small, high-intensity white clusters are mapped at the far terminal tips of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated interior angle of approximately 52 degrees.",
+    "edge_topography_serration_map": "Left lobe exhibits macro-topography with three high-amplitude irregular valleys (pixel depth >50px from expected mean edge). Right lobe exhibits micro-topography with a sequence of low-amplitude, high-frequency serrations.",
+    "lobe_sweep_trajectory": "Bilateral convex trajectory, though the left lobe's curve is severely disrupted by deep traumatic concavities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Scattered, high-contrast white circular pixel clusters detected on the lower-left and central-left ventral regions.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Severe physical trauma characterized by irregular, jagged tissue loss and deep gouges along the entire trailing edge of the left lobe.",
+  "other_distinctive_markers": "Marked asymmetry in lobe morphology; the left lobe displays a significant 'toothed' profile compared to the relatively intact right lobe."
+}

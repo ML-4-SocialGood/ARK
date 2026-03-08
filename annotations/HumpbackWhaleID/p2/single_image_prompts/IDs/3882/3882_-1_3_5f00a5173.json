@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast ratio with approximately 85% high-intensity white pixels and 15% low-intensity black/dark-grey pixels concentrated at the perimeter.",
+    "spatial_color_mapping": "Central and proximal regions consist of a contiguous high-intensity white field. Low-intensity black pigmentation forms a continuous boundary layer along the trailing edge, thickening significantly at the distal tips of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep acute V-shaped notch with an estimated internal angle of 50-60 degrees.",
+    "edge_topography_serration_map": "The right lobe exhibits high-frequency, irregular serrations with several pixel-level peaks. The left lobe displays a smoother contour interrupted by a single prominent secondary U-shaped indentation approximately 75% lateral from the notch.",
+    "lobe_sweep_trajectory": "Moderate convex curvature from the median notch, transitioning to a jagged, irregular distal taper."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct low-intensity pixel clusters located on the extreme right distal tip and sparsely distributed as small dark spots across the central white ventral field.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular tissue loss/jagged indentation on the outer trailing edge of the right lobe; prominent secondary notch on the trailing edge of the left lobe.",
+  "other_distinctive_markers": "Presence of high-intensity specular highlights (pixel values approaching 255) across the fluke surface caused by water droplet reflections."
+}

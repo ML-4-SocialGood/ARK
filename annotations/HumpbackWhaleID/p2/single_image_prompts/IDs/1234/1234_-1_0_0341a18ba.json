@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast with approximately 70% low-intensity (dark) peripheral pixels and 30% high-intensity (white) focal regions located centrally in both lobes.",
+    "spatial_color_mapping": "Two large, irregular high-intensity white blobs centered on the medial-to-distal regions of the left and right lobes, surrounded by a continuous dark boundary."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped notch with an estimated pixel angle of 45-55 degrees at the central convergence point.",
+    "edge_topography_serration_map": "High-frequency, irregular pixel-amplitude variations across the entire trailing edge, exhibiting a jagged, saw-toothed morphology with larger peaks near the lateral tips.",
+    "lobe_sweep_trajectory": "Concave curvature originating from the median notch extending to convex curves toward the outer fluke tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small dark circular pixel clusters detected along the superior margin of the right white patch and near the distal tip of the left lobe.",
+    "linear_abrasions": "Multiple high-contrast vertical and diagonal linear disruptions (rake marks) crossing the white pigmentation on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent parallel linear rake marks on the right lobe; extensive irregular serration across the trailing edge likely resulting from cumulative environmental trauma.",
+  "other_distinctive_markers": "Significant pixel noise/grain density across the entire image frame consistent with low-light or high-ISO sensor capture."
+}

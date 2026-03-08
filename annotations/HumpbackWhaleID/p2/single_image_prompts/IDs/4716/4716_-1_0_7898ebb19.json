@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution characterized by a dominant high-intensity (white) central region occupying approximately 85-90% of the visible surface area, bounded by a low-intensity (black) peripheral frame along the trailing edge.",
+    "spatial_color_mapping": "Central area is a contiguous high-intensity white mask. Low-intensity black pigmentation is mapped strictly to the trailing edge boundary. Three distinct, near-circular low-intensity pixel clusters (dots) are located in the lower-left ventral quadrant, with one additional spot near the central notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a pixel-calculated angle of approximately 50 degrees and a vertical depth reaching the mid-point of the fluke's visible vertical axis.",
+    "edge_topography_serration_map": "The left lobe trailing edge displays high-frequency, irregular saw-tooth serrations with varying pixel amplitudes. The right lobe trailing edge presents a smoother, lower-frequency undulating topography until the distal tip.",
+    "lobe_sweep_trajectory": "The left lobe follows a convex outer curve with a sharp vertical drop at the distal margin; the right lobe follows a more linear, elongated diagonal trajectory toward the tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Highly textured, high-intensity yellowish-white clusters exhibiting three-dimensional relief are concentrated on the upper margins and distal tips of both lobes, consistent with localized surface encrustation.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Notable irregular jagged excision or deep notch on the superior-most margin of the left lobe; punctate black pigmentation spots on the interior white surface.",
+  "other_distinctive_markers": "Heavy peripheral bio-fouling or calcified texture localized specifically to the outer-most trailing edge and tips, creating a 'fringed' visual effect against the water background."
+}

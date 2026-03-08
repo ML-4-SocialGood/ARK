@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65:35 ratio of low-intensity (dark grey/black) to high-intensity (white) pixels across the visible ventral area.",
+    "spatial_color_mapping": "Central peduncle transition area is a solid low-intensity block. The left lobe contains a peripheral high-intensity band with internal low-intensity stippling. The right lobe contains a large, contiguous high-intensity field in the outer two-thirds, featuring dense low-intensity mottling and focal spots."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an internal vertex angle of approximately 48 degrees; depth is roughly 12% of the fluke vertical height from base to trailing edge.",
+    "edge_topography_serration_map": "The boundary is highly irregular; the left lobe trailing edge displays 5 distinct low-amplitude serrations; the right lobe trailing edge displays 8 distinct medium-amplitude peaks and valleys.",
+    "lobe_sweep_trajectory": "Convex curve extending from the median notch, transitioning to a slight concavity toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Discrete high-contrast circular white pixel clusters (3-7 pixels diameter) are distributed across the central dark region. Textured, high-contrast protrusions are localized at the terminal tips of both lobes.",
+    "linear_abrasions": "Two distinct, low-intensity linear tracks (~20 pixels in length) are visible on the high-intensity field of the right lobe, oriented diagonally to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Textured protrusions at both distal tips; irregular jagged indentation on the trailing edge of the right lobe.",
+  "other_distinctive_markers": null
+}

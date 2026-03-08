@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity black/dark-grey pixels (approx. 90-95%) with localized high-intensity white pixel clusters (approx. 5-10%) creating a high-contrast speckled distribution.",
+    "spatial_color_mapping": "Widespread distribution of small (3-12 pixel diameter) high-contrast circular white blobs across the entire visible ventral surface; larger irregular high-intensity white clusters are localized at the distal tips of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped central depression with a pixel angle of approximately 105 degrees and a bounding-box depth of approximately 50 pixels relative to the lobe peaks.",
+    "edge_topography_serration_map": "Continuous trailing boundary with low-frequency, low-amplitude serrations (1-4 pixel height); visible indentation on the right lobe approximately two-thirds of the distance from the median notch.",
+    "lobe_sweep_trajectory": "Trailing edge exhibits a consistent concave sweep from the median notch toward the distal tips; outer leading edges are partially occluded but show convex curvature toward the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely populated spatial clusters of roughly circular high-contrast white pixel groups (5-15 pixel diameter) across both lobes, most concentrated in the medial regions.",
+    "linear_abrasions": "Faint, unaligned diagonal and vertical high-contrast linear streaks (15-50 pixels in length) visible on the left lobe and inner right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular high-intensity textured pixel clusters at the distal tips of both the left and right lobes, consistent with localized physical accretion or trauma.",
+  "other_distinctive_markers": null
+}

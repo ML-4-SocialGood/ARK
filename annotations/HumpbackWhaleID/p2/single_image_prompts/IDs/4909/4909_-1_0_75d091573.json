@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface area; high-intensity (white/gray) pixels account for approximately 5-10% of total visible ventral surface, concentrated in localized clusters.",
+    "spatial_color_mapping": "Dark base field. Discrete, high-contrast white-outlined circular blobs are mapped in the mid-upper region of the left lobe (cluster of approx. 5 units) and the upper-lateral region of the right lobe (cluster of approx. 4 units)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated pixel angle of approximately 75 degrees and a bounding-box depth occupying roughly 20% of the fluke's vertical height.",
+    "edge_topography_serration_map": "Continuous boundary displays mid-frequency serration; distinct peaks and valleys are most prominent on the inner margins of both lobes, transitioning to smoother topography near the lateral tips.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a complex curve transitioning from concave near the median notch to convex toward the lateral terminals; leading edges are broadly convex."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of high-contrast circular pixel clusters. Left lobe: tight constellation of 5-6 interconnected white rings with dark centers. Right lobe: smaller cluster of 3-4 high-contrast circular marks.",
+    "linear_abrasions": "Faint, unaligned white linear pixel disruptions (rake-like marks) are visible vertically across the mid-section of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Symmetric circular scarring clusters on the distal regions of both lobes; minor irregular notch on the trailing edge of the left lobe near the mid-point.",
+  "other_distinctive_markers": null
+}

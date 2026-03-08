@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:6 ratio of high-intensity pixels to low-intensity pixels; the visible fluke surface is dominated by low-intensity (dark) values with concentrated high-intensity (white) areas at the distal tips.",
+    "spatial_color_mapping": "High-intensity white blobs are localized at the extreme left and right distal tips. A narrow band of high-intensity pixels follows the leading edge of the left lobe. The central area and most of the interior surface consist of a continuous low-intensity dark field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Narrow V-shaped central depression with a sharp vertex; estimated internal angle of approximately 30-35 degrees relative to the lobe axes.",
+    "edge_topography_serration_map": "Highly irregular serration pattern across the entire trailing edge; frequency is high with peak-to-valley pixel amplitudes varying between 5 and 15 pixels. The left lobe exhibits more jagged, saw-toothed peaks compared to the right lobe.",
+    "lobe_sweep_trajectory": "Curve fitted to the trailing edge indicates a moderate concavity from the median notch to the mid-lobe, transitioning to a sharp upward sweep at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatially dense clusters of circular high-contrast white pixel groups (barnacle colonization) are present at the tips of both lobes and along the outermost leading edges.",
+    "linear_abrasions": "At least four distinct vertical, low-intensity linear pixel disruptions (rake marks) are visible on the upper medial portion of the left lobe, cutting through the general pigment pattern."
+  },
+  "acquired_anomalies_or_scars": "Physical protrusions at the distal tips caused by barnacle encrustation; irregular indentation on the right lobe trailing edge that deviates from the standard serration frequency.",
+  "other_distinctive_markers": "Distinct asymmetry in the serration depth and frequency between the left and right lobes."
+}

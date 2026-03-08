@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark grey) distribution with a macro-ratio of approximately 0.04 high-intensity (white) pixels localized primarily to the trailing edges and tips.",
+    "spatial_color_mapping": "High-contrast white contiguous clusters are mapped to the distal tip of the left lobe and the peripheral margin of the right lobe, contrasting sharply against a monolithic dark-intensity fluke body."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated acute V-shaped depression with a central angle of approximately 34 degrees and a bounding-box depth extending roughly 12% of the total fluke height.",
+    "edge_topography_serration_map": "Right lobe trailing edge displays a large-scale concave indentation (macro-amplitude disruption); remaining edges exhibit high-frequency, low-amplitude pixel variations (serrations) with peaks measuring 2-4 pixels.",
+    "lobe_sweep_trajectory": "Left lobe follows a standard convex trajectory toward the distal tip; right lobe follows a disrupted convex trajectory broken by a significant mid-edge indentation."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular white pixel clusters (3-8 pixel radius) indicative of barnacle colonization, localized along the trailing margins of both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "A significant, roughly semi-circular missing section or deep concave notch is present on the medial-distal trailing edge of the right lobe; dense barnacle encrustation along the fluke perimeter.",
+  "other_distinctive_markers": "Severe asymmetry between the two fluke lobes due to the significant structural loss on the right-side trailing edge."
+}

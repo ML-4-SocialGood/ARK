@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity (white) across approximately 85% of the visible fluke surface; low-intensity (black) pixels are localized to the central peduncle-base and the distal perimeter.",
+    "spatial_color_mapping": "Large contiguous white high-intensity fields covering both lobes. A low-intensity black vertical pillar-shaped region is centered at the base, extending toward the median notch. Small low-intensity pixel clusters (mottling) are present at the far-right distal tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped indentation; calculated interior angle of approximately 115 degrees with a shallow bounding-box depth.",
+    "edge_topography_serration_map": "Continuous irregular trailing edge boundary exhibiting high-frequency, low-amplitude serrations (peaks/valleys); serration amplitude increases significantly on the right distal lobe.",
+    "lobe_sweep_trajectory": "Convex anterior sweep transitioning to a linear-to-concave posterior trailing edge, tapering to sharp distal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of a small cluster of circular low-intensity pixel groups located on the distal third of the right lobe.",
+    "linear_abrasions": "Three distinct parallel low-intensity linear tracks (rake marks) oriented diagonally on the right lobe surface."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant high-intensity specular noise caused by frozen-motion water droplets occluding the central and left-central fluke surface."
+}

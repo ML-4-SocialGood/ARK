@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 65% high-intensity cream pixels and 35% low-intensity black/dark-grey pixels on the visible lobe surface.",
+    "spatial_color_mapping": "Large contiguous high-intensity cream central zone. Low-intensity black pixels define the trailing edge and lower margin. Dense dark speckling and mottling observed along the transition zone between high and low intensity regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "Extremely jagged trailing edge with non-uniform serration; multiple peaks and valleys with pixel amplitudes varying between 5 and 20 pixels relative to the mean edge line.",
+    "lobe_sweep_trajectory": "The visible lobe displays a strong convex sweep terminating in a sharp, tapered distal tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, discrete dark pixel clusters scattered within the high-intensity central region.",
+    "linear_abrasions": "A distinct, dark linear pixel disruption visible in the upper-central high-intensity area, oriented diagonally relative to the fluke's horizontal axis."
+  },
+  "acquired_anomalies_or_scars": "A deep, irregular V-shaped notch or tissue indentation is present on the lateral/leading edge of the visible lobe, distinct from standard trailing edge serration.",
+  "other_distinctive_markers": null
+}

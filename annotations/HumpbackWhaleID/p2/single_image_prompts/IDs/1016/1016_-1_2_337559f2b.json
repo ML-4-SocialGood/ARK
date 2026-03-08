@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity dark surface (pixel values <50) with discrete, high-intensity white clusters (pixel values >200) providing a high local contrast ratio within a low-intensity global field.",
+    "spatial_color_mapping": "Contiguous low-intensity dark field across both lobes; speckled with stochastic, high-contrast white circular pixel clusters ranging from 2 to 15 pixels in diameter distributed across the entire visible surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped central depression with an obtuse angle transition between the left and right lobes.",
+    "edge_topography_serration_map": "Irregular micro-variations (serrations) along the continuous boundary; right lobe exhibits more pronounced pixel-depth variations (peaks) compared to the left lobe trailing edge.",
+    "lobe_sweep_trajectory": "Convex upward sweep from the medial notch, curving into a downward-sloping taper toward the distal tips of both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of small, circular white pixel regions (rosettes) concentrated primarily on the central and distal areas of both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive distribution of high-intensity white spots across the dark ventral surface, consistent with surface-level pigmentation disruption or focal scarring.",
+  "other_distinctive_markers": null
+}

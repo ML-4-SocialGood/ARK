@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.25:1 ratio of mid-to-high intensity (light grey/tan) pixels to low-intensity (dark black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Two large, roughly symmetrical light-intensity regions are centered on the left and right lobes, separated by a high-density dark pixel column at the midline/notch area. Dark pixel masking is concentrated along the leading and trailing edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible V-shaped central notch with an estimated interior angle of 105 degrees and a bounding-box depth approximately 12% of the fluke's total vertical height.",
+    "edge_topography_serration_map": "Frequent, low-amplitude (2-4 pixel height) irregular serrations distributed across the entire trailing edge, with more pronounced jaggedness observed on the distal halves of both lobes.",
+    "lobe_sweep_trajectory": "Concave curve fitted to the trailing edge, sweeping upward to extremely acute, elongated, and tapered distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Presence of small (approx. 2-5 pixel diameter) high-contrast white circular clusters scattered on the medial-distal region of the right lobe.",
+    "linear_abrasions": "Three distinct dark, high-contrast vertical linear rake marks on the right lobe, including a hook-shaped mark near the central-right quadrant."
+  },
+  "acquired_anomalies_or_scars": "Parallel vertical rake marks on the right lobe indicative of previous physical interaction; minor notch-like irregularities on the trailing edge of the left lobe tip.",
+  "other_distinctive_markers": "The distal tips of the lobes are exceptionally elongated and pointed, forming a 'hook' appearance at the terminal ends."
+}

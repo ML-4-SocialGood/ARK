@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast ratio; approximately 65% high-intensity pixels (white/yellowish) across distal regions and 35% low-intensity pixels (dark gray/black) centered around the notch.",
+    "spatial_color_mapping": "Large contiguous high-intensity blobs occupy the outer two-thirds of both lobes; a central low-intensity 'V' shaped region extends from the notch; multiple discrete high-intensity micro-spots (pixels) are scattered within the dark central region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an internal angle of approximately 55 degrees and a bounding-box depth occupying roughly 15% of the visible fluke height.",
+    "edge_topography_serration_map": "Continuous serrated boundary with moderate to high-frequency variations; peak-to-valley amplitude increases from the notch toward the distal tips, ranging from 3 to 12 pixels.",
+    "lobe_sweep_trajectory": "Trailing edge contour follows a distinct concave curve from the median notch to the outer tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of high-contrast, multi-tonal (white/brown) pixel groups located at the extreme distal tips of both the left and right lobes, consistent with barnacle colonization.",
+    "linear_abrasions": "Multiple vertical and diagonal high-intensity linear pixel streaks (rake marks/scratches) visible on the medial portion of the right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Significant biological encrustations on both lobe tips; global yellowish-tan pixel tinting observed over high-intensity white regions.",
+  "other_distinctive_markers": "Highly symmetrical dark pigmentation wedge centered on the median notch."
+}

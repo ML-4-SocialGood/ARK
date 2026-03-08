@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 45:55 ratio of high-intensity (white) pixels to low-intensity (black) pixels across the visible ventral surface area.",
+    "spatial_color_mapping": "Two primary high-intensity white geometric blobs are located on the lateral-medial portions of the left and right lobes. These are bisected by a low-intensity black central band extending from the peduncle to the notch. Fine-grained, low-intensity dendritic patterns extend from the trailing edge boundary into the white patches."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated pixel angle of approximately 64 degrees and a vertical depth comprising roughly 12% of the fluke's total vertical height.",
+    "edge_topography_serration_map": "High-frequency serration along the continuous trailing edge; peaks and valleys range from 2-10 pixels in amplitude, with the highest concentration of acute serrations located on the distal 30% of each lobe's edge.",
+    "lobe_sweep_trajectory": "Primary convex curve sweep for both trailing edges, with localized concavity observed near the transition to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Two prominent, roughly circular low-intensity pixel clusters (rosette-like) are symmetrically distributed: one in the lower-mid quadrant of the left white patch and one in the lower-mid quadrant of the right white patch.",
+    "linear_abrasions": "Faint, vertically aligned low-intensity pixel strings detected within the right lobe's high-intensity white field, indicative of linear surface disruption."
+  },
+  "acquired_anomalies_or_scars": "A distinct dark linear mark or indentation is visible on the interior margin of the right lobe, adjacent to the central black pigmentation band.",
+  "other_distinctive_markers": "Unique mottled/branching pixel transition zone between the black trailing edge and the white interior patches, characterized by irregular high-contrast 'fringing'."
+}

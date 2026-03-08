@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65% low-intensity (black/dark grey) to 35% high-intensity (white) pixel distribution across the visible fluke area.",
+    "spatial_color_mapping": "Dominant central contiguous low-intensity region. High-intensity bands are localized along the leading edges of both lobes, containing numerous discrete low-intensity circular clusters. A prominent vertical high-intensity streak is located on the interior margin of the right lobe near the median notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Defined V-shaped depression with a pixel-calculated angle of approximately 72 degrees and a bounding-box depth relative to visible lobe area.",
+    "edge_topography_serration_map": null,
+    "lobe_sweep_trajectory": null
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of multiple circular low-intensity pixel clusters (averaging 4-10 pixels in diameter) distributed within the high-intensity leading edge margins of both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Localized circular pigmentation voids on the leading edges; irregular serrated profile visible on the segments of the trailing edge not obscured by water.",
+  "other_distinctive_markers": "Symmetric high-contrast 'leopard' mottling pattern localized exclusively to the anterior margins of the fluke lobes."
+}

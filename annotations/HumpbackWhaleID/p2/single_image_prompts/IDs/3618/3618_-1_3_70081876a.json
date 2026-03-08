@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio of high-intensity pixels (approx. 15%) to low-intensity pixels (approx. 85%) across the total visible fluke area, with high-intensity pixels concentrated at distal margins.",
+    "spatial_color_mapping": "Visible high-contrast white patches at the distal tip of the right lobe and along the upper trailing edge; the left lobe distal tip contains fragmented white mottling partially obscured by water-induced noise."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible V-shaped depression at central midline; estimated interior angle of 65 degrees; depth is partially occluded by water turbulence.",
+    "edge_topography_serration_map": "High-frequency, irregular peaks and valleys (3-8 pixel amplitude) along the visible portion of the right lobe trailing edge; left lobe edge topography is non-extractable due to water spray occlusion.",
+    "lobe_sweep_trajectory": "Right lobe exhibits a sharp convex leading edge curve transitioning to a jagged convex trailing edge; left lobe trajectory is null due to occlusion."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast circular clusters (5-12 pixel diameter) detected on the lower quadrant of the right lobe and near the trailing edge margin.",
+    "linear_abrasions": "Three distinct, near-parallel, horizontal high-contrast lines (rake marks) traversing the mid-to-distal section of the right lobe ventral surface."
+  },
+  "acquired_anomalies_or_scars": "Prominent parallel rake marks on the right lobe; irregular, non-symmetrical jaggedness at the terminal tip of the right lobe suggesting prior physical trauma.",
+  "other_distinctive_markers": null
+}

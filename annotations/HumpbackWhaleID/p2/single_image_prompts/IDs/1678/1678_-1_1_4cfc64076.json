@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity (white) central regions occupy approximately 65-70% of the visible fluke surface, contrasted against low-intensity (black) peripheral borders and a central vertical median column.",
+    "spatial_color_mapping": "Two large, roughly triangular high-intensity white blobs centered on the left and right lobes. These are bounded by a continuous low-intensity black perimeter along the trailing edge and a thick dark vertical band originating from the peduncle and widening into the median notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with an approximate pixel angle of 55 degrees; depth of notch is roughly 15% of the total vertical height of the fluke.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations present across the entire trailing edge. Notable jagged peaks with pixel heights of approximately 5-10 units alternate with irregular valleys, creating a rough, saw-tooth boundary.",
+    "lobe_sweep_trajectory": "Convex curvature along the leading edges, terminating in sharp, slightly downward-turned lateral tips (lobes)."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Sparse distribution of small, circular low-intensity (dark) pixel clusters within the white central zones. Small high-intensity (white) circular clusters are visible on the far-left dark tip area.",
+    "linear_abrasions": "A distinct, dark linear pixel disruption (rake mark or scratch) is visible on the mid-right lobe, extending diagonally from the inner notch area towards the outer edge."
+  },
+  "acquired_anomalies_or_scars": "A prominent dark diagonal scar on the right lobe. Irregular indentation/missing segment on the upper portion of the left lobe's outer edge.",
+  "other_distinctive_markers": "The trailing edge displays an asymmetrical serration pattern, with the left lobe exhibiting more pronounced, larger peaks compared to the right lobe."
+}

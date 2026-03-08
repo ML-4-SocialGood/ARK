@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface with approximately 5-8% high-intensity (white) localized pixel clusters.",
+    "spatial_color_mapping": "Base layer of contiguous low-intensity black pixels across both lobes; secondary mapping includes numerous discrete high-intensity white circular blobs (2-10 pixel diameter) distributed across the central and distal surfaces, with larger amorphous white regions concentrated at the lateral tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated internal angle of approximately 52 degrees and a bounding-box depth extending to the lower 1/6th of the vertical fluke profile.",
+    "edge_topography_serration_map": "High-frequency, non-uniform serration profile along the entire trailing boundary; pixel-amplitude of peaks and valleys varies between 5 and 25 pixels, with more pronounced jaggedness on the outer thirds of each lobe.",
+    "lobe_sweep_trajectory": "Concave sweep trajectory along the inner and outer leading edges; lobes exhibit an upward and outward orientation relative to the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Widespread spatial detection of roughly circular high-contrast white pixel clusters; higher density of clusters observed on the right lobe compared to the left.",
+    "linear_abrasions": "Multiple faint, unaligned linear pixel disruptions (light-gray to white) detected on the mid-section of the right lobe and proximal to the central notch."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular trailing edge notches and dense white point-source scarring patterns distributed across the ventral surface.",
+  "other_distinctive_markers": null
+}

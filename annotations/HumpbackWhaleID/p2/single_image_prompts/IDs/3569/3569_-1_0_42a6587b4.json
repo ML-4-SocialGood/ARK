@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65:35 ratio of high-intensity white to low-intensity black pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Large contiguous white regions occupy the interior lobes. Low-intensity black pigmentation forms a continuous border along the trailing edges and peduncle. A prominent, high-contrast black vertical band is mapped to the inner-left lobe, with dense mottling concentrated along the right lobe trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated internal angle of approximately 78 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with varying pixel-amplitudes are visible along the entire trailing edge. Larger, distinct peaks are localized near the distal tips, while smaller valleys are distributed along the inner-lobe margins.",
+    "lobe_sweep_trajectory": "Strongly convex curves fitted to the outer edges of both lobes, transitioning to acute angles at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct, roughly circular dark pixel clusters are localized at the outer tip of the right lobe; additional small clusters are scattered along the left lobe's upper trailing edge.",
+    "linear_abrasions": "Three unaligned, dark linear pixel disruptions are visible traversing the high-intensity white field of the upper left lobe."
+  },
+  "acquired_anomalies_or_scars": "Ragged trailing edge topography indicating non-uniform tissue loss along the distal margins of both lobes.",
+  "other_distinctive_markers": "A single, isolated high-contrast dark circular spot is positioned in the lower-central quadrant of the white field on the left lobe."
+}

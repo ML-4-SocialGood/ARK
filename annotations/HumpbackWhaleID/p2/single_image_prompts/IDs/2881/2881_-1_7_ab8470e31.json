@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The surface is characterized by a high concentration of low-intensity black pixels with an estimated white-to-black pixel ratio of less than 0.05, resulting in very low global contrast across the fluke.",
+    "spatial_color_mapping": "The pigmentation is predominantly solid black; localized light-grey mottling is detected as small, irregular geometric blobs in the lower-medial section of the left lobe (whale's right)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "The central median notch presents as a deep, acute V-shape with a calculated vertex angle of approximately 38 degrees and a bounding-box depth occupying roughly 15% of the visible lobe height.",
+    "edge_topography_serration_map": "The trailing edge exhibits a high-frequency serration pattern; the left lobe contains approximately 10 high-amplitude jagged peaks (5-15 pixel depth), while the right lobe displays a more uniform, lower-amplitude serration map towards the tip.",
+    "lobe_sweep_trajectory": "The trailing edge follows a convex trajectory; the right lobe (pointing up-right) displays an elongated, tapered sweep, whereas the left lobe (pointing left) appears broader with a more rounded outer boundary."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "A cluster of approximately 5-6 small, circular high-contrast white pixel groups is detected in the lower-medial quadrant of the left lobe.",
+    "linear_abrasions": "Two distinct, parallel diagonal light-grey linear streaks (rake marks) are visible across the central portion of the left fluke lobe."
+  },
+  "acquired_anomalies_or_scars": "A dark, irregular protrusion or growth is visible at the extreme distal tip of the right-side fluke lobe; the leftmost edge of the fluke displays significant irregular indentation/erosion.",
+  "other_distinctive_markers": "The insertion point of the fluke into the peduncle is occluded by high-intensity white pixels representing localized water turbulence and spray."
+}

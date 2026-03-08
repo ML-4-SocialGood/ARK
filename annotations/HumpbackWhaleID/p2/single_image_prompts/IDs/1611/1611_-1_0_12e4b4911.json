@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 85% high-intensity (white) to 15% low-intensity (black) distribution; majority of visible surface is white with dark borders.",
+    "spatial_color_mapping": "A large contiguous high-intensity white region occupies the central lobes. Low-intensity black pixels are confined to a thin border along the trailing edge and broader patches at the distal tips. Two small, isolated dark focal spots are visible in the upper-central region of the lobes, positioned bilaterally."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped depression with a calculated angle of approximately 135 degrees and a bounding-box depth of approximately 15 pixels relative to the highest peak.",
+    "edge_topography_serration_map": "Continuous high-frequency, low-amplitude serrations along the superior boundary; peaks and valleys range from 1 to 4 pixels in depth, creating a jagged linear contour.",
+    "lobe_sweep_trajectory": "Overall convex curve along the trailing edge of both lobes, transitioning into a sharp downward convex sweep toward the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized dark pixel clusters are concentrated at the extreme lateral tips of both lobes; two distinct circular dark spots are located approx. 1/3 of the distance from the notch toward the tip.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Irregular tissue boundaries and dark clusters at the distal tips suggest minor physical trauma or previous parasitic attachment sites.",
+  "other_distinctive_markers": "Highly symmetrical placement of two dark spots in the upper-medial quadrants of the lobes."
+}

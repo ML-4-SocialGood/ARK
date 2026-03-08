@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High dominance of low-intensity pixels (dark grey/black) with sparse high-intensity (white) linear features distributed across the surface.",
+    "spatial_color_mapping": "Two primary contiguous dark-intensity regions corresponding to the lobe surfaces, interrupted by a network of high-intensity linear pixel strings and concentrated high-intensity clusters at the distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped bisection with an approximate 50-degree interior angle and significant bounding-box depth relative to lobe width.",
+    "edge_topography_serration_map": "High-frequency irregular jaggedness with pixel-amplitude variations of 5-12 pixels along the continuous boundary separating the fluke from the sky/water background.",
+    "lobe_sweep_trajectory": "Convex trajectory from the median notch transitioning into a tapering concave curve toward the acute terminal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-intensity white pixel clusters localized at the far distal tips of both lobes, suggesting previous barnacle attachment sites.",
+    "linear_abrasions": "Extensive network of multi-directional, non-aligned high-intensity linear tracks (rake marks) spanning the majority of both visible lobe surfaces."
+  },
+  "acquired_anomalies_or_scars": "Dense distribution of linear rake marks and significant white scarring/pigment loss at the distal lobe extremities.",
+  "other_distinctive_markers": null
+}

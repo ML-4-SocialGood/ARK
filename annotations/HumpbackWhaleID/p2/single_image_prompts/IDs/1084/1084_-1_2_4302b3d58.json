@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 40:60 ratio of high-intensity (white) to low-intensity (black/dark-grey) pixels, with the majority of high-intensity pixels concentrated on the interior of the right lobe.",
+    "spatial_color_mapping": "Right lobe contains a large, contiguous high-intensity (white) geometric blob spanning the mid-lobe to the interior edge, interspersed with low-intensity circular mottling. Left lobe is predominantly low-intensity with thin, horizontal high-intensity striations near the distal tip. A high-intensity region also borders the upper margin of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a pixel-calculated angle of approximately 65 degrees, exhibiting sharp convergence at the base.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern. The right lobe trailing edge shows high-amplitude peaks (3-5 pixels) and jagged valleys. The left lobe trailing edge displays more moderate, lower-amplitude variations.",
+    "lobe_sweep_trajectory": "Concave curvature originating from the median notch, sweeping upward and outward toward the distal tips, with the right lobe displaying a more pronounced vertical lift than the left."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple low-intensity (dark) circular clusters and rings detected within the white region of the right lobe. Dense, high-intensity (white/calcified) clusters of roughly circular nodes are visible at the distal tip of the right lobe.",
+    "linear_abrasions": "Multiple distinct, unaligned high-intensity (white) linear marks crossing the low-intensity (black) central region and extending into the right lobe, oriented primarily in vertical and diagonal vectors."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization at the right fluke tip, creating a highly irregular, protruding geometric profile composed of high-intensity calcified clusters.",
+  "other_distinctive_markers": "Several distinct 'islands' of low-intensity pixels (black spots) isolated within the primary high-intensity (white) field of the right lobe."
+}

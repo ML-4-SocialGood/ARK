@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels occupy approximately 85% of the visible surface area, contrasted by low-intensity black pixels concentrated at the trailing edge and distal tips.",
+    "spatial_color_mapping": "Dominant white contiguous region across both lobes. Dark perimeter border of varying thickness (2-15 pixels) follows the trailing edge. Minimal black mottling or focal spots present on the interior white surface, with a few small dark pixel clusters on the mid-right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate 50-degree internal angle and a significant vertical depth relative to the lobe heights.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations present across the entire trailing edge boundary, appearing as jagged peaks and valleys isolated against the water background.",
+    "lobe_sweep_trajectory": "Concave curvature originating from the median notch, transitioning to a convex curve toward the distal tips of both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast dark clusters with irregular, roughly circular sub-structures located at both the left and right distal tips, indicating external growth or colonization.",
+    "linear_abrasions": "Sparse, faint dark linear pixel streaks visible on the medial-right lobe surface, oriented horizontally."
+  },
+  "acquired_anomalies_or_scars": "Extensive peripheral mass accumulation at both fluke tips, significantly altering the smoothness of the geometric perimeter.",
+  "other_distinctive_markers": null
+}

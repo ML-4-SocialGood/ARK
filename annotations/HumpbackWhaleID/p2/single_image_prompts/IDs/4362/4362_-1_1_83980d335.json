@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity (white) across the mid-lobe regions, approximately 70% coverage, with high-contrast low-intensity (black) margins and a central dark region.",
+    "spatial_color_mapping": "Large contiguous white blobs cover the central portions of both lobes. Low-intensity black pixels form a continuous perimeter along the trailing edge and distal tips, with a dense dark concentration at the median notch and lower peduncle area."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a narrow vertex angle approximately 60 degrees; depth is significant relative to the horizontal lobe span.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations. The left lobe exhibits more pronounced jagged valleys and peaks compared to the right lobe, which shows a relatively smoother, finer serration pattern.",
+    "lobe_sweep_trajectory": "Concave upward curve originating from the median notch and tapering to sharp distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-contrast dark circular spots (mottling) scattered across the white fields of both lobes. Dense, irregular dark masses (barnacle clusters) are visible at both lateral tips.",
+    "linear_abrasions": "One prominent dark linear pixel disruption (rake mark) extends vertically/diagonally through the mid-section of the left lobe. Several smaller, fainter vertical linear marks are visible near the base of the median notch."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular notch/tissue loss on the inner trailing edge of the left lobe. Visible biofouling (barnacle clusters) at the distal tips of both lobes.",
+  "other_distinctive_markers": "Distinctive large dark vertical streak on the left lobe and small circular dark spot on the upper-left quadrant of the left lobe."
+}

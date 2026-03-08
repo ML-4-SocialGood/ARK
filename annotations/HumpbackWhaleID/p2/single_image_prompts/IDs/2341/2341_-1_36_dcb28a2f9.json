@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low macro-level contrast; the visible surface is dominated by low-intensity (black/dark-grey) pixels with high-intensity (white/light-grey) pixels limited to localized anomalies and distal tips.",
+    "spatial_color_mapping": "Primary surface consists of a contiguous low-intensity dark field. High-contrast focal clusters are mapped to the medial and distal regions of the right lobe and the extreme distal tip of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped central depression with an internal pixel angle of approximately 50 degrees and a depth-to-width ratio of approx. 1:4 within the notch bounding box.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern visible along the right lobe trailing edge with pixel-amplitudes varying between 5-15 pixels; left lobe trailing edge exhibits a smoother, lower-frequency topography.",
+    "lobe_sweep_trajectory": "Bi-lateral concave sweep trajectory originating from the median notch and extending to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of a high-contrast circular pixel cluster (approximately 10-15 distinct units) on the medial-lateral region of the right lobe, consistent with sessile barnacle attachment sites.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Multiple protruding, calcified acorn barnacle clusters are visible along the trailing edge and surface of the right lobe.",
+  "other_distinctive_markers": null
+}

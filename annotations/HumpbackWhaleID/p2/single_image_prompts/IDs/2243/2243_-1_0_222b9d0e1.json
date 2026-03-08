@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white dominance across approximately 90% of the visible surface, with a high-contrast low-intensity black perimeter along the margins.",
+    "spatial_color_mapping": "Solid high-intensity white central region across both lobes. Low-intensity black pigmentation is contiguous along the leading edge, tips, and trailing edge. Discrete low-intensity focal spots are visible in the lower-medial and lower-lateral areas of the white surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, central V-shaped notch with an acute angle and significant vertical depth relative to the horizontal axis of the fluke.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge boundary, characterized by numerous jagged peaks and valleys varying in pixel amplitude.",
+    "lobe_sweep_trajectory": "Convex curvature on the leading edges tapering toward the tips, with a multi-segmented concave trajectory along the trailing edge leading to the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple small, roughly circular dark-intensity pixel clusters distributed across the lower quadrants of both the left and right lobes.",
+    "linear_abrasions": "Several distinct, non-aligned linear pixel disruptions (dark streaks) visible on the right lobe surface, oriented diagonally; faint vertical linear disruptions are visible on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent linear rake marks on the surface of the right lobe and irregular deep indentations/notches along the trailing edge boundary.",
+  "other_distinctive_markers": "A small, circular dark-pixel feature/indentation is visible near the distal tip of the left lobe."
+}

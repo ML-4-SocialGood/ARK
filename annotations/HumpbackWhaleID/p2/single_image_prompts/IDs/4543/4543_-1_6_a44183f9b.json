@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 85-90% low-intensity black pixels and 10-15% high-intensity white pixels.",
+    "spatial_color_mapping": "Primary dark mass pigmentation across 90% of the fluke surface. High-contrast white contiguous geometric blobs are concentrated at the distal tips of both the left and right lobes, with smaller focal spots scattered along the upper trailing edge boundary."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a central pixel angle of approximately 100 degrees and a vertical bounding-box depth equivalent to approximately 1/6th of the total visible fluke height.",
+    "edge_topography_serration_map": "Highly irregular serration profile along the entire trailing edge. Variation consists of jagged peaks and valleys with pixel-amplitudes ranging from 5 to 20 pixels relative to the mean edge line.",
+    "lobe_sweep_trajectory": "The trailing edge follows a concave sweep from the central notch to the distal tips. The lateral margins exhibit a sharp convex curve tapering upward towards the outer points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of roughly circular white pixel groups (rosettes) are localized at the extreme lateral tips of both lobes. Smaller, less dense clusters are visible along the mid-section of the trailing edge.",
+    "linear_abrasions": "Short, unaligned horizontal and diagonal linear white disruptions are present on the medial region of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive high-contrast scarring and pigmentation loss localized at the extreme distal tips and along the irregular trailing edge serrations.",
+  "other_distinctive_markers": null
+}

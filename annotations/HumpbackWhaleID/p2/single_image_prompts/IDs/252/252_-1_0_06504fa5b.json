@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.35:1 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Large, irregular high-intensity white blobs concentrated on the distal-lateral tips of both lobes; the left lobe tip contains a more contiguous white patch extending approximately 20% inward, while the right lobe tip exhibits a more fragmented, speckled white-on-black pattern. The medial area surrounding the notch remains solid black."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with an approximate pixel angle of 45 degrees; the lower vertex is partially obscured by hydro-dynamic spray.",
+    "edge_topography_serration_map": "Significant high-frequency serrations along the entire trailing edge; pixel-amplitude of peaks is most pronounced on the distal thirds of both lobes, transitioning to smoother, lower-frequency variations near the median notch.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a concave curve sweeping upwards and outwards toward acute, pointed distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of small, circular high-contrast white pixels (potential barnacle attachment sites) are visible along the extreme edges of the trailing border, particularly on the right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Irregular, jagged trailing edge topography suggests cumulative minor tissue loss or wear; distinct high-contrast white scarring is localized to the lobe tips.",
+  "other_distinctive_markers": "Significant water turbulence and spray occluding the lower medial boundary and peduncle attachment point."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low-intensity (black) pixels comprise approximately 75-80% of the visible surface area, with high-intensity (white) patches accounting for the remaining 20-25%.",
+    "spatial_color_mapping": "Large high-intensity (white) contiguous blob located at the distal 1/3 of the right lobe trailing edge region. Multiple high-intensity white punctate spots scattered across the left lobe. One prominent vertical high-intensity linear streak on the left lobe medial-distal boundary."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch; interior angle estimated at 70 degrees; notch vertex depth is approximately 15% of the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations along the trailing edge of the right lobe; the left lobe distal trailing edge exhibits coarser, higher-amplitude (5-10 pixel) irregular jagged recesses.",
+    "lobe_sweep_trajectory": "Convex curvature fitted to the trailing edges of both lobes, tapering to acute points at the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of 6-8 circular high-contrast white pixel clusters (rosettes) localized on the proximal-lateral surface of the left lobe.",
+    "linear_abrasions": "One distinct, near-vertical linear high-contrast disruption (rake mark) on the left lobe ventral surface, oriented roughly perpendicular to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Ragged and truncated distal tip on the left lobe, indicating loss of geometric continuity compared to the smoother right lobe tip.",
+  "other_distinctive_markers": "Marbled high-contrast boundary between dark medial pigmentation and the white distal patch on the right fluke lobe."
+}

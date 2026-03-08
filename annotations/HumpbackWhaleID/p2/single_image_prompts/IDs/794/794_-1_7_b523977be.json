@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low macro-level ratio; fluke surface is predominantly composed of low-intensity black pixels (intensity < 40) with sparse high-intensity white focal points (intensity > 210) occupying less than 12% of the visible surface.",
+    "spatial_color_mapping": "Primary substrate is contiguous black; high-contrast white mottling and focal spots are concentrated at the distal lobe tips and sporadically along the trailing edge margin; right lobe exhibits a higher density of white pixel clusters compared to the left."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped central notch with a calculated interior angle of approximately 42 degrees; the vertex is well-defined despite partial water occlusion at the base.",
+    "edge_topography_serration_map": "Irregular serrated topography along the entire trailing edge; peak-to-valley amplitude varies from 4 to 18 pixels; serrations are more pronounced and closely spaced on the segments proximal to the median notch.",
+    "lobe_sweep_trajectory": "Mathematical sweep exhibits initial concavity starting from the median notch, transitioning into a convex curve as the lobes extend toward the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of circular white pixel groups (barnacles) localized at the extreme lateral tips of both lobes; clusters contain between 5 and 15 individual circular units.",
+    "linear_abrasions": "Detection of several parallel, high-contrast linear disruptions (rake marks) on the mid-right lobe, oriented diagonally relative to the trailing edge axis."
+  },
+  "acquired_anomalies_or_scars": "Prominent barnacle colonization on distal tips and distinct parallel linear scars (rake marks) visible on the right lobe surface.",
+  "other_distinctive_markers": null
+}

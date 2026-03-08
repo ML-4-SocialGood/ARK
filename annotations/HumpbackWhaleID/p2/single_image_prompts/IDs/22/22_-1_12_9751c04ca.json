@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio; high-intensity (white) pixels account for approximately 5-8% of the surface area, while low-intensity (dark grey/black) pixels account for 92-95%.",
+    "spatial_color_mapping": "Dark low-intensity base across entire fluke. High-intensity circular focal points scattered across both lobes. Contiguous high-contrast white blobs are localized at the distal tips of the left and right lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an approximate interior angle of 60 degrees.",
+    "edge_topography_serration_map": "High-frequency serration along the entire trailing edge; pixel-amplitude variations are most extreme at the distal tips, creating a jagged profile.",
+    "lobe_sweep_trajectory": "Pronounced concave curvature extending from the central median notch to the outer distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Numerous white circular pixel clusters (barnacles) distributed semi-randomly across both lobes, with heavy density at the outer margins and tips.",
+    "linear_abrasions": "Faint horizontal and oblique linear pixel disruptions visible on the interior surface of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization and associated calcified scarring at the terminal distal tips of both lobes; significant jagged erosion along the outer trailing edge.",
+  "other_distinctive_markers": null
+}

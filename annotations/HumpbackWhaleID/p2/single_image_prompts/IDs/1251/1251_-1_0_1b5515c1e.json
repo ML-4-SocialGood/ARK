@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white interior pixels (approx. 90% surface area) contrasted against low-intensity black peripheral pixels (approx. 10% surface area).",
+    "spatial_color_mapping": "High-intensity white pixels dominate the central and proximal regions of both lobes; low-intensity black pixels form a continuous 5-15 pixel wide band along the trailing edge and distal tips; a single distinctive low-intensity circular focal spot is located at the coordinates approximately 80% horizontal and 40% vertical within the fluke bounding box (right lobe)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated angle of approximately 42 degrees and a bounding-box depth of approximately 12% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serration map; irregular peaks and valleys ranging from 3 to 12 pixels in depth along the continuous trailing boundary of both lobes.",
+    "lobe_sweep_trajectory": "Bi-lobate structure with convex leading edges tapering to acute distal points; trailing edge exhibits a wide concave sweep toward the central median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Deep irregular indentation on the outer trailing edge of the right lobe near the distal tip, deviating from the standard serration frequency.",
+  "other_distinctive_markers": "Presence of small dark pixel clusters (mottling) near the lower leading edge margin, partially visible above the water-spray turbulence."
+}

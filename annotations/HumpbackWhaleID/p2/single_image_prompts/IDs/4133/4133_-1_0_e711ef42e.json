@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 80% low-intensity (black/dark-grey) to 20% high-intensity (white/light-grey) distribution across the visible ventral area.",
+    "spatial_color_mapping": "High-intensity white patches are localized on the distal regions of both lobes. The left lobe features a small, sub-triangular white patch at the tip. The right lobe features a larger, more complex white patch with several internal low-intensity linear streaks."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped notch with an approximate vertex angle of 120 degrees and a bounding-box depth of approximately 12% of total fluke height.",
+    "edge_topography_serration_map": "Continuous, high-frequency serrations along the entire trailing edge boundary. Significant peak-to-valley pixel amplitude is visible, particularly on the distal margin of the left lobe.",
+    "lobe_sweep_trajectory": "The trailing edges of both lobes exhibit a macro-level convex sweep from the median notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Concentrated dark circular clusters are visible at the extreme distal edge and within the white region of the right lobe.",
+    "linear_abrasions": "Distinct set of multiple dark linear streaks (rake marks) oriented diagonally across the high-intensity white patch on the right lobe's ventral surface."
+  },
+  "acquired_anomalies_or_scars": "Prominent linear rake marks on the right lobe; irregular jagged indentations and deep notches along the trailing edge consistent with physical trauma.",
+  "other_distinctive_markers": "A specific hook-like protrusion and associated dark cluster on the distal-most edge of the right fluke tip."
+}

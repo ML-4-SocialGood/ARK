@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels occupy approximately 85% of the visible fluke surface, with low-intensity black pixels localized at the perimeter and central notch area.",
+    "spatial_color_mapping": "The central fluke area consists of a contiguous white field. Black pigmentation forms a continuous band along the trailing edge and distal tips. A dense, dark focal blob is situated at the central notch insertion. Multiple low-intensity circular spots are scattered across the white interior field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch, approximately 35-40 degrees, with a deep vertex point relative to the lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular saw-tooth pattern along the trailing edge with pixel-amplitude variations of approximately 5-12 units relative to a smoothed boundary line.",
+    "lobe_sweep_trajectory": "Strongly convex curve fitted to the posterior boundary of both lobes, tapering to sharp distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatially discrete, roughly circular dark/brownish clusters observed in the interior white regions of both lobes, corresponding to previous barnacle attachment sites.",
+    "linear_abrasions": "Distinct dark vertical linear feature on the inner left lobe; several faint dark horizontal linear marks detected on the central right lobe."
+  },
+  "acquired_anomalies_or_scars": "Presence of circular pitted markers (likely parasitic or cookiecutter shark scars) and a clear vertical linear scar on the lower left lobe quadrant.",
+  "other_distinctive_markers": "Pronounced dark, roughly circular pigment zone surrounding the median notch junction."
+}

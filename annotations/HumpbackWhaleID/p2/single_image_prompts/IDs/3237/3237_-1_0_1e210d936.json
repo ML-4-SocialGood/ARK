@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels constitute approximately 75% of the visible surface area, with low-intensity black/dark-grey pixels localized primarily along the leading/trailing perimeters and in discrete internal focal clusters.",
+    "spatial_color_mapping": "A dominant, contiguous high-intensity white region occupies the central 80% of both lobes. Thick, low-intensity black banding is observed along the entire leading (lower) edge and trailing (upper) edge. Distinct low-intensity circular clusters are mapped at approximately [x=0.25, y=0.55] and [x=0.52, y=0.60] on the left and central fluke regions respectively."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped median depression with a calculated angle of approximately 65 degrees; the notch depth is approximately 15% of the total vertical pixel height of the fluke structure.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge boundary. Amplitude varies from 2-10 pixels. Significant macro-level notches (irregular valleys) are detected on the inner-left and outer-right trailing edge sections.",
+    "lobe_sweep_trajectory": "Leading edges exhibit smooth upward convex curves. The trailing edge follows a complex trajectory: concave adjacent to the median notch, transitioning into an irregular, generally linear-to-convex sweep toward the terminal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast cluster of approximately 8-12 three-dimensional, light-colored circular pixel groups (barnacles) localized exclusively on the leftmost terminal tip.",
+    "linear_abrasions": "Several thin, low-intensity vertical and diagonal linear disruptions are detected across the white field of the left lobe; additional faint horizontal linear marks are visible on the right lobe white field."
+  },
+  "acquired_anomalies_or_scars": "Irregular, non-symmetrical traumatic notch on the inner-left trailing edge; distinct large circular dark pigmentation mark on the lower mid-left lobe.",
+  "other_distinctive_markers": "Highly localized barnacle colonization on the distal left tip; distinct asymmetrical mottling pattern near the median notch."
+}

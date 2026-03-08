@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.45:0.55 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral area.",
+    "spatial_color_mapping": "Dominant low-intensity black region centrally located around the peduncle and extending to the medial lobe edges; high-intensity white contiguous blobs are mapped to the distal lateral regions of both lobes, with high-frequency black speckling/mottling at the boundaries."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central depression with an approximate pixel angle of 60 degrees; notch depth is approximately 18% of the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "Continuous irregular serration pattern along the entire trailing edge, characterized by high-frequency peaks (2-4 pixel amplitude) and wider, shallow valleys.",
+    "lobe_sweep_trajectory": "Convex trajectory extending from the median notch, curving upwards and outwards to rounded lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple isolated low-intensity circular clusters (3-10 pixel diameters) embedded within the high-intensity white fields on both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Visible irregular indentation/tissue loss on the superior margin of the left fluke lobe tip.",
+  "other_distinctive_markers": null
+}

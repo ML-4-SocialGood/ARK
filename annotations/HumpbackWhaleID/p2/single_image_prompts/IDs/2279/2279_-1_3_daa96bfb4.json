@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 60% low-intensity (black) central/basal region and 40% high-intensity (white) distal lobe regions.",
+    "spatial_color_mapping": "Central black pigmentation extends from the peduncle to the trailing edge, splitting the white regions. The white pigmentation on the lateral lobes contains high-contrast black speckling and mottling, which is more concentrated on the viewer-left lobe's distal area compared to the more solid white on the viewer-right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped notch visible at the center with an estimated pixel angle of 145 degrees.",
+    "edge_topography_serration_map": "Frequent, irregular serrations with high pixel-amplitude localized at the distal tips. The trailing edge between the tips and the notch shows medium-frequency irregularities with moderate jaggedness.",
+    "lobe_sweep_trajectory": "Convex curves sweeping from the central notch towards the upward-tilted distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-contrast, brownish-grey pixel groups located at the extreme lateral tips of both lobes, indicating heavy barnacle colonization.",
+    "linear_abrasions": "Faint vertical linear pixel disruptions (parallel rake marks) visible on the white pigment area of the viewer-right lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent biological encrustations (barnacles) at both lobe tips creating an irregular, bulbous silhouette at the fluke extremities.",
+  "other_distinctive_markers": "Heavy accumulation of dark speckling on the viewer-left white field creates a unique high-frequency texture pattern distinct from the viewer-right side."
+}

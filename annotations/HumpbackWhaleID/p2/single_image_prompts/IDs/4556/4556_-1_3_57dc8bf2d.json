@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Bimodal high-contrast distribution; approximately 35-40% of visible pixels occupy high-intensity range (230-255) at the distal tips, while 60-65% occupy low-intensity range (0-40) in the central and proximal fluke body.",
+    "spatial_color_mapping": "High-intensity (white) contiguous geometric blobs mapped to the distal margins of both lobes, most prominently on the right lobe. Low-intensity (black) contiguous area mapped to the peduncle attachment and central-proximal fluke surface. High-frequency black-on-white mottling transitions occur at the mid-lobe boundary."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, high-amplitude serration profile extracted along the right lobe trailing edge; pixel variations of 8-18 units forming sharp peaks; jagged irregularities concentrated on the distal one-third of the lobe edge.",
+    "lobe_sweep_trajectory": "Highly convex 2D geometric curve fitted to the outer lateral margin of the right lobe; left lobe sweep partially occluded by water surface and spray."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of roughly 12-15 circular high-contrast white pixel clusters (5-12 pixel diameter) located within the low-intensity central-lower pigmentation zone.",
+    "linear_abrasions": "Detection of high-density, multi-directional linear pixel disruptions (rake marks) covering >70% of the right lobe; prominent parallel horizontal scratches intersecting the white distal tips."
+  },
+  "acquired_anomalies_or_scars": "Physical trauma detected as a deep, jagged V-shaped indentation on the distal trailing margin of the right lobe; extensive healed linear rake marks visible across entire exposed ventral surface.",
+  "other_distinctive_markers": "Unique mosaic-like pigmentation pattern on the right lobe where high-frequency black linear marks create a 'shattered' visual effect against the white background."
+}

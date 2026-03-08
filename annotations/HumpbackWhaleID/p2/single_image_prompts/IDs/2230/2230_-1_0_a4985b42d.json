@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white regions occupy approximately 65% of the visible surface area, with low-intensity black regions occupying the remaining 35%, primarily concentrated in the central vertical axis.",
+    "spatial_color_mapping": "Two primary white segments are located on the lateral lobes. The central region is defined by a dark vertical band widening towards the base. The right lobe contains multiple small, discrete dark circular pixel clusters within the white field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an internal angle of approximately 50 degrees and a high-depth bounding-box profile.",
+    "edge_topography_serration_map": "High-frequency irregular serration pattern across the entire trailing edge, with several prominent spikes of 5-15 pixel amplitude near the distal lobe tips.",
+    "lobe_sweep_trajectory": "Lobe edges follow an upward-sweeping convex curve from the median notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-contrast, heterogeneous textured pixels on both distal tips. Three distinct dark circular rosettes are positioned in a cluster on the medial-right lobe's white field.",
+    "linear_abrasions": "Detection of several thin, dark, near-vertical linear pixel disruptions on the lower medial portion of the right lobe's white field."
+  },
+  "acquired_anomalies_or_scars": "Presence of protruding, non-uniform brown and grey textural mass at the leftmost fluke tip, indicating significant biological attachment or trauma. Irregular jagged edge loss on the distal right tip.",
+  "other_distinctive_markers": "Unique arrangement of four small dark circular markers on the right lobe white field forming a semi-linear geometric pattern."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixels across >90% of the visible surface; high-intensity (white) pixels are localized to linear abrasions and distal tip clusters.",
+    "spatial_color_mapping": "Contiguous black substrate; high-contrast white clusters (geometric blobs) localized at the extreme lateral tips of both lobes; sparse, high-contrast white linear filaments distributed across the central and medial lobe regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped depression with a calculated interior angle of approximately 135 degrees and a moderate bounding-box depth relative to the vertical lobe axis.",
+    "edge_topography_serration_map": "Continuous irregular boundary; fine-scale, high-frequency serrations along the medial trailing edges; macro-level pixel-amplitude variations (irregular peaks) localized at the distal tips.",
+    "lobe_sweep_trajectory": "Symmetrical concave curve fitted from the median notch vertex to the distal tips of both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of circular white pixel groups (barnacle colonization) localized at the left and right distal tips; secondary clusters visible on the medial portion of the left lobe.",
+    "linear_abrasions": "Complex network of unaligned white linear disruptions; prominent near-vertical linear mark on the interior left lobe; multiple crisscrossing diagonal streaks on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive surface scarring across both lobes; distinctive vertical linear trauma mark on the mid-left lobe; irregular erosion of the trailing edge at the distal tips.",
+  "other_distinctive_markers": null
+}

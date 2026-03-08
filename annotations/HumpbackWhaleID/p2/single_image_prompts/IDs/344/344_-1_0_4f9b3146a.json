@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Dominantly low-intensity (dark) pixels with high-intensity (white) localized clusters at the distal tips, creating high local contrast but low global variance across the primary surface.",
+    "spatial_color_mapping": "Homogeneous low-intensity region covering the main fluke body; high-intensity contiguous white clusters at the left distal tip (pixel coord approx. upper-left) and right distal tip (pixel coord approx. upper-right)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated angle of approximately 55 degrees; depth is approximately 15% of the total fluke vertical span.",
+    "edge_topography_serration_map": "Highly irregular trailing edge with high-amplitude serrations; the right lobe contains at least three distinct, deep-pixel-depth indentations/valleys; the left lobe shows smaller-amplitude, high-frequency peaks.",
+    "lobe_sweep_trajectory": "Convex upward trajectory on both lobes, exhibiting a steep positive slope from the median notch toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct clusters of high-contrast white pixels located at the extreme distal points of both lobes, representing localized surface irregularities.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular tissue loss and jagged serrations on the trailing edge of the right lobe.",
+  "other_distinctive_markers": "Machine-readable or printed metadata at bottom of image: TEC02-11/03 ID 10528, 22 July 02 Bodega Bay-Gulf of Fara."
+}

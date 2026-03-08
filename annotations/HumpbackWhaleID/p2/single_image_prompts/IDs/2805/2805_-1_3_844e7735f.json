@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 3:1 ratio of high-intensity white pixels (central regions) to low-intensity black pixels (peripheral borders).",
+    "spatial_color_mapping": "Centralized high-intensity contiguous white regions on both lobes framed by a solid low-intensity black perimeter. Three distinct dark vertical linear streaks are visible on the right lobe's interior ventral surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, high-amplitude serration map along the entire trailing edge, characterized by distinct triangular peaks and V-shaped valleys with a pixel depth of approximately 8-15 pixels.",
+    "lobe_sweep_trajectory": "Convex upward trajectory on both lobes, tapering to sharp, acute points at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-contrast white circular pixel groups (approximate diameter 5-8 pixels) situated at the distal tips of both the left and right lobes.",
+    "linear_abrasions": "Four distinct, sub-parallel dark linear streaks (rake marks) mapped on the high-intensity region of the right lobe, oriented roughly perpendicular to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio; dominant low-intensity (black/dark grey) pixels with sparse high-intensity (white) focal points constituting less than 10% of the visible surface area.",
+    "spatial_color_mapping": "Absence of large contiguous geometric blobs; pigmentation is characterized by a uniform dark field populated by discrete, localized high-contrast white focal spots (2-5 pixel radius) distributed semi-randomly across both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide obtuse V-shaped depression; central vertex is clear; shallow depth relative to total fluke wingspan.",
+    "edge_topography_serration_map": "Continuous irregular serration along the trailing edge; right lobe exhibits higher amplitude peaks and valleys compared to the left; pixel-level jaggedness is visible against the ocean background.",
+    "lobe_sweep_trajectory": "Trailing edge exhibits a consistent concavity transitioning from the distal tips toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of circular white pixel groups (rosettes) distributed across the ventral surface, likely corresponding to sessile cirripede attachment sites or subsequent scarring.",
+    "linear_abrasions": "Two distinct unaligned linear pixel disruptions visible on the inner-left lobe, oriented diagonally relative to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Prominent brown/tan-colored textured masses located at the distal extremities (tips) of both fluke lobes, characterized by high-relief pixel clusters and significant color deviation from the primary fluke pigmentation.",
+  "other_distinctive_markers": "Localized water droplet artifacts and trailing spray captured mid-descent near the right distal tip."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70% low-intensity black/dark grey pixels occupying the central and proximal regions, contrasted with 30% high-intensity cream/white pixels localized on the distal fluke tips.",
+    "spatial_color_mapping": "Dominant low-intensity contiguous mass across the central fluke body. Distal high-intensity patches situated on the terminal ends of both lobes. Significant mid-intensity mottling (grey/brown) occurs at the transition zones between the dark central area and light distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped notch with an estimated pixel angle of 135 degrees; vertical bounding-box depth is minimal relative to total lobe width.",
+    "edge_topography_serration_map": "Highly irregular trailing edge characterized by high-amplitude, low-frequency jagged peaks. Notable deep indentations visible on the mid-sections of both lobes, creating a 'sawtooth' profile against the water background.",
+    "lobe_sweep_trajectory": "Lobes exhibit a sharp upward convexity, tapering to acute, narrow tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, high-contrast white circular spots (pixel clusters) visible on the lower-left ventral surface near the water line.",
+    "linear_abrasions": "Dense network of low-intensity linear pixel disruptions (rake marks) crossing the high-intensity distal patches on both lobes, primarily oriented diagonally."
+  },
+  "acquired_anomalies_or_scars": "Presence of brownish-red biological growth or debris (likely kelp or whale lice) attached to the terminal tip of the left lobe; heavy scarring/rake marks across the ventral surface.",
+  "other_distinctive_markers": "Unique combination of deep, jagged 'U' shaped gouges on the trailing edge of the right lobe, distinct from natural serration."
+}

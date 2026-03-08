@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low contrast ratio; high-intensity white pixels occupy approximately 3-5% of the visible fluke area against a dominant low-intensity black/dark grey background.",
+    "spatial_color_mapping": "Dominant contiguous dark grey field with localized, high-contrast white focal spots (circular pixel blobs) scattered across the mid-lateral regions of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped notch with an estimated interior angle of 85 degrees and a bounding box depth representing approximately 12% of visible fluke height.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the entire margin; right lobe distal edge exhibits higher amplitude variations (coarse jaggedness) compared to the left lobe.",
+    "lobe_sweep_trajectory": "Sigmoidal curve with proximal convexity near the median notch and distal concavity toward the lobe tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Discrete clusters of high-intensity white pixels (circular morphology) consistent with localized scarring, concentrated primarily on the mid-section of the left lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Small white focal scars distributed across the surface; prominent white pigmentation/scarring at the distal tip of the right lobe.",
+  "other_distinctive_markers": "Pronounced irregular jagged morphology on the trailing edge of the right lobe distal tip."
+}

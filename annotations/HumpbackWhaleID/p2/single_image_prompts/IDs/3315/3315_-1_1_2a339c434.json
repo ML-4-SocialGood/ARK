@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low macro-level ratio; the visible surface is dominated by low-intensity (dark) pixels exceeding 98% of the surface area, with high-intensity (white) pixels limited to minute localized spots.",
+    "spatial_color_mapping": "Primary surface is a continuous low-intensity field. A single high-contrast circular white focal spot is located at approximately [x=0.55, y=0.65] relative to the right lobe's center. High-contrast yellowish-white clusters are localized at the extreme distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped central depression; internal angle estimated at approximately 40 degrees with a significant vertical depth relative to total fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern extracted across the entire trailing edge boundary. Significant pixel-amplitude peaks observed at the mid-point of both left and right lobes, interspersed with secondary smaller jagged variations.",
+    "lobe_sweep_trajectory": "Strongly convex trajectory along the trailing edge, tapering to acute, slightly upward-curving distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detected high-contrast, roughly circular pixel cluster at the right distal tip consisting of multiple contiguous sub-units. One isolated white circular cluster located in the mid-region of the right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Prominent irregular growth/colonization (barnacles) visible on the extreme right distal tip, creating a localized disruption of the geometric edge contour.",
+  "other_distinctive_markers": null
+}

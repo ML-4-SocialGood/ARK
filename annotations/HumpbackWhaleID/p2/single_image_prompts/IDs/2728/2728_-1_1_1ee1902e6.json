@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast; approximately 85% high-intensity white pixels occupying the interior lobe surfaces against 15% low-intensity black pixels restricted to the trailing edge and distal tips.",
+    "spatial_color_mapping": "Dominant contiguous white pigmentation covering the central and lateral lobes. A low-intensity black border (approx. 5-15 pixels wide) follows the trailing edge. A significant dark mass is localized at the right distal tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency irregular serrations along the full visible length; pixel-amplitude variations range from 3 to 10 pixels relative to the localized edge mean, creating a jagged profile.",
+    "lobe_sweep_trajectory": "Geometric sweep follows a slight convex curve from the central axis, tapering toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dark pixel clusters visible at the right distal tip and small, isolated dark circular spots on the interior white field of the left lobe.",
+    "linear_abrasions": "At least three faint, vertical low-intensity linear disruptions visible on the white surface of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular pixel density and jagged topography at the right fluke tip, indicating potential physical trauma or heavy barnacle load.",
+  "other_distinctive_markers": null
+}

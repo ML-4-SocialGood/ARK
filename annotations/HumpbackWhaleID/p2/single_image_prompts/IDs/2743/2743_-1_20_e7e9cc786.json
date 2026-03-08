@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution; macro-level ratio approximately 65% high-intensity pixels (white/light gray) to 35% low-intensity pixels (black/dark gray).",
+    "spatial_color_mapping": "Contiguous high-intensity white regions occupy the central and lower portions of both lobes. Low-intensity black pigmentation is mapped along the trailing edges and the central notch region, with significant punctate mottling and dark circular spots interspersed within the white regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression approximately 70-80 degrees; deep bounding-box penetration relative to horizontal lobe axis.",
+    "edge_topography_serration_map": "High-frequency, low-to-medium amplitude serrations (peaks and valleys) along the entire continuous trailing edge; visible jagged profile isolated from the water line.",
+    "lobe_sweep_trajectory": "Concave sweep from the outer fluke tips moving inward towards the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular dark-on-white pixel clusters (ring-like structures) distributed across the white ventral surface of both lobes, consistent with localized barnacle colonization scars.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive circular scarring (rosettes) across the ventral surface and irregular, jagged topography at the distal tips suggesting minor physical trauma.",
+  "other_distinctive_markers": "Unique density of dark punctate spots scattered across the high-intensity white fields."
+}

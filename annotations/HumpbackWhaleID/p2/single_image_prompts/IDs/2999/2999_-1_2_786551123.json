@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution; macro-level ratio of approximately 85% high-intensity white to 15% low-intensity black/dark pixels on visible fluke surface.",
+    "spatial_color_mapping": "Dominant contiguous white central region. Dark black pigmentation mapping forms a continuous trailing edge border and tip caps. A dark vertical projection is mapped from the peduncle base to the median notch. Small discrete black circular blobs are detected on the mid-left lobe and upper-right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a vertex angle of approximately 75-80 degrees; notch depth occupies roughly 15% of the visible vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitudes of 5-12 pixels along the continuous trailing boundary; most pronounced peaks occur on the medial portion of the trailing edges.",
+    "lobe_sweep_trajectory": "Convex leading edges curving toward the distal tips; trailing edges exhibit a broad concave curve directed toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of five discrete dark circular clusters on the white field: three small clusters on the mid-left lobe and two larger clusters on the upper-right lobe.",
+    "linear_abrasions": "Three distinct, unaligned dark linear pixel streaks (~40-60 pixels in length) detected on the right lobe surface, oriented diagonally towards the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Textured, high-intensity gray/white clusters (barnacle colonization) localized at the extreme lateral tips of both lobes; several irregular missing pixel segments (notches) along the trailing edge.",
+  "other_distinctive_markers": "Highly textured, calcified protrusions at the distal tips distinct from the smooth pixel topography of the fluke membrane."
+}

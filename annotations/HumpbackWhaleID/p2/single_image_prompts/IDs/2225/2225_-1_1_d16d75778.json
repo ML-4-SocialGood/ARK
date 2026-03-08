@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low global contrast ratio; predominantly low-intensity pixels (dark grey/black) exceeding 95% of the visible surface area with localized high-intensity (white) clusters.",
+    "spatial_color_mapping": "Solid dark-tone mapping across the majority of the ventral surface. High-contrast white circular cluster mapped to the distal outer tip of the left lobe. Sparse, scattered high-intensity speckles visible on the left lobe's central-lower region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central notch with an estimated interior pixel angle of 65 degrees and a well-defined vertex.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with variable pixel-amplitude. Notable jagged indentation located on the trailing edge of the right lobe; multiple distinct peaks along the inner trailing edge of the left lobe.",
+    "lobe_sweep_trajectory": "Outer margins follow a convex trajectory tapering from the central axis toward sharp distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density cluster of circular high-contrast white pixel groups detected on the outer margin of the left distal tip.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Localized barnacle colonization on the left distal tip and a significant irregular notch/lesion on the trailing edge of the right lobe.",
+  "other_distinctive_markers": null
+}

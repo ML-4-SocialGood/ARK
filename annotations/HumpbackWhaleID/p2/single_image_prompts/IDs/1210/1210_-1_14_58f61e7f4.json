@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio characterized by a dominant high-intensity white central region (>85% of visible surface) contrasted by low-intensity black margins along the trailing edges and localized dark spotting.",
+    "spatial_color_mapping": "Primary macro-blob of white pixels occupies the central and medial regions of both lobes. High-contrast black banding is mapped continuously along the trailing edges. Localized black mottling is visible at the lower-central region near the waterline and sporadically across the lower right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a calculated pixel angle of approximately 42 degrees and a deep bounding-box penetration into the fluke body.",
+    "edge_topography_serration_map": "High-frequency, irregular pixel-amplitude variations (jagged serrations) mapped along the entire trailing edge of both lobes, with significant peaks and valleys ranging from 3 to 12 pixels in depth.",
+    "lobe_sweep_trajectory": "Symmetrical upward and outward trajectory; the left lobe follows a linear-to-convex curve towards the distal tip, while the right lobe exhibits a more pronounced convex outer curvature."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Significant clusters of high-contrast, roughly circular white/cream pixel groups (barnacle shells) densely localized along the distal tip of the left lobe and the entire outer margin of the right lobe.",
+    "linear_abrasions": "A distinct vertical dark linear disruption is detected near the lower-central base of the fluke; additional shorter diagonal dark streaks are present on the lower-left and lower-right quadrants."
+  },
+  "acquired_anomalies_or_scars": "Extensive ectoparasitic colonization by barnacles along the outer margins. The upper-right trailing edge shows a significant irregular indentation/tissue loss relative to a smooth expected curve.",
+  "other_distinctive_markers": "The right lobe's outer edge is characterized by a dense, continuous high-relief fringe of barnacle clusters that significantly alters the perceived 2D perimeter compared to the left lobe."
+}

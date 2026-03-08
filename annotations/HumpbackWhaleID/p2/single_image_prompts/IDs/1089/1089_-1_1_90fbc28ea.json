@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution; approximately 45% low-intensity (black) pixels in the central and proximal regions vs 55% high-intensity (white) pixels on the distal lobes.",
+    "spatial_color_mapping": "Central region features a contiguous black mass extending from the peduncle toward the mid-lobes. Outer lobes are predominantly white. Left lobe contains a cluster of three parallel high-intensity linear streaks (rake marks) and four isolated low-intensity circular spots. Right lobe contains seven distinct low-intensity circular spots and heavy mottling at the distal tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped notch with an approximate angle of 28 degrees at the central vertex.",
+    "edge_topography_serration_map": "Continuous low-amplitude serration along the entire trailing edge boundary. Significant jagged irregularity and pixel-level fragmentation detected at the distal tip of the right lobe.",
+    "lobe_sweep_trajectory": "Symmetrical convex curvature along the leading edges, sweeping from the peduncle junction to the sharp distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Left distal lobe: 4 circular low-intensity clusters (~3-5px diameter). Right distal lobe: 7 circular low-intensity clusters (~2-8px diameter) distributed across the white field.",
+    "linear_abrasions": "Set of three parallel high-intensity linear marks on the dark inner field of the left lobe; one isolated high-intensity linear mark on the dark inner field of the right lobe near the notch."
+  },
+  "acquired_anomalies_or_scars": "Prominent parallel rake marks on the left lobe; significant irregular tissue loss or heavy scarring at the right lobe distal tip.",
+  "other_distinctive_markers": "The intersection of the triple-linear white rake marks with the black-to-white pigmentation boundary on the left lobe provides a unique geometric signature."
+}

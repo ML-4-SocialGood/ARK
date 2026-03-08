@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 85% low-intensity (black) to 15% high-intensity (white/mottled) across the visible ventral surface.",
+    "spatial_color_mapping": "High-intensity white/light-grey mottling concentrated along the distal trailing edges and both lobe tips. A singular, isolated high-intensity circular cluster is located in the lower-central quadrant of the left lobe. The central and proximal regions are characterized by a continuous low-intensity black mass."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an approximate 75-degree angle at the central vertex.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern across the entire trailing edge boundary with pixel-amplitude variations ranging from 5 to 20 pixels deep, creating a jagged profile.",
+    "lobe_sweep_trajectory": "Predominantly linear leading edges with a slight convex curvature towards the lateral termini."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct isolated white circular pixel cluster located at coordinates approximately 40% from the notch on the left lobe horizontal axis and 30% from the bottom vertical axis.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

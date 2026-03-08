@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio; approximately 75% high-intensity (white/light grey) pixels across the lobes, with 25% low-intensity (black/dark grey) pixels concentrated at the peduncle and trailing edges.",
+    "spatial_color_mapping": "Contiguous high-intensity white regions occupy the majority of both lobes. A low-intensity black region is centrally fixed at the peduncle, featuring stippled/mottled transition zones. A thin, continuous black band follows the trailing edge of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch with an estimated internal angle of 80-90 degrees and a deep bounding-box recession toward the peduncle.",
+    "edge_topography_serration_map": "High-frequency micro-serrations along the entire trailing edge; a prominent macro-scale indentation (notch) is visible on the inner trailing edge of the right lobe.",
+    "lobe_sweep_trajectory": "Concave curve fitted to the trailing edge sweeping upward and outward to tapered distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of circular, high-contrast textured pixels (barnacles) at the distal tips of both lobes; left tip shows a significant 3D cluster extending beyond the fluke boundary.",
+    "linear_abrasions": "Faint, vertical dark-pixel linear markings are present on the medial white region of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Deep traumatic indentation/notch on the trailing edge of the right lobe; extensive barnacle colonization on both distal lobe tips.",
+  "other_distinctive_markers": "Biological protrusion (brown/tan colored growth) on the extreme distal tip of the left lobe."
+}

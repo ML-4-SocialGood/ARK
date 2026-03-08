@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) with a macro-level ratio of approximately 95:5 relative to high-intensity (white/scarring) pixels visible on the fluke surface.",
+    "spatial_color_mapping": "Uniform solid black pigmentation (Type 1) across the entire visible ventral surface; high-contrast white contiguous clusters are localized specifically at the extreme lateral tips of both the left and right lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch at the central convergence point with an estimated pixel angle of 40 degrees and a moderate depth relative to the lobe span.",
+    "edge_topography_serration_map": "Continuous irregular serrations with pixel amplitudes ranging from 2 to 12 pixels along the trailing boundary, creating a jagged profile isolated from the water background.",
+    "lobe_sweep_trajectory": "Convex upward sweep trajectory from the central notch toward the distal tips, with a tapering width as the lobes extend laterally."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed high-contrast white pixel clusters located at the extreme distal tips of both lobes, exhibiting roughly circular and clustered geometric patterns.",
+    "linear_abrasions": "Detection of numerous fine, white, unaligned linear pixel disruptions (rake marks) oriented primarily in horizontal and diagonal directions across both black lobes."
+  },
+  "acquired_anomalies_or_scars": "Significant linear rake marks distributed across the ventral surface and dense white clusters (barnacle colonization) at the outer lateral margins of the fluke.",
+  "other_distinctive_markers": "Presence of a high-density population of pinnipeds (seals/sea lions) in the surrounding background pixel data."
+}

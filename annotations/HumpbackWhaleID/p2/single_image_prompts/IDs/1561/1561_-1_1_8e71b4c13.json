@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixels across the primary surface area with localized high-intensity (white) clusters at the distal tips and sparse high-intensity punctate noise across the lobes.",
+    "spatial_color_mapping": "High-intensity contiguous clusters located at the extreme left and right distal tips. A sparse constellation of individual high-intensity pixels is distributed across the lower quadrant of the right lobe and the mid-region of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a calculated angle of approximately 105 degrees; depth is roughly 1/6th of the vertical axis of the visible fluke lobes.",
+    "edge_topography_serration_map": "High-frequency, irregular serrated boundary along the entire trailing edge; multiple micro-peaks and valleys ranging from 2 to 8 pixels in amplitude, particularly pronounced on the outer thirds of both lobes.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge from the median notch extending towards the distal tips, terminating in a convex sweep at the outer-most lateral points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast circular pixel clusters detected at the extreme distal tips of both lobes; secondary sparse circular white marks (1-4 pixels in diameter) visible in the lower-central region of the right lobe.",
+    "linear_abrasions": "One distinct curvilinear high-intensity line located in the lower-mid quadrant of the left lobe, approximately 20 pixels in length."
+  },
+  "acquired_anomalies_or_scars": "Dense, high-contrast textured material/growth at the lateral-most tips of both flukes, exhibiting high-frequency pixel variation compared to the smooth low-intensity surface of the main lobes.",
+  "other_distinctive_markers": null
+}

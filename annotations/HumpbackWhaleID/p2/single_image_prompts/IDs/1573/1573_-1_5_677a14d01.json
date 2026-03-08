@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio; approximately 75% high-intensity white pixels concentrated in the central regions and 25% low-intensity black pixels localized on margins and focal spots.",
+    "spatial_color_mapping": "Dominant contiguous white central regions on both lobes. Black pigmentation is mapped to the distal tips and along the trailing edges. A distinct, high-contrast black circular spot is located on the left lobe, and a larger irregular dark patch is present on the medial-superior region of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the trailing edge with varied pixel-amplitudes. The boundary shows sharp, non-uniform peaks and valleys isolated against the ocean background.",
+    "lobe_sweep_trajectory": "Outer leading edges follow a convex trajectory tapering toward the distal tips, while the trailing edges exhibit a concave sweep moving toward the medial axis."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple high-intensity white circular pixel clusters (approx. 5-10 pixels wide) clustered at the distal tips and along the outer leading edges.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Distinct circular black focal pigmentation on the left lobe. Significant mottled transition between white and black pixels on the lower interior edge of the left lobe.",
+  "other_distinctive_markers": "The left lobe features a highly unique, isolated black circular mark ('eye-spot') set against a large high-intensity white field."
+}

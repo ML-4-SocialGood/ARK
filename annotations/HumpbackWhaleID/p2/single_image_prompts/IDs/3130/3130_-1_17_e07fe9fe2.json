@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:20 ratio of high-intensity white pixels (localized spots) to low-intensity dark-grey/black pixels (primary surface).",
+    "spatial_color_mapping": "Contiguous dark-grey surface area covering approximately 90% of visible fluke, with discrete high-contrast white circular spots (2-8 pixels diameter) scattered across the mid-to-lower visible regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central depression with a calculated pixel angle of approximately 45 degrees.",
+    "edge_topography_serration_map": "Right lobe trailing edge displays high-frequency, low-amplitude sawtooth serrations. Left (upper) lobe displays irregular, high-amplitude jagged interruptions and missing pixel segments relative to a smooth curve.",
+    "lobe_sweep_trajectory": "The right lobe follows a parabolic convex sweep from the notch to the distal tip. The left (upper) lobe follows a truncated, irregular convex path."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 10-15 white circular pixel clusters, likely indicative of previous barnacle attachments, distributed primarily on the lower half of the dark surface.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extreme irregularity and jagged pixel loss on the distal tips of both lobes; presence of brownish-orange high-contrast material attached to the extreme edge of the upper lobe tip.",
+  "other_distinctive_markers": "Presence of multiple Procellariidae (seabirds) in the immediate foreground and background of the whale's fluke."
+}

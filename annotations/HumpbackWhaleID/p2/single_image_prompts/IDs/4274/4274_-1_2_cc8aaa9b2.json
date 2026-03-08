@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level high-contrast distribution characterized by approximately 65% high-intensity (white) pixels concentrated in the lobe interiors and 35% low-intensity (black) pixels defining the margins and focal spots.",
+    "spatial_color_mapping": "Left lobe displays a large central white field with black pigmentation bordering the proximal and distal edges, containing a dense cluster of ~15 black circular spots in the upper-left. Right lobe exhibits a white field in the lower-half with a thick black band along the upper trailing edge and 5 distinct black circular spots scattered within the white region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped central depression with a pixel angle of approximately 88 degrees and deep bounding-box depth extending toward the caudal peduncle junction.",
+    "edge_topography_serration_map": "High-frequency serration along the continuous linear boundary; the right lobe trailing edge exhibits coarser, higher-amplitude peaks (5-12 pixels) compared to the finer, more consistent serrations on the left lobe.",
+    "lobe_sweep_trajectory": "Bilateral convex trajectories; both lobes sweep upward and outward from the median notch, terminating in jagged distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of ~20 localized dark circular pixel clusters on the left lobe and ~8 on the right lobe, representing barnacle attachment scarring; active white calcified clusters are visible at the distal tips.",
+    "linear_abrasions": "Detection of multiple unaligned linear disruptions on the left lobe, most notably a high-contrast 'X' shaped intersection of dark pixels in the lower-central white field."
+  },
+  "acquired_anomalies_or_scars": "Significant physical trauma indicated by irregular, jagged material loss on the right distal tip and distinct linear rake marks on the lower left lobe ventral surface.",
+  "other_distinctive_markers": "A unique cross-hatched scar pattern located at the base of the left lobe white pigmentation field, distinguished by two intersecting 20-pixel-long dark lines."
+}

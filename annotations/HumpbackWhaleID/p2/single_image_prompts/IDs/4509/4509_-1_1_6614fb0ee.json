@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.35 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "High-intensity white mottling is localized at the distal tips of both lobes, extending along the trailing edges. The central fluke body and leading edges consist of contiguous low-intensity black pixels."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped depression with an approximate pixel angle of 68 degrees and a vertical depth of 125 pixels from the lobe peak horizontal.",
+    "edge_topography_serration_map": "High-frequency serration along the entire trailing edge with peak-to-valley amplitudes varying between 4 and 18 pixels; most acute jaggedness is located between the mid-lobe and the central notch.",
+    "lobe_sweep_trajectory": "Strongly concave sweep trajectory observed along the trailing edge from the distal tips to the median notch; leading edge exhibits a smooth convex curve."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, circular high-contrast pixel clusters detected at the far margin of the left lobe and scattered as isolated white points on the black surface of the right lobe.",
+    "linear_abrasions": "Parallel, unaligned linear dark pixel disruptions (rake marks) are visible within the white mottled region of the right lobe tip, oriented diagonally to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Notable deep, irregular indentation on the trailing edge of the left lobe, approximately one-third of the distance from the tip to the notch, distinct from standard serration frequency.",
+  "other_distinctive_markers": "Unique salt-and-pepper pixel transition zones between the solid black medial area and the white distal mottling on both lobes."
+}

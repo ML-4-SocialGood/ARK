@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low; the surface is dominated by low-intensity (dark) pixels with high-intensity (white) pixels limited to localized scar points and edge highlights, accounting for less than 5% of the total ventral area.",
+    "spatial_color_mapping": "Predominantly solid dark-grey to black contiguous pigmentation. Localized high-contrast white pixels are mapped as discrete circular clusters: one prominent ring-shaped cluster on the upper-mid right lobe and sparse micro-specks distributed across the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "The central depression exhibits a wide-angle V-shape, calculated at approximately 135-145 degrees, with a shallow bounding-box depth.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations across the entire margin. The left lobe trailing edge contains a significant, large-scale negative-space indentation (concave chunk) located approximately one-third the distance from the tip to the median notch.",
+    "lobe_sweep_trajectory": "The lobes exhibit a divergent trajectory from the median notch, with a generally convex trailing edge curve that terminates in acute distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clearly visible high-contrast white circular scar (rosette) on the right lobe's mid-outer quadrant. Multiple smaller white pixel clusters are visible along the distal margins.",
+    "linear_abrasions": "A faint, unaligned horizontal linear disruption of the dark pigmentation is detected on the lower-central portion of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Major traumatic indentation on the trailing edge of the left lobe. Highly textured, high-intensity calcified masses (barnacle colonization) are present on both distal tips.",
+  "other_distinctive_markers": "The large semi-circular missing section of the left lobe's trailing edge serves as the primary unique geometric identifier."
+}

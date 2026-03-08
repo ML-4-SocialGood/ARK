@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 60:40 distribution of low-intensity (black/dark grey) to high-intensity (off-white) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Large white contiguous regions at the distal ends of both lobes. Central and inner-lobe regions consist of a large contiguous black field. Distinct dark circular blobs are mapped on the left white field; one dark blob on the right white field near the tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped indentation at the median point; pixel angle estimated at 45 degrees relative to the lobe midlines.",
+    "edge_topography_serration_map": "Continuous micro-serrations along the trailing edge with high frequency; distinct jagged topography characterized by pixel-level fluctuations between the fluke margin and water background.",
+    "lobe_sweep_trajectory": "Symmetrical concave curves extending from the median notch to the lateral tips along the trailing edge boundary."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density, irregular textured clusters of high-contrast pixels (brown/tan/white) situated at the extreme lateral tips of both lobes.",
+    "linear_abrasions": "Prominent long white diagonal linear disruption on the left lobe black field; multiple shorter, unaligned white linear pixel clusters on the right lobe black field."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization on the distal margins of both lobes, altering the natural geometric contour.",
+  "other_distinctive_markers": "Vertical series of three distinct black circular spots on the white pigmentation field of the left lobe."
+}

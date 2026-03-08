@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 4:1 ratio of high-intensity white (pixel values ~200-245) to low-intensity black/dark grey (pixel values ~10-40) across visible ventral surfaces.",
+    "spatial_color_mapping": "Broad white central field bounded by irregular dark peripheral margins. Left lobe displays a dense dark patch approximately 25% inward from the lateral tip. Right lobe features sparse dark punctate clusters on a dominant white field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, non-uniform serration. Left lobe trailing edge exhibits deep, irregular concave notches (amplitudes >30 pixels). Right lobe exhibits more consistent, lower-amplitude triangular peaks (~5-10 pixels).",
+    "lobe_sweep_trajectory": "Bilateral convex upward curvature tapering to acute lateral tips; right lobe displays a more pronounced upward sweep relative to the horizontal plane of the splash zone."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast white pixel clusters consistent with sessile organism attachment are localized at the extreme lateral tip of the right lobe and scattered along the left lobe trailing edge peaks.",
+    "linear_abrasions": "Set of four distinct, parallel dark linear streaks oriented diagonally (approx. 45-degree angle) on the upper-inner quadrant of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Deep irregular indentations and tissue loss on the trailing edge of the left lobe, creating a ragged, non-linear profile compared to the right lobe.",
+  "other_distinctive_markers": "A prominent dark 'X' shaped pigmentation mark located in the upper-right region of the right lobe ventral surface."
+}

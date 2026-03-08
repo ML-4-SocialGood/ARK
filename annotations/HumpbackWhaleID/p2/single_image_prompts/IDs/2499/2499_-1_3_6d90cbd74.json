@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High local contrast ratio between a dominant low-intensity (black/dark grey) base and sparse, high-intensity (white) localized pixel clusters.",
+    "spatial_color_mapping": "Primary dark contiguous base covering approximately 85% of surface; high-contrast white circular and semi-circular blobs are scattered non-uniformly across both lobes, with higher concentrations in the central-medial zones."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped notch at the center-line with an estimated pixel angle of 140 degrees; notch depth occupies approximately 8% of the visible vertical bounding box.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations; pixel-level peaks and valleys are most pronounced on the distal 25% of both the left and right lobes.",
+    "lobe_sweep_trajectory": "Convex upward curve originating from the median notch, tapering to sharp, irregular lateral points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Numerous circular high-contrast pixel clusters (approximately 3-12 pixels in diameter) distributed across both lobes, appearing as white-on-black focal points.",
+    "linear_abrasions": "Distinct diagonal high-intensity linear streak on the upper right lobe; multiple shorter horizontal high-intensity disruptions on the medial left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive white circular scarring across the ventral surface; significant irregular edge-loss/notching at the far distal tip of the right lobe.",
+  "other_distinctive_markers": "High-density distribution of point-source white circular marks creates a 'starfield' pattern across the dark fluke pigment."
+}

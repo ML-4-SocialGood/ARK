@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark grey) pixels across the visible ventral surface, with a high-intensity (white) pixel ratio of approximately <5% confined to a single central focal point.",
+    "spatial_color_mapping": "A primary contiguous low-intensity dark mass defining the fluke shape; one high-intensity circular cluster (approximately 8-12 pixels in diameter) located in the mid-ventral region approximately 20% of the fluke width below the median notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped depression with a wide obtuse angle; exact pixel-level angle is obscured by significant edge blur and grain.",
+    "edge_topography_serration_map": null,
+    "lobe_sweep_trajectory": "Concave sweep along the interior trailing edges towards a shallow notch; outer lateral edges show a distinct convex curve tapering to sharp posterior tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Single high-contrast white circular cluster centrally located; secondary smaller high-intensity clusters are suggested by noise but lack sufficient resolution for definitive mapping.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

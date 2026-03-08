@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity white (>80% of surface) with sharp contrast against low-intensity black perimeter borders and distal tips.",
+    "spatial_color_mapping": "Contiguous high-intensity central core; low-intensity dark banding along the trailing edge (approx. 20-50 pixels wide); high-density dark pixel clusters localized at the peduncle-notch interface and terminal lobe tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated pixel angle of approximately 52 degrees; bounding-box depth is roughly 18% of the visible vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude micro-serrations along the median-to-distal boundaries; macro-level irregular fracturing and 'chips' localized on both the far left and far right terminal tips.",
+    "lobe_sweep_trajectory": "Concave curvature originating at the notch, transitioning to a broad convex sweep through the mid-lobe, and ending in an irregular, jagged distal trajectory."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct cluster of 6-8 circular dark-rimmed pixels (rosettes) on the left distal tip; isolated circular marks scattered along the right trailing edge boundary.",
+    "linear_abrasions": "Faint, near-vertical low-intensity linear tracks visible on the right lobe, likely indicative of superficial rake marks."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular tissue erosion and jagged fracturing on the rightmost fluke tip; dense dark pigmentation column extending from the peduncle into the primary notch.",
+  "other_distinctive_markers": "Isolated dark focal point (spot) in the upper mid-section of the right lobe; unique 'C-shaped' dark mark on the extreme left tip."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark gray/black) pixels with discrete high-intensity (white) clusters. Estimated macro-level ratio of 85:15 low-to-high intensity across visible ventral surfaces.",
+    "spatial_color_mapping": "Contiguous low-intensity regions cover the majority of the fluke surface. High-contrast circular white blobs are concentrated at the distal tips of both lobes and scattered sparsely across the medial surface of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an estimated pixel-calculated interior angle of 40-45 degrees; deep vertical penetration relative to lobe width.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude irregular serrations on the left lobe trailing edge, indicating significant tissue loss/fragmentation. Right lobe displays lower-frequency, low-amplitude serrations with a more continuous boundary.",
+    "lobe_sweep_trajectory": "Bi-lateral concave upward sweep; left lobe exhibits a sharper vertical inclination at the distal tip compared to the right lobe's more gradual convex-to-concave transition."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of approximately 20-30 discrete circular white clusters (rosettes) ranging from 5-20 pixels in diameter, heavily clustered on the right lobe and distal extremities.",
+    "linear_abrasions": "Detection of multiple high-contrast, unaligned linear pixel disruptions crossing the left lobe, identified as external strands draped over the ventral surface."
+  },
+  "acquired_anomalies_or_scars": "Active entanglement; multiple distinct dark-toned linear artifacts (ropes) are visible crossing the left lobe surface. Irregular, jagged tissue loss at the distal tip of the left lobe.",
+  "other_distinctive_markers": "High-contrast, high-texture clusters (likely barnacles) visible along the leading edges and extreme lateral tips, creating a highly irregular silhouette."
+}

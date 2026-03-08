@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) across the medial and proximal regions with high-intensity (white) pixel clusters localized at the distal tips; estimated 60:40 dark-to-light ratio.",
+    "spatial_color_mapping": "Large contiguous high-intensity (white) zones at distal tips containing dense, low-intensity (black) mottling; the central region is a solid, contiguous low-intensity (black) mass."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central depression; calculated internal angle of approximately 50 degrees with a deep bounding-box penetration into the fluke mass.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude irregular serrations across the entire trailing edge boundary; notable jagged peak-to-valley pixel variance at the distal lateral extensions.",
+    "lobe_sweep_trajectory": "Bilateral concave sweep from the median notch transitioning to convex curves toward the distal tips, forming a wide 'W' geometric profile."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct clusters of high-intensity circular pixel groups (barnacle attachments) visible at the extreme left and right distal tips.",
+    "linear_abrasions": "Multiple high-contrast, unaligned linear white streaks (scratches) detected on the right lobe surface, cutting through the low-intensity pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Irregular jagged edge profile on the trailing edge suggesting minor tissue loss or wear; visible calcified circular barnacle clusters at the lobe terminals.",
+  "other_distinctive_markers": null
+}

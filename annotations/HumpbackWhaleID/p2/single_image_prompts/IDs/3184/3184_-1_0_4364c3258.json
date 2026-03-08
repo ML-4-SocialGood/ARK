@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio; approximately 70% high-intensity pixels (light grey/white) in the fluke interior vs 30% low-intensity pixels (black) concentrated at the perimeter.",
+    "spatial_color_mapping": "Broad, contiguous low-intensity black banding along the entire trailing edge and distal tips. One prominent isolated dark circular pixel cluster is located in the posterior-medial region of the left lobe. Smaller focal dark spots are visible adjacent to the median notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with a calculated internal pixel angle of approximately 45 degrees and a bounding-box depth of approximately 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with sharp peaks and varied-depth valleys mapped across the continuous trailing edge boundary.",
+    "lobe_sweep_trajectory": "Convex curve trajectory on both lobes, tapering and sweeping toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Pronounced irregular indentation and loss of edge continuity on the extreme outer margin of the left fluke tip.",
+  "other_distinctive_markers": "Distinctive high-contrast dark circular point located at the extreme apex of the right fluke tip."
+}

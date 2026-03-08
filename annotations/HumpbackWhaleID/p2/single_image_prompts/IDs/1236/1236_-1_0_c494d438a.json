@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Highly skewed distribution toward low-intensity (black) pixels, estimated >90% coverage; high-intensity (white) pixels localized at distal lobe tips.",
+    "spatial_color_mapping": "Contiguous dark pigment field across the macro-surface; localized high-contrast white pixel clusters on the distal tips of both lobes; low-contrast, circular grey mottling detected in the medial lobe regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped central depression with an acute pixel angle of approximately 35 degrees relative to the vertical axis.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations detected along the full trailing boundary; highest peak-to-valley amplitude located on the outer third of the left lobe lobe.",
+    "lobe_sweep_trajectory": "The trailing edge exhibits a largely linear trajectory from the median notch to the tips, interrupted by high-frequency serration peaks."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct, high-contrast white pixel clusters on the far-left and far-right distal tips, indicating localized surface irregularities.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive white scarring or colonization on the distal tips of both lobes; fluke trailing edge integrity shows multiple jagged indentations.",
+  "other_distinctive_markers": "Visible high-intensity pixel noise consistent with water spray artifacts at the base of the fluke where it meets the water surface."
+}

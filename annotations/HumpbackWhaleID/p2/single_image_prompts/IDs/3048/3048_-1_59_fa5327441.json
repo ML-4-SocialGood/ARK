@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) base with approximately 10-15% high-intensity (white) pixel regions corresponding to scarring and abrasions.",
+    "spatial_color_mapping": "Solid dark-toned contiguous pigmentation across the visible fluke surface. Interspersed with high-contrast white linear and circular clusters distributed across both lobes, with higher frequency of white pixels on the distal sections."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "Highly irregular, high-frequency serrations visible along the upper edge of both lobes. Significant jaggedness and low-amplitude pixel variations (peaks and valleys) characterize the boundary against the sky/water interface.",
+    "lobe_sweep_trajectory": "Concave sweep originating from the partially submerged center, transitioning to a convex curve towards the distal tips of both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Visible clusters of small, circular, high-intensity white spots scattered across the dark surface of both lobes, particularly dense on the right lobe distal region.",
+    "linear_abrasions": "Extensive network of white, high-contrast, unaligned linear pixel streaks (rake marks) crossing the dark background across both lobes."
+  },
+  "acquired_anomalies_or_scars": "Extensive scarring including both parallel linear rake marks and circular white barnacle attachment scars across the visible ventral surface.",
+  "other_distinctive_markers": "Pronounced jagged edge on the right distal tip with several deep indentations not mirrored on the left lobe."
+}

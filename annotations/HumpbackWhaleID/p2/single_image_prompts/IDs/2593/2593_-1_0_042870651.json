@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white (approximately 85% of surface) vs. low-intensity black perimeter (approximately 15% of surface).",
+    "spatial_color_mapping": "Dominant high-intensity contiguous white region across central and proximal lobes; distinct low-intensity black band along the entire trailing edge; sparse dark micro-speckling localized near the median notch and left-distal region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression; approximate 65-degree interior angle; shallow bounding-box depth relative to fluke width.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitudes varying between 2-10 pixels; highest density of jagged peaks located on the right lobe trailing edge.",
+    "lobe_sweep_trajectory": "Concave trailing edge curve transitioning to pointed, slightly upturned distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast white-on-black clusters at both the far-left and far-right distal tips, indicating calcified barnacle colonization.",
+    "linear_abrasions": "Detected thin, dark horizontal pixel disruptions on the lower-center of the right lobe and faint diagonal marks on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent barnacle encrustations on the distal margins of both fluke lobes; small dark indentation on the left-lobe trailing edge approx. 1/3 distance from the tip.",
+  "other_distinctive_markers": "Unique dark 'check-mark' pigmentation pattern located approximately 15 pixels to the right of the median notch."
+}

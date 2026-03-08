@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 55:45 ratio of high-intensity white pixels (>200 RGB) to low-intensity black pixels (<50 RGB) across the visible ventral surface.",
+    "spatial_color_mapping": "Left lobe exhibits a dark basal pigmentation transitioning to a white distal field with vertical black striations. Right lobe is predominantly a high-intensity white field with scattered dark pixel clusters (mottling) concentrated near the medial and distal trailing edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch; calculated interior pixel angle of approximately 50 degrees with a clear vertical depth dividing the lobe segments.",
+    "edge_topography_serration_map": "High-frequency, non-uniform jagged peaks and valleys detected along the trailing edge; right lobe distal edge displays high-amplitude notches (10-15 pixel depth), while the left lobe displays lower-amplitude serrations.",
+    "lobe_sweep_trajectory": "Trailing edges follow a convex parabolic curve from the notch to the distal tips; distal tips are pointed and sweep slightly upward."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple dark, sub-circular pixel clusters (3-8 pixels in diameter) scattered across the white field of the right lobe, consistent with remnant barnacle attachment sites.",
+    "linear_abrasions": "Distinct vertical black linear disruptions (approx. 20-40 pixels in length) visible on the white distal portion of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant non-congenital notch (tissue loss) observed on the far distal trailing edge of the right lobe; irregular scalloping on the right lobe tip.",
+  "other_distinctive_markers": "High-density 'salt and pepper' transition zone at the peduncle-to-fluke junction where black and white pixels intermix in a chaotic pattern."
+}

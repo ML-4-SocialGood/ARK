@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65% high-intensity pixels (values > 180) to 35% low-intensity pixels (values < 60) across the visible ventral surface.",
+    "spatial_color_mapping": "High-intensity white contiguous zones occupy the central regions of both lobes. Low-intensity black contiguous regions form a 20-50 pixel wide boundary along the entire trailing edge and a dense triangular cluster at the central peduncle insertion point. Numerous small, circular low-intensity blobs (rosettes) are scattered within the high-intensity fields."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an acute interior pixel angle of approximately 38 degrees and a vertical depth of 120 pixels relative to the adjacent lobe peaks.",
+    "edge_topography_serration_map": "High-frequency serration pattern across the entire horizontal boundary; pixel amplitudes of variations range from 5 pixels to 35 pixels from the local baseline, forming a jagged, non-linear edge.",
+    "lobe_sweep_trajectory": "Outer edges of the fluke exhibit a convex mathematical curve that tapers and rises slightly as it approaches the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatially dense detection of approximately 40+ circular high-contrast pixel rings (dark circles on white background), most concentrated in the upper quadrants of the left and right lobes.",
+    "linear_abrasions": "Detection of three distinct, vertically-oriented low-intensity linear pixel disruptions on the lower-right lobe, each approximately 60-80 pixels in length."
+  },
+  "acquired_anomalies_or_scars": "Extensive presence of circular rosette scars and significant irregular chipping/loss of pixel continuity along the trailing edge peaks consistent with physical contact marks.",
+  "other_distinctive_markers": null
+}

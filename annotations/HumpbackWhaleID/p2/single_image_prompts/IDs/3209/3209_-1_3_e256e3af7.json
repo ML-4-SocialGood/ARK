@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 80:20 ratio of low-intensity black pixels to high-intensity white pixels across the visible ventral surface.",
+    "spatial_color_mapping": "High-intensity white region is localized to the central peduncle-fluke junction, extending upwards in an irregular pillar shape toward the median notch. The lateral lobes are composed of contiguous low-intensity black pixels."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central depression with a deep bounding-box depth relative to the lobe width.",
+    "edge_topography_serration_map": "High-frequency irregular serration pattern across both trailing edges, with prominent jagged peaks and valleys, particularly on the inner margin of the left lobe.",
+    "lobe_sweep_trajectory": "Primary concave curve along the trailing edges, transitioning to a convex upward sweep at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct clusters of high-contrast, multi-tonal (white/beige) pixels at the terminal tips of both lobes, consistent with localized surface crusting. Numerous small, isolated white pixel points are scattered across the black regions.",
+    "linear_abrasions": "Several unaligned diagonal linear pixel disruptions are visible on the left lobe, cutting through the uniform black pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Extensive textured accumulation of barnacles on the outer tips of both lobes; visible rake-mark abrasions on the left lobe surface.",
+  "other_distinctive_markers": "The central white pigmentation pattern exhibits a jagged, bifurcated edge where it meets the black pigmentation at the fluke base."
+}

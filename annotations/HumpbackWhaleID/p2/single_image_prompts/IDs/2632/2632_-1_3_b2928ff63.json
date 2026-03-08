@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white/light-grey pixels occupy approximately 85% of the visible surface, providing high macro-level contrast against low-intensity black margins (15%) located at the trailing edge and median notch.",
+    "spatial_color_mapping": "Contiguous high-intensity white regions cover the majority of the fluke's interior. A distinct vertical black band maps to the central axis at the median notch. A continuous, irregular black border maps to the entire trailing edge. Small-scale black focal spots and mottling are mapped to the mid-left lobe and the basal leading edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central depression with a calculated pixel angle of approximately 65 degrees and a deep bounding-box depth extending significantly into the fluke body.",
+    "edge_topography_serration_map": "The right lobe trailing edge exhibits high-frequency, high-amplitude peaks and valleys (serrations) on the distal half. The left lobe exhibits moderate-frequency, lower-amplitude irregularities with a relatively smoother section adjacent to the median notch.",
+    "lobe_sweep_trajectory": "The trailing edges follow a convex mathematical curve from the notch to the tips, while the visible leading edges exhibit a slight concave-to-convex sweep terminating in sharp, tapered lobe tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-contrast, textured, roughly circular white-on-black mounds (barnacles) are densely localized on the extreme distal tips of both the left and right lobes.",
+    "linear_abrasions": "Multiple faint, unaligned dark linear pixel disruptions (rake marks) are visible on the mid-lower surface of the right lobe and the upper region of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization on lobe tips; highly irregular, jagged trailing edge topography suggests cumulative physical trauma or historical tissue loss.",
+  "other_distinctive_markers": "A unique, dark 'chain-link' or circular pigmentation pattern is visible on the upper margin of the left lobe, near the trailing edge."
+}

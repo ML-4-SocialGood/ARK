@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity pixel values (black) with high-intensity (white) regions localized to the distal tips and specific mottling zones. Estimated ratio of 7:1 (black to white).",
+    "spatial_color_mapping": "Large contiguous black region occupying the central and lower 80% of the fluke area. High-intensity white pixel clusters (mottling) are visible on the upper half of the left lobe and localized at both distal lobe tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide V-shaped indentation with a calculated vertex angle of approximately 75 degrees; the notch depth is roughly 12% of the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "Discrete irregular pixel-level variations and low-amplitude serrations along the trailing edge. The outer 25% of each lobe shows higher frequency irregularities compared to the smoother central region near the notch.",
+    "lobe_sweep_trajectory": "Convex curvature along the upper trailing edge leading to tapered, slightly upturned distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of circular white pixel anomalies (approximately 10-15 per tip) concentrated at the extreme distal edges of both lobes.",
+    "linear_abrasions": "Multiple fine, high-contrast linear segments (rake marks) detected. Notable diagonal tracks on the mid-left lobe and horizontal linear disruptions on the mid-right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive peripheral colonization of calcified organisms (barnacles) at both lobe tips and various linear surface abrasions across the ventral pigment.",
+  "other_distinctive_markers": null
+}

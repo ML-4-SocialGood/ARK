@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 95:5 ratio of low-intensity (black/dark grey) to high-intensity (white/grey) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Dominantly solid low-intensity black pigmentation. Visible high-intensity clusters are localized at the distal tip of the left lobe and as sparse circular rings in the mid-right ventral quadrant."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with an approximate pixel-derived angle of 40-45 degrees; deep bounding box penetration relative to lobe width.",
+    "edge_topography_serration_map": "Low-amplitude, high-frequency irregular serrations visible along the left lobe trailing edge. The right lobe trailing edge terminates in a significant, high-amplitude irregular mass of high-intensity pixels.",
+    "lobe_sweep_trajectory": "Convex upward curve fitting on both the left and right lobe dorsal boundaries, terminating in tapered points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately five distinct circular high-contrast white rings (annular scars) clustered in the mid-right section of the fluke.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Prominent high-intensity (tan/white) biological encrustations (likely barnacle colonization) at the distal terminus of the right lobe, significantly altering the expected geometric contour.",
+  "other_distinctive_markers": null
+}

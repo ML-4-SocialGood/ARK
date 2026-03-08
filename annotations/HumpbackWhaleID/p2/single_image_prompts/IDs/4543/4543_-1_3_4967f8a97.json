@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark grey) surface with a high contrast ratio against sparse, high-intensity (white) focal points, estimated at roughly 95:5.",
+    "spatial_color_mapping": "Dominant contiguous dark-pixel field covering >90% of the visible area. Numerous high-contrast white focal spots and ring-like clusters are distributed across both lobes, with higher densities observed on the distal margins of the left lobe and the central-lower portion of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a calculated pixel angle of approximately 50 degrees and a significant depth penetration of roughly 1/4 the visible vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern consisting of sharp triangular peaks and deep valleys (amplitude 5-15 pixels) occurring along the entire trailing edge boundary.",
+    "lobe_sweep_trajectory": "Strongly convex parabolic curve fitting the distal sweep from the median notch to the lateral tips on both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of multiple roughly circular, high-contrast white ring-shaped pixel clusters (ranging from 5 to 20 pixels in diameter) distributed across the ventral surface, consistent with barnacle scar morphology.",
+    "linear_abrasions": "Faint, non-aligned linear pixel disruptions (light grey on black) visible on the medial-right lobe surface, oriented diagonally toward the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Extensive circular scarring across both lobes; the distal tip of the right lobe exhibits a slightly more irregular, truncated pixel boundary compared to the more pointed left tip.",
+  "other_distinctive_markers": "Unique distribution of hollow, ring-shaped white markers against the dark pigment, particularly a clustered group on the left distal margin."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low-intensity pixels (black/dark grey) occupy approximately 92% of the visible fluke area; high-intensity pixels (white/light grey) are restricted to distal margins occupying approximately 8% of the surface area.",
+    "spatial_color_mapping": "Dominant contiguous dark-field core. High-contrast white mottling and solid white banding at the distal tips of both lobes. Right lobe distal tip contains a high-density white cluster (approx. coordinates 80% horizontal, 15% vertical relative to fluke bounding box). Left lobe distal tip shows diffuse white-grey pixel distribution."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated pixel angle of approximately 105 degrees; depth of V-shaped depression is approximately 15% of the fluke's total vertical height.",
+    "edge_topography_serration_map": "High-frequency irregular serration along the continuous trailing boundary; right lobe exhibits higher amplitude peaks (10-20 pixels) compared to the more moderate serration (5-10 pixels) on the left lobe lobe.",
+    "lobe_sweep_trajectory": "Outer margins exhibit a sharp convex sweep toward the distal tips; trailing edge trajectory is concave as it approaches the central median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized cluster of circular high-contrast white pixel groups at the extreme distal margin of the right fluke lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive white scarring/pigmentation covering the distal 10% of the right lobe; irregular deep secondary notch on the right trailing edge approx mid-way between tip and center.",
+  "other_distinctive_markers": null
+}

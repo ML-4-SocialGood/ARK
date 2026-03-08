@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface with a high-intensity (white/light-grey) pixel ratio of approximately 5-7% localized to discrete circular markings.",
+    "spatial_color_mapping": "High-contrast white punctate blobs (approx. 5-20 pixels diameter) scattered across both lobes; highest concentration observed in the distal half of the left lobe and along the trailing edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an interior angle of approximately 42 degrees and a bounding-box depth of approximately 10% of the visible vertical fluke span.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (2-4 pixel deviations) along the continuous boundary; notable macro-irregularity and jaggedness on the distal third of both the left and right lobe trailing edges.",
+    "lobe_sweep_trajectory": "Symmetric concave curvature originating from the median notch, transitioning into an upward-sloping convex trajectory toward the terminal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple high-contrast circular pixel clusters (3-15 pixels) distributed across the ventral surface, with heavy clusters located at the terminal tips and the medial section of the left lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extreme jaggedness and irregular pixel clusters on the distal tips of both lobes, suggesting heavy barnacle colonization or localized tissue trauma.",
+  "other_distinctive_markers": "Base of the fluke and peduncle insertion point is entirely obscured by high-intensity white pixel saturation caused by water spray/splash."
+}

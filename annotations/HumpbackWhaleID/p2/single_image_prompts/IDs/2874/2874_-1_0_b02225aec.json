@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity (white) pixels exceeding 80% of the visible ventral surface, contrasted with low-intensity (black) pixels restricted to the trailing edges and peduncle junction.",
+    "spatial_color_mapping": "Large contiguous white macro-blob covering the central field of both lobes; irregular black peripheral banding along the trailing edge; a high-contrast black focal patch at the axial base where the fluke meets the peduncle."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a clear apex dividing the two lobes; internal angle approximately 75 degrees.",
+    "edge_topography_serration_map": "Continuous irregular serrations with high frequency and variable pixel-amplitude (peaks and valleys) along the entire trailing boundary.",
+    "lobe_sweep_trajectory": "Convex curvature along the lateral margins of both lobes, tapering towards rounded, slightly upturned tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of small, circular, textured bumps and dark focal points scattered across the white surface, particularly on the vertical lobe.",
+    "linear_abrasions": "A series of 3-4 distinct, short, dark linear pixel disruptions oriented diagonally on the upper portion of the vertical lobe."
+  },
+  "acquired_anomalies_or_scars": "Minor irregular notches and asymmetric indentations along the trailing edge of the left lobe that break the standard serration frequency.",
+  "other_distinctive_markers": "Unique high-contrast, jagged 'sawtooth' boundary interface between the black peduncle base and the white fluke surface."
+}

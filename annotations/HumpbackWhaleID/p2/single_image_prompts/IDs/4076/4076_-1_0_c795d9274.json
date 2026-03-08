@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely high ratio of high-intensity white pixels (covering ~95% of visible surface) to low-intensity black pixels localized on the trailing edge and tips.",
+    "spatial_color_mapping": "Dominant solid high-intensity white field across medial and central fluke regions. Black contiguous banding along the entire trailing edge. High-density black clusters at the extreme distal tips (corners)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate pixel angle of 65 degrees; vertical depth is approximately 1/8th of the total visible fluke height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations distributed across the trailing boundary. Serration density increases toward the distal tips, showing irregular peak heights ranging from 2-10 pixels.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a concave curve toward the median notch and a convex sweep toward the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast dark pixel clusters at the far-left and far-right trailing edge corners, indicating textured surface irregularities.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Minor irregular indentation/notching on the trailing edge of the left lobe, approximately midway between the notch and the lateral tip.",
+  "other_distinctive_markers": "Exceptional uniformity of high-intensity white pigmentation across the ventral surface, lacking common mottling or speckling found in similar specimens."
+}

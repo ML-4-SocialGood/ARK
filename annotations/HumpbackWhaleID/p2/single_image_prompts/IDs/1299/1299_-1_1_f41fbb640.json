@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution. Approximately 60% of pixels in the visible fluke area reside in the high-intensity (white) spectrum, primarily in the central lobe regions, with 40% in the low-intensity (black/dark grey) spectrum localized at the margins and peduncle junction.",
+    "spatial_color_mapping": "Large, contiguous high-intensity white blobs occupy the mid-to-upper interior of both lobes. Low-intensity black pixels form a continuous boundary along the trailing edge and tips, with dense inter-lobar black pigmentation extending from the peduncle in a dendritic pattern."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated internal pixel angle of approximately 52 degrees and a depth-to-width ratio of 1:1.2 relative to the immediate notch boundary.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations present along the left lobe trailing edge. The right lobe trailing edge exhibits a major macro-level geometric discontinuity: a deep, sub-rectangular notch/avulsion approximately 15% into the lobe depth.",
+    "lobe_sweep_trajectory": "Symmetrical upward-sweeping convex curve originating from the peduncle and terminating in sharp, slightly tapered distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple high-intensity circular pixel clusters (diameters 3-8 pixels) are distributed near the distal tips and scattered across the black-pigmented areas, consistent with sessile organism attachment sites.",
+    "linear_abrasions": "Extensive network of white, non-parallel linear pixel disruptions (rake marks) of varying widths (1-4 pixels) crossing the low-intensity regions of both lobes and the vertical peduncle surface."
+  },
+  "acquired_anomalies_or_scars": "Major trailing edge avulsion (missing tissue segment) on the right lobe. A distinct linear red-spectrum pixel cluster (chromatic anomaly) is visible on the upper quadrant of the left lobe, intersecting a white pigmentation zone.",
+  "other_distinctive_markers": "Extremely high density of linear abrasions creates a complex, high-frequency textural pattern across the entire trailing half of the fluke's visible surface."
+}

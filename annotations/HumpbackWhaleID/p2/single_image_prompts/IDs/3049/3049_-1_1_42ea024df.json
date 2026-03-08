@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (near-black) pigmentation across the ventral surface, with high-intensity (white/light-grey) pixel clusters accounting for approximately 10-15% of the visible area, concentrated at the distal tips and in localized scar patterns.",
+    "spatial_color_mapping": "High-contrast white clusters localized at both the extreme left and right distal tips. A dense field of punctate white spots (mottling) is distributed across the lower regions of both lobes. A distinct, high-contrast linear pattern of intersecting white lines is present on the mid-to-upper portion of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped central notch with an acute interior angle and a high depth-to-width ratio within the bounding box of the central depression.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge boundary. Significant pixel-amplitude peaks are visible on the inner trailing edge of the right lobe and the outer trailing edge of the left lobe, creating a jagged silhouette against the background.",
+    "lobe_sweep_trajectory": "The lobes exhibit a convex sweep with a positive vertical gradient from the median notch toward the distal tips, terminating in a sharp upward curve at the lateral extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed circular and semi-circular high-contrast pixel clusters at the distal tips, consistent with barnacle colonization. Numerous isolated white circular spots ranging from 5 to 20 pixels in diameter are scattered across the dark-pigmented central regions of both lobes.",
+    "linear_abrasions": "A series of distinct, parallel high-contrast linear disruptions (rake marks) observed on the left lobe, oriented diagonally. Shorter, horizontal linear markings are detected on the lateral region of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle encrustations at the tips of both lobes. Significant parallel linear scarring (rake marks) on the left lobe. Possible trailing edge tissue loss or irregular growth on the distal left margin.",
+  "other_distinctive_markers": "The specific grid-like geometric configuration of the rake marks on the upper left lobe serves as a highly unique spatial identifier."
+}

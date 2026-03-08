@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 8:1 ratio of low-intensity (black/dark grey) pixels to high-intensity (white/light grey) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant dark pigmentation field (base pixel intensity < 50) punctuated by high-intensity (intensity > 200) linear and curvilinear streaks (rake marks) and circular/elliptical high-contrast blobs concentrated heavily at the lateral tips of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch; the vertex is partially obscured by water spray, but the interior angle of the visible lobe boundaries is approximately 55 degrees.",
+    "edge_topography_serration_map": "High-frequency irregular serrations along the trailing edge; pixel-amplitude of peaks ranges from 2 to 10 pixels; pattern is continuous across both lobes.",
+    "lobe_sweep_trajectory": "Bilateral convex curves; the right lobe exhibits a more pronounced upward vertical sweep at its distal tip compared to the left lobe."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of high-intensity circular pixel groups located on the leading and trailing edges of the lateral fluke tips, corresponding to barnacle attachment points and subsequent scarring.",
+    "linear_abrasions": "Numerous unaligned white linear pixel disruptions (1-5 pixels in width) cross-hatching the dark pigmentation of both lobes, particularly dense on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Evidence of significant ectoparasitic load (barnacles) visible as raised, high-intensity textured clusters on the fluke tips; extensive scarring from rake marks across the central and lateral areas.",
+  "other_distinctive_markers": null
+}

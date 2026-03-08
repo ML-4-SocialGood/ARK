@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark grey) with a high-to-low intensity ratio of approximately 5:95; high-intensity pixels are limited to localized white ring scars and calcified barnacle clusters.",
+    "spatial_color_mapping": "Solid dark-grey base across all visible surfaces; discrete, high-contrast white circular ring blobs (approx. 5-15 pixels in diameter) are concentrated in the lower-left quadrant of the visible fluke surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression at the convergence of the lobes, estimated at approximately 40-50 degrees relative to the medial axis.",
+    "edge_topography_serration_map": "High-frequency, irregular sawtooth serrations visible along the medial trailing edge of the left lobe; pixel amplitudes of peaks range from 10 to 30 pixels relative to the edge baseline.",
+    "lobe_sweep_trajectory": "Pronounced convex curvature on the distal margins of both lobes, terminating in sharp upward sweeps at the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular, high-contrast white ring patterns (resembling barnacle attachment scars) clustered on the lower and middle regions of the left fluke lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive calcified barnacle colonies (rosettes) present on the leading edges and terminal tips of both lobes; visible white circular scarring from previous parasitic or barnacle attachments on the fluke surface.",
+  "other_distinctive_markers": "Heavy density of barnacle growth on the lobe tips creating a non-linear, high-relief profile distinct from the biological edge of the fluke."
+}

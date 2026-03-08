@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level ratio of high-intensity (white) pixels in the central lobe regions to low-intensity (black) pixels concentrated at the perimeter and trailing edge.",
+    "spatial_color_mapping": "Large contiguous white geometric regions occupy the primary ventral surface of both lobes. A thick, irregular band of black pigmentation follows the trailing edge. Moderate grey-value mottling is visible on the lower-left ventral quadrant."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped central depression with a calculated pixel angle of approximately 42 degrees and high bounding-box depth.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations with distinct sawtooth peaks and valleys detected along the entire trailing edge of both lobes, particularly jagged on the left lobe extremity.",
+    "lobe_sweep_trajectory": "Symmetrical convex curvature fitted to the outer lateral margins of the left and right lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast cluster of circular, high-intensity pixel objects (barnacles) localized at the distal tip of the left lobe. Discrete white circular spots are visible against the black trailing edge of the right lobe.",
+    "linear_abrasions": "Detection of sparse, unaligned dark linear pixel disruptions on the white ventral field of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization on the superior-lateral tip of the left lobe resulting in a structural alteration of the edge silhouette.",
+  "other_distinctive_markers": "Isolated dark focal spot visible on the central white region of the right lobe ventral surface."
+}

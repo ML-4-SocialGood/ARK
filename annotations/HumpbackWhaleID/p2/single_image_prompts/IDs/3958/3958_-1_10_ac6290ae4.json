@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": null,
+    "spatial_color_mapping": null
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, irregular serrations detected along the visible trailing edge of both lobes, exhibiting non-uniform pixel-amplitude variations forming a jagged silhouette.",
+    "lobe_sweep_trajectory": "Convex mathematical curve fitted to the trailing edge of the visible lobes, tapering towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast white pixel clusters detected at the extreme distal tips of both fluke lobes, forming irregular circular groupings.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive high-contrast white clusters localized on the lateral distal margins of both fluke lobes, indicating external bio-fouling or mineralization.",
+  "other_distinctive_markers": null
+}

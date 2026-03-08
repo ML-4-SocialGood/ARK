@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio of approximately 15% high-intensity (white) pixels to 85% low-intensity (black) pixels across the visible 2D ventral surface.",
+    "spatial_color_mapping": "High-intensity contiguous geometric blobs are localized at the distal 20% of the trailing edges on both lobes. Fine-grained high-intensity point-source clusters are distributed sparsely across the medial low-intensity regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a pixel-calculated angle of approximately 65 degrees and a vertical bounding-box depth occupying ~15% of the visible fluke span.",
+    "edge_topography_serration_map": "High-frequency irregular serration pattern along the entire continuous linear boundary; peak-to-valley amplitudes vary from 4 to 12 pixels; highest serration density is observed in the mid-lobe segments.",
+    "lobe_sweep_trajectory": "Outer edges follow a convex parabolic curve; trailing edges exhibit a sigmoid profile, transitioning from concave near the median notch to convex at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast circular pixel clusters detected at the extreme distal tip of the right lobe and as discrete points on the lower-medial surface of the left lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Morphological irregularity on the distal tip of the left lobe characterized by significant deviation from the expected geometric curve and localized brownish-grey pixel intensity variations.",
+  "other_distinctive_markers": null
+}

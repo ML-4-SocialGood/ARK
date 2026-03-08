@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity dark pigment covering >95% of the surface, with localized high-intensity (light-grey to white) pixels restricted to specific scar sites and abrasions.",
+    "spatial_color_mapping": "Continuous solid dark-grey pigmentation across the visible span, punctuated by discrete, high-contrast circular ring-shaped clusters and thin linear streaks mapping primarily to the mid-lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch with a measured central angle of approximately 35 degrees and a bounding-box depth extending roughly 10% of the fluke width.",
+    "edge_topography_serration_map": "Irregular serrated boundary with high-frequency peaks and valleys (amplitude 5-15 pixels) across the longitudinal extent of both trailing edges, isolated from the high-intensity background.",
+    "lobe_sweep_trajectory": "Outer edges of the lobes follow a generally convex curve from the median notch toward the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatially discrete circular ring clusters (diameter 15-30 pixels) visible on both lobes; notably a vertical alignment of three rings near the right side of the notch and several clusters on the left lobe.",
+    "linear_abrasions": "A single prominent, high-intensity near-vertical linear disruption (approximately 160 pixels in length) visible on the left lobe, crossing the dark pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Extensive circular scarring indicative of barnacle attachment sites and a distinct vertical linear mark on the inner left lobe.",
+  "other_distinctive_markers": "The right lobe tip shows a jagged, irregular distal termination compared to the relatively smoother taper of the left lobe tip."
+}

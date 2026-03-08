@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.05:0.95 high-to-low intensity ratio; the fluke surface is predominantly composed of low-intensity (dark) pixels with sparse high-intensity (white) marking pixels.",
+    "spatial_color_mapping": "Contiguous low-intensity (black/dark grey) region covering the entire visible fluke surface; high-intensity linear pixel clusters (scars) are localized primarily in the central region and across the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped depression with a calculated angle of approximately 105 degrees and a shallow depth relative to total lobe height.",
+    "edge_topography_serration_map": "Continuous jagged boundary featuring irregular, low-amplitude serrations; distinct pixel-level indentations are visible along the distal half of both lobes.",
+    "lobe_sweep_trajectory": "Symmetric convex curvature extending from the median notch toward the distal tips of both the left and right lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast white pixel clusters visible at the extreme distal tips of both the left and right lobes.",
+    "linear_abrasions": "Multiple distinct, non-parallel high-intensity linear marks (rake marks) concentrated on the right lobe and near the median notch."
+  },
+  "acquired_anomalies_or_scars": "Healed linear scars across the fluke surface and a ragged, irregular margin on the distal tip of the right lobe.",
+  "other_distinctive_markers": null
+}

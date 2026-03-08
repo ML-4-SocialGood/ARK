@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 75% high-intensity (white) pixels to 25% low-intensity (black/dark grey) pixels on the visible fluke surface.",
+    "spatial_color_mapping": "Dominant white contiguous area across the central and outer lobes. Low-intensity black pigmentation is localized along the entire trailing edge with a jagged interface. A vertical low-intensity pillar is centered at the median notch. Discrete dark focal spots are sparsely distributed across the white regions of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped depression with an approximate internal pixel angle of 48 degrees and a bounding-box depth of approximately 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the entire trailing edge boundary, characterized by irregular peaks and valleys ranging from 2 to 10 pixels in amplitude relative to the local edge vector.",
+    "lobe_sweep_trajectory": "The leading edges exhibit a smooth convex curve tapering toward the tips. The trailing edges follow a complex sigmoidal curve from the median notch to the distal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed, high-contrast, textured pixel clusters representing barnacle colonization at the extreme distal tips of both left and right lobes. Multiple small, raised circular white spots are detected across the flat fluke surface.",
+    "linear_abrasions": "Three distinct, dark, unaligned linear pixel tracks (rake marks) are visible on the distal third of the right lobe, oriented diagonally toward the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle encrustation at both fluke tips; dark linear rake marks on the right lobe ventral surface.",
+  "other_distinctive_markers": "Highly irregular mottled transition zone between the black trailing edge pigmentation and the white central lobe area."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70% low-intensity (black/dark grey) to 30% high-intensity (white/off-white) across the visible ventral surface area.",
+    "spatial_color_mapping": "High-intensity white patches are localized to the distal margins of both lobes, containing dense, irregular low-intensity circular mottling. The central fluke body and peduncle junction are dominated by low-intensity black pixels with sparse, high-intensity circular punctate spots."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated vertex angle of approximately 65 degrees and a bounding-box depth equivalent to roughly 15% of the total vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (2-5 pixel depth) across the majority of the boundary. Significant geometric irregularities and high-amplitude jagged peaks are present on the lateral trailing edge of the left lobe and the distal apex of the right lobe.",
+    "lobe_sweep_trajectory": "Convex mathematical curves fitted to the leading edges, sweeping outward and upward to sharp lateral terminations."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Widespread detection of circular high-contrast pixel clusters; white-on-black circular scars are scattered across the dark medial regions, while black-on-white mottling is concentrated in the distal white patches.",
+    "linear_abrasions": "Several faint, unaligned linear high-contrast pixel disruptions (scratches) are visible on the right-medial fluke surface, cutting across the primary pigmentation."
+  },
+  "acquired_anomalies_or_scars": "A prominent, high-relief, textured brown/rust-colored cluster (likely bio-fouling or barnacles) is attached to the distal tip of the right lobe. Irregular jagged voids on the left trailing edge indicate previous structural trauma.",
+  "other_distinctive_markers": "Asymmetrical trailing edge geometry where the left lobe shows deeper, more frequent scalloping than the right lobe."
+}

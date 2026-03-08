@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low macro-level ratio; approximately 95% of the visible surface consists of low-intensity black pixels (RGB values near 0,0,0) with high-intensity white pixel clusters (RGB values near 255,255,255) accounting for less than 5% of the surface area.",
+    "spatial_color_mapping": "Dominant homogeneous black field across both lobes. High-contrast white geometric blobs are concentrated at the extreme lateral tips (distal edges). Discrete, high-contrast circular rings and thin linear filaments are scattered across the medial and distal surfaces."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped central depression with a calculated angle of approximately 50 degrees and a vertical bounding-box depth constituting roughly 12% of the visible fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the entire trailing edge; pixel-amplitude variations (peaks and valleys) range from 5 to 25 pixels relative to the mean edge trajectory, creating a jagged, non-linear boundary against the water background.",
+    "lobe_sweep_trajectory": "Symmetrical sigmoid-like curve originating at the median notch with a convex sweep that transitions to a slight concavity before tapering to sharp, upward-turned distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High density of circular and semi-circular white pixel clusters (rosette patterns) ranging from 10 to 35 pixels in diameter; dense, high-intensity textured clusters are fixed to the extreme lateral tips of both lobes.",
+    "linear_abrasions": "Sparse detection of thin, unaligned high-intensity linear segments; several vertical and diagonal white scratches are visible on the right lobe, breaking the homogeneous dark pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Extensive textured pixel clusters at the distal tips indicating significant barnacle colonization; widespread circular attachment scars (healed rosettes) distributed across the entire dark surface of both lobes.",
+  "other_distinctive_markers": "Highly unique and dense distribution of distinct white ring-shaped markings against the uniform low-intensity background across the entire fluke surface."
+}

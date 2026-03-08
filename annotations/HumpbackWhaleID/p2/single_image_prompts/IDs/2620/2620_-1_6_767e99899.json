@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1.2:1 ratio of low-intensity (black/dark grey) to high-intensity (white/light grey) pixels; dark pixels dominate the central peduncle attachment and inner lobe regions, while white pixels dominate the distal lobes.",
+    "spatial_color_mapping": "Contiguous low-intensity central region spanning from the notch to the lateral mid-points. High-intensity distal fields on both lobes (left and right) are interrupted by high-frequency, low-intensity circular mottling and irregular focal spots, particularly concentrated at the fluke tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped median notch with a calculated interior angle of approximately 58 degrees; depth of depression is significant, bisecting the lobes cleanly.",
+    "edge_topography_serration_map": "High-frequency, irregular serration profile along the entire trailing edge; pixel-amplitude of peaks is most pronounced on the distal edges, with smoother, lower-amplitude variations approaching the median notch.",
+    "lobe_sweep_trajectory": "Symmetric outward sweep with a moderately concave trailing edge near the notch, transitioning to convex curves at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of circular, high-contrast dark-on-white and white-on-dark rings (barnacle scars) located predominantly on the right fluke tip and along the upper border of the left fluke.",
+    "linear_abrasions": "Several unaligned, fine linear pixel disruptions (rake marks) are visible on the high-intensity surface of the left lobe, ranging from 20 to 50 pixels in length."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular erosion and 'ragged' topography on the extreme distal edge of the right lobe, likely representing cumulative physical trauma or heavy colonization effects.",
+  "other_distinctive_markers": "Pronounced dark 'smudge' or pigmentation bleed located at the 2 o'clock position relative to the center of the left lobe's high-intensity region."
+}

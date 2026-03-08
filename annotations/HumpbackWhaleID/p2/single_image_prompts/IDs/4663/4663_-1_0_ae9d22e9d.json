@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 40:60 ratio of high-intensity white to low-intensity black pixels; high-intensity pixels are concentrated in the medial lobe regions, while low-intensity pixels define the perimeter, notch, and trailing edge.",
+    "spatial_color_mapping": "Two primary contiguous white geometric regions located in the central-medial area of each lobe; characterized by high-contrast black mottling and focal circular spots (0.5-2% of lobe area) distributed within the white fields."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an estimated angle of 40 degrees; depth of depression approximately 15% of the total fluke vertical span.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitude variations of 2-5%; significant jagged peaks at the distal tips; trailing edge shows a continuous but broken linear boundary isolated against the water-surface pixel noise.",
+    "lobe_sweep_trajectory": "Concave trailing edge curve transitioning to sharp convex leading edges at the distal tips; symmetrical upward sweep relative to the central peduncle axis."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of at least 8 distinct circular high-contrast dark clusters on the white field of the left lobe and 5 on the right lobe, consistent with localized surface scarring.",
+    "linear_abrasions": "Detection of four distinct, roughly parallel dark linear pixel disruptions (rake marks) oriented diagonally on the left lobe's white field; additional vertical linear marks on the right lobe medial area."
+  },
+  "acquired_anomalies_or_scars": "Visible parallel linear trauma (rake marks) on the left lobe; irregular jagged edges on the distal tips suggestive of minor physical amputations or persistent edge wear.",
+  "other_distinctive_markers": "Highly unique bold black 'slash' mark located in the mid-lower quadrant of the right lobe's white patch."
+}

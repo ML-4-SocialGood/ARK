@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 2.5:1 ratio of high-intensity (white) to low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "High-intensity white regions occupy approximately 75% of the total fluke area, centered in the mid-lobes. Low-intensity black pixels form a continuous border along the trailing edge and median notch. Distinctive dark pixel stippling/mottling is concentrated in the lower-medial region of the right lobe (approximate coordinates 60% width, 50% height)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated pixel angle of approximately 42 degrees; depth is roughly 15% of the total fluke vertical span.",
+    "edge_topography_serration_map": "Continuous high-frequency, low-amplitude serrations (peaks of 3-7 pixels) along the entire trailing edge boundary, clearly contrasted against the lighter background water.",
+    "lobe_sweep_trajectory": "Both lobes exhibit a convex curve on the trailing edge; the left lobe shows a steeper taper toward a more acute lateral tip compared to the rounded tip of the right lobe."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density cluster of dark punctate pixel groups (2-4 pixel diameter) in the lower-inner quadrant of the right lobe; irregular high-intensity textured protrusions visible on the far-left lateral tip.",
+    "linear_abrasions": "Single prominent dark curvilinear pixel disruption (~15% of lobe height) oriented vertically on the upper third of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Vertical dark linear mark on the right lobe; irregular surface topography and varying pixel intensity on the lateral tips suggesting surface accretion or edge erosion.",
+  "other_distinctive_markers": "Pronounced pigmentation asymmetry; the right lobe contains a significantly larger intrusion of dark pixels from the median notch into the central white field compared to the left lobe."
+}

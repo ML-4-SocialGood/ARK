@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast; approximately 85% low-intensity pixels (black) to 15% high-intensity pixels (white/light-grey) across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant contiguous dark pigmentation across both lobes. Discrete high-intensity white pixel clusters are located in the medial-lower regions of both lobes. High-intensity white bands are visible along the trailing edges of the fluke lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with an approximate 45-degree pixel angle and significant bounding-box depth.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (peaks and valleys) along the entire continuous linear boundary of the trailing edge. A distinct irregular indentation is present on the proximal trailing edge of the left lobe.",
+    "lobe_sweep_trajectory": "Concave mathematical curve fitting the trailing edge, transitioning to upward-sweeping, tapered lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Left lobe medial region contains a distinct high-contrast figure-8 shaped white pixel cluster. Right lobe medial region contains a cluster of three localized white circular pixel formations.",
+    "linear_abrasions": "Left lobe contains two parallel, diagonal linear white pixel disruptions. Right lobe contains a single, faint diagonal linear white pixel disruption."
+  },
+  "acquired_anomalies_or_scars": "Multiple high-contrast circular pixel clusters and distinct linear unaligned marks on both lobes as specified in the localized anomalies section.",
+  "other_distinctive_markers": "The highly unique figure-8 shaped high-intensity pixel formation on the medial left lobe surface."
+}

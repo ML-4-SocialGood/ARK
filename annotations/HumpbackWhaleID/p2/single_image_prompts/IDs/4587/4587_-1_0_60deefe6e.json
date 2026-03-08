@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 85:15 ratio of high-intensity white pixels (central surface) to low-intensity black pixels (trailing margins and tips).",
+    "spatial_color_mapping": "Large contiguous white surface across both lobes. Continuous black banding along the entire trailing edge. Four distinct, isolated dark circular focal spots: one on the mid-left lobe, one near the central notch area, and two on the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a wide-angle vertex and shallow depth relative to the overall lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern across both lobes with prominent jagged peaks and deep vertical indentations (10-25 pixel amplitude) along the interior margins.",
+    "lobe_sweep_trajectory": "Convex upward curve starting from the peduncle attachment, terminating in distinct upward-curving, tapered black tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of four localized dark pixel clusters on the white ventral surface, roughly circular in morphology.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Deep jagged indentations and irregular tearing visible along the trailing edge contour, particularly on the inner half of both lobes.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low-intensity pixels (dark gray/black) dominate the surface area with a secondary distribution of high-intensity pixels (white/light gray) forming an approximate 80:20 macro-level ratio.",
+    "spatial_color_mapping": "Contiguous high-intensity geometric blobs and focal spots are concentrated at the distal tips and along the sub-marginal regions of the trailing edge on both lobes, mapped against a dark-pixel background."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A distinct V-shaped median notch with an approximate internal angle of 65 degrees and a bounding-box depth extending approximately 10% into the total fluke height.",
+    "edge_topography_serration_map": "Continuous, high-frequency serration along the trailing edge boundary with pixel-amplitude variations of 2-6 pixels, presenting as irregular peaks and valleys isolated from the water line.",
+    "lobe_sweep_trajectory": "A convex mathematical curve fitted to the superior edges of both lobes, sweeping upward and outward from the median notch toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Numerous high-contrast circular white pixel clusters (3-10 pixel diameter) distributed across both lobes, with higher densities mapped to the peripheral edges.",
+    "linear_abrasions": "Distinct, unaligned vertical linear pixel disruptions (white rake marks) detected on the medial section of the right fluke lobe."
+  },
+  "acquired_anomalies_or_scars": "Visible localized surface trauma including circular rosette scarring and vertical linear abrasions; trailing edge geometry appears structurally intact without major amputations.",
+  "other_distinctive_markers": null
+}

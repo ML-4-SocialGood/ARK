@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) surface area across the fluke body with localized high-intensity (white) clusters at distal tips; estimated pixel ratio of 85% low-intensity to 15% high-intensity pixels.",
+    "spatial_color_mapping": "High-intensity contiguous geometric blobs are concentrated at the extreme distal tips (upper left and upper right regions); the remaining 2D surface area manifests as a uniform low-intensity dark gray field with minor specular reflections near the central notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped internal angle of approximately 52 degrees; bounding-box depth of the notch occupies approximately 15% of the total vertical fluke silhouette height.",
+    "edge_topography_serration_map": "Trailing edge boundary proximal to the notch is relatively smooth; edge topography transitions to high-frequency, irregular pixel-amplitude variations (5-12 pixel peaks) at the distal tips due to biological colonization.",
+    "lobe_sweep_trajectory": "The outer boundaries of both lobes exhibit a symmetric convex trajectory, following a broad parabolic curve from the central notch to the upper distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of circular and irregular high-contrast pixel groups (barnacle colonization) localized on the extreme distal tips of both left and right lobes.",
+    "linear_abrasions": "A distinct vertical linear pixel disruption traverses the right lobe approximately two-thirds from the center; several faint horizontal striations are visible on the mid-section of the right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle encrustation at both lobe tips; a prominent vertical trailing anomaly (likely biological debris or line) intersects the right lobe extending past the visible boundary.",
+  "other_distinctive_markers": "Visible water spray and high-intensity droplets shedding from the continuous edge boundary against the low-intensity background."
+}

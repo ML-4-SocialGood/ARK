@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) surface with a high-intensity (white) pixel ratio of approximately 1:12, primarily localized to scar clusters and distal tips.",
+    "spatial_color_mapping": "Contiguous low-intensity dark field across 90% of the fluke. Discrete high-intensity circular blobs are mapped in the central and lower-right regions of the right lobe. Diffuse mid-intensity grey mottling is detected in the upper-right quadrant."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped indentation with a calculated pixel angle of approximately 52 degrees and a deep vertical bounding-box recession.",
+    "edge_topography_serration_map": "Left lobe trailing edge exhibits high-amplitude, irregular negative-y deviations (deep notches). Right lobe trailing edge displays a more continuous boundary with higher-frequency, low-amplitude serrations.",
+    "lobe_sweep_trajectory": "Overall upward convex curve from the central notch, transitioning to a sharp upward sweep at the distal lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 12 circular high-contrast pixel clusters (5-15 pixels in diameter) forming a loose spatial constellation on the right lobe.",
+    "linear_abrasions": "Faint, vertical low-contrast linear disruptions are visible in the upper-left quadrant of the fluke surface."
+  },
+  "acquired_anomalies_or_scars": "Multiple deep, irregular traumatic indentations (missing tissue) on the trailing edge of the left lobe. Dense, high-relief calcified clusters (barnacle colonies) are present on both the left and right distal tips.",
+  "other_distinctive_markers": "Heavy barnacle encrustation on the extreme lateral tips creates a high-contrast textured profile distinct from the smoother trailing edge boundary."
+}

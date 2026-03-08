@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low ratio of high-intensity pixels to low-intensity pixels. The visible surface is predominantly low-intensity (black) with sparse high-intensity (white) linear noise and water droplets.",
+    "spatial_color_mapping": "Solid low-intensity contiguous black region across both visible lobes. High-intensity pixel disruptions are present as thin, non-contiguous linear marks and a single circular ring on the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped depression visible at the water line; estimated pixel angle of approximately 40-50 degrees at the point of lobe convergence.",
+    "edge_topography_serration_map": "High-frequency and high-amplitude irregular serrations (jagged peaks) extracted along the entire linear boundary of the trailing edge, ranging from 3 to 12 pixels in depth relative to the edge baseline.",
+    "lobe_sweep_trajectory": "Asymmetrical concave curve; the right lobe exhibits a more acute upward and outward sweep compared to the left lobe, which presents a broader, more horizontal distal expansion."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed, high-contrast, multi-tonal (brown, white, and grey) textured pixel clusters localized at the extreme distal tips (lobes) of both flukes.",
+    "linear_abrasions": "Multiple high-contrast, thin white linear streaks (rake marks) detected. Four prominent vertical lines on the right lobe and three fainter horizontal/diagonal lines on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle encrustation at the lateral tips creating significant irregular mass outside the primary fluke geometry; a distinct white circular annular scar is visible on the lower-medial quadrant of the left lobe.",
+  "other_distinctive_markers": "The combination of extreme marginal serration and the specific white ring-shaped scar on the left lobe provides a unique spatial identifier."
+}

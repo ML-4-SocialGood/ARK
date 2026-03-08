@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 75:25 ratio of high-intensity white/light-grey pixels to low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "A dominant, dark-intensity vertical macro-blob is positioned at the median notch area. Scattered low-intensity micro-blobs and punctate spots are visible across both lobes, with higher concentration along the leading edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped depression with an estimated pixel angle of 145 degrees and a shallow bounding-box depth.",
+    "edge_topography_serration_map": "Irregular trailing edge with moderate-frequency serrations; the left lobe shows several distinct angular peaks, while the right lobe displays a more jagged, irregular topography.",
+    "lobe_sweep_trajectory": "Both lobes exhibit a convex trailing edge curve, tapering towards rounded, slightly upturned tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of at least five distinct annular/circular pixel clusters (dark rings) on the right lobe; several smaller, faint circular clusters on the left lobe, consistent with rosette-style scarring.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "A prominent irregular notch is visible on the trailing edge of the left lobe; multiple circular rosette scars are distributed across the ventral fluke surface.",
+  "other_distinctive_markers": "A distinct vertical dark pigmentation band connects the peduncle attachment point to the median notch, bifurcating the predominantly white ventral surface."
+}

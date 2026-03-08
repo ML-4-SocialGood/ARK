@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The macro-level ratio is very low; the surface is dominated by low-intensity (dark) pixels with high-intensity (white) pixels accounting for less than 5% of the visible surface area.",
+    "spatial_color_mapping": "High-contrast mapping reveals approximately 10-15 distinct white circular ring-shaped ROIs (regions of interest) scattered across the dark pigment of the left lobe; no large-scale contiguous mottling or banding is detected."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "The central depression is a V-shaped notch with a calculated internal pixel angle of approximately 48 degrees and a bounding-box depth comprising ~12% of the visible fluke height.",
+    "edge_topography_serration_map": "The trailing edge exhibits high-frequency, irregular serrations with pixel-amplitudes of variations ranging from 5 to 25 pixels, creating a jagged, non-linear boundary across both lobes.",
+    "lobe_sweep_trajectory": "The trailing edge of the left lobe follows a concave-upward mathematical curve as it extends toward the distal tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular white pixel clusters (diameter 10-20 pixels) are detected across the left lobe, consistent with healed barnacle attachment points.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "A cluster of approximately 6-8 high-relief, brownish-gray calcified organisms (barnacles) is attached to the trailing edge of the right lobe near the distal tip.",
+  "other_distinctive_markers": null
+}

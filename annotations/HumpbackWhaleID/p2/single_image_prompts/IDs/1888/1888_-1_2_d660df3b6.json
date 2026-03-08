@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level ratio; approximately 75% light-intensity (white/light-grey) pixels across the central and lateral lobe surfaces against 25% low-intensity (black) pixels concentrated on trailing edges, distal tips, and the vertical median axis.",
+    "spatial_color_mapping": "Dominant light-grey contiguous surface with high-contrast black focal spots. Distinct clusters include a group of ~5 circular black spots in the lower-left central quadrant, a thick vertical black band along the median notch axis, and continuous black pigmentation following the trailing edge and tapering into solid black distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Narrow V-shaped depression with an acute internal pixel angle of approximately 45 degrees and a bounding-box depth extending roughly 12% into the vertical height of the visible fluke lobes.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude irregular variations along the continuous boundary. Notable peaks and valleys across the inner lobes, with a significant irregular indentation (trauma-related) on the right lobe's trailing edge approximately 40% distance from the center.",
+    "lobe_sweep_trajectory": "Concave mathematical curve fitted to the upper leading edges, sweeping outward and upward toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of multiple small, roughly circular dark pixel clusters (diameter range 5-15 pixels) distributed across the light ventral surface, with higher density in the lower-central sections of both lobes.",
+    "linear_abrasions": "Detection of several thin, unaligned diagonal dark linear marks on the left lobe surface, disrupting the uniform light-grey pigmentation mapping."
+  },
+  "acquired_anomalies_or_scars": "Pronounced irregular notch/tissue loss on the trailing edge of the right lobe, distinctive from primary serration patterns.",
+  "other_distinctive_markers": "Unique trapezoidal configuration of four large, high-contrast circular black spots located in the lower-left quadrant of the left lobe."
+}

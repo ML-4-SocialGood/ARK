@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 75:25 ratio of high-intensity white to low-intensity black/dark-gray pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant contiguous high-intensity white regions occupy the central areas of both lobes, bifurcated by a dark vertical band at the peduncle. Low-intensity black pigment forms a continuous border along the trailing edge and distal tips, with significant dark linear streaks and amorphous mottling distributed across the white fields."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated pixel angle of approximately 52 degrees and a bounding-box depth relative to the lobe peaks of roughly 15% of total fluke height.",
+    "edge_topography_serration_map": "Irregular serration profile; high-amplitude, low-frequency jagged peaks are concentrated at the distal tips, transitioning to high-frequency, low-amplitude micro-serrations along the mid-lobe trailing edge, and smoothing toward the median notch.",
+    "lobe_sweep_trajectory": "Concave upward sweep along the trailing edge from the notch to the tips; the leading edge exhibits a primary convex curvature."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of small, circular low-intensity spots on the lower right lobe; high-contrast white circular spots (rosettes) are visible against the black pigmentation of the distal tips.",
+    "linear_abrasions": "Extensive network of dark, unaligned linear pixel disruptions. Multiple parallel groupings (3-5 lines per set) indicative of rake marks are visible diagonally on the left lobe and vertically/diagonally on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent predatory rake marks across both lobes; irregular jagged morphology on the distal trailing edge of the right lobe suggesting previous tissue loss.",
+  "other_distinctive_markers": "Dense, high-contrast vertical striations emanating from the insertion point of the peduncle, fanning out into the lower central region of the fluke."
+}

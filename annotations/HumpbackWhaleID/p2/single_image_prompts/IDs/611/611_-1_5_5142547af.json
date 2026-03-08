@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "0.18:0.82 (Ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral surface area).",
+    "spatial_color_mapping": "Contiguous high-intensity (white) blobs are located at the lateral terminal tips. Left lobe distal tip features a cluster of circular white rosettes. Right lobe distal tip shows a solid high-intensity band along the trailing edge. Central and lower regions are characterized by low-intensity black pixels."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Approximate 64-degree angle; V-shaped depression with a bounding-box depth of approximately 14% relative to total fluke height.",
+    "edge_topography_serration_map": "High-frequency, variable-amplitude serrations. Lateral distal margins exhibit peaks of 8-20 pixel amplitude. Medial sections near the notch exhibit lower frequency and smaller amplitudes (<5 pixels).",
+    "lobe_sweep_trajectory": "Convex curve originating from the median notch and sweeping upwards and outwards toward the lateral terminal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense detection of approximately 45+ circular, high-contrast white pixel clusters (rosettes) concentrated on the left terminal tip and along the trailing edges of both lobes.",
+    "linear_abrasions": "Detection of multiple unaligned, vertical and diagonal linear high-intensity disruptions (rake marks) primarily located in the lower-central dark quadrants of the ventral surface."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle rosette scarring on distal tips and various linear rake marks on the ventral surface.",
+  "other_distinctive_markers": "Highly irregular, saw-tooth jagged profile of the right lobe distal tip compared to the left."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark grey) pixels comprising approximately 85% of the surface, contrasted with high-intensity (white) mottling across the remaining 15%.",
+    "spatial_color_mapping": "High-intensity pixel clusters are localized primarily on the distal tips of both lobes and along the superior trailing edge margins. The central fluke body and basal regions maintain a contiguous low-intensity dark profile."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with an approximate internal angle of 45 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitudes varying between 2 and 10 pixels along the entire boundary. A distinct, deeper indentation is visible on the outer third of the left lobe's trailing edge.",
+    "lobe_sweep_trajectory": "Sigmoidal curve characterized by an initial convexity originating from the median notch, transitioning into a concave sweep toward the tapered distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple high-intensity circular pixel clusters indicative of scarring are visible on the distal tip of the right lobe and along the upper margin of the left lobe.",
+    "linear_abrasions": "Detection of several thin, near-vertical high-contrast linear tracks visible on the surface of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive white pigmentation scarring at both distal tips and substantial irregular erosion/jaggedness along the trailing edge of the left lobe.",
+  "other_distinctive_markers": null
+}

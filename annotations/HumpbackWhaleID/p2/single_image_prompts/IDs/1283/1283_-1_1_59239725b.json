@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.70:0.30 ratio of high-intensity white to low-intensity black pixels.",
+    "spatial_color_mapping": "Dominant contiguous white regions occupy the central interior of both lobes. A high-contrast black pixel cluster originates at the median notch and extends onto the inner right lobe. Symmetrical dark vertical bands and mottling are mapped to the distal margins of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped depression with an estimated pixel angle of 72 degrees; notch depth occupies approximately 15 percent of the vertical fluke bounding box.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the full trailing edge; right lobe exhibits higher-amplitude jagged peaks (estimated 5-12 pixels) compared to the left lobe.",
+    "lobe_sweep_trajectory": "The trailing edge follows a broadly convex trajectory, transitioning to a slight concavity near the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Several small, dark, roughly circular pixel clusters are detected on the high-intensity white field of the right lobe; a single high-contrast cluster is visible on the inner trailing edge of the left lobe.",
+    "linear_abrasions": "Distinct parallel linear pixel disruptions (rake marks) are detected on the distal edges of both lobes: a five-track set on the far right and a three-track set on the far left."
+  },
+  "acquired_anomalies_or_scars": "Extensive rake mark scarring on lateral extremities; irregular dark protrusion or debris visible on the upper trailing boundary of the right lobe.",
+  "other_distinctive_markers": "High-contrast vertical pigmentation stripes at the distal-most tips resembling focalized banding."
+}

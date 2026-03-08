@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity pixel range (estimated 10-40 on 8-bit scale); near-zero ratio of high-intensity pixels on the primary fluke surface.",
+    "spatial_color_mapping": null
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with an estimated interior angle of 95 degrees; depth is minimal relative to the horizontal span.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the full extent of the trailing edge; peak-to-valley variance typically between 3-15 pixels.",
+    "lobe_sweep_trajectory": "Convex curvature originating from the median notch and extending toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of high-contrast, roughly circular pixel groups (off-white) localized at the extreme lateral tips of both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Heavy accumulation of high-contrast calcified structures localized at the distal margins of the fluke lobes.",
+  "other_distinctive_markers": "Presence of multiple avian silhouettes in the mid-ground background and a visible shoreline at the top of the frame."
+}

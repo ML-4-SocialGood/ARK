@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast ratio characterized by a dominant high-intensity white central field (~85%) surrounded by a low-intensity black peripheral margin (~15%).",
+    "spatial_color_mapping": "Large contiguous white geometric field across both lobes; thin black banding (approx. 5-15 pixel width) along the entire trailing edge; small, discrete low-intensity circular clusters (mottling) located on the distal-right and medial-left white surfaces."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped central depression with a sharp vertex angle; depth extends significantly into the fluke body.",
+    "edge_topography_serration_map": "Continuous high-frequency serrations with variable pixel-amplitude (1-5 pixels) along the trailing boundary; a sequence of larger irregular peaks is visible on the distal third of both lobes.",
+    "lobe_sweep_trajectory": "Convex curve fitted to the trailing edge, tapering to sharp points at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of localized dark pixel clusters on the high-intensity white background of the right lobe distal region and lower medial left lobe region.",
+    "linear_abrasions": "Faint vertical dark linear disruptions visible on the white surface directly adjacent to the central notch."
+  },
+  "acquired_anomalies_or_scars": "A significant irregular indentation (notched tissue loss) on the outer trailing edge of the right distal tip, creating a secondary notch profile.",
+  "other_distinctive_markers": "Presence of small isolated dark spots within the central white field of the right lobe that do not align with the peripheral banding."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 85-90% high-intensity pixels (white) and 10-15% low-intensity pixels (black) localized to edges, the central notch, and focal spots.",
+    "spatial_color_mapping": "A solid black band defines the trailing edge. A central black vertical pillar connects the peduncle to the median notch. The left lobe contains a diagonal cluster of five distinct dark ovoid spots. The right lobe contains three smaller, isolated dark spots positioned medially."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped depression with a calculated interior angle of approximately 105 degrees and a vertical depth comprising roughly 12% of the total fluke height.",
+    "edge_topography_serration_map": "Continuous high-frequency serrations along the trailing edge boundary; pixel-amplitude of peaks ranges from 5 to 12 pixels, with maximum density and irregularity observed at the distal tips.",
+    "lobe_sweep_trajectory": "The trailing edge follows a generally convex curve from the median notch to the tips, with a slight distal taper."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-contrast, textured grey/brown pixel masses (barnacles) localized at the extreme lateral tips of both lobes. Multiple circular black pigmentation clusters are visible on the ventral surface of both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization at the distal lobe tips; irregular dark pigmentation or trauma-induced marking at the base of the fluke near the notch.",
+  "other_distinctive_markers": "Unique asymmetric constellation of black focal spots on the predominantly white ventral surface, particularly the 5-spot cluster on the left lobe."
+}

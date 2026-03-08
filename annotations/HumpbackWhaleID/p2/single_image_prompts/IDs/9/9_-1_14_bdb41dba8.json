@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark gray) across approximately 85-90% of visible surface; high-intensity (white) pixels are localized to the distal tips and specific focal clusters.",
+    "spatial_color_mapping": "High-intensity contiguous white cluster located at the distal tip of the left lobe. Discrete circular white blobs mapped to the central ventral region. Right lobe displays diffused low-contrast gray mottling along the trailing edge boundary."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated pixel angle of approximately 42 degrees; notch depth occupies roughly 12% of the vertical bounding box of the fluke.",
+    "edge_topography_serration_map": "High-frequency serration pattern on the right lobe trailing edge with 7-9 distinct peaks (amplitudes ranging from 4-12 pixels). Left lobe edge is relatively smoother except for the distal tip which exhibits a jagged, multi-pointed termination.",
+    "lobe_sweep_trajectory": "Left lobe exhibits a strong concave curve along the upper boundary leading to a sharp upward distal sweep. Right lobe presents a more linear, less-accentuated sweep toward the tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed cluster of high-contrast white circular pixels at the extreme left lobe tip. Three isolated circular white pixel clusters visible in the mid-left lobe ventral field.",
+    "linear_abrasions": "Faint, unaligned linear pixel disruptions visible on the right lobe, oriented diagonally toward the median notch."
+  },
+  "acquired_anomalies_or_scars": "Extensive high-contrast scarring at the left distal tip; irregular indentation on the right lobe trailing edge approximately 1/3 distance from the notch.",
+  "other_distinctive_markers": "A singular, deeply recessed serration gap located immediately adjacent to the right side of the median notch."
+}

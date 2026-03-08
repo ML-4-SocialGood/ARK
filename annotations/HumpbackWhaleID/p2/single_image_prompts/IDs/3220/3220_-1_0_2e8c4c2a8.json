@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 35:65 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Distal regions of both lobes consist of high-intensity white fields. The left distal lobe contains 3-4 distinct vertical low-intensity striations. The right distal lobe features a high-density mottled transition zone where low-intensity black pixel clusters intersperse with the white field. The central and basal fluke regions are uniform low-intensity black."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a pixel-calculated internal angle of approximately 75 degrees and a bounding-box depth of approximately 18% of the total lobe height.",
+    "edge_topography_serration_map": "Irregular, multi-frequency serrations along the trailing edge; right lobe exhibits higher pixel-amplitude peaks and valleys (estimated 10-15 pixel variance) compared to the left lobe trailing edge.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a strong concave trajectory from the distal tips toward the median notch, while leading edges (outer margins) follow a smooth convex curve."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Sparse clusters of roughly circular high-intensity white pixels (diameter 3-8 pixels) located in the lower-central black pigmented area of the fluke.",
+    "linear_abrasions": "Three distinct, unaligned vertical dark linear marks crossing the high-intensity white distal surface of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Small irregular notch at the distal terminus of the right lobe trailing edge; dark, irregular pixel cluster protruding from the far left lobe tip.",
+  "other_distinctive_markers": null
+}

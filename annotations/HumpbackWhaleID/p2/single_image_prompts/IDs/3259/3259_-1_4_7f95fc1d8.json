@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio of high-intensity (white) to low-intensity (black/dark grey) pixels, estimated at 1:7 across the visible surface area.",
+    "spatial_color_mapping": "Dominant dark field with a dense distribution of small (1-5 pixel radius) high-intensity white punctate clusters across both lobes; no large contiguous blobs are present, but clusters show higher density toward the distal margins."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide V-shaped depression with an approximate angle of 110 degrees; the lower vertex depth is partially obscured by water turbulence.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitudes ranging from 4 to 12 pixels, creating a jagged boundary across the entire trailing edge.",
+    "lobe_sweep_trajectory": "Lobes exhibit an upward-curving trajectory with a concave lower margin and a jagged, generally convex trailing edge sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Globally distributed high-contrast circular pixel clusters (rosettes) across both lobes, with significant clustering on the distal third of each lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Highly irregular, thickened pixel masses at the extreme distal tips of both lobes, indicating significant localized tissue accretion or permanent trauma.",
+  "other_distinctive_markers": null
+}

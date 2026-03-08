@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 40% high-intensity white pixels concentrated in the central lobe regions and 60% low-intensity black pixels along the periphery and within mottled zones.",
+    "spatial_color_mapping": "Two large, irregular white geometric blobs are located in the center of the left and right lobes. The left lobe blob is surrounded by heavy low-intensity mottling along the inferior edge. The right lobe blob contains dense, high-frequency black speckling on its medial (inner) boundary. The lateral tips and trailing edges consist of solid low-intensity black pixels."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A shallow V-shaped depression with an approximate pixel angle of 120 degrees; the precise vertex point is partially obscured by water spray and motion blur.",
+    "edge_topography_serration_map": "Extremely jagged trailing edge characterized by high-amplitude, irregular serrations. Visible peaks extend 5-10 pixels beyond the median edge line, interspersed with sharp valleys, particularly prominent on the superior margin of the left lobe.",
+    "lobe_sweep_trajectory": "Convex curvature across the superior trailing edges, terminating in acute, sharp-angled distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Group of 4-6 high-contrast circular white pixel clusters (approximately 3-5 pixels in diameter) localized on the extreme distal tip of the left lobe.",
+    "linear_abrasions": "A series of distinct, unaligned high-intensity linear pixel strings (rake marks) are visible on the right lobe, oriented diagonally and cutting across the primary white patch."
+  },
+  "acquired_anomalies_or_scars": "Notable irregular excision or deep notch on the upper trailing edge of the left lobe; multiple parallel linear rake marks present on the right lobe surface.",
+  "other_distinctive_markers": "Extensive 'salt-and-pepper' mottling effect where high-intensity and low-intensity pixels are intermixed at the boundaries of the central white patches."
+}

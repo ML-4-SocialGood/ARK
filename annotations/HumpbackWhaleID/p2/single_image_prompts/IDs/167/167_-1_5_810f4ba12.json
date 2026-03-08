@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution. Low-intensity (black) pixels comprise approximately 72% of the visible surface, with high-intensity (white) pixels forming the remaining 28% in localized patterns.",
+    "spatial_color_mapping": "Primary dark contiguous mass across proximal and central lobes. High-intensity white pixel clusters are concentrated in the distal half of the right lobe (image-right) as large contiguous circular blobs. The left lobe (image-left) displays smaller, fragmented high-intensity pixel islands along the trailing boundary."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped depression with a calculated pixel angle of approximately 112 degrees. The vertex of the notch is partially obscured by high-intensity (white) water spray pixels.",
+    "edge_topography_serration_map": "Continuous, high-frequency serration along the entire trailing boundary. Pixel-amplitude of peaks ranges from 4 to 16 pixels. The right lobe distal edge exhibits higher amplitude 'teeth' compared to the left lobe.",
+    "lobe_sweep_trajectory": "Trapezoidal orientation with a distinct concave curvature along the trailing edge boundary leading to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular high-contrast white pixel clusters detected; most prominent concentration is on the distal right lobe. Scattered smaller circular disruptions appear in the lower-central region of the fluke.",
+    "linear_abrasions": "Three distinct, unaligned high-intensity linear marks (white) visible on the left lobe, crossing the black pixel base at approximately 45-degree angles."
+  },
+  "acquired_anomalies_or_scars": "Irregular, jagged pixel-loss pattern on the extreme distal tip of the right lobe (image-right), deviating from the expected geometric lobe curve.",
+  "other_distinctive_markers": "A distinct, isolated circular high-intensity 'ring' pattern located in the lower-right quadrant of the central fluke body."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast; dominant high-intensity white central regions bordered by low-intensity black perimeter and trailing edge.",
+    "spatial_color_mapping": "Contiguous high-intensity white areas covering the central 80% of both lobes. Low-intensity black pigmentation concentrated at the distal tips and along the trailing edge, with discrete dark mottling clusters on the right distal fluke surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped depression at the center; angle approximately 50-60 degrees.",
+    "edge_topography_serration_map": "Highly irregular trailing edge with frequent low-amplitude serrations (peaks and valleys) across the entire visible boundary, with larger indentations on the left lobe's medial edge.",
+    "lobe_sweep_trajectory": "Trailing edge displays a concave curve from the median notch extending towards the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, discrete low-intensity pixel clusters localized near the distal tips, particularly visible on the right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Visible irregular indentation on the left lobe's trailing edge, approximately 40% distance from the notch to the tip, deviating from the standard serration frequency.",
+  "other_distinctive_markers": "Alphanumeric string 'HWC# 1543' present as a high-contrast overlay in the bottom right foreground area."
+}

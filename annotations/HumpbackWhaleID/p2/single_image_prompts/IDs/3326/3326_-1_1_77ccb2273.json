@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Dominantly low-intensity (dark grey to black) with a macro-level ratio of approximately 1:5 of high-intensity white pixels to low-intensity surface pixels.",
+    "spatial_color_mapping": "Contiguous dark-pigmented surface with a vertical dark band extending from the median notch. Scattered high-intensity white micro-blobs (diameter < 5 pixels) are distributed across the medial and distal regions of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate internal angle of 70 degrees and a vertical depth comprising roughly 12% of the central lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the trailing boundary with pixel-amplitude variations ranging from 2 to 8 pixels against the water background.",
+    "lobe_sweep_trajectory": "Concave trailing edge curve meeting at a sharp central notch; the leading edge exhibits a smooth convex sweep toward the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-contrast white circular pixels (diameters 3-10 pixels) distributed across the central and left-medial regions of the fluke surface.",
+    "linear_abrasions": "Detection of multiple parallel, dark-pigmented linear disruptions (rake marks) oriented diagonally across the surface of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent diagonal rake marks across the left lobe surface; irregular, jagged pixel termination at the tip of the right lobe.",
+  "other_distinctive_markers": null
+}

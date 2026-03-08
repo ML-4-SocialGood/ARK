@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast between large white regions (~220-250 pixel intensity) and black borders/markings (~10-40 pixel intensity); estimated ratio of visible high-intensity to low-intensity pixels is 1.4:1.",
+    "spatial_color_mapping": "Central contiguous white field on the left lobe [approx. x=200-450, y=350-550] and a partial white field on the right lobe [approx. x=680-880, y=450-550], both interrupted by irregular, low-intensity black pixel clusters and curvilinear streaks."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, irregular serration profile along the trailing edges; pixel-amplitude of peaks and valleys varies between 8 and 22 pixels, creating a deeply jagged boundary against the water background.",
+    "lobe_sweep_trajectory": "Visible outer edges of the fluke lobes exhibit a strong upward-sweeping convex curve towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, dark, textured pixel clusters representing barnacle colonization at the distal tips of both lobes, particularly the apex of the left lobe.",
+    "linear_abrasions": "Distinct, thin, dark curvilinear pixel disruptions (rake marks) crossing the white ventral surface of the left lobe, primarily oriented diagonally."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle encrustation at the distal tips and significant irregularity in the trailing edge topography suggesting cumulative physical wear or minor trauma.",
+  "other_distinctive_markers": "Highly unique 'splatter-style' pigmentation pattern consisting of chaotic, thin black lines overlaid on the white ventral field."
+}

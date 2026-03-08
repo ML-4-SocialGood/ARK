@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio of approximately 1:9 (high-intensity white/grey to low-intensity black pixels) across the visible ventral surface.",
+    "spatial_color_mapping": "High-contrast grey-scale mottling and contiguous geometric blobs are localized at the distal-upper regions of both the left and right lobes; the central and proximal regions are characterized by uniform low-intensity black pixels."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped central depression with an estimated pixel angle of 135-145 degrees and minimal bounding-box depth relative to fluke width.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude irregular peaks and valleys detected along the entire trailing edge; a distinct macro-scale indentation is present on the distal margin of the left lobe.",
+    "lobe_sweep_trajectory": "Convex curvature following the trailing boundary from the median notch to the distal tips, terminating in sharp, tapered points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-contrast white pixels forming roughly circular patterns at the distal margins of both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "A significant irregular notch or jagged indentation is visible on the upper trailing edge of the left lobe near the distal tip.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Visible surface displays a ratio of approximately 65% high-intensity (white) to 35% low-intensity (black) pixels.",
+    "spatial_color_mapping": "Centralized low-intensity (black) pigmentation extending from the peduncle in a bilateral symmetric shape; lateral lobes are predominantly high-intensity (white) with scattered stochastic low-intensity circular spots and a continuous black margin along the trailing edge and tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped central depression with a calculated interior angle of approximately 50 degrees and a depth ratio of 0.15 relative to fluke height.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the entire trailing boundary; peaks and valleys range from 5 to 20 pixels in amplitude, isolated clearly against the water background.",
+    "lobe_sweep_trajectory": "Trailing edge exhibits a concave sweep trajectory curving upwards towards the distal tips; partial leading edge shows convex curvature."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular high-contrast dark pixel clusters (rosettes) are mapped across the high-intensity regions, with higher density on the lower-left lobe.",
+    "linear_abrasions": "Several distinct, non-parallel dark linear pixel disruptions (scratches) are detected on the right lobe, primarily oriented diagonally."
+  },
+  "acquired_anomalies_or_scars": "Extensive three-dimensional texture anomalies representing barnacle colonization on both distal tips; numerous dark circular scars consistent with parasitic attachment marks across the white ventral surface.",
+  "other_distinctive_markers": "Localized heavy encrustation of multi-colored textured pixels at the extreme tips, creating a significant deviation from the natural fluke edge contour."
+}

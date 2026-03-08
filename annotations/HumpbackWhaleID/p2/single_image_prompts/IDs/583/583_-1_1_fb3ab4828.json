@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark grey/black) across approximately 85% of the visible surface; high-intensity (white) pixels are localized to the distal tips and specific segments of the trailing edge.",
+    "spatial_color_mapping": "Central and medial fluke regions exhibit solid low-intensity pigmentation. High-intensity contiguous mottling and white focal spots are mapped to the far-left and far-right distal tips. Fine-grained white pixel clusters are scattered across the lower leading edge area."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible shallow V-shaped depression; approximate pixel angle of 120 degrees; bounding-box depth is minimal relative to overall lobe width.",
+    "edge_topography_serration_map": "High-frequency irregular serration pattern along the entire trailing edge; peaks and valleys range from 5 to 20 pixels in amplitude, creating a jagged, sawtooth-like linear boundary.",
+    "lobe_sweep_trajectory": "Convex curve trajectory from the median notch extending toward the distal tips; right lobe shows a slightly steeper upward sweep than the left lobe."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-intensity circular and semi-circular pixel groups detected at the distal tips, specifically on the far right and far left extremities.",
+    "linear_abrasions": "Faint, unaligned diagonal linear disruptions visible on the medial-right lobe surface, traversing the dark pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular tissue loss and jagged scarring on the trailing edge of both lobes; heavy white scarring consistent with barnacle attachment concentrated on the extreme distal tips.",
+  "other_distinctive_markers": null
+}

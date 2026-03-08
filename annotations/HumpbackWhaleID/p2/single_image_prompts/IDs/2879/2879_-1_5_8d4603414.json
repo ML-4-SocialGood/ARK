@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 45% high-intensity (white) to 55% low-intensity (black) distribution across the visible fluke surface.",
+    "spatial_color_mapping": "Distal lobe regions exhibit solid high-intensity white patches. Left distal tip shows white saturation from the corner extending 30% inward. Right distal tip shows white saturation extending 40% inward. Central region and inner trailing edge regions consist of dense low-intensity black pixels with fine-grained white speckling (salt-and-pepper mottling)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated internal angle of approximately 72 degrees relative to the lobe midlines.",
+    "edge_topography_serration_map": "Outer distal edges exhibit low-amplitude, high-frequency serrations. Serration amplitude increases to 8-12 pixels as the contour approaches the median notch, creating a jagged profile.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge leading to pointed distal tips; leading edge (lower boundary) shows a consistent convex sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple small, high-contrast white circular clusters (approx. 5-10 pixels) detected within the dark pigmentation of the right inner lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced transition zone of high-frequency speckling at the boundary between solid white distal patches and the black central core."
+}

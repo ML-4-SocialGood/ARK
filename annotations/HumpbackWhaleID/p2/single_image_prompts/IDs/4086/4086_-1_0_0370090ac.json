@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 45% high-intensity (beige/white) to 55% low-intensity (black/dark gray) pixel distribution across the visible fluke surface.",
+    "spatial_color_mapping": "Low-intensity dark pigmentation dominates the central axial region and follows the trailing edge. Large contiguous high-intensity beige/white patches are located mid-lobe on both sides. The viewer-right lobe exhibits high-frequency dark mottling within the light patch, while the viewer-left patch is more uniform."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate internal angle of 65 degrees and a bounding-box depth occupying roughly 15% of the total vertical fluke span.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the entire trailing edge boundary. Significant jagged peaks and valleys (3-8 pixel amplitude) are consistent across both lobes, with a notable deeper notch on the viewer-left trailing edge approximately one-quarter distance from the tip.",
+    "lobe_sweep_trajectory": "The trailing edge follows a slightly convex trajectory from the median notch toward the distal tips, while the leading edge visible above the water line shows a concave sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, dark circular pixel clusters are detected at the extreme distal tips and along the leading edge margins of both lobes.",
+    "linear_abrasions": "Three distinct, near-parallel high-contrast (white) linear marks are visible on the low-intensity region of the viewer-left lobe. A single thin, horizontal linear mark is visible on the viewer-right low-intensity central region."
+  },
+  "acquired_anomalies_or_scars": "Multiple parallel linear rake marks on the central dark region; irregular notches along the trailing edge indicate localized tissue loss.",
+  "other_distinctive_markers": "Uniform yellowish-beige pixel tinting across all high-intensity regions, contrasting with standard white pigmentation."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:5 ratio of high-intensity white/grey pixels to low-intensity black pixels across the total visible surface.",
+    "spatial_color_mapping": "The left lobe distal region contains a large, wedge-shaped region of heterogeneous grey-white mottled pixels. The right lobe is predominantly uniform low-intensity black with minimal pixel variance."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency serrations with a pixel-amplitude of 3-10 pixels along the entire trailing edge boundary; right lobe exhibits larger, irregular jagged peaks near the distal end.",
+    "lobe_sweep_trajectory": "The trailing edge follows a concave sweep from the central notch area transitioning to a moderate convex curve toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-intensity white circular pixel groups (barnacles) are concentrated on the distal tips of both lobes; the right tip contains a dense grouping of approximately 10-14 discrete points.",
+    "linear_abrasions": "Subtle vertical linear pixel disruptions are visible on the surface of the right lobe, appearing as low-contrast parallel streaks."
+  },
+  "acquired_anomalies_or_scars": "Notable irregular V-shaped traumatic indentation on the trailing edge of the right lobe, distinct from natural serrations; significant barnacle colonization on both distal lobe tips.",
+  "other_distinctive_markers": null
+}

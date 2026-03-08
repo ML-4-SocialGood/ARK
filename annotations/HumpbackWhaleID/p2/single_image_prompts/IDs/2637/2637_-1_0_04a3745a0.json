@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast ratio; approximately 65% high-intensity white pixels localized in the medial/distal lobe areas vs 35% low-intensity black pixels along the periphery and central hinge.",
+    "spatial_color_mapping": "Dominant contiguous white regions in the center of both lobes. A thick black band borders the entire trailing edge and tips. A central black wedge originates from the notch, extending laterally into both lobes with mottled, high-frequency transition zones."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide V-shaped depression with a calculated angle of approximately 115 degrees; the vertex of the notch is partially obscured by water turbulence and spray.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations extracted along the trailing edge, characterized by sharp peaks occurring at roughly 8-12 pixel intervals across the linear boundary.",
+    "lobe_sweep_trajectory": "Convex curve trajectory along the trailing edges, tapering into sharp, elongated tips at the terminal ends of the fluke lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Sparse detection of dark, roughly circular pixel clusters located on the white distal regions, primarily visible on the right lobe (viewer perspective).",
+    "linear_abrasions": "Multiple dark linear pixel disruptions; specifically, a series of parallel vertical rake marks on the right lobe and one distinct diagonal abrasion on the proximal left lobe."
+  },
+  "acquired_anomalies_or_scars": "Distinct dark linear rake marks on the ventral surface; irregular, jagged pixel topography on the outer edge of the right terminal tip suggesting prior tissue loss.",
+  "other_distinctive_markers": "Feathered edge transition between the central black pigmentation wedge and the white ventral fields, creating a highly specific gradient pattern."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The visible surface is approximately 75% low-intensity (black) and 25% high-intensity (white/mottled) pixels, concentrated primarily at the trailing edges and distal tips.",
+    "spatial_color_mapping": "High-intensity white mottling forms contiguous bands along the trailing edge of both lobes; a singular, distinct high-contrast circular blob is located on the right lobe approximately 30% inward from the distal tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "The central depression is a V-shaped notch with an approximate internal pixel angle of 55 degrees and a bounding-box depth of roughly 10% of the fluke's vertical height.",
+    "edge_topography_serration_map": "High-frequency serrations with variable pixel-amplitudes; the largest peaks (approx 15-20 pixels high) are situated on the interior margins of both lobes adjacent to the median notch.",
+    "lobe_sweep_trajectory": "The trailing edges follow a generally convex curve from the median notch to the distal tips, characterized by high-amplitude geometric noise due to serrations."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of circular white pixel aggregates are detected at the extreme distal tips and along the upper-left margin, exhibiting high contrast against the dark base.",
+    "linear_abrasions": "Faint, unaligned linear pixel disruptions are visible on the mid-section of the left lobe, appearing as low-contrast grey-on-black marks."
+  },
+  "acquired_anomalies_or_scars": "A brownish-tan pixel cluster and irregular structural protrusion is visible on the upper margin of the right distal tip.",
+  "other_distinctive_markers": "A high-intensity white 'eye-spot' feature is isolated within the dark pixel field of the right lobe interior."
+}

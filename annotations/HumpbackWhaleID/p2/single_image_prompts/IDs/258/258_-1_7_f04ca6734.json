@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 60% low-intensity (black) pixels in the central region and 40% high-intensity (white) pixels on the lateral lobes.",
+    "spatial_color_mapping": "Central low-intensity zone extends from the peduncle to the trailing edge, forming a wide 'U' shape. Lateral lobes are high-intensity (white) with significant low-intensity mottling. Notable focal dark streaks: a vertical line on the left lobe and a cluster of diagonal parallel lines on the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with a calculated internal angle of approximately 38 degrees and a vertical depth comprising 20% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular macro-serrations present along the entire continuous boundary. Peaks vary in pixel-amplitude from 5 to 18 pixels, creating a jagged, non-uniform profile.",
+    "lobe_sweep_trajectory": "Sigmoidal trajectory; concave curvature adjacent to the median notch, transitioning to convex across the mid-lobe, and ending in sharp, acuminate distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial clusters of small, dark circular pixel groups (scars) located on the distal white regions of both lobes. Light-colored circular focal points are also detectable within the central dark pigmentation.",
+    "linear_abrasions": "Detection of a prominent vertical dark linear mark on the left mid-lobe and a series of parallel diagonal linear marks (rake-like) on the right mid-lobe."
+  },
+  "acquired_anomalies_or_scars": "Parallel rake marks on the right ventral lobe suggesting historical interaction. Irregularities in serration amplitude along the trailing edge suggest localized mechanical tissue loss.",
+  "other_distinctive_markers": "Highly asymmetrical pigmentation patterns; the right lobe exhibits dense linear streaking while the left lobe displays more solid white areas with sparse mottling."
+}

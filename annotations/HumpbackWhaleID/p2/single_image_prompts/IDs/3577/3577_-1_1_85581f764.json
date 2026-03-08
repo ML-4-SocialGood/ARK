@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio with approximately 75% low-intensity (black) pixels across the center and lower margins and 25% high-intensity (cream/white) pixels concentrated at the distal tips.",
+    "spatial_color_mapping": "Distal 1/3 of both lobes contains contiguous high-intensity cream-colored blobs heavily mottled with black speckling; the central region and leading edges consist of a solid low-intensity black field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with a calculated angle of approximately 85 degrees and a moderate bounding-box depth relative to the fluke width.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations across the entire trailing edge; a significant macro-level indentation is present on the right lobe trailing edge approximately 15% from the distal tip.",
+    "lobe_sweep_trajectory": "Convex trajectory along the lower boundary with a slightly concave sweep along the trailing edge leading to pointed distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of small, circular dark-pixel spots are visible within the white distal regions of both lobes.",
+    "linear_abrasions": "Three distinct, parallel vertical white linear marks (rake marks) are detected in the lower-right quadrant of the central black field."
+  },
+  "acquired_anomalies_or_scars": "A prominent semi-circular indentation or notch is visible on the trailing edge of the right lobe, indicating historical tissue loss.",
+  "other_distinctive_markers": "Visible yellowish-tan pixel staining (likely bio-fouling/diatoms) overlaid on the high-intensity white regions of the distal tips."
+}

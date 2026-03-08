@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio of approximately 75% low-intensity (black/dark grey) to 25% high-intensity (white/light grey) pixels across the visible fluke surface.",
+    "spatial_color_mapping": "Left lobe is predominantly low-intensity with high-intensity mottling concentrated at the distal tip. Right lobe features three distinct high-intensity diagonal bands originating from the proximal center and extending toward the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped depression with a calculated interior pixel angle of approximately 72 degrees; bounding-box depth from the trailing edge apex to the notch floor is approximately 12% of the vertical fluke span.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations are detected along the entire trailing edge boundary; peak-to-valley pixel amplitude is greatest on the outer margins of both lobes, presenting as a jagged, non-linear contour.",
+    "lobe_sweep_trajectory": "The outer edges of both lobes follow a strictly convex mathematical curve from the leading edge to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 6-8 localized, high-intensity circular pixel clusters (3-5 pixels in diameter) on the distal portion of the left lobe, consistent with rosette-style scarring.",
+    "linear_abrasions": "Multiple parallel low-intensity linear tracks (rake marks) are detected: one prominent horizontal mark bisects the left lobe; a series of four parallel diagonal marks (slope approx -1.5) are visible on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive rake marks across both lobes and significant irregular tissue loss/jaggedness along the trailing edge indicates previous non-lethal trauma.",
+  "other_distinctive_markers": "A localized, low-intensity rectangular pigment patch is visible on the inner margin of the right lobe, adjacent to the median notch."
+}

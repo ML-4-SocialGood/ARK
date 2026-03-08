@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity (white/light gray) central fluke regions contrasted with low-intensity (black) pigmented regions along the trailing edges and terminal tips. Distribution ratio approximately 75% light to 25% dark.",
+    "spatial_color_mapping": "Contiguous dark-pigmented bands following the trailing edge contour. Dense dark clusters at both lateral tips. Discrete dark focal spots and linear streaks scattered across the mid-region of both lobes. The left lobe displays a dark cluster near the central notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated interior angle of approximately 82 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge. Variation amplitude increases towards the distal tips, showing a high density of small-scale peaks and valleys.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a concave sweep from the median notch towards the tips. Leading edges (partially submerged) appear straight to slightly convex."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, dark, roughly circular pixel clusters present on the lower-mid region of the left lobe and mid-region of the right lobe.",
+    "linear_abrasions": "Several distinct, thin dark linear disruptions. The right lobe shows at least two prominent parallel diagonal streaks. The left lobe exhibits multiple shorter, unaligned dark lines near the base."
+  },
+  "acquired_anomalies_or_scars": "Notable raggedness and loss of geometric integrity at both lateral tips, consistent with historical wear or minor amputation of edge tissue.",
+  "other_distinctive_markers": "Metadata overlay at the bottom of the frame (TEC03-64/32, ID 11695). A small dark avian silhouette is visible in the background water to the right of the right fluke lobe."
+}

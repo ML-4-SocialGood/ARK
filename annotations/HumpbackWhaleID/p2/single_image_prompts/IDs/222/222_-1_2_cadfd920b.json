@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface area covering approximately 90% of the visible fluke, with high-intensity (white/grey) pixels localized to the right distal lobe and edges.",
+    "spatial_color_mapping": "Large contiguous black region spanning both lobes. High-contrast grey-white mottling localized on the medial-to-distal portion of the right lobe. High-intensity tan/white clusters present at the extreme left and right distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped notch with an estimated angle of 40-45 degrees, extending roughly 1/6th of the vertical height of the fluke structure.",
+    "edge_topography_serration_map": "Highly irregular trailing edge with visible jagged serrations. Left lobe tip displays 4-6 high-amplitude pixel peaks. Right lobe trailing edge shows a higher frequency of low-amplitude jagged variations.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a gradual concave curve transitioning from the distal tips toward the central median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct clusters of high-contrast, circular, high-intensity pixel groups on the furthest distal tips (left and right), consistent with localized encrustations.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive high-contrast pixel clusters on distal tips representing barnacle colonization. Asymmetrical pigment distribution with significant mottling present only on the right lobe.",
+  "other_distinctive_markers": null
+}

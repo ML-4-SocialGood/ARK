@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low macro-level ratio; the surface is predominantly low-intensity (black) with high-intensity (white) pixels representing less than 3% of the total visible fluke area.",
+    "spatial_color_mapping": "Contiguous solid black pigmentation across 97% of the visible field. High-contrast white geometric blobs (circular rosettes) are detected in a non-uniform distribution, primarily located in the lower-central and mid-left ventral regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a calculated vertex angle of approximately 45 degrees; notch depth occupies roughly 12% of the vertical lobe height within its bounding box.",
+    "edge_topography_serration_map": "Low-amplitude, high-frequency serrations are detected along the majority of the trailing edge. Distinct high-amplitude jagged irregularities (peaks) are visible on the distal tips of both the left and right lobes.",
+    "lobe_sweep_trajectory": "Symmetrical convex upward curve fitted to the outer edges of the fluke lobes, transitioning into a concave curve toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 12 localized, circular high-contrast pixel clusters (white on black) scattered across both lobes, consistent with barnacle scar footprints.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Visible irregular erosion and frayed pixel boundaries at the extreme distal tips of both fluke lobes; multiple punctate depigmentation spots present on the dark ventral field.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely high ratio; approximately 90% high-intensity white pixels to 10% low-intensity black pixels localized to the perimeter and median notch.",
+    "spatial_color_mapping": "Central contiguous white expanse occupying the majority of the fluke surface; bounded by a thin, irregular black perimeter along the trailing edge; secondary small reddish-brown focal spots present in the lower-left quadrant."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated vertex angle of approximately 45 degrees; depth is significant, penetrating roughly 8% of the visible vertical fluke span.",
+    "edge_topography_serration_map": "High-frequency irregular serration pattern; approximately 18-22 distinct peaks and valleys identified across the trailing boundary with pixel-amplitude variations of 5-15 pixels.",
+    "lobe_sweep_trajectory": "Concave curvature originating from the median notch, transitioning to a predominantly horizontal linear trajectory toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Two distinct, high-contrast textured clusters of brown and white pixels (barnacle colonization) localized at the extreme lateral tips of the left and right lobes.",
+    "linear_abrasions": "A singular, short, reddish-brown linear pixel disruption oriented horizontally in the lower-central region of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent barnacle clusters at distal tips; minor dark pigmented spotting on the ventral white surface.",
+  "other_distinctive_markers": "Vertical high-intensity pixel streaks below both distal tips, indicating water runoff."
+}

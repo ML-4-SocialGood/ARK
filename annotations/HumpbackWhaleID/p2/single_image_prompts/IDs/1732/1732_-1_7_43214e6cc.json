@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixels covering approximately 90-95% of the visible ventral surface, with high-intensity (white) pixels localized at the median notch and trailing edge borders.",
+    "spatial_color_mapping": "Primary surface is a continuous solid black expanse. Distinct high-contrast white focal spots and mottling are mapped around the median notch vertex and in discrete 5-10 pixel width strips along sections of the trailing edge topography."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated internal pixel angle of approximately 55 degrees and a vertical bounding-box depth extending significantly into the fluke peduncle junction.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitudes ranging from 2 to 15 pixels; peaks and valleys are most pronounced on the right lobe (image right) trailing edge relative to the smoother leading edge.",
+    "lobe_sweep_trajectory": "Concave sweep trajectory along the leading edges transitioning to a broad convex curve on the trailing lobes, terminating in sharp lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of high-contrast, roughly circular white pixel groups (barnacle colonization) localized at the extreme lateral tips of both fluke lobes and along the anterior leading edge of the left lobe tip.",
+    "linear_abrasions": "Several distinct, unaligned white linear pixel disruptions (rake marks) are detected on the surface of the right lobe, oriented diagonally relative to the median notch."
+  },
+  "acquired_anomalies_or_scars": "Extensive peripheral barnacle encrustation on the fluke tips; minor irregular notch/tissue loss on the mid-section of the right lobe trailing edge.",
+  "other_distinctive_markers": "Localized white pigmentation splash at the immediate vertex of the median notch."
+}

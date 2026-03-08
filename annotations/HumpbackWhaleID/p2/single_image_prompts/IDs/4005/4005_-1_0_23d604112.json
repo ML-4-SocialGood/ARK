@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) distribution with a low global contrast ratio; high-intensity (white) pixels are restricted to less than 5% of the total visible surface area at the distal tips.",
+    "spatial_color_mapping": "Uniform dark field across both lobes; high-contrast white contiguous geometric blobs are clustered specifically at the distal tips of both the left and right lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide V-shaped central depression with a calculated angle of approximately 115 degrees and a shallow bounding-box depth.",
+    "edge_topography_serration_map": "High-amplitude irregular serration on the left lobe trailing edge featuring one prominent deep V-cut; right lobe exhibits lower-amplitude, higher-frequency serrations along its continuous boundary.",
+    "lobe_sweep_trajectory": "Convex curve fitted to the outer margins of both lobes, resulting in a sharp upward sweep toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct high-contrast white circular pixel clusters detected at the extreme left and right distal tips, indicating localized colonization.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Prominent irregular indentation/traumatic tissue loss on the trailing edge of the left lobe, approximately one-third of the distance from the tip to the notch.",
+  "other_distinctive_markers": null
+}

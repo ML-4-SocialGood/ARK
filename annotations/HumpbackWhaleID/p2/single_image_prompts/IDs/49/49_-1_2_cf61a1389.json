@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 35:65 ratio of high-intensity white/light-grey pixels concentrated in distal-lateral regions against low-intensity black pixels in medial and proximal regions.",
+    "spatial_color_mapping": "Large contiguous high-intensity white zones located on the upper-outer quadrants of both lobes, transitioning into high-frequency mottled black-and-white patterns towards the center. The medial-proximal region and the extreme trailing edge are predominantly solid low-intensity black."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated acute angle of approximately 40 degrees; depth is significant relative to total lobe height.",
+    "edge_topography_serration_map": "Low-amplitude, irregular serrations detected along the entire trailing edge boundary, with increased frequency of pixel-level peaks and valleys observed at the distal tips.",
+    "lobe_sweep_trajectory": "Strongly convex trailing edge curve that tapers into slightly hooked, pointed distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, high-contrast white circular pixel clusters detected at the extreme distal tips and scattered sparsely within the dark medial regions.",
+    "linear_abrasions": "Short, parallel diagonal dark lines (rake marks) disrupting the high-intensity white field on the viewer's left lobe."
+  },
+  "acquired_anomalies_or_scars": "Jagged, irregular contouring at the extreme distal tips indicating minor tissue loss or persistent bio-fouling residue.",
+  "other_distinctive_markers": "Unique feathered transition zone between black and white fields on the viewer's right lobe, characterized by longitudinal streaks of low-intensity pixels."
+}

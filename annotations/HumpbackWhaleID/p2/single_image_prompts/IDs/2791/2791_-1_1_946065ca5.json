@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast ratio; dominant dark-intensity pixel background (black/dark grey) interspersed with high-intensity (white) localized pixel clusters.",
+    "spatial_color_mapping": "Coordinate distribution of circular white ring-shaped blobs across the entire visible surface; high concentration of white pixels clustered at the lateral tips and along portions of the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression; estimated vertex angle between 55 and 65 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular pixel-amplitude variations along the trailing edge boundary, exhibiting sharp peaks and deep valleys ranging from 5-15 pixels in depth.",
+    "lobe_sweep_trajectory": "Convex outer lobe sweep transitioning to a concave curve approaching the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense spatial detection of circular, high-contrast white rings (diameter 5-20 pixels) consistent with barnacle scar clusters across both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization on the lateral tips and segments of the trailing edge, presenting as high-relief, irregular pixel clusters.",
+  "other_distinctive_markers": "Prominent white pigmentation lining the trailing edge of the left lobe (viewer perspective)."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Heavily weighted towards low-intensity (black) pixels; estimated 95:5 ratio of dark-to-light pixels across the ventral surface area.",
+    "spatial_color_mapping": "Primary black field with distinct, high-contrast white contiguous regions at the extreme distal tips; numerous high-intensity point-source pixels scattered across the mid-lobe surfaces."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central notch; approximate internal pixel angle of 45 degrees with depth reaching approximately 30% of the vertical lobe extent.",
+    "edge_topography_serration_map": "Highly irregular trailing boundary; significant macro-level indentation on the right lobe's medial edge; consistent micro-serrations with amplitudes of 2-8 pixels along the entire margin.",
+    "lobe_sweep_trajectory": "Convex Leading edges; the trailing edges exhibit non-uniform curvature with varying concavity towards the central notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dozens of high-contrast circular and ring-shaped pixel clusters (diameters 3-12 pixels) distributed across both lobes, with higher density on the right lobe and distal margins.",
+    "linear_abrasions": "Multiple distinct, unaligned high-contrast linear streaks (rake marks) detected; orientation is predominantly diagonal and vertical on the right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Major irregular tissue void/notch on the upper trailing edge of the right lobe; extensive circular and linear scarring across the entire visible surface.",
+  "other_distinctive_markers": "Bright, high-contrast white pigmentation patches localized at the terminal tips of both the left and right lobes."
+}

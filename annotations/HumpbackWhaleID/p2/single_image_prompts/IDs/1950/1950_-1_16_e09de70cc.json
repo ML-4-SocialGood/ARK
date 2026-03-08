@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low macro-level ratio; pixel intensity is concentrated in the 0-50 range (black/dark grey) across over 98% of the surface area, with high-intensity (white) spikes localized only at the distal tips.",
+    "spatial_color_mapping": "Dominant solid dark pigment covering the entire central and medial regions; high-contrast white-to-tan clusters detected at the (x,y) coordinates corresponding to the extreme left and right lobe tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Defined V-shaped depression with a wide aperture; approximate pixel angle is 110 degrees.",
+    "edge_topography_serration_map": "Continuous irregular serration pattern; left lobe distal edge shows multiple high-amplitude jagged peaks; right lobe trailing edge presents lower-frequency, rounded undulating peaks.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge leading from the median notch to the tips, following a parabolic trajectory."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Highly localized circular high-contrast pixel clusters detected at the apex of both lobes, suggesting calcified surface deposits.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Prominent surface-level bio-fouling or barnacle clusters localized on the terminal ends of both fluke lobes.",
+  "other_distinctive_markers": null
+}

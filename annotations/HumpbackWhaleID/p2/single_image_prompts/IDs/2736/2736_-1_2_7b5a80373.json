@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bicolor distribution; approximately 65% high-intensity (white) to 35% low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Contiguous low-intensity black pixel mass centered at the median notch, extending into the mid-lobes; peripheral zones dominated by high-intensity white pixels with irregular black linear streaks and small mottle clusters."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped indentation with a calculated interior pixel angle of approximately 65 degrees; notch depth occupies approximately 12% of the total fluke vertical bounding box.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude irregularities along the entire distal boundary; local peak-to-valley variance of 5-15 pixels, appearing more pronounced on the left lobe's upper margin.",
+    "lobe_sweep_trajectory": "Concave curvature along the distal margin of both lobes, sweeping upward and outward to sharp, slightly recurved tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed, low-luminance brown/tan pixel clusters localized on the extreme distal tips of both the left and right lobes.",
+    "linear_abrasions": "Cluster of 6 parallel, vertical low-intensity linear marks on the left lobe (rake marks); several intersecting diagonal linear disruptions on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Symmetrical parallel rake marks on the mid-left lobe; non-aligned linear crossing scars on the right lobe; barnacle colonization clusters on the extreme lateral tips.",
+  "other_distinctive_markers": "A distinct, isolated black pixel streak near the center of the right lobe forming a roughly 'X' shaped intersection."
+}

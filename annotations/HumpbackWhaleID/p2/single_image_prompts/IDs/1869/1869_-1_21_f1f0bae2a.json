@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low; approximately 0.15:1 ratio of high-intensity white pixels (scars/barnacles) to low-intensity black pixels across the ventral surface.",
+    "spatial_color_mapping": "Dominant low-intensity black base; high-contrast white linear clusters distributed across the left and central fluke regions; localized white circular clusters at the distal tips of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "Serrated trailing boundary with approximately 18-20 visible peaks; peak-to-valley amplitude varies between 5 and 25 pixels along the continuous edge.",
+    "lobe_sweep_trajectory": "Convex curve trajectory observed on the superior margins of both the left and right lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast white clusters localized at the distal tips (barnacles) and scattered along the lower trailing edge.",
+    "linear_abrasions": "Extensive network of white linear pixel segments (rake marks) of varying lengths (20-150 pixels) densely populated on the left fluke lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive multi-directional linear scarring across the entire visible ventral surface; barnacle colonization clusters at both lateral tips.",
+  "other_distinctive_markers": null
+}

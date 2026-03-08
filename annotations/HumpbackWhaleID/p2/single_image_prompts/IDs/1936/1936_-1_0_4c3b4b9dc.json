@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low; the ratio of high-intensity (white) pixels to low-intensity (black) pixels on the ventral surface is approximately 0.05:1.",
+    "spatial_color_mapping": "Solid black pigmentation across >95% of the visible surface area; fine, high-contrast white stippling is present in a sparse, non-contiguous pattern primarily near the trailing edges and distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped median notch with an estimated interior angle of 60-70 degrees and a bounding-box depth approximately 1/10th of the vertical fluke height.",
+    "edge_topography_serration_map": "Irregular serrations along the entire trailing edge; peak-to-valley pixel amplitude increases significantly toward the outer lobes, with the most pronounced peaks located on the upper-outer margins.",
+    "lobe_sweep_trajectory": "Symmetrical concave sweep originating from the median notch and curving upward toward elevated, narrow distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, roughly circular clusters of high-contrast white pixels are localized at the extreme distal tips of both the left and right lobes.",
+    "linear_abrasions": "Detection of multiple faint, light-grey linear pixel disruptions (rake marks) oriented diagonally across the mid-sections of both the left and right lobes."
+  },
+  "acquired_anomalies_or_scars": "Heavy white scarring or localized anomalies concentrated at the extreme tips of the lobes; distinct linear rake marks visible across the ventral pigmentation.",
+  "other_distinctive_markers": null
+}

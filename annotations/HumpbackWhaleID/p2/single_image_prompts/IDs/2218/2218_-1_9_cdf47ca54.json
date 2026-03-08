@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio of high-intensity pixels (~5%) to low-intensity pixels (~95%) across the ventral surface, with high-intensity pixels restricted to localized marks and distal tips.",
+    "spatial_color_mapping": "Dominant low-intensity black contiguous field across 95% of the fluke area. High-intensity white pixels are distributed in linear patterns across both lobes and concentrated in high-density clusters at the extreme distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with an approximate pixel angle of 42 degrees and a depth-to-width ratio of ~1:4 relative to the notch opening.",
+    "edge_topography_serration_map": "Low-frequency, low-amplitude serrations present along the primary trailing edge; amplitude increases significantly at the distal tips due to irregular surface accretions.",
+    "lobe_sweep_trajectory": "Strongly convex trajectory on the trailing edge of both lobes, curving from the median notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-intensity white pixel clusters with roughly circular geometry localized at the distal tips and scattered sporadically as small dots across the medial lobe surfaces.",
+    "linear_abrasions": "Dense network of high-contrast, multi-directional linear pixel streaks (rake marks) of varying lengths, most prominent on the right lobe and inner regions of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Presence of irregular, high-contrast structural accretions (barnacles) at both distal tips; extensive rake marks across the entire visible ventral surface.",
+  "other_distinctive_markers": "A distinct secondary indentation/notch located on the interior left edge of the primary central notch."
+}

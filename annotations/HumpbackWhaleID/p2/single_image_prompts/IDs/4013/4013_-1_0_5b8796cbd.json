@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio with dominant high-intensity white regions comprising approximately 85% of the visible surface, bounded by low-intensity black margins along the trailing edge and lateral tips.",
+    "spatial_color_mapping": "Central contiguous white field; low-intensity black bands along the trailing edge; vertical dark pixel streaks on the left lobe proximal to the margin; a singular low-intensity circular annulus located in the lower-mid quadrant of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped depression with a vertex angle of approximately 85-90 degrees and a deep bounding-box penetration relative to the lobe chord.",
+    "edge_topography_serration_map": "High-frequency serration pattern with irregular pixel-amplitude peaks and valleys; most pronounced on the outer 50% of each lobe's trailing edge, showing jagged step-like transitions.",
+    "lobe_sweep_trajectory": "Strong convex curve fitted to the trailing edge, sweeping upward from the median notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed clusters of circular, high-contrast, high-intensity white pixel groups (barnacles) located exclusively on the extreme lateral tips of both the left and right lobes.",
+    "linear_abrasions": "Several low-intensity linear pixel disruptions; notably two near-vertical parallel streaks on the left lobe and multiple fine, multidirectional scratches distributed across the right lobe's white field."
+  },
+  "acquired_anomalies_or_scars": "Prominent dark circular ring-shaped lesion on the ventral right lobe; extensive localized biological encrustation (barnacles) creating irregular topography at the lobe extremities.",
+  "other_distinctive_markers": "Unique high-contrast black 'O' shaped mark on the interior white field of the right lobe, distinctive from surrounding pigment patterns."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio of high-intensity pixels to low-intensity pixels; approximately 15:85 white-to-black distribution across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Dominant low-intensity dark pigmentation (black/dark grey) across >85% of fluke area. High-intensity white linear clusters (scratches) mapped across the medial and lateral regions. High-contrast white and reddish-brown contiguous blobs mapped at the distal tips of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression; approximately 45-degree angle at the vertex with a high depth-to-width ratio within the bounding box of the lobes.",
+    "edge_topography_serration_map": "Extremely irregular topography. Left lobe trailing edge displays high-amplitude, high-frequency jagged variations (broken profile). Right lobe trailing edge displays lower-amplitude, moderate-frequency serrations.",
+    "lobe_sweep_trajectory": "Left lobe exhibits a truncated and irregular convexity. Right lobe exhibits a long, slender trajectory with a distinct mid-axis concavity transitioning to terminal convexity."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Large, dense clusters of high-contrast white and off-white pixels at the distal tips of both lobes (barnacle colonization). Smaller, isolated white circular pixel clusters are visible across the central-left lobe body.",
+    "linear_abrasions": "Numerous unaligned white linear pixel disruptions (rake marks) are clearly visible, primarily oriented diagonally across the dark pigmentation of both lobes."
+  },
+  "acquired_anomalies_or_scars": "Significant morphological trauma/amputation at the tip of the left lobe; presence of large white and reddish biological encrustations at both distal extremities.",
+  "other_distinctive_markers": "Unique reddish-brown pixel clusters mixed with white at the terminal end of the left lobe, distinct from typical fluke pigmentation."
+}

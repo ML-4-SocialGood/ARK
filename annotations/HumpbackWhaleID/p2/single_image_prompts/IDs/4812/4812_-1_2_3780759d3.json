@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution; approximately 75% low-intensity (dark charcoal/black) base and 25% high-intensity (white/light grey) focal points and patches.",
+    "spatial_color_mapping": "Discrete high-intensity circular rings scattered across both lobes; largest white contiguous patch located on the distal-posterior quadrant of the right lobe; central region near the notch is primarily low-intensity."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped notch; estimated interior pixel angle of 95 degrees with a vertical depth of approximately 1/8th the fluke's total vertical span.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across both lobes; pixel amplitude variations of 5-15 pixels creating a jagged boundary clearly isolated from the water background.",
+    "lobe_sweep_trajectory": "Symmetrical convex curvature along the anterior edges terminating in acute, sharp distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High density of circular, high-contrast white ring-like pixel clusters (approx 60+ detected) ranging from 5 to 18 pixels in diameter across the medial and distal surface areas.",
+    "linear_abrasions": "A set of 3-4 parallel vertical linear pixel disruptions on the medial left lobe; scattered unaligned horizontal scratches located near the right lobe tip."
+  },
+  "acquired_anomalies_or_scars": "Extensive circular scarring across the entire visible surface area; irregular mechanical-type indentations and jagged gaps visible along the trailing edge contour.",
+  "other_distinctive_markers": "The specimen exhibits an exceptionally clear geometric 'point-cloud' pattern formed by dense, high-contrast circular rings."
+}

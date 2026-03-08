@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast ratio; approximately 70% low-intensity (black) pixel distribution across the central and medial regions with 30% high-intensity (light gray/white) distribution at the lateral distal tips.",
+    "spatial_color_mapping": "Dominant contiguous black central region. Distal tips (left and right) exhibit high-contrast white-to-light-gray mottling. Distinct dark linear streaks (rake marks) are mapped within the lighter zones on both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch with a calculated internal angle of approximately 75 degrees and a deep vertical bounding-box penetration.",
+    "edge_topography_serration_map": "Continuous irregular serration along the trailing edge. Frequency of peaks increases toward the medial notch. Prominent irregular undulations with a pixel amplitude of 5-10 pixels are visible on the right lobe.",
+    "lobe_sweep_trajectory": "Primary trailing edge follows a convex curve from the median notch to the distal tips, terminating in a sharp downward taper."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density, roughly circular, high-contrast white pixel clusters consistent with barnacle colonization located at the extreme lateral tips of both lobes.",
+    "linear_abrasions": "Multiple dark, unaligned diagonal linear marks (rake-style abrasions) visible on the light-colored surface of the distal tips on both lobes."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle growth creating a highly textured, irregular perimeter on the outer tips of both lobes.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High; predominantly high-intensity (white) pixels covering ~85% of visible surface area, bordered by low-intensity (black) pixels along the trailing edge and distal tips.",
+    "spatial_color_mapping": "Large contiguous white geometric regions in central and outer lobes; thick, irregular black banding (5-15 pixel width) along the entire trailing edge; localized dark mottling near the median notch and distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression; approximately 40-degree internal angle with a high-depth bounding box relative to lobe chord length.",
+    "edge_topography_serration_map": "High-frequency irregular serrations; notable negative-amplitude spike (large indentation) on the left lobe trailing edge; right lobe exhibits moderate-amplitude rhythmic serrations.",
+    "lobe_sweep_trajectory": "Convex curvature from the notch transitioning to a tapered, slightly upturned concave sweep toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct high-contrast, textured clusters (white on black and dark on white) localized at both the extreme left and right distal tips.",
+    "linear_abrasions": "Single dark diagonal linear disruption visible on the right lobe surface; multiple vertical high-contrast rake marks intersecting the black trailing edge of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Major irregular notch/tissue loss on the mid-trailing edge of the left lobe; distinct jagged indentation on the inner-left lobe near the median notch.",
+  "other_distinctive_markers": "Significant textured calcification or bio-fouling clusters at the extreme distal tips."
+}

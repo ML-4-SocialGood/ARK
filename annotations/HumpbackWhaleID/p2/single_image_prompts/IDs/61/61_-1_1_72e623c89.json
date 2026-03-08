@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface with approximately 5-8% high-intensity (white) pixel clusters localized at the distal tips and along the trailing edge boundary.",
+    "spatial_color_mapping": "Solid dark pigmentation (low-intensity field) across the majority of both lobes. High-intensity circular blobs (white) are mapped sparsely across the interior surface and heavily concentrated in contiguous clusters at the extreme lateral tips (coordinates near top corners of fluke)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an estimated pixel angle of 48 degrees; the indentation depth extends approximately 20% into the vertical span of the fluke.",
+    "edge_topography_serration_map": "Highly irregular trailing edge characterized by high-frequency, low-amplitude peaks and valleys (serrations); significant jaggedness is visible along the outer 40% of both the left and right lobes.",
+    "lobe_sweep_trajectory": "Strongly concave trailing edge sweep from the median notch toward the tips; leading edges exhibit a convex upward curve leading to sharp, tapered tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of roughly circular, high-contrast white pixels (barnacle colonies) are situated at both terminal tips; isolated circular rosettes are also scattered across the interior dark field of both lobes.",
+    "linear_abrasions": "Faint, vertical, light-gray linear pixel disruptions (rake-like marks) are visible on the mid-section of the right lobe, oriented perpendicular to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Heavy calcified encrustations (parasitic colonization) forming a jagged, high-contrast border on the distal tips and portions of the trailing edge topography.",
+  "other_distinctive_markers": "A small, distinct secondary notch or focal bite-shaped depression is visible on the inner-third of the trailing edge of the left lobe, adjacent to the median notch."
+}

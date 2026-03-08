@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixel distribution across the central 70% of the fluke surface, with high-intensity (white) regions concentrated at the distal tips and along the trailing edges.",
+    "spatial_color_mapping": "Large contiguous low-intensity region covering the central mass. Distal tips (lateral extremities) display high-intensity white patches containing dense, low-intensity speckling and mottling. The transition between intensity zones is characterized by high-frequency pixel variation (stippling)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Broad V-shaped central indentation with a calculated angle of approximately 120 degrees and a depth of roughly 4% of the total vertical lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular saw-tooth topography along the entire trailing edge; serration amplitude is higher on the distal thirds of both lobes compared to the medial sections near the notch.",
+    "lobe_sweep_trajectory": "Anterior (upper) boundaries exhibit a consistent convex sweep from the central axis toward the lateral points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple localized circular high-intensity pixel clusters (estimated 5-15 pixels in diameter) scattered across the dark central regions of both lobes, notably more frequent on the left lobe.",
+    "linear_abrasions": "Distinct set of 5-6 parallel diagonal linear pixel disruptions on the right lobe; several isolated, unaligned linear scratches visible on the high-intensity distal region of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive parallel linear disruptions on the right lobe consistent with physical surface trauma; irregular, asymmetrical trailing edge serration on the far-right distal tip.",
+  "other_distinctive_markers": "Concentrated cluster of dark, non-contiguous pixel spots within the white distal tip of the left lobe lobe."
+}

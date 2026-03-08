@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution; approximately 65% high-intensity (white) and 35% low-intensity (black/dark grey) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Left lobe: large contiguous white region bounded by black lateral/trailing margins, containing a distinct black circular spot at central-lateral coordinates. Right lobe: white region with high-contrast black mottling along the trailing edge and lateral margin."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations consisting of sharp, jagged peaks and deep vertical valleys (approx. 5-15 pixels) along the entire trailing edge boundary.",
+    "lobe_sweep_trajectory": "Symmetric concave trailing edge curvature leading to acute, upwardly-swept distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, raised, circular clusters of high-contrast tan/white pixels localized on both the left and right distal lobe tips, indicating significant barnacle colonization.",
+    "linear_abrasions": "A distinct, unaligned vertical dark linear pixel disruption extending from the circular spot on the left lobe toward the water line."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization on both distal tips; distinct circular black pigmentation focal point on the left lobe.",
+  "other_distinctive_markers": "Highly unique circular 'eye-spot' or ocellus black pigmentation feature located within the white field of the left ventral fluke lobe."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low; estimated 1:15 ratio of high-intensity white pixels to low-intensity dark-grey/black pixels.",
+    "spatial_color_mapping": "Contiguous dark-grey base with scattered, high-contrast white circular blobs (5-20 pixels in diameter) semi-uniformly distributed across both the left and right lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped depression with a central interior angle of approximately 55 degrees; bounding-box depth estimated at 12% of total fluke vertical height.",
+    "edge_topography_serration_map": "Continuous serrated boundary with high-frequency, low-amplitude (2-5 pixels) peaks occurring at intervals of approximately 10-15 pixels along the entire trailing edge.",
+    "lobe_sweep_trajectory": "Convex trajectory along the trailing edge of both lobes, tapering to acute points at the lateral extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Numerous high-contrast circular white pixel clusters distributed across the visible surface, specifically dense in the mid-lateral sections of both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive circular scarring (rosettes) likely resulting from prior sessile organism colonization; no distinct structural amputations visible.",
+  "other_distinctive_markers": null
+}

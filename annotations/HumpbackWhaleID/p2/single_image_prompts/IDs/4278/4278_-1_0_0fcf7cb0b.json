@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixel distribution across approximately 85% of the visible surface, with localized high-intensity (white) clusters at the distal tips and lower ventral margins.",
+    "spatial_color_mapping": "Large contiguous low-intensity region occupying the central 2D space; high-contrast white patches are mapped to the far-left and far-right lateral tips, with sparse white mottling present on the mid-right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated inner angle of approximately 65 degrees.",
+    "edge_topography_serration_map": "High-frequency serrations with pixel-amplitudes ranging from 3 to 10 pixels; left lobe shows a higher density of sharp peaks, while the right lobe contains several deeper, rounded indentations.",
+    "lobe_sweep_trajectory": "Lobe boundaries exhibit a concave curve immediately adjacent to the median notch, transitioning to a broad convex trajectory towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast, roughly circular white pixel clusters (consistent with barnacle colonization) are densely mapped to the terminal 5% of both the left and right fluke lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive white pigmentation clusters/scarring at both lateral tips; a distinct localized white patch is visible on the trailing edge of the right lobe near the median notch.",
+  "other_distinctive_markers": null
+}

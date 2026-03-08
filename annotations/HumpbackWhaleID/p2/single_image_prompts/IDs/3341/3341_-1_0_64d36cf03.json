@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 60:40 distribution of high-intensity white pixels to low-intensity black pixels across the visible ventral area.",
+    "spatial_color_mapping": "Dominant white central region (RGB ~240-255) bordered by high-contrast black peripheral zones (RGB ~0-25) at the leading edges and lateral tips; right lobe exhibits more extensive white coverage extending toward the leading edge compared to the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated angle of approximately 82 degrees and a depth relative to the fluke baseline.",
+    "edge_topography_serration_map": "High-frequency serration along the continuous trailing boundary; primary peaks located at the mid-lobe sections with amplitudes ranging from 8 to 15 pixels; distinct ragged topography at the lateral tips.",
+    "lobe_sweep_trajectory": "Strong convex curve on the leading edges; trailing edges follow a generally straight trajectory with slight concavity near the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of high-contrast white circular pixel groups (barnacle scars/colonies) concentrated on the extreme distal tips of both the left and right lobes.",
+    "linear_abrasions": "Three distinct parallel white linear streaks (rake marks) originating from the lower left fluke quadrant near the peduncle junction; multiple shorter, faint linear disruptions visible on the inner-right lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent white rake marks on the left lobe; extensive irregular scarring and crustose accumulation at the fluke tips creating localized edge deformation.",
+  "other_distinctive_markers": "Unique mottled 'splatter' transition zone on the right lobe trailing edge where black pigmentation fragments into white pixels."
+}

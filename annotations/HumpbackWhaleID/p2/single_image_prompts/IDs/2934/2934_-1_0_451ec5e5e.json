@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.65 high-intensity (white) to 0.35 low-intensity (black/dark grey) pixel distribution across the visible fluke surface.",
+    "spatial_color_mapping": "Dominant white contiguous regions occupy the central fields of both lobes. Black pigmentation is mapped as a thick continuous band along the right lobe trailing edge and a thinner, irregular band on the left lobe. Discrete dark focal spots are mapped primarily across the upper-mid white region of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an approximate interior pixel angle of 55 degrees.",
+    "edge_topography_serration_map": "Trailing edge exhibits a high-frequency serrated profile with pixel-amplitude variations of 3-7 pixels; the right lobe distal edge displays significantly more pronounced jaggedness compared to the smoother left lobe profile.",
+    "lobe_sweep_trajectory": "The right lobe exhibits a strong convex upward trajectory (~40-degree incline); the left lobe is oriented horizontally with a slight upward convexity at the distal tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple (approximately 8-12) dark, circular pixel clusters on the white field of the right lobe, consistent with rosette-style scarring patterns.",
+    "linear_abrasions": "Faint, unaligned dark linear pixel disruptions are visible across the medial-lower white region of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "The distal tip of the right lobe shows a jagged, truncated morphology with dense black pigmentation, indicating significant physical trauma or wear.",
+  "other_distinctive_markers": null
+}

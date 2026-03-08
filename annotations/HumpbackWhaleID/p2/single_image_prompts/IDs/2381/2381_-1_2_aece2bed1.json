@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 40:60 ratio of high-intensity (white) distal lobes to low-intensity (dark gray/black) central peduncle and medial regions.",
+    "spatial_color_mapping": "Dark pigmentation forms a contiguous central 'heart' shape extending from the peduncle. Left lobe: dominant high-intensity white field with a single dark, elongated radial streak located roughly one-third inward from the tip. Right lobe: high-intensity white field heavily disrupted by dense, dark mottling and irregular pixel clusters on the inner medial-distal transition."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide V-shaped depression with a calculated angle of approximately 110 degrees and a depth roughly 5% of the total fluke height.",
+    "edge_topography_serration_map": "Medial trailing edges are largely smooth with negligible pixel amplitude variation; distal tips exhibit high-frequency, irregular pixel-amplitude deviations (jaggedness) exceeding 5 pixels relative to the mean edge line.",
+    "lobe_sweep_trajectory": "Sigmoidal sweep beginning with a slight convexity near the median notch transitioning into a distinct concavity towards the tapered, slightly upward-curving distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, dark-intensity pixel clusters localized specifically at the extreme terminal points of both the left and right distal tips.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "The right distal tip exhibits a jagged, non-linear edge profile and dark-intensity protrusions, indicating localized structural loss or heavy bio-encrustation.",
+  "other_distinctive_markers": "Significant pigmentation asymmetry; the right lobe distal field contains high-density dark speckling/mottling that is absent on the corresponding left lobe distal field."
+}

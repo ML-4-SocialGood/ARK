@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with a macro-level ratio of approximately 40% high-intensity (white/light-grey) pixels concentrated at distal ends and 60% low-intensity (black/dark-grey) pixels concentrated medially.",
+    "spatial_color_mapping": "Large contiguous high-intensity geometric blobs occupy the outer 1/3rd of both lobes. A transition zone of high-frequency mottling (randomized 2-5 pixel clusters) exists between the white distal zones and the solid dark medial area surrounding the notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped median notch with a calculated pixel angle of approximately 62 degrees and a bounding-box depth equivalent to roughly 12% of the vertical lobe span.",
+    "edge_topography_serration_map": "Continuous irregular serration map featuring high-frequency, low-amplitude (3-8 pixel) peaks and valleys along the entire linear boundary of both trailing edges.",
+    "lobe_sweep_trajectory": "Convex curve trajectory observed from the medial notch moving outward, terminating in sharp, tapered distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast circular clusters of 4-10 pixels detected within the mottled transition zones on both lobes, exhibiting high-intensity centers against dark backgrounds.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

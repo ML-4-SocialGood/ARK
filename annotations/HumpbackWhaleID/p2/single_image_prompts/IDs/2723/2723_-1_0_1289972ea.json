@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 30:70 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Left lobe contains a large contiguous high-intensity white region spanning the interior mid-section. Right lobe exhibits localized white speckling and mottling concentrated near the inner trailing edge. Both lobes are bordered by low-intensity black pixels at the distal tips and leading edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate 55-degree internal angle and a pixel depth significant relative to lobe width.",
+    "edge_topography_serration_map": "High-frequency irregular serrations along the entire trailing edge boundary, with peak-to-valley pixel amplitudes ranging from 4 to 12 pixels.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge from the median notch to the distal tips, with a tapered sweep toward the lateral terminals."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-intensity, roughly circular pixel groups (barnacles) localized at the extreme distal tips of both the left and right lobes.",
+    "linear_abrasions": "Vertical, high-contrast linear pixel disruptions (scratches) visible on the right lobe, oriented perpendicular to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Extensive high-intensity white scarring on the left interior lobe; dense barnacle colonies attached to the extreme distal edges of both lobes.",
+  "other_distinctive_markers": "Base of the fluke and peduncle junction are occluded by high-intensity white water spray and splash."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 85% low-intensity (black) to 15% high-intensity (white) across the visible surface, with high-intensity pixels localized at the distal lobe tips.",
+    "spatial_color_mapping": "High-intensity white contiguous zones at the left and right distal tips; the right tip contains a complex geometric overlay of dark linear patterns (rake marks) on the white background; central fluke body is solid black with sparse white point noise."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible V-shaped central depression with a calculated interior angle of approximately 85 degrees and a sharp vertex.",
+    "edge_topography_serration_map": "Continuous irregular serration pattern along the trailing edge with frequent low-amplitude (2-8 pixel) peaks and valleys spanning the entire horizontal width.",
+    "lobe_sweep_trajectory": "Symmetrical convex curves sweeping upwards and outwards from the median notch to the distal lobe tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Sparse distribution of approximately 6-10 circular white pixel clusters (scars) visible on the lower-central black surface of the lobes.",
+    "linear_abrasions": "Highly distinct parallel white linear disruptions located on the right distal lobe tip (rake marks); shorter, less dense parallel linear marks on the left distal tip."
+  },
+  "acquired_anomalies_or_scars": "Extensive rake mark scarring on the rightmost lobe tip; additional minor linear scarring on the left distal lobe edge.",
+  "other_distinctive_markers": "Unique 'staircase' or 'ladder' scar pattern characterized by parallel horizontal white lines on the far right distal tip."
+}

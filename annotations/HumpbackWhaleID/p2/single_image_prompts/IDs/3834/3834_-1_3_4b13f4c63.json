@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Visible surface area exhibits a high-contrast bimodal distribution, approximately 55% white (high intensity) and 45% black (low intensity).",
+    "spatial_color_mapping": "Left lobe (ventral) is predominantly high-intensity white with a low-intensity black perimeter along the trailing edge and base. Right lobe (ventral) is primarily low-intensity black with a localized high-intensity white patch on the outer-third of the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with a measured interior angle of approximately 40 degrees relative to the lobe midlines.",
+    "edge_topography_serration_map": "Continuous serrated trailing edge exhibiting irregular peaks and valleys; right lobe shows more frequent, sharper serrations compared to the smoother, broader waves on the left lobe.",
+    "lobe_sweep_trajectory": "The trailing edges of both lobes exhibit a generally convex curve, with a transition to a concave sweep as they approach the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Two prominent high-contrast clusters of roughly circular, multi-colored pixel aggregates (barnacles) are located at the extreme distal tips of both the left and right lobes.",
+    "linear_abrasions": "Multiple dark, linear pixel tracks (rake marks) are visible running roughly parallel to the longitudinal axis on the white surface of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant encrustation of acorn barnacles on the trailing edge tips, causing localized structural distortion of the fluke silhouette.",
+  "other_distinctive_markers": "Distinctive mottled transition zone on the right lobe where black pigmentation fades into the white distal patch."
+}

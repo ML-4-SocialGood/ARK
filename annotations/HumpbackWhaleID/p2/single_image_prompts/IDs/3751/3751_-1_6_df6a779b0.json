@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low macro-level ratio; surface is dominated by low-intensity (black) pixels with minimal high-intensity (white) regions visible on the lobes.",
+    "spatial_color_mapping": "Uniform solid black pigmentation across both lobes; no contiguous high-contrast geometric blobs, mottling, or spots are detectable on the fluke surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression; pixel-estimated angle of approximately 85 degrees dividing the two lobes.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations; the trailing edge displays a jagged, irregular topography across the entire boundary with multiple sharp peaks and deep valleys.",
+    "lobe_sweep_trajectory": "Convex curve fitted to the outer edges of the lobes, which sweep upwards and outwards from the central notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive irregular trailing edge erosion and deep notches across the boundary, indicating significant acquired physical marks.",
+  "other_distinctive_markers": "Presence of visible tubercles on the peduncle region (left foreground) appearing as dark, roughly circular pixel clusters."
+}

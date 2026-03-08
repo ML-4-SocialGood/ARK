@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity white (estimated 95% of visible area) with high contrast against a low-intensity black perimeter and localized central spots.",
+    "spatial_color_mapping": "A vast, contiguous white region covers the majority of the fluke surface; a continuous, thin black band follows the trailing edge and distal tips; a vertical linear series of small dark pixel clusters is centered at the peduncle junction."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped median notch with an estimated interior angle of 115 degrees and a bounding-box depth approximately 10% of the fluke width.",
+    "edge_topography_serration_map": "High-frequency irregular serrations along the entire trailing edge; pixel amplitude of variations peaks at approximately 15 pixels at the distal tips and diminishes to 3-5 pixels near the median notch.",
+    "lobe_sweep_trajectory": "Symmetrical convex curve fitted to the leading edges, with the trailing edge lobes following a broad arc that tapers toward slightly recurved distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "A vertical alignment of approximately 8 small, roughly circular dark pixel clusters (3-10 pixel diameter) located at the central base/peduncle junction.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Dark, irregular, and textured pigmentation patches on the extreme distal tips of both lobes, consistent with localized trauma or persistent epiphytic attachment; small dark pockmarks at the central fluke base.",
+  "other_distinctive_markers": "Notably high-purity white ventral surface lacking typical large-scale mottling, characterized specifically by the unique central vertical column of dark pigmentation spots."
+}

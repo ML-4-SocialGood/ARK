@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark grey) pixels account for approximately 90% of the fluke area. High-intensity (white) pixels are localized to distal tip clusters and scattered surface abrasions.",
+    "spatial_color_mapping": "Large contiguous low-intensity dark field across both lobes. Distinct high-contrast white pixel clusters at the lateral distal tips. Sparse, high-intensity linear pixel strings localized on the lower-left ventral surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central indentation with an estimated interior pixel angle of 72 degrees; indentation depth is approximately 14% of the total vertical lobe height.",
+    "edge_topography_serration_map": "High-frequency irregular serrations along the entire trailing boundary. Right lobe features a prominent, deep U-shaped secondary notch approximately midway between the center and tip. Left lobe displays finer saw-tooth serrations with 4-8 pixel amplitude variations.",
+    "lobe_sweep_trajectory": "Symmetrical concave curves sweeping upward and outward from the central notch to the distal vertices."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of circular, high-contrast white pixel blobs (barnacles) concentrated at the extreme distal margins of both the left and right lobes.",
+    "linear_abrasions": "Minimum of 6 distinct, unaligned high-intensity linear pixel disruptions (scratches) detected on the mid-to-lower quadrant of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Localized clusters of barnacle colonization at both lobe tips and several distinct linear rake marks on the left lobe surface.",
+  "other_distinctive_markers": "Pronounced secondary notch on the right lobe trailing edge which provides a highly unique geometric signature."
+}

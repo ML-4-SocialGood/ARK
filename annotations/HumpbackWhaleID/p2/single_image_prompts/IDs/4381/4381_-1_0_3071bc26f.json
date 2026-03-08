@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface with high-intensity (white/grey) pixels concentrated at the distal tips; ratio heavily skewed towards low-intensity values.",
+    "spatial_color_mapping": "Central and medial fluke regions are solid low-intensity black; high-contrast white mottling and light-grey focal clusters are mapped to the outer 15% of the left and right lobe tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped central depression with an obtuse interior angle and moderate bounding-box depth.",
+    "edge_topography_serration_map": "Low-frequency, low-amplitude irregularities along the medial trailing edge transitioning to higher-frequency serrations at the lateral lobe extremities.",
+    "lobe_sweep_trajectory": "Trailing edge exhibits a distinct concave curve originating from the median notch and extending to the acute lobe tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast white pixel clusters localized on the trailing edge of the right lobe tip and scattered across the distal left lobe.",
+    "linear_abrasions": "Faint vertical linear pixel disruptions visible on the mid-left lobe ventral surface."
+  },
+  "acquired_anomalies_or_scars": "Irregular, notched pixel boundary on the extreme lateral tips of both lobes indicating possible prior tissue loss or wear.",
+  "other_distinctive_markers": null
+}

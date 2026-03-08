@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low global contrast ratio characterized by dominant low-intensity pixel values (near-black); high-intensity pixels (white) are restricted to <3% of the total visible surface area, primarily at distal tips.",
+    "spatial_color_mapping": "Homogeneous dark-pixel distribution across >95% of the fluke surface. Contiguous high-intensity geometric clusters are mapped exclusively to the distal lobe tips. Sparse, stochastic white pixel-point clusters are scattered across the posterior zones of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with a calculated interior angle of approximately 88 degrees; notch apex depth is roughly 12% of the fluke's total vertical pixel height.",
+    "edge_topography_serration_map": "High-frequency jagged boundary detected along the entire trailing edge; pixel-amplitude of peaks varies between 4 and 12 pixels, with higher-amplitude deviations located near the distal ends.",
+    "lobe_sweep_trajectory": "Symmetric convex curvature sweeping laterally and upwards from the median notch towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, irregular clusters of high-intensity pixels (calcified growths) detected at the extreme distal tips of both the left and right lobes. Isolated circular white clusters (2-5 pixel diameter) are present in the medial region of the right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization present as localized, high-contrast white clusters at the extreme lateral tips of both lobes.",
+  "other_distinctive_markers": null
+}

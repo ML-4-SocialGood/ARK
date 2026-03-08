@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low; approximately 0.05:0.95 ratio of high-intensity (white/grey) to low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Predominantly uniform low-intensity pixel field across both lobes; no high-contrast contiguous geometric blobs or pigmentation mottling detected."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an internal angle of approximately 42 degrees and a bounding-box depth occupying roughly 12% of the visible vertical fluke plane.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations along the left lobe trailing edge; right lobe exhibits irregular, high-amplitude serrations and notches, specifically a deep indentation approximately 80% towards the lateral tip.",
+    "lobe_sweep_trajectory": "Both lobes exhibit a convex sweep trajectory from the central notch to the lateral tips, with the right lobe showing a more acute upward curvature at the distal end."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized cluster of high-contrast white pixel circular points detected on the distal trailing edge of the right lobe, consistent with barnacle attachment sites.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "The right lobe lateral tip exhibits irregular, non-symmetrical tissue loss or jagged morphology compared to the left tip, indicating probable prior physical trauma.",
+  "other_distinctive_markers": "Presence of high-intensity micro-pixel clusters (water droplets) localized across the lower central fluke surface near the peduncle junction."
+}

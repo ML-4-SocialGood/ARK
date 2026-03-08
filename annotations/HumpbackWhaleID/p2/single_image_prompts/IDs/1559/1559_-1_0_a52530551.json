@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 65% high-intensity white pixels and 35% low-intensity black/dark-grey pixels, primarily concentrated along the perimeter and central fluke region.",
+    "spatial_color_mapping": "Large contiguous white regions occupy the central surfaces of both lobes. The left lobe displays dense dark mottling and a thick dark border along the leading edge. The right lobe is predominantly white with isolated dark pixel clusters and linear streaks."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Obtuse V-shaped notch calculated at approximately 120 degrees with a shallow vertical depth relative to the fluke span.",
+    "edge_topography_serration_map": "Continuous high-frequency jagged serrations with pixel amplitudes varying between 3-12 pixels. A significant geometric discontinuity (deep notch) is visible on the upper trailing edge of the left lobe.",
+    "lobe_sweep_trajectory": "Concave-to-convex sigmoidal trajectory; the trailing edge displays an upward sweep toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular, high-contrast white ring-shaped pixel clusters (approx. 5-7 distinct units) are localized in the lower-central region of the left lobe.",
+    "linear_abrasions": "A prominent dark diagonal linear disruption is visible on the right lobe; multiple shorter, unaligned linear marks are distributed across the left lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Deep jagged excision/trauma mark on the trailing edge of the left lobe. Yellow-orange barnacle clusters are visible at both distal tips.",
+  "other_distinctive_markers": "Pronounced orange-hued biological encrustations (sessile organisms) localized at the extreme lateral tips of the fluke lobes."
+}

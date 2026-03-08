@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Near-zero; the visible ventral surface is dominated by low-intensity black pixels with negligible high-intensity white pixel coverage limited to the distal tips.",
+    "spatial_color_mapping": "Solid, contiguous black pigmentation across the entirety of both visible fluke lobes; small localized high-contrast white clusters are mapped exclusively to the lateral tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped depression with a central convergence point; notch depth is roughly 15-20% of the fluke's vertical pixel height.",
+    "edge_topography_serration_map": "Moderate frequency of serrations; the right lobe exhibits higher pixel-amplitude variations (deeper valleys) compared to the relatively smoother trailing edge of the left lobe.",
+    "lobe_sweep_trajectory": "Convex trajectory along the upper margin leading to pointed distal tips; trailing edge follows a subtle S-curve from the notch to the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Visible clusters of white, high-contrast pixels concentrated at the extreme distal tips and along segments of the anterior edge, corresponding to barnacle colonization sites.",
+    "linear_abrasions": "One faint, diagonal linear pixel disruption of lighter intensity (grey/white) located on the right lobe surface, approximately halfway between the notch and the tip."
+  },
+  "acquired_anomalies_or_scars": "Asymmetrical wear and irregular notches along the trailing edge of the right lobe, indicating minor acquired tissue loss or scarring.",
+  "other_distinctive_markers": null
+}

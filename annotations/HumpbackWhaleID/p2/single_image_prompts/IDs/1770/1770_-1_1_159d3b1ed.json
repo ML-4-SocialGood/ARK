@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface area with high-intensity (white) regions concentrated at the distal tips; estimated macro-level ratio of 85:15 black to white pixels.",
+    "spatial_color_mapping": "High-intensity white patches located at the lateral distal extremities. Left lobe tip features a contiguous white band. Right lobe tip contains a white patch with internal low-intensity black circular spots. Sparse, high-intensity point clusters are distributed across the central black field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central depression with an internal angle of approximately 45 degrees relative to the vertical axis.",
+    "edge_topography_serration_map": "Continuous high-frequency serration across the entire trailing edge; pixel-amplitude of peaks and valleys ranges from 5 to 20 pixels, creating a jagged boundary profile.",
+    "lobe_sweep_trajectory": "Symmetrical convex curves along the trailing edge from the notch to the tips, terminating in sharp points at the lateral margins."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Numerous high-contrast circular pixel clusters (1-5 pixels diameter) distributed across the dark ventral surface, notably concentrated on the medial-right lobe.",
+    "linear_abrasions": "A distinct high-intensity curvilinear mark approximately 150 pixels in length located on the right lobe, oriented medially to laterally."
+  },
+  "acquired_anomalies_or_scars": "A prominent white curvilinear scratch on the right lobe and irregular, asymmetrical notch patterns along the trailing edge indicative of physical trauma.",
+  "other_distinctive_markers": "Unique internal mottling within the white patch of the right distal tip where low-intensity pixels form a 'leopard-spot' pattern."
+}

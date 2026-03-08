@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixel distribution covering approximately 90% of the visible surface, with high-intensity (white) pixels concentrated at the distal trailing edges and tips.",
+    "spatial_color_mapping": "High-contrast white patches located at the distal tips; the left lobe distal tip features a contiguous white region extending approximately 15% along the trailing edge, while the right lobe tip exhibits a smaller, more fragmented white cluster. The central and basal regions are solid black."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped central depression with a calculated interior angle of approximately 65 degrees and a vertical depth occupying 10% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration across the entire trailing edge; right lobe exhibits larger amplitude 'sawtooth' variations (approx. 8-12 pixels) compared to the finer, more worn serrations on the left lobe.",
+    "lobe_sweep_trajectory": "Strongly convex upward curve originating from the peduncle attachment, flattening into a neutral horizontal trajectory before tapering to sharp, pointed distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Two distinct circular high-contrast spots visible: one localized in the mid-section of the left lobe and another smaller point in the lower-central region of the right lobe.",
+    "linear_abrasions": "Faint, light-gray linear markings detected; specifically, a diagonal scratch on the mid-right lobe and several shorter, horizontal disruptions on the lower-left lobe surface."
+  },
+  "acquired_anomalies_or_scars": "A distinct irregular notch or indentation is present on the outer distal margin of the left lobe, breaking the continuous curve of the sweep.",
+  "other_distinctive_markers": "Pronounced asymmetry in tip pigmentation, where the left distal tip possesses significantly higher white pixel density and surface area compared to the right."
+}

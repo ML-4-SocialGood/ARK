@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 40:60 ratio of high-intensity (white/cream) to low-intensity (black/grey) pixels.",
+    "spatial_color_mapping": "Dominant high-intensity contiguous blobs located on the upper distal lobes. Low-intensity pixels form a central wedge and a wide border along the entire trailing edge and distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped notch with an estimated pixel angle of 65 degrees and a bounding-box depth relative to the fluke horizontal axis.",
+    "edge_topography_serration_map": "High-frequency serrations across the entire trailing edge; distinct high-amplitude peaks (5-15 pixels) present towards the distal tips.",
+    "lobe_sweep_trajectory": "Concave-to-convex transition with a sharp upward sweep ending in pointed distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast circular clusters (barnacle scars) detected on the lower left-mid fluke and densely packed on both distal tips.",
+    "linear_abrasions": "Parallel vertical high-intensity lines on the lower central dark region; diagonal low-intensity linear marks on the upper right high-intensity lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive irregular trailing edge degradation and heavy calcified colonization/scarring on the distal tips; multiple sets of rake marks across both lobes.",
+  "other_distinctive_markers": "Prominent isolated dark focal spot located in the upper-right quadrant within the high-intensity region."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level distribution of approximately 85% high-intensity white pixels to 15% low-intensity black/dark-gray pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Primary white field bounded by a continuous black perimeter. Visible high-contrast features include two small discrete black spots in the lower-central right lobe, an irregular black cluster at the bottom-center near the peduncle, and a larger dark smudge on the distal region of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep U-shaped central notch with a calculated obtuse angle of approximately 110 degrees and significant vertical bounding-box depth relative to the lobe width.",
+    "edge_topography_serration_map": "Continuous high-frequency serration along the entire trailing edge boundary, with pixel-amplitude variations ranging from 2-8 pixels; serrations are most pronounced and irregular at the lateral distal tips.",
+    "lobe_sweep_trajectory": "Symmetrical concave curve extending from the median notch toward the outer lateral points of the fluke lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast textured clusters of dark-brown and black pixels at both distal tips, corresponding to localized barnacle colonization and associated scarring.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Irregular jaggedness and minor tissue loss on the trailing edge of the left lobe's distal tip, accompanied by visible parasitic/commensal encrustations.",
+  "other_distinctive_markers": "Presence of a secondary dark cetacean dorsal surface (likely a dorsal fin or back) in the lower-left foreground of the frame."
+}

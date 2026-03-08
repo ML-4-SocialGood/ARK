@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70:30 ratio of low-intensity (dark grey/black) to high-intensity (white/light grey) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Dominant low-intensity central mass with high-intensity white pigmentation concentrated at the distal tips and as irregular mottling on the left lobe. A distinct, high-intensity circular blob is located in the lower-left quadrant of the central fluke body."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible V-shaped central notch with a measured pixel angle of approximately 85 degrees and a deep vertical bounding-box recession.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations detected along the entire trailing edge; pixel amplitude of peaks is greatest on the distal half of the right lobe lobe compared to the left.",
+    "lobe_sweep_trajectory": "Concave mathematical curve along the trailing edge, transitioning to sharp convex points at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of multiple circular high-contrast rings (dark centers with white perimeters) on the medial-right lobe, and white crustose clusters (barnacles) on the terminal points of both lobes.",
+    "linear_abrasions": "Extensive distribution of parallel white linear pixel disruptions (rake marks) crossing the dark pigment on both lobes, with highest density in the central-left and upper-right regions."
+  },
+  "acquired_anomalies_or_scars": "Dense accumulation of parallel linear rake marks and circular parasitic/bite scars across the ventral surface; heavy barnacle colonization on the distal tips.",
+  "other_distinctive_markers": "A prominent, isolated white circular patch (approximately 5% of lobe height) located in the lower interior region of the left lobe."
+}

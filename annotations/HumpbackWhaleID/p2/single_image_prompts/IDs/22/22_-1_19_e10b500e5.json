@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Highly skewed towards low-intensity; approximately 98% of visible fluke surface area consists of low-intensity dark pixels (black/dark grey) with <2% high-intensity white pixels appearing as localized points.",
+    "spatial_color_mapping": "Dominant contiguous dark field covering both lobes. High-contrast white focal points (1-5 pixel diameter) are sparsely distributed across the central and medial regions of both lobes, appearing as isolated high-intensity clusters against the low-intensity background."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central U-shaped depression visible; estimated angle of 50-60 degrees with a depth extending approximately 12% into the vertical bounding box of the fluke.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern visible along the entire trailing boundary. Pixel-amplitude of peaks increases significantly at the distal tips, transitioning from micro-serrations near the notch to macro-serrations at the lobe extremities.",
+    "lobe_sweep_trajectory": "The trailing edge exhibits a complex curve: concave immediately adjacent to the median notch, transitioning to a broad convexity through the mid-lobe, and ending in a sharp upward sweep at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Visible detection of multiple localized circular high-contrast pixel clusters (white) scattered across the ventral surface, likely representing barnacle attachment sites or scars; approximately 8-10 distinct clusters on the left lobe and 6-8 on the right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Multiple small-scale, circular white scars distributed across both lobes; no major structural amputations or large-scale trauma visible.",
+  "other_distinctive_markers": "Highly irregular and jagged distal tips on both lobes, exhibiting larger-scale serrations compared to the rest of the trailing edge."
+}

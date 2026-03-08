@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast ratio with approximately 85% low-intensity (black/dark grey) pixels forming the base and 15% high-intensity (white/light grey) pixels concentrated at the distal tips and scattered in a mottling pattern.",
+    "spatial_color_mapping": "Large, contiguous white patches are mapped to the distal extremities of both lobes. Fine-grained white mottling and speckling are distributed along the trailing edge and lower central regions of the fluke surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped median notch with a pixel angle of approximately 35-40 degrees and a vertical depth roughly 15% of the total lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the entire trailing edge boundary; prominent individual peaks (serrations) are visible at the distal corners, isolated against the water background.",
+    "lobe_sweep_trajectory": "Symmetrical concave sweep originating from the median notch, transitioning to a convex curvature as the trajectory moves toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-contrast, textured brownish-grey pixel blobs (barnacle colonization) are visible at the distal tips and along the leading edges of both lobes.",
+    "linear_abrasions": "Distinct, light-colored linear pixel disruptions (rake marks) are visible running vertically on the dark-pigmented surface of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Localized barnacle clusters on distal tips and multiple small, irregular indentations along the trailing edge topography suggesting minor physical trauma.",
+  "other_distinctive_markers": null
+}

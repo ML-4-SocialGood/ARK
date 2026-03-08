@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution; approximately 75% high-intensity white pixels and 25% low-intensity black pixels concentrated in the central and peripheral regions.",
+    "spatial_color_mapping": "Dominant low-intensity (black) contiguous region originating at the median notch and radiating laterally into both lobes. Fine-grained low-intensity mottling and punctate spots scattered across the high-intensity (white) field of both lateral lobes. Continuous low-intensity banding along the trailing edge perimeter."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate vertex angle of 40 degrees and a depth-to-width ratio of 1.2:1.",
+    "edge_topography_serration_map": "High-frequency, non-uniform serration pattern characterized by numerous irregular peaks and valleys (amplitude 5-15 pixels) across the entire trailing edge boundary, with increased amplitude toward the distal tips.",
+    "lobe_sweep_trajectory": "Symmetrical convex curvature along the leading edges with a positive upward sweep terminating in acute, slightly hooked fluke tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Two distinct circular low-intensity clusters (approx. 10-pixel diameter) on the left lobe and three smaller clusters on the mid-right lobe, consistent with barnacle scar morphology.",
+    "linear_abrasions": "A single prominent reddish-brown linear pixel disruption (approx. 80 pixels in length) oriented horizontally on the lower quadrant of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Notable reddish-brown linear lesion on the right lobe; several deep, irregular notches on the trailing edge of the right fluke tip indicative of historical mechanical trauma.",
+  "other_distinctive_markers": "Unique 'feathered' gradient transition between the central black pigmentation and the white field, particularly on the interior margins of the right lobe."
+}

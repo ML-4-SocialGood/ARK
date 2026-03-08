@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65% high-intensity white pixels to 35% low-intensity black pixels across the visible ventral area.",
+    "spatial_color_mapping": "Primary white contiguous geometric regions covering the lateral portions of both lobes; a central dark 'butterfly' shaped region extending from the peduncle. Discrete small dark pixel blobs (mottling) are mapped to the distal areas of both white lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped depression with a pixel angle of approximately 65 degrees and a vertical depth ratio of 0.12 relative to total lobe height.",
+    "edge_topography_serration_map": "High-frequency serrations with pixel-amplitudes ranging from 4 to 18 pixels along the continuous linear boundary, specifically prominent on the outer thirds of both lobes.",
+    "lobe_sweep_trajectory": "Convex curve fitted to the outer trailing edges of both lobes, transitioning to a sharp posterior sweep at the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple localized circular high-contrast white clusters detected at the distal tips and along the trailing edge peaks, indicating potential barnacle colonization points.",
+    "linear_abrasions": "Several unaligned dark linear streaks (rake marks) disrupting the white pigmentation on both the left and right ventral lobes."
+  },
+  "acquired_anomalies_or_scars": "Distinct white point-scars on the central dark peduncle surface and irregular deep notches on the trailing edge topography.",
+  "other_distinctive_markers": "A unique hook-shaped cluster of dark pixels on the inner trailing edge of the left lobe immediately adjacent to the median notch."
+}

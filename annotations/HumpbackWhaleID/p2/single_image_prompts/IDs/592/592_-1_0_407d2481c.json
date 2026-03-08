@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 9:1 ratio of high-intensity white pixels (central) to low-intensity black pixels (periphery and localized spots).",
+    "spatial_color_mapping": "Continuous black perimeter banding along the trailing edge and lateral margins; dendritic/branching black clusters at the upper-left distal region; discrete circular black spots located in the lower-right quadrant; isolated 45-degree linear black segment on the left lobe field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped vertex with an internal angle of approximately 72 degrees; vertex depth estimated at 15% of the visible vertical lobe height.",
+    "edge_topography_serration_map": "Irregular saw-tooth profile with varying pixel amplitude; multiple micro-serrations (peaks) across both lobes; significant indentation (valley) at the 60% mark of the left trailing edge; jagged topography concentrated at the distal tips.",
+    "lobe_sweep_trajectory": "Convex curvature from the median notch to mid-lobe, transitioning to a distal recurve toward the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-intensity white/yellowish three-dimensional clusters (barnacles) localized on the far left and far right distal tips; multiple dark-ringed circular focal points distributed across the right lobe surface.",
+    "linear_abrasions": "Distinct dark linear pixel disruption (approx. 30px in length) at mid-left lobe; secondary series of shorter, parallel dark rake-marks on the right lobe adjacent to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Localized epibiotic colonization (barnacles) on lateral extremities; mechanical notches and irregular missing segments along the left trailing edge boundary.",
+  "other_distinctive_markers": "Highly specific dendritic pigmentation pattern at the upper-left margin that breaks into a fine network of black lines against the white field."
+}

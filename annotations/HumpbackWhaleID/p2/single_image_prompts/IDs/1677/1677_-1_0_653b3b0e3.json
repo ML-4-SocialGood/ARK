@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 40:60 ratio of high-intensity white/light-grey pixels to low-intensity black/dark-grey pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Two primary high-intensity (white) wedge-shaped regions are situated on the lateral lobes. These regions are bifurcated by a low-intensity (black) central vertical column extending from the peduncle to the median notch. The light-colored patches are bounded by low-intensity margins at the leading and trailing edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A distinct V-shaped central depression with a calculated interior angle of approximately 55 degrees and a moderate bounding-box depth relative to lobe width.",
+    "edge_topography_serration_map": "The trailing edge displays low-frequency, low-amplitude irregularities. Subtle serration is detectable on the distal third of the right lobe, while the left lobe trailing edge remains relatively smooth with minor pixel-level deviations.",
+    "lobe_sweep_trajectory": "The trailing edges of both lobes follow a broad convex curve from the median notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Several localized, roughly circular low-intensity pixel clusters are visible within the high-intensity white patches, most notably a cluster of three small spots near the upper boundary of the right lobe patch.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "A small, non-symmetrical indentation or 'notch' is visible on the outer distal margin of the right fluke lobe.",
+  "other_distinctive_markers": null
+}

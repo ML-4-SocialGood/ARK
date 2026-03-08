@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) distribution; approximately 90% dark pixels to 10% high-intensity pixels occurring in localized scars and distal tips.",
+    "spatial_color_mapping": "Continuous dark pigmentation across both lobes. Discrete high-contrast white linear feature on the left lobe. High-contrast white clusters at the extreme distal lateral tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped notch with an estimated 150-degree interior angle and shallow bounding-box depth.",
+    "edge_topography_serration_map": "Low-frequency, low-amplitude serrations along the trailing edge; significant pixel-level raggedness and high-amplitude variations at the distal tips.",
+    "lobe_sweep_trajectory": "Linear to slightly concave trajectory sloping from distal tips toward the central median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, roughly circular high-contrast white pixel clusters located at both the left and right distal lobe tips. Scattered white micro-spots on the left lobe surface.",
+    "linear_abrasions": "One prominent diagonal linear white scar on the left lobe; several shorter, faint linear disruptions on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant diagonal linear scar on left lobe; heavy colonization/scarring at the extreme lateral tips of both lobes.",
+  "other_distinctive_markers": "Highly irregular distal tip profiles caused by dense clusters of high-contrast pixel data."
+}

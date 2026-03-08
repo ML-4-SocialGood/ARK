@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low ratio of high-intensity pixels to low-intensity pixels; the surface is predominantly low-intensity black (approx. 90-95%) with high-intensity white signals limited to surface abrasions and scarring.",
+    "spatial_color_mapping": "Uniform low-intensity dark field across the visible area, interspersed with high-contrast white linear streaks and circular clusters concentrated in the medial and distal regions of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible V-shaped central depression with an approximate interior angle of 72 degrees and a bounding-box depth approximately 12% of the total fluke height.",
+    "edge_topography_serration_map": "Continuous, high-frequency irregular serration pattern along the trailing edge with pixel-amplitude variations (jaggedness) ranging from 5 to 20 pixels relative to the water interface.",
+    "lobe_sweep_trajectory": "Convex trailing edge curve tapering toward narrow, pointed distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular white high-contrast clusters scattered across the dark surface, particularly visible as small white rings or dots on the mid-left and lower-right regions.",
+    "linear_abrasions": "Extensive network of distinct, unaligned white linear pixel disruptions (rake marks) of varying lengths and orientations across the entire visible fluke surface."
+  },
+  "acquired_anomalies_or_scars": "Prominent textured biological encrustations (barnacle colonies) present on the distal tips of both the left and right fluke lobes.",
+  "other_distinctive_markers": "Highly unique circular 'O' shaped white scar on the mid-left lobe and distinct parallel horizontal rake marks on the lower right lobe."
+}

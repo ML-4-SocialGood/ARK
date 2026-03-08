@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 65% high-intensity white pixels concentrated in the central lobe regions and 35% low-intensity black pixels located primarily along the trailing edges and in linear streaks.",
+    "spatial_color_mapping": "Contiguous high-intensity white regions occupy the central 70% of both lobes. These are bordered by a continuous black perimeter on the trailing edge. Vertical black streaks and circular focal spots (approximately 10-15 distinct marks) are distributed across the white spatial area."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated internal pixel angle of approximately 55 degrees and a vertical depth occupying roughly 15% of the total fluke height.",
+    "edge_topography_serration_map": "Highly irregular, high-amplitude serrations along the entire boundary. Extraction shows frequent peaks and valleys with a pixel depth variation of up to 20 pixels from the mean edge trajectory, creating a jagged silhouette.",
+    "lobe_sweep_trajectory": "The trailing edge follows a wide convex curve from the median notch toward the distal tips, heavily modified by localized geometric irregularities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast yellowish-white pixel clusters (barnacle colonies) are densely concentrated on the distal tips and at irregular intervals along the trailing edge peaks.",
+    "linear_abrasions": "Significant detection of parallel and unaligned vertical black linear disruptions (rake marks) that intersect the white pigmentation, particularly dense on the medial section of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization on the fluke tips and trailing edge; multiple vertical linear scars (rake marks) across the ventral surface.",
+  "other_distinctive_markers": "Extreme degree of trailing edge serration and fragmentation relative to typical smooth-edge variations."
+}

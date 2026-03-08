@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level ratio; approximately 75% high-intensity white pixels concentrated in the central lobe regions against 25% low-intensity black pixels along the peripheral boundaries.",
+    "spatial_color_mapping": "Two large, contiguous high-intensity white regions occupy the center of the left and right lobes. These are bounded by a continuous low-intensity black perimeter. Irregular low-intensity mottling is visible encroaching from the leading edge into the white interior, particularly on the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped depression with an approximate pixel angle of 50 degrees; notch depth occupies roughly 1/6th of the vertical fluke profile.",
+    "edge_topography_serration_map": "Generally smooth trailing edge with low-frequency, low-amplitude pixel variations. Minor serrations are detectable primarily on the distal third of both the left and right lobes.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a symmetrical concave curve from the median notch to the tips; leading edges show a strong convex sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Ragged pixel boundary and irregular truncation visible at the distal tip of the left lobe (viewer's left), suggesting minor physical trauma.",
+  "other_distinctive_markers": null
+}

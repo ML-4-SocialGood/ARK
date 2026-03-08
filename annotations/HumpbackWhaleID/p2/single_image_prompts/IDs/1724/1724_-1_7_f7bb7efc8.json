@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low intensity-to-high intensity ratio; approximately 85-90% low-intensity (black/dark grey) pixels with 10-15% high-intensity (white) pixels concentrated in vertical banding and distal tips.",
+    "spatial_color_mapping": "Primary feature is a thick, high-contrast vertical white band on the left lobe extending from the trailing edge towards the base. Secondary smaller white mottling is located near the lower central notch region and as localized clusters on the distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an estimated angle of 55 degrees and significant penetration depth into the fluke body.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern across both lobes; numerous jagged peaks and valleys with pixel-amplitudes varying between 5 and 15 pixels relative to the mean edge line.",
+    "lobe_sweep_trajectory": "Strongly convex trailing edge curve sweeping upward to acutely pointed distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-intensity white circular pixel groups (barnacles) are densely packed on the extreme distal tips of both left and right lobes.",
+    "linear_abrasions": "Several faint, unaligned light-grey linear streaks are visible on the dark pigmented area of the left lobe, primarily oriented horizontally."
+  },
+  "acquired_anomalies_or_scars": "Localized irregularities and minor tissue loss along the serrated trailing edge, particularly on the inner section of the right lobe.",
+  "other_distinctive_markers": "Unique, high-contrast vertical white 'lightning bolt' streak on the left lobe surface."
+}

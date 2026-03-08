@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixels across the visible ventral surface, with scattered high-intensity (white) pixel clusters occupying approximately 5-8% of the surface area.",
+    "spatial_color_mapping": "Contiguous dark-grey/black region across the entirety of both lobes. High-contrast white speckles (focal spots) are distributed across the surface, with a higher concentration of clusters on the distal portion of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped central depression with a calculated angle of approximately 85 degrees and a bounding-box depth relative to the lobe span.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations (peaks and valleys) visible along the entire trailing edge boundary, with pixel-amplitude variations ranging from 3 to 12 pixels.",
+    "lobe_sweep_trajectory": "Symmetrical convex curvature along the visible leading edges; the trailing edge displays a sigmoid-like curve transitioning from concave near the median notch to convex toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular and semi-circular high-contrast white pixel clusters (rosettes) detected across both lobes, primarily ranging from 3x3 to 6x6 pixel blocks.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Widespread focal white spotting across the ventral surface, consistent with localized pigmentation disruptions or historical barnacle attachment sites.",
+  "other_distinctive_markers": null
+}

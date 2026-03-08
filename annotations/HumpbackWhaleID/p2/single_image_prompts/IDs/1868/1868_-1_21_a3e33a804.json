@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low; approximately 0.05:0.95 ratio of high-intensity white pixels to low-intensity black/grey pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Primary surface is a continuous low-intensity dark field. High-contrast contiguous white blobs are located at the distal left and right tips. A single isolated linear white segment is positioned approximately 10% from the central notch on the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch; calculated interior angle of approximately 65 degrees with a deep bounding-box vertical depression relative to the lobe peaks.",
+    "edge_topography_serration_map": "High-frequency serration along the entire boundary; irregular peak-to-valley pixel amplitude ranging from 3 to 12 pixels. Distinct jagged protrusions are concentrated on the outer thirds of both lobes.",
+    "lobe_sweep_trajectory": "Moderate concave sweep trajectory moving from the distal tips towards the medial notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed cluster of circular high-contrast white pixels (barnacle colonization) localized on the distal margin of the right lobe. Sparse individual white circular pixels detected across the mid-section of the right lobe.",
+    "linear_abrasions": "Multiple fine, multi-directional linear pixel disruptions (rake marks) observed primarily on the left lobe; one prominent horizontal white scratch located adjacent to the central notch."
+  },
+  "acquired_anomalies_or_scars": "Physical trauma/tissue erosion evident on the superior-most edge of the left distal tip, characterized by an irregular boundary and non-pigmented brownish exposure. Distinct horizontal scar near the center-left notch.",
+  "other_distinctive_markers": "Localized brownish/reddish pixel cluster on the superior edge of the left tip, contrasting with the standard black/white fluke pigmentation."
+}

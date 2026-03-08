@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 95:5 ratio of low-intensity (black/dark gray) pixels to high-intensity (white) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant contiguous dark field covering the entire fluke area. Scattered high-contrast white focal points and ring-like clusters are localized in the central-left region and near the right lobe tip. Dispersed linear white streaks are mapped primarily across the medial and distal sections of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped central depression with a calculated angle of approximately 50 degrees and a depth-to-width ratio of approximately 0.15 relative to the lobe span.",
+    "edge_topography_serration_map": "Irregular serrated boundary with variable pixel amplitude; higher frequency of peaks and valleys observed on the trailing edge of the right lobe compared to the smoother left lobe boundary.",
+    "lobe_sweep_trajectory": "Concave curvature along the inner trailing edge leading to the median notch, with a roughly linear to slightly convex leading edge trajectory toward the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular and ring-shaped white pixel clusters detected; notable concentrations in the mid-section of the left lobe and scattered along the trailing margin of the right lobe.",
+    "linear_abrasions": "Several unaligned high-contrast white linear segments detected, including a prominent diagonal rake mark in the upper-medial region of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Circular ring-like scars consistent with parasitic or barnacle attachment sites and multiple linear rake-mark abrasions distributed across both lobes.",
+  "other_distinctive_markers": null
+}

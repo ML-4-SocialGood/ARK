@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.82:0.18 ratio of high-intensity white to low-intensity black/dark-grey pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant high-intensity (white) contiguous regions occupy the central and lateral fields of both lobes. Low-intensity (black) pigmentation is localized to the entire perimeter of the trailing edge, the distal tips, and a broad central vertical band at the peduncle junction. Dark radial striations extend from the center into the white fields."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a calculated angle of approximately 42 degrees and a depth extending roughly 15% of the visible vertical fluke axis.",
+    "edge_topography_serration_map": "High-frequency, irregular serration characterized by multiple jagged peaks and U-shaped indentations (pixel amplitude 5-15) along the entire continuous trailing edge boundary.",
+    "lobe_sweep_trajectory": "Trailing edge segments follow a broadly concave trajectory from the notch to the distal tips, while the tips themselves exhibit a sharp convex recurve."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular low-contrast pixel clusters (3-10 pixels in diameter) consistent with barnacle attachment scars are detected in high density near the distal tips and lower margins.",
+    "linear_abrasions": "Multiple dark, unaligned linear streaks detected; three prominent diagonal marks on the inner-left lobe and one vertical linear disruption on the lower-right lobe."
+  },
+  "acquired_anomalies_or_scars": "Presence of deep, irregular indentations on the trailing edge of the right lobe suggesting past physical trauma. Widespread circular pigmentation voids distributed across both white lobes.",
+  "other_distinctive_markers": "Unique dendritic or 'flame-like' pigmentation pattern at the base of the median notch, where black pixels branch into the white fields."
+}

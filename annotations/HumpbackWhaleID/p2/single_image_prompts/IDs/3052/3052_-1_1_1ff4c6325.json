@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 75:25 ratio of high-intensity white pixels (central lobe areas) to low-intensity black pixels (perimeter and trailing edge mottling).",
+    "spatial_color_mapping": "Large contiguous high-intensity white regions occupy the interior of both lobes. Dense, low-intensity black pixels form a continuous band along the trailing edge and leading edge, with a concentrated dark cluster extending from the median notch into the center-point of the peduncle connection."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped depression with an approximate internal angle of 35 degrees; the notch depth is roughly 10% of the vertical height of the fluke.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the full trailing edge of both lobes. Left lobe distal tip shows 4-5 distinct, high-amplitude jagged peaks (approximately 10-15 pixels in depth) relative to the smoother inner trailing edge.",
+    "lobe_sweep_trajectory": "Strong convex curve fitted to the outer edges of both lobes, tapering to sharp points at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial cluster of 6-8 distinct low-intensity circular pixel clusters (dark spots) located on the distal third of the left lobe's ventral surface.",
+    "linear_abrasions": "Two distinct, short, horizontal low-intensity lines located in the mid-section of the left lobe, approximately 20% distance from the median notch."
+  },
+  "acquired_anomalies_or_scars": "Notable irregular jaggedness and potential tissue loss on the distal trailing edge of the left lobe compared to the more uniform serration pattern of the right lobe.",
+  "other_distinctive_markers": "Image contains a physical identification tag at the bottom with high-contrast text: JAC 7/ 2 10107 JOHN CALAMBOKIDIS 26 Aug 87."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio of approximately 75% high-intensity (white) to 25% low-intensity (black) pixels across the visible fluke surface.",
+    "spatial_color_mapping": "Contiguous high-intensity white regions occupy the central lobes; low-intensity black pigmentation is mapped to the entire trailing edge boundary, the median notch region, and isolated circular points on the interior surfaces."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central depression with a pixel-calculated angle of approximately 52 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the trailing edge boundary with pixel amplitudes ranging from 3 to 12 pixels relative to the mean edge curve.",
+    "lobe_sweep_trajectory": "Leading edge displays a smooth convex curve; trailing edge follows a complex trajectory of concavity near the notch followed by distal convexity."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Two distinct circular low-intensity clusters (rosettes) positioned mid-laterally on the right lobe; one larger circular cluster on the upper-central left lobe.",
+    "linear_abrasions": "Set of multiple parallel linear rake marks on the upper distal quadrant of the right lobe; multiple unaligned linear disruptions on the lower proximal quadrant of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive rake marks across both lobe surfaces; irregular indentations along the trailing edge suggesting minor tissue loss.",
+  "other_distinctive_markers": "Broad, low-intensity pigmentation 'stem' at the median notch tapering vertically downward toward the fluke base."
+}

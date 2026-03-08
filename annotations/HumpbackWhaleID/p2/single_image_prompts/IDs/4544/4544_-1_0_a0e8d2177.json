@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast ratio; approximately 70% of the visible surface consists of high-intensity white pixels in the central regions, bordered by 30% low-intensity black pixels at the margins and notch.",
+    "spatial_color_mapping": "Large contiguous white geometric regions occupy the center of both lobes. Low-intensity black pixel streaks and mottling radiate from the median notch into the high-intensity field. Solid black pigmentation forms a continuous band along the lateral and leading edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a sharp vertex. The notch depth is approximately 15% of the visible vertical lobe height.",
+    "edge_topography_serration_map": "Irregular serration across the entire trailing edge. The right lobe (image right) shows higher-amplitude pixel variations and sharper peaks compared to the left lobe, which exhibits a more consistent but still jagged topography.",
+    "lobe_sweep_trajectory": "Convex curvature on the lateral edges. The left lobe (image left) terminates in a rounded, inward-curving tip, while the right lobe tip appears more tapered and laterally extended."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct cluster of 6-10 roughly circular, high-contrast white and grey pixel clusters localized on the distal tip of the left lobe (image left).",
+    "linear_abrasions": "Multiple dark, unaligned linear pixel disruptions are visible; specifically, three near-vertical rake marks on the lower-left lobe and one prominent diagonal scratch on the upper-central left lobe."
+  },
+  "acquired_anomalies_or_scars": "A significant irregular notch-like indentation is present on the trailing edge of the right lobe, distinct from the natural serration pattern.",
+  "other_distinctive_markers": "A series of high-contrast black 'brush-stroke' patterns radiating upward from the peduncle attachment point into the white ventral field."
+}

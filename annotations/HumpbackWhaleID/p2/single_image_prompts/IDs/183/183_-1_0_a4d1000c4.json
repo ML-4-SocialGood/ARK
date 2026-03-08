@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extreme bimodal distribution; left lobe is approximately 90% low-intensity (shadowed), while the right lobe is approximately 85% high-intensity (saturated glare).",
+    "spatial_color_mapping": null
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central U-shaped notch with a calculated interior pixel angle of approximately 42 degrees.",
+    "edge_topography_serration_map": "Highly irregular trailing edge; left lobe contains 6 distinct peaks with significant pixel-amplitude; right lobe contains higher-frequency, smaller serrations localized along the backlit boundary.",
+    "lobe_sweep_trajectory": "Strongly concave sweep trajectory along the trailing edge, terminating in acute distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense cluster of circular, high-contrast textured nodes (barnacles) localized on the outer distal tip and leading edge of the left lobe.",
+    "linear_abrasions": "Detection of 4 parallel, near-vertical linear pixel disruptions (darker than surrounding shadow) on the mid-ventral surface of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant barnacle colonization on the far-left fluke tip and upper margin.",
+  "other_distinctive_markers": "Severe pixel saturation and atmospheric interference (glare and water spray) obscuring approximately 45% of the right fluke surface."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Highly skewed toward low-intensity values; the visible surface area is approximately 92% low-intensity (black) and 8% high-intensity (white/light-grey) localized at tips and surface scars.",
+    "spatial_color_mapping": "Primary surface is a continuous black pigmentation. High-contrast white contiguous clusters are mapped to the extreme lateral tips (distal margins). Discrete, circular high-contrast rings and linear streaks are distributed across the mid-to-distal regions of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated internal angle of approximately 85 degrees; depth is roughly 15% of the total fluke vertical height.",
+    "edge_topography_serration_map": "Low-frequency serrations visible along the medial trailing edge; topography transitions to high-amplitude, irregular jaggedness toward the distal tips, specifically on the right lobe which shows a distinct stepped contour.",
+    "lobe_sweep_trajectory": "Strongly convex leading edges sweeping to acute, upwardly-tapered lateral tips; the trailing edge follows a broadly concave arc from the notch to the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast clusters of white circular pixel groups (barnacle colonization) localized on the outer lateral tips of both lobes. Several isolated, high-contrast circular rings (diameter approx. 10-30 pixels) are scattered on the black surface of both lobes.",
+    "linear_abrasions": "Distinct sets of white linear pixel disruptions (scratches) mapped primarily to the outer third of both lobes; several horizontal/diagonal rake-like marks are visible near the lower margins."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization on distal margins; numerous circular white 'O' shaped scars (lamprey-style marks) visible across the dark ventral surface.",
+  "other_distinctive_markers": "Presence of multiple, highly distinct white circular ring scars scattered across both fluke lobes, creating a unique geometric pattern against the dark background."
+}

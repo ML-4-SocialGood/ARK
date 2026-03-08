@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The macro-level ratio exhibits approximately 60% high-intensity white pixels concentrated on the lateral lobes and 40% low-intensity dark-gray/black pixels centered medially.",
+    "spatial_color_mapping": "Large contiguous high-intensity white blobs occupy the majority of the left and right lobes. A central low-intensity dark region extends vertically from the insertion point, branching into mottled, dendritic patterns along the interior margins of the lobes. Small, isolated low-intensity spots are scattered within the white regions, primarily on the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A sharp, V-shaped median notch is visible with an approximate pixel angle of 40 degrees and a depth-to-width ratio of 1:1.5 within its local bounding box.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations are present along the entire continuous trailing edge. The right lobe demonstrates higher-amplitude peaks (3-5 pixels) compared to the left lobe, which shows a more moderated sawtooth pattern.",
+    "lobe_sweep_trajectory": "The trailing edges follow a predominantly convex curve toward the tips, while the visible portions of the leading edges exhibit a slight concave trajectory."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast white pixel clusters, roughly circular in morphology, are densely mapped within the central dark-pigmented region and along the distal sections of the leading edges.",
+    "linear_abrasions": "Four distinct, unaligned dark linear disruptions (scratches) are detected on the high-intensity white surface of the left lobe, oriented at approximately a 45-degree angle to the midline."
+  },
+  "acquired_anomalies_or_scars": "Prominent, textured brownish-tan pixel clusters (consistent with live barnacle colonization) are visible on the distal tips of both the left and right lobes. Irregular tissue loss is observed along the trailing edge of the right lobe.",
+  "other_distinctive_markers": "A singular, large dark circular pigment focal spot is located on the mid-posterior region of the left lobe."
+}

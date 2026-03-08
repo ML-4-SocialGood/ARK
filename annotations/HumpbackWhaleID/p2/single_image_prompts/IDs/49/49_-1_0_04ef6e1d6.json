@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio estimated at 55% high-intensity white pixels to 45% low-intensity black pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Large contiguous white zones dominate the interior of both lobes. Left lobe features dense black mottling along the lower-lateral and leading margins. Right lobe contains a prominent vertical low-intensity linear stroke and irregular dark clusters at the proximal base near the notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated interior angle of approximately 40 degrees.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (peaks and valleys) occur along the entire continuous linear boundary of the trailing edge.",
+    "lobe_sweep_trajectory": "Convex curve fitted to the trailing edge of both lobes, terminating in a sharp upward sweep at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of localized, circular high-contrast white pixel clusters at the extreme distal tips of both lobes.",
+    "linear_abrasions": "Distinct, near-vertical low-intensity linear pixel disruption on the right lobe's white field; multiple faint curvilinear disruptions visible on the left lobe's white field."
+  },
+  "acquired_anomalies_or_scars": "Prominent dark vertical linear mark on the right lobe; irregular high-contrast white scarring on the extreme tips of both lobes.",
+  "other_distinctive_markers": "Unique thin vertical linear feature on the right lobe creates a highly distinctive geometric identifier within the pigmentation map."
+}

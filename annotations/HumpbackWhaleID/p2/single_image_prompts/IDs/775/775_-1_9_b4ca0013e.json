@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixel field with high-intensity (white) clusters localized at margins, representing approximately 15% of the visible surface.",
+    "spatial_color_mapping": "High-intensity white mottling is concentrated at the lateral tips of both lobes and along the perimeter of the median notch. Sparse white pixel clusters are stochastically distributed across the central black regions of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch with an approximate interior angle of 52 degrees and a bounding-box depth extending approximately 18% into the fluke span.",
+    "edge_topography_serration_map": "Continuous irregular serration with variable amplitudes ranging from 4 to 15 pixels; edge topography shows higher frequency of peaks and valleys on the medial section of the right lobe.",
+    "lobe_sweep_trajectory": "Bilateral concave sweep originating from the median notch, transitioning to a slight convex curve as the trailing edge approaches the lateral terminal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Circular high-contrast white pixel clusters localized on the distal edge of the right lobe and scattered across the lower margin of the left lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

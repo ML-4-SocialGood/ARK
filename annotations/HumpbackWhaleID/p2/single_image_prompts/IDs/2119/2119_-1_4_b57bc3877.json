@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 60:40 ratio of high-intensity (white/grey) to low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Left lobe exhibits a dominant high-intensity background with several isolated, roughly circular low-intensity (black) blobs. Right lobe contains a large, irregular, contiguous low-intensity mass covering the proximal and medial regions, transitioning to a high-intensity distal region containing small, scattered low-intensity circular spots."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency jagged serrations present across the entire trailing edge of both lobes, characterized by irregular peaks and valleys with vertical pixel-amplitudes between 5 and 15 pixels.",
+    "lobe_sweep_trajectory": "Both lobes follow a predominantly convex curve from the proximal region toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast, jagged, and textured pixel clusters indicative of barnacle colonization are clearly visible at the distal tips of both the left and right lobes.",
+    "linear_abrasions": "Several dark, vertical linear pixel disruptions are visible on the distal high-intensity surface of the right lobe, breaking the consistent pigmentation pattern."
+  },
+  "acquired_anomalies_or_scars": "Localized clusters of barnacles at both lobe tips; multiple distinct circular dark markings on the ventral surface of the left lobe.",
+  "other_distinctive_markers": "Pronounced pigmentation asymmetry, with the right lobe featuring a significantly larger contiguous dark region compared to the predominantly light-colored left lobe."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low global contrast ratio; approximately 95% of visible ventral fluke pixels reside in the low-intensity (dark) range, with high-intensity (white) pixels restricted to distal tips and sparse micro-spots.",
+    "spatial_color_mapping": "Contiguous low-intensity dark field across the entire fluke body. High-intensity geometric clusters are localized at the distal lobe tips (coordinates: extreme left and right boundaries) with isolated, near-pixel-level white spots scattered across the central surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with a calculated pixel angle of approximately 135 degrees and a moderate depth relative to the lobe vertical axis.",
+    "edge_topography_serration_map": "Continuous, irregular serration profile along the trailing edge with pixel-amplitude variations (peaks/valleys) ranging from low-frequency on outer sections to higher-frequency near the median notch.",
+    "lobe_sweep_trajectory": "Mathematical convex curvature observed from the median notch extending to the distal tips on both the left and right lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast, dense white pixel clusters representing localized roughly circular regions at the distal lobe tips, signifying barnacle colonization points.",
+    "linear_abrasions": "Several distinct, unaligned linear pixel disruptions (high-intensity relative to background) observed as scratches on the mid-ventral surface of both lobes."
+  },
+  "acquired_anomalies_or_scars": "Prominent high-intensity, textured calcified masses at the extreme distal tips of both fluke lobes.",
+  "other_distinctive_markers": null
+}

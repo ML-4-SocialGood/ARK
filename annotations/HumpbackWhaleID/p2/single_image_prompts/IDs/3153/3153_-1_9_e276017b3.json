@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low macro-level contrast; pixel distribution is dominated by low-intensity (black) values with less than 5% high-intensity coverage primarily due to specular glare.",
+    "spatial_color_mapping": "Uniformly distributed low-intensity pixels across the visible surface; no distinct high-contrast geometric blobs, mottling, or light-colored banding patterns are visible."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped depression with a wide estimated internal angle of 145 degrees.",
+    "edge_topography_serration_map": "Continuous jagged boundary characterized by high-frequency, low-amplitude pixel variations; serrations are most distinct along the distal segments of the trailing edge.",
+    "lobe_sweep_trajectory": "Convex curve fitted to the trailing edge boundaries of both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

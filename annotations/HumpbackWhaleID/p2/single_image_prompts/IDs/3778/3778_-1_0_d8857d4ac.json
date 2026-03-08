@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level ratio; approximately 85% high-intensity (white/light gray) pixels centrally, bounded by 15% low-intensity (black) pixels at the trailing edge and distal tips.",
+    "spatial_color_mapping": "Large contiguous high-intensity light region across the central interior of both lobes; solid low-intensity dark banding along the trailing edge (width approx. 10-25 pixels); small focal low-intensity circular clusters (approximately 8-10) distributed across the light-intensity interior surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an approximate internal angle of 55 degrees; depth is roughly 12% of the fluke's total vertical height within the image frame.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the entire trailing edge; pixel amplitude of peaks and valleys varies between 3 and 15 pixels; edge profile consists of irregular, jagged peaks localized between the notch and distal tips.",
+    "lobe_sweep_trajectory": "Concave curve fitted to the trailing edge of both lobes, tapering to sharp distal terminals."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 8 small, roughly circular dark-gray pixel clusters (diameter 3-7 pixels) scattered across the high-intensity interior of both the left and right lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Small circular scarring/pigmentation clusters across the ventral surface; no physical trauma or structural amputations visible.",
+  "other_distinctive_markers": null
+}

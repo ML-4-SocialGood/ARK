@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Dominant low-intensity (black/dark grey) base with localized high-intensity (white) circular regions; approximately 85:15 dark-to-light pixel ratio across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Symmetrical distribution of high-contrast white annular rings (rosettes) concentrated in the distal regions of both lobes, with a sparse distribution of individual white circular spots across the mid-section and a solid dark core surrounding the median notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped notch with an estimated internal angle of 42 degrees and a pixel-depth roughly equal to 15% of the total visible fluke height.",
+    "edge_topography_serration_map": "Continuous boundary characterized by high-frequency, low-amplitude serrations; the left lobe trailing edge features two prominent, low-frequency large-scale indentations (notches) indicating significant tissue removal.",
+    "lobe_sweep_trajectory": "Concave upward sweep originating from the median notch, transitioning to a convex curve along the outer margins of the distal lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Widespread circular white ring clusters (barnacle scars) ranging from 15 to 45 pixels in diameter; highest spatial density observed on the outer 25% of both lobes.",
+    "linear_abrasions": "Low-contrast, light grey linear pixel disruptions (rake marks) detected on the lower right lobe, oriented approximately 25 degrees relative to the horizontal axis."
+  },
+  "acquired_anomalies_or_scars": "Significant scalloping and missing tissue segments on the left lobe trailing edge; dense colonization of barnacles (appearing as textured, high-contrast bulbous clusters) on the distal tips and leading edge margins.",
+  "other_distinctive_markers": "Visible biological encrustation (barnacles) extending beyond the anatomical skin boundary at the extreme lateral tips of the fluke lobes."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 75% low-intensity (black/dark grey) pixels and 25% high-intensity (white) pixels primarily located at the distal tips and along the trailing edge.",
+    "spatial_color_mapping": "Central and lower fluke regions are characterized by a solid dark contiguous mass. High-contrast white mottling and contiguous white patches are mapped to the upper 20% of the fluke area, extending from the median notch to the distal tips on both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped median notch with an estimated pixel angle of 55-65 degrees and a bounding-box depth approximately 1/8th of the vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern along the entire trailing edge. Visible peaks and valleys range from 5 to 15 pixels in amplitude, with the highest concentration of jagged peaks occurring on the inner trailing edge of both lobes.",
+    "lobe_sweep_trajectory": "Bi-lateral convex curvature on the outer margins, transitioning to a slight concave curve as the trailing edge approaches the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of circular, high-contrast white and beige pixel aggregates (barnacle colonies) are localized on the extreme distal tips (left and right) of the fluke.",
+    "linear_abrasions": "Distinct dark vertical linear disruptions (rake marks) are visible against the white pigmented background of the upper right lobe, oriented roughly perpendicular to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization on the distal tips and visible parallel rake marks on the right lobe's ventral surface.",
+  "other_distinctive_markers": "Unique asymmetric pigmentation pattern where the right lobe contains a significantly larger and more contiguous white patch compared to the more fragmented mottling on the left lobe."
+}

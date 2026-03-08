@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 40:60 ratio of low-intensity black pixels (central and peduncle region) to high-intensity white pixels (lateral lobe regions).",
+    "spatial_color_mapping": "Large contiguous white segments on both lateral lobes. The central region is a solid dark mass with feathered transitions. The right lobe contains high-frequency dark speckling/mottling across the white field. The left lobe contains diagonal dark linear striations on the lower white section."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch with a narrow vertex; estimated interior pixel angle between 35-45 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge boundary. Significant jagged peaks are visible at the distal tips. Continuous micro-oscillations in pixel height against the water background.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge leading to sharp, tapered distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Concentrated dark circular pixel clusters on the right white lobe. Dense, irregular high-contrast clusters (barnacle colonies) are located at the extreme distal tips of both lobes.",
+    "linear_abrasions": "A series of roughly parallel, dark linear disruptions visible on the white field of the lower-left lobe, oriented diagonally."
+  },
+  "acquired_anomalies_or_scars": "Prominent barnacle colonization visible as textured, brownish-grey clusters at the distal tips of both the left and right fluke lobes.",
+  "other_distinctive_markers": "Presence of high-intensity specular reflections (glare) on the right lobe surface caused by surface water and direct solar angle."
+}

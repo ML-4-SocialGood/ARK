@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 85-90% high-intensity white surface area relative to 10-15% low-intensity black/dark-grey pigmentation located at the base, trailing edges, and distal tips.",
+    "spatial_color_mapping": "Dominant central high-intensity white region. Low-intensity dark pigmentation at the peduncle insertion point forming two distinct vertical projections. A solitary dark elliptical focal spot is located in the upper-mid region of the right lobe. Irregular dark mottling is present on the distal left and right lobe extremities."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a calculated interior pixel angle of approximately 45 degrees and a bounding-box depth of approximately 15 pixels relative to the surrounding edge peaks.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations spanning the entire trailing edge boundary. Pixel-amplitude of vertical deviations varies between 2 and 8 pixels across the lobe span.",
+    "lobe_sweep_trajectory": "Geometric curve follows a slightly convex trajectory from the median notch to the distal tips of both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast clusters of irregular circular pixel groups located on the far distal margins of both lobes, indicating localized surface texture variation.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "A distinct small, dark oval focal spot on the right lobe and significant irregular scarring/mottling on the outer distal tips of both lobes.",
+  "other_distinctive_markers": "Unique 'tuning fork' pigmentation pattern at the basal insertion point of the fluke where it meets the peduncle."
+}

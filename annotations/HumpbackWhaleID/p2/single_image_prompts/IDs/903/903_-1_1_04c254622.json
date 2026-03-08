@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The visible fluke surface is characterized by a high ratio of low-intensity (black) to high-intensity (white) pixels, with dark pigmentation covering approximately 98% of the observable area.",
+    "spatial_color_mapping": "The surface is a contiguous solid black region. High-contrast, high-intensity pixel clusters are restricted to the extreme distal tips of both the left and right lobes at the lateral margins."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible shallow V-shaped notch at the center with an obtuse angle of approximately 140 degrees and a shallow pixel-depth depression.",
+    "edge_topography_serration_map": "Trailing edges exhibit low-frequency, low-amplitude irregularities along the primary spans, transitioning to high-amplitude, irregular jagged clusters at the distal lobe tips.",
+    "lobe_sweep_trajectory": "The leading edges follow a straight, upward-sloping trajectory; the trailing edges display a mild concave curvature as they converge toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, roughly circular high-contrast pixel clusters (white/grey) are localized at the outer tips of both lobes, suggesting barnacle attachments or scarring.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "The distal tips of both lobes show irregular, non-linear physical margins, indicative of localized tissue erosion or heavy colonization by sessile organisms.",
+  "other_distinctive_markers": "The pigmentation is exceptionally uniform across the entire visible ventral surface, creating a silhouette effect with minimal internal pixel variance."
+}

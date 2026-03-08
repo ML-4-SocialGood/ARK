@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High dominance of high-intensity white pixels (~95% of surface) against low-intensity black pixels localized to the trailing edge and medial notch boundary.",
+    "spatial_color_mapping": "Large contiguous high-intensity white region spanning the entirety of both lobes. Low-intensity black pigmentation is constrained to a thin, irregular border along the trailing edge and a small cluster at the median notch. A single low-intensity vertical yellowish-brown streak is visible on the inner right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch with an estimated 45-degree angle of convergence and a bounding-box depth approximately 12% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (peaks and valleys) across the entire visible trailing edge, exhibiting a jagged pixel-transition profile against the background.",
+    "lobe_sweep_trajectory": "Symmetrical convex curves extending from the median notch to the lateral tips, with the left tip showing a slightly more jagged termination than the right."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast dark pixel clusters situated along the peripheral trailing edge and concentrated at the lateral tips, consistent with localized pigmentation or epibiotic attachment sites.",
+    "linear_abrasions": "A single, distinct vertical linear pixel disruption of yellowish-brown hue located on the ventral surface of the right lobe, oriented perpendicular to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Notable irregular, rough-textured erosion or encrustation at both lateral tips, with the left tip exhibiting more significant pixel-level fragmentation than the right.",
+  "other_distinctive_markers": null
+}

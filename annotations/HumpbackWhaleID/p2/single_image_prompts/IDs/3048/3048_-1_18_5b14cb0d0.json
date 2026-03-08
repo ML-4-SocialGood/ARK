@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity dark surface with approximately 10-15% area coverage of high-intensity white pixels scattered across the lobes.",
+    "spatial_color_mapping": "Non-contiguous distribution of high-contrast white micro-blobs and focal spots across the dark background; highest concentration of white pixel clusters is observed on the right lobe and proximal to the distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a distinct vertex; calculated internal angle is acute with a bounding-box depth approximately 1/15th of the total fluke height.",
+    "edge_topography_serration_map": "Continuous trailing edge exhibiting frequent, irregular low-amplitude serrations (peaks and valleys) concentrated on the outer-third of both lobes, isolated from the water line.",
+    "lobe_sweep_trajectory": "Convex upward curvature observed along the outer margins of both lobes, terminating at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple small, discrete clusters of high-intensity pixels forming roughly circular patterns scattered across the ventral surface, notably on the right lobe.",
+    "linear_abrasions": "Visible diagonal high-intensity linear streak on the mid-left lobe and several smaller, unaligned linear disruptions on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Large, irregular clusters of high-intensity, high-relief pixels located at the extreme distal tips of both lobes, representing physical accumulations or trauma sites.",
+  "other_distinctive_markers": "High-density distribution of minute, star-like white punctate spots across the entire visible dark ventral area."
+}

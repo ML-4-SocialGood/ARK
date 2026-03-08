@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 6:1 ratio of high-intensity white pixels to low-intensity black pixels across the ventral surface.",
+    "spatial_color_mapping": "Dominant contiguous white field across both fluke lobes; high-contrast black perimeter along the trailing edge; vertical black banding/striations at the central peduncle-fluke junction; scattered small low-intensity circular spots (mottling) across the white surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated angle of approximately 65 degrees and a bounding-box depth approximately 12 percent of visible fluke height.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the continuous trailing edge boundary, with pixel-amplitudes of variations ranging from 5 to 20 pixels, most aggressive at distal tips.",
+    "lobe_sweep_trajectory": "Symmetrical concave sweep from the central notch curving upward towards the distal lobe tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-intensity, roughly circular calcified pixel groups (barnacles) concentrated at both distal tips; numerous tan/grey circular focal spots across the central white field.",
+    "linear_abrasions": "A series of dark, vertically-aligned linear pixel disruptions at the central base; several faint diagonal scratches on the right fluke lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant barnacle colonization at the extreme left and right trailing edges; multiple circular scars across the ventral surface likely from previous barnacle attachments or parasitic lesions.",
+  "other_distinctive_markers": "Highly distinctive horizontal 'ladder-like' black pigmentation rungs located at the vertical center where the fluke meets the peduncle."
+}

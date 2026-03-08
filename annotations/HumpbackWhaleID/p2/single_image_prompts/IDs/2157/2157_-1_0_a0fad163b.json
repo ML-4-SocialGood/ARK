@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 85% high-intensity white pixels to 15% low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Contiguous high-intensity white region dominating the central and medial lobe areas. Low-intensity black pigmentation forms a continuous boundary along the trailing edges and extends into the central notch. Internal low-intensity focal spots and linear streaks are distributed across both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a pixel-calculated angle of approximately 88 degrees at the vertex.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the continuous linear boundary; peak-to-valley amplitudes are more pronounced on the right lobe, featuring jagged clusters near the distal tip.",
+    "lobe_sweep_trajectory": "Convex curve trajectory originating from the central notch and sweeping upward towards the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-contrast yellow-white pixel groups (barnacles) localized at the extreme distal tips of both lobes; dark circular focal marks visible in the lower quadrant of the left lobe.",
+    "linear_abrasions": "Multiple unaligned dark linear pixel disruptions (rake marks) traversing the white ventral surface, predominantly in diagonal and horizontal orientations."
+  },
+  "acquired_anomalies_or_scars": "Substantial barnacle colonization at the lateral apexes; irregular jagged indentations on the trailing edge of the right lobe indicating minor tissue loss or trauma.",
+  "other_distinctive_markers": "Highly distinct yellow-hued biological clusters localized exclusively on the upper margins of the distal tips."
+}

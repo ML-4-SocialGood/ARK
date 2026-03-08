@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white dominates approximately 85% of the surface area, with low-intensity black pixels concentrated at the lateral tips, trailing edge margins, and the proximal median notch region.",
+    "spatial_color_mapping": "Large contiguous white regions across both lobes. Black pigmentation forms a dense terminal band on both lateral tips. A vertical, dark hourglass-shaped pixel cluster is centered at the median notch. Scattered low-density black mottling is present on the outer margin of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated internal angle of approximately 52 degrees and a bounding-box depth extending significantly toward the peduncle.",
+    "edge_topography_serration_map": "Continuous high-frequency, low-amplitude serrations (2-8 pixel variations) along the entire trailing edge. More pronounced, jagged peaks are visible on the distal third of the left lobe's trailing boundary.",
+    "lobe_sweep_trajectory": "Symmetric sigmoidal curve; primary convexity emerging from the notch transitions into a shallow concavity before reaching the acute distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Single high-contrast black circular focal spot (radius approx. 6 pixels) located in the upper-mid quadrant of the right lobe. Minimal scattered micro-mottling on the left lobe's peripheral margin.",
+    "linear_abrasions": "One distinct, dark diagonal linear disruption (approx. 45 pixels long) on the upper interior region of the left lobe, adjacent to the notch. Multiple smaller horizontal linear marks located near the bottom left margin."
+  },
+  "acquired_anomalies_or_scars": "A prominent diagonal linear scar on the left lobe near the median notch; irregular pigment-loss/scarring pattern on the far left lateral tip.",
+  "other_distinctive_markers": "Unique singular isolated black 'dot' on the high-intensity white field of the right lobe, providing a high-contrast focal point."
+}

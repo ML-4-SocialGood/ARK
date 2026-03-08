@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio is heavily skewed toward low-intensity (dark) pixels; approximately 95:5 ratio of dark background to high-intensity white focal points.",
+    "spatial_color_mapping": "Continuous low-intensity dark surface mapping across the 2D fluke plane, interspersed with discrete, high-contrast white circular and annular (ring-shaped) clusters ranging in diameter from 5 to 15 pixels."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped depression; calculated angle at vertex is approximately 45 degrees, with a bounding-box depth occupying roughly 15% of the visible vertical fluke span.",
+    "edge_topography_serration_map": "Irregular serration profile; left lobe contains roughly 10-12 identifiable low-amplitude peaks; right lobe features larger, irregular protrusions and a distinct brownish-textured accumulation at the distal tip.",
+    "lobe_sweep_trajectory": "Geometric curve is primarily convex from the median notch to the distal tips, with localized irregularities near the terminal edges."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular and semi-circular high-contrast pixel clusters (white rings) distributed across both lobes, with higher density observed on the mid-to-outer regions.",
+    "linear_abrasions": "At least two distinct, thin linear pixel disruptions visible: one on the right lobe extending toward the upper trailing edge and a shorter vertical mark on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Textured, brownish-white irregular growth or accumulation on the distal tip of the right lobe; extensive circular scarring across the entire visible ventral surface.",
+  "other_distinctive_markers": "Unique density and distribution of white annular scars against an otherwise uniform dark pigmentation."
+}

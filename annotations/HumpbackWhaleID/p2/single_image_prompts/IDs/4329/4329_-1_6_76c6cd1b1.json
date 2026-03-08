@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70:30 ratio of low-intensity (black) to high-intensity (white) pixels on the visible left lobe surface.",
+    "spatial_color_mapping": "Large contiguous white patch located on the inner proximal region of the left lobe, surrounded by wide black margins. Distinct mottling and irregular pixel-level boundaries observed at the interface between the high and low intensity zones."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, irregular serrations detected along the visible trailing edge of the left lobe, characterized by jagged pixel-amplitude variations isolated from the gray-scale water background.",
+    "lobe_sweep_trajectory": "Convex curve fitted to the outer boundary of the left lobe trailing edge."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small clusters of high-contrast white pixels (potential barnacle scars) visible on the dark distal margin and near the tip of the left lobe.",
+    "linear_abrasions": "One distinct, high-contrast linear pixel disruption (diagonal rake mark) visible across the low-intensity region of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "A prominent diagonal linear scar on the left lobe and irregular pixel-level erosion at the distal tip.",
+  "other_distinctive_markers": null
+}

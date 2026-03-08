@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low contrast ratio; high-intensity pixels (white) are nearly absent, with over 95% of pixels falling in the low-intensity range (dark gray to black).",
+    "spatial_color_mapping": "Diffuse, low-contrast gray mottling distributed across the medial areas of both lobes; no high-contrast contiguous geometric blobs are detected."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a pixel-calculated angle of approximately 50 degrees and a vertical bounding-box depth extending into the fluke center.",
+    "edge_topography_serration_map": "High-frequency serration pattern with pixel-amplitudes ranging from 5 to 25 pixels, forming a jagged continuous boundary across both lobes.",
+    "lobe_sweep_trajectory": "Strong convex curvature originating from the median notch and tapering to distal lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-contrast white circular pixel groups located at the extreme distal tips of both the left and right lobes.",
+    "linear_abrasions": "Faint, non-parallel linear pixel disruptions detected on the lower left lobe quadrant."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular protrusions and textural anomalies at the far lateral margins, indicating localized tissue trauma or calcified growth.",
+  "other_distinctive_markers": "Partial occlusion of the fluke base by high-intensity white pixels representing water spray and turbulence."
+}

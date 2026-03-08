@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark grey to black) base with high-intensity (white) distal patches; macro-level ratio estimated at 75:25.",
+    "spatial_color_mapping": "Large contiguous high-intensity regions at the distal 20% of both fluke lobes. Left distal lobe contains multiple discrete, low-intensity circular focal spots within the white field. Right distal lobe shows a more fragmented, mottled high-intensity pattern bordering the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow, obtuse U-shaped depression; calculated interior angle is approximately 140 degrees; notch depth is less than 5% of total fluke width.",
+    "edge_topography_serration_map": "Continuous irregular boundary exhibiting frequent pixel-level peaks and valleys; highest amplitude serrations are localized on the distal half of the left lobe trailing edge.",
+    "lobe_sweep_trajectory": "Convex curvature along the trailing edge from notch to tip; distal tips exhibit a sharp upward vertical trajectory relative to the medial horizontal axis."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-contrast circular pixels at the extreme distal tips of both lobes; multiple isolated, low-contrast circular spots distributed across the dark medial regions.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular pixel-level variations and jaggedness along the trailing edge consistent with cumulative tissue loss or wear.",
+  "other_distinctive_markers": null
+}

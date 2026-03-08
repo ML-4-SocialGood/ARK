@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 4:1 ratio of low-intensity (dark) pixels to high-intensity (white) pixels; dark pigmentation dominates the central and anterior fluke, while high-intensity pixels are concentrated along the posterior margins.",
+    "spatial_color_mapping": "High-intensity white pigmentation forms contiguous irregular bands along the distal trailing edges of both lobes. The right lobe shows a more extensive white patch [normalized coords: approx (0.7, 0.4) to (0.9, 0.3)] than the left lobe [approx (0.1, 0.4) to (0.3, 0.5)]."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible V-shaped depression at the center-point with an estimated interior angle of 48 degrees and a pixel-depth of roughly 12% relative to total fluke height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (peaks/valleys) observed along the entire trailing edge boundary, with highest frequency and pixel amplitude (5-12 pixels) at the distal tips.",
+    "lobe_sweep_trajectory": "Convex leading edge trajectory sweeping symmetrically from the peduncle base to the tips, forming a characteristic 'butterfly' profile."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-intensity, roughly circular pixel blobs (barnacle colonization) are located at the extreme tips of both lobes. Fainter, low-contrast circular rings are visible on the dark surface of the right lobe.",
+    "linear_abrasions": "Multiple high-contrast vertical and diagonal linear disruptions (scratches) are visible on the dark pigment of the left-central lobe."
+  },
+  "acquired_anomalies_or_scars": "Presence of barnacle colonies on distal tips and several distinct linear rake marks on the dark ventral surface of the left lobe.",
+  "other_distinctive_markers": "Unique asymmetric white pigmentation pattern on the trailing edge where the white band is wider on the right lobe distal tip compared to the left."
+}

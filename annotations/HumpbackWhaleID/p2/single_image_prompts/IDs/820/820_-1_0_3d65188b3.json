@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution; approximately 75% high-intensity white/light-grey field bounded by 25% low-intensity black perimeter and linear markings.",
+    "spatial_color_mapping": "Dominant white central region; solid black contiguous band along the trailing edge; multiple discrete low-intensity linear streaks (0,0 to bottom-right trajectory) and a single focal dark spot in the lower-right quadrant of the visible lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "Irregular serration profile along the trailing edge with approximately 8-10 visible peaks; amplitudes vary between 5 to 20 pixels relative to the local edge baseline.",
+    "lobe_sweep_trajectory": "Convex curve on the leading edge (left) transitioning to a sharp, tapered distal tip, followed by a descending jagged trajectory on the trailing edge (right)."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense cluster of roughly circular, high-intensity white pixel clusters concentrated at the distal tip of the lobe, indicative of calcified colonization.",
+    "linear_abrasions": "At least four distinct, unaligned dark linear pixel disruptions crossing the white ventral surface, including one primary diagonal stroke and several shorter vertical/oblique marks."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization at the lobe tip; significant linear rake marks across the mid-to-lower visible ventral surface.",
+  "other_distinctive_markers": "Single isolated low-intensity circular point (approx. 8-10 pixels diameter) located within the lower-right quadrant of the high-intensity white field."
+}

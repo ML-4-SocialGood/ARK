@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low macro-level ratio; pixel distribution is heavily skewed toward low-intensity (black) values across over 95% of the visible ventral surface.",
+    "spatial_color_mapping": null
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped depression with a calculated internal pixel angle of approximately 35 degrees; the notch depth is roughly 10% of the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations present across both lobes. The right lobe trailing edge displays 6-8 distinct peaks with pixel-amplitudes reaching approximately 15-20 pixels in height relative to local baseline. Left lobe displays similar jagged irregularity.",
+    "lobe_sweep_trajectory": "Concave sweep trajectory from the median notch extending upward toward the distal tips (apices)."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of high-intensity (off-white/beige) circular pixel groups (barnacle colonies) located at both the left and right distal tips (apices).",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "A secondary deep indentation or 'chunk' is missing from the trailing edge immediately adjacent (left-side) to the true median notch, creating a distinctive irregular profile. Evidence of significant tissue loss/irregularity on the trailing edge of the right lobe.",
+  "other_distinctive_markers": "The 'double notch' visual profile created by the proximity of an acquired injury to the biological median notch."
+}

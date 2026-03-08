@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) field with high-intensity (white) punctate distributions; estimated macro-level ratio of high-to-low intensity pixels is approximately 1:12.",
+    "spatial_color_mapping": "Absence of large contiguous geometric blobs; pigmentation consists of a stochastic distribution of high-intensity pixels across the ventral plane, with localized clusters observed in the lower inner quadrants and at the distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a calculated vertex angle of approximately 68 degrees and a relative depth occupying roughly 12% of the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations observed along the entire trailing edge from the median notch to the distal tips, with an average peak-to-valley distance of 3-5 pixels.",
+    "lobe_sweep_trajectory": "Concave trailing edge curvature transitioning to convex leading edge curves; trailing edge exhibits a consistent sweep toward the posterior-lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast circular clusters detected at both distal tips; a prominent cluster of approximately 30-40 high-intensity pixels is located at the left-most extremity.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Prominent calcareous or parasitic clusters (likely barnacle colonization) located at the distal tips of both lobes, appearing as irregular high-intensity (white/tan) masses against the dark fluke boundary.",
+  "other_distinctive_markers": "Uniform starry distribution of isolated high-intensity pixels across the low-intensity background of both lobes, creating a distinctive high-contrast stippling pattern."
+}

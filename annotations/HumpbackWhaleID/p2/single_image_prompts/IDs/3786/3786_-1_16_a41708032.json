@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approx. 1:12 ratio of high-intensity to low-intensity pixels; the visible surface is predominantly composed of low-intensity (dark) pixels with high-intensity highlights localized at the tips and edges.",
+    "spatial_color_mapping": "Contiguous low-intensity (black/dark-gray) field across the majority of the fluke surface area. High-intensity (white) geometric clusters are localized at the distal tips [Left distal terminal, Right distal terminal] and along the serrated trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an estimated interior angle of 45 degrees; vertical depth occupies approximately 25% of the total visible fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration across both lobes; pixel-amplitude of variations ranges from 3-10 pixels; density of peaks increases significantly toward the distal tips.",
+    "lobe_sweep_trajectory": "Strongly convex upward curvature on both lobes; the sweep trajectory transitions from near-horizontal at the median notch to near-vertical at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Highly dense, high-contrast, multi-pixel clusters localized at the extreme distal tips of both lobes; secondary clusters of high-intensity points along the mid-trailing edge of the right lobe.",
+    "linear_abrasions": "Several faint, unaligned vertical and diagonal linear disruptions of lighter pixel intensity visible against the dark background of the mid-left and mid-right lobes."
+  },
+  "acquired_anomalies_or_scars": "Large protuberant structural growths at both distal tips; distinct, deep irregular notch on the trailing edge of the left lobe approximately 30% distance from the median notch.",
+  "other_distinctive_markers": null
+}

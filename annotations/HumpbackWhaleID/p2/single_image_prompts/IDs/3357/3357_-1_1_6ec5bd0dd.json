@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely high ratio of low-intensity (near-black) pixels to high-intensity (white/yellow) pixels. The ventral surface is >90% dark-toned with sparse high-intensity points and localized clusters at the extremities.",
+    "spatial_color_mapping": "The primary fluke surface is a contiguous solid dark-grey to black region. Two distinct, high-contrast yellowish-white clusters are mapped to the distal lateral tips of both lobes. Small, isolated circular white clusters are scattered across the mid-section of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped median notch with an estimated internal angle of 65 degrees and a bounding-box depth approximately 1/8th of the total vertical lobe height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude micro-serrations along the entire trailing boundary. A prominent large-amplitude semi-circular notch is extracted from the upper-third quadrant of the right lobe's trailing edge.",
+    "lobe_sweep_trajectory": "The lateral boundaries exhibit a strong convex sweep from the peduncle attachment to the tips, creating a characteristic fan-shaped 2D profile."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Extensive high-contrast pixel clusters at the lateral tips of both lobes, consistent with barnacle colonization. Approximately 8-10 small, isolated circular white clusters are detected on the central-left lobe area.",
+    "linear_abrasions": "Three distinct, parallel, diagonal light-grey linear streaks (approx. 50-100 pixels in length) are visible on the mid-region of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "A large, irregular indentation/notch on the trailing edge of the right lobe; dense barnacle encrustations covering the extreme lateral tips of both lobes.",
+  "other_distinctive_markers": "The extreme concentration of barnacle clusters on the dorsal-facing tips that wrap around to the ventral view is highly characteristic."
+}

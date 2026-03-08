@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low macro-level ratio; high-intensity white pixels represent less than 5% of the visible surface area against a dominant dark grey/black background.",
+    "spatial_color_mapping": "Dominant solid dark pigmentation covering approximately 95% of the fluke surface. Sparse, low-intensity light-grey circular focal spots (approx. 2-8 pixels diameter) are distributed across both lobes without forming contiguous bands or geometric blobs."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide V-shaped central depression with an estimated pixel angle of 115 degrees and a shallow depth-to-width ratio.",
+    "edge_topography_serration_map": "Irregular, low-frequency serration pattern. Significant pixel-amplitude drop (notch) located on the right lobe trailing edge approximately 65% distance from the center. Left lobe shows finer, higher-frequency micro-irregularities.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edges of both the left and right lobes extending from the tips to the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of multiple small, circular and ring-shaped high-contrast pixel clusters (light grey on dark) scattered across the surface, particularly concentrated on the mid-section of the right lobe and lower-left quadrant of the left lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Distinct irregular indentation/missing tissue segment located on the trailing edge of the right lobe.",
+  "other_distinctive_markers": null
+}

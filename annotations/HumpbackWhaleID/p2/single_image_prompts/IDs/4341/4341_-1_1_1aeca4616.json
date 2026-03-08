@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast; approximately 45% high-intensity white pixels on distal lobes vs 55% low-intensity black pixels in the central region.",
+    "spatial_color_mapping": "Symmetrical distribution of high-intensity white contiguous areas on the outer lobes, separated by a central triangular black region extending from the peduncle to the median notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch; pixel-based angle estimated at 30-40 degrees with a narrow bounding-box depth.",
+    "edge_topography_serration_map": null,
+    "lobe_sweep_trajectory": "Convex upward curvature from the central notch to the distal lobe tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

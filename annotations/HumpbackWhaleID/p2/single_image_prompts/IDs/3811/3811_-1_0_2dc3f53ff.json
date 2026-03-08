@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 40% high-intensity (white) to 60% low-intensity (black/dark gray) pixel distribution across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Left lobe: Large, high-intensity white blob concentrated in the lower-lateral quadrant [X: 10-40%, Y: 60-90%]. Right lobe: Broad, high-intensity diagonal band extending from mid-base [X: 60%, Y: 50%] to upper-distal tip [X: 95%, Y: 20%]. Both lobes are bordered by low-intensity margins at the trailing edge and central peduncle."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide, shallow U-shaped depression; calculated interior pixel angle of approximately 145 degrees; notch depth is less than 10% of the total vertical height of the fluke lobes.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations detected along the entire trailing boundary. Right lobe posterior edge displays 10-12 high-amplitude jagged peaks; left lobe posterior edge displays lower-amplitude, more rounded wave-like peaks.",
+    "lobe_sweep_trajectory": "Trailing edges of both lobes follow a primary convex arc; distal tips exhibit a tight convex curvature before joining the anterior edge."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast white circular pixel clusters (approx. 2-6 pixels in diameter) localized on the low-intensity distal tips and periodically along the serrated trailing edge.",
+    "linear_abrasions": "Four parallel, low-intensity vertical linear disruptions (rake marks) detected on the right lobe, traversing the high-intensity diagonal band; secondary faint horizontal abrasions visible on the medial edge of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Distinctive parallel vertical rake marks on the right lobe; irregular tissue loss and jagged scarring patterns on the extreme far-right distal tip.",
+  "other_distinctive_markers": null
+}

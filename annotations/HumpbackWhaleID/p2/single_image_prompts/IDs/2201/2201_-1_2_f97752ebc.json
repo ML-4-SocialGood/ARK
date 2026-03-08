@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 4:1 ratio of high-intensity white pixels to low-intensity black/dark-gray pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant high-intensity white regions occupy the central lobes. Low-intensity black pigmentation forms a continuous boundary along the trailing edge and becomes densely mottled/stippled near the central peduncle junction. Distinct isolated dark pixel clusters are visible in the mid-left and upper-right fluke quadrants."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, symmetrical V-shaped median notch with an estimated internal angle of 65 degrees and a vertical pixel depth of approximately 15% relative to total fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern along the entire trailing edge; pixel-amplitude is greatest at the distal tips (10-20 pixels) and stabilizes to low-frequency undulations approaching the median notch.",
+    "lobe_sweep_trajectory": "Bi-modal curve consisting of a slight concavity near the notch transitioning into a broad, pronounced convexity that terminates at pointed, upward-sweeping distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of at least seven distinct dark, circular clusters (3-8 pixels in diameter) on the left lobe and four on the right lobe, concentrated in the high-intensity white zones.",
+    "linear_abrasions": "Significant detection of multiple parallel linear pixel disruptions (rake marks) on the left lobe; the longest mark extends diagonally for approximately 25% of the lobe's horizontal width."
+  },
+  "acquired_anomalies_or_scars": "Extensive linear rake-mark scarring on the left lobe; irregular, jagged trailing edge indicating micro-trauma or persistent wear across both lobes.",
+  "other_distinctive_markers": "Unique dark, hook-shaped pixel cluster located in the upper-medial region of the right lobe."
+}

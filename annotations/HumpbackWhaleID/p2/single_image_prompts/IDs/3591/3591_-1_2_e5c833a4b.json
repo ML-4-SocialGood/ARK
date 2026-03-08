@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low; the image is dominated by low-intensity black and dark-grey pixels with sparse high-intensity white pixels localized primarily at the trailing edge and fluke tips.",
+    "spatial_color_mapping": "Uniformly dark (low-intensity) pigmentation across both lobes. Areas of mid-intensity grey mottling are visible on the left lobe. Discrete high-intensity white focal spots are scattered along the trailing edges and at the distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped notch with an estimated internal angle of 55-60 degrees at the central convergence.",
+    "edge_topography_serration_map": "High-frequency, irregular serration across the entire trailing edge boundary; peak-to-trough amplitudes range from 5 to 15 pixels, with the most pronounced peaks situated on the lateral halves of both lobes.",
+    "lobe_sweep_trajectory": "Convex curve extending from the median notch to the distal tips, characterized by a broad, upward-tapering arc."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Visible high-contrast white pixel clusters along the trailing edge serrations and concentrated at the extreme lateral tips of both lobes.",
+    "linear_abrasions": "Faint, light-grey linear pixel disruptions are visible on the left lobe, oriented diagonally towards the upper trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Presence of multiple small, circular white scars (likely parasite or barnacle attachment sites) along the trailing edge and on the ventral surface of the left lobe.",
+  "other_distinctive_markers": null
+}

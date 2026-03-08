@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixels; high-intensity (white) pixels represent <3% of the total visible ventral surface area.",
+    "spatial_color_mapping": "Homogeneous low-intensity dark region across both lobes; isolated high-contrast pixel clusters (white) located at coordinates corresponding to scattered focal points across the central and distal areas."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped depression with an approximate pixel-derived angle of 145 degrees and minimal vertical depth relative to lobe height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (peaks and valleys) distributed uniformly along the trailing edge boundary of both lobes.",
+    "lobe_sweep_trajectory": "Bi-lobed structure showing a convex curvature transitioning from the notch towards the lateral margins."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Sparsely distributed high-contrast white circular pixel clusters (approx. 10-15) ranging from 1-4 pixels in diameter, most concentrated near the trailing edges.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Notable irregular notches along the trailing edge serration pattern, particularly on the right lobe distal portion.",
+  "other_distinctive_markers": "Archival metadata text block present at the bottom containing 'G 4/35', 'JOHN CALAMBOKIDIS', 'Aug 16 86', and '10034'."
+}

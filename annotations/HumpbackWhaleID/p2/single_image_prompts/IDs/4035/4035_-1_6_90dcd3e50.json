@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 45% high-intensity white pixels localized in the central lobe regions versus 55% low-intensity black pixels concentrated along the leading edges, median notch, and lower fluke boundary.",
+    "spatial_color_mapping": "Two primary high-intensity contiguous blobs: a roughly triangular patch on the left lobe extending from the mid-trailing edge toward the center, and a larger rectangular patch on the right lobe occupying the majority of the lobe's center-to-distal area."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped depression with a pixel-calculated angle of approximately 70-80 degrees and a vertical depth comprising roughly 12% of the total fluke height.",
+    "edge_topography_serration_map": "Low-frequency, irregular serrations along the trailing edge boundary; the amplitude of variations increases noticeably as the edge approaches the distal tips.",
+    "lobe_sweep_trajectory": "Convex curvature observed along the outer margins of both lobes, culminating in pointed, slightly upward-curved distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, scattered low-intensity pixel clusters (diameter 3-8 pixels) distributed across the white patch of the left lobe and lower-central region of the right lobe.",
+    "linear_abrasions": "Significant detection of dark, unaligned linear disruptions. On the right lobe white patch, 3-4 parallel vertical/diagonal rake marks are clearly visible. The left lobe exhibits multiple thin, intersecting diagonal linear marks."
+  },
+  "acquired_anomalies_or_scars": "Extensive vertical rake marks on the right lobe surface; jagged, irregular pixel boundary at the extreme distal tip of the right lobe suggesting minor physical trauma.",
+  "other_distinctive_markers": "A specific dark, bifurcated 'Y-shaped' marking located near the lower-left edge of the right-lobe white patch."
+}

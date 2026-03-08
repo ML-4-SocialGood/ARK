@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio characterized by approximately 75% high-intensity white pixels against 25% low-intensity black/grey pixels.",
+    "spatial_color_mapping": "Dark continuous pigmentation along the trailing and distal edges; large contiguous dark hub at the peduncle insertion point; irregular grey/black mottled clusters across medial surfaces; distinct high-contrast circular focal spots on both left and right lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a calculated pixel angle of approximately 55 degrees and a vertical depth occupying roughly 6% of the fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration profile along the entire trailing boundary; pixel-amplitude variations range from 2 to 12 pixels, isolated against the water background.",
+    "lobe_sweep_trajectory": "Bi-modal curve consisting of a concave sweep originating at the median notch and transitioning into a broad convex sweep towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of multiple circular high-contrast ring-like pixel clusters; two adjacent rings on the right medial lobe, one ring on the right distal lobe, and two visible rings on the left medial lobe.",
+    "linear_abrasions": "Extensive network of dark, unaligned linear pixel disruptions (rake marks) primarily concentrated on the central and right lobe surfaces, breaking the white pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Significant barnacle colonization forming dense clusters of high-contrast spherical pixel groups on the extreme distal tips of both lobes; multiple distinct rake marks and circular scarring across the ventral field.",
+  "other_distinctive_markers": "Localized 'beaded' edge texture on both distal tips resulting from dense barnacle colonization, creating a unique visual boundary distinct from the serrated trailing edge."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity white central pixels with low-intensity dark boundaries; approximate 90:10 white-to-black distribution across the visible fluke surface.",
+    "spatial_color_mapping": "Large contiguous high-intensity white region occupying the interior surface; low-intensity dark pixel bands mapped along the trailing edge and distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Obtuse V-shaped depression at the central axis; estimated internal angle of 110 degrees.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude sawtooth serrations detected as dark pixel peaks along the continuous boundary of the trailing edge.",
+    "lobe_sweep_trajectory": "Bilateral concave sweep trajectory extending from the median notch vertex toward the terminal tips of the lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Dark, irregular pixel masses concentrated at the distal tips of both the left and right lobes.",
+  "other_distinctive_markers": "High-intensity specular highlight at the insertion point of the fluke and peduncle (central lower region)."
+}

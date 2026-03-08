@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High; the image exhibits a bimodal distribution with a dominant high-intensity white central region (>85% of fluke surface) and high-contrast low-intensity black regions localized at the perimeter and in discrete clusters.",
+    "spatial_color_mapping": "Contiguous high-intensity white areas occupy the majority of the central lobes. Low-intensity black pixels form a continuous border along the trailing edge and dense, irregular geometric clusters at the distal tips. Scattered circular black spots are present on the right lobe medial region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a calculated pixel convergence angle of approximately 42 degrees and a depth-to-width ratio of 1:3 relative to the central fluke hinge.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitudes ranging from 5-15 pixels. Variation is most pronounced on the outer two-thirds of both lobes, transitioning to smoother contours near the median notch.",
+    "lobe_sweep_trajectory": "Asymmetric convex trajectory along the trailing edge, tapering to narrow distal points. The leading edge (visible near water surface) shows a concave sweep from the peduncle base."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Highly visible high-contrast black circular pixel clusters located at the distal tips of both lobes. Specific ring-shaped high-intensity/low-intensity clusters (rosettes) are dispersed across the medial right lobe.",
+    "linear_abrasions": "Detection of several low-intensity linear pixel strings (~50-100 pixels in length) oriented diagonally on the right lobe, and one distinct dark linear mark on the lower-left lobe near the notch."
+  },
+  "acquired_anomalies_or_scars": "Extensive circular scarring consistent with historic barnacle colonization on the fluke tips and trailing edges; irregular dark mottling at the peduncle-fluke junction.",
+  "other_distinctive_markers": "Unique cluster of high-contrast 'pin-hole' spots on the upper-right quadrant of the right lobe."
+}

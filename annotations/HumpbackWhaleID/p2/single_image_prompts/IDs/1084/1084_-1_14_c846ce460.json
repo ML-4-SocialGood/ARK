@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Bimodal distribution with roughly 40% high-intensity white pixels concentrated in the mid-lateral lobes and 60% low-intensity black pixels across the central, peduncle, and trailing edge regions.",
+    "spatial_color_mapping": "High-intensity white regions occupy the central-to-distal portions of both lobes. The left lobe white area is bounded by a jagged black border and contains several parallel dark linear features. The right lobe white area is more continuous but tapers toward a heavily textured and dark-pigmented distal tip. Central peduncle and trailing edges consist of contiguous low-intensity black pixels."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated interior angle of approximately 45 degrees relative to the lobe axes.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the entire trailing boundary. Significant notches (valleys) of 10-20 pixel depth are visible at multiple points, particularly on the outer third of both lobes, creating a jagged, non-linear profile.",
+    "lobe_sweep_trajectory": "The leading edges exhibit a smooth convex curve toward the tips, while the trailing edges demonstrate a complex sweep that is concave near the median notch and becomes irregularly convex toward the distal terminals."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clustered high-contrast, roughly circular pixel groups (white on black) are present on the extreme distal tip of the right lobe, consistent with barnacle attachment points or scarring.",
+    "linear_abrasions": "A series of 4-5 parallel dark linear tracks (rake marks) are visible within the white pigmentation of the left lobe. Multiple single-line white scratches are also detected in the central dark-pigmented region near the notch."
+  },
+  "acquired_anomalies_or_scars": "Prominent parallel rake mark scars on the upper left lobe; heavy irregular texture and loss of smooth contour at the distal right tip.",
+  "other_distinctive_markers": "A distinct Y-shaped high-contrast white scar is visible in the lower central dark region just above the median notch."
+}

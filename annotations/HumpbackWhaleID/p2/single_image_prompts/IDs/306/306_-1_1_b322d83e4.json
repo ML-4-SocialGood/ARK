@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Dominance of low-intensity black pixels (~60%) and mid-intensity mottled grey pixels (~35%), with localized high-intensity white highlights (~5%) concentrated along the central ridge and leading edges.",
+    "spatial_color_mapping": "The left lobe is characterized by contiguous low-intensity dark pigmentation; the right lobe contains a large, irregular mid-intensity mottled geometric blob in the central region; a high-intensity linear vertical feature aligns with the central peduncle axis."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped central depression with an approximate pixel angle of 82 degrees and a moderate bounding-box depth relative to lobe width.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern consisting of sharp triangular peaks (pixel-amplitude 5-15px) and non-uniform valleys along the entire visible trailing boundary.",
+    "lobe_sweep_trajectory": "Bilateral convex curve fitted to the outer edges, transitioning to a sharp inward concavity at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, high-contrast white circular pixel clusters detected near the superior-lateral margins of both the left and right lobes.",
+    "linear_abrasions": "A series of distinct, low-intensity parallel linear disruptions (rake marks) are visible on the left lobe, oriented diagonally from the center toward the leading edge."
+  },
+  "acquired_anomalies_or_scars": "Prominent parallel linear rake marks on the left lobe surface and irregular mechanical-type wear/serrations along the trailing edge margins.",
+  "other_distinctive_markers": "Highly distinctive high-intensity (white) linear ridge feature at the 2D coordinate intersection of the fluke lobes and peduncle."
+}

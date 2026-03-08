@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 60:40 ratio of high-intensity white central regions to low-intensity black margins and mottled features.",
+    "spatial_color_mapping": "Large contiguous high-intensity (white) regions occupy the central interior of both lobes. Low-intensity (black) pigmentation dominates the proximal (hinge) area and the entire periphery. Extensive low-intensity mottling and streaks are distributed across the white interior blocks."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch with an estimated pixel-based angle of 85 degrees and a deep bounding-box penetration into the fluke body.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge. Maximum pixel-amplitude variations are concentrated at the distal tips where irregular massing is visible.",
+    "lobe_sweep_trajectory": "Symmetrical convex curves sweeping upward from the median notch toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, irregular clusters of high-contrast textured pixels (barnacle colonization) localized at both the extreme left and right distal tips.",
+    "linear_abrasions": "Extensive detection of parallel and unaligned linear dark pixel streaks. Notable clusters of diagonal rake marks on the left lobe and a prominent circular/curved linear marking on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Heavy scarring consisting of multi-directional rake marks across both lobes and significant biological encrustation (barnacles) at the lobe extremities.",
+  "other_distinctive_markers": "Unique circular arc pigmentation/scarring pattern located in the upper-quadrant of the right lobe's white field."
+}

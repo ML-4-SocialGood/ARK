@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixel distribution covering approximately 90% of the visible surface, contrasted with localized high-intensity (white) pixel clusters representing approximately 10% of the surface area.",
+    "spatial_color_mapping": "Contiguous low-intensity field with distinct high-intensity (white) circular ring structures in the lower-left and lower-right quadrants. Discrete high-intensity linear streaks are mapped to the upper-inner regions of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with an approximate pixel-vertex angle of 52 degrees, extending deep into the medial fluke connection.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the entire trailing boundary. Left lobe exhibits two deep macro-indentations (notches) at mid-span. Right lobe exhibits smaller, more uniform sawtooth-style pixel amplitude variations.",
+    "lobe_sweep_trajectory": "Convex curve trajectory from the median notch extending to pointed distal tips; the left lobe displays a slightly higher vertical sweep relative to the image baseline."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple high-contrast white ring-shaped pixel clusters (approx. 12 on the right lobe, 8 on the left lobe) varying in diameter, predominantly in the lower vertical half of the fluke.",
+    "linear_abrasions": "Two distinct groups of high-contrast linear pixel disruptions: a series of 5-6 vertical parallel lines on the inner-left lobe and 4 diagonal parallel lines on the inner-right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive presence of circular rosette scarring and linear rake marks across the ventral surface; significant irregular tissue loss or indentations along the trailing edge of the left lobe.",
+  "other_distinctive_markers": "Dense, high-intensity white punctate clusters consistent with calcified organisms located at the extreme distal tips of both fluke lobes."
+}

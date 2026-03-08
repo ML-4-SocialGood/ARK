@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) central region comprising approximately 75% of the visible surface, with high-intensity (white) regions on the distal lateral margins comprising approximately 25%.",
+    "spatial_color_mapping": "Large contiguous black central region; distinct white high-intensity blobs located on the lower lateral margins of both lobes, starting from the tips and extending inward."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible V-shaped central depression with a calculated pixel angle of approximately 115 degrees.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (jagged pixel variations) across the entire visible span of the trailing edge boundary.",
+    "lobe_sweep_trajectory": "Convex curve beginning at the median notch, transitioning into a concave sweep towards the rounded distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast, circular textured pixel clusters located exclusively at the extreme distal tips of both lobes, corresponding to heavy barnacle colonization.",
+    "linear_abrasions": "Multiple low-intensity (dark) linear segments visible within the high-intensity (white) patches on the lateral-distal regions of both lobes."
+  },
+  "acquired_anomalies_or_scars": "Heavy biological encrustation at both fluke tips; jagged, irregular pixel contour along the trailing edge indicating past surface degradation.",
+  "other_distinctive_markers": "The extreme density of barnacle clusters at the tips creates a unique, bulbous silhouette at the distal extremities."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast with approximately 65:35 ratio of high-intensity (white) to low-intensity (black) pixels across visible surfaces.",
+    "spatial_color_mapping": "Dominant white contiguous fields on both lateral lobes. Left lobe shows irregular black incursions from the leading and trailing edges. Right lobe contains a prominent, isolated black circular pixel blob in the lower-central white field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped notch with an approximate internal pixel angle of 62 degrees and significant vertical depth relative to the horizontal lobe span.",
+    "edge_topography_serration_map": "High-frequency serrations along the outer trailing edges; medial trailing edge of the right lobe exhibits a distinct deep irregular indentation (peak-to-valley amplitude >10 pixels).",
+    "lobe_sweep_trajectory": "Strong convex curve on leading edges; trailing edges follow a complex sigmoidal curve with medial concavity transitioning to lateral convexity."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Single high-contrast dark focal cluster on the right lobe white field; minor low-contrast pixel clusters detected along the peripheral margins of the white-to-black transition zones.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Prominent isolated dark pigment spot on the right lobe; irregular mechanical indentation/notch on the trailing edge of the right lobe.",
+  "other_distinctive_markers": "Unique 'shredded' pixel interface between black and white regions near the central notch area."
+}

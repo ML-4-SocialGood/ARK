@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixel distribution (>200 on 8-bit scale) across central fluke regions against low-intensity black margins (<30) creating a sharp bimodal contrast.",
+    "spatial_color_mapping": "Right lobe contains a broad contiguous white region spanning the central 70% of the surface; left lobe exhibits a similar pattern but is approximately 30% occluded by high-frequency white water-spray pixels in the proximal region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated pixel angle of approximately 42 degrees and a vertical depth relative to the lobe peaks of approx. 15% of the horizontal fluke width.",
+    "edge_topography_serration_map": "Highly irregular trailing boundary with high-amplitude (8-15 pixel) serrations occurring at a frequency of approximately 1 peak per 40 horizontal pixels on both lobes.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a concave sweep trajectory from the median notch convergence towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple high-contrast circular clusters of light-grey and white pixels (>5px diameter) concentrated on the distal lateral tips and along the leading edge margins.",
+    "linear_abrasions": "Faint, vertical, low-intensity linear pixel disruptions observed on the central white field of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent structural notches and irregular tissue loss along the upper trailing margins of both lobes, combined with heavy parasitic colonization on the distal extremities.",
+  "other_distinctive_markers": "Localized high-intensity pixel noise (spray/splash) obscuring the lower-left ventral quadrant of the fluke assembly."
+}

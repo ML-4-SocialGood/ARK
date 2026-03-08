@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 45:55 ratio of high-intensity pixels (distributed across lateral lobes) to low-intensity pixels (concentrated in the medial and peduncle regions).",
+    "spatial_color_mapping": "Large contiguous low-intensity region centered at the notch, extending to the trailing edge. Right lobe contains discrete low-intensity circular clusters. Left lobe lateral region exhibits high-intensity background with parallel vertical dark bands at the tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "U-shaped depression with a calculated pixel angle of approximately 68 degrees and a bounding-box depth extending ~15% into the fluke vertical height.",
+    "edge_topography_serration_map": "High-frequency serration pattern with varying pixel-amplitudes; right lobe trailing edge shows deeper jagged valleys compared to the left lobe.",
+    "lobe_sweep_trajectory": "Strongly convex trajectory on the trailing edge of both lobes, tapering to acute lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial cluster of 4-6 dark circular pixel groupings located on the mid-lateral area of the right lobe.",
+    "linear_abrasions": "Three distinct parallel diagonal linear disruptions (rake marks) on the right lobe; several vertical linear markings on the outer edge of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Deep irregular serrations on the right lateral tip and distinct rake mark patterns across the right lobe surface.",
+  "other_distinctive_markers": "One vertical high-intensity (white) linear streak located on the dark pigmentation immediately to the right of the median notch."
+}

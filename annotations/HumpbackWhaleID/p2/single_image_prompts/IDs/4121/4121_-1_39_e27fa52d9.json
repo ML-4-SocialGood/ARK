@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) with distinct high-intensity (white) distal patches. Estimated 65:35 ratio of low-to-high intensity pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Two primary high-intensity contiguous regions are mapped to the distal lobes. The left lobe exhibits a large white field with internal dark mottling; the right lobe exhibits a more fragmented white field. The central and lower-proximal regions consist of a solid, low-intensity dark field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped central depression with a calculated angle of approximately 40 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations detected along the full trailing edge boundary. Significant peak-to-valley pixel amplitude is observed on the outer thirds of both lobes, transitioning to finer-grain serrations near the median notch.",
+    "lobe_sweep_trajectory": "Trailing edge follows a concave curve sweeping from the distal tips toward the central notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Several small, roughly circular high-contrast white pixel clusters are detected in the central dark region and mid-right lobe.",
+    "linear_abrasions": "Vertical, parallel linear pixel disruptions (rake marks) are visible in the central low-intensity region directly above the peduncle."
+  },
+  "acquired_anomalies_or_scars": "A prominent, non-symmetrical indentation/notch is visible on the trailing edge of the left lobe, approximately one-third of the distance from the outer tip.",
+  "other_distinctive_markers": "Water spray and droplet occlusion at the extreme left distal tip partially mask the pixel-level edge topography in that specific region."
+}

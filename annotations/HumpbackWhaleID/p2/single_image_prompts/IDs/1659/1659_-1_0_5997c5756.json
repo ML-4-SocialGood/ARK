@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 75% high-intensity white pixels to 25% low-intensity black pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Dominant contiguous white regions on both lobes. Black pigmentation is mapped continuously along the trailing edge and centrally around the peduncle junction. Two distinct circular black focal spots are located on the distal third of the right lobe. Several dark vertical and diagonal streaks are mapped on the inner regions of both lobes near the notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped central notch with a vertex angle approximately 45 degrees and a moderate bounding-box depth relative to the fluke span.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations (peaks and valleys) with pixel amplitudes ranging from approximately 5-20 pixels along the entire trailing edge boundary.",
+    "lobe_sweep_trajectory": "Strongly convex curve along the superior trailing edge of both lobes, transitioning into sharp, jagged distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of two distinct, isolated circular low-intensity pixel clusters on the distal field of the right lobe.",
+    "linear_abrasions": "One prominent diagonal dark linear mark on the inner right lobe; three smaller vertical linear marks on the inner left lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Irregular, non-uniform jaggedness at the distal tips, with the left tip showing more pronounced erosion than the right tip.",
+  "other_distinctive_markers": "The two isolated circular pigmentation marks on the right lobe provide a highly specific, high-contrast identifier."
+}

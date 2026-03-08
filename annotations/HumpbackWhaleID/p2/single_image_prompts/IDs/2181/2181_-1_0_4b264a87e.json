@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 85:15 ratio of high-intensity white to low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Contiguous high-intensity white region occupying the central and medial lobe areas. Low-intensity black pigmentation forms a continuous border along the trailing edge, increasing in thickness at the distal tips. Small irregular dark clusters and linear streaks are distributed in the lower-central and right-medial regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an estimated 55-degree internal vertex angle; notch depth is clearly defined relative to the lobe heights.",
+    "edge_topography_serration_map": "Variable frequency serrations; the right lobe trailing edge exhibits high-frequency, low-amplitude peaks, while the left lobe trailing edge displays more prominent, jagged valleys near the outer tip.",
+    "lobe_sweep_trajectory": "Concave curvature originating from the median notch, transitioning to a convex sweep towards the distal outer tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Cluster of high-intensity, roughly circular white-pixel nodules (approximately 4-6 distinct points) localized on the outer margin of the left fluke tip.",
+    "linear_abrasions": "Multiple dark-pixel linear streaks (rake marks) oriented diagonally on the right lobe and vertically near the lower-central peduncle interface."
+  },
+  "acquired_anomalies_or_scars": "Prominent circular scarring/barnacle colonization on the left tip and multiple parallel rake-mark abrasions across the ventral surface.",
+  "other_distinctive_markers": "A distinct, dark-pixel closed-loop pigmentation mark located in the lower-left central quadrant of the fluke surface."
+}

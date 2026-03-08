@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast ratio; approximately 55% high-intensity (white) pixels to 45% low-intensity (black/dark grey) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Left lobe contains a large, contiguous white geometric blob bounded by a dark leading edge and trailing margin. Right lobe exhibits a high-contrast mottled pattern with a central dark mass extending from the peduncle, fragmented by white regions containing dark vertical striations."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an approximate pixel-derived interior angle of 55 degrees; notch depth is roughly 1/6th of the vertical lobe height.",
+    "edge_topography_serration_map": "Trailing edge exhibits small, high-frequency serrations with pixel amplitudes of 2-5 pixels; distal tips show extreme topographic variation and high-amplitude irregular clusters due to barnacle encrustation.",
+    "lobe_sweep_trajectory": "Concave curve fitted to the trailing edge of both lobes, sweeping from the median notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of roughly circular high-contrast pixel groups located at the distal tips of both lobes; scattered white punctate clusters are visible on the dark central peduncle surface.",
+    "linear_abrasions": "Detection of several dark, unaligned linear pixel disruptions on the right lobe, most notably a horizontal mark in the lower-right quadrant and two diagonal marks in the upper-right white field."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization at the tips of both lobes, significantly altering the 2D geometric silhouette of the fluke margins.",
+  "other_distinctive_markers": "Unique dark pigmentation mark in the shape of a trident or 'Y' located in the upper-right quadrant of the right fluke lobe."
+}

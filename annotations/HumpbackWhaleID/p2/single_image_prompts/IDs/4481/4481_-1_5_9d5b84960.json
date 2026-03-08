@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast; approximately 65-70% high-intensity white pixels dominant in the central lobe areas, with 30-35% low-intensity black pixels concentrated at the base, median notch, and trailing edges.",
+    "spatial_color_mapping": "Large contiguous black pigmentation field at the fluke base/notch area. Irregular black mottling and focal spotting along the trailing edge margins. Discrete circular black spots visible in the interior region of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped notch with an estimated pixel angle of 70-80 degrees and a high-depth bounding box relative to the lobe width.",
+    "edge_topography_serration_map": "High-frequency, jagged serration map across the entire trailing edge; pixel-amplitude of peaks varies between 5 to 12 pixels, creating a highly irregular linear boundary.",
+    "lobe_sweep_trajectory": "Convex curve along the primary trailing edge transitioning into a sharp concave sweep toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of circular, high-contrast white and grey pixel groups (barnacles) concentrated on the extreme distal tips and outer lateral margins of both lobes.",
+    "linear_abrasions": "Numerous multi-directional, unaligned linear white pixel disruptions (rake marks) highly visible against the black pigmentation fields in the center and trailing edge base."
+  },
+  "acquired_anomalies_or_scars": "Extensive rake marks consistent with interspecific interaction; significant barnacle colonization on the fluke margins causing localized structural relief variations.",
+  "other_distinctive_markers": "Unique punctate black speckling on the mid-to-upper right lobe; significant jagged 'chip' out of the trailing edge of the left lobe near the mid-point."
+}

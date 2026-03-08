@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Visible high-intensity (white) to low-intensity (black) pixel ratio is approximately 65:35, with white pixels dominating the interior lobe surfaces and black pixels forming the boundary and central peduncle connection.",
+    "spatial_color_mapping": "High-intensity white pixels form two primary contiguous regions occupying the central and distal portions of each lobe. These are bisected by a low-intensity black vertical region at the center. Low-intensity black banding is present along the entire trailing edge and most of the leading edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "The right lobe trailing edge displays high-frequency, high-amplitude serrations (peaks and valleys) from the distal tip to the mid-section. The left lobe trailing edge exhibits lower-frequency topography with minor pixel-level irregularities.",
+    "lobe_sweep_trajectory": "Leading edges exhibit a distinct convex curvature sweeping upwards and outwards from the center toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "The trailing edge of the right lobe features a significant irregular, jagged loss of contour approximately halfway between the notch area and the distal tip.",
+  "other_distinctive_markers": "Presence of a high-contrast, linear avian appendage (tail feathers) in the upper quadrant of the image frame, separate from the primary fluke subject."
+}

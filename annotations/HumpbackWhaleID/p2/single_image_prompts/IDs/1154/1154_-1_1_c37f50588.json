@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark grey) base with localized high-intensity (white/light grey) pixel clusters. Estimated ratio of approximately 1:12 high-to-low intensity pixels.",
+    "spatial_color_mapping": "Large contiguous dark field across the x-axis. High-contrast white clusters concentrated at the extreme distal tips (0-5% and 95-100% horizontal width). Discrete high-intensity linear and point-like anomalies scattered across the interior ventral surface, particularly in the mid-left and upper-right quadrants."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Obtuse V-shaped central depression with a calculated angle of approximately 110 degrees; depth is moderate, occupying roughly 15% of the vertical bounding box of the fluke.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire span. Right lobe (viewer's right) shows greater amplitude in negative vertical excursions (notches) compared to the left lobe. Edge pixels show a jagged profile with peaks ranging from 3 to 15 pixels in depth.",
+    "lobe_sweep_trajectory": "Bilateral convex curvature extending from the median notch to the distal tips, with a slight increase in concavity near the terminal edges of the trailing boundary."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast, roughly circular pixel clusters with high textural relief located at the outer tips of both lobes. Smaller, isolated circular white spots (1-5 pixel diameter) are visible across the dark field of both lobes.",
+    "linear_abrasions": "A prominent, vertical high-intensity linear streak on the left lobe (mid-span). Multiple short, parallel diagonal linear marks located on the upper-central region of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Heavy white calcified-looking protrusions at the extreme distal tips of both lobes. Deep, irregular jagged excision on the right trailing edge approximately 60% of the way from the notch to the tip.",
+  "other_distinctive_markers": "Occlusion of the lower ventral margin by high-intensity specular highlights and motion-blurred pixels corresponding to water spray/splash."
+}

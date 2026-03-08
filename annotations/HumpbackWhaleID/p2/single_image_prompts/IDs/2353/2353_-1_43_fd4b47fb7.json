@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity (white) pixels occupy approximately 65% of the visible surface, concentrated in the central lobes, contrasting with low-intensity (black) pixels along the trailing edges and median notch.",
+    "spatial_color_mapping": "Large contiguous white geometric fields form the interior of both lobes. Dense black pigmentation is mapped along the entire trailing edge and the median notch area, with diffuse mottling extending into the white regions. A singular discrete black circular ring is located in the center-right region of the right lobe white field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped depression with an approximate pixel angle of 45-50 degrees and a high bounding-box depth ratio relative to lobe width.",
+    "edge_topography_serration_map": "Continuous high-frequency serration along the trailing boundary, featuring irregular peaks and valleys with pixel-amplitudes ranging from 5 to 25 pixels.",
+    "lobe_sweep_trajectory": "Convex curve extending from the base toward the distal tips, with a sharp posterior-lateral hook at the terminal ends."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-intensity, multi-tonal textured nodes (barnacles) are densely mapped at the extreme distal tips of both lobes.",
+    "linear_abrasions": "Multiple dark, non-aligned linear rake marks cross the white pigment fields, most prominently on the left lobe's upper-mid region and the right lobe's central field."
+  },
+  "acquired_anomalies_or_scars": "Distinct circular black scar ('O' ring) on the right lobe; heavy calcified barnacle colonization on the distal posterior-lateral tips.",
+  "other_distinctive_markers": "A singular, highly defined circular black ring mark isolated within the white field of the right lobe."
+}

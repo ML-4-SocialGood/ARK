@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface area punctuated by discrete high-intensity (white) circular clusters; estimated ratio of 75% low to 25% high intensity.",
+    "spatial_color_mapping": "High-contrast white circular blobs concentrated in the distal regions and along the trailing edge of both lobes; central region surrounding the median notch is solid low-intensity black."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible V-shaped notch with an acute angle of approximately 55 degrees; depth is approximately 1/8th of the vertical lobe height.",
+    "edge_topography_serration_map": "Jagged, irregular boundary along the trailing edge with frequent low-amplitude pixel-level peaks and valleys, especially concentrated on the lateral thirds of the lobes.",
+    "lobe_sweep_trajectory": "Concave curvature originating from the median notch, transitioning to a convex sweep towards the acute distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Extensive spatial detection of circular high-contrast pixel clusters (5-15 pixels in diameter) appearing as white spots on a dark background across both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Unique 'polka-dot' pigmentation pattern characterized by isolated, high-contrast circular marks rather than contiguous marbling."
+}

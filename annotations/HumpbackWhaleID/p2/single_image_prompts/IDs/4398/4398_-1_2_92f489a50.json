@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels occupy approximately 75% of the visible surface, with low-intensity black pixels providing sharp contrast along the periphery and notch regions.",
+    "spatial_color_mapping": "Contiguous high-intensity white blobs cover the central and distal portions of both lobes. Low-intensity black banding is mapped along the entire trailing edge, broadening significantly towards the median notch. Vertical black streaks and pixel-level mottling are distributed across the white regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a vertex angle of approximately 65 degrees and a pixel depth significant relative to the horizontal span.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitude peaks ranging from 5-15 pixels relative to the local baseline. Notable large-scale jagged indentations on the left lobe trailing edge.",
+    "lobe_sweep_trajectory": "Outer edges follow a convex trajectory sweeping upward toward the tips, with the trailing edge displaying a complex irregular curve."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-contrast white and textured pixels (barnacles) concentrated on the distal tips. A distinct, isolated dark circular pixel cluster is located on the right lobe.",
+    "linear_abrasions": "Multiple dark, unaligned linear pixel disruptions (rake marks) are detected across the white regions of both lobes, mostly oriented vertically."
+  },
+  "acquired_anomalies_or_scars": "Heavy crustaceous colonization on both fluke tips; significant irregular notch on the trailing edge of the left lobe; distinct dark circular scar on the right lobe; numerous linear rake marks.",
+  "other_distinctive_markers": "Unique 'U' shaped indentation on the trailing edge of the left lobe, approximately one-third of the distance from the notch to the tip."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Highly skewed toward low-intensity pixels. Ratio of white to black pixels is approximately 0.05:0.95, with high-intensity pixels limited to localized anomalies and the distal tips.",
+    "spatial_color_mapping": "Dominantly solid black pigmentation across the entire visible surface. High-contrast white/gray pixel clusters are mapped specifically to the distal tips and as small, isolated circular clusters primarily on the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible acute V-shaped notch. The vertex is sharp, though the base is partially obscured by water turbulence.",
+    "edge_topography_serration_map": "High-frequency irregular serrations present along the entirety of the trailing edge. Multiple peaks and valleys with varying pixel-amplitudes are clearly defined against the sea background.",
+    "lobe_sweep_trajectory": "Concave curve following the trailing edge from the notch to the tips, creating a tapered, wing-like geometry."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast, multi-pixel textured clusters at the distal tips of both lobes. Several smaller, isolated white circular clusters are detected on the medial surface of the right lobe.",
+    "linear_abrasions": "Faint, light-colored linear pixel disruptions are visible on the lower third of the right lobe, oriented vertically and diagonally."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization at the extreme distal tips of both lobes. Multiple circular depigmentation marks consistent with healed parasitic lesions or past barnacle attachment sites are visible on the right lobe.",
+  "other_distinctive_markers": "Visible water droplets trailing from the left distal tip, creating localized high-intensity vertical streaks against the background."
+}

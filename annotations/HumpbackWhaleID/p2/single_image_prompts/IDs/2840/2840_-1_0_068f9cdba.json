@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pigmentation covering approximately 85% of the visible surface, with high-intensity (white) pixels limited to approximately 15% concentrated at the distal tips.",
+    "spatial_color_mapping": "Contiguous high-intensity white patches are localized at the outer distal tips of both lobes. The left lobe (viewer perspective) features a larger, more diffuse white region with irregular borders, while the right lobe features a narrower, more linear white band along the trailing edge tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped median notch with a calculated interior angle of approximately 72 degrees and a depth relative to the fluke span of approximately 12%.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude jagged serrations (5-15 pixel depth) distributed along the entire length of the trailing edge, creating a significantly irregular topography isolated from the background water pixels.",
+    "lobe_sweep_trajectory": "Outer lobe boundaries exhibit a strong convex curvature from the median notch extending to pointed, tapered distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast, roughly circular white pixel clusters are detected at both distal tips and along the upper trailing edge margins, consistent with barnacle colonization sites.",
+    "linear_abrasions": "Several faint, unaligned diagonal gray linear disruptions are visible across the dark central-left region of the fluke surface."
+  },
+  "acquired_anomalies_or_scars": "A distinct vertical high-intensity white linear mark is located at the center-bottom of the fluke base near the water-line junction. Extensive jagged tissue loss is evident along the entire trailing edge boundary.",
+  "other_distinctive_markers": "A unique, comma-shaped white pigmentation mark is located on the upper-right trailing edge (viewer perspective), separated from the primary white tip patch."
+}

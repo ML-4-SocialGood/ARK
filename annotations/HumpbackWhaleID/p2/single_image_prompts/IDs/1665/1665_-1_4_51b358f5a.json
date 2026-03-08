@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity background (dark grey/black) covering approximately 85% of the visible surface, contrasted with high-intensity foreground clusters (white/cream) covering approximately 15%.",
+    "spatial_color_mapping": "Solid low-intensity pigmentation across the central and medial fluke regions. High-intensity contiguous geometric blobs are concentrated at the distal tips and along the trailing edge. A series of high-intensity linear paths are visible across the left and right interior lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A deep V-shaped depression at the medial axis with a pixel-calculated angle of approximately 58 degrees and a vertical depth reaching the 50% coordinate of the lobe height.",
+    "edge_topography_serration_map": "High-frequency, low-to-medium amplitude serrations spanning the entire trailing edge boundary. Pixel variations are most jagged at the outer lateral tips where high-contrast clusters terminate.",
+    "lobe_sweep_trajectory": "Double-curved trajectory; trailing edge exhibits a convex curve near the medial notch transitioning to a concave sweep toward the distal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular and semi-circular high-contrast pixel clusters (rosettes) localized at the extreme distal tips and the perimeter of the trailing edge.",
+    "linear_abrasions": "Detection of at least 12 distinct, non-parallel linear pixel disruptions (white rake marks) of varying lengths, predominantly oriented diagonally across the left lobe (viewer perspective)."
+  },
+  "acquired_anomalies_or_scars": "Significant accumulation of high-contrast white material (likely barnacle colonization) at the distal tips, creating a jagged, irregular silhouette. Multiple overlapping linear scars across the ventral surface.",
+  "other_distinctive_markers": "A specific high-intensity circular mark (~10 pixel radius) located in the lower-central quadrant of the left lobe."
+}

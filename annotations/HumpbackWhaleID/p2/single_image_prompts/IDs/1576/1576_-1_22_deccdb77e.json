@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity (white) pixels dominate approximately 85% of the visible surface, with low-intensity (black) pixels localized at the boundaries and in focal spots, creating a high-contrast macro-distribution.",
+    "spatial_color_mapping": "Large contiguous white central zone. Black perimeter banding concentrated on the leading and trailing edges. Specific low-intensity focal spots detected: one circular 2D blob on the mid-left lobe and a series of dark linear streaks on the mid-right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency serrations with variable pixel-depth (approx. 5-15 pixels) extending across the continuous trailing edge. Notable jaggedness is present on the proximal section of the left lobe and the distal tip of the right lobe.",
+    "lobe_sweep_trajectory": "Concave-convex hybrid sweep terminating in sharp, retroflexed (hooked) distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast, circular high-intensity pixel clusters (barnacle colonies) are localized on the extreme lateral tips of both the left and right lobes.",
+    "linear_abrasions": "Three distinct, dark, unaligned diagonal linear pixel disruptions (rake marks) are visible on the upper-right quadrant of the right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Two prominent circular dark pigmentation marks on the left lobe; significant structural irregularity and heavy biological encrustation on the fluke tips.",
+  "other_distinctive_markers": "Pronounced 'hook' shape of the distal tips with high-relief texture that breaks the 2D plane of the fluke edge."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity (white) pixels dominate approximately 90% of the visible surface area, contrasted against a narrow low-intensity (black/dark) band along the trailing edge and lateral tips.",
+    "spatial_color_mapping": "A large, contiguous high-intensity white zone occupies the central and proximal fluke areas. A distinct low-intensity black border follows the trailing edge, transitioning into brown/mottled clusters at the lateral terminal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a pixel-calculated angle of approximately 75 degrees and a shallow depth relative to the horizontal span of the lobes.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with low pixel-amplitude variations (jagged peaks) distributed continuously along the trailing edge from the notch to both tips.",
+    "lobe_sweep_trajectory": "Slightly convex curvature fitted to the trailing edge of both the left and right lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast dark pixel clusters and circular textures are visible at the extreme distal points of both the left and right fluke lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Dark, mottled pigmentation and irregular edge textures at the lateral tips suggest site-specific scarring or previous parasitic colonization.",
+  "other_distinctive_markers": null
+}

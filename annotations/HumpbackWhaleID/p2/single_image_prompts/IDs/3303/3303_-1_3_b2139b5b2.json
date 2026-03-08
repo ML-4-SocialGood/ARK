@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels constitute approximately 85-90% of the visible surface area, providing high contrast against the low-intensity black peripheral banding.",
+    "spatial_color_mapping": "A dominant, contiguous high-intensity white field covers the interior. A thin, low-intensity black border (approx. 5-15 pixels) maps the trailing edge. Small discrete low-intensity circular clusters are visible in the lower-right and lower-central regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped central depression with a calculated vertex angle of approximately 45 degrees; the depth of the notch occupies roughly 18% of the total vertical bounding box of the fluke.",
+    "edge_topography_serration_map": "High-frequency irregular serrations with pixel-amplitudes ranging from 3 to 14 pixels along the entire continuous trailing boundary, separated from the water background by a sharp intensity gradient.",
+    "lobe_sweep_trajectory": "Convex elliptical curves fitted to the posterior edges of both the left and right lobes, extending from the median notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple small, dark circular pixel clusters (approx. 4-10 pixels in diameter) are detected on the lower-right ventral surface, representing localized contrast disruptions.",
+    "linear_abrasions": "Several unaligned, low-intensity linear streaks (rake marks) are visible extending vertically from the trailing edge into the high-intensity white field on both lobes."
+  },
+  "acquired_anomalies_or_scars": "Visible vertical rake marks and small circular punctate scars on the ventral pigmentation field; slight irregular erosion at the distal tips.",
+  "other_distinctive_markers": "A specific high-contrast dark notch or patch is visible on the trailing edge of the left lobe immediately adjacent to the median notch."
+}

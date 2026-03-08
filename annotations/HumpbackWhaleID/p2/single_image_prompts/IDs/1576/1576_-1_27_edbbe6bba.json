@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast ratio; approximately 70% of the visible surface consists of high-intensity white pixels (>200 on 8-bit scale) located in the central lobes, bordered by low-intensity black pixels (<50 on 8-bit scale) along the periphery and notch.",
+    "spatial_color_mapping": "Two large, contiguous high-intensity white geometric regions occupy the core of the left and right lobes. These are bounded by a continuous low-intensity dark band along the trailing edge and median notch. Several small, discrete low-intensity circular pixel blobs (mottling) are located at [x,y] coordinates approximately 1/3 in from the left trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep acute V-shaped depression with a calculated pixel angle of approximately 42 degrees and a bounding-box depth equivalent to roughly 12% of the total vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serration map; pixel peaks and valleys are most pronounced on the distal thirds of both lobes, featuring irregular saw-tooth projections ranging from 5 to 20 pixels in height.",
+    "lobe_sweep_trajectory": "The trailing edge follows an upward concave curve from the median notch toward the tips, while the leading edge (partially visible) suggests a smooth convex trajectory."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-contrast, high-texture pixel groups are concentrated at the extreme distal tips of both lobes, representing irregular protrusions against the water background.",
+    "linear_abrasions": "Three distinct, near-parallel dark linear pixel disruptions (rake marks) are visible on the high-intensity white region of the right lobe, oriented diagonally from the trailing edge toward the center."
+  },
+  "acquired_anomalies_or_scars": "Irregular jaggedness and suspected tissue loss at the distal tips, resulting in an asymmetrical, hyper-serrated profile compared to the smoother inner trailing edge.",
+  "other_distinctive_markers": "A specific dark, focal pixel cluster (spot) is located in the upper-middle region of the left lobe's high-intensity white field."
+}

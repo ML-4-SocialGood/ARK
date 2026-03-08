@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 5.6:1 ratio of high-intensity pixels (interior fields) to low-intensity pixels (trailing edges and axial hub).",
+    "spatial_color_mapping": "Dominant high-intensity white contiguous zones on both lobes. Low-intensity black pixels form a continuous band along the trailing edge and an irregular radial cluster at the median notch. A discrete circular low-intensity blob is located in the medial-distal region of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped vertex measured at approximately 62 degrees with a vertical depth of approximately 15% relative to the lobe's maximum height.",
+    "edge_topography_serration_map": "High-frequency serration along the continuous trailing edge boundary with approximately 12 to 14 distinct peaks per lobe and an average pixel-amplitude variation of 6 to 10 pixels.",
+    "lobe_sweep_trajectory": "Convex parabolic trajectory along the trailing edge leading to tapered distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "A discrete circular low-intensity feature on the right lobe; dense irregular low-intensity mottling concentrated at the median notch vertex.",
+  "other_distinctive_markers": null
+}

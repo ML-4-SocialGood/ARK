@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low-intensity (dark) pixels dominate approximately 85% of the surface area, with high-intensity (white) pixels concentrated at the distal tips, resulting in a high-contrast ratio of approximately 1:6.",
+    "spatial_color_mapping": "High-intensity white mottling and marbling are localized to the upper outer margins (distal tips) of both lobes; the central and proximal regions are contiguous low-intensity black with sparse pixel-level noise."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a wide obtuse angle of approximately 120 degrees and a shallow pixel-depth relative to total fluke height.",
+    "edge_topography_serration_map": "Irregular serration across the entire trailing edge; right lobe (viewer perspective) shows higher amplitude peaks and deeper valleys compared to the left lobe which exhibits a more uniform micro-serration.",
+    "lobe_sweep_trajectory": "Bi-lateral concave curves originating from the median notch, transitioning to a slight convexity at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple small, roughly circular high-contrast white clusters (approx. 5-10 pixels in diameter) scattered across the lower quadrants of both lobes.",
+    "linear_abrasions": "Several distinct, non-parallel white linear pixel disruptions visible on the left lobe, including a prominent diagonal rake mark near the mid-section."
+  },
+  "acquired_anomalies_or_scars": "Notable semi-circular indentation on the trailing edge of the right lobe, approximately one-third of the distance from the notch to the tip.",
+  "other_distinctive_markers": "Unique jagged, irregular pixel boundary at the extreme right distal tip compared to the relatively smoother left distal tip."
+}

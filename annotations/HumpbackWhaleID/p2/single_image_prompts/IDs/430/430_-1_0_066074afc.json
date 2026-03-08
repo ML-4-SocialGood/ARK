@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels dominate approximately 85% of the visible ventral surface, creating a high contrast against the low-intensity black pixels at the trailing edge, distal tips, and peduncle insertion area.",
+    "spatial_color_mapping": "Dominant high-intensity (white) field across the central and lateral fluke regions. A continuous low-intensity (black) perimeter band follows the trailing edge. Discrete low-intensity (dark) circular focal nodes are distributed asymmetrically: 5 distinct nodes on the left lobe and approximately 8 nodes on the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped indentation with an estimated vertex angle of 55 degrees; the depth of the notch is approximately 12% of the lobe's vertical height.",
+    "edge_topography_serration_map": "Frequent, low-amplitude serrations (pixel-amplitude variations of 3-6 pixels) are mapped along the continuous boundary of the trailing edge, with more pronounced jaggedness observed at the distal tips.",
+    "lobe_sweep_trajectory": "A concave mathematical curve characterizes the sweep from the lateral tips inward toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple localized, low-intensity (black) circular pixel clusters (mottling) scattered across the high-intensity (white) field. High-intensity (white) clusters are also visible on the low-intensity (black) distal tips of both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A dark, symmetrical pigmentation pattern at the base of the fluke creates a distinctive 'Y' shape at the junction with the peduncle."
+}

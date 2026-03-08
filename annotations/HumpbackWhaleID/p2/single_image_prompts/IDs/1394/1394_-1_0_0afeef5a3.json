@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low macro-level contrast; overwhelmingly dominated by low-intensity black pixels with sparse high-intensity white pixel clusters. Estimated ratio is approximately 0.05:0.95 (white:black).",
+    "spatial_color_mapping": "Primary surface is a solid black contiguous region. Visible high-contrast white focal spots are scattered across both lobes, with a specific cluster of small white blobs located mid-lobe on the left side and several distinct circular white pixels along the right lobe boundary."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped depression with a calculated angle of approximately 55 degrees; notch depth occupies roughly 18% of the visible vertical lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular sawtooth pattern. Serrations exhibit high pixel-amplitude (5-20 pixels deep) with sharp, jagged peaks across the entirety of both trailing edge lobes.",
+    "lobe_sweep_trajectory": "Strong concave curve fitted to the trailing edges, transitioning into tapered, uplifted tips at the distal ends."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular white pixel clusters ranging from 3-10 pixels in diameter detected on the ventral surface, likely representing barnacle attachment points or scars.",
+    "linear_abrasions": "Detection of several thin, unaligned linear white streaks (rake marks) located on the left lobe, oriented diagonally toward the median notch."
+  },
+  "acquired_anomalies_or_scars": "Extreme structural raggedness at both distal tips; the left tip (camera perspective) shows an accumulation of brown/tan textured biological growth or debris. The trailing edge displays numerous deep, irregular notches consistent with physical trauma.",
+  "other_distinctive_markers": "Presence of a tan/brown textured appendage or parasitic cluster attached to the extreme upper corner of the left fluke tip."
+}

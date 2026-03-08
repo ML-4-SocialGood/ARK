@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1.2:1 ratio of high-intensity (white/cream) to low-intensity (black/dark-gray) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "High-intensity region A (left lobe): broad white field from medial-bottom to lateral-upper, bordered by black stippling at the ventral-edge. High-intensity region B (right lobe): continuous white field extending from the medial notch area to the distal tip. Low-intensity region C: central vertical wedge at the peduncle intersection."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated angle of approximately 70 degrees and a vertical bounding-box depth of approximately 18% of the visible fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations visible along 80% of the trailing edge; peaks and valleys exhibit pixel amplitudes ranging from 3 to 12 pixels. A significant traumatic indentation is located on the left lobe trailing edge.",
+    "lobe_sweep_trajectory": "Bi-lateral upward-sweeping curve; leading edges are concave-up, while trailing edges follow a generally convex curve modulated by high-frequency serrations."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density cluster of high-contrast, textured pixel clusters at the distal extremity of the left lobe. Discrete white circular points are scattered along the dark trailing edge boundaries.",
+    "linear_abrasions": "Faint, low-contrast dark vertical streaks (rake marks) visible within the white pigment field of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Major traumatic notch on the trailing edge of the left lobe. Significant irregular morphological protrusion and heavy texture on the far-left distal tip showing evidence of physical trauma or heavy colonization.",
+  "other_distinctive_markers": "Extensive yellowish-tan bio-film (diatoms) covering approximately 40% of the visible white surface areas, primarily in the central lobe regions."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level ratio; approximately 85-90 percent high-intensity white pixels vs 10-15 percent low-intensity black pixels localized on the perimeter and focal clusters.",
+    "spatial_color_mapping": "Continuous low-intensity black band along the entire trailing edge and distal tips. Discrete low-intensity pixel clusters (focal spots) distributed across the white field, notably at [x:0.18, y:0.42], [x:0.48, y:0.78], and [x:0.65, y:0.52]."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate 70-80 degree internal pixel angle and significant vertical depth relative to the fluke midline.",
+    "edge_topography_serration_map": "High-frequency irregular serration; continuous series of peaks and valleys with pixel-amplitudes varying between 4 and 18 pixels along the black trailing boundary.",
+    "lobe_sweep_trajectory": "Symmetrical convex upward curve originating from the median notch and terminating at the pointed lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast white pixel clusters located at the extreme left and right tips, consistent with barnacle-induced scarring. Small circular dark pixel clusters scattered on the interior ventral surface.",
+    "linear_abrasions": "Set of three distinct, near-parallel diagonal linear pixel disruptions (rake marks) on the right lobe extending from the mid-section toward the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Prominent diagonal linear rake marks on the right lobe; irregular jagged tissue loss at both the extreme left and right distal tips.",
+  "other_distinctive_markers": "Localized pink/reddish low-saturation pigmentation patches visible on the lower-central region of the right lobe."
+}

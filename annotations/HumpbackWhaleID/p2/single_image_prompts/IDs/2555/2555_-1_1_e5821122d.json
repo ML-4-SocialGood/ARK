@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) with high-intensity (white) concentrations at distal regions; estimated 70:30 black-to-white pixel distribution across the visible surface.",
+    "spatial_color_mapping": "High-intensity white regions are concentrated at the distal tips of both lobes. Left tip contains three distinct horizontal white bands. Right tip features a broad, mottled white patch with irregular boundaries tapering toward the median hub."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped indentation; estimated interior angle of 115 degrees; bounding-box depth is approximately 7% of the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "High-frequency irregular serrations along the entire trailing edge boundary; more pronounced, jagged peaks (amplitude 5-12 pixels) visible on the right lobe edge compared to the left.",
+    "lobe_sweep_trajectory": "Convex trajectory from the central base tapering to sharp, slightly upward-curved distal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Scattered circular high-contrast white pixel clusters (2-5 pixel radius) located in the lower-central black region and dispersed within the mottled white patch of the right lobe.",
+    "linear_abrasions": "Set of 3-4 parallel horizontal white linear streaks on the far-left distal tip; vertical white rake-like disruptions visible within the right-lobe pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Small irregular notch/indentation on the trailing edge of the right lobe, approximately 40% distance from the median notch toward the tip.",
+  "other_distinctive_markers": "Distinctive high-contrast white horizontal 'dash' mark located in the lower-central black region near the peduncle water line."
+}

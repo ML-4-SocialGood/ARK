@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70:30 ratio of high-intensity (white/tan) to low-intensity (black) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Central high-intensity white field; horizontal tan-colored band across the mid-section of both lobes; contiguous black perimeter border along leading and trailing edges; localized black mottling at the median notch vertex."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated pixel angle of approximately 52 degrees and a bounding-box depth of 85 pixels.",
+    "edge_topography_serration_map": "High-frequency serration pattern with irregular peak amplitudes (5-15 pixels) across the continuous trailing edge span, isolated from the gray-scale water background.",
+    "lobe_sweep_trajectory": "Convex curve fitted to the trailing edges of both lobes, tapering to pointed distal termini."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of dark, textured, roughly circular pixel groups localized at the distal tips of both lobes; scattered dark punctate marks within the white field.",
+    "linear_abrasions": "Primary vertical linear mark on left lobe; primary diagonal linear mark on right lobe; multiple smaller horizontal streaks within the tan-colored band."
+  },
+  "acquired_anomalies_or_scars": "Irregular trailing edge notches near distal tips; heavy colonization by high-relief, dark textured clusters on the outer margins.",
+  "other_distinctive_markers": "Pronounced horizontal bi-tonal pigmentation consisting of a yellowish-tan band across the primary white ventral surface."
+}

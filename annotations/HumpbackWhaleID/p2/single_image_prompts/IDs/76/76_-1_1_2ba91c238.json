@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.35:0.65 ratio of high-intensity (light gray/white) to low-intensity (dark gray/black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Large contiguous light gray region on the inner-to-mid section of the left lobe. Irregular mottling of light gray pixels on the right lobe, primarily concentrated near the trailing edge and central notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped notch with an estimated internal angle of 65 degrees and a bounding box depth roughly 1/5th of the lobe height.",
+    "edge_topography_serration_map": "Multiple low-amplitude serrations (2-4 pixels depth) distributed along the entire trailing edge; frequency is higher on the distal portions of both lobes.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge of both lobes, tapering to sharp points at the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Several dark, circular high-contrast pixel clusters are visible within the light gray patch on the left lobe, and scattered across the central region.",
+    "linear_abrasions": "A distinct, high-contrast dark vertical line is visible on the right lobe, breaking the pigmentation field."
+  },
+  "acquired_anomalies_or_scars": "A prominent vertical linear rake mark or scratch is visible on the right lobe.",
+  "other_distinctive_markers": null
+}

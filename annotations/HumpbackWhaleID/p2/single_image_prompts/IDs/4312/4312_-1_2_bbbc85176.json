@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity (white) across ~85% of surface area; low-intensity (black) pixels concentrated on the perimeter, tips, and median notch. Contrast ratio estimated at approximately 8.5:1 white-to-black pixels.",
+    "spatial_color_mapping": "Contiguous high-intensity white area across central lobes. Low-intensity black pigmentation forms a continuous border along the trailing edge. Distinct black focal spots and streaks located on the distal ends of both lobes, with a specific 'comb-like' pattern on the right lobe tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Obtuse V-shaped depression with a calculated interior angle of approximately 145 degrees; shallow bounding-box depth relative to overall lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular pixel peaks and valleys along the entire trailing edge. Serrations are more pronounced and sharper on the distal half of the right lobe compared to the more rounded undulations on the left lobe.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a strong concave curve from the tips toward the median notch; leading edges show a convex curve."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast black clusters on the extreme lateral tips of both lobes, consistent with barnacle colonization footprints.",
+    "linear_abrasions": "A series of at least 5-7 parallel, unaligned linear black pixel disruptions (rake marks) on the right lobe near the trailing edge. A single, faint curved linear mark on the interior of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Deep linear rake marks on the distal portion of the right lobe; minor irregular tissue loss or pigmentation gaps on the trailing edge of the left lobe.",
+  "other_distinctive_markers": "Unique 'comb' or 'finger' pattern of black pigmentation extending inward from the trailing edge of the right lobe distal tip."
+}

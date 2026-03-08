@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low; the visible surface is predominantly composed of low-intensity (black) pixels with a macro-level ratio of approximately 1:20 high-intensity (white) to low-intensity pixels.",
+    "spatial_color_mapping": "High-contrast contiguous geometric blobs are localized exclusively at the distal extremities (left and right tips) of the fluke; the remainder of the 2D spatial area exhibits a homogeneous low-intensity black pigmentation mapping."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch; calculated interior angle is approximately 35-40 degrees with a vertical pixel depth representing approximately 12% of the total fluke height.",
+    "edge_topography_serration_map": "Highly irregular trailing edge topography; the right lobe exhibits high-frequency serrations with sharp peaks (pixel amplitude 5-10px), while the left lobe shows lower-frequency, more rounded undulations.",
+    "lobe_sweep_trajectory": "Concave mathematical curve fitted to the central trailing edge transitioning into a distinct upward convex sweep toward the distal lobe tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of multiple circular/ring-like pixel clusters (rosettes) scattered across the mid-region of both lobes; appearing as subtle low-contrast variations against the dark pigment.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Prominent clusters of white, calcified barnacles localized on the trailing edge of both distal tips; right tip shows a higher density of localized high-intensity pixel clusters than the left.",
+  "other_distinctive_markers": "Visible white water spray and cavitation at the ventral-peduncle interface obscuring the lower boundary of the fluke lobes."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 45% high-intensity (white) to 55% low-intensity (black) pixel distribution across the visible surface.",
+    "spatial_color_mapping": "High-intensity white regions are concentrated at the upper-outer margins of both lobes. These regions transition into a dense field of small, discrete white circular blobs (mottling) against a black background toward the center. Distinct vertical white streaks are present on the lower portion of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible V-shaped central depression with a vertex angle of approximately 75 degrees and a vertical bounding-box depth of roughly 120 pixels relative to the lobe peaks.",
+    "edge_topography_serration_map": "Irregular serrated boundary along the trailing edge with pixel-amplitude variations of 2-8 pixels. The right distal tip exhibits a more pronounced, jagged irregularity compared to the left.",
+    "lobe_sweep_trajectory": "Trailing edges follow a convex sweep from the central notch to the tips. Outer leading edges show a tight convex curve returning to the waterline."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distribution of multiple circular high-contrast white pixel clusters, typically 5-15 pixels in diameter, localized within the dark-pigmented central and lower regions of both lobes.",
+    "linear_abrasions": "Presence of several vertical, high-intensity linear marks on the lower left lobe, ranging from 30 to 70 pixels in length."
+  },
+  "acquired_anomalies_or_scars": "Extensive circular scarring (consistent with barnacle attachment sites) and distinct vertical rake marks on the lower left lobe. Small irregular protrusion on the distal tip of the right lobe.",
+  "other_distinctive_markers": "Unique 'fringe-like' vertical white striping pattern localized to the lower-left margin of the fluke."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark grey) pixels comprising ~90% of the surface area, with high-intensity (white) pixels concentrated in localized streaks and at the distal tips.",
+    "spatial_color_mapping": "Contiguous high-contrast white pixel clusters are mapped to the extreme distal tips of both lobes. Distinct linear white blobs are observed as vertical streaks in the medial-right region and diagonal streaks in the lower-left quadrant against a uniform dark background."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a pixel-calculated angle of approximately 55 degrees and a bounding-box depth approximately 25% of the total fluke height.",
+    "edge_topography_serration_map": "Continuous boundary with high-frequency, low-amplitude serrations. The left lobe tip exhibits significant irregular jaggedness (macro-serration), while the right trailing edge shows more uniform, small-amplitude sawtooth variations.",
+    "lobe_sweep_trajectory": "Strong convex upward curvature from the median notch toward the distal tips, terminating in sharp, slightly downward-tilted outer edges."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, high-contrast circular and semi-circular pixel clusters concentrated at the distal tips of both lobes and sparsely distributed near the lower-left trailing edge.",
+    "linear_abrasions": "Multiple high-contrast linear pixel tracks; four distinct vertical streaks (rake marks) are mapped to the central-right lobe, and several smaller diagonal scratches are mapped to the central-left lobe."
+  },
+  "acquired_anomalies_or_scars": "Visible irregular truncation and jagged pixel loss at the extreme tip of the left lobe, indicating non-congenital mechanical trauma.",
+  "other_distinctive_markers": "Distinctive parallel vertical linear markings on the right lobe that break the dark pigmentation mapping in a repetitive pattern."
+}

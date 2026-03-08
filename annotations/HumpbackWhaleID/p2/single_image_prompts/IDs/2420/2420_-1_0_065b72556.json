@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 60:40 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Large contiguous white pixel regions occupy the distal 70% of the right lobe and 50% of the left lobe. Low-intensity black pixels are concentrated around the median notch and extend along the leading edge and central interior of both lobes, with mottled transition zones."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an estimated pixel angle of 100 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel amplitudes ranging from 2-8 pixels along the entire trailing edge; notably jagged peaks are visible at the distal tips.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge of both lobes, tapering to sharp points at the lateral extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, high-contrast white circular pixel clusters (2-4 pixel diameter) are visible within the dark pigmented central region near the peduncle attachment.",
+    "linear_abrasions": "Three distinct, parallel light-gray linear pixel disruptions oriented horizontally on the dark pigment of the inner left lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent reddish-brown pixel clusters (potential bio-fouling or necrotic tissue) are localized at the extreme distal tips of both the left and right fluke lobes.",
+  "other_distinctive_markers": null
+}

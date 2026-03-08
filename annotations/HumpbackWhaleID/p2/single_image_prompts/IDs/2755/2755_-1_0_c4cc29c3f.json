@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 60% high-intensity white and 40% low-intensity black pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Dominant white contiguous fields on both lobes. Primary black pigmentation concentrated at the fluke-to-peduncle junction and along the trailing edges. Two distinct circular black pixel blobs are located mid-span on the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate angle of 75-80 degrees and a significant bounding-box depth.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (peaks and valleys) across the entire trailing edge; notably jagged protrusions visible on the left distal tip.",
+    "lobe_sweep_trajectory": "Slightly convex curve trajectory from the distal tips sloping inward toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density white pixel clusters localized at the extreme distal tips of both lobes, consistent with barnacle colonization.",
+    "linear_abrasions": "Fine, low-contrast dark linear pixel paths visible within the interior white region of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant calcified white masses at the far left tip. Two prominent circular dark spots on the interior field of the left lobe.",
+  "other_distinctive_markers": "The black central pigmentation creates a distinct 'W' shape at the junction where the lobes meet the peduncle."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low-intensity (black) pixels dominate >90% of the visible fluke surface, with high-intensity (white) pixels localized primarily along the superior boundary and focal scarring. Estimated macro-level intensity ratio is 1:15 white-to-black.",
+    "spatial_color_mapping": "Contiguous low-intensity region across the visible ventral area. A high-intensity linear band is mapped along the superior trailing edge. A single, discrete high-intensity circular focal spot is located on the mid-right lobe at approximately 75% width from left margin."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a calculated pixel angle of approximately 142 degrees and a shallow bounding-box vertical depth.",
+    "edge_topography_serration_map": "Low-amplitude, high-frequency micro-serrations are visible along the superior boundary. Distal tips exhibit high-amplitude, irregular jagged projections corresponding to external clusters.",
+    "lobe_sweep_trajectory": "Elongated, slightly convex trajectory fitted from the median notch to the distal tips, terminating in pointed extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of a single high-intensity (white) circular pixel cluster on the mid-right lobe. Significant dark, irregular high-contrast clusters detected on both distal tips.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive dark textured masses (barnacle clusters) present on both distal fluke tips; single circular high-intensity scar on the right lobe.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 45:55 ratio of high-intensity white (>200 RGB) to low-intensity black (<50 RGB) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Large contiguous high-intensity white blobs dominate the medial regions of both lobes, bifurcated by a low-intensity black central wedge. Outer lateral margins and the trailing edge are defined by a continuous low-intensity black border. A single, distinct low-intensity circular spot is located in the upper-medial quadrant of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated interior angle of approximately 55 degrees forming a sharp V-shaped depression at the central convergence of the lobes.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations characterized by sharp pixel-peaks and deep valleys along the entire trailing edge boundary, with increased complexity and jaggedness towards the distal tips.",
+    "lobe_sweep_trajectory": "Outer edges of both lobes follow a convex curve that terminates in heavily irregular, serrated distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of dark, high-relief pixel groupings (barnacles) concentrated at the distal-most tips of both the left and right lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Heavy biological encrustation and stalked barnacle clusters causing significant geometric distortion and 'fringing' at the distal tips of both lobes.",
+  "other_distinctive_markers": "Highly unique cluster of stalked, dark-brown organic structures (Conchoderma auritum) extending visibly beyond the natural pixel-boundary of the right fluke tip."
+}

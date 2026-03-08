@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark grey/black) with approximately 15% high-intensity (white/light grey) pixels localized to the lateral lobe tips.",
+    "spatial_color_mapping": "Large contiguous low-intensity region across the central 70% of the fluke width. High-contrast white/grey mottling patterns are restricted to the distal extremities of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with an internal pixel angle of approximately 45 degrees; the vertex is partially occluded by water surface turbulence.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude (1-4 pixel) variations along the upper boundary of the left lobe. The right lobe exhibits a smoother, more continuous linear boundary with fewer discrete peaks.",
+    "lobe_sweep_trajectory": "Bilateral convex curve originating from the median notch, terminating in upward-swept distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-intensity white pixels at the terminal tips of both lobes, indicating localized surface irregularities.",
+    "linear_abrasions": "A series of at least four parallel, diagonal dark linear disruptions on the right lobe, crossing through the lighter mottled region."
+  },
+  "acquired_anomalies_or_scars": "Notable parallel linear rake marks on the right lobe and irregular serration patterns on the left lobe trailing edge.",
+  "other_distinctive_markers": null
+}

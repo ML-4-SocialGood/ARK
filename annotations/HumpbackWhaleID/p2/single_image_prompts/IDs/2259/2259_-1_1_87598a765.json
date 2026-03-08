@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1.6:1 ratio of high-intensity (white/cream) to low-intensity (black/grey) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Large high-intensity contiguous blobs occupying central lobe regions; low-intensity peripheral borders; significant low-intensity mottling and focal spotting concentrated on the distal half of the right lobe and the area immediately surrounding the median notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with an estimated aperture of 48 degrees and high vertical bounding-box depth relative to fluke width.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude (2-4 pixel) serration pattern continuous along the trailing edges of both lobes, isolated against the lighter water background.",
+    "lobe_sweep_trajectory": "Convex curvature sweep along the trailing edges, transitioning into an upward-tapered trajectory at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Concentrated low-intensity (black) pixel clusters on the mid-distal high-intensity (white) field of the right lobe; small high-intensity (white) punctate marks on the low-intensity (black) leading edge of the left lobe.",
+    "linear_abrasions": "Faint, dark, unaligned linear pixel disruptions oriented roughly perpendicular to the trailing edge on the white field of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Textured, brownish-grey clusters (indicative of colonization) at the extreme distal tips of both lobes; distinct irregular indentation/notch on the trailing edge of the left lobe approximately one-third of the distance from the tip.",
+  "other_distinctive_markers": "Prominent accumulation of non-pigment-based textured masses at the extreme lobe terminals."
+}

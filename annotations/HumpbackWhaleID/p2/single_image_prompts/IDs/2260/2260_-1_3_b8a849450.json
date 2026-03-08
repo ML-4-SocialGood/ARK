@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 25% high-intensity pixels (white/light grey) to 75% low-intensity pixels (black), with high-intensity regions localized on the distal upper-third of both fluke lobes.",
+    "spatial_color_mapping": "Contiguous white regions mapped to the upper-outer quadrants of both lobes. Left lobe white region (approx. pixels x=100-350, y=250-450) contains internal black linear streaks. Right lobe white region (approx. pixels x=650-900, y=250-450) contains dispersed dark focal spots."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression at the center with a measured angle of approximately 55 degrees and a bounding-box depth extending roughly 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations visible on the right lobe trailing edge with at least four distinct deep pixel-valleys. Left lobe trailing edge exhibits moderate-frequency, lower-amplitude irregular peaks.",
+    "lobe_sweep_trajectory": "Convex curve sweeping from the notch to the tips; the right lobe sweep is noticeably more interrupted by jagged topographical variation than the left lobe."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast white circular pixel clusters detected at the tip of the left lobe and along the upper perimeter of the right lobe, consistent with barnacle-base scarring.",
+    "linear_abrasions": "Multiple parallel diagonal black linear pixel disruptions cutting across the white high-intensity region on the left lobe, oriented from the trailing edge towards the anterior midline."
+  },
+  "acquired_anomalies_or_scars": "Deep traumatic indentations and irregular missing tissue segments on the trailing edge of the right lobe, creating a saw-tooth silhouette distinct from natural wear.",
+  "other_distinctive_markers": null
+}

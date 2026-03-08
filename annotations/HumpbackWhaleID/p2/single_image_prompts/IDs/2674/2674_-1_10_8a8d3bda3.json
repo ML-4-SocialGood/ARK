@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 35:65 ratio of high-intensity white pixels to low-intensity black/grey pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Large contiguous low-intensity (black) field covering roughly 85% of the visual left lobe and the central peduncle area. High-intensity white field localized on the visual right lobe, bounded by low-intensity margins and populated with internal low-intensity linear and mottled clusters."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Broad V-shaped central depression with an estimated pixel angle of 145 degrees and a shallow bounding-box depth.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations detected along the entire trailing edge boundary. Significant jagged pixel peaks and valleys localized on the distal lateral tip of the visual right lobe.",
+    "lobe_sweep_trajectory": "Linear sweep from the median notch transitioning to convex curvature on the outer lateral margins of both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of roughly circular low-intensity pixels (3-10 pixel diameter) scattered within the high-intensity white field of the visual right lobe.",
+    "linear_abrasions": "Set of four distinct, parallel low-intensity linear tracks oriented diagonally on the high-intensity field of the visual right lobe; secondary horizontal linear disruption on the visual left lobe."
+  },
+  "acquired_anomalies_or_scars": "Distinct parallel rake marks on the visual right lobe; irregular jagged indentation on the distal lateral edge of the visual right lobe suggests significant prior physical trauma.",
+  "other_distinctive_markers": null
+}

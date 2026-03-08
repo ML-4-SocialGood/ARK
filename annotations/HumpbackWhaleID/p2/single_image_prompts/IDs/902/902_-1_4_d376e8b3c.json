@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels constitute approximately 75% of the visible surface, with low-intensity black pixels localized primarily at the trailing edge and distal tips.",
+    "spatial_color_mapping": "Contiguous high-intensity (white) regions occupy the central lobes. Low-intensity (black) pigmentation forms a continuous border along the trailing edge and distal tips, with sparse, irregular low-intensity mottling scattered across the white fields."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Approximate 65-degree V-shaped depression; however, the precise vertex and depth are occluded by high-intensity water spray pixels.",
+    "edge_topography_serration_map": "Highly irregular and jagged topography with frequent, high-amplitude variations. Notable deep indentations and missing pixel segments are located along the distal half of the right lobe's trailing edge.",
+    "lobe_sweep_trajectory": "Convex curve fitted to the superior boundary of both lobes, tapering to acute distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, circular low-intensity clusters (approx. 5-10 pixels in diameter) visible against the white background on both the left and right lobes.",
+    "linear_abrasions": "Distinct, unaligned linear pixel disruptions (dark streaks) are present; specifically, four long diagonal marks on the right lobe and several shorter vertical marks on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive linear scarring (rake marks) across both lobes and significant missing tissue segments along the jagged trailing edge contour.",
+  "other_distinctive_markers": "Significant pixel occlusion at the central fluke-peduncle junction caused by turbulent water spray."
+}

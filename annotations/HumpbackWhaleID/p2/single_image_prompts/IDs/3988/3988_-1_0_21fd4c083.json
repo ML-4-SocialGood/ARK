@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 60:40 ratio of high-intensity white pixels (lobes) to low-intensity black/dark-grey pixels (central peduncle area and margins).",
+    "spatial_color_mapping": "Central low-intensity black region originating at the peduncle base. Two primary high-intensity white fields cover the majority of the left and right lobes. Distributed dark mottling and discrete spots are present in the inner-upper and outer-mid sections of both lobes. A continuous black perimeter band (3-8 pixels deep) defines the trailing edge and tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central notch with an approximate interior angle of 108 degrees; vertical depth is approximately 15% of the visible lobe height.",
+    "edge_topography_serration_map": "Irregular serration pattern along the entire trailing boundary. Higher frequency of micro-peaks (2-4 pixels amplitude) on the left lobe's outer margin. The right lobe shows a smoother, more undulating topography with lower frequency variations.",
+    "lobe_sweep_trajectory": "Trailing edge follows a sigmoidal curve, exhibiting slight concavity adjacent to the median notch and transitioning to a convex sweep towards the acuminate distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 18 discrete dark circular pixel clusters (2-6 pixels in diameter) consistent with surface scarring; highest density is located on the inner-lower quadrant of the right white field.",
+    "linear_abrasions": "A single, distinct vertical low-intensity linear feature (approx. 25 pixels in length) is detected on the interior field of the right lobe, oriented roughly perpendicular to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Visible vertical linear abrasion on the right lobe; no macro-level amputations or major traumatic tissue loss visible.",
+  "other_distinctive_markers": "Highly distinctive high-contrast dark spot cluster on the inner leading edge of the left lobe near the central black region."
+}

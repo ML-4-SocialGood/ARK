@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low-intensity (black/dark grey) pixels dominate approximately 90% of the visible fluke surface, with high-intensity (white) pixels localized at the distal tips and along the superior trailing edge margins.",
+    "spatial_color_mapping": "High-contrast contiguous white patches are localized at the distal tips of both lobes. The right tip contains a dense, roughly circular white cluster at the superior corner. The left tip exhibits more diffuse, linear-mottled white pixel distributions concentrated near the trailing edge margin."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "The central depression forms an obtuse V-shape with a calculated vertex angle of approximately 115 degrees and a relatively shallow vertical depth.",
+    "edge_topography_serration_map": "Right lobe exhibits high-frequency, high-amplitude 'saw-tooth' serrations with 4-5 distinct peaks. Left lobe features a large, macro-scale concave indentation (tissue loss) at the distal third, followed by smaller, irregular peaks toward the tip.",
+    "lobe_sweep_trajectory": "The sweep exhibits an overall upward convexity from the peduncle, transitioning into a localized concavity on the trailing edge of the left lobe due to a significant indentation, while the right lobe maintains a more standard convex-to-irregular trajectory."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Discrete white circular pixel clusters, likely representing barnacle colonization scars, are visible on the superior distal margin of the right lobe.",
+    "linear_abrasions": "Faint, multi-directional thin linear white disruptions (rake marks) are detectable on the ventral surface of the left lobe, extending from the medial region toward the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "A significant, deep semi-circular tissue loss or amputation is present on the trailing edge of the left lobe. The trailing edge of the right lobe displays irregular, jagged serrations consistent with cumulative physical trauma.",
+  "other_distinctive_markers": null
+}

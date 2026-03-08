@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 85:15 ratio of high-intensity (white/light gray) base pixels to low-intensity (black/dark gray) pigmentation and edge markings.",
+    "spatial_color_mapping": "Primary surface consists of high-intensity pixels. Low-intensity clusters are mapped as follows: a series of 5-7 discrete circular blobs distributed across the central and lower-left regions; a concentrated dark region bordering the right side of the median notch; and continuous dark banding along the entire trailing edge perimeter."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate 70-degree convergence angle and a vertical pixel depth of approximately 1/8th the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations. Left lobe trailing edge exhibits 14 distinct peaks; right lobe trailing edge exhibits 12 distinct peaks. Distal tips show extreme irregular jaggedness with pixel variances exceeding 20 pixels in depth.",
+    "lobe_sweep_trajectory": "Bilateral convex curves originating from the notch and sweeping upward towards the distal tips; left lobe displays a more acute upward terminal sweep compared to the right lobe."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple circular dark-pixel clusters (rosettes) distributed across the ventral surface, most prominently in the mid-left lobe and the immediate right of the notch.",
+    "linear_abrasions": "Three distinct, unaligned dark linear streaks (rake marks) observed in the upper-left quadrant of the left lobe, oriented diagonally toward the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Prominent dark linear abrasions on the left lobe and significant irregular erosion/pigmentation loss at the terminal tips, particularly the leftmost extremity.",
+  "other_distinctive_markers": "Unique high-contrast dark 'teardrop' shaped spot located approximately midway between the notch and the left distal tip."
+}

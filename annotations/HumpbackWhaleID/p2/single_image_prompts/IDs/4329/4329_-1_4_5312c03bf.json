@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio; approximately 15% high-intensity white pixels localized at the distal tips versus 85% low-intensity dark pixels across the main body.",
+    "spatial_color_mapping": "Contiguous high-intensity white patches at the lateral distal tips of both lobes. Left lobe distal tip contains a larger irregular white zone with internal low-intensity speckling; right lobe distal tip contains a smaller, more discrete white patch. The central fluke surface is a continuous low-intensity dark region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with an approximate pixel angle of 55 degrees and a bounding-box depth approximately 1/6th of the visible vertical fluke span.",
+    "edge_topography_serration_map": "High-frequency irregular serrations along the entire trailing edge. Left lobe displays more frequent small-amplitude peaks; right lobe shows larger, distinct valleys towards the tip.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a concave sweep from the median notch to the distal tips; leading edges show a primary convex curvature."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast brownish-orange pixel clusters localized at the extreme distal tips of both lobes. Sparse white circular points are visible on the dark surface of the left lobe.",
+    "linear_abrasions": "Three distinct, unaligned linear pixel disruptions (white rake marks) located on the medial-lateral section of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Diagonal linear rake marks on the left lobe surface; brownish organic growth/barnacle clusters at the fluke tips.",
+  "other_distinctive_markers": "Extensive water droplet spray patterns causing localized pixel obscuration across the peduncle and lower central fluke region."
+}

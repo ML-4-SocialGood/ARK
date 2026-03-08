@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixels across the visible fluke surface with a low ratio of high-intensity pixels, primarily limited to small mottled areas.",
+    "spatial_color_mapping": "Contiguous dark-intensity region across both lobes; mid-intensity gray mottling is localized in a diffuse pattern on the mid-lateral section of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central depression with an approximate vertex angle of 35 degrees and deep bounding-box penetration into the fluke body.",
+    "edge_topography_serration_map": "Left lobe trailing edge exhibits high-amplitude, low-frequency macro-serrations (jagged peaks). Right lobe trailing edge exhibits low-amplitude, high-frequency micro-serrations along a straighter boundary.",
+    "lobe_sweep_trajectory": "Left lobe follows a convex arc significantly interrupted by deep posterior serrations. Right lobe follows a predominantly linear, swept-back trajectory towards the tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Scattered circular high-intensity pixel clusters (scars) detected primarily on the lower-left quadrant of the left lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular indentation and tissue loss on the inner trailing edge of the left lobe, consistent with major physical trauma.",
+  "other_distinctive_markers": "Pronounced bilateral asymmetry in trailing edge topography between the left and right lobes."
+}

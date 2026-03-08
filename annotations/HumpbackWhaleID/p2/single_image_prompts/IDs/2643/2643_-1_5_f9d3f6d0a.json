@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Highly skewed towards low-intensity (black) pixels; white-to-black pixel ratio is approximately 0.05, with high-intensity pixels localized strictly to scarring and parasitic clusters.",
+    "spatial_color_mapping": "Homogeneous low-intensity field across both lobes; small high-intensity contiguous blobs (barnacles) localized at lateral tips; sparse linear and circular high-contrast pixel clusters distributed medially."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with an approximate 45-degree convergence; deep pixel penetration relative to the lobe width.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude irregular serrations (peaks and valleys) along the entire trailing edge; approximately 9-11 distinct peaks per lobe lobe isolated from the water background.",
+    "lobe_sweep_trajectory": "Pronounced upward convexity (dorsal-directed curve) ending in sharp, acute lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed clusters of circular, high-intensity pixel aggregates (barnacles) on the extreme distal tips of both lobes; secondary clusters visible on the lower-left fluke margin.",
+    "linear_abrasions": "Prominent high-contrast linear marks; includes a large intersecting 'X' pattern on the mid-right lobe and several thin horizontal/diagonal scratches on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Multiple rake marks (parallel linear scars) on the right lobe; two distinct high-contrast circular scars on the left lobe medially.",
+  "other_distinctive_markers": "One singular, perfectly circular white 'O' shaped scar located in the lower-central region of the left lobe."
+}

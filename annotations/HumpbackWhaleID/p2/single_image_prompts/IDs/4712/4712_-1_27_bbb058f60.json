@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 3:1 ratio of low-intensity (dark grey/black) to high-intensity (white/light grey) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant low-intensity central peduncle and outer lobe margins. High-intensity mottled contiguous regions are located on the inner-proximal surfaces of both lobes, transitioning to high-frequency interleaved patterns toward the fluke center."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped indentation with a calculated internal angle of approximately 75 degrees and a rounded vertex.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations present along both lobes; several distinct small notches (approx. 5-10 pixel depth) are visible on the distal third of the right lobe edge.",
+    "lobe_sweep_trajectory": "Convex curve transitioning from the median notch toward the distal tips, with a slight upward inflection at the terminal ends."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": "Numerous high-contrast, multi-directional dark linear pixel disruptions (rake marks) are detected across the high-intensity regions of both lobes, most prominently on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "A single, localized high-intensity (white) pixel cluster is visible on the posterior peduncle, immediately below the fluke notch vertex.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low macro-level ratio; approximately 98% of visible pixels are in the low-intensity (black) range with minimal high-intensity (white) pixels on the fluke surface itself, excluding water spray artifacts.",
+    "spatial_color_mapping": null
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Standard V-shaped median notch with an estimated pixel-calculated angle of 50-60 degrees and a depth roughly 12% of the lobe height.",
+    "edge_topography_serration_map": "High-frequency irregular serrations along the entire boundary; high-amplitude indentations (notches) are specifically clustered on the distal third of the right lobe trailing edge.",
+    "lobe_sweep_trajectory": "Convex curve along the leading edge transitioning to a sharp upward sweep at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of a localized, high-contrast tan/brown cluster at the extreme distal tip of the right lobe, showing a non-uniform pixel texture distinct from the fluke surface.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Prominent external mass of tan/brown material (likely barnacle colonization) at the tip of the right fluke lobe.",
+  "other_distinctive_markers": "Solid uniform dark pigmentation across the entire visible ventral fluke surface, categorized as a Type 5 fluke."
+}

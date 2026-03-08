@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast with approximately 65% high-intensity (white) pixels occupying the central fields and 35% low-intensity (black) pixels forming the perimeter and mottled regions.",
+    "spatial_color_mapping": "Continuous low-intensity perimeter border. High-intensity central fields on both lobes. Dense, stochastic low-intensity mottling concentrated along the transition from the peduncle to the lobes and along the lower trailing edge boundary."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with an approximate angle of 50 degrees and a deep vertical penetration relative to the lobe width.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern. Fine-grain peaks (1-3 pixel amplitude) along the inner trailing edge, transitioning to coarse, jagged protrusions (5-10 pixel amplitude) toward the distal tips.",
+    "lobe_sweep_trajectory": "Concave curvature originating at the median notch and sweeping upward and outward to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Highly textured, high-contrast clusters of roughly circular nodes (barnacle colonies) localized at the extreme distal tips of both lobes. Scattered dark circular focal points visible within the white interior field of the right lobe.",
+    "linear_abrasions": "Multiple near-vertical low-intensity linear streaks (rake marks) on the medial section of the right lobe. Shorter, horizontal linear disruptions along the leading edge of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization at the lateral tips, significantly altering the 2D geometric profile of the lobe ends.",
+  "other_distinctive_markers": "Prominent isolated dark focal spot located in the lower-quadrant of the high-intensity field on the left lobe."
+}

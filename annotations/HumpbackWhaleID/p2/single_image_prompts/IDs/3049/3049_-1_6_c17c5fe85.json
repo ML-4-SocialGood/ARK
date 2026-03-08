@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low macro-level contrast; predominantly low-intensity (dark) pixels with approximately 5% high-intensity (white) pixel coverage localized in discrete spots.",
+    "spatial_color_mapping": "Dominant dark-gray contiguous base layer. Small, circular high-contrast white blobs (stippling) are distributed across both lobes, with higher spatial density at the distal tips and along the trailing edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an estimated pixel angle of 80 degrees; depth occupies roughly 12% of the total vertical bounding box of the fluke.",
+    "edge_topography_serration_map": "Irregular high-frequency serration across the entire trailing edge; pixel-amplitude variations range from 2-12 pixels, creating a jagged boundary profile.",
+    "lobe_sweep_trajectory": "Concave sweep along the trailing edges of both lobes, terminating in slightly upward-tilted distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast white pixel clusters detected at the far left and far right distal tips, forming roughly circular patterns associated with barnacle colonization.",
+    "linear_abrasions": "One distinct, light-gray linear disruption oriented diagonally in the mid-left lobe; several smaller vertical linear marks visible near the medial notch on the left side."
+  },
+  "acquired_anomalies_or_scars": "Significant white scarring and pitting along the distal margins of both lobes; minor irregular truncation at the far right trailing edge tip.",
+  "other_distinctive_markers": "Unique 'star-field' stippling pattern consisting of hundreds of sub-10-pixel white spots distributed across the dark ventral surface."
+}

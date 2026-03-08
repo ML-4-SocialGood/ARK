@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity pixels (>90% dark/black) with localized high-intensity (white) clusters creating high local contrast but low global white-to-black ratio.",
+    "spatial_color_mapping": "Contiguous dark-pigmented surface across both lobes; punctuated by non-contiguous, high-contrast white ovoid blobs (3-12 pixels in diameter) distributed randomly, with higher density in the mid-to-lower sections of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped central depression with an acute internal angle; approximately 1/8th the total fluke height in bounding-box depth.",
+    "edge_topography_serration_map": "High-frequency, irregular-amplitude serrations along the trailing boundary; right lobe distal edge exhibit extreme high-amplitude pixel variations resulting in a jagged, irregular profile compared to the left lobe.",
+    "lobe_sweep_trajectory": "Concave curvature originating from the median notch, sweeping upward and outward toward the distal tips; the right lobe tip exhibits a localized abrupt change in trajectory due to edge irregularities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of numerous circular and ovoid white pixel clusters scattered across the dark ventral surface, particularly concentrated on the medial and distal regions of the right lobe.",
+    "linear_abrasions": "Faint, unaligned light-grey linear pixel disruptions visible on the lower interior portion of the right lobe, oriented diagonally relative to the median notch."
+  },
+  "acquired_anomalies_or_scars": "Extreme irregular jaggedness and loss of smooth contour on the distal tip of the right fluke lobe, indicating significant physical trauma or amputation of the edge tissue.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution; approximately 40% low-intensity pixels concentrated in the central and upper-central regions, with 60% high-intensity pixels on the lateral lobes.",
+    "spatial_color_mapping": "Central low-intensity (black) zone extends from the base to the trailing edge, tapering toward the lobes. Lateral lobes are primarily high-intensity (white). Three distinct high-contrast dark focal spots: two on the left white lobe, one prominent spot on the distal right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped depression with a steep interior angle; bounding-box depth approximately 15% of the total vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing boundary. Pixel amplitude of peaks is most pronounced on the outer thirds of both lobes, transitioning to smaller, more frequent undulations toward the median notch.",
+    "lobe_sweep_trajectory": "Symmetrical upward convex curvature on the leading edge with a complex concave-to-convex transition along the trailing edge leading to pointed distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed clusters of roughly circular, high-contrast textured anomalies (barnacles) localized at the extreme distal tips of both the left and right lobes.",
+    "linear_abrasions": "One distinct vertical linear disruption (scratch) in the central-left black pigmentation zone; minor unaligned horizontal markings on the lower right white lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization on the outer distal edges causing irregular protruding silhouettes; visible vertical linear scar in the central dark region.",
+  "other_distinctive_markers": "Small, isolated punctate black spots (freckling) scattered within the high-intensity white fields of both the left and right fluke lobes."
+}

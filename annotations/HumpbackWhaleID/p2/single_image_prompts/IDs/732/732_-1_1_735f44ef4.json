@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 70:30 ratio of high-intensity white regions to low-intensity black/grey regions, with white dominant on central lobe surfaces.",
+    "spatial_color_mapping": "Dominant white contiguous fields across both lobes. High-contrast dark mottling and solid bands concentrated at the median notch and along the trailing edges. Distinct dark circular focal spots at approximately 20% and 10% of the left lobe horizontal axis, and 85% of the right lobe horizontal axis."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped depression with an approximate pixel angle of 135 degrees and moderate bounding-box depth relative to fluke width.",
+    "edge_topography_serration_map": "High-frequency, low-to-medium amplitude serrations observed along the entire trailing edge boundary, with increased pixel-amplitude (jaggedness) at the terminal lobe tips.",
+    "lobe_sweep_trajectory": "Convex curve trajectory originating from the median notch, sweeping upward and outward to the distal tips of both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Concentrated clusters of high-contrast, roughly circular pixel anomalies located on the extreme distal tips of both the left and right fluke lobes, consistent with barnacle colonization patterns.",
+    "linear_abrasions": "Numerous unaligned, thin dark linear pixel disruptions (rake marks) crossing the white surfaces, particularly visible on the lower-left quadrant and upper-right quadrant of the fluke surface."
+  },
+  "acquired_anomalies_or_scars": "Multiple parallel linear rake marks across the ventral surface and dense scarring/irregularities on the trailing edge tips.",
+  "other_distinctive_markers": "Three distinct, isolated dark circular spots positioned within the white pigmented fields of the lobes, functioning as high-contrast focal points."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level ratio; approximately 82% high-intensity white pixels to 18% low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant high-intensity white regions across both lobes; framed by continuous low-intensity black perimeter bands on the trailing and leading edges; a central vertical black band (approx. 20-30 pixels wide) at the peduncle junction; multiple discrete dark circular blobs (5-10 pixels diameter) scattered across the white fields."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression; calculated interior angle of approximately 76 degrees; apex depth extends significantly into the fluke center.",
+    "edge_topography_serration_map": "Continuous irregular boundary with medium-frequency serrations; pixel-amplitude variations of 4-12 pixels; higher peak-to-valley frequency observed on the distal half of the right lobe.",
+    "lobe_sweep_trajectory": "Lobes exhibit a symmetrical convex upward trajectory from the median notch towards the distal tips; curve fitted as a standard second-order polynomial arc."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 6-8 small, roughly circular high-contrast dark pixel clusters on the white ventral field; notably 4 clusters on the left lobe and 2-3 on the right lobe.",
+    "linear_abrasions": "Faint, unaligned linear dark pixel disruptions (approx. 15-40 pixels in length) detected on the medial-left lobe region."
+  },
+  "acquired_anomalies_or_scars": "Multiple small dark spots/marks visible on the white ventral surface, consistent with permanent pigment variations or healed attachment sites; no major physical trauma or amputations detected.",
+  "other_distinctive_markers": "Pronounced, thick black pigmentation band along the entire leading edge (bottom boundary) creating a sharp geometric contrast with the white inner surface."
+}

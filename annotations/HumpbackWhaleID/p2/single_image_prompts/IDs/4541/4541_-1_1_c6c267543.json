@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High white-to-black ratio; approximately 85% high-intensity white pixels to 15% low-intensity black/dark grey pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant white central field extending to lobes. Continuous black border on leading edges. Irregular black pigmentation along the trailing edge. Dispersed circular dark spots (scars) primarily in the lower-central region and mid-right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped notch with an internal pixel angle of approximately 75 degrees; depth is approximately 12% of the vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge with vertical amplitudes ranging from 3 to 15 pixels.",
+    "lobe_sweep_trajectory": "Concave curvature from the median notch extending towards the mid-lobe, transitioning to convex curvature as it reaches the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular and ring-like high-contrast marks (dark perimeters with light centers) clustered in the lower central fluke area and mid-right lobe surface.",
+    "linear_abrasions": "Faint vertical linear pixel disruptions observed on the right lobe near the interior trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Dense barnacle colonization on the distal tips and scattered along the trailing edge. Significant irregular chipping and notch patterns on the trailing edge boundary likely resulting from physical interactions.",
+  "other_distinctive_markers": "Pronounced barnacle encrustation on the extreme lateral edges, significantly altering the smooth geometric profile of the fluke tips."
+}

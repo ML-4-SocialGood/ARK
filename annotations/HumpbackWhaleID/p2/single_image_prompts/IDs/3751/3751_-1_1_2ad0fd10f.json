@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-dominance of low-intensity pixels (black/dark grey) with a low global contrast ratio; high-intensity (white) pixels are restricted to less than 3% of the total visible surface area.",
+    "spatial_color_mapping": "Primary contiguous low-intensity region covering both fluke lobes; high-intensity coordinate mapping is localized at the distal tips (left and right extreme boundaries) and along specific peak points of the trailing edge serrations."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped central depression with a calculated angle of approximately 65 degrees; vertical notch depth is roughly 18% of the maximum lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern across both lobes; peaks show pixel-amplitude variance of 8-12 pixels; serrations on the right lobe are more pronounced and irregular than those on the left.",
+    "lobe_sweep_trajectory": "Bi-concave upward trajectory originating from the central notch and sweeping toward the distal tips; curvature is steeper on the outer third of each lobe."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed high-contrast white circular pixel clusters at both fluke tips; left tip contains ~5 distinct points; right tip contains a larger cluster of ~12+ points consistent with barnacle colonization.",
+    "linear_abrasions": "Detection of three vertical, thin, high-intensity linear markings on the lower-mid region of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Localized barnacle colonization at the distal tips of both lobes; trailing edge shows irregular jagged patterns potentially indicating minor physical wear or historical trauma.",
+  "other_distinctive_markers": null
+}

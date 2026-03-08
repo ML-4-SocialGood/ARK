@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution; low-intensity (dark) pixels occupy the central fluke area and outer margins, while high-intensity (white/off-white) pixels occupy roughly 45% of the surface area across the lateral lobes.",
+    "spatial_color_mapping": "Two distinct contiguous high-intensity regions on distal lobes; left lobe contains a large white patch with a 'feathered' inner boundary and yellowish-brown tinting near the top; right lobe contains a similar white patch with increased internal low-intensity mottling; both regions are framed by a solid dark border."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped vertex approximately 50 degrees; depth of notch is prominent, bisecting the two lobes symmetrically.",
+    "edge_topography_serration_map": "High-frequency, medium-amplitude irregular serrations; sharp pixel variations creating a 'saw-tooth' profile across the continuous boundary of both lobes.",
+    "lobe_sweep_trajectory": "Bi-curvilinear; concave transition from the median notch followed by a broad convex arc toward the fluke tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple localized circular low-intensity pixel clusters (mottling) scattered within the high-intensity white fields on both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Irregular jagged indentation on the distal trailing edge of the right lobe suggesting historic tissue loss.",
+  "other_distinctive_markers": "Yellowish-brown pixel tinting at coordinates corresponding to the upper-distal region of the left lobe's white patch."
+}

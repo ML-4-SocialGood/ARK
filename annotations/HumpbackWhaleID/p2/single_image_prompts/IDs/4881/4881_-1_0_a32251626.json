@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio; approximately 5-8% high-intensity (white/grey) pixels against a ~92-95% low-intensity (black/dark grey) ventral field.",
+    "spatial_color_mapping": "Predominantly dark background; high-contrast white pixels localized in small circular rings (5-15px diameter) across both lobes, and dense white clusters at the distal tips and medial notch margins."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression, approximately 35 degrees, with a deep bounding-box penetration into the fluke body.",
+    "edge_topography_serration_map": "Highly irregular trailing edge with high-frequency serrations; right lobe (viewer perspective) shows larger sawtooth peaks (5-10px amplitude) compared to the left lobe.",
+    "lobe_sweep_trajectory": "Convex leading edges tapering to distal tips; trailing edges exhibit a roughly linear trajectory from notch to mid-lobe before curving toward the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast circular white rings (rosettes) scattered across both lobes; concentrated cluster visible in the mid-section of the left lobe.",
+    "linear_abrasions": "Multiple non-parallel white/grey linear marks; distinct long diagonal scratch on the left lobe and horizontal rake-like marks on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "A prominent vertical reddish-brown linear lesion or tissue exposure located centrally on the caudal peduncle at the fluke insertion point.",
+  "other_distinctive_markers": "Bright white stippling/mottling concentrated specifically along the interior margins of the median notch."
+}

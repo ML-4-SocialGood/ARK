@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio of approximately 75% high-intensity white pixels to 25% low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant contiguous white region across both lobes. High-contrast black pigmentation is mapped to the trailing edge perimeter, the distal tips, and a large, irregular triangular patch extending from the median notch toward the peduncle connection."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated vertex angle of approximately 45 degrees and a vertical depth roughly equal to the opening width.",
+    "edge_topography_serration_map": "Continuous irregular serration along the entire trailing edge; frequency of approximately one peak every 15-20 horizontal pixels with vertical amplitudes varying between 5 and 15 pixels.",
+    "lobe_sweep_trajectory": "Both lobes exhibit a convex sweep trajectory that tapers to sharp, acute distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple dark, roughly circular pixel clusters (3-8 pixel diameter) scattered across the white surface, with a notable concentration in the medial section of the right lobe.",
+    "linear_abrasions": "Three distinct, near-vertical dark linear streaks on the left lobe (approx. 40-60 pixels in length) and several shorter, diagonal disruptions on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "A significant irregular indentation/notch is visible on the distal leading edge of the left lobe; trailing edge shows multiple points of irregular material loss particularly on the right lobe.",
+  "other_distinctive_markers": "Highly distinct 'butterfly' shaped black-to-white transition boundary located at the central hinge area near the median notch."
+}

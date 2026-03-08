@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio of high-intensity to low-intensity pixels; the visible ventral surface is approximately 90-95% dark-spectrum (black/charcoal) with high-intensity (white) pixels limited to the distal tips and trailing edge serrations.",
+    "spatial_color_mapping": "High-contrast white pixel clusters localized at the extreme distal right tip; smaller, less contiguous white/light-grey mottling at the extreme distal left tip; singular high-intensity focal point on the mid-upper left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible V-shaped central depression with a calculated angle of approximately 105 degrees; notch depth is roughly 15% of the total lobe height at that coordinate.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations detected across the entire trailing edge; right lobe exhibits larger amplitude 'valleys' and sharper 'peaks' compared to the more uniform, low-amplitude serrations on the left lobe.",
+    "lobe_sweep_trajectory": "Predominantly convex curve originating from the median notch, flattening toward the distal tips with a slight terminal concavity on the upper boundary."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct cluster of high-intensity white/grey pixels at the right fluke tip; smaller, isolated white pixel clusters on the distal left tip area.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Pronounced irregular jaggedness and potential minor tissue loss along the right trailing edge, resulting in a more 'toothed' profile than the left.",
+  "other_distinctive_markers": "Vertical high-intensity pixel streaks (motion-blurred water droplets) extending downward from the trailing edge boundary."
+}

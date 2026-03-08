@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast ratio; approximately 75% high-intensity (white) and 25% low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Large contiguous white regions occupy the center of both visible lobes. Low-intensity black pigmentation defines the trailing edge boundary and lobe tips. Discrete black circular clusters are concentrated near the peduncle attachment and scattered on the lower right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an internal pixel angle of approximately 30 degrees.",
+    "edge_topography_serration_map": null,
+    "lobe_sweep_trajectory": null
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of localized, dark circular pixel clusters near the median notch and isolated dark clusters on the right lobe's white surface.",
+    "linear_abrasions": "Faint, unaligned dark linear pixel disruptions traversing the mid-section of the upper lobe's white field."
+  },
+  "acquired_anomalies_or_scars": "Irregular dark pigmentation and jagged contour disruption at the extreme tip of the upper lobe; dark cluster marking at the base of the notch.",
+  "other_distinctive_markers": "Unique 'feathered' pattern where black pigmentation from the trailing edge extends into the white field in thin, distinct filaments on the upper lobe."
+}

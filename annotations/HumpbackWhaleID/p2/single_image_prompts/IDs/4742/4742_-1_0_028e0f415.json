@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) distribution across the fluke surface with a low contrast ratio; approximately 90% of the surface pixels are in the low-intensity range, with high-intensity (white) pixels limited to localized superficial marks and distal tip clusters.",
+    "spatial_color_mapping": "Primary dark contiguous mass across both lobes. High-contrast white geometric blobs are localized at the distal lateral tips (barnacle clusters) and as dispersed focal points and lines on the interior surface of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "U-shaped central depression with a calculated interior angle of approximately 110-120 degrees at the vertex of the lobe separation.",
+    "edge_topography_serration_map": "High-frequency irregular sawtooth topography along the continuous trailing edge, with pixel-amplitude variations (peaks and valleys) ranging from 3 to 10 pixels across the boundary.",
+    "lobe_sweep_trajectory": "Convex parabolic curves extending from the median notch to the distal tips of both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, roughly circular high-contrast white pixel clusters localized at the extreme distal tips of both the left and right lobes.",
+    "linear_abrasions": "Several distinct, non-parallel high-intensity (white) linear streaks detected on the left lobe, ranging from 10 to 40 pixels in length, oriented diagonally."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular indentations (nicks) along the trailing edge and heavy barnacle colonization at the distal lateral edges.",
+  "other_distinctive_markers": "Small, isolated high-intensity circular spots located in the lower-central region of the left fluke lobe."
+}

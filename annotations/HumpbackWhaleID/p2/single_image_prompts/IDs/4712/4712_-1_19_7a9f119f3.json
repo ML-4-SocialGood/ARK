@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65:35 ratio of high-intensity (light gray/white) to low-intensity (dark charcoal/black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Low-intensity pixels form a continuous perimeter band along the trailing edge and distal tips. A central low-intensity mass radiates from the peduncle junction. High-intensity pixels dominate the medial lobe sections, interspersed with dark linear streaks."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped depression with an estimated pixel angle of 85 degrees and a moderate bounding-box depth relative to lobe width.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations are visible along the entire trailing edge. Distal tips (apices) show higher-amplitude, irregular jaggedness.",
+    "lobe_sweep_trajectory": "The trailing edge exhibits a sigmoid curve, characterized by slight concavity near the median notch transitioning to broad convexity toward the mid-lobe and distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of small, circular, high-intensity (white) pixel groups are visible at the extreme distal tips of both the left and right fluke lobes.",
+    "linear_abrasions": "Numerous dark, unaligned linear pixel disruptions (rake marks) are visible across the high-intensity regions of both lobes, appearing as distinct scratches."
+  },
+  "acquired_anomalies_or_scars": "Extensive parallel linear scarring (rake marks) on the medial and distal surfaces; visible barnacle colonization at the lobe apices.",
+  "other_distinctive_markers": "A distinct feathered or mottled transition zone exists between the low-intensity peduncle pigmentation and the high-intensity lobe centers."
+}

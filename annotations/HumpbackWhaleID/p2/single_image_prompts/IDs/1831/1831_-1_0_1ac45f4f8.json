@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 85:15 high-intensity (white) to low-intensity (black) distribution across the visible fluke surface.",
+    "spatial_color_mapping": "Dominant high-intensity white field across the interior lobes. Contiguous low-intensity black banding (5-15 pixel width) along the entire trailing edge boundary. A vertical, low-intensity column of irregular dark pixel clusters originates at the median notch and extends toward the base. Small, isolated circular dark pixel clusters are located at mid-lobe coordinates on both the left and right lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with an approximate 70-degree aperture; vertex is sharply defined.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern along the continuous trailing edge; pixel-amplitude of peaks and valleys varies between 3 and 8 pixels relative to the mean edge line.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge leading to distal tips, with a sharp transition into a convex outer margin."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple small, dark circular pixel clusters (3-5 pixel diameter) distributed across the white field, notably one in the left-central lobe and three in the right-central lobe, consistent with remnant colonization points.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "A prominent vertical dark pigmentation streak and mottle cluster extending ventrally from the median notch vertex toward the water line.",
+  "other_distinctive_markers": null
+}

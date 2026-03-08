@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 35% high-intensity white pixels to 65% low-intensity black/dark-gray pixels across the visible ventral area.",
+    "spatial_color_mapping": "Large, high-contrast white contiguous patches located on the distal half of both lobes. Left lobe features a broad, triangular white region. Right lobe features a more fragmented white region with significant dark mottling and internal spotting."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated pixel angle of approximately 45 degrees.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations visible along the entire trailing edge boundary, with more irregular peak heights on the inner-lobe margins.",
+    "lobe_sweep_trajectory": "Convex upward trajectory from the median notch toward the distal tips of both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of circular white spots and ring-like pixel groups (barnacle scars) concentrated along the trailing edges and within the lower-right dark region.",
+    "linear_abrasions": "Faint, unaligned diagonal linear pixel disruptions visible within the dark central region of the fluke lobes."
+  },
+  "acquired_anomalies_or_scars": "Minor irregular indentation/notch on the trailing edge of the left lobe distal to the median notch; extensive circular scarring on both lobe tips.",
+  "other_distinctive_markers": "Heavy mottling within the white patches on the right lobe creating a complex, non-solid intensity map compared to the left lobe."
+}

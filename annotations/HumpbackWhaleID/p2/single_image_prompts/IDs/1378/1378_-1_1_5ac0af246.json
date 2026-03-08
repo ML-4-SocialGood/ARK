@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixels across the visible ventral surface. Estimated macro-level ratio of dark pixels to high-intensity (white) pixels on the fluke surface is approximately 95:5.",
+    "spatial_color_mapping": "Contiguous solid dark pigmentation covering both lobes. High-contrast white circular ring coordinates localized at approximately [x=35%, y=50%] and [x=38%, y=54%] on the left lobe, and [x=58%, y=52%], [x=64%, y=48%], and [x=77%, y=51%] on the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an approximate pixel angle of 42 degrees and a bounding-box depth approximately 12% of the total vertical height of the fluke.",
+    "edge_topography_serration_map": "Highly irregular trailing edge with high-frequency serrations. Distinct peak-to-valley variations are visible across both lobes, including a significant jagged indentation on the inner-mid section of the right lobe.",
+    "lobe_sweep_trajectory": "Broadly convex curvature along the outer trailing edges of both lobes, transitioning into a concave sweep toward the central notch vertex."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of five distinct high-contrast circular white rings (cookie-cutter shark scars) clustered in the medial regions of both lobes.",
+    "linear_abrasions": "Faint, unaligned linear pixel disruptions (scratches) visible on the mid-section of the left lobe's ventral surface."
+  },
+  "acquired_anomalies_or_scars": "Dense clusters of barnacles on both the left and right distal tips. Multiple circular scars scattered across the central ventral surface of both lobes.",
+  "other_distinctive_markers": "Heavy barnacle encrustation concentrated exclusively on the extreme lateral tips of the fluke."
+}

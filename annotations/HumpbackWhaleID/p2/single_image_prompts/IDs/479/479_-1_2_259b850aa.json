@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity (white) pixels covering approximately 85% of the visible surface, with high-contrast low-intensity (black) pixels concentrated at the trailing edge, median notch, and peduncle base.",
+    "spatial_color_mapping": "Contiguous white field across central lobes; dark contiguous cluster at the base/peduncle junction; thin, irregular black banding along the trailing edge boundary; dark clusters at the distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide V-shaped depression with a calculated pixel angle of approximately 120 degrees and a depth ratio of approximately 1/8th of the vertical fluke span.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude irregular serrations visible along the entire trailing edge from the median notch to both distal tips, characterized by jagged pixel transitions against the background.",
+    "lobe_sweep_trajectory": "Convex curvature from the peduncle to the tips, exhibiting an upward sweep at the distal ends."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized dark pixel clusters at the far-left and far-right distal tips; sparse, high-contrast dark speckles distributed across the mid-region of both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Prominent dark, ragged pigmentation at the peduncle base and irregular, fringed texture at the outer tips likely representing scarring or colonization marks.",
+  "other_distinctive_markers": null
+}

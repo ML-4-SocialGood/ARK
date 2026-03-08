@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity (white) surface across ~75% of the visible area, contrasted with low-intensity (black) pigmentation at the margins and within focal scars.",
+    "spatial_color_mapping": "Contiguous high-intensity central region across both lobes. Low-intensity pigmentation is concentrated at the median notch, the perimeter of the trailing edge, and in distinct linear and circular clusters on the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch; calculated interior angle approximately 52 degrees with a vertical depth of approximately 14% of the fluke's vertical height.",
+    "edge_topography_serration_map": "Irregular, high-frequency serrations across the entire trailing edge; pixel amplitude of valleys and peaks ranges from 4 to 18 pixels, creating a highly jagged profile.",
+    "lobe_sweep_trajectory": "Convex trajectory from the median notch extending toward the distal tips, characterized by a steady increase in vertical pixel coordinate followed by a downward taper at the lateral extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of three circular high-contrast ring-like pixel clusters (approx. 8-12 pixels in diameter) on the inner quadrant of the right lobe; additional small high-intensity nodes on the tips.",
+    "linear_abrasions": "Multiple dark, unaligned linear pixel disruptions (rake marks) on the right lobe, including a prominent 'X' shaped intersection and parallel diagonal lines."
+  },
+  "acquired_anomalies_or_scars": "Physical trauma manifested as deep-pigmented rake-mark scarring on the right lobe and visible barnacle colonization on both distal tips.",
+  "other_distinctive_markers": "Presence of sessile barnacles protruding beyond the 2D geometric boundary of the fluke tips, creating localized irregular topography."
+}

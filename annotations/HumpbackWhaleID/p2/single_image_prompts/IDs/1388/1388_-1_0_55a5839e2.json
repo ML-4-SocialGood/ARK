@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast ratio; approximately 85% low-intensity (black) pixel coverage across the central and proximal regions, with 15% high-intensity (white) pixels localized along the distal margins.",
+    "spatial_color_mapping": "Two distinct high-contrast contiguous white bands are situated along the upper horizontal margins of the left and right lobes. The left band is solid and continuous, while the right band exhibits minor pixel-level mottling on its proximal edge. The central and lower regions are characterized by a uniform low-intensity black mapping."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped median notch with a measured pixel angle of approximately 110 degrees and a standard bounding-box depth.",
+    "edge_topography_serration_map": "Low-frequency, irregular serrations detected along the continuous trailing edge. The right lobe trailing edge presents higher pixel-amplitude variations near the distal terminal, whereas the left lobe maintains a more consistent micro-serration pattern.",
+    "lobe_sweep_trajectory": "The leading edges follow a smooth convex curve tapering toward the tips. The trailing edges exhibit a slight sigmoidal trajectory, with a concave transition from the median notch moving into a convex curve toward the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "A distinct cluster of high-contrast, roughly circular pixel groups is visible on the extreme distal tip of the right lobe, consistent with active barnacle colonization.",
+    "linear_abrasions": "Two distinct, vertically-oriented light-grey linear pixel disruptions are visible on the mid-section of the left lobe, breaking the solid black pigmentation."
+  },
+  "acquired_anomalies_or_scars": "The right lobe's lateral tip shows significant irregular topographical distortion and high-contrast pixel clusters due to external biological attachment (barnacles).",
+  "other_distinctive_markers": "Highly symmetrical 'frosted' white pigmentation localized exclusively to the distal margins against a predominantly black ventral surface."
+}

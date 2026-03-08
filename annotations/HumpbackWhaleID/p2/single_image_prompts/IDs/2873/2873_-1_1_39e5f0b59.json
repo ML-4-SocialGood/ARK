@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio characterized by approximately 70% high-intensity white pixels across the lateral lobes and 30% low-intensity black pixels concentrated in the central spine and trailing edges.",
+    "spatial_color_mapping": "Large contiguous white geometric regions on the left and right lobes. A central black vertical pillar extends from the insertion point to the median notch. Dense black pixel stippling and irregular mottling are visible along the inner trailing edges and at the junction where the lobes meet the peduncle."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with an acute pixel angle of approximately 55 degrees, extending roughly 18% into the vertical depth of the fluke's bounding box.",
+    "edge_topography_serration_map": "Primary trailing edge exhibits low-amplitude, smooth undulations. Extreme distal tips show high-frequency, jagged pixel-intensity variations due to clustered surface protrusions.",
+    "lobe_sweep_trajectory": "Trailing edge follows a distinct concave curve from the distal tips toward the median notch, while the leading edge (lower boundary) follows a convex sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, roughly circular clusters of high-intensity beige and white pixels located on the extreme distal tips of both the left and right fluke lobes.",
+    "linear_abrasions": "A single, dark, unaligned linear pixel disruption is visible on the lower-mid region of the left lobe, oriented at a diagonal angle toward the fluke center."
+  },
+  "acquired_anomalies_or_scars": "Heavy accumulation of textured, light-colored biological encrustations on the trailing edge tips; significant dark linear scratch on the ventral surface of the left lobe.",
+  "other_distinctive_markers": "Water spray artifacts creating high-intensity white pixel noise across the central low-intensity black region."
+}

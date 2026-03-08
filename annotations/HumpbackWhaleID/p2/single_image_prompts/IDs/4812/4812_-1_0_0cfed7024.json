@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixels with approximately 25-30% high-intensity (white/light gray) pixels appearing in a mottled and ringed distribution across the ventral surface.",
+    "spatial_color_mapping": "High-contrast white/light gray pixel clusters form numerous circular rings and irregular blobs concentrated in the medial regions of both lobes, surrounded by contiguous low-intensity dark regions that extend to the trailing edge and central notch area."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped central depression with a calculated angle of approximately 125 degrees and a bounding-box depth relative to the fluke width of roughly 1:8.",
+    "edge_topography_serration_map": "Continuous high-frequency serration along the entire trailing edge; pixel-amplitude variations indicate irregular peaks and valleys, particularly prominent on the mid-section of the right lobe lobe trailing edge.",
+    "lobe_sweep_trajectory": "The trailing edge follows a concave trajectory from the median notch toward the distal tips, terminating in sharp, tapered points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely distributed circular high-contrast white rings (diameters ranging from 3 to 15 pixels) across both lobes, characteristic of barnacle attachment scarring; significant cluster observed on the inner-left lobe.",
+    "linear_abrasions": "A distinct, unaligned linear white pixel disruption is visible on the lower medial portion of the left lobe, oriented diagonally toward the notch."
+  },
+  "acquired_anomalies_or_scars": "Extensive circular scarring (rosettes) across the entire ventral surface; irregular jaggedness of the trailing edge suggesting multiple minor acquired trauma points.",
+  "other_distinctive_markers": "The density and clarity of the circular 'ring-like' scar patterns provide a unique, highly localized visual texture across the dark pigmentation of the fluke lobes."
+}

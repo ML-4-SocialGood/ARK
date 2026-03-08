@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast with approximately 70% high-intensity white pixels and 30% low-intensity black pixels across the visible ventral surface of the left lobe; right lobe shows a more balanced 50/50 distribution due to angle.",
+    "spatial_color_mapping": "Dominant high-intensity white field centrally located on the left lobe, bounded by a continuous low-intensity black perimeter along the trailing and lateral edges. Right lobe shows high-contrast mottling with white patches appearing in the mid-section and black intensity dominating the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression at the fluke center with an approximate pixel angle of 50 degrees and a deep vertical bounding-box penetration relative to the lobe horizontal axis.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations characterized by sharp peaks and shallow valleys (5-12 pixel amplitude) along the entirety of the visible trailing edge boundary.",
+    "lobe_sweep_trajectory": "Strongly convex curve originating from the median notch, transitioning into an upward-tapering parabolic arc toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, dark, roughly circular pixel clusters concentrated primarily along the leading edge and distal tips of the left lobe.",
+    "linear_abrasions": "Multiple high-contrast, non-parallel linear streaks (low-intensity black on high-intensity white) oriented vertically and diagonally across the central region of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive linear rake marks (parallel and intersecting scratches) across the left lobe ventral surface; significant irregular notch-like patterns on the right lobe trailing edge.",
+  "other_distinctive_markers": null
+}

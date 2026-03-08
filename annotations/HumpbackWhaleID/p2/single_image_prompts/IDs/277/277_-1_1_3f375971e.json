@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Bimodal distribution with approximately 65% low-intensity black pixels in the medial core and 35% high-intensity white pixels concentrated on the distal lateral lobes.",
+    "spatial_color_mapping": "Contiguous high-intensity white blobs located at the lateral tips of both lobes; the left lobe white patch extends approximately 40% toward the center, while the right lobe white patch extends approximately 35% toward the center, separated by a low-intensity black medial region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated pixel vertex angle of approximately 52 degrees.",
+    "edge_topography_serration_map": "Irregular, high-frequency serrations across the entire trailing edge boundary; the right lobe distal edge exhibits higher amplitude peak-to-valley variance compared to the left lobe.",
+    "lobe_sweep_trajectory": "Concave curve trajectory originating from the median notch and sweeping superiorly and laterally toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Discrete, low-intensity dark pixel clusters (mottling) visible within the white high-intensity zones on both the left and right distal lobe tips.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Notable irregular notch-like indentation on the trailing edge of the left lobe, approximately mid-way between the median notch and the lateral tip.",
+  "other_distinctive_markers": null
+}

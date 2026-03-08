@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70:30 ratio of high-intensity light gray pixels to low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "High-contrast dark contiguous regions are localized at the fluke base (peduncle attachment) and leading edges. The interior lobes contain high-intensity gray fields interrupted by irregular dark linear streaks and blotches concentrated towards the center and trailing edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped depression at approximately 55 degrees with a deep bounding-box penetration into the fluke body.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the entire trailing edge boundary, featuring irregular pixel-amplitude variations (peaks and valleys) that are most pronounced on the distal upper quadrants of both lobes.",
+    "lobe_sweep_trajectory": "Strongly convex curve fitting the leading edge from the central axis to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Symmetrical clusters of circular, high-intensity white pixel groupings (barnacles) located on the extreme distal tips of both fluke lobes.",
+    "linear_abrasions": "Extensive network of dark, unaligned linear pixel disruptions (rake marks) traversing the light-gray interior of both lobes, appearing as high-contrast scratches against the base pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Presence of dense linear rake marks across the ventral surface and focal barnacle clusters on the fluke tips.",
+  "other_distinctive_markers": "A prominent dark vertical pigment streak located on the right lobe near the median notch, distinct from the surrounding rake marks."
+}

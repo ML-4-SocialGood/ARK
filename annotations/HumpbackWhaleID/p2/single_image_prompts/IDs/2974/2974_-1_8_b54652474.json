@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 0.35:0.65 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral area.",
+    "spatial_color_mapping": "Large, contiguous high-intensity white patch localized to the distal and outer margin of the left lobe. Multiple small, high-contrast white focal blobs (rosettes) distributed across the predominantly low-intensity black medial and right lobe surfaces."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped central depression with an estimated interior angle of 135 degrees and a moderate bounding-box depth relative to lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration profile characterized by sharp peaks and jagged valleys along the entire linear boundary of both lobes.",
+    "lobe_sweep_trajectory": "Convex curve along the outer margins transitioning into a highly irregular, non-linear trailing boundary."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Extensive detection of circular, high-contrast white-on-black pixel clusters (barnacle scars) concentrated on the right lobe and the medial section of the left lobe.",
+    "linear_abrasions": "Faint, unaligned linear pixel disruptions (rake-like marks) visible on the medial portion of the right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Extreme irregularity and jaggedness of the trailing edge suggesting significant structural wear or past trauma; dense rosette scarring across 60% of the visible surface area.",
+  "other_distinctive_markers": "Highly unique large white pigmentation zone on the outer edge of the left lobe, contrasting sharply with the primarily dark pigmentation of the fluke's interior."
+}

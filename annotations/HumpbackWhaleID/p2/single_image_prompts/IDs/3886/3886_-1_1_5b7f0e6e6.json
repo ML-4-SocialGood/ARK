@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity (white) pixel distribution covering approximately 88% of the visible surface, with low-intensity (black) pixels localized at the trailing edge, distal tips, and internal focal spots.",
+    "spatial_color_mapping": "Continuous low-intensity border along the posterior margin. Significant low-intensity clusters (blobs) are mapped as follows: a cluster of four discrete spots in the mid-left lobe, three discrete spots in the mid-right lobe, and a complex vertical cluster at the central peduncle junction."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated pixel angle of 62 degrees and a bounding-box depth of approximately 5% of the total fluke span.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the continuous trailing edge; pixel-amplitudes of irregular peaks and valleys range from 8 to 22 pixels relative to the mean boundary line.",
+    "lobe_sweep_trajectory": "Symmetrical convex sweep of the trailing edges concluding in tapered, upward-curving distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 10 discrete, high-contrast dark circular pixel clusters (likely barnacle scars) distributed across the white ventral plane, primarily concentrated in the medial-to-lateral regions.",
+    "linear_abrasions": "Set of three distinct, vertically-aligned low-intensity linear pixel disruptions located at the base of the fluke near the water line."
+  },
+  "acquired_anomalies_or_scars": "Multiple dark focal marks and a distinct vertical 'ladder' pigmentation pattern at the peduncle interface.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixels across the central and medial regions, with high-intensity (white) pixel clusters localized at the distal tips and along portions of the trailing edge, representing approximately a 75:25 ratio of dark to light pixels.",
+    "spatial_color_mapping": "Large contiguous white pixel blobs are mapped to the distal margins of both the left and right lobes. Mottled transition zones with high-frequency white-on-black stippling are visible at the interior boundaries of these patches. A narrow vertical white pixel cluster is present at the peduncle insertion point."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, well-defined V-shaped depression with a vertex angle of approximately 65 degrees.",
+    "edge_topography_serration_map": "Continuous irregular serrations along the entire trailing edge boundary, with pixel-amplitude peaks ranging from 3 to 12 pixels. The serration frequency increases significantly toward the outer tips of both lobes.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge from the notch vertex extending to the distal tips, resulting in an upward and outward sweep profile."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, localized circular white pixel clusters (consistent with sessile barnacle attachment sites) are detected primarily on the black pigmented regions of the inner right lobe and along the trailing edge of the left lobe.",
+    "linear_abrasions": "Multiple sets of parallel, vertical linear pixel disruptions (rake marks) are visible on the left lobe and the upper-medial portion of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent parallel linear rake marks (likely odontocete tooth rakes) are distributed across the ventral surface of both fluke lobes.",
+  "other_distinctive_markers": "A distinct, isolated vertical white pixel streak is visible at the center-bottom junction where the fluke meets the peduncle."
+}

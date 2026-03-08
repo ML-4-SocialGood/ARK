@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 35% high-intensity (white) pixels primarily located on the distal margins of the lobes, versus 65% low-intensity (black/dark grey) pixels dominating the central, basal, and medial regions.",
+    "spatial_color_mapping": "High-contrast white pigmentation is concentrated on the lateral extremities of both lobes. The left lobe contains a large contiguous white region with irregular interior black spotting. The right lobe shows a more fragmented, speckled distribution of white pixels against a black base. The center and lower fluke regions are uniformly low-intensity black."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A deep, narrow U-shaped central depression; the interior angle is approximately 40-45 degrees, though the exact apex is slightly obscured by the orientation of the fluke relative to the water surface.",
+    "edge_topography_serration_map": "The trailing edge exhibits high-frequency, irregular serrations across the entire visible margin. Significant pixel-level indentations and peaks create a jagged boundary, particularly prominent on the inner half of both lobes.",
+    "lobe_sweep_trajectory": "The trailing edge follows a sigmoidal curve, beginning with a convex bulge near the median notch and transitioning into a concave sweep toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Highly localized clusters of circular, elevated, high-contrast tan and white pixel groups (barnacles) are visible at the extreme distal tips of both the left and right lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "The distal tips of both lobes show significant protrusion and irregularity due to heavy barnacle colonization, which alters the expected smooth geometric contour of the fluke tips.",
+  "other_distinctive_markers": "Unique 'ink-blot' style pigmentation on the left lobe, where isolated black pixel clusters are fully encapsulated within a white field."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (near-black) pixel field; high-intensity (white) pixels are restricted to scattered point sources and edge regions, yielding an estimated macro-level white-to-black ratio of approximately 0.03:1.",
+    "spatial_color_mapping": "Stochastic distribution of high-intensity point-source pixels across a uniform low-intensity background. No large-scale contiguous geometric blobs are present on the visible surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "U-shaped depression at the center-bottom with an estimated interior angle of 50-60 degrees; the exact vertex is obscured by high-intensity water-splash pixels.",
+    "edge_topography_serration_map": "The left lobe trailing edge displays high-frequency, irregular serrations with amplitudes ranging from 5 to 15 pixels. The right lobe trailing edge presents a smoother, lower-frequency topography with significant edge-blurring due to motion and focus depth.",
+    "lobe_sweep_trajectory": "Bilateral convex upward parabolic curves originating from the median notch toward the distal tips of the fluke."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple discrete high-contrast pixel clusters (approx. 2-6 pixels in diameter) distributed across the dark surface of both lobes, representing point-source scarring or colonization.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Notable high-intensity (white) pixel cluster at the distal tip of the left lobe, contrasting with the dark pigmentation of the surrounding edge.",
+  "other_distinctive_markers": null
+}

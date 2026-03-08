@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast ratio with approximately 80-85% low-intensity (black) pixels and 15-20% high-intensity (white) pixels primarily localized at the distal lobe tips.",
+    "spatial_color_mapping": "Large contiguous high-intensity white zone on the distal left lobe with internal low-intensity mottling; a smaller, fragmented high-intensity region on the distal right lobe; the central 70% of the fluke area is a solid, low-intensity dark mass."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped depression with an estimated pixel angle of 145 degrees and a bounding-box depth approximately 5% of the visible vertical fluke height.",
+    "edge_topography_serration_map": "Highly irregular trailing edge with high-frequency, low-amplitude serrations throughout. A distinct, large-amplitude semi-circular indentation (tissue loss) is visible on the inner trailing edge of the right lobe.",
+    "lobe_sweep_trajectory": "Concave mathematical curve fitted to the trailing edge sweeping from the distal tips toward the central notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast circular clusters (barnacle colonization) localized on the extreme outer edges of both the left and right fluke tips.",
+    "linear_abrasions": "Faint, sub-horizontal linear dark pixel disruptions visible within the white high-intensity patch on the distal left lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent non-natural indentation/excision on the right lobe trailing edge; extensive barnacle clusters on distal tips forming irregular textural boundaries.",
+  "other_distinctive_markers": null
+}

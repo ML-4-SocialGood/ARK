@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Estimated at 0.05:0.95 (high-intensity white to low-intensity black) across the ventral surface area, excluding the barnacle-encrusted tips.",
+    "spatial_color_mapping": "Predominantly solid low-intensity pixels across both lobes; absence of high-contrast contiguous geometric blobs or mottling on the main surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped depression with an approximate internal angle of 45-50 degrees; depth occupies roughly 15% of the total fluke height in the 2D plane.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the entire margin; pixel-amplitude of peaks varies between 5-12 pixels relative to the trailing edge baseline.",
+    "lobe_sweep_trajectory": "Convex curvature on the distal edges of both lobes, transitioning to a steep upward sweep at the terminal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Two primary high-contrast clusters of irregular white pixel groups located at the extreme distal tips of both lobes, suggesting dense colonization or scarring.",
+    "linear_abrasions": "A single, high-intensity linear pixel disruption (short scratch) is visible in the upper-medial quadrant of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant textural and tonal anomalies at the fluke tips, characterized by jagged, high-contrast white clusters against the dark substrate.",
+  "other_distinctive_markers": "Visible water-droplet beading causing localized specular highlights along the outer convex margin of the left lobe."
+}

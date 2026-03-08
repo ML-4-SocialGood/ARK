@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 85:15 ratio of high-intensity (white/light grey) to low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "High-intensity white central region spanning both lobes. Low-intensity black contiguous border along the trailing edge, increasing in thickness toward the tips. Several discrete low-intensity circular clusters are distributed across the mid-region of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated pixel angle of approximately 55 degrees and a vertical depth roughly 10% of total fluke height.",
+    "edge_topography_serration_map": "Continuous low-amplitude serrations along the trailing edge. A high-amplitude, irregular jagged topography is concentrated at the far left tip (terminal edge).",
+    "lobe_sweep_trajectory": "The trailing edge follows a slightly concave curve from the median notch to the mid-lobe, transitioning to a convex sweep toward the terminal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of at least four distinct, roughly circular dark pixel clusters on the right lobe and two near the upper-central notch area.",
+    "linear_abrasions": "Three unaligned, vertical dark linear pixel disruptions visible on the right lobe, approximately 5-10 pixels in length at current resolution."
+  },
+  "acquired_anomalies_or_scars": "Dense, irregular dark pigmentation and topographic deformation at the left lobe tip; dark 'island' mark on the left peduncle-to-fluke transition zone.",
+  "other_distinctive_markers": "Pronounced dark vertical band extending from the peduncle into the lower central fluke region."
+}

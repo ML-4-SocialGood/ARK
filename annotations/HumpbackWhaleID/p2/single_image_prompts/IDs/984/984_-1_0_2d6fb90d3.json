@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution; approximately 45 percent high-intensity (white) pixels concentrated on the lateral lobes and 55 percent low-intensity (black) pixels concentrated in the central and right-central fluke regions.",
+    "spatial_color_mapping": "Large high-intensity contiguous region on the left lateral lobe featuring several discrete low-intensity focal spots. A dominant, centrally located low-intensity mass extends through the notch and across the proximal right lobe, transitioning via mottled boundaries into a smaller high-intensity region on the right distal area."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with a calculated angle of approximately 64 degrees and a bounding-box depth relative to the lobe span of roughly 12 percent.",
+    "edge_topography_serration_map": "High-frequency, consistent serration pattern along the left lobe trailing edge with peak-to-valley amplitudes of 10-15 pixels. Right lobe exhibits irregular, high-amplitude jaggedness and structural truncation at the terminal end.",
+    "lobe_sweep_trajectory": "The left lobe trailing edge follows a smooth convex parabolic trajectory. The right lobe trajectory is irregular and discontinuous at the distal tip due to pixel-level edge deformation."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately six discrete, roughly circular low-intensity clusters (black) localized against the high-intensity background of the white left lobe.",
+    "linear_abrasions": "Multiple parallel, vertical high-intensity linear disruptions (rake-like features) observed crossing the central low-intensity (black) region of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Substantial terminal truncation and jagged deformity at the right distal fluke tip; high-contrast vertical linear abrasions across the central-right pigmented surface.",
+  "other_distinctive_markers": "Presence of a dark, high-relief cluster of pixels at the extreme distal tip of the right lobe, consistent with biological growth or complex traumatic scar tissue."
+}

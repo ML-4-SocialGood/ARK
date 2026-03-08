@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low global contrast ratio; the surface is dominated by low-intensity dark-gray to black pixels with sparse, localized high-intensity white clusters primarily at the distal tips and along the trailing edge.",
+    "spatial_color_mapping": "High-contrast contiguous white geometric blobs at the extreme distal tips (left and right terminals); scattered linear white streaks on the central-left lobe; primary surface is a contiguous low-intensity dark-gray region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with a narrow acute angle (approx 35 degrees) and high pixel-depth penetration into the fluke body.",
+    "edge_topography_serration_map": "High-frequency, irregular serration profile with multiple variable-depth indentations along the trailing edge; a prominent deep, wide notch is located on the inner margin of the right lobe lobe.",
+    "lobe_sweep_trajectory": "Strong convex curve along the proximal edges transitioning to a tapered concave sweep toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Highly localized circular white pixel clusters situated at the distal tips of both the left and right lobes, consistent with barnacle-related scarring.",
+    "linear_abrasions": "Faint, unaligned diagonal white linear pixel disruptions visible on the lower-mid section of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular notch (tissue loss) on the inner trailing edge of the right lobe; numerous smaller jagged indentations across the entire trailing edge boundary.",
+  "other_distinctive_markers": null
+}

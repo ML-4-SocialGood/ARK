@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity (white) pixels dominate approximately 90% of the visible fluke surface, contrasted by a low-intensity (black) perimeter along the trailing edge and lateral tips.",
+    "spatial_color_mapping": "Solid high-intensity white field across both lobes; a continuous thin low-intensity black band follows the trailing edge; two isolated low-intensity circular spots are visible at approximate normalized coordinates [0.48, 0.55] and [0.22, 0.45]."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a vertex angle of approximately 75-85 degrees.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations forming a sawtooth pattern along the entire trailing edge from the median notch to the lateral tips, isolated from the high-contrast water background.",
+    "lobe_sweep_trajectory": "Sigmoidal curve on both lobes; displaying concave curvature at the medial section near the notch transitioning to convex curvature towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Highly localized clusters of heterogeneous, textured, yellowish-brown nodes (barnacles) are present at the extreme distal tips of both the left and right lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Prominent barnacle colonization on the lateral tips of both fluke lobes.",
+  "other_distinctive_markers": null
+}

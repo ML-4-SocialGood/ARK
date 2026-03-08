@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low macro-level ratio; pixel distribution is approximately 98% low-intensity (black) with 2% high-intensity (white) pixels localized to surface abrasions and marginal tips.",
+    "spatial_color_mapping": "Uniform solid black pigmentation across the entire visible ventral surface. Discrete, high-contrast white pixel clusters are mapped at the distal tips of both lobes. Sparse, multi-pixel width linear white tracks are distributed across the mid-lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a pixel convergence angle of approximately 80 degrees; vertical bounding-box depth is roughly 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (3-10 pixel peak-to-valley height) along the continuous trailing edge boundary; serration is most prominent on the medial half of the left lobe.",
+    "lobe_sweep_trajectory": "Strongly convex curvature fitted to the trailing edges of both lobes, with a smooth, continuous sweep tapering to sharp distal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small clusters of high-intensity (white) pixels localized at the extreme distal tips and irregularly along the trailing margins, consistent with focal scarring.",
+    "linear_abrasions": "Multiple discrete, unaligned linear pixel disruptions (1-3 pixels wide) cutting across the black pigmentation, primarily oriented diagonally on both the left and right lobes."
+  },
+  "acquired_anomalies_or_scars": "Detection of multiple white linear rake marks across the ventral surfaces and punctate scarring at the distal extremities.",
+  "other_distinctive_markers": null
+}

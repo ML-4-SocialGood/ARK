@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels occupy approximately 85% of the surface area, with low-intensity dark pixels forming a defined perimeter and scattered focal points.",
+    "spatial_color_mapping": "Dominant contiguous white field across the central and upper regions of both lobes. Low-intensity black pigmentation is mapped as a continuous band (approx. 5-15 pixels deep) along the trailing edge and concentrated at both distal tips. Discrete low-intensity clusters are located in the lower-central region near the notch and on the mid-right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated angle of approximately 55 degrees and a vertical depth reaching roughly 1/6th of the lobe height.",
+    "edge_topography_serration_map": "Continuous high-frequency serration along the trailing edge. Serrations exhibit irregular pixel-amplitudes with more pronounced peaks on the outer third of the right lobe.",
+    "lobe_sweep_trajectory": "Convex leading edge curvature transitioning to a tapered, slightly recurved shape at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple small, roughly circular low-intensity pixel clusters (potential barnacle attachment sites) are visible on the lower right lobe and near the right distal tip.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Irregular jaggedness and possible minor tissue loss at the extreme right distal tip compared to the more uniform left tip.",
+  "other_distinctive_markers": "A distinct vertical dark pigmentation streak is located approximately 10 pixels to the right of the median notch vertex."
+}

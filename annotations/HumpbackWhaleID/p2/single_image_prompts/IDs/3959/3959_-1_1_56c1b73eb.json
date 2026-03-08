@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level ratio; predominantly high-intensity white central surface (approx. 85-90%) bounded by a low-intensity black perimeter.",
+    "spatial_color_mapping": "Two primary contiguous high-intensity white regions occupy the lobe interiors. A continuous low-intensity black border follows the trailing edge and lateral tips. Minor, discrete low-intensity circular mottling is visible across the central white segments."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central depression with a calculated interior angle of approximately 45 degrees.",
+    "edge_topography_serration_map": "High-frequency serrations with small pixel-amplitude variations (approx. 2-5 pixels) forming a continuous irregular line along the trailing edge.",
+    "lobe_sweep_trajectory": "Convex mathematical curve fitted to the upper boundary of both lobes from the median notch to the apex of the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple low-contrast, roughly circular grey pixel clusters scattered across the white ventral surface, representing focal pigmentation anomalies or healed attachment sites.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "High-intensity glare and water spray occlusion on the distal portion of the right lobe, masking surface details in that localized region."
+}

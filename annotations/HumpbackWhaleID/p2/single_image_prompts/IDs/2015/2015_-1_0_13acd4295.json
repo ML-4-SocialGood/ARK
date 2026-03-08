@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level ratio of low-intensity (black) to high-intensity (white) pixels, with dark pixels occupying approximately 92% of the visible fluke surface.",
+    "spatial_color_mapping": "Contiguous dark-intensity base (RGB ~20,20,20) overlaid with a stochastic distribution of high-intensity (RGB ~240,240,240) circular point-clusters and thin linear filaments across both lobes, with higher cluster density along the leading edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated pixel angle of approximately 74 degrees and high bounding-box depth relative to lobe width.",
+    "edge_topography_serration_map": "Continuous linear boundary characterized by high-frequency, low-amplitude serrations (peaks/valleys) along the medial trailing edge, transitioning to high-amplitude irregular protrusions at the distal tips.",
+    "lobe_sweep_trajectory": "Strongly convex curve fitting the leading edges of both lobes, sweeping upward and outward to jagged distal terminations."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Numerous circular high-contrast pixel clusters (diameters of 3-12 pixels) distributed across the ventral surface, with heavy aggregation along the periphery of the trailing edge and distal tips.",
+    "linear_abrasions": "Multiple distinct white linear pixel disruptions, including a prominent diagonal mark on the right lobe distal region and several fine horizontal filaments near the medial notch."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular topography and apparent tissue loss at the distal tips of both lobes; extensive white scarring across the primary dark-pigmented fluke body.",
+  "other_distinctive_markers": null
+}

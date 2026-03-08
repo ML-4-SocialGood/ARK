@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white dominates approximately 85% of the visible surface, contrasted with low-intensity black borders and a central peduncle insertion point.",
+    "spatial_color_mapping": "Central lobes characterized by a contiguous white field (255, 255, 255); thick black banding (0, 0, 0) follows the entire trailing edge perimeter and encapsulates both distal tips; a vertical black plume is mapped at the median notch convergence."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate 55-degree angle relative to the horizontal lobe axes; apex depth extends significantly toward the peduncle.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (3-5 pixel height) along the right lobe; left lobe exhibits a major irregular concave disruption/missing section approximately 30% inward from the tip.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge leading to the median notch; leading edge (lower visible boundary) displays a convex sweep toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Sparse, small-scale dark pixel clusters localized near the distal tips and along the peripheral black-to-white transition zones.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "A prominent, large-scale irregular excision/indentation on the trailing edge of the left lobe (viewer's left), representing significant tissue loss/trauma.",
+  "other_distinctive_markers": "Diffuse yellowish-brown pixel tinting across the primary white surface, suggesting non-pigmentary organic accumulation or diatom film."
+}

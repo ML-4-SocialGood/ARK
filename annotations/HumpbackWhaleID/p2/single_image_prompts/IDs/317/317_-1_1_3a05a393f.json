@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution; approximately 65% low-intensity (black/dark gray) pixels concentrated in the central and lower-median regions, contrasted against 35% mid-to-high intensity (mottled light gray/white) pixels on the distal lobes.",
+    "spatial_color_mapping": "Dominant dark contiguous mass occupies the central 1/3rd of the fluke, extending from the peduncle to the notch. Lateral lobes exhibit high-contrast mottled patterns with lighter pixels punctuated by discrete dark circular clusters, particularly in the upper right quadrant (X: 70-90, Y: 10-40 range)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated angle of approximately 55 degrees; notch depth is roughly 15% of the total fluke height.",
+    "edge_topography_serration_map": "Continuous high-frequency serration along the entire superior boundary; maximum pixel-amplitude variations (jagged peaks) are localized at the distal tips. Median sections of the trailing edge show lower-amplitude, undulating topography.",
+    "lobe_sweep_trajectory": "Bi-concave trajectory originating from the median notch, transitioning into an upward convex curve toward the distal tips, resulting in a distinct 'butterfly' wing morphology."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density detection of roughly circular, dark-bordered rings (barnacle scars) localized on both lobes. The right lobe contains a high-contrast cluster of approximately 18 distinct rosettes; the left lobe displays a sparser cluster of 6 visible rosettes.",
+    "linear_abrasions": "Two prominent near-vertical white linear tracks (rake marks) are detected at the boundary of the dark central mass and the right lobe; additional faint horizontal abrasions are visible on the far-right distal surface."
+  },
+  "acquired_anomalies_or_scars": "Prominent healed vertical scar on the right-median fluke; extensive barnacle colonization scars (rosettes) creating a unique circular fingerprint across the lighter-pigmented distal surfaces.",
+  "other_distinctive_markers": "Unique 'target' shaped scar (concentric ring) located mid-right lobe, characterized by a dark center surrounded by a high-intensity white halo."
+}

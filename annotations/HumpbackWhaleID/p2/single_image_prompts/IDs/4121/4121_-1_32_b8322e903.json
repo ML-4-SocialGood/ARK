@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 30:70 ratio of high-intensity white pixels to low-intensity dark pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant high-intensity contiguous white region located on the upper-left lobe. The right lobe is predominantly low-intensity dark with localized mottling of high-intensity pixels along the upper margin and near the notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep U-shaped central notch with an approximate internal angle of 55 degrees and a bounding-box depth extending roughly 12% of the total vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations present across both lobes, characterized by sharp peaks and deep valleys isolated against the water background.",
+    "lobe_sweep_trajectory": "Pronounced upward concave curve extending from the median notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Highly distinct clusters of high-intensity white circular pixel groups localized on the extreme distal tips of both lobes, consistent with dense barnacle colonization.",
+    "linear_abrasions": "Several vertical low-intensity linear pixel disruptions (scratches) are visible against the high-intensity white patch on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle encrustation on both lateral tips; vertical linear scarring on the left ventral surface.",
+  "other_distinctive_markers": "The extreme density of barnacles on the fluke tips significantly alters the expected smooth geometric contour of the distal margins."
+}

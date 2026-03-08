@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 65% high-intensity (white) pixels in distal lobe regions and 35% low-intensity (black) pixels concentrated in the central zone and margins.",
+    "spatial_color_mapping": "Large contiguous white regions on distal lobes. Left lobe exhibits dense, speckled low-intensity mottling. Right lobe features a large low-intensity smudge bordering the median notch and discrete circular low-intensity spots localized near the distal tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Symmetrical V-shaped central depression with a calculated angle of approximately 52 degrees; indentation depth is roughly 15% of the total vertical height of the visible structure.",
+    "edge_topography_serration_map": "Irregular sawtooth boundary across the entire trailing edge; pixel-amplitude variations range from 5 to 15 pixels, with the highest frequency of peaks located on the outer-third of both lobes.",
+    "lobe_sweep_trajectory": "Convex curvature fitted to the upper boundaries of both lobes, terminating in acute points at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Cluster of high-contrast, three-dimensional structures (barnacles) on the far-left leading edge tip. Single distinct high-intensity circular pixel cluster on the far-right distal tip.",
+    "linear_abrasions": "One prominent vertical low-intensity linear disruption on the left lobe's white field; multiple diagonal low-intensity linear marks on the right lobe's white field."
+  },
+  "acquired_anomalies_or_scars": "Biological encrustation (barnacle colony) on the left leading edge; distinct circular dark indentation on the far-right distal margin.",
+  "other_distinctive_markers": null
+}

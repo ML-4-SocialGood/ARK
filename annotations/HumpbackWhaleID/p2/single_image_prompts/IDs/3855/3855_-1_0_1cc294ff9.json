@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 40:60 ratio of high-intensity (white/light gray) to low-intensity (black/dark gray) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Large contiguous low-intensity central region extending from the peduncle to the median notch. High-intensity (white) regions are mapped to the distal one-third of both lobes, featuring irregular, mottled boundaries where they interface with the black central area."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped depression with a distinct apex; estimated internal angle of 75 degrees with a vertical depth approximately 15% of the total lobe height.",
+    "edge_topography_serration_map": "Extremely irregular trailing edge with high-frequency, high-amplitude jaggedness; notable deep, non-uniform pixel valleys are present on the distal portion of the left lobe lobe.",
+    "lobe_sweep_trajectory": "Concave trailing edge curve transitioning into upwardly swept, acute lateral tips; leading edge exhibits a smooth convex sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of dark, circular pixel groups (scars) approximately 5-15 pixels in diameter, concentrated within the high-intensity white field of the right distal lobe.",
+    "linear_abrasions": "Distinct series of dark, roughly parallel linear pixel disruptions (rake marks) oriented diagonally across the white distal region of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular structural indentation (tissue loss) on the trailing edge of the left lobe, creating a distinctively asymmetrical profile compared to the right lobe.",
+  "other_distinctive_markers": "Complex 'salt-and-pepper' pixel distribution at the transitional boundary between the black inner fluke and white outer fluke on the left lobe."
+}

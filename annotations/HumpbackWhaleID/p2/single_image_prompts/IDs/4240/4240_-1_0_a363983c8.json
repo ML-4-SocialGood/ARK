@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65% high-intensity (white) to 35% low-intensity (black/dark-gray) distribution across the visible fluke surface.",
+    "spatial_color_mapping": "High-intensity white regions occupy the central lobes; low-intensity black pigmentation is concentrated in a vertical band along the peduncle midline and in dense, irregular mottling along the trailing edge boundaries. Scattered low-intensity pixels form a non-uniform speckle pattern across the medial white fields."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a calculated internal angle of approximately 52 degrees and a bounding-box depth relative to the apex of 12%.",
+    "edge_topography_serration_map": "High-frequency serration along the continuous boundary; the right lobe exhibits sharp pixel-amplitude peaks (4-8 pixels) while the left lobe displays a significant irregular indentation/notch midway to the tip.",
+    "lobe_sweep_trajectory": "Bilateral S-curve profile characterized by convex curvature transitioning to concavity near the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-intensity, roughly circular pixel groups (barnacle colonization) localized on the extreme lateral tips of both lobes and sparsely along the right trailing edge.",
+    "linear_abrasions": "Parallel dark linear streaks (rake marks) detected on the lower left lobe and vertical scratches visible in the medial region of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Notable semi-circular tissue deficit/indentation on the lower-left margin near the peduncle; significant calcified clusters on the distal extremities.",
+  "other_distinctive_markers": "A distinctive cluster of three dark, vertically aligned focal spots in the lower-medial quadrant of the right lobe surface."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white/light-gray pixels occupy approximately 85% of the visible ventral surface, bounded by low-intensity black pixel regions along the trailing edges and lateral tips.",
+    "spatial_color_mapping": "Large contiguous high-intensity regions across both lobes. Low-intensity black pixels form a continuous border along the trailing edge and at both lateral tips. A distinct low-intensity circular pixel cluster is located in the medial region of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a vertex angle of approximately 65 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular pixel-amplitude variations (peaks and valleys) along the entire trailing edge boundary, with notable jaggedness and tissue-loss indicators.",
+    "lobe_sweep_trajectory": "Convex trajectory originating from the median notch and curving towards the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of a single dark circular pixel cluster on the left lobe surface; no large-scale rosette-style groupings are visible.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Highly irregular and jagged trailing edge topography suggests cumulative historical trauma; distinct dark circular mark visible on the interior left lobe.",
+  "other_distinctive_markers": null
+}

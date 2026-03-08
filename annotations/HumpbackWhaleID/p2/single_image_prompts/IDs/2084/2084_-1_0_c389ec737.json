@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio of approximately 40% high-intensity white pixels to 60% low-intensity black pixels on the visible ventral fluke surface.",
+    "spatial_color_mapping": "Contiguous high-intensity white regions are mapped to the distal regions of both lobes; extensive low-intensity black mottling is interspersed within these white regions, concentrated heavily along the inner margins; a solid low-intensity black mask covers the central peduncle attachment and proximal lobe regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a calculated internal angle of approximately 55 degrees and a bounding-box depth of roughly 12% of the total vertical lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern along the continuous trailing edge with peak-to-valley pixel amplitudes ranging from 3 to 15 pixels; serrations are most pronounced on the outer margins of both lobes.",
+    "lobe_sweep_trajectory": "Trailing edge follows a multi-inflection curve transitioning from concave near the median notch to convex toward the distal tips; leading edges exhibit a continuous upward convex sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of localized, high-contrast white circular pixel clusters concentrated at the extreme distal tips of both lobes and at discrete points along the trailing edge serrations.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Irregular indentation on the outer third of the right lobe trailing edge, deviating from the standard serration pattern; visible high-contrast protrusions at the extreme right tip.",
+  "other_distinctive_markers": null
+}

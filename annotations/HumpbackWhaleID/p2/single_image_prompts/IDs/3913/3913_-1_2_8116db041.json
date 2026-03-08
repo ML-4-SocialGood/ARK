@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity black/dark-gray surface with a low ratio of high-intensity white pixels (estimated <10%) localized in specific clusters.",
+    "spatial_color_mapping": "Contiguous black/dark-gray base across >90% of visible surface; small white irregular patch (approx. 20x15 pixel cluster) located adjacent to the median notch on the right lobe; several high-intensity circular points (<5 pixels) scattered on the left lobe mid-section."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep U-shaped central depression with a calculated vertex angle of approximately 35-45 degrees; vertical depth is roughly 1/4 the total height of the visible fluke profile.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations present across the entire trailing edge; pixel amplitudes of individual peaks vary between 5 to 12 pixels relative to the mean edge line.",
+    "lobe_sweep_trajectory": "Strongly convex distal margins sweeping toward sharp lateral tips; left lobe appears slightly more elongated than the right lobe in the current 2D projection."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Two distinct, high-contrast white circular pixel clusters (approx. 8-10 pixels in diameter) located on the mid-lateral surface of the left lobe.",
+    "linear_abrasions": "Faint, unaligned white linear pixel disruptions visible on the lower interior regions of both lobes, consistent with superficial scratching."
+  },
+  "acquired_anomalies_or_scars": "Extensive tan/brown high-relief clusters (barnacle colonization) localized on the extreme outer margins of both the left and right fluke tips, significantly altering the edge geometry.",
+  "other_distinctive_markers": "Pronounced white mottled patch on the trailing edge of the right lobe near the median notch, providing a high-contrast focal point against the dark background."
+}

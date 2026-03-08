@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.4:0.6 ratio of high-intensity white to low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Two large, high-intensity (white) contiguous regions located on the distal halves of both the left and right lobes. These are separated by a broad, low-intensity (black) central region extending from the peduncle to the notch. Dark, irregular mottled spots are scattered within the white regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central notch with an estimated interior angle of 55 degrees; notch depth is approximately 15% of the fluke's vertical height.",
+    "edge_topography_serration_map": "Irregular trailing edge with high-frequency, low-amplitude pixel variations, exhibiting approximately 22 distinct peaks and valleys along the boundary.",
+    "lobe_sweep_trajectory": "Distinctly concave curve along the trailing edge of both lobes, tapering towards acute distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple dark, roughly circular pixel clusters visible within the white patches, particularly concentrated on the distal portion of the right lobe.",
+    "linear_abrasions": "A single, prominent curved high-contrast (bright) linear filament is visible crossing the dark central region from the lower center towards the left lobe base."
+  },
+  "acquired_anomalies_or_scars": "Minor circular markings on the distal right lobe white patch, consistent with healed lesions or barnacle detachment points.",
+  "other_distinctive_markers": "Significant sensor noise/grain across the frame; a thin curved line (possibly debris or an abrasion) is located near the lower-center of the fluke."
+}

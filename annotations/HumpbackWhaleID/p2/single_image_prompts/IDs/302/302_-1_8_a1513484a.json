@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio; dominant low-intensity (black) pixel distribution across approximately 85% of visible surface with localized mid-to-high intensity grey mottling.",
+    "spatial_color_mapping": "Diffuse, high-contrast light grey mottling patches concentrated on the central-right lobe surface; sparse linear light-intensity streaks detected on the left lobe interior."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated angle of approximately 42 degrees and a bounding-box depth of approximately 180 pixels from the lobe peaks.",
+    "edge_topography_serration_map": "Irregular serration profile; right lobe trailing edge shows high-frequency peaks (3-8 pixel amplitude), while left lobe shows lower-frequency variations with two distinct macro-indentations.",
+    "lobe_sweep_trajectory": "Concave curve fitted to the trailing edge from notch to distal mid-point, transitioning to a convex sweep toward the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-intensity white circular pixel groups (15-30 pixel diameter) detected at the extreme distal tips of both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Physical protrusion and irregular mass at the left distal tip encrusted with high-contrast white clusters; jagged truncation of the right distal tip boundary.",
+  "other_distinctive_markers": "Significant bio-fouling or barnacle colonization at both fluke tips causing localized distortion of the geometric boundary."
+}

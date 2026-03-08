@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1.5:1 ratio of high-intensity white (pixel values ~210-245) to low-intensity black (pixel values ~10-40) across the visible ventral surface.",
+    "spatial_color_mapping": "Large contiguous white regions occupy the central areas of both lobes. Heavy black pigmentation borders the entire trailing edge and central notch, with asymmetrical 'finger-like' dark extensions protruding into the white field on the inner-right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an internal angle of approximately 42 degrees and a bounding-box depth occupying roughly 18% of the visible vertical fluke profile.",
+    "edge_topography_serration_map": "Highly irregular trailing edge with frequent high-frequency serrations (2-10 pixel amplitude) along distal edges; larger, jagged peaks and valleys are concentrated near the medial notch transition.",
+    "lobe_sweep_trajectory": "Convex sweep from the medial to distal regions, terminating in relatively sharp, tapered tips with an increased rate of curvature at the outer 15% of the span."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Visible high-contrast white circular pixel clusters on the dark leading edge of the left lobe and scattered dark circular spots on the white surface of the upper left lobe tip.",
+    "linear_abrasions": "Three distinct, roughly parallel dark linear disruptions (rake marks) situated on the inner-trailing edge of the right lobe, cutting approximately 150 pixels into the white pigment field."
+  },
+  "acquired_anomalies_or_scars": "Notable rake marks on the right lobe and white barnacle-site scarring on the left leading edge; minor distal tip erosion visible on the left lobe tip.",
+  "other_distinctive_markers": "Pronounced asymmetrical black pigmentation encroachment on the inner right lobe compared to the relatively clean white-to-black boundary on the inner left lobe."
+}

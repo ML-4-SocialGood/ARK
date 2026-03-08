@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High; predominantly high-intensity white pixels (approx. 65%) on lobes contrasted with low-intensity dark pixels (approx. 35%) concentrated at the central peduncle area and trailing edge margins.",
+    "spatial_color_mapping": "Large contiguous high-intensity white regions occupy the majority of both lobes. A central, low-intensity dark region extends from the peduncle into the notch. Fine-scale dark mottling and focal spots are distributed across the white surfaces, including a prominent vertical linear mark on the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped notch with an estimated internal angle of 105 degrees; bounding-box depth is approximately 15% of the visible vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration across the entire trailing edge. Left lobe exhibits consistent small-scale peaks and valleys. Right lobe displays more pronounced indentations and irregular spacing of serrated elements near the lateral tip.",
+    "lobe_sweep_trajectory": "Concave mathematical curve along the trailing edge sweeping from the median notch to the lateral tips; outer leading edges (partially obscured by water) suggest a convex upward curve."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-contrast, roughly circular tan-white pixel aggregates (barnacle colonization) at the extreme lateral tips of both lobes.",
+    "linear_abrasions": "Detection of multiple near-parallel vertical linear pixel disruptions (rake marks) on the medial-posterior region of the right lobe's white surface."
+  },
+  "acquired_anomalies_or_scars": "Prominent barnacle clusters on distal tips of both lobes; visible vertical linear scars/rake marks on the right lobe.",
+  "other_distinctive_markers": "Unique bifurcation of the dark pigmentation pattern where it meets the median notch, creating a distinct pixel boundary."
+}

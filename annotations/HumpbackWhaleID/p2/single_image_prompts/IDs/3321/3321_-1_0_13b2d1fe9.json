@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The surface is dominated by low-intensity pixels (black) with a low global contrast ratio; high-intensity pixels (white) appear as sparse, localized speckling and mottling, estimated at a 1:15 ratio to dark pixels.",
+    "spatial_color_mapping": "Large dark contiguous regions cover 90% of the fluke; small high-contrast white focal clusters are mapped to the proximal center near the notch and the extreme distal margins of the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a pixel-measured interior angle of approximately 72 degrees; depth extends approximately 12% into the vertical fluke span.",
+    "edge_topography_serration_map": "Continuous high-frequency, low-amplitude serrations are present along the entire trailing edge; irregular peak-to-valley distances ranging from 5 to 25 pixels.",
+    "lobe_sweep_trajectory": "Convex curvature from the medial notch to the distal tips, following a symmetric parabolic sweep along the trailing boundary."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detected circular high-contrast white clusters (rosettes) localized on the outer 10% of both fluke tips and along the mid-trailing edge of the right lobe.",
+    "linear_abrasions": "Faint, unaligned light-gray linear pixel disruptions (rake marks) are visible diagonally across the mid-section of the left lobe's dark pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Irregular jagged erosion and minor tissue loss visible on the distal tips of both lobes; several distinct notch-like indentations on the trailing edge relative to a smooth baseline.",
+  "other_distinctive_markers": "A prominent dark vertical band extends from the base of the peduncle transition toward the center of the median notch."
+}

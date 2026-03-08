@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixel distribution; ratio of high-intensity (white) pixels to dark pixels is extremely low (<0.02), with light pixels mostly confined to specular highlights.",
+    "spatial_color_mapping": "Uniformly dark, low-contrast pigmentation across the entire visible surface; no distinct contiguous geometric blobs or focal pigmentation spots are detected."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Obtuse V-shaped central notch with an estimated angle of 140 degrees and shallow vertical depth relative to the horizontal span.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern along the full extent of the trailing edge; pixel-amplitudes range from 5 to 15 pixels, appearing as sharp, localized peaks and valleys.",
+    "lobe_sweep_trajectory": "Convex curve trajectory for both lobes, tapering into slender, pointed lateral tips with a downward-facing orientation."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "A significant irregular jagged disruption in the trailing edge topography on the outer half of the right lobe (viewer perspective), indicating non-uniform edge erosion or physical trauma.",
+  "other_distinctive_markers": "Extensive water-droplet spray and cavitation noise partially occluding the lower medial boundary and the insertion point of the peduncle."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level ratio of high-intensity white pixels (approx. 90%) to low-intensity black pixels (approx. 10%) localized at the periphery and notch.",
+    "spatial_color_mapping": "Primary high-intensity white cluster across entire ventral surface. Low-intensity black clusters at the distal tips and a dense, roughly circular black cluster at the median notch. Minor dark pixel cluster (approx. 5x10 pixels) located centrally above the peduncle connection."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate aperture angle of 50 degrees; notch apex depth is approximately 15% of the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "Irregular serration pattern with high-frequency peaks (amplitude 1-3 pixels) across both lobes; more pronounced indentation on the right lobe proximal to the median notch.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge from the median notch to the distal tips; trailing edge maintains a generally linear to slightly curved path until reaching the upturned tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of isolated low-intensity pixel clusters (points) along the trailing edges and a single prominent dark vertical oval spot (approx. 8-12 pixels long) in the mid-lower central region.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Single prominent dark vertical oval mark/lesion on the central-lower ventral surface.",
+  "other_distinctive_markers": "Characteristic black 'mask' or cluster of pigmentation localized specifically around the median notch area, extending into the lobes."
+}

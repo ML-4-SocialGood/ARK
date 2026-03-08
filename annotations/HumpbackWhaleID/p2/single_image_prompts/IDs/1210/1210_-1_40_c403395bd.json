@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast macro-distribution; approximately 70% high-intensity pixels (white) concentrated in the central lobes, framed by 30% low-intensity pixels (black) at the peripheral margins and within focal clusters.",
+    "spatial_color_mapping": "Right lobe displays a contiguous high-intensity white field with a 10-20 pixel wide low-intensity black border at the trailing edge; interior contains isolated low-intensity circular clusters. Left lobe shows complex, high-frequency mottling of black and white pixels near the leading edge and water line."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "Right lobe trailing edge exhibits irregular, high-amplitude serrations with approximately 12 primary peaks; peak depths vary from 5 to 15 pixels relative to the local mean edge line. Left lobe edge is occluded by water turbulence.",
+    "lobe_sweep_trajectory": "Right lobe outer margin follows a sharp convex curve (parabolic fit) transitioning into a linear but highly serrated trailing edge."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Right lobe contains roughly 15-20 distinct, low-intensity circular ring clusters (approx. 5-10 pixels in diameter) distributed non-uniformly across the white ventral surface.",
+    "linear_abrasions": "Detection of two discrete, dark linear pixel strings on the lower third of the right lobe, oriented diagonally relative to the vertical axis."
+  },
+  "acquired_anomalies_or_scars": "Extensive irregular serration and potential tissue loss on the right trailing edge; dense distribution of circular parasitic scars (rosettes) across the right fluke lobe.",
+  "other_distinctive_markers": "Pronounced dark-to-light transition zone on the visible left lobe segment, indicating a more heavily pigmented (black-dominant) pattern compared to the right lobe."
+}

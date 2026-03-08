@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:4 ratio of high-intensity (white/mottled) pixels to low-intensity (black/pigmented) pixels across the visible ventral area.",
+    "spatial_color_mapping": "High-contrast white mottling is localized to the proximal upper-left lobe and the peripheral trailing edge of the left lobe. The right lobe is a contiguous low-intensity dark mass with isolated white pixel clusters in the lower-right (distal) quadrant."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with an estimated internal angle of 45 degrees and deep vertical penetration relative to the lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel amplitudes of 5-15 pixels. The right lobe upper edge displays significant macro-indentations and a jagged, non-uniform boundary.",
+    "lobe_sweep_trajectory": "Left lobe follows a linear diagonal sweep with terminal convexity; right lobe follows a broader, descending convex parabolic curve."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Visible high-contrast white clusters at the distal tip of the left lobe and a dense constellation of small circular spots on the lower right margin of the right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular structural loss or jagged trauma visible along the superior trailing edge of the right lobe, contrasting with the more uniform serrations of the left lobe.",
+  "other_distinctive_markers": "Presence of high-contrast white water droplets and spray causing pixel-level noise/occlusion along the ventral-peduncle insertion area."
+}

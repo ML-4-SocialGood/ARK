@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution; approximately 45% of pixels are high-intensity (white/light grey) localized to the left lobe, while 55% are low-intensity (dark grey/black) localized to the right lobe, peduncle, and margins.",
+    "spatial_color_mapping": "Contiguous high-intensity region centered on the left medial lobe. Low-intensity (black) pigmentation covers the entire right lobe and forms a dark border along the trailing edge of the left lobe. Vertical dark linear clusters are mapped to the distal lateral tips of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated interior angle of approximately 72 degrees; notch depth occupies roughly 18% of the vertical bounding box of the visible fluke.",
+    "edge_topography_serration_map": "High-frequency, irregular serration across the entire trailing edge boundary; pixel-amplitude of peaks varies between 5-25 pixels from the mean edge baseline, with higher amplitude serrations occurring on the outer lateral thirds.",
+    "lobe_sweep_trajectory": "Convex curvature along the superior margin of both lobes, transitioning to a sharp downward sweep towards the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular dark pixel clusters (3-10 pixel diameter) scattered across the high-intensity zone of the left lobe; two distinct dark circular marks located near the right margin of the median notch.",
+    "linear_abrasions": "Sets of 5-8 parallel, vertically-oriented dark linear streaks (rake marks) concentrated on the distal regions of both the left and right fluke lobes."
+  },
+  "acquired_anomalies_or_scars": "Extensive rake marks on both lateral tips; distinct circular scarring on the right lobe surface; jagged, irregular trailing edge suggesting significant past mechanical wear or predation attempts.",
+  "other_distinctive_markers": "High-intensity pixel noise in the lower-left foreground consistent with water spray/droplets partially occluding the fluke surface."
+}

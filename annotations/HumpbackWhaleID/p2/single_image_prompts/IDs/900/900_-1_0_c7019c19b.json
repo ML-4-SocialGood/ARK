@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixel distribution covering approximately 85-90% of the visible fluke area, with high-intensity (white) pixels forming localized linear and cluster-based features.",
+    "spatial_color_mapping": "Large-scale contiguous dark region forming the base pigmentation; high-contrast white linear pixel paths crisscrossing the central and lateral lobes; high-intensity ovoid clusters concentrated on the distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow U-shaped notch at the central axis with a calculated wide interior angle and moderate bounding-box depth.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with variable pixel-amplitude peaks across the entire superior boundary; right lobe trailing edge exhibits more pronounced jaggedness than the left.",
+    "lobe_sweep_trajectory": "Convex curve fitted to the outer edges of the fluke lobes extending from the median notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-intensity white circular and ovoid pixel clusters localized at the distal margins and tips of both lobes.",
+    "linear_abrasions": "Extensive network of distinct, multi-directional white linear pixel disruptions (rake marks) that overlay the primary dark pigmentation across both fluke lobes."
+  },
+  "acquired_anomalies_or_scars": "Extensive rake-mark scarring and barnacle attachment clusters concentrated on the trailing edges and distal tips.",
+  "other_distinctive_markers": null
+}

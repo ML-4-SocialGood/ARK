@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast; approximately 75% high-intensity pixels (white) dominate the central lobe regions, with 25% low-intensity pixels (black) localized at the perimeter and insertion point.",
+    "spatial_color_mapping": "Large contiguous high-intensity central region. Low-intensity pixels form a continuous thick border along the trailing edge and a symmetrical heart-shaped cluster at the fluke base. A prominent vertical low-intensity streak is located on the mid-left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Obtuse V-shaped depression with an approximate angle of 110 degrees; depth penetrates approximately 12% of the total vertical bounding box height of the fluke.",
+    "edge_topography_serration_map": "High-frequency serration along the entire trailing edge boundary; 12 distinct peaks on the left lobe and 14 on the right lobe with pixel amplitudes ranging from 3 to 18 pixels.",
+    "lobe_sweep_trajectory": "Lobe trajectory exhibits a sigmoid curve, starting convex from the peduncle and transitioning to a concave sweep towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple small, circular low-intensity focal spots detected on the upper-right lobe and near the trailing edge of the left lobe.",
+    "linear_abrasions": "One prominent near-vertical low-intensity linear disruption on the left lobe; three smaller sub-parallel horizontal lines on the lower-right lobe."
+  },
+  "acquired_anomalies_or_scars": "Notable indentation/irregularity on the distal tip of the left lobe; dark pigmentation at the insertion point forms a distinct bilateral chevron.",
+  "other_distinctive_markers": "Unique vertical linear bisection of the white field on the left lobe, and trailing edge serrations appearing more jagged on the lateral-most margins."
+}

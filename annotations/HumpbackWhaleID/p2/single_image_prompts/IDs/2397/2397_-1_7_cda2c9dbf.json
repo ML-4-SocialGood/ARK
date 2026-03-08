@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 85% low-intensity (dark grey/black) pixels to 15% high-intensity (white/light grey) pixels, with the latter concentrated at the distal edge and a focal region in the lower-right.",
+    "spatial_color_mapping": "High-contrast white pixel clusters are mapped to the distal left tip. Discrete, non-contiguous white patches are mapped linearly along the trailing edge boundary. A large, high-intensity curvilinear patch is mapped to the lower-right ventral quadrant."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "Trailing edge exhibits low-amplitude, low-frequency serrations along the central span, with a localized cluster of high-frequency, irregular pixel-amplitude peaks (jagged topography) at the distal left extremity.",
+    "lobe_sweep_trajectory": "The visible profile of the lobe follows a broad convex curve with an accelerating curvature (decreasing radius) as it terminates at the distal left tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized detection of high-contrast white circular pixel clusters at the distal left tip, consistent with focal surface calcification or scarring.",
+    "linear_abrasions": "Several short, high-intensity horizontal linear pixel disruptions are visible along the mid-ventral trailing edge."
+  },
+  "acquired_anomalies_or_scars": "A prominent, bright white curvilinear scar is visible in the lower-right quadrant, exhibiting high contrast against the surrounding low-intensity surface pixels.",
+  "other_distinctive_markers": null
+}

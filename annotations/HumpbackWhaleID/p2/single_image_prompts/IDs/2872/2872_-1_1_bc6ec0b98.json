@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level dominance of low-intensity dark pixels across approximately 90% of the visible surface, with high-intensity white pixels concentrated solely at the distal tips and trailing edge margins.",
+    "spatial_color_mapping": "High-contrast white mottled clusters localized at the extreme lateral tips of both lobes; the central ventral surface is a uniform low-intensity grey with no significant internal mapping."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Clear acute V-shaped central notch dividing the fluke into two distinct lobes.",
+    "edge_topography_serration_map": "Continuous irregular serration along the trailing edge with variable pixel amplitudes; serrations are more pronounced and jagged on the right lobe relative to the left.",
+    "lobe_sweep_trajectory": "Convex sweep from the median notch transitioning to tapered, upwardly-curved lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Circular high-contrast white pixel clusters present at the distal tips of both the left and right lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Notable depigmentation or scarring at both fluke tips; irregular trailing edge profile suggests physical wear or minor tissue loss.",
+  "other_distinctive_markers": "Alphanumeric dot-matrix text overlay at the bottom of the frame containing metadata: TEC03-15/8 ID 11772 TODD CHANDLER S# Z-16 25 July 03 Moss Landing LRF."
+}

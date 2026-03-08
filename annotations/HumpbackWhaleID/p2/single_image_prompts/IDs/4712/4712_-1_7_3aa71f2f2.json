@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio with approximately 65% high-intensity white pixels in the central lobe regions bounded by 35% low-intensity black pixels along the margins and transverse streaks.",
+    "spatial_color_mapping": "Centralized contiguous white regions on both lobes; thick black margins along the trailing edge (pixels y-max) and leading edge (pixels y-min); multiple high-contrast linear black streaks crossing the white regions at various angles."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated shallow V-shaped depression with an approximate pixel angle of 135 degrees and a bounding-box depth of roughly 8% of total fluke height.",
+    "edge_topography_serration_map": "Irregular serration pattern with medium-frequency peaks and varying pixel amplitudes (3-10 pixels) along the trailing boundary, most pronounced on the outer thirds of both lobes.",
+    "lobe_sweep_trajectory": "Convex curve along the trailing edges transitioning to sharp, slightly tapered distal tips with a mild upward curvature."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small yellowish-brown pixel clusters (3-5 pixels diameter) localized near the median notch and along the trailing edge of the right lobe.",
+    "linear_abrasions": "Extensive network of dark, unaligned linear pixel disruptions (rake marks) crossing the white ventral patches, including a prominent set of parallel vertical marks on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant rake mark scarring across the central white surface; possible parasitic lesions or barnacle remnants near the central notch area.",
+  "other_distinctive_markers": null
+}

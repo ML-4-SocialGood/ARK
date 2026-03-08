@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level distribution shows a dominance of mid-tone gray pixels with approximately 15-20% coverage of low-intensity black pixels located primarily at the trailing edge and specific surface focal points.",
+    "spatial_color_mapping": "Low-intensity black blobs are mapped at coordinates corresponding to the medial-left lobe, lateral-left lobe, medial-right lobe, and a large contiguous black region at the base of the median notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped depression angle of approximately 42 degrees with a bounding-box depth of roughly 18% of the total visible fluke height.",
+    "edge_topography_serration_map": "Continuous linear boundary of the trailing edge exhibits high-frequency serration with pixel-amplitude variations ranging from 4 to 15 pixels across the posterior edge.",
+    "lobe_sweep_trajectory": "Both lobes exhibit a predominantly convex sweep trajectory along the superior boundary, tapering to acute points at the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of several discrete, roughly circular low-intensity (black) pixel clusters on the mid-intensity gray surface of both fluke lobes, concentrated in the central-medial regions.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular material loss and jagged indentation on the trailing edge of both lobes; prominent dark pigmentation cluster at the center-point of the fluke base.",
+  "other_distinctive_markers": null
+}

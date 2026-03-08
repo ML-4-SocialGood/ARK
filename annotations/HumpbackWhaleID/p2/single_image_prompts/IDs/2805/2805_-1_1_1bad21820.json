@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity (white) surface area with approximately 75% coverage, contrasted by low-intensity (black) pixel regions occupying the remaining 25% concentrated at the periphery and notch area.",
+    "spatial_color_mapping": "Large contiguous high-intensity (white) blobs dominate the inner and mid-sections of both lobes. Low-intensity (black) pigmentation forms a continuous border along the trailing edge and lateral tips. A central low-intensity bridge is visible at the median notch. Distinct, thin linear low-intensity filaments (scratches) are distributed across the high-intensity fields, most notably on the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped central depression with an estimated interior pixel angle of 40 degrees, extending approximately 15% into the fluke's vertical bounding box.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge boundary, characterized by sharp peaks and deep valleys with pixel-amplitudes ranging from 8 to 25 pixels.",
+    "lobe_sweep_trajectory": "Convex-upward sweep from the central notch towards the lateral tips, with the distal margins tapering into acute, slightly recurved points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Focal cluster of high-contrast, textured yellowish-white nodules (barnacles) located at the extreme distal-lateral point of the right lobe.",
+    "linear_abrasions": "Distinct geometric 'T' or cross-shaped intersection of two high-contrast low-intensity linear marks on the mid-right lobe; several parallel horizontal linear disruptions are visible on the lower-left lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent intersecting linear rake marks on the right lobe forming a cross-like pattern; significant barnacle colonization on the right fluke tip.",
+  "other_distinctive_markers": "Unique 'cross-hair' scar on the right ventral surface and a high density of small-amplitude serrations on the trailing edge compared to standard species baseline."
+}

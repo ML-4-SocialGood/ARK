@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70% high-intensity (white) to 30% low-intensity (black/dark-grey) distribution across the visible ventral surface.",
+    "spatial_color_mapping": "Large contiguous white areas dominate the central lobes; high-contrast black pigmentation is concentrated in a jagged band along the trailing edge, around the median notch, and as distinct linear streaks on the left lobe surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated pixel angle of approximately 92 degrees and a depth equivalent to ~12% of the total lobe span.",
+    "edge_topography_serration_map": "High-frequency serration along the entire trailing edge boundary; pixel-amplitude of peaks varies between 3-10 pixels, creating a continuous irregular sawtooth profile.",
+    "lobe_sweep_trajectory": "Convex curvature on the leading edge with a tapering concavity toward the distal tips along the trailing edge."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, dark, roughly circular pixel clusters localized at the distal tips of both lobes and sporadically along the trailing edge serrations.",
+    "linear_abrasions": "Multiple dark, unaligned linear pixel disruptions (rake marks) observed primarily on the left lobe, oriented diagonally to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Multiple parallel linear rake marks on the left ventral surface; irregular jagged indentations on the trailing edge consistent with physical trauma.",
+  "other_distinctive_markers": null
+}

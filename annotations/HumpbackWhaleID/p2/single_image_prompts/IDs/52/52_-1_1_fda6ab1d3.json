@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low contrast ratio; high-intensity (white) pixels constitute approximately 5-8% of the total visible fluke surface compared to the dominant low-intensity (dark grey/black) background.",
+    "spatial_color_mapping": "A near-uniform dark grey base with scattered, high-contrast white circular spots (mottling) of varying sizes (2-12 pixel diameter) distributed across both lobes, with higher frequency in the central lower regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A distinct V-shaped depression at the center with an estimated angle of 70 degrees and a depth relative to lobe height of approximately 1:6.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the trailing edge consisting of peaks and valleys with pixel amplitudes ranging from 2 to 6 pixels, creating a jagged linear boundary.",
+    "lobe_sweep_trajectory": "Convex curves fitted to the lower margins of both lobes, sweeping outward and upward toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple clusters of high-intensity white pixels in roughly circular formations, scattered across the medial and lateral regions of both fluke lobes.",
+    "linear_abrasions": "A distinct horizontal linear disruption of white pixels on the left lobe and several shorter, faint vertical linear streaks on the right lobe that diverge from the base pigmentation pattern."
+  },
+  "acquired_anomalies_or_scars": "Prominent, brown-toned, textured clusters of high-contrast pixel data protruding from the distal tips of both the left and right fluke lobes.",
+  "other_distinctive_markers": null
+}

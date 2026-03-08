@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with a dominant low-intensity (black) pixel base (approx. 75-80%) and high-intensity (white) localized zones concentrated along the distal trailing edges and lobe tips.",
+    "spatial_color_mapping": "High-intensity white contiguous zones are mapped to the distal one-third of both the left and right lobes, characterized by irregular, feathered margins. The central fluke area and proximal regions exhibit solid low-intensity black pixels with fine-grained white mottling throughout."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a pixel-calculated internal angle of approximately 85 degrees; depth extends significantly toward the peduncle junction before being obscured by surface water.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations present along the entire visible trailing edge. Distinct sharp peaks (spicules) are clustered at the distal extremities with an average peak-to-valley amplitude of 5-12 pixels.",
+    "lobe_sweep_trajectory": "Strongly concave curvature (inward sweep) along the trailing edge, transitioning to a sharp upward taper at the terminal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Sparsely distributed, high-contrast white circular pixel clusters (approx. 3-8 pixels in diameter) located primarily in the central dark regions of the left lobe.",
+    "linear_abrasions": "Multiple horizontal and diagonal high-contrast linear streaks (rake marks) detected; most prominent on the mid-section of the right lobe, intersecting the dark pigment base."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular scarring and pigment loss along the uppermost distal margins of both lobes, consistent with localized surface trauma or abrasion.",
+  "other_distinctive_markers": "Specular highlights from water droplets create localized high-intensity pixel noise across the central fluke surface, partially obscuring the texture of the median notch."
+}

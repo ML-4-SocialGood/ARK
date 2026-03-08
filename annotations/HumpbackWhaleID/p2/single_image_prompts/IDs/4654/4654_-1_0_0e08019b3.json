@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 75% high-intensity (white) pixels to 25% low-intensity (black/dark grey) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Predominantly high-intensity white core; low-intensity black margins are present along the trailing and lateral edges; distinct low-intensity circular mottling clusters are localized in the left-mid lobe region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central notch with an estimated pixel-calculated angle of 72 degrees and a bounding-box depth of approximately 14% of the vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency irregular serrations along the trailing edge boundary; pixel-amplitude variations (peaks and valleys) range from 5 to 22 pixels in depth relative to the edge mean.",
+    "lobe_sweep_trajectory": "Convex curvature trajectory on both bilateral lobes extending from the central notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple circular, high-contrast dark-on-white pixel clusters (approximately 5-7 distinct rings) located on the left lobe and smaller clusters on the right lobe.",
+    "linear_abrasions": "One prominent horizontal linear disruption (rake-like mark) of approximately 45 pixels in length located in the mid-right lobe area."
+  },
+  "acquired_anomalies_or_scars": "Prominent horizontal linear scar on the right lobe; several circular scars and pitting clusters likely associated with historical barnacle colonization across both lobes.",
+  "other_distinctive_markers": "Highly unique circular pigmentation 'halos' or ring-shaped motifs concentrated on the mid-to-lower left lobe."
+}

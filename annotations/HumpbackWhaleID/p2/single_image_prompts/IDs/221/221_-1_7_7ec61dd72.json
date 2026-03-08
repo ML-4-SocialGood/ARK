@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) with high-intensity (white) pixels limited to less than 5% of the visible ventral surface.",
+    "spatial_color_mapping": "Uniform low-intensity distribution across the visible fluke; no large-scale contiguous high-contrast geometric blobs or mottling patterns are detected."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression dividing the lobes with a calculated interior pixel angle of approximately 60 degrees.",
+    "edge_topography_serration_map": "Trailing edge of the right lobe shows high-frequency serrations with variable pixel amplitudes; trailing edge of the left lobe is smooth and lacks visible serration.",
+    "lobe_sweep_trajectory": "The right lobe follows a convex geometric sweep; the left lobe follows a linear, tapering trajectory."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Scattered high-contrast white circular pixel clusters detected on the ventral surface of the right lobe.",
+    "linear_abrasions": "Presence of fine, multi-directional linear white streaks on the right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "A distinct, irregular notch or jagged excision is present on the upper trailing edge of the right lobe.",
+  "other_distinctive_markers": null
+}

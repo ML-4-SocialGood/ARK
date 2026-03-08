@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio of high-intensity (white) to low-intensity (black) pixels, estimated at approximately 0.15:1, characterized by a salt-and-pepper distribution of light spots on a dark background.",
+    "spatial_color_mapping": "Contiguous dark-intensity field across both lobes. High-intensity (white) pixels are mapped as small, discrete, roughly circular blobs across the entire visible surface. Larger, contiguous high-intensity clusters are localized at the extreme distal tips of both lobes. A distinct vertical dark-intensity linear band is mapped on the medial-left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with a calculated angle of approximately 65 degrees and a deep vertical penetration into the fluke body.",
+    "edge_topography_serration_map": "High-frequency irregularity with pixel-amplitude variations of +/- 5-15 pixels. The left lobe trailing edge displays 4-5 distinct peaks. The right lobe tip terminates in a complex, multi-peaked, irregular protrusion with high topographic variance.",
+    "lobe_sweep_trajectory": "The upper boundary follows a broadly convex curve from the central notch toward the tips, interrupted by significant geometric jaggedness at the distal extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Widespread spatial detection of roughly circular, high-contrast white pixel clusters (2-10 pixel diameter) distributed across the dark ventral field, with higher density along the central fluke stem and inner lobes.",
+    "linear_abrasions": "One prominent, unaligned vertical linear pixel disruption (dark against dark-grey) located on the left lobe; multiple faint, horizontal linear streaks are detected on the lower stem portion."
+  },
+  "acquired_anomalies_or_scars": "Highly irregular, high-contrast white textured masses (likely barnacle colonization or significant trauma) at both lobe tips. A secondary deep indentation/notch is visible on the right lobe trailing edge immediately adjacent to the median notch. Prominent vertical scar on left lobe.",
+  "other_distinctive_markers": "The combination of dense white spotting ('salt and pepper' pattern) and the extreme, cauliflower-like structural deformation at the distal tips."
+}

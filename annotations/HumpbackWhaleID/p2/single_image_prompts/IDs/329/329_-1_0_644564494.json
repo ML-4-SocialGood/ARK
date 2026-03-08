@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Estimated 1:20 ratio of high-intensity (white) to low-intensity (black) pixels; the vast majority of the visible ventral surface consists of dark pigmentation.",
+    "spatial_color_mapping": "Continuous low-intensity field across both lobes. A single, discrete high-intensity rectangular pixel cluster is located on the lower-left lobe near the leading edge. Diffuse light-grey intensity is detected at the fluke's central base peduncle area."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep U-shaped central depression with a base angle of approximately 50 degrees and a vertical depth comprising roughly 30% of the fluke's visible height.",
+    "edge_topography_serration_map": "Highly irregular trailing edge with high-amplitude variations. Left lobe features three deep, vertical-oriented semi-circular indentations. Right lobe exhibits high-frequency jagged serrations along its entire length.",
+    "lobe_sweep_trajectory": "Strong concave curvature along the trailing edges from the tips to the notch; leading edges maintain a smooth convex sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely textured, high-contrast pixel clusters are visible at the distal tips of both the left and right lobes. Sparse, small-diameter white circular clusters are detected on the mid-surface of the right lobe.",
+    "linear_abrasions": "Several distinct, deep vertical pixel-voids on the left lobe's trailing edge indicate unaligned linear disruptions to the fluke's pigmentation and perimeter."
+  },
+  "acquired_anomalies_or_scars": "Extensive missing sections and irregular tissue loss along the trailing edges of both lobes, resulting in a highly jagged and non-uniform fluke profile.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1.3:1 ratio of high-intensity (white) to low-intensity (black) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Primary white contiguous blobs are located centrally and distally on both lobes. These are bounded by a low-intensity black region originating from the peduncle and extending along the entire trailing edge and distal margins. Small, discrete dark focal spots are distributed within the white regions (approximate coordinates relative to lobe center: [0.4, 0.3], [0.6, 0.2] on the left; [0.5, 0.4] on the right)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A sharp V-shaped depression with a calculated internal pixel angle of 44 degrees and a bounding-box depth occupying approximately 14% of the visible fluke vertical height.",
+    "edge_topography_serration_map": "High-frequency, irregular sawtooth serrations with pixel amplitudes ranging from 4 to 12 pixels along the continuous trailing edge, isolated from the sea background.",
+    "lobe_sweep_trajectory": "Lobes follow a predominantly convex mathematical curve from the median notch to the distal tips, with a slight increase in curvature at the outer margins."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast, textured clusters of white, tan, and shadowed pixels detected at the extreme left and right distal tips, indicating high-density barnacle colonization.",
+    "linear_abrasions": "Detection of three vertical, roughly parallel dark linear pixel disruptions (rake marks) on the lower-middle section of the left lobe's white field."
+  },
+  "acquired_anomalies_or_scars": "Prominent barnacle encrustations at the fluke tips; multiple vertical linear abrasions on the left lobe ventral surface.",
+  "other_distinctive_markers": "Specific asymmetrical pattern of small black spots embedded within the white fields: three distinct spots on the left lobe and two on the right lobe."
+}

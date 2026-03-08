@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio with approximately 65% high-intensity yellowish-white pixels and 35% low-intensity black/brown pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant high-intensity yellowish field across the central and lower visible regions of both lobes, interspersed with irregular low-intensity black mottling, vertical streaks, and circular ring patterns primarily on the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency and high-amplitude serrations along the trailing edge, characterized by irregular, sharp peaks and deep valleys ranging from 5 to 15 pixels in depth relative to the mean edge line.",
+    "lobe_sweep_trajectory": "Visible upper lobe edges follow a convex mathematical curve, though the continuity is frequently broken by jagged pixel-level irregularities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Extensive spatial detection of high-contrast, roughly circular white pixel clusters (3-12 pixels in diameter) across both lobes, indicating high-density barnacle colonization and scarring.",
+    "linear_abrasions": "Presence of multiple dark, unaligned linear pixel disruptions, notably a long diagonal streak on the left lobe and several shorter vertical rake marks on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Active barnacle colonization visible on the upper margins; significant irregular tissue loss and jagged indentations along the trailing edge suggesting historic physical trauma.",
+  "other_distinctive_markers": "Distinctive yellow-tan coloration across the ventral surface and multiple dark, concentric circular markings on the right lobe surface."
+}

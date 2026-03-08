@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low white-to-black ratio; surface is >95% low-intensity dark pixels with sparse high-intensity white point-source pixels.",
+    "spatial_color_mapping": "Uniform dark pigmentation macro-structure; high-intensity pixels are distributed as discrete, non-contiguous focal spots (1-3px diameter) across the surface of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with a calculated angle of approximately 65 degrees and a bounding-box depth of approximately 1/8th of the fluke's vertical span.",
+    "edge_topography_serration_map": "Continuous jagged boundary with high-frequency, low-amplitude (2-5 pixel) serrations; distinct larger indentations are visible on the inner trailing edge of the right lobe.",
+    "lobe_sweep_trajectory": "Convex curve following the medial trailing edge, transitioning to a slight concavity near the tapered distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of numerous circular high-contrast white pixel clusters (rosettes) distributed stochastically across the ventral surface, with higher density near the lower margins.",
+    "linear_abrasions": "Faint, unaligned linear pixel disruptions (scratches) detected on the mid-left lobe and the lower central region near the fluke base."
+  },
+  "acquired_anomalies_or_scars": "Pronounced jagged edge irregularities and pixel clusters at the outer distal tips of both lobes, indicating significant edge trauma or heavy biological colonization.",
+  "other_distinctive_markers": "Presence of distinct orange-hued pixel clusters (biological organisms) at the extreme lateral margins of both fluke tips."
+}

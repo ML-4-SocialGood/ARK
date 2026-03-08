@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low; the visible fluke surface is characterized by near-total saturation of low-intensity pixels (black) with negligible high-intensity (white) pixels, except at the distal tips.",
+    "spatial_color_mapping": "Uniform distribution of low-intensity black pixels across the entire visible surface; no internal white mottling or focal spots are detected within the fluke boundary."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped depression at the center-point with an estimated wide interior angle; depth is minimal relative to total fluke height.",
+    "edge_topography_serration_map": "Highly irregular, high-frequency serrations with small-scale pixel amplitude variations across the entire horizontal span of the trailing edge.",
+    "lobe_sweep_trajectory": "Symmetrical concave curve from the median notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast, irregular white/grey pixel clusters concentrated exclusively at the extreme lateral tips of both the left and right lobes, consistent with dense barnacle attachment.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Substantial biological protrusions (barnacles) altering the silhouette of the distal tips of both lobes.",
+  "other_distinctive_markers": "Pronounced jaggedness of the trailing edge combined with an almost entirely black ventral pigmentation pattern."
+}

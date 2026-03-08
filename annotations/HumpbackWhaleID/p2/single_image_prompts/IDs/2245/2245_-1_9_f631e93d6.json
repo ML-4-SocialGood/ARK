@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 75:25 ratio of high-intensity (off-white/cream) to low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Large contiguous off-white mass centrally located, bounded by a thick black perimeter. Notable dark vertical bands extend from the trailing edge toward the center on the right lobe. Dark pigmentation is concentrated at the distal tips and along the entire lower margin."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression; interior pixel angle approximately 65 degrees with a vertical depth of approximately 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude irregularities. The left lobe exhibits fine, consistent serration. The right lobe features a significant, deep macro-indentation approximately halfway between the median notch and the tip.",
+    "lobe_sweep_trajectory": "Strongly convex curves along the leading (lower) edges, sweeping upward and outward to sharpened points at the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Sparse, small dark circular pixel clusters (<10px diameter) distributed across the light-colored mid-region of both lobes, suggesting barnacle attachment sites.",
+    "linear_abrasions": "Distinct dark vertical and diagonal linear features present on the light ventral surface, particularly concentrated on the inner portion of the right lobe adjacent to the median notch."
+  },
+  "acquired_anomalies_or_scars": "Major irregular tissue loss and deep indentation on the trailing edge of the right lobe; prominent vertical rake marks near the central notch.",
+  "other_distinctive_markers": "Wide, dark trapezoidal pigmentation at the fluke base (peduncle attachment point)."
+}

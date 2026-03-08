@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 95:5 ratio of high-intensity white pixels to low-intensity black pixels; black pixels are localized to the perimeter trailing edge and two distinct focal interior points.",
+    "spatial_color_mapping": "Dominant contiguous white pixel field across 90% of fluke area; distinct low-intensity circular blob at coordinates [mid-left lobe]; distinct low-intensity circular blob at coordinates [mid-right lobe]; thin non-uniform black banding along the entire trailing edge perimeter."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an estimated internal angle of 40-50 degrees and a high depth-to-width ratio relative to the total fluke chord.",
+    "edge_topography_serration_map": "High-frequency, irregular saw-tooth serrations with pixel amplitudes ranging from 5-15 pixels; peaks are predominantly oriented toward the median notch.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge leading to sharp, upward-tapering distal tips; outer leading edges exhibit a smooth convex curve."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Two high-contrast dark circular pixel clusters (ocellus-like) symmetrically positioned on the ventral surface of each lobe; one smaller dark spot near the right distal tip.",
+    "linear_abrasions": "Several faint, unaligned vertical and diagonal thin gray line segments (low contrast) visible on the medial portion of both lobes."
+  },
+  "acquired_anomalies_or_scars": "Two prominent circular scars (likely barnacle attachment sites) on the lower-mid sections of both fluke lobes; irregular jagged scarring on the far-left distal tip.",
+  "other_distinctive_markers": "Highly unique symmetrical pair of large focal dark spots on an otherwise near-pure white fluke surface."
+}

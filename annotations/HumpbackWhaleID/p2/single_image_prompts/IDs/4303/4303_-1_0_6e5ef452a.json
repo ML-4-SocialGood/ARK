@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels dominate approximately 85-90% of the visible surface, with low-intensity black pixels restricted to the peripheral margins and specific internal markings.",
+    "spatial_color_mapping": "Central macro-region is solid high-intensity white. Dark pigmentation (low intensity) is localized to the trailing and leading edges. Notable interior features include a vertical linear dark streak on the left lobe and a small focal dark spot on the upper distal quadrant of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch, estimated internal angle of 40-45 degrees with a vertical depth of approximately 18% of the fluke's visible height.",
+    "edge_topography_serration_map": "Continuous, irregular jagged serration along the trailing edge. Frequency is high across both lobes, with pixel-amplitude of peaks varying between 4 to 12 pixels relative to the edge baseline.",
+    "lobe_sweep_trajectory": "Lobes exhibit an outward sweep with a slightly concave leading edge and a predominantly convex trailing edge curve, tapering into narrow, pointed tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast white punctate clusters (3-5 distinct points) situated within the distal black pigmentation of the left fluke tip.",
+    "linear_abrasions": "One prominent vertical dark linear mark approximately 1/3 distance from the left tip; several faint, horizontally-aligned pixel disruptions on the right lobe white field."
+  },
+  "acquired_anomalies_or_scars": "Distinct vertical linear pigmentation disruption on the left lobe; focal dark circular point on the distal right lobe surface.",
+  "other_distinctive_markers": "Irregular feathered transition zone where the black trailing edge pigmentation interdigitates with the interior white field, particularly visible on the inner trailing edge of the left lobe."
+}

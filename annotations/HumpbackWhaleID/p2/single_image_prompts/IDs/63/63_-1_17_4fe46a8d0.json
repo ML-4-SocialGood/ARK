@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1.5:1 ratio of low-intensity (black/dark-gray) to high-intensity (white/off-white) pixels. High-intensity pixels are concentrated on the distal halves of both lobes, while the medial region and peduncle interface are predominantly low-intensity.",
+    "spatial_color_mapping": "Contiguous high-intensity white patches occupy the outer 40% of both lobes. The right lobe (viewer's right) exhibits high-frequency low-intensity mottling within the white patch. A solid low-intensity band extends from the median notch to the proximal edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated interior angle of approximately 42 degrees. The notch depth is approximately 18% of the total vertical height of the visible fluke lobes.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations present along the entire posterior boundary. Peak-to-valley amplitudes range from 5 to 15 pixels, with the most pronounced irregularities located mid-lobe on both sides.",
+    "lobe_sweep_trajectory": "The trailing edge follows a sigmoidal curve; concave near the median notch transitioning to a convex arc towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct clusters of high-contrast, raised textured pixels (light gray/white) are located on the extreme distal tips and along segments of the trailing edge, consistent with barnacle colonization.",
+    "linear_abrasions": "Several dark, unaligned linear streaks are visible on the high-intensity white patch of the right lobe, including one prominent diagonal mark near the lower-center of the white region."
+  },
+  "acquired_anomalies_or_scars": "Notable jagged indentations on the trailing edge of the left lobe that break the regular serration pattern. Significant calcified bio-fouling clusters are present on both lobe terminals.",
+  "other_distinctive_markers": "A distinct fork-shaped (bifurcated) dark pigment mark is located in the central portion of the white patch on the right lobe."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 82% high-intensity (white/light grey) to 18% low-intensity (black/dark grey) pixels across the visible ventral area.",
+    "spatial_color_mapping": "Contiguous high-intensity central region; distinct low-intensity (black) border mapping along the entire trailing edge; multiple discrete circular and linear low-intensity clusters localized on the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, symmetrical V-shaped indentation with an approximate pixel-calculated angle of 76 degrees.",
+    "edge_topography_serration_map": "Continuous serrated boundary; low-amplitude peaks (2-4 pixels) along the medial edge, transitioning to high-amplitude, jagged peaks (8-12 pixels) at the distal tips.",
+    "lobe_sweep_trajectory": "Convex curve fitted to the superior trailing edge, tapering to narrow, elongated points at the distal extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of approximately 8-10 distinct circular ring-shaped scars on the right lobe, characterized by dark pixel perimeters and high-intensity centers.",
+    "linear_abrasions": "Detection of four distinct parallel, dark linear rake marks on the mid-right lobe, oriented at a diagonal trajectory (~40 degrees)."
+  },
+  "acquired_anomalies_or_scars": "Prominent circular 'cookie-cutter' style scars and linear rake marks on the right lobe; irregular, non-uniform pigmentation loss along the trailing edge.",
+  "other_distinctive_markers": "Dense, speckled low-intensity mottling concentrated specifically along the trailing edge of the left lobe, creating a high-frequency contrast pattern."
+}

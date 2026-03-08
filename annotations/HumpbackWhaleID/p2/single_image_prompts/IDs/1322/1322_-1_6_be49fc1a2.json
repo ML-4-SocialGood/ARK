@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 90% high-intensity white pixels on the macro-surface with low-intensity black pixels restricted to the distal tips and trailing edge perimeters.",
+    "spatial_color_mapping": "Contiguous white field across central lobes; black distal tips (left and right extreme coordinates); localized dark circular spots positioned mid-left lobe and right lower lobe near the margin."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped central depression with high bounding-box depth relative to horizontal span.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude triangular serrations and peaks across the continuous trailing edge boundary.",
+    "lobe_sweep_trajectory": "Convex lobe curvature on the posterior edge tapering to blunt, backward-sweeping distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of three dark circular clusters on the left lobe mid-surface and one circular cluster on the right lobe trailing-edge margin.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Localized circular pigmentation scars; significant overexposure glare in the central lower region obscuring pixel data near the notch.",
+  "other_distinctive_markers": null
+}

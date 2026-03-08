@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:18 high-intensity (white) to low-intensity (black) pixel ratio across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Primary low-intensity (black) field with localized high-intensity (white) clusters at the distal lateral tips. Sparse, high-contrast focal points (mottling) are distributed medially on both lobes, with a distinct vertical high-intensity streak along the midline/peduncle axis."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated angle of approximately 45 degrees and a bounding-box depth reaching roughly 15% of the fluke's vertical height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations on the left trailing edge; right trailing edge exhibits higher-amplitude, jagged peaks (4-5 distinct valleys) near the distal tip, isolated from the high-contrast background.",
+    "lobe_sweep_trajectory": "Concave curve fitted to the inner trailing margins, transitioning to a sharp convex trajectory at the distal lateral boundaries."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular, high-contrast ring-like clusters (rosettes) approximately 5-8 units, predominantly localized in the lower-central and mid-left lobe regions.",
+    "linear_abrasions": "Dense collection of multi-directional, unaligned white linear pixel disruptions (rake marks) concentrated on the left lobe, with sparse diagonal linear marks on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Heavy textural buildup and irregular high-intensity pigmentation on the terminal edges of both lobes, indicating significant prior trauma or localized colonization marks.",
+  "other_distinctive_markers": "A prominent, singular vertical high-intensity linear feature extending from the insertion point toward the median notch."
+}

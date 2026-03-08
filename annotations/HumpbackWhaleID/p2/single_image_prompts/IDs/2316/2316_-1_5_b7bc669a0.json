@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Highly skewed toward low-intensity pixels; high-intensity (white/light grey) pixels represent less than 5% of the total visible ventral surface, restricted to small focal spots and water-induced glare.",
+    "spatial_color_mapping": "Dominantly uniform dark-grey to black pigmentation across approximately 95% of the visible surface; no contiguous white geometric blobs or distinct banding patterns are present; faint low-contrast mottling is visible in the central region near the notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated interior angle of approximately 50 degrees; the depth of the notch is roughly 12-15% of the vertical fluke height visible above the water line.",
+    "edge_topography_serration_map": "High-frequency serrations with variable pixel amplitudes ranging from 3 to 15 pixels; peaks and valleys are sharp and continuous across the entirety of the visible trailing boundary.",
+    "lobe_sweep_trajectory": "Leading outer edges follow a convex trajectory; the trailing edges exhibit a global concave sweep toward the median notch, heavily modulated by the serration map."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of multiple small, roughly circular high-contrast light-colored clusters (3-10 pixel diameter) distributed across the lower-left lobe and the central-right quadrant.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Prominent, irregular, high-contrast textured masses corresponding to dense barnacle colonization are attached to the distal terminal tips of both the left and right fluke lobes.",
+  "other_distinctive_markers": null
+}

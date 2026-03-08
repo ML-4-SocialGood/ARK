@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Bimodal distribution with high-intensity white pixels occupying the interior lobes and low-intensity black pixels defining the perimeter and median notch.",
+    "spatial_color_mapping": "Large contiguous white blobs centered on each lobe. Left lobe (viewer perspective) contains four distinct horizontal black finger-like intrusions extending medially from the lateral margin. The median notch is defined by a solid black vertical region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped notch with an acute internal angle; the vertex resides at a significant vertical depth relative to the peak of the fluke lobes.",
+    "edge_topography_serration_map": "Continuous irregular serration along the trailing edge boundary with approximately 12-15 distinct peaks per lobe, exhibiting varying pixel-amplitude heights.",
+    "lobe_sweep_trajectory": "Trailing edge segments follow a concave trajectory from the median notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of raised, light-colored circular pixel groups (barnacle colonization) localized at the terminal points of both the left and right lobes.",
+    "linear_abrasions": "Right lobe (viewer perspective) displays three prominent vertical-oblique dark linear pixel disruptions. Left lobe displays parallel horizontal black marks extending from the outer perimeter into the white pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Extensive linear rake scarring across the ventral surface and dense barnacle clusters at the lobe tips.",
+  "other_distinctive_markers": null
+}

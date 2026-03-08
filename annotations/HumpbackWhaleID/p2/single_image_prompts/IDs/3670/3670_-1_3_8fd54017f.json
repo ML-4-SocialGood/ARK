@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface with approximately 95% pixel occupancy of values <20 on a 0-255 scale, contrasted by localized high-intensity (white) pixels >200 representing scarring and terminal tip encrustations.",
+    "spatial_color_mapping": "Homogeneous black field across the macro-surface; distinct high-contrast white circular ring blobs (approx. 6-8 instances) scattered across both lobes; dense, irregular high-intensity pixel clusters localized at the extreme lateral terminal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped central depression with a calculated internal angle of approximately 42 degrees; depth extends approximately 15% into the vertical height of the fluke lobes.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire continuous boundary; peak-to-valley pixel amplitude is highest in the medial sections of both lobes, creating a jagged profile isolated against the sea background.",
+    "lobe_sweep_trajectory": "Symmetrical convex curve originating from the median notch, transitioning to an upward-sloping trajectory towards the terminal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple circular high-contrast pixel rings; specifically 4 clusters on the right lobe medial-upper quadrant and 3 on the left lobe central region.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization on both lateral tips; multiple circular depigmented scars distributed across the ventral surface.",
+  "other_distinctive_markers": "Dense, multi-faceted high-intensity structural clusters (barnacles) localized exclusively on the extreme outer tips of both lobes, disrupting the smooth geometric contour of the tips."
+}

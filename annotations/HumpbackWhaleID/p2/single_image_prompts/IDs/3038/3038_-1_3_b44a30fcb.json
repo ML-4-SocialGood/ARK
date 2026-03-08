@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The macro-level ratio of high-intensity (white) to low-intensity (black) pixels is low, with approximately 85% of the visible surface area falling into the low-intensity range and 15% appearing as high-intensity mottling.",
+    "spatial_color_mapping": "Contiguous low-intensity pixels form the base of both lobes. High-intensity geometric blobs are concentrated as localized mottling along the trailing edge of the left lobe and dispersed across the ventral surface of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a wide pixel angle of approximately 115 degrees and moderate bounding-box depth.",
+    "edge_topography_serration_map": "Left lobe trailing edge displays low-amplitude, high-frequency serrations. Right lobe trailing edge exhibits irregular, high-amplitude pixel variations, including a significant irregular indentation on the inner margin.",
+    "lobe_sweep_trajectory": "Left lobe follows a predominantly linear to slightly convex sweep toward a sharp distal tip. Right lobe exhibits a more pronounced convex curve along the outer trailing boundary."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Numerous roughly circular high-contrast white pixel clusters are detected, primarily concentrated along the trailing edges and the mid-lateral surface of the right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Distinct irregular indentation/tissue loss on the inner trailing edge of the right lobe, proximal to the median notch.",
+  "other_distinctive_markers": null
+}

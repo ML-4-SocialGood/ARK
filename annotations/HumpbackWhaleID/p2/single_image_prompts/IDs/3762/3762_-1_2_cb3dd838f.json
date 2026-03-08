@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio of approximately 75% high-intensity (white) pixels to 25% low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Large contiguous white regions occupy the central lobes. Dense black pigmentation is mapped to the median notch region and extends along the entirety of the trailing edge. Distinct black linear streaks and small circular spots (focal points) are distributed sporadically across the white field of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a pixel-calculated angle of approximately 35 degrees; depth is significant, extending approximately 12% into the vertical fluke axis.",
+    "edge_topography_serration_map": "High-frequency, low-to-medium amplitude serrations are visible along the entire trailing edge; peaks are more pronounced and jagged at the distal tips compared to the medial sections.",
+    "lobe_sweep_trajectory": "Outer margins exhibit a convex curvature that tapers into acute, slightly upward-curving distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-contrast dark pixels and irregular textures are localized at the distal tips, particularly prominent on the left lobe tip; smaller dark circular clusters are visible on the interior white surface of the right lobe.",
+    "linear_abrasions": "Multiple dark linear pixel disruptions; two prominent parallel diagonal lines are detected on the lower quadrant of the right lobe, and several smaller, unaligned marks are visible on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent dark linear scratches (rake marks) on both lobes; irregular trailing edge margins showing small notches and tissue-level disruptions consistent with physical trauma.",
+  "other_distinctive_markers": "A distinctive symmetrical black 'feathered' pigmentation pattern originates from the median notch and spreads into the lower medial sections of the white lobe surfaces."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low macro-level ratio; pixel data is dominated by low-intensity (black/dark grey) values with minimal high-intensity (white) pixel presence on the primary ventral surface.",
+    "spatial_color_mapping": "Dominant contiguous dark pigmentation across both lobes; small, localized high-intensity (white) specks are sparsely mapped to the distal regions of the right lobe and the interior region of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch; central vertex point defines an approximate 85-95 degree angle with a bounding-box depth approximately 1/8th of the fluke's vertical span.",
+    "edge_topography_serration_map": "Trailing edge exhibits a high-frequency, low-amplitude serration pattern; peaks are most pronounced on the outer thirds of both lobes, transitioning to a smoother linear boundary near the median notch.",
+    "lobe_sweep_trajectory": "Symmetrical concave sweep fitted to the trailing edge, originating from the notch and curving upwards toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-contrast white pixel circularities detected at the extreme distal tips of both the left and right fluke lobes.",
+    "linear_abrasions": "Faint, vertically-oriented linear pixel disruptions visible on the ventral surface of the right lobe, extending from the mid-section toward the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Localized clusters of high-intensity material (likely biological colonization) are present on the leading and trailing edges of the fluke tips.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixels; estimated ratio of high-intensity (white) to low-intensity pixels is approximately 0.1:0.9 across the visible ventral plane.",
+    "spatial_color_mapping": "Primary surface is solid black (low-intensity); small, high-contrast white focal spots clustered at the far left lateral tip; sparse, light-grey mottling concentrated on the inner lower quadrants of both lobes and along the trailing edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped depression at approximately 85 degrees; notch depth occupies approximately 12% of the total vertical bounding box of the fluke.",
+    "edge_topography_serration_map": "High-frequency serration along the continuous trailing boundary; higher amplitude peaks visible at both lateral tips; interior trailing edges near the notch show lower amplitude, smoother variations.",
+    "lobe_sweep_trajectory": "Strongly concave curve fitted from the median notch outward to the posterior-facing lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast white pixel clusters detected on the extreme lateral edges and tips of both lobes, suggesting calcified surface attachments.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Physical protrusions and irregular pixel-level topography at the extreme left and right fluke tips, suggesting permanent crustacean colonization or corresponding scarring.",
+  "other_distinctive_markers": null
+}

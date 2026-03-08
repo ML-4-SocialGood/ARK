@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High local contrast between sparse high-intensity (white) point-features and a dominant low-intensity (black/dark gray) background; global distribution is heavily skewed toward <10% intensity values.",
+    "spatial_color_mapping": "Homogeneous dark pigmentation across both lobes with scattered, non-contiguous white circular clusters (rosettes) concentrated in the medial and mid-lobe regions; one distinct white linear mark is visible on the distal left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Obtuse V-shaped central depression with approximately a 120-degree interior angle and shallow bounding-box depth.",
+    "edge_topography_serration_map": "High-frequency, low-to-medium amplitude serrations (jagged peaks and valleys) along the entire trailing edge from the notch to the distal tips.",
+    "lobe_sweep_trajectory": "Symmetric convex curvature originating from the median notch, tapering toward pointed and slightly irregular distal extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular white ring-like pixel clusters (barnacle scars) distributed across both lobes, with higher density on the mid-left lobe.",
+    "linear_abrasions": "One prominent horizontal white linear disruption on the left lobe; several shorter, less defined linear marks visible on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Localized white rosette scarring and linear rake-like marks across the ventral surface.",
+  "other_distinctive_markers": "The trailing edge shows localized irregularities and possible minor notches on the distal right lobe tip."
+}

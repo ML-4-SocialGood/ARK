@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 85% low-intensity (dark grey to black) pixels forming the base substrate, with 15% high-intensity (white to light grey) pixels occurring as localized clusters and linear streaks.",
+    "spatial_color_mapping": "Contiguous dark background with discrete high-contrast white circular ring clusters (rosettes) distributed across both lobes. High-intensity pixels are concentrated at the distal tips and along the trailing edge boundary where bio-accumulation is present."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an approximate pixel-calculated interior angle of 70-80 degrees relative to the lobe midlines.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the entire trailing edge boundary. Significant jagged peaks and high-relief variations are visible at the distal tips due to heavy barnacle colonization, creating a non-linear pixel boundary against the water background.",
+    "lobe_sweep_trajectory": "Concave curvature along the posterior trailing edges, tapering into sharp, upward-pointing convex arcs at the lateral extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely distributed white circular pixel clusters (ring-shaped) across the surface of both lobes, ranging from 5 to 50 pixels in diameter, most prominent on the left lobe and distal right tip.",
+    "linear_abrasions": "Distinct white linear pixel disruptions including a prominent 30-degree arc on the left lobe and multiple short, vertical and diagonal straight-line segments on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive peripheral bio-fouling (barnacles) creating significant irregular structural relief along the outer margins and tips of both lobes; extensive scarring across the ventral surface.",
+  "other_distinctive_markers": "A highly unique, high-contrast white 'hook' or 'J' shaped pixel formation located in the lower-left quadrant of the left lobe."
+}

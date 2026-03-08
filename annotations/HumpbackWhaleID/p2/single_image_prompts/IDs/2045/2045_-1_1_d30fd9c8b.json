@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Highly skewed toward low-intensity values (black/dark grey) with localized high-intensity (white) clusters. Roughly 92% low-intensity to 8% high-intensity pixel distribution on visible ventral surfaces.",
+    "spatial_color_mapping": "Predominantly dark-pigmented manifold. Distinct high-contrast white punctate blobs are clustered on the medial-to-lateral region of the right lobe. Large, contiguous high-intensity pixel clusters are mapped specifically to the distal tips of both the left and right lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped indentation with an estimated pixel angle of 135 degrees; the apex is partially obscured by foreground water-pixel occlusion.",
+    "edge_topography_serration_map": "Low-frequency, low-amplitude serrations along the central trailing edge; frequency increases significantly toward the distal tips where pixel-amplitude variance creates a jagged profile.",
+    "lobe_sweep_trajectory": "Symmetrical concave sweep originating from the median notch, extending laterally and curving upward toward the terminal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast, roughly circular white pixel clusters (rosettes) detected at both the far-left and far-right distal tips, indicating calcified surface accumulation.",
+    "linear_abrasions": "Detected faint, low-contrast linear pixel disruptions (light-grey streaks) on the left lobe, oriented diagonally toward the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Extensive white calcification and tissue irregularity (scarring/barnacle attachment) at the extreme lateral tips of both fluke lobes.",
+  "other_distinctive_markers": null
+}

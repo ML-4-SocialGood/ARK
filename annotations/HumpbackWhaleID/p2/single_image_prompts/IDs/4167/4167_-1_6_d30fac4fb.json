@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) with a low density of high-intensity (white) pixels, yielding an estimated ratio of approximately 98:2.",
+    "spatial_color_mapping": "Homogenous black field across both lobes, punctuated by small, stochastic high-intensity circular clusters (white dots) concentrated on the left lobe and along the midline near the notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide V-shaped depression with a pixel angle of approximately 80 degrees and a significant bounding-box depth extending approximately 15% of the fluke's vertical height.",
+    "edge_topography_serration_map": "Irregular jagged boundary with medium-amplitude peaks (5-10 pixels) along the left lobe and lower-frequency, shallower undulations on the right lobe lobe boundary.",
+    "lobe_sweep_trajectory": "Strong convex curve fitted to the superior edges of both lobes, terminating in sharp, tapered distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast circular white pixel clusters distributed sporadically; approximately 15-20 distinct clusters visible on the left lobe and 5-8 on the right lobe.",
+    "linear_abrasions": "Faint, short linear white disruptions visible near the center-left lobe and adjacent to the median notch."
+  },
+  "acquired_anomalies_or_scars": "Pronounced irregular tissue loss (notching) on the superior-lateral edge of the left lobe; focal white scarring at the extreme tip of the right lobe.",
+  "other_distinctive_markers": "Pronounced jagged 'saw-tooth' profile on the trailing edge of the left lobe compared to the smoother profile of the right lobe."
+}

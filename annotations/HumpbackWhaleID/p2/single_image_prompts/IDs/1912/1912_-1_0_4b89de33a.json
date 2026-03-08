@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 75% high-intensity white pixels vs 25% low-intensity black/grey pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Central regions of both lobes consist of contiguous high-intensity white blobs. Low-intensity black pixel regions form a thick, mottled border along the trailing edges and a dense focal area around the median notch. A distinct low-intensity linear feature is visible on the lower section of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a calculated interior angle of approximately 50-60 degrees; depth is significant relative to the horizontal fluke axis.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitude variations of 2-10 pixels across the entire length of the trailing edge on both lobes.",
+    "lobe_sweep_trajectory": "The trailing edge follows a moderate convex curve from the median notch to the distal tips, which are slightly rounded."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "A dense, irregular cluster of low-intensity pixels is located on the extreme distal tip of the right lobe, forming a raised, textured mass.",
+    "linear_abrasions": "A single, dark linear pixel disruption (rake mark) is located on the lower-left quadrant of the left lobe, angled toward the median notch."
+  },
+  "acquired_anomalies_or_scars": "Heavy cluster of dark, raised material on the right distal tip; distinct dark linear mark on the left lobe surface.",
+  "other_distinctive_markers": "The right distal tip exhibits a significant, high-contrast dark mass that breaks the standard geometric contour of the lobe."
+}

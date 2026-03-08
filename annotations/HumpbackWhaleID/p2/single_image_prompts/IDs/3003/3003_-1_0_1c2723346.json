@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity dark pixels (black/dark grey) with localized high-intensity regions (white/light grey) on the right lobe distal area; estimated macro ratio of 4:1 dark to light.",
+    "spatial_color_mapping": "Right lobe distal region contains a contiguous light-intensity blob with internal dark-intensity mottling. Left lobe is approximately 95 percent dark-intensity with sparse high-intensity pixel clusters near the distal tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Obtuse V-shaped central depression with a calculated angle of approximately 145 degrees and shallow pixel depth.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations detected along the full trailing edge; right lobe exhibits larger amplitude peaks (up to 15 pixels) compared to the left lobe.",
+    "lobe_sweep_trajectory": "Convex curve trajectory from the median notch extending to sharp, upward-tilted distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of roughly circular, high-contrast white pixel clusters on the right lobe's light-intensity patch and along the leading edge of the left lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low macro-level ratio; approximately 96% low-intensity (black) pixels to 4% high-intensity (white) pixels localized to barnacles and scar tissue.",
+    "spatial_color_mapping": "Uniform dark-pigmented contiguous field across both lobes; punctuated by high-contrast white circular pixel clusters concentrated at the distal tips and scattered individually across the mid-lobe regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped central depression with a calculated internal angle of approximately 38 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with varying amplitudes (5-12 pixel depth) present along the entire trailing boundary of both lobes.",
+    "lobe_sweep_trajectory": "Double-curved trajectory characterized by a concave arc originating at the median notch and transitioning to a convex curve at the outer lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized dense clusters of roughly circular, high-intensity white pixel groups at the extreme left and right tips; additional individual circular spots (~4-8 pixels diameter) scattered across the dark ventral field.",
+    "linear_abrasions": "Subtle, non-aligned light-gray linear pixel streaks visible on the medial-right lobe surface, oriented diagonally relative to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Significant biological encrustation (barnacle colonization) at both fluke tips, altering the local pixel texture and color; multiple small-scale circular lesions across the dark pigmentation.",
+  "other_distinctive_markers": "Unique ring-like circular scar patterns visible on the interior of the right lobe surface."
+}

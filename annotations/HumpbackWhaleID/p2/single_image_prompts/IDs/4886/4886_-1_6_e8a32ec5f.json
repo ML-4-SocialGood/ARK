@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.45:1 ratio of low-intensity black/dark-grey pixels concentrated in the central and medial regions to high-intensity white/light-grey pixels on the lateral lobes.",
+    "spatial_color_mapping": "Central chevron is dominated by a continuous low-intensity black region. Lateral lobes (left and right) display a high-intensity white base with high-frequency low-intensity speckling (mottling). The far right lobe tip features three distinct, large, circular low-intensity blobs."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated angle of approximately 75 degrees and a bounding-box depth extending roughly 25% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations across the entire trailing edge boundary. Significant jagged 'peaks' are visible on the distal half of the right lobe trailing edge.",
+    "lobe_sweep_trajectory": "Strong convex curve along the leading edges of both lobes, with the trailing edge showing a generally concave sweep from the tip toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density cluster of approximately 30-40 small, high-intensity (yellow-white) circular pixel clusters localized within the central dark pigment area, suggesting barnacle colonization points.",
+    "linear_abrasions": "Two distinct sets of parallel, dark-pigmented linear marks (rake marks) on the upper lateral region of the left lobe, and several smaller diagonal scratches on the medial right lobe."
+  },
+  "acquired_anomalies_or_scars": "Notable irregular notch (likely a healed amputation or trauma) located on the outer third of the right lobe's trailing edge.",
+  "other_distinctive_markers": "A series of roughly five prominent, dark circular spots of varying sizes (approx. 20-50 pixels in diameter) on the high-intensity background of the right lobe tip."
+}

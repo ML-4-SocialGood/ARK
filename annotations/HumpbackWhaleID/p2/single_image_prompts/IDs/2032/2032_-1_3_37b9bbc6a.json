@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low high-intensity to low-intensity ratio; approximately 0.05:0.95 favoring low-intensity (black) pixels on the visible ventral fluke surface.",
+    "spatial_color_mapping": "Dominant contiguous low-intensity region with scattered high-intensity (white) focal spots. Small high-intensity clusters are located at coordinates [x:0.35, y:0.65] and [x:0.75, y:0.55] relative to the fluke bounding box."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a pixel-calculated angle of approximately 38 degrees and a narrow vertex depth reaching the fluke center point.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the continuous trailing edge; visible pixel-amplitude peaks ranging from 4 to 12 pixels, separated by irregular intervals.",
+    "lobe_sweep_trajectory": "Symmetrical convex curves extending from the median notch to the distal tips, following a non-linear parabolic sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of localized, high-contrast white circular pixel clusters concentrated in the lower-central and outer-left quadrants of the fluke lobes.",
+    "linear_abrasions": "Faint, low-contrast diagonal linear disruptions (scratches) visible on the medial portion of the right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular tissue loss and jagged pixel topography at the terminal distal tips of both lobes, suggesting previous amputation or severe impact.",
+  "other_distinctive_markers": "Multiple faint circular ring-like impressions (low-contrast rings with dark centers) visible on the upper half of the right lobe."
+}

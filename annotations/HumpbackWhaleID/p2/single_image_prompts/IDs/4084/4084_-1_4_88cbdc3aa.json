@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65:35 ratio of high-intensity white pixels to low-intensity black/dark-grey pixels across the visible ventral area.",
+    "spatial_color_mapping": "Contiguous white regions dominate the distal lobes. A large, high-contrast black region is centered proximally around the notch area. Three distinct vertical black streaks are mapped to the medial-lateral quadrant of the left lobe. A singular dark focal spot is located in the upper-distal quadrant of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern along the entire visible trailing edge. Peaks and valleys show variable pixel amplitude, with the most pronounced 'V' shaped indentations occurring on the medial portion of the right lobe.",
+    "lobe_sweep_trajectory": "Convex curvature observed on the distal margins of both lobes, transitioning toward a central submerged convergence point."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of circular, high-contrast beige/white pixel clusters (barnacles) are spatially concentrated on the distal tips and along the leading edge of both the left and right lobes.",
+    "linear_abrasions": "Detection of multiple vertical and diagonal dark linear pixel disruptions (rake marks) that intersect the white pigmentation, primarily on the left lobe's ventral surface."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization on distal tips; significant jagged irregularities and potential tissue loss along the trailing edge contour.",
+  "other_distinctive_markers": "A distinct, isolated dark pigmentation circular cluster (focal spot) on the upper right lobe distal region."
+}

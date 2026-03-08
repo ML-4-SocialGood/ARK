@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 55:45 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Left lobe: Predominantly white background with localized dark splotches (mottling) clustered near the leading edge and distal tip. Right lobe: Large, low-intensity black mass occupying the inner-medial region, bounded by high-intensity white margins featuring irregular black streaks and circular splotches."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with an estimated pixel angle of 60-70 degrees and a depth-to-width ratio of approximately 1:3 within its bounding box.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations. The right lobe trailing edge displays higher-amplitude variations (deeper notches) compared to the more uniform, lower-amplitude peaks on the left lobe trailing edge.",
+    "lobe_sweep_trajectory": "Symmetrical upward convexity on both lobes; the trailing edge follows a smooth arc that tapers sharply toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast white circular pixel clusters are visible within the dark pigment of the right lobe; dark circular splotches are scattered across the white background of the left lobe.",
+    "linear_abrasions": "Faint vertical and diagonal linear disruptions are visible on the white margins of the right lobe, breaking the continuous white pixel mapping."
+  },
+  "acquired_anomalies_or_scars": "A significant irregular indentation and loss of smooth contour at the distal tip of the right lobe, indicating possible physical trauma or tissue loss.",
+  "other_distinctive_markers": null
+}

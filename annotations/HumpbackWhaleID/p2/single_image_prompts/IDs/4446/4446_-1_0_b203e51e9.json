@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low overall contrast on the fluke surface with a dominant dark-pixel population (intensity < 60/255) punctuated by high-intensity specular highlights (intensity > 220/255) from surface water.",
+    "spatial_color_mapping": "Contiguous dark-gray to black field across the visible surface; focal high-contrast white/off-white pixel clusters are located at the distal tips of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression visible between the lobes, characterized by an acute internal angle approximately 35-45 degrees from the vertical axis.",
+    "edge_topography_serration_map": "High-frequency, irregular saw-tooth serrations visible along the entire trailing boundary, with peak amplitudes reaching approximately 10-15 pixels relative to the lobe midline.",
+    "lobe_sweep_trajectory": "The left lobe exhibits a convex outer sweep transitioning into a pointed tip; the right lobe shows a more linear, vertical-ascending trajectory towards its distal terminus."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular, high-contrast white clusters (barnacles) are detected along the left-side leading edge and the right-side trailing edge tips.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Prominent epibiotic colonization (likely acorn barnacles) creates localized physical protrusions along the distal margins of both fluke lobes.",
+  "other_distinctive_markers": null
+}

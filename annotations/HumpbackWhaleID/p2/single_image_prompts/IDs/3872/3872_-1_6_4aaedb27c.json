@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface area estimated at 95% with sparse high-intensity (white) localized clusters accounting for approximately 5% of the total ventral area.",
+    "spatial_color_mapping": "Dominant contiguous black field across both lobes. Discrete white high-contrast circular blobs (rosettes) are distributed throughout. A significant high-intensity white cluster is visible at the far left lateral tip (pixel coordinates roughly x=0.02, y=0.35 in relative frame)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated angle of approximately 50 degrees; notch depth occupies roughly 1/6th of the vertical lobe profile.",
+    "edge_topography_serration_map": "The left lobe trailing edge exhibits 6 prominent primary peaks with high pixel amplitude (sawtooth pattern), while the right lobe trailing edge presents a smoother, lower-amplitude wave profile with micro-serrations.",
+    "lobe_sweep_trajectory": "Strong convex curve fitted to the outer lateral boundaries, tapering into pointed, upward-curving tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular white pixel clusters, consistent with barnacle scarring, are scattered across the mid-region of both lobes; prominent clusters visible at (0.35, 0.45) and (0.75, 0.40) relative mapping.",
+    "linear_abrasions": "One prominent diagonal white linear mark on the left lobe extending toward the notch; several shorter, horizontal unaligned scratches visible on the upper left lobe section."
+  },
+  "acquired_anomalies_or_scars": "Pronounced irregular tissue loss or jagged deep-notching on the upper trailing edge of the left lobe, significantly deviating from standard serration patterns.",
+  "other_distinctive_markers": "Unique high-intensity white pigmentation zone localized specifically to the extreme lateral edge of the left lobe tip."
+}

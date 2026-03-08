@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.6:0.4 ratio of high-intensity white pixels to low-intensity black pixels across the visible fluke surface.",
+    "spatial_color_mapping": "Two large, high-intensity white regions occupy the majority of the lateral lobes, separated by a broad, low-intensity black central region. Black mottling and circular spots are scattered within the white regions, with increased density towards the trailing edges and distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch with an estimated interior angle of 48 degrees and a vertical depth reaching approximately 25% of the visible fluke height.",
+    "edge_topography_serration_map": "Continuous, highly irregular trailing edge featuring high-frequency peaks and valleys; serration is more pronounced and deeper on the right lobe distal half.",
+    "lobe_sweep_trajectory": "Strong convex curvature along the leading edges sweeping outward and upward toward the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Extensive detection of dark, circular, and ovoid pixel clusters (rosettes) distributed across the white fields of both lobes, suggesting significant barnacle colonization history.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Presence of multiple circular scar patterns across the ventral surface and a notably irregular, jagged segment on the trailing edge of the right lobe distal tip.",
+  "other_distinctive_markers": null
+}

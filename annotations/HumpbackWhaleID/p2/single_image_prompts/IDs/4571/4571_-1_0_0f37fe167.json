@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast between black peripheral regions and white/yellowish central regions. Visible pixel distribution roughly 35% low-intensity (black/dark brown) and 65% mid-to-high intensity (yellow/white).",
+    "spatial_color_mapping": "Central region dominated by contiguous brownish-ochre geometric blobs. Perimeters of these blobs are bordered by high-intensity white pixels. Numerous low-intensity, roughly circular focal spots (1-4 pixel radius) are distributed non-uniformly across the entire fluke surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated angle of approximately 50-55 degrees and a bounding-box depth relative to the lobes of approximately 1/4 of the visible fluke height.",
+    "edge_topography_serration_map": "High-frequency serration with high-amplitude variations. Peaks and valleys along the boundary range from 2 to 15 pixels in depth, creating an extremely irregular, jagged linear boundary.",
+    "lobe_sweep_trajectory": "Symmetrical concave curve fitted to the trailing edges, sweeping upward from the median notch toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense spatial clusters of circular, high-contrast pixel groupings (dark brown/black spots) distributed across both lobes, likely corresponding to past barnacle colonization sites.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extremely jagged and irregular trailing edge suggesting significant tissue erosion or trauma. Extensive circular scarring patterns across the ventral surface.",
+  "other_distinctive_markers": "Highly distinctive yellowish-brown/ochre pigmentation covering approximately 60% of the visible ventral area, contrasting with standard white/black phenotypes."
+}

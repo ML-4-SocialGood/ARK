@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High intensity-to-low intensity ratio (approximately 85:15) with a dominant high-intensity white central field and low-intensity black margins.",
+    "spatial_color_mapping": "Contiguous high-intensity white/light-gray field across >80% of the visible fluke surface. A distinct low-intensity black perimeter band (approx. 5-15 pixels wide) follows the trailing and lateral edges. Sparse, low-intensity focal spots (dark gray/black) are distributed non-uniformly across the central and right lobe regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an estimated interior angle of 105 degrees and a vertical bounding-box depth approximately 6% of the total vertical fluke span.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations present along the entire trailing edge boundary. Significant pixel-level jaggedness and material loss (peaks and valleys) concentrated at the terminal distal tips.",
+    "lobe_sweep_trajectory": "Concave mathematical curve extending from the median notch to the distal tips, indicating a wide, swept-back wing geometry."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 8-12 localized, low-intensity circular pixel clusters (dark spots) corresponding to rosette-style scarring, primarily clustered in the lower-central region and mid-right lobe.",
+    "linear_abrasions": "Two distinct, low-intensity diagonal linear pixel disruptions (rake marks) observed on the right lobe, intersecting the otherwise uniform high-intensity field."
+  },
+  "acquired_anomalies_or_scars": "Irregular chipping and loss of material observed at the far lateral margins (tips) of both the left and right lobes.",
+  "other_distinctive_markers": null
+}

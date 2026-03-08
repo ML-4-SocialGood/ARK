@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 30% high-intensity white pixels concentrated at the distal lateral margins versus 70% low-intensity black pixels across the central and proximal surface.",
+    "spatial_color_mapping": "Distinct high-contrast white patches with internal black mottling are mapped to the distal lateral regions of both lobes; the central area and the region surrounding the median notch consist of solid, low-intensity black pixels."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep U-shaped notch with an approximate angle of 45 degrees and a bounding-box depth approximately 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitude peaks and valleys along the entire trailing edge; serrations appear deeper and more irregular on the left lobe compared to the right.",
+    "lobe_sweep_trajectory": "Concave sweep along the trailing edge leading to sharp, upward-pointing lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of roughly circular, high-contrast, textured pixel clusters (barnacles) localized at the extreme lateral tips of both lobes.",
+    "linear_abrasions": "Multiple distinct white linear marks; one prominent diagonal abrasion is visible on the lower-left quadrant of the left lobe, with several thinner horizontal rake marks distributed across the central black regions."
+  },
+  "acquired_anomalies_or_scars": "Heavy barnacle colonization at the lateral tips and multiple linear rake-mark scars on the ventral surface pigmentation.",
+  "other_distinctive_markers": "Highly unique 'spatter' pattern of white pigmentation on the distal third of each lobe, contrasting sharply with the solid black central regions."
+}

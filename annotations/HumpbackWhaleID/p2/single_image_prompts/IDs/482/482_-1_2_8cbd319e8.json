@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) across >90% of visible pixels with highly localized high-intensity (white) clusters at distal tips and mid-surface.",
+    "spatial_color_mapping": "Solid dark pigmentation across both lobes with discrete white focal points (scars/barnacles) at coordinates corresponding to the distal tips and scattered across the inner surface area."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a sharp interior vertex dividing the two symmetric lobes.",
+    "edge_topography_serration_map": "High-frequency, irregular saw-tooth serrations with high pixel amplitude variation along the entire trailing boundary of both lobes.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge leading to elevated, tapered distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Scattered circular high-intensity pixel clusters visible on the dark interior surface of both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Dense, high-contrast yellowish-white clusters localized at the distal tips of both lobes, consistent with barnacle colonization.",
+  "other_distinctive_markers": null
+}

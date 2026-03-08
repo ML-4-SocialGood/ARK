@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level distribution exhibits approximately 60% high-intensity white pixels and 40% low-intensity black pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Contiguous low-intensity black region occupies the central area and leading edge, branching towards the distal tips. High-intensity white regions dominate the posterior-lateral sections of both lobes, punctuated by small black islands and linear markings."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "Trailing edge shows continuous low-amplitude serrations; peak-to-valley frequency is higher on the distal thirds of both lobes compared to the medial sections.",
+    "lobe_sweep_trajectory": "Trailing edges demonstrate a consistent convex curve from the central notch region to the tapered lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dark, roughly circular pixel clusters are detected primarily at the terminal distal edge of the left lobe.",
+    "linear_abrasions": "Significant detection of dark, unaligned linear pixel disruptions: approximately 7 distinct parallel-adjacent marks on the left lobe and 5 shorter marks on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive linear rake mark scarring present on both ventral lobes; significant irregular jagged texture at the tip of the left lobe consistent with trauma or heavy colonization.",
+  "other_distinctive_markers": null
+}

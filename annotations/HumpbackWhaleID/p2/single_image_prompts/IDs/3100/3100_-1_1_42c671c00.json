@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low intensity (black) pixels dominate >95% of the surface area; high intensity (white) pixels are localized to <5% as sparse, discrete speckling.",
+    "spatial_color_mapping": "Primary dark contiguous mass across both lobes. Secondary features consist of sparse, non-contiguous high-intensity white spots (mottling/speckling) distributed across the central and outer regions of the visible fluke surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with an estimated interior angle of 60-70 degrees; bounding-box depth is approximately 20% of the lobe height.",
+    "edge_topography_serration_map": "Continuous irregular serrations along the trailing edge boundary; left lobe displays a higher frequency of small-amplitude jagged peaks; right lobe boundary is partially obscured by foreground occlusion.",
+    "lobe_sweep_trajectory": "Concave trailing edge curvature leading to sharp, tapered tips extending laterally and upward."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple small, roughly circular high-contrast white pixel clusters (speckles) distributed across the black surface area, concentrated near the lower-center of the fluke.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Significant occlusion of the right fluke tip and portions of the right lobe by a blurry, out-of-focus foreground object (pink/dark mass)."
+}

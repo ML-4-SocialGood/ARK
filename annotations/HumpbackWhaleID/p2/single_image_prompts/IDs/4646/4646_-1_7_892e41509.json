@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) surface with approximately 15% high-intensity (white) pixels localized at the distal tips and along portions of the trailing edge.",
+    "spatial_color_mapping": "Vast central low-intensity (black/dark grey) region. High-intensity (white) mottling and contiguous geometric patches localized at the extreme distal tips (left and right). Discrete high-contrast circular clusters concentrated at the terminal edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped central depression with a calculated pixel angle of approximately 52 degrees and a bounding-box depth relative to lobe height of 1:4.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (peaks < 10 pixels) across 80% of the boundary. Notable deep irregularities and larger indentations located on the inner-third of the left lobe trailing edge.",
+    "lobe_sweep_trajectory": "Complex sigmoidal curve; concave trajectory immediately following the median notch, transitioning to a broad convex sweep towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense spatial clusters of high-contrast, roughly circular white-on-black pixel groups concentrated on the outer distal edges of both lobes, corresponding to barnacle attachment sites.",
+    "linear_abrasions": "Two distinct parallel dark-on-white linear disruptions (rake-like marks) visible on the high-intensity patch of the upper-left distal lobe tip."
+  },
+  "acquired_anomalies_or_scars": "Prominent irregular notch/missing tissue section on the upper trailing edge of the left lobe; extensive distal barnacle colonization and associated white scarring patterns on both tips.",
+  "other_distinctive_markers": "A singular, isolated high-contrast dark circular spot (focal point) located in the upper-right distal region, surrounded by high-intensity pixel mottling."
+}

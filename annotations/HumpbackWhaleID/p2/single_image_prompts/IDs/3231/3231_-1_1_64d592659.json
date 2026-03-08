@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominance of low-intensity black pixels across approximately 70% of the visible surface area, with high-intensity white regions comprising approximately 30%, primarily localized in a large contiguous region on the left lobe.",
+    "spatial_color_mapping": "The left lobe contains a large, high-contrast white region starting from the medial area extending to the lateral edge, punctuated by dark linear mottling. The right lobe is predominantly black with low-density white pixel clusters localized near the trailing edge and distal tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A deep, narrow V-shaped depression with an approximate pixel angle of 42 degrees and a bounding-box depth equivalent to roughly 12% of the visible vertical span of the lobes.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations are visible across the entire trailing edge boundary, with more pronounced pixel-depth variations (peaks) observed on the medial section of the right lobe.",
+    "lobe_sweep_trajectory": "Strong convex curve along the distal edges of both lobes, tapering sharply into narrow tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-intensity circular pixel clusters are clearly visible and localized at the extreme distal tips of both the left and right fluke lobes.",
+    "linear_abrasions": "Numerous low-intensity (dark) linear tracks are visible on the high-intensity (white) patch of the left lobe; conversely, high-intensity (white) linear scratches are detected on the low-intensity (black) surface of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Barnacle encrustations localized at lobe tips and extensive linear rake marks crossing the ventral pigmentation.",
+  "other_distinctive_markers": null
+}

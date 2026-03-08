@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 60:40 ratio of high-intensity white pixels to low-intensity black pixels across the visible fluke surface.",
+    "spatial_color_mapping": "Contiguous black pigmentation at the central notch and along the trailing edge; white regions dominate the outer lobes with significant black speckling and mottling at the boundaries."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Symmetrical V-shaped notch with an interior angle of approximately 85 degrees.",
+    "edge_topography_serration_map": "Continuous irregular serration along the trailing edge with pixel-level peaks and valleys ranging from 5 to 15 pixels in amplitude.",
+    "lobe_sweep_trajectory": "Convex curve trajectory from the median notch extending to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast beige/white clusters visible at the distal tips of both the left and right lobes, indicating localized barnacle colonization.",
+    "linear_abrasions": "Faint horizontal grey linear marks detected within the white intensity region of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Localized biological encrustation (barnacles) at both distal tips; irregular serration profile suggests cumulative minor edge trauma.",
+  "other_distinctive_markers": "Distinctive high-frequency speckle pattern transition between the black central region and white lateral regions."
+}

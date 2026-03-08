@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level high-contrast distribution with approximately 65% low-intensity (black/dark grey) pixels and 35% high-intensity (white/light grey) pixels visible on the ventral surface.",
+    "spatial_color_mapping": "Bilateral asymmetry. The right lobe features a concentrated high-intensity (white) patch at the distal tip containing small, circular low-intensity (dark) focal points. The left lobe displays a broader high-intensity distribution characterized by integrated linear low-intensity streaks."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated pixel angle of approximately 48 degrees; the absolute vertex is obscured by water-surface pixel noise.",
+    "edge_topography_serration_map": "Continuous jagged boundary across both lobes. The right lobe displays larger-amplitude irregularities (notches), particularly one significant indentation on the upper distal edge. The left lobe displays higher-frequency, lower-amplitude serrations.",
+    "lobe_sweep_trajectory": "Both lobes exhibit an upward convex sweep trajectory moving distally from the midline to the fluke tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple high-contrast circular white pixel clusters located within the central low-intensity region, notably three distinct spots adjacent to the right side of the median notch.",
+    "linear_abrasions": "Series of dark, unaligned linear pixel disruptions traversing the high-intensity white field of the distal left lobe region."
+  },
+  "acquired_anomalies_or_scars": "Deep, irregular secondary notch on the distal trailing edge of the right lobe; high-texture, dark clusters at the extreme tips of both lobes indicative of external colonization.",
+  "other_distinctive_markers": null
+}

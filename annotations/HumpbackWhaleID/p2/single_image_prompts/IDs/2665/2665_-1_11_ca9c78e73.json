@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels dominate the lateral lobes (approx. 65%), while low-intensity black pixels are concentrated along the trailing edge and central peduncle region (approx. 35%).",
+    "spatial_color_mapping": "Contiguous high-intensity white blobs cover the interior of both lobes; dense black mottling and focal spots are distributed along the superior trailing edge and the central medial area branching from the peduncle."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with an estimated pixel-based interior angle of 52 degrees and a bounding-box depth extending approximately 18% into the fluke height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serration across the entire trailing edge; right lobe (image-right) exhibits more pronounced, jagged peaks compared to the relatively smoother left lobe margin.",
+    "lobe_sweep_trajectory": "Double-curved sigmoidal trajectory; lobes show a convex sweep from the lateral tips inward, transitioning to a sharp concave inflection at the approach to the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct dark circular pixel clusters (potential barnacle attachment scars) are visible on the white ventral surface of the right lobe near the trailing edge and lower central margin.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Notable dark pigmentation irregularities and potential minor tissue indentations along the trailing edge of the right lobe tip; small dark extension (possible debris or parasitic growth) visible on the trailing edge of the left lobe.",
+  "other_distinctive_markers": "Presence of a dark, filamentous object (likely kelp or organic debris) dangling from the trailing edge of the left lobe near the -0.4 coordinate position."
+}

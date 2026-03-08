@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio of high-intensity pixels to low-intensity pixels; surface is approximately 90% dark gray/black with 10% high-intensity white detail concentrated in localized scars and abrasions.",
+    "spatial_color_mapping": "Primary ground is a contiguous low-intensity dark gray to black region. High-contrast white pixels are mapped as thin, linear features (abrasions) and small, circular focal spots (scars) randomly distributed across the entire 2D fluke surface, with no macro-scale geometric white pigmentation blobs."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a calculated internal pixel angle of approximately 50 degrees and a vertical bounding-box depth of approximately 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations along the primary trailing edge. Notable macro-topographic anomaly present as a significant jagged indentation/notch on the right lobe trailing edge.",
+    "lobe_sweep_trajectory": "Outer trailing edges exhibit a concave sweep towards the distal tips, which are sharply pointed and oriented upwards relative to the central fluke axis."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Numerous circular high-contrast white pixel clusters (0.5% to 2% of fluke area) concentrated heavily on the right lobe and near the distal tips, characteristic of barnacle attachment points.",
+    "linear_abrasions": "Dense network of multi-directional, unaligned linear white pixel disruptions (rake marks) varying in length and thickness, most prominent on the medial and lateral regions of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "A significant irregular notch or tissue deficit on the trailing edge of the right lobe. Distinctive white-on-black horizontal parallel line scarring ('ladder' pattern) on the upper right lobe. High-intensity calcified clusters (barnacles) visible at the extreme distal tips of both lobes.",
+  "other_distinctive_markers": "A series of three distinct, vertically stacked horizontal rake marks on the upper right lobe, adjacent to the trailing edge notch."
+}

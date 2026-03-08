@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low-intensity (black) pixels comprise approximately 65% of the visible surface, concentrated in the central and medial regions, while high-intensity (white) pixels comprise approximately 35%, localized to the distal lobe sections.",
+    "spatial_color_mapping": "Contiguous high-intensity (white) regions are mapped to the outer third of both left and right lobes. These areas contain high-frequency low-intensity (black) mottling. The central 2/3 of the fluke is a contiguous low-intensity (black) blob containing approximately 45 discrete high-intensity circular clusters."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped vertex angle of approximately 105 degrees; bounding-box depth extends approximately 12% into the fluke's vertical axis from the trailing edge peaks.",
+    "edge_topography_serration_map": "The continuous linear boundary exhibits high-frequency serrations with a pixel-amplitude of 3-8 pixels at the distal tips. The medial boundaries between the tips and the notch show 5-7 distinct macro-undulations with a pixel-amplitude of 15-25 pixels.",
+    "lobe_sweep_trajectory": "Mathematical fitting indicates a strong convex curve along the posterior trailing edge of both lobes, tapering to acute distal vertices."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density spatial detection of roughly circular high-contrast pixel clusters (white on black) across the central-left and central-right dark regions, ranging from 4 to 12 pixels in diameter.",
+    "linear_abrasions": "Detection of multiple unaligned, fine-width (1-2 pixels) white linear disruptions; notable horizontal parallel tracks (rake marks) are visible in the lower-right black quadrant."
+  },
+  "acquired_anomalies_or_scars": "A significant jagged structural deformity and irregular dark protrusion are visible at the extreme left distal tip; extensive circular scarring is present across the entire ventral pigmentation.",
+  "other_distinctive_markers": "The density of circular rosette-style scarring is exceptionally high, creating a distinct high-contrast textured pattern within the low-intensity pixel regions."
+}

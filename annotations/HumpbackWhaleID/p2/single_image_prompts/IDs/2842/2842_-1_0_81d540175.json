@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Dominance of low-intensity pixels (dark grey/black) representing >90% of the fluke surface area, with high-intensity white peaks localized to scar tissue and water turbulence at the peduncle.",
+    "spatial_color_mapping": "Solid low-intensity dark field across both lobes. Right lobe contains a localized constellation of mid-to-high intensity circular pixel rings (rosettes) in the medial-distal region. Left lobe shows sparse, low-contrast grey pixel mottling."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch; calculated internal angle is approximately 110 degrees with a depth of roughly 12% of the total lobe height.",
+    "edge_topography_serration_map": "Left lobe trailing edge is predominantly smooth with low-frequency micro-variations. Right lobe trailing edge exhibits a series of 3-5 distinct, medium-amplitude notches (irregular serrations) between the median notch and the distal tip.",
+    "lobe_sweep_trajectory": "Strong convex curve along the anterior leading edges; the trailing edges follow a predominantly concave sweep from the median notch to the outer tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast detection of approximately 7-9 circular or ring-shaped pixel clusters on the mid-section of the right lobe, consistent with barnacle attachment scars.",
+    "linear_abrasions": "Single faint, diagonal low-contrast linear mark detected on the medial lower quadrant of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Presence of multiple circular rosette scars on the right lobe surface and asymmetric jagged indentations on the right lobe's trailing edge boundary.",
+  "other_distinctive_markers": "High-intensity white saturation at the fluke-peduncle insertion point due to water splash, obscuring skin texture in that specific region."
+}

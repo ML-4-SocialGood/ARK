@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70% low-intensity (dark gray/black) to 30% high-intensity (white/light gray) across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Contiguous high-intensity white patch located on the medial-to-distal region of the right lobe; irregular white mottling concentrated along the trailing edge of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible acute V-shaped depression at the fluke center, estimated at 50 degrees with a moderate pixel depth relative to the lobe span.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations (peaks) visible along the trailing edge of the right lobe; the left lobe trailing edge displays lower-frequency undulations partially obscured by motion blur.",
+    "lobe_sweep_trajectory": "Convex curve trajectory observed on the outer edges of both visible lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-contrast white circular pixels visible on the medial right lobe and a dense grouping at the distal tip of the right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular protrusion at the distal tip of the right lobe, featuring high-contrast white/textured pixel clusters indicating localized trauma or dense barnacle colonization.",
+  "other_distinctive_markers": null
+}

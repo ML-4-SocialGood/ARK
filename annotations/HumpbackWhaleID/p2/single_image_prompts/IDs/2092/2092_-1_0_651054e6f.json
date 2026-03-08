@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixels with sparse, localized high-intensity (white) points. Macro-level ratio is heavily weighted towards low-intensity pixels (approx. 95% dark coverage).",
+    "spatial_color_mapping": "Contiguous dark-gray/black region across the entire surface area with discrete, isolated, roughly circular high-contrast blobs (mottling) scattered asymmetrically across both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped central depression with a sharp vertex angle approximately 40-45 degrees from the horizontal midline.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations across the entire continuous boundary; notable jagged peaks and valleys with extreme irregularity concentrated at the distal lobe tips.",
+    "lobe_sweep_trajectory": "Symmetrical upward and outward sweep from the median notch, following a curve that is slightly convex near the center and transitioning to concave toward the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 14 high-contrast, light-colored circular pixel clusters (ranging 5-15 pixels in diameter) scattered across the mid-section of both fluke lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Pronounced irregular morphology and suspected tissue loss at both lateral tips, exhibiting significant pixel-level jaggedness inconsistent with standard biological growth.",
+  "other_distinctive_markers": null
+}

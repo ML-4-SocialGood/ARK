@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly mid-to-low intensity grey and black pixels (approx. 65%) contrasted against high-intensity white specular glare and pigment patches (approx. 35%).",
+    "spatial_color_mapping": "High-intensity white regions concentrated along the upper-trailing edges of both lobes; dense dark-grey and black mottling localized in the central and lower-axial regions of the fluke."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped indentation with a calculated interior angle of approximately 70 degrees and a vertical depth comprising roughly 15% of the total fluke height.",
+    "edge_topography_serration_map": "Irregular serration across the continuous boundary; left lobe shows high-frequency, low-amplitude peaks; right lobe trailing edge is smoother until the distal tip, which features larger, jagged serrated peaks.",
+    "lobe_sweep_trajectory": "Concave trailing edge curvature on both lobes transitioning to convex terminal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple small, roughly circular high-contrast white pixel clusters (rosettes) distributed across the lower-central and lower-right fluke surface.",
+    "linear_abrasions": "Several distinct, high-intensity white linear disruptions (rake marks) oriented vertically and diagonally across the left lobe's pigmented surface."
+  },
+  "acquired_anomalies_or_scars": "Notable orange-brown discoloration and irregular tissue geometry at the far-left fluke tip, indicating potential bio-fouling or previous physical trauma.",
+  "other_distinctive_markers": "Significant specular glare/overexposure on the upper-right quadrant of the fluke surface which masks finer-grain pixel textures in that localized region."
+}

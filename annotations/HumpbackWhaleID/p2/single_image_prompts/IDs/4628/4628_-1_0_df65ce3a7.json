@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio; approximately 45% high-intensity white/off-white pixels centrally and 55% low-intensity black pixels along the periphery.",
+    "spatial_color_mapping": "Large central white polygonal region with irregular borders. A distinct, high-contrast white circular feature is isolated within the black distal region near the upper right boundary."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression visible on the left-most boundary of the visible lobe, estimated at approximately 50 degrees.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the upper horizontal boundary with pixel amplitudes ranging from 4 to 10 pixels in depth.",
+    "lobe_sweep_trajectory": "Convex curve visible along the lower leading edge boundary."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Tan and brown textured pixel clusters located on the far left leading edge margin, exhibiting a rough, non-uniform spatial distribution.",
+    "linear_abrasions": "Single prominent vertical dark linear disruption (rake-like) extending from the upper black margin into the central white patch."
+  },
+  "acquired_anomalies_or_scars": "A highly distinct, circular white feature or perforation located in the black pigmentation near the distal tip of the lobe.",
+  "other_distinctive_markers": "The geometric precision of the circular white ROI in the distal black region is the primary unique identifier."
+}

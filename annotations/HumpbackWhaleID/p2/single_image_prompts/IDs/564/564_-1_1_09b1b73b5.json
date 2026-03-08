@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 2:3 ratio of high-intensity white pixels to low-intensity black/dark-grey pixels across the visible ventral surface.",
+    "spatial_color_mapping": "High-intensity contiguous white patches on the distal lateral margins of both lobes. Central medial region and areas adjacent to the trailing edge are dominated by low-intensity pixels with significant small-scale mottling and speckling transitions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an acute angle of approximately 22 degrees and a depth-to-width ratio of approximately 1:2 relative to the notch opening.",
+    "edge_topography_serration_map": "High-frequency, irregular sawtooth edge with approximately 12-14 distinct peaks per lobe and variable pixel amplitudes ranging from 5 to 20 pixels from the mean edge baseline.",
+    "lobe_sweep_trajectory": "Convex curvature observed on the superior trailing margins of both lobes, tapering to irregular contours at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Left lobe: one distinct circular low-intensity ring with a high-intensity center in the upper white quadrant. Right lobe: several discrete, small circular high-contrast spots scattered across the medial and distal high-intensity regions.",
+    "linear_abrasions": "Three distinct, sub-parallel low-intensity linear streaks visible in the high-intensity white region of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Irregular, high-contrast structural clusters and pixel-level contour disruptions at both distal tips; evidence of structural irregularity at the lobe extremities.",
+  "other_distinctive_markers": "Significant high-intensity pixel noise caused by water spray and splashing, partially obscuring the lower central boundary of the fluke surface."
+}

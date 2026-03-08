@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low-intensity pixels (black/dark grey) dominate approximately 90% of the fluke area, with high-intensity pixels (white/light grey) localized in discrete spots and linear marks creating high local contrast.",
+    "spatial_color_mapping": "A continuous low-intensity black field serves as the base. Distinct high-intensity white circular blobs (approximate diameter 10-20 pixels) are non-uniformly distributed across both lobes. Dense high-intensity pixel clusters are mapped specifically to the distal tips of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with a calculated interior angle of approximately 52 degrees, extending downward to about 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (2-6 pixel depth) along the trailing boundary. The right lobe inner margin exhibits three distinct larger semi-circular indentations (notches).",
+    "lobe_sweep_trajectory": "A predominantly concave curve along the trailing edge that transitions to a sharp convex curve at the tips, forming a tapered, hooked profile."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatially discrete white circular clusters (barnacle colonization) are visible: 4 prominent clusters on the left lobe mid-section and 5 on the right lobe mid-section, with high-density aggregation along the outer distal margins.",
+    "linear_abrasions": "Distinct high-contrast linear pixel disruptions on the right lobe, including a primary vertical line (approx. 80 pixels in length) and a secondary diagonal line intersecting it."
+  },
+  "acquired_anomalies_or_scars": "A prominent white cross-shaped (X-pattern) scar is located on the upper quadrant of the right lobe; significant calcified barnacle clusters are visible on the extreme outer edges.",
+  "other_distinctive_markers": "Parallel vertical white linear streaks near the base of the median notch, contrasting sharply with the surrounding dark pigmentation."
+}

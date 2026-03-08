@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio with approximately 75% high-intensity white pixels in the central regions and 25% low-intensity black pixels along the perimeter and lateral tips.",
+    "spatial_color_mapping": "Dominant high-intensity central zone bounded by low-intensity trailing edges. Lateral tips exhibit dense, complex low-intensity mottling. The left lateral tip shows a marbled pixel distribution, while the right lateral tip contains clustered dark blobs interspersed with small high-intensity circular zones."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Narrow V-shaped depression with an approximate 28-degree internal angle and high vertical depth relative to the fluke width.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the entire trailing edge. Notable jagged irregularity on the far left lateral boundary. The right trailing edge exhibits smaller, more uniform pixel-amplitude variations.",
+    "lobe_sweep_trajectory": "Convex upper boundary curve that tapers to narrow points at the lateral extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular and ovoid high-contrast clusters detected on the right fluke lobe near the lateral tip, characterized by light centers with dark outer rings.",
+    "linear_abrasions": "Parallel linear pixel disruptions (rake marks) observed on the left lobe, trending diagonally from the center towards the lower-left boundary. Fainter horizontal linear disruptions visible on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant scarring on the right lateral tip including barnacle attachment sites; rake marks present across both fluke lobes.",
+  "other_distinctive_markers": "Metadata overlay present in the lower quadrant of the frame: JAC98-57/01, ID 10406, JOHN CALAMBOKIDIS, S# N1-32, 06 Oct 98 Point St. George."
+}

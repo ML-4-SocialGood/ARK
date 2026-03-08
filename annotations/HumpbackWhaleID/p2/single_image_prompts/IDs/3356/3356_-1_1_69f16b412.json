@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity (white) surface area (~85%) with a low-intensity (black) peripheral border and median region (~15%).",
+    "spatial_color_mapping": "Two large contiguous high-intensity white blobs forming the primary lobe surfaces. Dark low-intensity banding follows the entire trailing edge. A vertical dark pixel column is centered at the median notch, extending slightly into both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped indentation with an interior angle of approximately 105 degrees; notch depth occupies roughly 1/12th of the total vertical extent of the fluke.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (peaks/valleys) along the continuous linear boundary. Amplitude is most pronounced at the distal tips, transitioning to smoother topography near the median notch.",
+    "lobe_sweep_trajectory": "Convex leading edge trajectory; trailing edge follows a broadly convex curve that tapers to sharp, jagged points at the lateral extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of at least five circular low-contrast spots on the left lobe and several dark pixel clusters concentrated at the extreme distal tips.",
+    "linear_abrasions": "Three distinct, near-parallel dark linear streaks oriented diagonally on the lower-mid section of the right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Jagged, irregular dark accumulations at the extreme lateral tips consistent with barnacle colonization or localized tissue erosion; distinctive dark spot located roughly 10% from the median notch on the right lobe.",
+  "other_distinctive_markers": "Highly defined, thick black border along the entire trailing edge that exhibits variable thickness, peaking in width at the mid-lobe sections."
+}

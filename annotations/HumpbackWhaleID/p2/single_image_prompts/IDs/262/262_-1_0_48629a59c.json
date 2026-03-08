@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 85:15 ratio of high-intensity (white/light-grey) to low-intensity (black/dark-grey) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Dominant high-intensity white field across medial and lateral regions; low-intensity black pigmentation concentrated in a continuous perimeter band (10-40 pixels wide) along the trailing edge and distal tips; scattered dark-pixel focal points (mottling) distributed across the lobe interiors."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated interior pixel angle of approximately 55 degrees and a bounding-box depth representing ~15% of the total fluke vertical span.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude irregular serration map; pixel-amplitude variations range from 5 to 25 pixels, forming a jagged, saw-tooth profile along the entire trailing boundary.",
+    "lobe_sweep_trajectory": "Bi-lobed structure exhibiting a broad convex sweep from the median notch that transitions into a slight concave curve leading to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast clusters of roughly circular high-intensity anomalies (barnacle colonization) localized on the extreme left and right distal tips; secondary dark-on-white circular pockmarks scattered across the mid-lobe surface.",
+    "linear_abrasions": "Multiple dark-toned, unaligned linear pixel disruptions (rake marks) detected; notably a series of vertical marks in the lower-central region and diagonal markings on the mid-left lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Extensive biological encrustations (barnacles) on both distal tips; irregular trailing edge topography suggests cumulative minor tissue loss or structural wear.",
+  "other_distinctive_markers": null
+}

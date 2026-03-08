@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 90:10 ratio of high-intensity white pixels to low-intensity black pixels on the visible ventral fluke surface.",
+    "spatial_color_mapping": "Dominant contiguous high-intensity white field across both lobes. Low-intensity black pigmentation is confined to a continuous thin margin along the trailing edge and dense, irregular pixel clusters at the lateral distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with an approximate aperture of 85 degrees and a moderate bounding-box depth relative to lobe width.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude irregular serrations (peaks and valleys) visible along the entire linear boundary of the trailing edge.",
+    "lobe_sweep_trajectory": "Asymmetrical sweep; the right lobe exhibits a strong convex curvature towards the distal tip, while the left lobe displays a flatter, slightly convex profile before occlusion by water splash."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": "Detection of faint, brownish-grey linear pixel disruptions on the central-right lobe surface, oriented roughly parallel to the longitudinal axis of the fluke."
+  },
+  "acquired_anomalies_or_scars": "Distinctive dark, comb-like vertical striations on the far right distal tip, indicating localized pigmentation irregularity or healed trauma.",
+  "other_distinctive_markers": "Significant pixel occlusion and high-intensity specular highlights caused by water spray at the fluke-peduncle junction, masking approximately 15 percent of the lower central fluke area."
+}

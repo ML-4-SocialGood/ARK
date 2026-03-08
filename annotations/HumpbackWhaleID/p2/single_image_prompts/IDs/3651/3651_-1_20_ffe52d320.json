@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 85% high-intensity (white) pixels across the primary surface area, contrasted against 15% low-intensity (dark) pixels localized to the trailing edge perimeter and peduncle insertion.",
+    "spatial_color_mapping": "Primary white contiguous mass across both lobes. Dark-intensity pigmentation forms a continuous border along the trailing edges and terminal tips. A high-contrast dark region is localized at the inferior central junction (peduncle). Discrete circular dark spots are mapped to the distal portion of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with a measured pixel angle of approximately 55 degrees and a bounding-box depth of approximately 16% of the lobe height.",
+    "edge_topography_serration_map": "High-frequency serrations along the trailing edge with pixel-amplitudes ranging from 4 to 15 pixels. Irregular peak-to-valley spacing is more pronounced on the medial half of the right lobe.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a moderately concave curve transitioning from the notch toward the distal tips; outer tips show a convex, tapering trajectory."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular dark pixel clusters on the left lobe distal section. High-intensity, irregular pixel rosettes (consistent with barnacle attachment points) are visible at the extreme tips of both lobes.",
+    "linear_abrasions": "Dense mapping of dark, unaligned linear pixel disruptions. Significant parallel diagonal rake marks are visible on the left lobe; multiple intersecting linear marks are distributed across the medial and distal right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive linear scarring (rake marks) across the entire visible ventral surface. The right distal tip shows irregular, non-linear pixel clusters and jagged geometric deviation.",
+  "other_distinctive_markers": "Two prominent, isolated dark circular spots on the distal-mid portion of the left lobe."
+}

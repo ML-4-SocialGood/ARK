@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface with a contrast ratio heavily skewed towards black pixels (>95%) with sparse, high-intensity (white) localized clusters.",
+    "spatial_color_mapping": "Contiguous black mapping across both lobes. High-intensity white patch mapping at the lower-left proximal base. Discrete circular high-intensity coordinates (white spots) distributed across the central and lateral fields of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with an estimated interior angle of approximately 45 degrees relative to the lobe base-line.",
+    "edge_topography_serration_map": "High-frequency, non-uniform serration with multiple jagged peaks and valleys; specific high-amplitude indentation visible on the inner trailing edge of the right lobe.",
+    "lobe_sweep_trajectory": "Convex curvature along the trailing edge with a steep upward sweep toward the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular high-contrast pixel clusters detected. Left lobe shows a linear alignment of three white circular spots. Right lobe displays several ring-shaped scars (dark centers with white perimeters).",
+    "linear_abrasions": "Faint, thin white linear streaks detected on the left lobe, oriented roughly 45 degrees to the horizontal axis."
+  },
+  "acquired_anomalies_or_scars": "Dense clusters of high-intensity, irregular geometric shapes (barnacles) detected at the lateral tips and lower left margin. Significant irregular chipping and tissue loss along the trailing edge boundary.",
+  "other_distinctive_markers": "Unique ring-shaped scar located in the upper-mid region of the right lobe."
+}

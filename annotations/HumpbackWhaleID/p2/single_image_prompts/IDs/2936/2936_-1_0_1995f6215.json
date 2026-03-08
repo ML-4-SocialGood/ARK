@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level distribution shows a 70/30 ratio of high-intensity white pixels to low-intensity black pixels across the visible surface.",
+    "spatial_color_mapping": "Primary high-intensity white lobes. A significant low-intensity (black) contiguous region is centered at the insertion point. Low-intensity pigmentation follows the trailing edge of both lobes, with a significantly higher density and width on the right lobe. One prominent vertical low-intensity linear feature is mapped to the mid-section of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped depression with an obtuse angle and low bounding-box depth relative to the overall horizontal span.",
+    "edge_topography_serration_map": "Continuous, irregular serrated boundary along the trailing edge with pixel-amplitude variations of 3-8 pixels; the right lobe edge displays more frequent and jagged peaks compared to the smoother serrations on the left lobe.",
+    "lobe_sweep_trajectory": "Asymmetrical sweep; the left lobe follows a predominantly convex arc towards the distal tip, whereas the right lobe exhibits a more pronounced concave curvature along its trailing edge boundary."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-intensity pixels detected within the low-intensity pigmentation of the right lobe's trailing edge, resembling fragmented clusters.",
+    "linear_abrasions": "One prominent, high-contrast, dark curvilinear vertical disruption on the high-intensity surface of the left lobe. Multiple faint, horizontal dark striations mapped to the distal half of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "A distinct, large, curved linear scar on the left lobe; irregular jagged chipping on the distal trailing edge of the right lobe.",
+  "other_distinctive_markers": "Pronounced pigmentation asymmetry characterized by a significantly wider and more irregular band of low-intensity pixels along the right lobe trailing edge compared to the left."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity pixel distribution (estimated >95% black/dark grey) with sparse high-intensity white punctate regions.",
+    "spatial_color_mapping": "Contiguous dark-intensity field covering the majority of the visible surface area; high-contrast white focal points (circular blobs) are concentrated primarily in the central-right coordinate quadrant."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped indentation at the central convergence of lobes; estimated internal pixel angle of 55 degrees.",
+    "edge_topography_serration_map": "Non-linear trailing boundary characterized by medium-frequency, low-amplitude serrations (peaks and valleys) most distinct along the right lobe edge.",
+    "lobe_sweep_trajectory": "Convex trailing edge curvature originating from the median notch and extending towards distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distributed high-contrast white circular pixel groups (diameter <10px) visible on the right lobe surface.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Large, irregular, dark-toned three-dimensional masses at both distal tips of the fluke lobes, creating significant deviation from a smooth geometric boundary.",
+  "other_distinctive_markers": "White-water splash pixels (occlusion) at the base of the fluke near the insertion point, obscuring the peduncle interface."
+}

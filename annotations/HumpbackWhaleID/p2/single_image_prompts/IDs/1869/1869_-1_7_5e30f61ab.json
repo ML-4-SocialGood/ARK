@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark-grey) pixels covering >90% of the visible surface area, with sparse, high-intensity (white) linear and punctate pixel disruptions providing a high local contrast ratio.",
+    "spatial_color_mapping": "Contiguous black/dark-grey field across the entire fluke surface. High-contrast white markings are non-contiguous, appearing as disorganized linear segments and small circular points localized primarily in the central and lower-left regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, V-shaped central depression with an approximate internal angle of 50-60 degrees, bisecting the two fluke lobes at the vertical centerline.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge. Visible pixel-amplitude variations indicate a sequence of sharp peaks and shallow, rounded valleys, with one prominent deep indentation on the inner-left lobe trailing edge.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edges transitioning to sharp, upward-curving distal tips. The leading edge (partially visible) suggests a convex trajectory toward the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Highly textured, high-contrast clusters of roughly circular, raised pixel groups localized at the distal tips of both lobes, suggesting calcified colonization.",
+    "linear_abrasions": "Numerous unaligned, multi-directional white linear pixel disruptions (rake marks) of varying lengths, most densely concentrated on the lower-left and central-inner portions of the fluke."
+  },
+  "acquired_anomalies_or_scars": "Prominent irregular notch/missing tissue section on the trailing edge of the left lobe; dense textured clusters (barnacles) localized at the extreme lateral tips of both lobes.",
+  "other_distinctive_markers": "A series of three distinct, parallel vertical white scratches located just to the left of the median notch."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 40% high-intensity (white/mottled) pixels at the distal ends versus 60% low-intensity (black/dark grey) pixels in the central and basal regions.",
+    "spatial_color_mapping": "Dominant low-intensity contiguous area spanning the center and peduncle insertion. Distal lobes exhibit high-intensity white fields (XY coordinates approximately [0-20%, 30-70%] for left lobe and [80-100%, 30-80%] for right lobe) with dense internal speckling of low-intensity pixel clusters."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a measured interior angle of approximately 65 degrees and a bounding-box depth equivalent to roughly 12% of the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "High-frequency, non-uniform serration pattern; left lobe exhibits deep primary notches at the midpoint; right lobe shows a more continuous sequence of smaller jagged peaks (2-5 pixel amplitude) along the linear boundary.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a strong convex curvature leading from the median notch toward the distal tips; leading edges show a distinct concave taper."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Two distinct circular high-contrast white pixel clusters located in the lower-central dark field; high-density cluster of calcified, high-relief structures (barnacle colony) localized at the extreme left distal tip.",
+    "linear_abrasions": "A series of 5-6 parallel, low-intensity linear streaks (rake marks) oriented horizontally across the upper white patch of the left lobe; visible vertical striations near the right tip."
+  },
+  "acquired_anomalies_or_scars": "Extreme structural irregularity and possible amputation/necrosis at the far left tip, characterized by a bulbous, textured protrusion; irregular, jagged erosion of the trailing edge on the right lobe distal to the median notch.",
+  "other_distinctive_markers": "Unique 'zebra-stripe' high-contrast vertical patterning at the transition between the white distal field and the dark central field on the leftmost lobe edge."
+}

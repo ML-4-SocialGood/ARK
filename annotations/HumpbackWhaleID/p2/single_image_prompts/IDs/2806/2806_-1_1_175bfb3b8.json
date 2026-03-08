@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 70:30 ratio of low-intensity (black/dark grey) to high-intensity (white/light grey) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Large contiguous white patches are centered on both the left and right lobes, bordered by a dense black periphery. There is significant 'peppered' mottling (small black pixel clusters) within the white regions, particularly near the median notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated interior angle of approximately 68 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations present along the entire trailing edge. The amplitude of these peaks is highest on the distal one-third of both lobes, appearing as sharp, jagged protrusions.",
+    "lobe_sweep_trajectory": "Strong upward and outward sweep; the trailing edge follows a complex convex curve from the notch to the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, circular high-contrast white pixel clusters (consistent with barnacle colonization) located at the extreme distal tips of both the left and right lobes.",
+    "linear_abrasions": "Distinct dark linear marks visible; one prominent diagonal rake mark across the right lobe white patch and several shorter, shallower horizontal abrasions on the left lobe patch."
+  },
+  "acquired_anomalies_or_scars": "Notable irregular notches and missing tissue segments along the trailing edge, particularly on the outer margin of the left lobe, indicating historic mechanical trauma.",
+  "other_distinctive_markers": "Presence of spherical water droplets/spray across the foreground of the fluke, creating localized specular highlights."
+}

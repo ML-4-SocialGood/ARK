@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.08:0.92 ratio of high-intensity (white) to low-intensity (black/dark-gray) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Primary macro-region is a contiguous low-intensity dark field; high-intensity white annular and circular blobs (radius 3-10 pixels) are mapped primarily to the distal half of both lobes, with the highest density in the upper-right quadrant."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped central depression with a calculated angle of approximately 32 degrees and a bounding-box depth equivalent to ~15% of the total vertical fluke span.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the continuous linear boundary; pixel-amplitudes of variations range from 4 to 22 pixels relative to the mean edge curve.",
+    "lobe_sweep_trajectory": "Bilateral convex curves originating at the median notch and sweeping toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Numerous circular and annular high-contrast white pixel clusters distributed across the central and outer lobe surfaces, consistent with barnacle detachment sites.",
+    "linear_abrasions": "Distinct white linear pixel disruptions (rake marks) oriented roughly parallel to the trailing edge on the right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Extensive high-intensity, textured calcareous clusters (barnacle colonization) localized on the extreme distal tips of both the left and right lobes.",
+  "other_distinctive_markers": "High-intensity white pixel cluster localized at the center-bottom of the fluke near the peduncle attachment point."
+}

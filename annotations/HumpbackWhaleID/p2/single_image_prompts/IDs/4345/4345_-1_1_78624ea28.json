@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Highly skewed toward low-intensity (black/dark grey) pixels, with high-intensity (white) pixels comprising less than 10% of the visible fluke surface area, primarily concentrated in linear and punctate disruptions.",
+    "spatial_color_mapping": "A continuous dark field across both lobes. Distinct high-contrast white linear streaks are clustered on the left lobe, extending diagonally from the lower mid-section toward the trailing edge. Punctate white circular nodes are scattered across the lateral surfaces of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute, deep V-shaped indentation with a sharp vertex at the centerline of the fluke.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude irregular serrations (saw-tooth pattern) along the entirety of the trailing edge, with increased amplitude and jaggedness on the distal portions of both lobes.",
+    "lobe_sweep_trajectory": "Concave trailing edge profile with a sharp, upward convex sweep at the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple small, circular, high-contrast white clusters (approx. 2-5 pixel diameter) distributed across both lobes, with higher density observed near the outer margins.",
+    "linear_abrasions": "Set of prominent, intersecting, and parallel white linear scars localized on the left ventral lobe, with varying orientations and lengths (roughly 50-150 pixels in length at current resolution)."
+  },
+  "acquired_anomalies_or_scars": "Extensive linear scarring (rake marks) on the left lobe; significantly irregular and jagged trailing edge topography suggesting cumulative physical wear or trauma.",
+  "other_distinctive_markers": "A non-biological rectangular identification label at the bottom of the frame containing the text: 'JAC99-51/82 ID 13590 JOHN CALAMBOKIDIS S# N2-8 10 Oct 99 WA/BC'."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low global contrast; visible ventral surface is predominantly composed of low-intensity (dark) pixels with high-intensity (white) pixels limited to less than 3% of the total surface area.",
+    "spatial_color_mapping": "Contiguous low-intensity distribution across 97% of the visible area; isolated, non-contiguous high-intensity pixel clusters (mottling) localized exclusively at the distal tips and sporadically along the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped notch with a calculated interior pixel angle of approximately 42 degrees, dividing the lobes symmetrically.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations detected along the right lobe trailing edge; left lobe trailing edge displays lower frequency serrations with localized occlusion near the peduncle junction due to water surface interaction.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a distinct concave curvature transitioning to tapered, pointed distal tips oriented in an upward sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of localized, high-contrast white circular pixel clusters (approximate diameter 3-7 pixels) situated at the distal tips and along the trailing edge vertices.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Irregular tissue loss and jagged pixel-level deviations from a smooth curve along the trailing edge perimeter, likely representing healed trauma or significant barnacle attachment sites.",
+  "other_distinctive_markers": null
+}

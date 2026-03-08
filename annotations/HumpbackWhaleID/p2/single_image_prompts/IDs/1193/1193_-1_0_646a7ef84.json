@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity; estimated ratio of approximately 1:18 high-intensity (white/glare) to low-intensity (dark pigmentation) pixels.",
+    "spatial_color_mapping": "Contiguous low-intensity (black) distribution across 95% of the visible surface area; high-intensity pixel clusters are restricted to the extreme distal tips and specular reflections from water."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a calculated interior angle of approximately 45 degrees and a deep bounding-box penetration into the fluke body.",
+    "edge_topography_serration_map": "Continuous irregular serrations with a frequency of approximately 12-15 detectable peaks per lobe and a pixel-amplitude variation of 3-10 pixels.",
+    "lobe_sweep_trajectory": "Bi-lateral concave sweep along the trailing edge leading to the median notch; outer distal lobes exhibit a sharp convex turn."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced jagged asymmetry and pixel-level fragmentation at the distal lobe tips, especially the left-most edge."
+}

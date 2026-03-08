@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Highly asymmetric ratio; approximately 90-95% low-intensity (black/dark grey) pixels with 5-10% high-intensity (white/light grey) pixels primarily localized in focal scars and distal tips.",
+    "spatial_color_mapping": "Dominant contiguous dark pigmentation across the entire fluke surface. Discrete, high-contrast white annular rings (approx. 10-20 pixels in diameter) are distributed non-uniformly across both lobes. High-intensity, high-density pixel clusters are located at the extreme lateral tips (0,y and max_x,y coordinates)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with an approximate 50-degree internal angle and a depth of roughly 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern across the trailing edge, characterized by stochastic peaks and valleys with amplitudes ranging from 3 to 12 pixels.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge leading to acute, slightly upward-tapering lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Extensive mapping of circular and semi-circular high-contrast white rings (rosettes) scattered across the ventral surface, most prominent on the mid-left and lower-right lobes.",
+    "linear_abrasions": "Several distinct, unaligned high-intensity linear streaks; notably a vertical mark on the inner left lobe and multiple short diagonal scratches on the upper right lobe."
+  },
+  "acquired_anomalies_or_scars": "Dense clusters of high-intensity, irregular geometric structures (barnacles) localized at the extreme distal tips of both the left and right lobes; numerous circular depigmentation sites (rosettes) across the fluke surface.",
+  "other_distinctive_markers": "Pronounced jagged protrusion on the right-most tip caused by a concentrated cluster of high-intensity, three-dimensional pixel structures."
+}

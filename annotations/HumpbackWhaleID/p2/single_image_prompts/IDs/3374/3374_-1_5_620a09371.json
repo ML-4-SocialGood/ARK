@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:5 white-to-black pixel ratio across the visible ventral fluke surface; high-intensity pixels are predominantly confined to the distal lobe tips.",
+    "spatial_color_mapping": "Significant white contiguous region on the left distal tip containing dark internal mottling. Smaller, isolated white region on the right distal tip near the trailing edge corner. The central 80% of the fluke width is comprised of uniform low-intensity dark pixels."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "Highly irregular trailing edge boundary with continuous micro-serrations. Right lobe displays at least three distinct V-shaped notches (~8-15 pixel depth). Left lobe displays a coarser, more jagged linear boundary with irregular pixel oscillations.",
+    "lobe_sweep_trajectory": "Concave mathematical curve fitted to the trailing edge of both lobes, transitioning to slightly rounded distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Concentrated brownish-rust colored pixel cluster at the apex of the right distal tip. Multiple small white circular pixel clusters (~2-4px diameter) localized along the distal third of the right lobe trailing edge.",
+    "linear_abrasions": "Faint, vertical low-contrast gray pixel tracks visible on the medial-dark section of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Visible brownish-orange biological growth/protrusion at the extreme right tip. Deep irregular notched defect on the trailing edge of the right lobe approximately 65% of the way from the center to the tip.",
+  "other_distinctive_markers": "Distinct high-contrast boundary between the solid dark pigment and the white-mottled tips."
+}

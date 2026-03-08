@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Highly skewed toward low-intensity (black/dark-gray) values, with an approximate 95:5 ratio of dark to light pixels.",
+    "spatial_color_mapping": "Sparse, high-contrast white micro-blobs (mottling) distributed across both lobes; a higher density of localized high-intensity pixel clusters is visible on the right lobe compared to the left."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with an acute vertex angle approximately between 60-70 degrees.",
+    "edge_topography_serration_map": "Highly irregular serration pattern with frequent, low-to-medium amplitude jagged peaks (3-10 pixel depth) across the entire continuous boundary.",
+    "lobe_sweep_trajectory": "Lobe trailing edges exhibit a broadly convex curve with sharp distal tapering toward the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Widespread detection of small, circular high-contrast white pixel clusters across the dark ventral field, likely representing barnacle attachment points or scars.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Notable jagged indentation and missing tissue segments on the far left distal tip; irregular, non-uniform serration on the right distal tip suggests previous traumatic interactions.",
+  "other_distinctive_markers": "Unique salt-and-pepper distribution of white punctate marks against a near-uniform dark background."
+}

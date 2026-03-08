@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast; approximately 65:35 ratio of high-intensity (white) to low-intensity (black) pixels across the visible ventral area.",
+    "spatial_color_mapping": "Large central black contiguous region bifurcating into the notch; flanked by high-intensity white lobes. High-frequency black stippling/mottling present in the transition zone on the left lobe; more sparse, isolated black clusters present on the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Obtuse V-shaped notch with a calculated angle of approximately 105 degrees; depth is roughly 15% of the total vertical bounding box of the fluke.",
+    "edge_topography_serration_map": "Irregular serration pattern; left lobe trailing edge exhibits low-amplitude peaks (approx. 2-5 pixels); right lobe trailing edge exhibits higher-amplitude, irregular jagged peaks (approx. 5-12 pixels) particularly adjacent to the notch area.",
+    "lobe_sweep_trajectory": "Convex trajectory on the outer leading edges; the trailing edge exhibits a slight S-curve convexity transitioning to concavity near the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of irregular circular pixel groups (barnacles) localized at both distal fluke tips; approximately 15-20 distinct units on the left tip and 10-15 on the right tip.",
+    "linear_abrasions": "Three distinct parallel vertical linear disruptions (rake marks) observed on the mid-left lobe white field; one diagonal linear disruption observed on the lower right lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant barnacle colonization on both fluke terminals; multiple vertical rake marks on the left ventral surface.",
+  "other_distinctive_markers": "The heavy concentration of barnacles specifically at the extreme tips creating a distinct bulbous silhouette at the terminals."
+}

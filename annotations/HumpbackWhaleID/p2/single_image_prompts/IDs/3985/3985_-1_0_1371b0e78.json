@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixels with sparse high-intensity (white) clusters, estimated at a 90:10 ratio across the visible surface.",
+    "spatial_color_mapping": "High-contrast white circular clusters scattered across both lobes; contiguous high-intensity white region at the lower fluke base where it meets the water line."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency irregular serrations visible along the trailing edges of both lobes, characterized by varying pixel amplitudes and sharp valleys.",
+    "lobe_sweep_trajectory": "Convex trajectories for both lobes; the right lobe displays a higher vertical sweep angle in the 2D coordinate space relative to the left lobe."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Significant detection of localized, circular white pixel clusters (rosettes) distributed across the dark ventral field, particularly on the left lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive white scarring at the fluke-peduncle insertion point; visible indentation or minor tissue loss at the tip of the left fluke lobe.",
+  "other_distinctive_markers": null
+}

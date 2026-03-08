@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast ratio (~85:15) with dominant high-intensity white across the interior surface and low-intensity black at the distal tips and trailing edge boundary.",
+    "spatial_color_mapping": "Primary contiguous high-intensity white zone covering 90% of the visible ventral area. Discrete low-intensity black geometric bands mapping to the trailing edge and distal tips. Minimal low-intensity focal spotting observed near the peduncle attachment point."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a calculated vertex angle of approximately 55 degrees and a deep vertical bounding-box penetration.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge boundary. Amplitude of peaks varies between 5-12 pixels with a higher frequency of valleys on the right lobe distal section.",
+    "lobe_sweep_trajectory": "Left lobe exhibits a steep convex upward curve; right lobe displays a shallower convex trajectory with localized flattening toward the distal tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Cluster of dark, roughly circular pixels detected at the extreme distal tip of the left lobe and smaller clusters along the right lobe tip margin.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Visible vertical crack-like pixel disruption extending from the notch vertex towards the center of the fluke body."
+}

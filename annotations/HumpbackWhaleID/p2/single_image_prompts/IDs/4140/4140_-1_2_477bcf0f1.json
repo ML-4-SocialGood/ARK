@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The visible surface is predominantly low-intensity (black) with a low contrast ratio; high-intensity (light grey/white) pixels are restricted to less than 10% of the surface area at the distal margins.",
+    "spatial_color_mapping": "High-contrast light-grey contiguous clusters are localized at the extreme upper-left and upper-right distal margins; the central and medial regions consist of a uniform, low-intensity black pigmentation."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A central V-shaped depression is visible with an approximate pixel angle of 85 degrees and a shallow bounding-box depth.",
+    "edge_topography_serration_map": "Low-frequency, irregular serrations are present along the trailing edge, with higher pixel-amplitude variations (jaggedness) concentrated at the distal terminals of both lobes.",
+    "lobe_sweep_trajectory": "The trailing edge exhibits a slightly convex trajectory extending from the median notch toward the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, high-contrast pixel clusters (white on black) are visible at the far distal tips, consistent with localized scarring.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Irregular erosion and ragged contouring are visible on the lateral edges of both fluke lobes.",
+  "other_distinctive_markers": null
+}

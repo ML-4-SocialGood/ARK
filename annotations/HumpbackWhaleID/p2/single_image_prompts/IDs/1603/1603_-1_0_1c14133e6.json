@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65:35 ratio of low-intensity (black/dark gray) pixels to high-intensity (white) pixels across the visible ventral surfaces.",
+    "spatial_color_mapping": "Large contiguous white patch located on the distal third of the left lobe, tapering toward the midline. The right lobe displays a smaller white band along the trailing edge. Deep black pigmentation dominates the central fluke region and leading edges, with dark mottling present within the white patches."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations with sharp peaks and deep valleys visible on the distal trailing edge of the left lobe; right lobe trailing edge appears more rounded with lower-amplitude variations.",
+    "lobe_sweep_trajectory": "Left lobe exhibits a strong convex leading edge and a jagged, predominantly concave trailing edge trajectory. Right lobe trajectory is partially obscured by water spray."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of circular, high-relief pixel groups (barnacles) concentrated on the tip of the left lobe; scattered dark circular spots within the white pigmentation of both lobes.",
+    "linear_abrasions": "A single, distinct diagonal linear pixel disruption (scratch) is visible in the white field of the left lobe, extending from the dark pigmentation boundary toward the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization on the distal tip of the left lobe; irregular, possibly traumatic jagged profile along the trailing edge boundary.",
+  "other_distinctive_markers": "Numerical timestamp '9 3 '03' in orange-hued pixels located in the lower-right quadrant of the image."
+}

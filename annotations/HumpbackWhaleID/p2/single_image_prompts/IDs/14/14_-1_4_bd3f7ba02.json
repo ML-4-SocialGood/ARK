@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Bimodal distribution with a ratio of approximately 13:7 high-intensity (white) pixels in the central regions to low-intensity (black) pixels along the perimeter and median notch.",
+    "spatial_color_mapping": "Two primary contiguous high-intensity (white) ellipsoidal regions situated in the center of the left and right lobes; bounded by a low-intensity (black) border extending from the trailing edge. Multiple low-intensity focal spots (<10px) are distributed non-uniformly within the high-intensity regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a vertex angle of approximately 50 degrees and a vertical bounding-box depth equivalent to ~18% of the maximum lobe height.",
+    "edge_topography_serration_map": "High-frequency serration along the continuous linear boundary; peak-to-valley pixel amplitude varies between 3 and 7 pixels, with more pronounced jaggedness on the right lobe distal margin.",
+    "lobe_sweep_trajectory": "Convex curve originating from the median notch, transitioning to a slight concavity toward the distal tips, forming a standard sigmoid-like sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of low-intensity (dark) circular pixel clusters on the distal portion of the right lobe and lower-central region of the left lobe.",
+    "linear_abrasions": "Set of three distinct, parallel low-intensity linear tracks (rake marks) oriented at a ~45-degree angle across the central-left lobe pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Visible rake marks on the left lobe; irregular pigmentation erosion and notch-like deformations along the trailing edge of the right lobe.",
+  "other_distinctive_markers": "Significant asymmetric low-intensity pigmentation encroachment on the right lobe trailing edge compared to the relatively thin border on the left lobe."
+}

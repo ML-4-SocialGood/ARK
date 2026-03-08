@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with low-intensity (black) pixels occupying ~70% of the central and anterior fluke surface, contrasted with high-intensity (white/grey) pixels occupying ~30% in posterior-lateral regions.",
+    "spatial_color_mapping": "Solid low-intensity (black) pigmentation across the fluke core and leading edges. The left lobe contains a white high-contrast region with embedded dark linear streaks. The right lobe contains a broader white high-contrast region with multiple scattered dark focal spots."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch with a calculated internal angle of approximately 105 degrees and a bounding-box depth approximately 1/6th of total fluke height.",
+    "edge_topography_serration_map": "Continuous irregular serration along the trailing edge with low-amplitude peaks (~5-10 pixels) and irregular coarse protrusions at the lateral lobe terminals.",
+    "lobe_sweep_trajectory": "Trailing edge exhibits a consistent convex curvature from the median notch to the lateral tips, with a pronounced posterior sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of small, dark, roughly circular pixel focal points visible against the high-intensity white background of the right lobe; irregular dark clusters (barnacles) are attached to both distal tips.",
+    "linear_abrasions": "Multiple parallel, dark diagonal linear disruptions (rake marks) on the high-intensity white portion of the left lobe; single short vertical mark on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent external barnacle clusters attached to the lateral-most points of both lobes; distinct linear rake marks visible on the left lobe's ventral pigmentation.",
+  "other_distinctive_markers": "The distal tips of both lobes exhibit irregular, protruding biomass (barnacles) that breaks the smooth geometric contour of the fluke edges."
+}

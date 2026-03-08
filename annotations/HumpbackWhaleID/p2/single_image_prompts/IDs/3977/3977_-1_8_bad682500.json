@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white core regions contrast with low-intensity black perimeter borders; approximate macro-distribution ratio is 65% high-intensity to 35% low-intensity.",
+    "spatial_color_mapping": "Low-intensity (black) contiguous bands located along the entire trailing edge and distal tips; high-intensity (white) central surfaces exhibit isolated low-intensity circular pixel clusters on the mid-left lobe and distal right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped indentation at the central axis with an approximate internal pixel angle of 40 degrees and a depth of roughly 15% of the total lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular saw-tooth topography with peak-to-valley amplitudes varying between 2-8 pixels across the continuous boundary, particularly dense on the outer lobes.",
+    "lobe_sweep_trajectory": "Convex leading edges with a symmetrical posterior-lateral trajectory; the trailing edge maintains a generally concave curvature towards the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of two distinct low-intensity circular clusters on the left ventral surface and one on the right distal tip, contrasting against the high-intensity background.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive irregular serrations along the trailing edge consistent with accumulated minor tissue loss or structural weathering.",
+  "other_distinctive_markers": "Pronounced asymmetry in the width of the black trailing-edge border, which appears significantly thicker and more mottled on the right lobe compared to the left."
+}

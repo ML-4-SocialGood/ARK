@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark grey/black) background with localized high-intensity (white/light grey) pixel clusters; estimated dark-to-light area ratio exceeds 15:1.",
+    "spatial_color_mapping": "Uniform low-intensity base layer across both lobes. High-intensity circular geometric blobs (rosettes) are mapped primarily along the trailing edge margins and distal tips. A single distinct horizontal low-intensity cluster is mapped to the mid-section of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central depression with an estimated internal angle of 45-50 degrees and a vertical depth comprising approximately 12% of the visible lobe height.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serration profile along the entirety of the trailing edge. Pixel variations (peaks/valleys) are most pronounced on the distal third of both lobes, reaching amplitudes of approximately 10-15 pixels.",
+    "lobe_sweep_trajectory": "Convex-tapered curve extending from the median notch toward the distal tips, exhibiting a slight upward orientation at the lateral extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular, high-contrast white pixel clusters detected on the extreme lateral tips and interspersed along the serrated trailing edge of both lobes.",
+    "linear_abrasions": "A single, well-defined horizontal linear dark pixel disruption (rake-like mark) is located in the mid-upper quadrant of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent dark horizontal scar on left lobe; irregular jagged truncation on the right lobe distal tip suggesting previous physical trauma.",
+  "other_distinctive_markers": "High-intensity white pixel noise at the base of the fluke indicates water spray and turbulence, occluding the fluke-peduncle junction."
+}

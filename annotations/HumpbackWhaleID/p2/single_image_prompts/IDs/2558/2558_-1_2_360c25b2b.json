@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels occupy approximately 60% of the visible fluke surface; low-intensity black pixels occupy approximately 40%.",
+    "spatial_color_mapping": "Image-left lobe features a predominantly white field with dense black mottling along the trailing edge and a single distinct dark focal spot. Image-right lobe features a large solid black central region transitioning to a white distal field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an approximate internal angle of 65 degrees.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serration across the entire trailing edge, with significant pixel-level variation caused by attached biological clusters.",
+    "lobe_sweep_trajectory": "General convex curvature from notch to distal tips; sweep is highly irregular and interrupted by three-dimensional protrusions at the lateral boundaries."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Extensive clusters of circular, high-contrast, tan-white pixel groupings (barnacles) localized along the entire trailing edge boundary and both distal lobe tips.",
+    "linear_abrasions": "Fine, dark, unaligned linear pixel disruptions visible on the white field of the image-left lobe."
+  },
+  "acquired_anomalies_or_scars": "Heavy peripheral colonization of barnacle clusters along all visible trailing edge boundaries.",
+  "other_distinctive_markers": "Single, prominent, isolated dark circular pigmentation spot on the central white field of the image-left lobe."
+}

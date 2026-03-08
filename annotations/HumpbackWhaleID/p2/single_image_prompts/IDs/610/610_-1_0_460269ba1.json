@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The surface is dominated by low-intensity pixels (dark grey/black) with approximately 5-8% coverage of high-intensity pixels (white/light grey) forming localized high-contrast anomalies.",
+    "spatial_color_mapping": "Primary pigment is a contiguous dark field. High-contrast white focal clusters are detected on the central-right lobe. Multiple thin, curvilinear high-intensity pixel tracks (rake marks) are mapped across both the left and right ventral quadrants."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central notch forms an obtuse V-shape with an estimated interior angle of 125 degrees and a shallow bounding-box penetration depth.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations characterize the distal thirds of both lobes. The pixel-amplitude of the jagged peaks is most pronounced on the far-left and far-right tips, where the boundary becomes highly irregular and fragmented.",
+    "lobe_sweep_trajectory": "The trailing edge follows an upward concave trajectory from the notch to the tips, while the lower boundary displays a smooth convex curve until reaching the irregular distal terminations."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular/oval high-contrast pixel clusters (approx. 3-10 pixels in diameter) are visible on the right lobe, concentrated in the mid-to-outer region.",
+    "linear_abrasions": "Several distinct, non-aligned linear pixel disruptions (white streaks) are visible; two prominent curved parallel marks on the left lobe and multiple smaller horizontal streaks on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant structural fragmentation and tissue loss on both distal tips, resulting in a shredded or 'fringed' appearance; presence of multiple healed linear rake marks.",
+  "other_distinctive_markers": "The extreme degree of fragmentation on the distal-most edge of the left lobe creates a unique, stringy pixel pattern that deviates significantly from a continuous geometric curve."
+}

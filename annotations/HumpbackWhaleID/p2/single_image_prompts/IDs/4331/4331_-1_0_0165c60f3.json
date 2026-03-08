@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast; approximately 85% high-intensity (white/light grey) pixels in the central region against 15% low-intensity (black) pixels concentrated on the distal tips and trailing edge boundary.",
+    "spatial_color_mapping": "Dominant high-intensity contiguous field across the central and medial regions of both lobes. Symmetrical, low-intensity black bands are mapped to the lateral tips (outer 10% of width) and along the trailing edge. Multiple small, low-intensity circular pixel blobs are scattered stochastically across the high-intensity field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped median notch with an estimated interior angle of 55-65 degrees and a bounding-box depth approximately 12% of the fluke's vertical midline axis.",
+    "edge_topography_serration_map": "Continuous linear boundary exhibiting low-amplitude, high-frequency micro-serrations. The edge is largely intact with no major macro-notches or amputations visible relative to the water background.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a concave sweep leading to the lateral tips; distal tips display an upward and outward convexity (hooked appearance)."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 10-15 discrete, low-intensity circular pixel clusters (2-5 pixels in diameter) scattered across both lobes, consistent with localized scarring or attachment sites.",
+    "linear_abrasions": "Visible dark linear pixel disruptions on the left lobe, including one prominent diagonal scratch and several smaller unaligned marks near the leading edge."
+  },
+  "acquired_anomalies_or_scars": "Presence of multiple small, dark circular scars and several faint linear rake marks/abrasions across the ventral surface.",
+  "other_distinctive_markers": null
+}

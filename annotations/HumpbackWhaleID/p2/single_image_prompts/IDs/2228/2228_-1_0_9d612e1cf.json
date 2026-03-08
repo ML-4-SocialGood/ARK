@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 9:1 ratio of high-intensity white pixels to low-intensity black/dark-grey pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant high-intensity white region across both lobes; low-intensity dark border defining the trailing edge; isolated irregular dark cluster located at the medial base above the notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped notch with an approximate interior pixel angle of 78 degrees and a vertical depth comprising roughly 15% of the visible lobe height.",
+    "edge_topography_serration_map": "High-frequency, non-uniform serration pattern along the entire trailing boundary; pixel-amplitudes vary from 4 to 20 pixels with greater peak density toward the distal lobe tips.",
+    "lobe_sweep_trajectory": "Concave curve profile transitioning from the lateral tips toward the central notch along the trailing edge."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple localized low-intensity circular pixel clusters (3-10 pixels in diameter) on the white surface regions; dense, irregular high-contrast massing (encrustations) present at the extreme distal tips.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive irregular protrusions at the lateral lobe tips consistent with parasitic or barnacle colonization; distinctive asymmetrical dark pigment marking situated centrally near the peduncle junction.",
+  "other_distinctive_markers": "The specific geometric silhouette of the central dark pigment patch at the fluke base provides a unique visual identifier."
+}

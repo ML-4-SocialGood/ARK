@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast; approximately 80% high-intensity white background vs 20% low-intensity black pigmentation clusters across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant white field with dense, localized black circular spots (mottling) distributed primarily in the distal regions; solid black pigmentation is concentrated at the fluke-to-peduncle junction and follows the median notch boundary."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated interior angle of approximately 65 degrees and a bounding-box depth extending roughly 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations visible along the entire trailing edge; pixel-amplitude of peaks and valleys varies between 5-15 pixels, creating a jagged linear boundary.",
+    "lobe_sweep_trajectory": "Convex curve along the leading edge tapering to sharp, pointed distal tips; the trailing edge follows a generally concave path toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Highly visible clusters of light-colored, textured calcified growths (barnacles) localized at the extreme lateral tips of both the left and right lobes.",
+    "linear_abrasions": "Distinct dark linear pixel disruptions (rake marks) oriented diagonally on the left lobe, extending from the mid-section toward the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Localized barnacle colonization at the distal tips; parallel linear rake marks on the left ventral lobe.",
+  "other_distinctive_markers": "Unique asymmetric distribution of black focal spots, with higher density on the right lobe compared to the left mid-section."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 75:25 ratio of high-intensity (white/light gray) to low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Large contiguous high-intensity regions occupy the interior of both lobes, bounded by a thick, continuous low-intensity perimeter. A distinct vertical low-intensity pillar bisects the fluke at the median notch. Sparse low-intensity mottling is distributed across the central high-intensity zones."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated angle of approximately 72 degrees and high vertical depth relative to the fluke chord.",
+    "edge_topography_serration_map": "Continuous high-frequency, low-amplitude serrations along the entire trailing edge boundary. Amplitude of variations increases at the distal tips, particularly the left-most extremity.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a sigmoidal curve, concave near the median notch and transitioning to convex towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-intensity circular pixel groups detected within the low-intensity border regions, most concentrated near the median notch and the interior trailing edge of the right lobe.",
+    "linear_abrasions": "Multiple low-intensity diagonal linear tracks (rake marks) on the left lobe. A singular, distinct curvilinear dark mark is visible on the inner portion of the right lobe near the vertical bisection."
+  },
+  "acquired_anomalies_or_scars": "Presence of a high-chroma reddish-brown pixel cluster attached to the far-left distal tip, inconsistent with fluke pigmentation (likely bio-fouling or entangled organic matter).",
+  "other_distinctive_markers": "Prominent low-intensity vertical stripe originating at the median notch and widening as it descends toward the peduncle junction."
+}

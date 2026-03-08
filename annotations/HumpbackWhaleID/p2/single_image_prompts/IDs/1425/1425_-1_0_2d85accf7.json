@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 60:40 ratio of high-intensity (white) pixels to low-intensity (black/dark grey) pixels across the visible ventral surface; bright values dominate the distal regions, while dark values occupy the medial peduncle area.",
+    "spatial_color_mapping": "Large contiguous white regions on the distal 60% of both lobes; solid black pigmentation concentrated at the central notch and extending along the leading edge; dark punctate mottling scattered throughout the white zones."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, symmetrical V-shaped notch; calculated internal angle of approximately 52 degrees with a vertical depth of ~40 pixels at current resolution.",
+    "edge_topography_serration_map": "Continuous high-frequency serration along the entire trailing boundary; peak-to-valley amplitude varies between 3-12 pixels; serrations appear more jagged and irregular on the distal tips of both lobes.",
+    "lobe_sweep_trajectory": "Sigmoidal curve; subtle concave sweep originating from the median notch transitioning into a broad convex curve toward the pointed lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple low-intensity circular pixel clusters (mottling) distributed across the white fields; one prominent cluster on the mid-left lobe and several smaller clusters on the lower-right lobe.",
+    "linear_abrasions": "At least four distinct, dark, unaligned linear marks (rake marks) visible on the white field of the right lobe, oriented diagonally relative to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Distinct parallel linear rake marks on the right lobe surface; ragged edge topography suggests minor historical tissue loss along the distal trailing margins.",
+  "other_distinctive_markers": null
+}

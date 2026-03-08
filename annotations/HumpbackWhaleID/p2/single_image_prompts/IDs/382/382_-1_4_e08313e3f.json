@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low-intensity (black) pixels dominate approximately 90% of the fluke surface area, with high-intensity (white/off-white) pixels comprising localized clusters representing <10% of total surface area.",
+    "spatial_color_mapping": "Contiguous black base (low-intensity). High-contrast white/cream rosettes and circular clusters concentrated heavily on the distal tips. Scattered circular and linear white pixel clusters distributed across the central and medial regions of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an approximate angle of 45-50 degrees relative to the medial horizontal axis.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitude variations of 10-30 pixels; extreme jaggedness at the distal tips due to bio-protrusions.",
+    "lobe_sweep_trajectory": "Concave curve fitted to the trailing edge from the notch to the mid-lobe, transitioning to a slight convexity towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed white circular clusters at both fluke tips; individual circular ring-like scars visible on the left lobe at central coordinates; scattered smaller white spots across the right lobe.",
+    "linear_abrasions": "One prominent vertical high-contrast white linear mark on the left inner lobe; several faint diagonal and horizontal linear pixel disruptions on the right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization causing major structural irregularities at the distal-most tips of both lobes; visible white rake-like scratches on the ventral surface.",
+  "other_distinctive_markers": "Pronounced biofouling (parasitic clusters) creating a lumpy, non-geometric silhouette at the extreme edges of the lobes."
+}

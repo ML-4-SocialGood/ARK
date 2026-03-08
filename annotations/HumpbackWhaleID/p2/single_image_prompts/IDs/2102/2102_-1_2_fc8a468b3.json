@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast with approximately 45% high-intensity (white/light grey) pixels concentrated in distal regions and 55% low-intensity (black/dark grey) pixels in the central and trailing edge margins.",
+    "spatial_color_mapping": "Distal 50% of both lobes exhibit high-intensity white patches. Left lobe features heavy, irregular dark mottling within the white field. Right lobe shows a more continuous white patch at the tip with discrete dark spots. The central 30% proximal to the notch is solid low-intensity black."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped depression with a calculated angle of approximately 82 degrees and a bounding-box depth extending ~15% into the visible vertical span of the fluke lobes.",
+    "edge_topography_serration_map": "High-frequency serration along the distal two-thirds of the trailing edge with pixel-amplitudes between 5-10 pixels. Serrations are more pronounced and jagged towards the tips, transitioning to smoother, wider undulations toward the median notch.",
+    "lobe_sweep_trajectory": "Outer trailing edges exhibit a distinct concave curve from the median notch transitioning to an upward-swept convex trajectory toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular white ring clusters (Isistius brasiliensis scars) detected; approximately 12 distinct rings on the inner-right dark region and 8 on the inner-left dark region, with diameters ranging from 6-15 pixels.",
+    "linear_abrasions": "Fine, unaligned dark linear disruptions visible against the light pigment on the distal-left lobe, suggesting surface scratches; no wide rake-mark patterns visible."
+  },
+  "acquired_anomalies_or_scars": "Prominent, high-contrast white bulbous clusters (barnacle colonization) are located at the extreme distal tips of both lobes. Extensive circular ring scarring distributed across the ventral mid-section.",
+  "other_distinctive_markers": null
+}

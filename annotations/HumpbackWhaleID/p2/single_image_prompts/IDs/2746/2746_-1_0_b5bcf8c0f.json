@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 40:60 distribution of high-intensity white pixels located at distal extremities to low-intensity black pixels occupying the medial core.",
+    "spatial_color_mapping": "Contiguous high-contrast white regions on the lateral lobes containing small black focal spots; solid black contiguous pigmentation extending from the peduncle to the central notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped notch with an estimated internal angle of 135 degrees and a bounding-box depth of approximately 15 pixels.",
+    "edge_topography_serration_map": "Continuous high-frequency serration along the trailing boundary with irregular pixel amplitudes ranging from 3 to 12 pixels, isolated from the water line.",
+    "lobe_sweep_trajectory": "Convex curve trajectory observed along the posterior margins of the visible fluke lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple dark circular pixel clusters detected within the white pigmentation field of the left distal lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Irregular jaggedness and missing pixel segments along the trailing edge; a distinct dark circular spot/scar is visible on the lower ventral surface of the left lobe.",
+  "other_distinctive_markers": null
+}

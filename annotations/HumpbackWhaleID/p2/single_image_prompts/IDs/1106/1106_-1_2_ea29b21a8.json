@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast; approximately 65% low-intensity (black) pixels in the central region and 35% high-intensity (white/cream) pixels on the distal lobes.",
+    "spatial_color_mapping": "Contiguous low-intensity central region bounded by high-intensity distal lobes. Right distal lobe exhibits dense, low-intensity pixel mottling within the high-intensity field. Left distal lobe shows a cleaner transition with sparse mottling near the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an estimated angle of 18 degrees and a significant bounding-box depth relative to the fluke chord.",
+    "edge_topography_serration_map": "High-frequency serrations with pixel amplitudes ranging from 3 to 12 pixels. Distinct peaks are visible along the entire trajectory, with higher density near the median notch.",
+    "lobe_sweep_trajectory": "Concave curvature along the medial trailing edge transitioning to convex at the distal extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-contrast, circular high-intensity pixels (barnacles) located at the extreme tips of both the left and right lobes.",
+    "linear_abrasions": "A distinct high-intensity vertical linear scar is present on the right-central dark field. Faint horizontal and diagonal linear disruptions are visible across the central low-intensity surface."
+  },
+  "acquired_anomalies_or_scars": "Prominent high-intensity vertical scar on the right lobe; extensive barnacle colonization at both distal tips.",
+  "other_distinctive_markers": "Highly irregular and dense black-on-white mottling pattern on the right lobe tip, contrasting with the more uniform white patch on the left lobe tip."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast ratio; approximately 75-80% of surface area consists of high-intensity white pixels, with low-intensity black pixels concentrated primarily at the peripheral trailing edges and central peduncle junction.",
+    "spatial_color_mapping": "Two primary contiguous white geometric blobs cover the interior of each lobe. A thick, continuous low-intensity black band (approx. 5-10 pixels wide in this resolution) maps the trailing edge. A dark, roughly triangular focal cluster is located at the center-bottom coordinates where the fluke meets the peduncle."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a central vertex angle of approximately 85 degrees; bounding-box depth is pronounced, extending into the mid-section of the fluke structure.",
+    "edge_topography_serration_map": "Irregular serration profile; the left lobe trailing edge exhibits a higher frequency of low-amplitude peaks (saw-tooth pattern), while the right lobe trailing edge presents a more smoothed, undulating topography with fewer distinct pixel peaks.",
+    "lobe_sweep_trajectory": "Trailing edge exhibits a consistent concave sweep from the distal tips toward the median notch; leading edge (partially visible) suggests a convex curve."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A distinctive dark vertical column of pigmentation originates at the peduncle and flares outward into the lower-central region of the fluke surface."
+}

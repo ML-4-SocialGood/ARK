@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.18:0.82 ratio of high-intensity (white/grey) to low-intensity (black) pixels, primarily localized on the right lobe.",
+    "spatial_color_mapping": "Contiguous high-intensity white/grey patch on the right distal lobe area; sparse high-intensity focal spots along the trailing edge; dominant low-intensity black pixels across the central and proximal fluke surfaces."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, irregular serrations visible on the right lobe trailing edge with pixel-amplitude variations of approximately 5-12 pixels; left lobe displays a smoother, lower-frequency topographic profile with distinct notches near the tip.",
+    "lobe_sweep_trajectory": "Convex mathematical curve fitted to both lobe distal boundaries, with a more pronounced upward sweep on the right lobe."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of roughly circular, high-contrast brown/white pixel groups at both distal lobe tips, consistent with heavy barnacle colonization.",
+    "linear_abrasions": "A distinct white, linear pixel disruption (rake mark or scratch) visible on the left lobe, mid-medial region."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle encrustations on the lateral tips of both lobes and significant irregular tissue loss/serration along the right trailing edge.",
+  "other_distinctive_markers": "Pronounced brown/yellow organic accumulation (likely algae/biofouling) integrated with the barnacle clusters on the extreme tips."
+}

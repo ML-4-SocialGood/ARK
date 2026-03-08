@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 75:25 ratio of low-intensity (dark grey/black) to high-intensity (white) pixels; high macro-level contrast with light pixels primarily concentrated at the lateral margins and fluke tips.",
+    "spatial_color_mapping": "Large contiguous low-intensity central region; extensive white mottling and banding along the outer perimeter of both lobes; fine linear high-intensity striations radiating from the peduncle attachment area toward the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with an approximate internal pixel angle of 45 degrees and a bounding-box depth relative to lobe height of approximately 1:6.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with high pixel-amplitude; four distinct major peaks on the left lobe trailing edge and five distinct peaks on the right lobe trailing edge, interspersed with jagged valleys.",
+    "lobe_sweep_trajectory": "Sigmoidal trajectory; initially convex from the median notch, transitioning to a concave mid-section before terminating in convex, upwardly-tilted tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense spatial clusters of high-contrast, roughly circular pixel groupings located at the extreme distal tips of both lobes, suggesting significant barnacle colonization.",
+    "linear_abrasions": "Multiple distinct, unaligned vertical and diagonal white linear pixel disruptions (rake marks) crossing the primary dark pigmentation, particularly visible on the lower-right and lower-left quadrants."
+  },
+  "acquired_anomalies_or_scars": "Extensive irregular tissue topography at the fluke tips and trailing edges; visible white scarring and parasitic encrustations (barnacles) clustered at the distal lobe extremities.",
+  "other_distinctive_markers": "Highly irregular, 'torn' morphology of the distal tips where pixel clusters extend beyond the primary geometric curve of the fluke lobes."
+}

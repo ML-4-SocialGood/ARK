@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 40:60 ratio of low-intensity (black) to high-intensity (white) pixels; dark pixels dominate the central peduncle area and leading edges, while high-intensity pixels occupy the majority of the lateral lobe surfaces.",
+    "spatial_color_mapping": "Large contiguous white geometric regions on the distal surfaces of both lobes. Dense black mottling and stippling present along the leading edge and radiating from the medial notch. Fine-grained dark focal spots are scattered across the white ventral regions of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep U-shaped central depression with a calculated internal angle of approximately 50 degrees; depth is significant relative to total fluke height.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the entire trailing edge; pixel amplitude of peaks varies between 5 and 12 pixels; most pronounced serrations occur on the distal 30% of each lobe's trailing boundary.",
+    "lobe_sweep_trajectory": "Concave curvature fitted to the trailing edge of both lobes, transitioning to sharply tapered, posteriorly-swept tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized dark-pixel clusters (mottling) on the high-intensity white background, particularly visible on the mid-section of the right lobe and near both tips.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Prominent irregular indentation on the outer edge of the left lobe (viewer left), indicative of healed physical trauma or tissue loss at the tip.",
+  "other_distinctive_markers": "Unique vertical linear stippling pattern (dark-on-light) extending from the leading edge toward the center of the right lobe."
+}

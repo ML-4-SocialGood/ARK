@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels dominate approximately 65% of the visible surface, with low-intensity black pixels comprising approximately 35%, primarily concentrated in a dense central cluster and radiating streaks.",
+    "spatial_color_mapping": "Large, low-intensity contiguous dark mass centered at the median notch extending laterally. Numerous high-contrast, vertically-oriented irregular streaks and focal spots are distributed across both lobes, with higher density on the interior lower quadrants."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate pixel angle of 75 degrees and a bounding-box depth relative to the lobe peaks of approximately 15% of the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "High-frequency, irregular pixel-amplitude peaks and valleys along the entire trailing boundary. Most pronounced jagged serrations are located on the distal terminal tips and the inner curves adjacent to the median notch.",
+    "lobe_sweep_trajectory": "Concave curve along the trailing edge leading to convex outer margins, culminating in pointed, slightly upturned distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, localized circular clusters of low-intensity pixels consistent with barnacle attachment points are visible along the distal edges and the lower boundary of the right lobe.",
+    "linear_abrasions": "Several thin, vertically-aligned low-intensity linear disruptions (rake-like features) are detectable on the right lobe, cutting through the high-intensity white background."
+  },
+  "acquired_anomalies_or_scars": "Irregular jagged erosion on the far left distal tip suggests minor historical tissue loss or heavy encrustation impacts.",
+  "other_distinctive_markers": null
+}

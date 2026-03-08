@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio of high-intensity pixels (approx. 5-8%) to low-intensity pixels (approx. 92-95%) across the visible ventral surface; dominant dark-field pigmentation with isolated high-intensity speckling.",
+    "spatial_color_mapping": "Continuous dark-grey/black pigmentation covering the entire visible fluke area. Fine-grained white/light-grey mottling and focal spots are scattered across both lobes, with higher concentrations near the distal tips and trailing edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped central depression with an estimated interior angle of 35 degrees; clearly defined and centered between the lobes.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern across the entire trailing edge boundary. Significant micro-peaks and valleys (pixel-amplitude variations) are visible, particularly on the outer thirds of both lobes.",
+    "lobe_sweep_trajectory": "Concave curvature originating from the median notch, extending to sharp, tapered distal tips; the trailing edge maintains a generally horizontal orientation with slight upward curvature at the extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Numerous localized, roughly circular high-contrast pixel clusters (light grey on black) present across the surface, likely corresponding to barnacle scarring; largest cluster located on the far right lobe tip.",
+    "linear_abrasions": "Faint, unaligned diagonal linear pixel disruptions detected on the right lobe, oriented toward the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Extensive white-tip scarring and pixel degradation along the trailing edge serrations; no major amputations or structural trauma visible.",
+  "other_distinctive_markers": null
+}

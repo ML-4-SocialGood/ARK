@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark-grey) surface area exceeding 90% coverage, contrasted by localized high-intensity (white/light-grey) pixel clusters representing approximately 5-10% of the visible ventral surface.",
+    "spatial_color_mapping": "Contiguous dark-intensity field across both lobes. High-contrast white focal points (circular) and linear streaks (rake marks) distributed across the 2D surface, with a higher concentration of white pixel clusters in the right lateral and lower central regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped central depression with a sharp convergence point; the bounding depth is moderate relative to the total lobe width.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations visible along the entire continuous trailing boundary. Pixel-amplitude of peaks is most pronounced toward the distal tips, with several jagged protrusions exceeding 5-10 pixels in vertical deviation from the mean edge line.",
+    "lobe_sweep_trajectory": "Concave mathematical curve fitted to the trailing edges of both lobes, tapering to acute, pointed distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular white pixel clusters (rosettes) detected; notably a cluster of roughly 4-6 small rings in the lower-right quadrant and individual larger circular spots scattered across the right lobe.",
+    "linear_abrasions": "Numerous unaligned, high-contrast white linear pixel disruptions (rake marks) intersecting the dark pigmentation, primarily oriented diagonally on the right lobe and horizontally on the lower-left lobe."
+  },
+  "acquired_anomalies_or_scars": "Calcified high-intensity white material (barnacle remnants) visible on the extreme outer tips of both lobes; extensive parallel rake marks across the right lobe surface indicating previous physical interaction.",
+  "other_distinctive_markers": null
+}

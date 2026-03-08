@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixels across the visible ventral surface, with high-intensity (white) pixels localized at distal tips and sparse focal scars, representing a high ratio of dark-to-light pixels (approx. 90:10).",
+    "spatial_color_mapping": "Contiguous solid dark grey-black mapping across the majority of the fluke surface; high-contrast white contiguous blobs are restricted to the distal tips (left and right) and a specific circular annulus near the median notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a wide obtuse angle (~125 degrees) and shallow bounding-box depth relative to lobe length.",
+    "edge_topography_serration_map": "Low-frequency, low-amplitude micro-serrations along the central trailing edges; topography becomes irregular and jagged at the distal tips due to high-contrast surface protrusions.",
+    "lobe_sweep_trajectory": "Concave curve fitted to the trailing edges of both lobes, sweeping upwards toward the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density white pixel clusters at both distal tips; one distinct circular white ring (approx. 15-20 pixels in diameter) located left-of-center near the median notch.",
+    "linear_abrasions": "Sparse, unaligned light-grey linear streaks (rake marks) detected on the lower-left lobe and the far-right lobe segment."
+  },
+  "acquired_anomalies_or_scars": "Circular scar (annulus) near the median notch; significant white calcified clusters at the distal fluke tips.",
+  "other_distinctive_markers": null
+}

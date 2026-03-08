@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels constitute approximately 75% of the visible surface, with low-intensity black pixels occupying the remaining 25% primarily along the trailing edges and in localized spots.",
+    "spatial_color_mapping": "Centrally located high-intensity white regions on both lobes. One distinct low-intensity circular spot on the mid-left lobe. Multiple low-intensity vertical linear bands and irregular spots on the right lobe. Low-intensity continuous contour along the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a pixel angle of approximately 38 degrees and a bounding-box depth equal to 12% of the total fluke height.",
+    "edge_topography_serration_map": "Right lobe trailing edge shows high-frequency, sharp-peaked serrations. Left lobe trailing edge shows irregular, rounded serrations with a large indentation near the distal tip.",
+    "lobe_sweep_trajectory": "Leading edges follow an upward-curving concave trajectory; trailing edges exhibit a sigmoidal curve from the deep central notch to the pointed distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast circular pixel clusters (barnacles) located at the distal tips of both lobes; larger cluster on the right tip containing approximately 15-20 individual circular nodes.",
+    "linear_abrasions": "Parallel sets of dark linear pixel disruptions on the right lobe surface; three major vertical lines visible spanning the mid-section to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Significant linear scarring/rake marks on the right lobe; barnacle encrustations on both tips; notable segment missing or indented on the outer left trailing edge.",
+  "other_distinctive_markers": "Single isolated dark circular spot on the left lobe surface at approx coordinate (0.3x, 0.4y) relative to the fluke bounding box."
+}

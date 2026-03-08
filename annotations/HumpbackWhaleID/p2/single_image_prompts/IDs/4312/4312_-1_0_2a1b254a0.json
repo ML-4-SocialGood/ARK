@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 80% high-intensity (white/light gray) to 20% low-intensity (black/dark gray) across the visible surface.",
+    "spatial_color_mapping": "Contiguous high-intensity regions occupy the central portions of both lobes. Low-intensity clusters are mapped as follows: 1) a vertical band concentrated around the median notch; 2) a continuous border along the trailing edges; 3) a distinct focal spot on the mid-left lobe; and 4) a small focal spot on the distal-superior region of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a vertex angle of approximately 50 degrees and a symmetrical depth relative to the lobar width.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations are detected along the distal half of the right trailing edge. The left trailing edge exhibits lower-frequency, shallower variations in pixel topography.",
+    "lobe_sweep_trajectory": "Trailing edges follow a sigmoidal curve, exhibiting concavity near the median notch and transitioning to convexity towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": "A cluster of approximately 7-8 parallel, high-contrast linear pixel disruptions (rake marks) is located on the superior-distal edge of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive rake marks on the right lobe; irregular, jagged margins at the distal tips of both lobes indicating minor tissue loss.",
+  "other_distinctive_markers": "Silhouette of a bird in flight above the right lobe; alphanumeric metadata 'JAC95-27/05 ID 13510' and 'JOHN CALAMBOKIDIS S# N-38' present in the bottom frame area."
+}

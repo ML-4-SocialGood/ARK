@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low macro-level ratio; the surface is predominantly low-intensity (near-black) with sparse high-intensity (white) pixels restricted to barnacle clusters and focal scars.",
+    "spatial_color_mapping": "Uniformly dark contiguous regions across both lobes; high-contrast white focal spots detected at central-right coordinates and high-density textured clusters at the distal fluke tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch with a calculated interior angle of approximately 65 degrees and a high depth-to-width ratio within the central bounding box.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitudes ranging from 5 to 20 pixels along the continuous trailing boundary of both lobes.",
+    "lobe_sweep_trajectory": "Primary trajectory follows a convex curve from the notch, transitioning into a concave sweep toward the upward-turned distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast textured pixel clusters consistent with barnacle colonization located at the extreme distal tips and intermittently along the trailing edge.",
+    "linear_abrasions": "Three distinct, roughly parallel diagonal linear pixel disruptions (rake marks) observed on the upper-right quadrant of the right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Extensive peripheral barnacle encrustation on fluke tips and trailing edges; multiple circular white depigmented scars on the ventral surface; distinct diagonal rake marks on the right lobe.",
+  "other_distinctive_markers": "Heavy localized biofouling at the distal tips creating a ragged, high-intensity perimeter texture contrasting sharply with the smooth dark pigmentation of the main fluke body."
+}

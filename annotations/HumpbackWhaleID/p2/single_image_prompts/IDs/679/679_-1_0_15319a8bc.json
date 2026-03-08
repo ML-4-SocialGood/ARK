@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:5 ratio of high-intensity white pixels to low-intensity black pixels across the visible fluke surface.",
+    "spatial_color_mapping": "Primary black pigmentation covers >80% of the surface; high-contrast white patches are concentrated on the distal half of the right lobe and scattered in small clusters along the trailing edge margins."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Obtuse V-shaped notch with an estimated angle of 115 degrees and a depth ratio of approximately 0.1 relative to total fluke height.",
+    "edge_topography_serration_map": "Irregular serrated boundary with low-amplitude peaks (1-3 pixels) distributed across the entire trailing edge; serrations appear more frequent on the distal ends of both lobes.",
+    "lobe_sweep_trajectory": "Concave curve fitted from the distal tips toward the median notch along the posterior edge."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

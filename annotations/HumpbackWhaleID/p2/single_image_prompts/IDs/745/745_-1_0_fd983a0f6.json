@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70:30 ratio of high-intensity (white) pixels to low-intensity (black) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "High-intensity white pixels form large contiguous blobs on the lateral lobes; low-intensity black pixels are mapped to the trailing edge perimeter and a wide vertical column bisecting the center. Numerous low-intensity linear segments are distributed across the white regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a sharply defined convergence point; depth is approximately 18% of the visible vertical fluke axis.",
+    "edge_topography_serration_map": "Continuous, high-frequency serration pattern along the entire trailing edge boundary; pixel-amplitude of peaks and valleys varies from 3 to 15 pixels relative to the edge baseline.",
+    "lobe_sweep_trajectory": "Primary convex sweep from the base toward the distal tips, terminating in sharp upward-curved points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of localized high-intensity circular pixel groups detected on the extreme distal tips and scattered within the lower central dark pigmentation region.",
+    "linear_abrasions": "Extensive network of dark, unaligned linear pixel disruptions (rake marks) mapped diagonally across both the left and right high-intensity white lobes."
+  },
+  "acquired_anomalies_or_scars": "Distinct rake marks and focal clusters of barnacle colonization visible on the fluke margins and central dark region.",
+  "other_distinctive_markers": "Densely packed high-intensity pixel clusters (water spray/droplets) overlapping the central lower section near the water line."
+}

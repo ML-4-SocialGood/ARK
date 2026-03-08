@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 45:55 high-intensity (white) to low-intensity (black) pixel ratio across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Left lobe contains a large, irregular white geometric blob with internal black speckling; right lobe features a vertical white band tapering towards the superior edge; the central region surrounding the notch is dominated by low-intensity black pixels."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped notch with an estimated pixel angle of 40 degrees and a significant depth-to-width ratio within the central bounding box.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge; includes a prominent deep indentation on the upper-lateral margin of the left lobe and multiple smaller peaks/valleys on the right lobe.",
+    "lobe_sweep_trajectory": "Outer lateral edges exhibit a distinct convex curvature sweeping upwards toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of high-contrast, circular white pixel groups (barnacles) localized at the extreme distal tips of both the left and right fluke lobes.",
+    "linear_abrasions": "Several thin, dark, unaligned linear pixel disruptions (rake marks) are visible traversing the white pigmentation zone on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization at the lobe tips and a highly irregular, possibly damaged trailing edge profile on the left lobe.",
+  "other_distinctive_markers": null
+}

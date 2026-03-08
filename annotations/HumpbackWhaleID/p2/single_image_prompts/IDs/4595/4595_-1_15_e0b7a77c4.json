@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity dark pixels accounting for approximately 98% of the surface area, with sparse high-intensity white pixels forming small clusters.",
+    "spatial_color_mapping": "Uniform dark low-intensity field with discrete, non-contiguous high-contrast white focal points scattered across both lobes; no large-scale geometric banding or mottling is observed."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped notch with a calculated internal angle of approximately 65-70 degrees, creating a symmetrical bifurcation of the central fluke region.",
+    "edge_topography_serration_map": "Continuous boundary exhibiting low-amplitude, high-frequency serrations; a notable increase in pixel-amplitude variation is visible on the distal section of the right lobe.",
+    "lobe_sweep_trajectory": "Trailing edge follows a generally convex curve from the median notch to the terminal tips on both the left and right lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple small, circular high-contrast pixel clusters (1-4 pixel diameter) distributed across the ventral surface, representing localized depigmentation or scarring.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Pronounced irregular, ragged tissue loss on the distal tip of the right lobe; numerous small circular white scars consistent with historical barnacle attachment sites are visible across the surface.",
+  "other_distinctive_markers": "A highly distinctive, jagged necrotic-looking edge on the far right tip of the fluke, characterized by significant irregular pixel-level variations compared to the more uniform left tip."
+}

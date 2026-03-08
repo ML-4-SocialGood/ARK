@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution characterized by a predominantly low-intensity (dark) fluke surface (>85%) and high-intensity (white) localized pixel clusters representing scars and biofouling.",
+    "spatial_color_mapping": "Large contiguous low-intensity dark region across both lobes. Discontinuous high-intensity focal points (circular) and linear streaks are mapped across the surface. Specific high-intensity geometric clusters are located at the distal tips of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a defined vertex; the angle is approximately 110 degrees with a clear vertical depth separating the two fluke lobes.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude micro-serrations along the continuous linear boundary. Distal segments exhibit larger irregular indentations, particularly on the outer lateral margin of the left lobe.",
+    "lobe_sweep_trajectory": "Convex curves fitted to the upper trailing edges, transitioning into tapered, irregular distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of approximately 12 high-contrast circular pixel clusters distributed across the dark field, including a prominent pair of circles on the upper-right lobe.",
+    "linear_abrasions": "Numerous unaligned, high-intensity linear pixel disruptions (rake marks) ranging from 10 to 50 pixels in length, oriented horizontally and diagonally across the fluke surface."
+  },
+  "acquired_anomalies_or_scars": "Heavy high-intensity encrustations (barnacle colonies) present at the extreme distal tips of both lobes. Significant jagged tissue loss/indentation on the lateral edge of the left lobe.",
+  "other_distinctive_markers": "Unique textural density at the fluke tips characterized by multi-layered, high-frequency pixel variations distinct from the smoother intensity mapping of the central fluke body."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.05:1; the fluke surface is dominated by low-intensity black pixels with high-intensity white clusters isolated to the distal tips and sparse linear markings.",
+    "spatial_color_mapping": "Solid black pigmentation across >95% of the fluke area. High-intensity (white) geometric blobs are localized at the extreme lateral coordinates of both lobes. Sparse, multi-directional white linear pixel strings are detected on the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with an estimated interior angle of 75-80 degrees and a vertical bounding-box depth of approximately 60 pixels.",
+    "edge_topography_serration_map": "Continuous irregular trailing boundary with high-frequency serrations; pixel amplitude of valleys ranges from 5 to 20 pixels relative to local maxima; serrations are more pronounced on the left lobe.",
+    "lobe_sweep_trajectory": "Broadly convex curve from the median notch to the mid-lobe, transitioning to a slight posterior recurve at the extreme distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Two high-density clusters of roughly circular, high-contrast white pixel groups (barnacle colonies) located at the lateral-most tips of both lobes.",
+    "linear_abrasions": "Several distinct, non-parallel white linear trajectories (scratches) visible on the left lobe surface, ranging from 15 to 50 pixels in length."
+  },
+  "acquired_anomalies_or_scars": "Heavy barnacle encrustation on both lateral tips; one prominent horizontal white linear mark approximately 50 pixels in length situated on the left lobe near the median notch.",
+  "other_distinctive_markers": "A subtle vertical column of higher-intensity grey pixels extending from the fluke-to-peduncle junction towards the median notch apex."
+}

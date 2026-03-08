@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Highly skewed toward low-intensity values; the visible fluke surface is approximately 95% dark-gray/black with sparse, high-intensity white punctate regions providing high local contrast.",
+    "spatial_color_mapping": "Solid contiguous dark-pigmented surface across both lobes. High-contrast spatial mapping is limited to small, discrete circular white blobs (diameter ~5-15 pixels) scattered sporadically: a cluster is visible in the upper-medial quadrant of the left lobe, with individual points on the central and distal right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute-angled V-shaped depression at the center-point, with clear convergence of the left and right lobe trailing boundaries.",
+    "edge_topography_serration_map": "Extremely jagged and irregular topography. The right lobe trailing edge exhibits high-frequency peaks and valleys (3-8 pixel amplitude). The left lobe trailing edge features a prominent macro-level convex bump near the distal tip followed by irregular indentations.",
+    "lobe_sweep_trajectory": "Pronounced convex curvature along the outer lateral edges of both lobes, tapering toward distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of several circular high-contrast pixel clusters; specifically, a grouping of roughly 5-6 faint white circular marks on the left lobe and 3 distinct high-intensity white spots on the right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Severe irregular indentations and notch-like material loss along the trailing edge of the right lobe distal tip, suggesting significant previous physical trauma or wear.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low white-to-black pixel ratio, estimated at approximately 0.04:0.96. The surface is dominated by high-density, low-intensity (black/dark grey) pixels with very localized high-intensity (white) anomalies.",
+    "spatial_color_mapping": "96% of the surface area is a contiguous dark geometric block. High-intensity pixel clusters are mapped specifically to the distal tips of both lobes and in discrete linear streaks distributed across the medial and lateral regions of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated internal angle of approximately 45 degrees. The notch depth is approximately 15% of the total vertical height of the fluke lobes visible above the waterline.",
+    "edge_topography_serration_map": "Trailing edge displays high-frequency, non-uniform serrations. The right lobe shows higher amplitude 'peaks' (approximately 5-8 pixels in depth) compared to the left lobe, which has a smoother but still irregular topography.",
+    "lobe_sweep_trajectory": "The leading edges exhibit a concave curvature toward the distal tips. The trailing edges follow a broad convex sweep from the tips toward the median notch, interrupted by the serration map."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of high-contrast, circular pixel clusters at the furthest lateral points of both the left and right lobes, concentrated at the tips.",
+    "linear_abrasions": "Numerous unaligned linear pixel disruptions. Prominent vertical/diagonal white lines visible on the left lobe (approx. coordinates middle-left) and shorter, scattered horizontal/diagonal lines on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Multiple white rake marks (linear scars) across both lobes and white barnacle colonization clusters at the distal tips.",
+  "other_distinctive_markers": null
+}

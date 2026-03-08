@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution; approximately 55% high-intensity (white/off-white) to 45% low-intensity (black/dark-gray) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Dominant black pigmentation at the median notch extending along the trailing edges; central lobe regions consist of high-intensity white/light-gray contiguous blobs with significant yellow-tan pixel clusters in mid-lobe zones; dense black mottling and vertical streaks concentrated on the distal lobe tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with an estimated interior angle of 40 degrees; high bounding-box depth relative to fluke width.",
+    "edge_topography_serration_map": "Continuous high-frequency serration along the trailing edge; pixel-amplitude of peaks varies between 5-15 pixels, creating a jagged, irregular boundary isolated from the sea-state background.",
+    "lobe_sweep_trajectory": "Sigmoid curvature; initial convex curve from the median notch transitioning to a linear-to-slightly-concave sweep toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial clusters of high-intensity circular points (~3-8 pixel diameter) located primarily along the distal margins and trailing edge, consistent with barnacle attachment site geometry.",
+    "linear_abrasions": "Distinct dark-pixel linear disruptions; four parallel vertical rake marks on the far-left lobe tip and multiple elongated diagonal lines crossing the right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Prominent parallel rake marks on both lobe tips; extensive yellowish-tan pixel staining across the central ventral lobes likely representing diatom accumulation.",
+  "other_distinctive_markers": "Unique high-intensity white 'splash' pattern on the inner right lobe surrounded by a dense field of black mottling."
+}

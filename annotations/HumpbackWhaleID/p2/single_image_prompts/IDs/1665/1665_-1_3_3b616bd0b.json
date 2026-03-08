@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extreme low-intensity dominance with high-intensity pixels constituting less than 3% of the visible fluke surface, primarily localized to the tips and trailing edge.",
+    "spatial_color_mapping": "Predominantly uniform low-intensity dark gray to black distribution across both lobes; isolated high-contrast pixel clusters are mapped to the distal lobe tips and the immediate periphery of the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped central depression with an estimated obtuse angle of 115 degrees and a moderate bounding-box depth relative to lobe width.",
+    "edge_topography_serration_map": "Continuous high-frequency serration pattern along the entire trailing boundary, with pixel-amplitude variations of 5-15 units; primary jaggedness clustered at the extreme lateral tips.",
+    "lobe_sweep_trajectory": "Symmetrical convex curves sweeping from the median notch toward the distal terminal points of both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of localized high-contrast white pixel clusters at both the far-left and far-right distal tips, with smaller clusters scattered near the trailing edge of the left lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular notch indentation on the trailing edge of the left lobe, positioned approximately mid-way between the median notch and the distal tip.",
+  "other_distinctive_markers": "Pronounced 'tattered' appearance of the distal tips where pixel density shows significant irregular voids along the trailing edge boundary."
+}

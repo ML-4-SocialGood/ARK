@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70:30 ratio of high-intensity white pixels to low-intensity black/dark-grey pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Two primary high-intensity white geometric zones occupying the lateral lobes, bordered by a continuous low-intensity black perimeter. Heavy low-intensity mottling and stippling originate from the central peduncle region, extending outward along the inferior margin of the lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a calculated pixel angle of approximately 85 degrees and a deep bounding-box penetration into the central fluke mass.",
+    "edge_topography_serration_map": "High-frequency, irregular serration profile characterized by multiple sharp peaks and valleys (3-15 pixel amplitude variations) along the entire trailing edge boundary, with increased amplitude toward the distal tips.",
+    "lobe_sweep_trajectory": "Convex curve fitted to the superior trailing edges, transitioning to a sharp angular taper at the distal terminal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct cluster of high-contrast, textured circular pixel nodes located on the extreme distal tip of the right lobe.",
+    "linear_abrasions": "Multiple dark, unaligned linear pixel disruptions (rake-like marks) visible across the medial and lateral white fields of both lobes."
+  },
+  "acquired_anomalies_or_scars": "Notable irregular notch/indentation on the upper-left trailing edge that deviates from the standard serration frequency.",
+  "other_distinctive_markers": "Asymmetrical dark pigmentation 'feathering' where the central black region meets the white lobe surfaces, particularly prominent on the lower interior edge of the left lobe."
+}

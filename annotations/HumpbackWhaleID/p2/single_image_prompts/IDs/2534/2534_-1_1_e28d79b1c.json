@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixel values covering approximately 92-95% of the surface area, with high-intensity (white) pixels limited to peripheral barnacle clusters and scattered surface spots.",
+    "spatial_color_mapping": "Solid dark grey/black substrate. High-contrast white contiguous clusters are mapped to the distal tips and the trailing edges. Sparse, individual high-intensity circular points (1-5 pixels) are distributed across the mid-lobe regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped central depression with an approximate angle of 135 degrees and a vertical depth comprising roughly 10% of the lobe height.",
+    "edge_topography_serration_map": "Continuous boundary showing low-amplitude, high-frequency irregular serrations; jaggedness is most pronounced on the outer thirds of the lobes near the tips.",
+    "lobe_sweep_trajectory": "Convex curve originating from the median notch, transitioning to a slight concavity toward the lateral fluke tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed high-contrast white circular clusters (barnacles) located at the terminal ends of both lobes and along the lower trailing margins. Discrete, isolated white circular marks are visible on the interior ventral surface.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive peripheral barnacle colonization creating high-contrast texture on the fluke margins.",
+  "other_distinctive_markers": "Significant pixel occlusion along the upper trailing edge due to high-intensity white water spray and droplets."
+}

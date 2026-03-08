@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels dominate approximately 92% of the visible ventral area, with low-intensity black pixels localized to the narrow margin of the trailing edge boundary.",
+    "spatial_color_mapping": "Single contiguous high-intensity light-gray/white region covering the entire ventral surface; a continuous, narrow, low-intensity dark band tracks the geometric path of the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Symmetrical V-shaped notch with an approximate internal angle of 115 degrees and a relative pixel depth of approximately 1/10th of the fluke height.",
+    "edge_topography_serration_map": "Continuous irregular micro-serrations with pixel amplitudes ranging from 3 to 12 pixels; serration frequency is highest on the distal one-third of both the left and right lobes.",
+    "lobe_sweep_trajectory": "Trailing edge follows a moderate S-curve sweep, characterized by a concave trajectory originating at the median notch and transitioning to a slight convexity before reaching the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Presence of a low-intensity, thickened irregular deformity at the extreme distal tip of the left lobe, contrasting with the more tapered profile of the right tip.",
+  "other_distinctive_markers": null
+}

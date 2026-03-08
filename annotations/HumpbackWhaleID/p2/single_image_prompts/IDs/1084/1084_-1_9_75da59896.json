@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Visible; high macro-level contrast with approximately 65% low-intensity (black) and 35% high-intensity (white/mottled) pixels distributed across the ventral surface.",
+    "spatial_color_mapping": "High-intensity (white) contiguous mottled regions are located on the distal-lateral portions of both lobes. These regions are bisected by a broad, low-intensity (black) central corridor. The white regions contain fine-scale, vertically oriented low-intensity striations."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated interior angle of approximately 35 degrees and high bounding-box depth.",
+    "edge_topography_serration_map": "High-frequency irregular serration extracted along the entire trailing edge boundary; distinct jagged peaks are visible on the medial portion of the left lobe and the distal portion of the right lobe.",
+    "lobe_sweep_trajectory": "Curve fitted to the lobes shows a concave trajectory immediately lateral to the median notch, transitioning to a strong convexity toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct high-contrast circular pixel clusters detected at both distal tips; the right-hand tip shows a dense, raised 3D texture cluster.",
+    "linear_abrasions": "Multiple unaligned, vertical linear high-contrast disruptions (scratches) are visible across the central black pigmentation of both lobes."
+  },
+  "acquired_anomalies_or_scars": "Significant accumulation of parasitic organisms or physical trauma at the extreme right distal tip, presenting as a raised cluster of white and brownish-orange pixels.",
+  "other_distinctive_markers": "Distinct brownish-orange pigmentation localized on the right-hand tip, deviating from the standard grayscale pixel distribution of the fluke body."
+}

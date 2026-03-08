@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Highly skewed toward low-intensity values (black) with a sparse distribution of high-intensity white pixels (approx. 15% coverage).",
+    "spatial_color_mapping": "Contiguous dark-gray to black base. High-contrast white circular rings and punctate spots are clustered predominantly on the lateral distal regions and scattered across the central fluke surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an approximate 50-degree interior angle and significant bounding-box depth relative to the fluke width.",
+    "edge_topography_serration_map": "Primary edge is relatively smooth with low-amplitude undulations. High-frequency, irregular pixel jaggedness is concentrated at the extreme distal tips where biological protrusions occur.",
+    "lobe_sweep_trajectory": "Concave curvature originating from the median notch, transitioning to a straight diagonal sweep toward the posterior-lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High density of white circular and ring-shaped pixel clusters (ranging from 5 to 20 pixels in diameter) distributed across both lobes, particularly dense on the right lobe's upper quadrant.",
+    "linear_abrasions": "Several short, horizontal high-contrast white linear disruptions visible on the right lobe near the mid-trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Extensive stalked barnacle colonies (biological growths) creating irregular, high-relief geometric profiles at the distal tips of both fluke lobes.",
+  "other_distinctive_markers": "Densely concentrated white 'salt-and-pepper' pixel speckling present at the base of the fluke where it meets the peduncle."
+}

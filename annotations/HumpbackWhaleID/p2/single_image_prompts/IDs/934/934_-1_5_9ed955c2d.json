@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixels across the ventral surface with a high-intensity (white) pixel ratio estimated at approximately 0.04:1.",
+    "spatial_color_mapping": "Homogenous low-intensity black region spanning both lobes, interrupted by high-intensity white linear disruptions at [x:320, y:450] to [x:380, y:520] and circular clusters at [x:200, y:480]."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "U-shaped central depression with a calculated pixel angle of 82 degrees and a bounding-box depth of approximately 45 pixels.",
+    "edge_topography_serration_map": "High-frequency serration with pixel-amplitude peaks reaching 15-20 pixels on the right lobe; left lobe exhibits lower-amplitude, moderate-frequency variations.",
+    "lobe_sweep_trajectory": "Outer edges exhibit convex curves transitioning into concave sweeps along the trailing boundaries toward the medial axis."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Sparsely distributed circular high-contrast pixel clusters detected primarily on the lower-left and central regions of the fluke surface.",
+    "linear_abrasions": "Multiple distinct unaligned high-contrast linear pixel disruptions; one prominent 80-pixel diagonal scratch on the right lobe and several 20-40 pixel vertical disruptions on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular macro-morphology on the right trailing edge indicating substantial historical tissue loss; prominent linear rake-like high-contrast marks across both lobes.",
+  "other_distinctive_markers": null
+}

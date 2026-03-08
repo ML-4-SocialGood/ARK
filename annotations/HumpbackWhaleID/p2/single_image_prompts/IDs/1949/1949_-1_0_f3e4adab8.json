@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 4:1 ratio of low-intensity black pixels to high-intensity white pixels, with white pixels predominantly located on the lateral distal margins.",
+    "spatial_color_mapping": "Contiguous high-intensity white zones located on the far left and far right outer margins of the fluke lobes. Central region is a solid low-intensity black mass with high-frequency white mottling and flecks scattered throughout the inner lobe areas."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Symmetrical V-shaped depression with a calculated angle of approximately 115 degrees and a shallow bounding-box penetration depth relative to total fluke height.",
+    "edge_topography_serration_map": "Continuous high-frequency serration along the trailing edge characterized by irregular peaks and valleys with a pixel-amplitude variation of approximately 5 to 20 pixels.",
+    "lobe_sweep_trajectory": "Convex trajectory following a parabolic curve from the median notch toward the distal tips of both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular and elliptical high-contrast white pixel clusters (5-15 pixels in diameter) localized on the central and right lobes, consistent with localized surface scarring.",
+    "linear_abrasions": "Extensive network of white linear pixel disruptions (rake marks) ranging from 1 to 3 pixels in width, oriented primarily in vertical and diagonal directions across the dark central regions of both lobes."
+  },
+  "acquired_anomalies_or_scars": "Heavily scarred ventral surface featuring multiple sets of parallel rake marks and numerous circular focal scars across both lobes.",
+  "other_distinctive_markers": "High-contrast white banding on the leading edge of the lateral tips."
+}

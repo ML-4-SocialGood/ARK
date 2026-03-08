@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 4:1 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Primary high-intensity white region occupies the central ventral surface. Low-intensity black pigmentation forms a contiguous band along the trailing edge and distal tips. A series of approximately 8-10 parallel vertical linear black marks are mapped to the upper-inner quadrant of the right lobe. A dark pixel cluster is present at the peduncle insertion point."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with an internal pixel angle of approximately 75 degrees and a bounding-box depth of roughly 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration profile detected along the continuous trailing edge; pixel-amplitude variations between peaks and valleys range from 5 to 20 pixels relative to the edge tangent.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a distinct concave sweep from the distal tips toward the median notch; leading edge boundaries display a convex mathematical curve."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Texture-dense, high-relief cluster of brownish-white pixels at the far right distal tip, consistent with barnacle colonization. Several small, isolated dark circular spots (<10 pixels diameter) are scattered on the white field of the right lobe.",
+    "linear_abrasions": "Prominent set of parallel, vertical black linear tracks (rake marks) breaking the high-intensity white surface on the upper-inner portion of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization at the right fluke tip resulting in structural irregularity; distinct vertical rake marks on the right lobe ventral surface.",
+  "other_distinctive_markers": "Highly asymmetrical pigmentation pattern near the median notch, featuring a unique 'combed' black-on-white vertical line structure on the right side."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution characterized by a dominant high-intensity (white) central field comprising approximately 75-80% of the visible surface, bounded by low-intensity (black) peripheral margins.",
+    "spatial_color_mapping": "Contiguous high-intensity central region. Low-intensity pixels form thick, irregular bands along the trailing edges and terminal tips. Sparse, low-intensity punctate spots (mottling) are scattered across the medial white regions of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "The right lobe trailing edge exhibits high-amplitude, irregular triangular peaks (serrations). The left lobe trailing edge displays lower-amplitude, more frequent micro-serrations with a smoother overall linear boundary.",
+    "lobe_sweep_trajectory": "Both lobes exhibit a concave upward curvature trailing from the submerged medial section toward the acute terminal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense cluster of circular, high-contrast, textured white/grey pixel groups (barnacles) concentrated on the terminal tip and trailing margin of the right lobe.",
+    "linear_abrasions": "Detection of several thin, dark, unaligned linear pixel disruptions (scratches) visible against the high-intensity background of the medial fluke surface."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization present on the right fluke tip, creating a distinct topographic protrusion and high-contrast texture anomaly.",
+  "other_distinctive_markers": "Pronounced asymmetry in the serration frequency and amplitude between the left and right lobe trailing edges."
+}

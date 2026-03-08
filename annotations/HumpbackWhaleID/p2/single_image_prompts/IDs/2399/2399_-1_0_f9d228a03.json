@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio between bright-white ventral lobes and deep-black central region; approximately 60 percent white-to-black distribution across the visible fluke plane.",
+    "spatial_color_mapping": "Distinct dark triangular blotch on the upper-mid section of the left lobe; dark hook-shaped mark on the mid-section of the right lobe; dense black mottling along the lower proximal edges of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow U-shaped central depression with a wide angle and low bounding-box depth.",
+    "edge_topography_serration_map": "Highly irregular and jagged serration across the entire trailing edge, with significant protruding pixel clusters at the distal tips.",
+    "lobe_sweep_trajectory": "Broad convex sweep from the median notch toward the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Heavy, high-relief textured clusters visible at the extreme lateral tips of both the left and right lobes, characterized by irregular high-contrast boundaries.",
+    "linear_abrasions": "Faint vertical linear pixel disruptions located on the lower boundary of the left lobe, intersecting the mottled black pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Prominent dark geometric markings (triangular on left, hook-shaped on right) located on the upper lobes that disrupt the primary white pigmentation field.",
+  "other_distinctive_markers": "Embedded alphanumeric metadata at the bottom of the image frame including 'TECO3-65/31', 'ID 11118', and '28 Oct 03 Bodega-Half Moon Bay'."
+}

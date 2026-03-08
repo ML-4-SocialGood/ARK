@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity (white) pixels dominate approximately 85% of the visible fluke surface; low-intensity (dark) pixels occupy the remaining 15%, primarily concentrated at the peduncle base and trailing margins.",
+    "spatial_color_mapping": "Primary white ventral field across both lobes. A high-contrast dark, roughly rectangular vertical column is situated at the fluke-peduncle junction. A continuous thin dark band follows the trailing edge. Distinct small dark focal spots are mapped to the inner-left lobe quadrant."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped notch with an approximate interior angle of 142 degrees; depth is minimal relative to total lobe height.",
+    "edge_topography_serration_map": "High-frequency irregular serrations. Left lobe trailing edge features two distinct deep-pixel-depth valleys at the mid-point. Right lobe trailing edge exhibits lower-amplitude, more consistent peak/valley variations.",
+    "lobe_sweep_trajectory": "Trailing edge follows a broad concave curve from the median notch toward the distal tips, terminating in sharp points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple dark, roughly circular pixel clusters detected on the left lobe; three distinct high-contrast spots visible in the central-left region.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Localized dark focal spots on the left lobe surface, potentially indicating permanent scarring or unique pigmentation markers.",
+  "other_distinctive_markers": "Significant high-intensity specular occlusion from water droplets and spray localized over the central and right lobe regions."
+}

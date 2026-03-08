@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.15:0.85 ratio of high-intensity (white/light-grey) to low-intensity (dark-grey/black) pixels across the visible ventral field.",
+    "spatial_color_mapping": "Dominant low-intensity field (base pixel values ~20-50). High-intensity white mottling (pixel values ~190-240) concentrated along the inferior (leading) edge boundary, primarily in the central and right-central regions. Numerous small, isolated high-contrast circular point-features scattered throughout both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Obtuse U-shaped depression with a calculated pixel angle of approximately 138 degrees; notch depth is roughly 12% of the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the entire superior boundary. Amplitudes range from 2 to 10 pixels in the medial sections, increasing to macro-serrations (15-25 pixels) at the distal tips.",
+    "lobe_sweep_trajectory": "Bilateral convex curves originating from the median notch, sweeping upward and outward to acute distal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of ~12 circular ring-like high-contrast pixel clusters; notable cluster of 6 in the mid-left lobe and 4 in the mid-right lobe, varying in diameter from 5 to 15 pixels.",
+    "linear_abrasions": "Three distinct, parallel diagonal high-intensity linear features (approx. 40-60 pixels in length) located on the right lobe immediately adjacent to the median notch."
+  },
+  "acquired_anomalies_or_scars": "Extensive irregular material loss at both distal tips; the far-left tip exhibits a highly fragmented, jagged geometry suggesting significant historical tissue loss.",
+  "other_distinctive_markers": null
+}

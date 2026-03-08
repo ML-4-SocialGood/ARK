@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface with approximately 15-20% high-intensity (white) coverage concentrated at the distal tips.",
+    "spatial_color_mapping": "High-contrast white pigmentation patches located on the outer 20% of both lobe tips. The left lobe exhibits a series of vertical white streaks, while the right lobe contains a more solid white patch transitioning into mottled streaks toward the center."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an internal angle of approximately 50-60 degrees and a depth of approximately 10% of the visible fluke height.",
+    "edge_topography_serration_map": "Extremely irregular trailing edge topography featuring high-frequency serrations and several distinct, deep indentations (nicks) varying from 5 to 15 pixels in depth.",
+    "lobe_sweep_trajectory": "Leading edges show a uniform convex curve extending from the peduncle to the tips. Trailing edges exhibit an overall concave curvature interrupted by significant marginal irregularities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple small, discrete high-intensity circular pixel clusters (1-4 pixels in diameter) scattered across the dark central and right-side regions, consistent with sessile organism attachment points.",
+    "linear_abrasions": "Faint, vertically oriented linear pixel disruptions of lower intensity relative to surrounding dark pixels, located primarily in the central lower region of the fluke."
+  },
+  "acquired_anomalies_or_scars": "Prominent irregular indentation and significant tissue loss on the trailing edge of the right lobe near the distal tip; multiple smaller nicks along the entire trailing boundary.",
+  "other_distinctive_markers": null
+}

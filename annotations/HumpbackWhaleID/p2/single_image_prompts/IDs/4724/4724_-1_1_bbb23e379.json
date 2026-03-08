@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low-intensity dominance. Approximately 98% of visible pixels are in the 0-50 intensity range (black/dark grey), with high-intensity (white) pixels limited to specular water reflections and localized scarring marks.",
+    "spatial_color_mapping": "Contiguous solid dark region across the entirety of both lobes. High-contrast white focal spots are present as small, non-geometric clusters representing linear scratches and a large irregular cluster on the far-left distal tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a measured pixel angle of approximately 82 degrees. The notch depth is significant, penetrating roughly 15% of the total fluke vertical height.",
+    "edge_topography_serration_map": "Irregular, low-amplitude serrations along the trailing edge. The right lobe distal margin exhibits a higher frequency of fine, jagged peaks compared to the smoother inner trailing edge closer to the notch.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge from the notch to the tips, with the tips tapering upward and outward in a symmetrical sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct cluster of high-intensity, roughly circular pixel groups localized on the far-left distal tip, consistent with barnacle-related scarring or active colonization.",
+    "linear_abrasions": "Numerous fine, white, multi-directional linear pixel disruptions (rake marks) are visible; most notably a vertical scratch on the left central lobe and horizontal-leaning marks on the right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Irregular, bulbous protrusion/growth on the extreme distal edge of the left fluke lobe, breaking the continuous geometric contour.",
+  "other_distinctive_markers": null
+}

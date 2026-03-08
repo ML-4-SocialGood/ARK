@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity (white) across approximately 85-90% of the visible surface area, bounded by a low-intensity (black/dark grey) perimeter.",
+    "spatial_color_mapping": "Central area consists of a single contiguous high-intensity white block; low-intensity dark mapping is restricted to the peripheral trailing edge and terminal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep acute V-shaped depression with a central convergence angle of approximately 65 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular saw-tooth serrations across the entire trailing edge with peak-to-valley pixel amplitudes varying between 2 to 6 pixels.",
+    "lobe_sweep_trajectory": "Bilateral convex curves along the trailing edges, tapering to sharp, slightly upward-curved lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Dark focal points localized specifically on the tips of individual serrations along the trailing edge boundary."
+}

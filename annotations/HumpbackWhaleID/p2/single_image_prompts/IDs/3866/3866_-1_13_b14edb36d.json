@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface with a high-intensity (white) pixel ratio estimated at less than 0.05, localized primarily at the fluke tips and scattered punctate markings.",
+    "spatial_color_mapping": "A single contiguous low-intensity black field covering approximately 95% of the visible surface. High-contrast white clusters are mapped to the distal left and right tips. Sparse white circular pixels are distributed across the mid-ventral region of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central notch with an approximate internal pixel angle of 65 degrees.",
+    "edge_topography_serration_map": "Irregular serrated boundary along the trailing edge. The right lobe exhibits higher-amplitude peaks and deeper valleys compared to the left lobe, which shows a more frequent, lower-amplitude sawtooth pattern.",
+    "lobe_sweep_trajectory": "Convex trailing edge curvature terminating at the distal tips with a slight concave transition along the outer leading edge."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of circular, high-contrast pixel groupings localized at the lateral extremities (tips) of both lobes, indicative of barnacle colonization.",
+    "linear_abrasions": "Several distinct, unaligned white linear pixel disruptions (rake marks) are visible; two prominent diagonal parallel marks on the left-central lobe and smaller, less defined marks on the mid-right lobe."
+  },
+  "acquired_anomalies_or_scars": "Multiple white linear abrasions (scars) across the ventral surface and significant biological encrustation at the distal fluke tips.",
+  "other_distinctive_markers": null
+}

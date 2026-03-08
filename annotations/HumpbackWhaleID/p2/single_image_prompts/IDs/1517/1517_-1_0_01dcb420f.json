@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio between low-intensity dark perimeter/speckling and high-intensity yellowish-white central field; approximate 25:75 dark-to-light pixel distribution.",
+    "spatial_color_mapping": "Dense distribution of small, dark, circular high-contrast blobs (mottling) across the high-intensity background; concentrated dark banding along the trailing edge and a dark vertical cluster at the peduncle junction."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a central convergence; depth-to-width ratio is approximately 1:2.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude irregular serrations; jagged peaks and valleys (5-20 pixel amplitude) occur continuously along the entire trailing edge boundary.",
+    "lobe_sweep_trajectory": "Convex trajectory from the median notch to the outer tips, terminating in jagged, upward-sweeping points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Extensive detection of dark, roughly circular pixel clusters corresponding to localized surface interruptions; highest density observed on the upper-right lobe and along the trailing margin.",
+    "linear_abrasions": "Faint, high-intensity (white) linear pixel disruptions visible on the left lobe, cutting through the darker mottling pattern."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular tissue profiles at both distal tips; heavy accumulation of dark, textured mass (parasitic or mineralized clusters) along the trailing edge boundary.",
+  "other_distinctive_markers": "Pronounced yellowish-tan pixel hue across the primary high-intensity regions of the ventral surface."
+}

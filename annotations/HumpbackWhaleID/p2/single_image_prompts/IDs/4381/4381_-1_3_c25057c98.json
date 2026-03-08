@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 40:60 ratio of high-intensity white to low-intensity black/dark-grey pixels across the visible ventral surface.",
+    "spatial_color_mapping": "The right lobe (viewer perspective) contains a large, contiguous high-intensity white geometric blob covering approximately 75% of its surface, bounded by dark speckling at the edges. The left lobe is dominated by low-intensity black pixels with high-contrast white mottling concentrated in the central and trailing-edge regions. A distinct dark vertical linear mark is located in the upper-mid section of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped central depression with an estimated pixel angle of 105 degrees and a moderate bounding-box depth relative to lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with varying pixel-amplitudes are present along the entire trailing edge. Deepest indentations are located near the lateral tips, particularly on the right lobe.",
+    "lobe_sweep_trajectory": "Convex trajectory following a standard fluke curvature, with a sharp upward sweep towards the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast white pixel clusters consistent with barnacle growth are visible at the extreme distal tips of both lobes. Smaller, circular white spots are scattered across the dark-pigmented area of the left lobe.",
+    "linear_abrasions": "A prominent, unaligned vertical linear pixel disruption is visible on the left lobe. Faint, dark horizontal linear markings are detectable on the white surface of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Deep vertical scar on the left lobe surface. Significant crustacean (barnacle) colonization present on the trailing edge tips.",
+  "other_distinctive_markers": "Pronounced pigmentation asymmetry between the predominantly dark left lobe and the predominantly white right lobe."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1.5:1 ratio of low-intensity (black/dark gray) to high-intensity (white/light gray) pixels. Light pixels are concentrated on the lateral lobes.",
+    "spatial_color_mapping": "Central region and tips are primarily low-intensity. Lateral lobes display dense high-intensity mottling. A distinct low-intensity diagonal band is visible on the right lobe intersecting the high-intensity mottled region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped vertex with an estimated pixel angle of 68 degrees and a vertical depth comprising approximately 12% of the total fluke height.",
+    "edge_topography_serration_map": "Continuous high-frequency serrations with amplitudes ranging from 3 to 10 pixels. The left lobe trailing edge displays significantly higher amplitude irregularity compared to the right lobe.",
+    "lobe_sweep_trajectory": "Concave upward curvature of the outer margins, with increasing slope towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Discrete high-intensity circular clusters (approx. 3-6 pixels in diameter) localized in the dark central pigmentation of the left lobe.",
+    "linear_abrasions": "Single prominent low-intensity linear feature on the right lobe, oriented diagonally at approximately -45 degrees from the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Irregular tissue void and deep jagged notches on the mid-trailing edge of the left lobe; distal tip of the right lobe shows minor terminal erosions.",
+  "other_distinctive_markers": "High-variance 'salt-and-pepper' transition zones at the interface of dark and light pigmentation areas."
+}

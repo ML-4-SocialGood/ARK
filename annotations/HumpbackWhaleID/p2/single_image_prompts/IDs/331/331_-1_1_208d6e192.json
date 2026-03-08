@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with a macro-level ratio of approximately 75% high-intensity white pixels to 25% low-intensity black pixels.",
+    "spatial_color_mapping": "Large contiguous white fields occupy the lateral lobes. A central, low-intensity black anchor-shaped region extends from the peduncle transition toward the trailing edge. Distinct small-diameter black pixel clusters (mottling) are scattered within the white fields, particularly near the trailing edge of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible central V-shaped notch with an estimated angle of 85 degrees and a depth ratio of 0.12 relative to total lobe height.",
+    "edge_topography_serration_map": "Left trailing edge (viewer perspective) shows low-amplitude undulations. Right trailing edge exhibits high-frequency, high-amplitude serrations and irregular peaks, indicating significant edge erosion.",
+    "lobe_sweep_trajectory": "The trailing edge follows a convex curve from the notch to the mid-lobe, transitioning to a slight concavity toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Two distinct circular, high-contrast dark rings (pixels < 40 intensity) detected; one located on the lower-medial section of the left lobe and another on the medial section of the right lobe.",
+    "linear_abrasions": "Several thin, unaligned linear pixel disruptions are visible, including a prominent horizontal mark on the lower left lobe and vertical rake-like streaks on the central right lobe."
+  },
+  "acquired_anomalies_or_scars": "Notable jagged irregular erosion/amputation of the trailing edge on the right lobe; multiple circular scars consistent with ectoparasite attachment sites.",
+  "other_distinctive_markers": "A specific high-contrast mottled 'spray' pattern of black pixels is localized along the boundary of the central black region on the right lobe lobe."
+}

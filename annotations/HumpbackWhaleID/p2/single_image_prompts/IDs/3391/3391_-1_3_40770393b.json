@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio of approximately 80% low-intensity (dark grey/black) to 20% high-intensity (white) pixels on the visible fluke surface.",
+    "spatial_color_mapping": "High-intensity white contiguous zones are mapped to the distal lateral tips of both lobes. The left lobe tip shows a more fragmented, larger white area extending toward the center, while the right lobe tip has a more concentrated white patch. Lower-left central region contains low-contrast grey mottling."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch with an approximate vertex angle of 65 degrees and a deep bounding-box penetration into the fluke body.",
+    "edge_topography_serration_map": "Continuous irregular serration along the trailing edge. High-amplitude, low-frequency jagged peaks are visible on the left lobe; the right lobe exhibits lower-amplitude, higher-frequency serrations with one prominent indentation on the outer margin.",
+    "lobe_sweep_trajectory": "Convex leading edge (bottom) with a steady upward and outward curve toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Several circular high-contrast white pixel clusters are detected in the dark-pigmented mid-regions of both the left and right lobes.",
+    "linear_abrasions": "Multiple faint, unaligned diagonal linear pixel disruptions are visible across the dark surface of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Deep irregular notches along the trailing edge of the left lobe suggest previous tissue loss; a distinct notch is present on the upper-right trailing margin.",
+  "other_distinctive_markers": "The image features a stippled metadata overlay identifying the specimen as 'ID 11244' at 'Moss Landing'."
+}

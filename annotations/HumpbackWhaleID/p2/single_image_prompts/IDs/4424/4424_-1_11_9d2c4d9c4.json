@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast; approximately 80% high-intensity white pixels across the central fluke surface versus 20% low-intensity black/dark-grey pixels localized at the trailing margins and within focal spots.",
+    "spatial_color_mapping": "Left lobe: Three large dark circular blobs arranged in a diagonal line from inner-mid to outer-mid, with several smaller focal spots near the median notch. Right lobe: One prominent dark circular spot located in the outer-mid region. Continuous low-intensity banding follows the entire trailing edge perimeter."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression; interior angle calculated at approximately 55 degrees; vertical depth is roughly 15% of the total visible fluke height.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude irregular serration; approximately 18-22 distinct pixel-peaks along the trailing edge of each lobe; peaks are more jagged and clustered near the distal tips.",
+    "lobe_sweep_trajectory": "Asymmetric sigmoid curve; trailing edge exhibits convexity near the median notch transitioning into a broad concavity toward the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of seven distinct dark circular pixel clusters on the high-intensity white background (focal pigmentation/scarring), primarily on the left lobe.",
+    "linear_abrasions": "Three distinct, faint grey linear pixel disruptions visible on the left lobe, extending diagonally from the trailing edge towards the interior surface."
+  },
+  "acquired_anomalies_or_scars": "Major irregular tissue loss and jagged indentation on the distal tip of the left lobe, indicating significant physical trauma or amputation.",
+  "other_distinctive_markers": "Highly unique, high-contrast mottled pixel pattern on the far right fluke tip, resembling a complex web-like matrix of dark and light pixels."
+}

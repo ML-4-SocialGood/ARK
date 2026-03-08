@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 2:3 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral surface area.",
+    "spatial_color_mapping": "Left lobe contains a large contiguous white region covering approximately 75% of the surface with a dark band along the trailing edge and several isolated dark spots. Right lobe is predominantly black with a distinct, high-contrast white patch on the distal tip and a smaller white region near the median notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped notch; interior angle estimated at approximately 55 degrees; notch depth is roughly 25% of the fluke's vertical lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the entire trailing boundary; pixel amplitude peaks at distal tips; right lobe shows more pronounced, tattered indentations than the left.",
+    "lobe_sweep_trajectory": "Convex leading edges tapering to acute points at the tips; trailing edge follows a bi-concave curve originating from the central median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "4 to 6 small, dark, roughly circular pixel clusters detected within the white region of the left lobe, likely representing focal scarring or pigmentation spots.",
+    "linear_abrasions": "Three distinct, near-parallel dark vertical linear streaks (rake marks) breaking the white pigmentation on the mid-left lobe."
+  },
+  "acquired_anomalies_or_scars": "Heavily tattered and irregular trailing edge suggesting significant past mechanical interaction; visible rake marks on the left ventral surface.",
+  "other_distinctive_markers": "Highly asymmetric pigmentation pattern where the left lobe is predominantly white and the right lobe is predominantly black."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70% high-intensity (white) to 30% low-intensity (black) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Central black triangular region centered at the peduncle and extending to the median notch. The lateral lobes are predominantly white with black peripheral borders along the trailing edges. Numerous small black circular clusters and parallel linear black markings are distributed across the white surfaces of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated interior angle of approximately 75 degrees.",
+    "edge_topography_serration_map": "High-frequency serration across the continuous trailing boundary; characterized by jagged, irregular peaks and valleys with 5-15 pixel amplitude variations, particularly concentrated at the lobe tips.",
+    "lobe_sweep_trajectory": "Bi-lobed curve exhibiting a concave transition from the median notch moving into a convex sweep towards the distal ends."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of circular, high-contrast dark and light pixels (barnacle scars) localized on the distal tips and sporadically along the trailing edge.",
+    "linear_abrasions": "Distinct parallel linear black marks (rake marks) observed as a horizontal grouping on the far left lobe and a vertical-angled grouping on the inner right lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent multi-linear rake marks on both lobes; visible yellowish-tan chromatic patch on the lower inner surface of the right lobe.",
+  "other_distinctive_markers": "A series of distinct, fine-line dark markings resembling a series of waves on the leftmost portion of the fluke lobe."
+}

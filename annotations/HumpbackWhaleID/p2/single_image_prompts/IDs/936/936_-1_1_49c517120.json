@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Highly skewed distribution with approximately 85% low-intensity (black) pixels across the primary surface and 15% high-intensity (white) pixels representing markings and water spray.",
+    "spatial_color_mapping": "Dominant contiguous black mass; secondary white pixel clusters (mottling) located in the medial region near the fluke peduncle and scattered focal points across the left lobe surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped central depression; angle estimated at 35 degrees with a vertical depth of approximately 1/8th of the lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern visible along the entire trailing edge; pixel-amplitude variations range from 2 to 10 pixels against the high-intensity background.",
+    "lobe_sweep_trajectory": "Moderate convexity along the posterior margin transitioning to a sharp distal taper at the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct high-contrast circular clusters detected in the mid-left lobe and adjacent to the median notch.",
+    "linear_abrasions": "Multiple white linear pixel disruptions visible; most prominent are three parallel diagonal marks on the lower-left quadrant."
+  },
+  "acquired_anomalies_or_scars": "Localized white scarring patterns and irregular jagged nicks along the trailing edge serrations consistent with past mechanical trauma.",
+  "other_distinctive_markers": "Extreme high-contrast thresholding of the image source creates a stippled 'starfield' effect of white pixels on the dark ventral surface."
+}

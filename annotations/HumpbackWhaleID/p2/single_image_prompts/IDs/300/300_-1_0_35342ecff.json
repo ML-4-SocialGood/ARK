@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixel distribution with high-intensity (white) regions comprising approximately 25% of the visible surface area, primarily at distal tips and trailing margins.",
+    "spatial_color_mapping": "Large contiguous low-intensity central zone; distinct high-intensity white pixel blobs at the outer distal tips of both lobes; white mottling and streaking localized along the trailing edges and extending into the dark field of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped depression with a calculated pixel angle of approximately 75 degrees and a bounding-box depth approximately 15% of the fluke's vertical height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge boundary; pixel-amplitude variations of 3-10 pixels creating a jagged topographic profile.",
+    "lobe_sweep_trajectory": "Outer leading edges exhibit a smooth convex curve; trailing edges demonstrate a complex concave sweep from the notch transitioning to convexity at the lobe centers."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of irregular, brownish-grey pixel groups (barnacles) localized at the extreme distal tips of both lobes, creating a textured, high-contrast surface.",
+    "linear_abrasions": "Several distinct, unaligned white linear pixel disruptions (rake marks) appearing as thin streaks against the dark ventral surface of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle encrustation at distal lobe tips; multiple white linear rake marks on the right lobe ventral surface; irregular jaggedness on the trailing edge suggesting minor tissue loss.",
+  "other_distinctive_markers": "Water spray pixels at the base of the fluke partially obscure the junction between the lobes and the peduncle."
+}

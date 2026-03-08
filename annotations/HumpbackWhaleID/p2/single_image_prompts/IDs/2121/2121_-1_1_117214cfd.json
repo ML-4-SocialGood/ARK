@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution; approximately 40% high-intensity pixels (white) concentrated at the lateral tips and 60% low-intensity pixels (dark grey/black) concentrated in the medial and basal regions.",
+    "spatial_color_mapping": "Contiguous high-intensity white blobs located at the distal extremities of both lobes. Left lobe exhibits a white patch spanning roughly 25% of its visible surface. Right lobe exhibits a more elongated white patch along the superior-lateral edge. Mottled transition zone with high-frequency dark speckling occurs at the interface of white and black regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an estimated interior angle of 45-50 degrees; notch depth is approximately 1/6th of the total vertical fluke height visible above the waterline.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern across the entire trailing edge. Right lobe displays larger amplitude jagged peaks (5-12 pixels) compared to the left lobe. The edge displays a 'saw-tooth' profile with approximately 15-20 distinct peaks per lobe.",
+    "lobe_sweep_trajectory": "Convex curve trajectory originating from the median notch, transitioning to a sharper upward sweep at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of dark, roughly circular pixel groups (diameter <10 pixels) visible against the white pigment on the distal-lateral edge of the right lobe and scattered along the left lobe tip.",
+    "linear_abrasions": "Three distinct parallel dark linear streaks visible on the white region of the left lobe, oriented roughly horizontally."
+  },
+  "acquired_anomalies_or_scars": "A significant irregular indentation/notching on the right lobe immediately adjacent to the median notch, showing a loss of linear continuity compared to the left side.",
+  "other_distinctive_markers": "Pronounced white fringe/bordering along the extreme trailing edge of the right lobe where the serration is most prominent."
+}

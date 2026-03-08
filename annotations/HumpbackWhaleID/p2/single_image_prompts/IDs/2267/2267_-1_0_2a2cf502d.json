@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "0.15:0.85; dominant low-intensity pixels across the visible surface with sparse high-intensity highlights localized to the trailing edge and water splash reflections.",
+    "spatial_color_mapping": "Predominantly dark low-intensity pixels. Left lobe displays diffuse, irregular mid-intensity (grey) mottling. Right lobe surface is mostly uniform dark pixels with several high-contrast linear streaks near the distal margin."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Approximately 115-degree V-shaped notch; the vertex is partially occluded by high-intensity water spray and turbulence.",
+    "edge_topography_serration_map": "High-frequency serration pattern along both lobes; pixel-amplitude of variations ranges from 3 to 10 pixels, creating a jagged profile isolated from the bright water background.",
+    "lobe_sweep_trajectory": "Bilateral concave sweep along the trailing edge leading toward distal tips; right lobe exhibits a more pronounced terminal taper."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Sparse, high-intensity circular clusters detected at the tips of serrations on the trailing edge, likely corresponding to barnacle attachment points or scarring.",
+    "linear_abrasions": "Set of four parallel, diagonal linear pixel disruptions (rake marks) on the right lobe, oriented approximately 45 degrees relative to the central fluke axis."
+  },
+  "acquired_anomalies_or_scars": "Significant linear scarring (rake marks) on the right lobe and several deep, irregular indentations along the trailing edge topography.",
+  "other_distinctive_markers": "Extremely high-frequency serration along the distal boundary of both lobes, resulting in a distinctly irregular geometric profile."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast ratio; visible pixels consist of approximately 65% high-intensity (white/light gray) and 35% low-intensity (black/dark gray) regions, with high intensity dominant on the right lobe and central region.",
+    "spatial_color_mapping": "Right lobe presents a large contiguous high-intensity field with a localized dark cluster in the mid-lower quadrant. Left lobe displays dense low-intensity mottling along the superior trailing margin and multiple dark linear streaks radiating from the central axis toward the left lateral tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped central depression with a calculated angle of approximately 75 degrees; notch depth relative to the bounding box is significant, reaching roughly 15% of the total fluke height.",
+    "edge_topography_serration_map": "Left lobe trailing edge exhibits high-frequency, irregular serrations with high peak-to-valley pixel amplitude. Right lobe trailing edge is comparatively more linear but still displays frequent low-amplitude jaggedness.",
+    "lobe_sweep_trajectory": "Bilateral convex curves; the left lobe demonstrates a sharper terminal upward sweep at the tip compared to the more gradual outward taper of the right lobe."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct circular high-contrast pixel clusters (dark circles on white background) are visible near the terminal tip of the right lobe and along the upper trailing edge of the left lobe.",
+    "linear_abrasions": "Presence of multiple sets of parallel and intersecting linear dark pixel disruptions (rake marks) concentrated on the central-left fluke surface, cutting across the primary intensity gradient."
+  },
+  "acquired_anomalies_or_scars": "Significant non-linear physical trauma evidenced by jagged, irregular discontinuities along the left trailing edge; extensive linear rake mark scarring present on the left lobe.",
+  "other_distinctive_markers": "A highly unique, dark, U-shaped pixel cluster is isolated on the white background of the right lobe near the trailing margin."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixels estimated at 85% coverage, punctuated by high-intensity (white) mottling at 15% coverage.",
+    "spatial_color_mapping": "Stochastic distribution of small, circular high-intensity blobs across the ventral surface; dense high-intensity pixel clusters are localized at the distal lateral tips of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central notch with an estimated interior angle of 52 degrees and a vertical depth of approximately 100 pixels.",
+    "edge_topography_serration_map": "High-frequency irregular serrations with vertical amplitudes ranging from 5 to 25 pixels along the continuous boundary of the trailing edge.",
+    "lobe_sweep_trajectory": "Symmetrical convex curvature fitted to the trailing edge boundaries of both the left and right lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense spatial clusters of circular white high-contrast pixel groups located at the distal tips; sparse distribution of similar clusters across the central fluke surface.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

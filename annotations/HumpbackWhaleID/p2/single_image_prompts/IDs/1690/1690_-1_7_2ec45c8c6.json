@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity with a macro-ratio of approximately 9:1 dark-to-light pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Contiguous high-contrast dark circular spots mapped to the distal extremities (tips) of both lobes; lighter gray intensity regions concentrated along the peripheral margins and trailing edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Narrow U-shaped notch with an internal angle of approximately 30 degrees and a significant bounding-box depth relative to the fluke lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration profile; peaks exhibit a pixel-amplitude of 5-25 pixels; sawtooth-like jaggedness is more acute on the left trailing edge than the right.",
+    "lobe_sweep_trajectory": "Symmetric convex curves extending from the central peduncle attachment to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 15-20 dark, circular pixel clusters (4-10 pixels in diameter) localized on the lighter distal patches of both lobes.",
+    "linear_abrasions": "One prominent high-intensity (white) vertical linear disruption on the inner left lobe; series of faint, parallel diagonal linear markings on the medial right lobe."
+  },
+  "acquired_anomalies_or_scars": "Distinct vertical white linear scar located on the inner left lobe adjacent to the median notch.",
+  "other_distinctive_markers": null
+}

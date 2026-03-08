@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixels covering approximately 85% of the visible surface, with high-intensity (white) pixels concentrated in the upper 15% along the trailing edge.",
+    "spatial_color_mapping": "A solid black primary region occupies the central and lower portions of the fluke. High-contrast white pigmentation appears as a thick, irregular horizontal band along the trailing edge of the left lobe and as fragmented, mottled patches along the trailing edge of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A sharp, symmetrical V-shaped indentation with a vertex angle of approximately 65 degrees and a vertical depth roughly 1/5th of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel amplitudes ranging from 2 to 10 pixels. The right lobe shows more pronounced, jagged peaks, while the left lobe displays a slightly smoother, though still irregular, jagged profile.",
+    "lobe_sweep_trajectory": "The trailing edges of both lobes follow a strongly convex trajectory from the median notch to the distal tips, characterized by a distinct outward-curving arc."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Prominent clusters of high-contrast white pixels at the extreme distal tips of both lobes, indicating dense barnacle colonization. Several circular, low-contrast 'ghost' rosettes are visible on the dark pigmented area of the right mid-lobe.",
+    "linear_abrasions": "A series of roughly vertical, high-intensity linear marks (scratches) are detected on the dark central pigmentation, particularly concentrated near the vertical axis above the peduncle."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization at the tips of both lobes; visible vertical linear rake marks or scratches on the central lower fluke.",
+  "other_distinctive_markers": "Visible water droplets shedding from the trailing edge create a series of high-intensity vertical point-trails below the fluke profile."
+}

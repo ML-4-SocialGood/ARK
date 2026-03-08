@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast; approximately 45% high-intensity (off-white and yellow-tan) pixels localized in the central lobe regions against 55% low-intensity (black) pixels concentrated at the base, median notch area, and peripheral borders.",
+    "spatial_color_mapping": "Bilateral asymmetry in pigmentation. The left lobe features a large, contiguous off-white/yellow ovoid patch from the mid-section to the tip, bordered by thick black margins. The right lobe displays a similar high-intensity patch but with a higher frequency of vertical black striations and small, isolated low-intensity focal spots throughout the light region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, symmetrical U-shaped depression; internal angle approximately 50 degrees at the vertex, with a vertical depth roughly 12-15% of the visible vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern across the entire trailing boundary. Serrations are most pronounced on the distal thirds of both lobes, characterized by sharp peaks and deep valleys with pixel-amplitude variations of approximately 2-4% of lobe width.",
+    "lobe_sweep_trajectory": "Strongly convex curvature along the leading edges leading to acute distal tips; the trailing edge follows a complex concave-to-convex S-curve from the median notch to the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of circular, high-contrast, three-dimensional pixel clusters (calcified barnacle colonies) concentrated on the extreme lateral tips of both lobes and sparsely distributed along the trailing edge peaks.",
+    "linear_abrasions": "Several low-intensity, non-aligned linear disruptions visible; most prominent are three horizontal parallel rake marks on the lower-left light patch and multiple vertical dark streaks cutting through the right lobe's light region."
+  },
+  "acquired_anomalies_or_scars": "Significant accumulation of sessile cirripeds on both distal tips creating an irregular, thickened silhouette. Multiple V-shaped and U-shaped notches along the trailing edge indicate mechanical tissue loss/trauma.",
+  "other_distinctive_markers": "Extensive yellowish-tan chromatic saturation across all high-intensity regions, consistent with heavy diatom film accumulation, contrasting with the primary black/white base pigmentation."
+}

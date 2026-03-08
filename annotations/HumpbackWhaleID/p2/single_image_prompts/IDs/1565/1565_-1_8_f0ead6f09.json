@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-to-mid intensity grey pixels with localized dark streaks; lacks high-intensity white patches; overall low global contrast ratio.",
+    "spatial_color_mapping": "Dark diagonal linear streaks on both lobes; concentrated dark pixels along the trailing edges; irregular grey mottling around the medial notch and central fluke areas."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide V-shaped notch with an approximate angle of 110-120 degrees and deep indentation into the fluke geometry.",
+    "edge_topography_serration_map": "Frequent irregular serrations along the trailing edge; pixel amplitude variations of 4-12 pixels; serrations are most distinct on the distal portions of both lobes.",
+    "lobe_sweep_trajectory": "Concave sweep near the medial notch transitioning to a convex curve towards the distal tips; left distal tip sweep partially constrained by the image frame."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast cluster of circular white-on-dark pixel groups located at the far right distal tip; smaller, isolated dark circular spots present on the left lobe's medial surface.",
+    "linear_abrasions": "Prominent dark linear disruptions (rake marks); three long diagonal marks on the left lobe; multiple shorter vertical/diagonal streaks on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle encrustation on the right distal tip and distinct rake marks across the visible ventral surface.",
+  "other_distinctive_markers": "Highly distinctive parallel linear 'rake' scars likely from orca interaction, covering significant portions of both lobes."
+}

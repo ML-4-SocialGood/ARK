@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio characterized by approximately 20% high-intensity white pixel clusters (0.8-1.0 normalized) against a dominant 80% low-intensity dark background (0.0-0.2 normalized) across the visible ventral surface.",
+    "spatial_color_mapping": "Contiguous high-intensity white patches located at the distal tips of the left and right lobes; discrete high-intensity annular rings (diameters of 5-12 pixels) distributed semi-randomly across the dark medial and lateral fields."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate pixel angle of 65 degrees at the vertex, dividing the left and right lobes.",
+    "edge_topography_serration_map": "High-frequency, irregular serration profile with varying pixel-amplitudes (2-10 pixels) forming a jagged boundary along the entire length of the trailing edge.",
+    "lobe_sweep_trajectory": "Convex upward curve along the proximal-to-distal boundary, terminating in tapered, rounded lobe tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Numerous high-contrast white annular pixel clusters (ring shapes) detected across the dark-pigmented areas of both the left and right lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant white circular/annular scarring (cookie-cutter bite patterns) and irregular depigmented areas along the outer lateral margins of the fluke.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": null,
+    "spatial_color_mapping": null
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an estimated pixel angle of 75 degrees; depth is approximately 15 percent of the total vertical extent of the visible fluke silhouette.",
+    "edge_topography_serration_map": "Highly irregular and prominent serrations along the entire trailing edge boundary; includes sharp, saw-tooth peaks with amplitudes up to 10-15 pixels; serration frequency is highest on the distal half of both lobes.",
+    "lobe_sweep_trajectory": "Strong concave sweep from the median notch toward the distal tips; lobes curve upward and outward, terminating in tapered, pointed apexes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-intensity white pixels (roughly 3-5 distinct spots per tip) detected at the extreme distal margins of both the left and right lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Distinct white focal spots located at the left and right distal tips, contrasting sharply with the otherwise low-intensity silhouette.",
+  "other_distinctive_markers": null
+}

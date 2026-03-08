@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity (white/light gray) pixels across the visible ventral surface, bordered by a narrow high-contrast low-intensity (black/dark brown) band along the trailing edge.",
+    "spatial_color_mapping": "Solid contiguous light field covering approximately 90% of the fluke; high-contrast dark border mapping the perimeter of the trailing edge; multiple small low-intensity focal spots (circular) distributed across the mid-region of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central depression with an estimated interior angle of 35-45 degrees and a deep vertical bounding-box offset.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude irregular serrations (peaks and valleys) along the entire trailing edge boundary, with increased density towards the distal tips.",
+    "lobe_sweep_trajectory": "Convex curve extending from the central notch towards the lateral tips, exhibiting a slight upward taper."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple small, dark, roughly circular pixel clusters concentrated on the upper-right lobe and near the median notch.",
+    "linear_abrasions": "Faint, unaligned vertical and diagonal dark linear disruptions visible on the right lobe surface, consistent with rake marks."
+  },
+  "acquired_anomalies_or_scars": "Presence of multiple circular parasitic or barnacle-attachment scars and faint linear rake marks across the light ventral field.",
+  "other_distinctive_markers": "Highly distinct dark circular ring-like marker located at the extreme right distal tip of the fluke."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1.5:1 ratio of high-intensity (white) pixels to low-intensity (black/grey) pixels across the visible fluke surface.",
+    "spatial_color_mapping": "Central low-intensity region originates at the peduncle and extends to the median notch. High-intensity lobes are positioned laterally, featuring low-intensity mottling concentrated near the medial base and along the superior-trailing edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute-angled V-shaped notch with a vertex angle of approximately 70 degrees and a distinct pixel-depth relative to the vertical lobe height.",
+    "edge_topography_serration_map": "Irregular high-frequency serrations with peaks and valleys; right lobe displays a significant indentation or missing segment approximately one-third lateral from the notch.",
+    "lobe_sweep_trajectory": "The trailing boundary follows a sigmoidal curve, exhibiting concavity at the medial junction and transitioning to convexity towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of high-intensity circular pixel nodes are visible on the lateral tips and at discrete points along the trailing edge peaks of both lobes.",
+    "linear_abrasions": "Multiple dark linear pixel tracks (rake marks) are detected; specifically, parallel diagonal marks on the mid-left lobe and prominent vertical/oblique marks on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive presence of parallel rake-mark abrasions on both lobes and significant barnacle encrustations on the distal tips.",
+  "other_distinctive_markers": null
+}

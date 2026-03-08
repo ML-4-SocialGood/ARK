@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) distribution across approximately 85% of the visible surface; high-intensity (white) pixels are concentrated in a localized region on the right distal lobe tip.",
+    "spatial_color_mapping": "A large contiguous dark zone occupies the majority of the left and central fluke regions. A high-contrast white patch is mapped to the right distal lobe tip, characterized by dense, internal dark mottling. Sparse, high-intensity white specks are distributed across the dark field of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible shallow V-shaped depression at the central division; estimated pixel angle of 125 degrees with a shallow bounding-box depth relative to the total lobe height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations extracted along the entire upper boundary; the right lobe distal edge shows higher amplitude peaks and deeper valleys compared to the left.",
+    "lobe_sweep_trajectory": "Symmetrical upward convexity; the left lobe follows a relatively straight sweep, while the right lobe distal edge terminates in a rounded, bulbous curve."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of dark circular pixels are mapped within the white patch of the right fluke tip. Multiple high-intensity white circular clusters (1-3 pixels in diameter) are scattered across the dark ventral surfaces of both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Ragged, irregular topography on the extreme distal margin of the right fluke tip, indicating potential tissue loss or dense epibiont colonization.",
+  "other_distinctive_markers": "Pronounced pigment asymmetry where high-intensity white pixels are strictly localized to the distal third of the right lobe."
+}

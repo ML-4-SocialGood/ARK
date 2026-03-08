@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark gray) with a very low ratio of high-intensity pixels (approx. 1:50). High-intensity pixels are limited to small, discrete points.",
+    "spatial_color_mapping": "Continuous solid dark-pigmented region covering >98% of the visible surface. High-contrast white pixels appear as isolated, non-contiguous point-clusters scattered across the mid-region of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped indentation with an internal angle of approximately 105 degrees. The vertex is well-defined at the central convergence of the two lobes.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the full extent of the trailing edge. Pixel-amplitude of peaks varies between 5-15 pixels relative to local mean edge line. Significant jaggedness observed on distal ends of both lobes.",
+    "lobe_sweep_trajectory": "Concave sweep from the median notch transitioning to a convex curve towards the distal tips. Leading edge (lower boundary in image) shows a generally linear trajectory with slight convexity."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Several discrete, roughly circular white pixel clusters (approx 2-8 pixels in diameter) detected on the left lobe's medial surface and near the central fluke region.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Multiple small, circular white depigmented spots scattered across the dark surface. Distinctive irregular notches and jagged variations along the trailing edge topography.",
+  "other_distinctive_markers": "Uniformity of dark pigmentation across nearly the entire ventral surface, providing high contrast against the surrounding water and surface spray."
+}

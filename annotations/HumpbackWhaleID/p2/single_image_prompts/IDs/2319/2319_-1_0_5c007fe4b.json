@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels dominate approximately 88% of the visible surface, with low-intensity black pixels concentrated on the perimeter and trailing edges, creating a high-contrast binary distribution.",
+    "spatial_color_mapping": "Primary contiguous high-intensity white field across both lobes. Low-intensity black pixels form a continuous border on the trailing edge. Discrete black mottling and irregular blobs are visible at the distal tips and proximal to the peduncle insertion."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate internal angle of 52 degrees and a depth-to-width ratio of 1:1.2 relative to the immediate lobe curvature.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations present along the entire trailing edge boundary, featuring irregular peak-to-valley pixel heights ranging from 5 to 25 pixels.",
+    "lobe_sweep_trajectory": "Sigmoidal trajectory with a convex curve at the medial section transitioning to an upward concavity as the lobes extend toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple dark, roughly circular pixel clusters localized at the lower central region near the notch and along the inner margin of the right distal tip.",
+    "linear_abrasions": "Three distinct, near-parallel horizontal linear pixel disruptions visible on the medial surface of the right lobe, consistent with rake mark morphology."
+  },
+  "acquired_anomalies_or_scars": "Extensive irregular black pigmentation and localized textural disruption on the far right distal tip, indicating previous tissue damage or dense parasitic colonization.",
+  "other_distinctive_markers": "A single isolated black pixel spot located in the lower-left central white field, approximately one-quarter of the distance from the notch to the left tip."
+}

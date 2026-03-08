@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio; approximately 95% low-intensity (dark) pixels vs 5% high-intensity (white/yellow) pixels localized primarily at the distal tips.",
+    "spatial_color_mapping": "Large, contiguous, high-contrast yellowish-white geometric blobs located at both distal lobe tips. Sparse, non-contiguous white focal spots (1-5 pixel diameter) scattered across the medial-left field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a pixel-calculated angle of approximately 52 degrees and a bounding-box depth of roughly 12% of the total fluke height.",
+    "edge_topography_serration_map": "Continuous irregular serration; left lobe trailing edge features ~15 discrete low-amplitude peaks; right lobe distal terminal features high-amplitude (5-10 pixel) irregular protrusions.",
+    "lobe_sweep_trajectory": "Convex curve trajectory from the median notch to the distal tips on both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of roughly circular high-contrast yellowish-white pixel clusters at both distal tips; one distinct 4-pixel cluster in the medial-left lobe region.",
+    "linear_abrasions": "One prominent, unaligned linear pixel disruption of lighter gray intensity oriented diagonally at approximately 40 degrees on the left ventral lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive irregular physical accretion (bio-fouling) at both distal fluke terminals; one distinct linear diagonal scar on the left lobe.",
+  "other_distinctive_markers": "The right distal tip exhibits a significantly larger and more complex geometric protrusion pattern compared to the left tip."
+}

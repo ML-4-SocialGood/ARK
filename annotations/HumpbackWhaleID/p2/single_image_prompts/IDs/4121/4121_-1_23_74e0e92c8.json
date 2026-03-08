@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 30% high-intensity (white) and 70% low-intensity (black) pixel regions across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Large high-intensity white patches are located at the distal ends of both lobes. The left lobe contains a large white triangular patch with internal black mottling starting from the tip and tapering toward the center. The right lobe features a white patch at the distal tip. The central area surrounding the notch is characterized by solid low-intensity black pixels."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible V-shaped central notch with a measured internal angle of approximately 25-30 degrees; the apex is sharply defined above the water line.",
+    "edge_topography_serration_map": "Highly irregular trailing edge with high-amplitude peaks and valleys; serration frequency is higher on the medial portion of the lobes compared to the distal tips; peak-to-valley depth varies between 3-10 pixels.",
+    "lobe_sweep_trajectory": "Convex curvature along the trailing edge of both lobes, terminating in sharp, upward-pointing distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of roughly circular high-intensity white pixel groups (barnacles) along the leading edges and distal tips; scattered circular low-contrast scars are visible on the dark medial pigmentation of both lobes.",
+    "linear_abrasions": "Vertical linear pixel disruptions are visible within the white patch of the left lobe; distinct parallel horizontal rake marks are visible on the lower-right dark region of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant barnacle encrustation along the entire leading edge boundary; multiple circular depigmented scars (diameter approx. 5-12 pixels) consistent with parasitic attachment points distributed across the dark surfaces.",
+  "other_distinctive_markers": "The leading edge contour is significantly modified by biological growth (barnacle clusters), creating a secondary jagged geometric profile distinct from the fluke's structural edge."
+}

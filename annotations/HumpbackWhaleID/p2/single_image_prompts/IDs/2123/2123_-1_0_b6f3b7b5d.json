@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution with a ratio of approximately 45% high-intensity white pixels on distal lobes to 55% low-intensity black pixels concentrated in the medial and basal regions.",
+    "spatial_color_mapping": "Dominant white contiguous regions on the distal half of both lobes. Significant black pigmentation encroaches from the leading edge and central peduncle area, creating a dendritic mottling effect that extends towards the lateral tips. Focal black spots are interspersed within the white distal fields."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped depression with a pixel-calculated vertex angle of approximately 100 degrees and a bounding-box depth relative to the fluke span of approximately 1:8.",
+    "edge_topography_serration_map": "Continuous high-frequency, low-to-medium amplitude serration along the entire trailing boundary. Notable irregular jagged peaks (5-12 pixel amplitude) clustered near the distal tips, transitioning to smoother, more rhythmic undulations toward the median notch.",
+    "lobe_sweep_trajectory": "Strongly convex trailing edge curve that tapers into sharp, slightly hooked distal tips. The leading edge exhibits a smooth sigmoidal trajectory."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of several small, circular low-intensity clusters (mottling) on the high-intensity background of the right lobe. Sparse, isolated high-intensity circular pixels (0.5-2.0mm equivalent) on the dark medial surface.",
+    "linear_abrasions": "Significant unaligned linear pixel disruptions; specifically, three prominent diagonal dark streaks traversing the white section of the left lobe and multiple parallel horizontal rake marks on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive rake marks (parallel linear scarring) distributed across the white distal regions of both lobes. Irregular loss of edge integrity on the far left distal tip consistent with prior physical trauma.",
+  "other_distinctive_markers": null
+}

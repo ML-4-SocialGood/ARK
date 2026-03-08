@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution characterized by approximately 65% high-intensity (white/light-gray) pixels and 35% low-intensity (black/dark-gray) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Large contiguous white regions occupy the central-lower portion of both lobes. These are bordered by thick, low-intensity black bands along the trailing edges and the median notch. Distinct dark vertical streaks (rake-like patterns) disrupt the white regions on both the left and right lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated as a wide-angle, shallow U-shaped depression with an approximate pixel angle of 135 degrees relative to the lobe axes.",
+    "edge_topography_serration_map": "Highly irregular and jagged. The right lobe trailing edge features high-amplitude, low-frequency 'step' serrations. The left lobe exhibits more consistent, lower-amplitude micro-serrations. The entire boundary is non-linear with multiple distinct peaks and valleys.",
+    "lobe_sweep_trajectory": "Lobes exhibit a strong convex curvature on the lower leading edge, terminating in acute, upward-oriented tips (flukes). The trailing edge follows a general concave sweep toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast clusters of circular, textured white/gray pixels (consistent with barnacle colonization) are localized at the extreme lateral tips of both the left and right lobes.",
+    "linear_abrasions": "Multiple dark, unaligned linear pixel disruptions are visible. Specifically, two prominent vertical parallel lines on the left lobe and several finer, scattered linear marks on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "The trailing edge shows significant irregular topography indicative of historical wear or trauma. Visible calcium-dense clusters (barnacles) are present on the lobe extremities.",
+  "other_distinctive_markers": "The boundary between white and black pigmentation is highly mottled, particularly in the mid-fluke region, creating a stippled transition zone rather than a hard geometric line."
+}

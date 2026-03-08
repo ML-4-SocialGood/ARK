@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixel distribution across the visible ventral surface, with high-intensity (white) pixels restricted to <5% of the total surface area.",
+    "spatial_color_mapping": "Contiguous low-intensity pigmentation across both lobes; distinct high-contrast localized clusters of white and pinkish pixels are mapped to the extreme distal tips (0, 0.95 and 1.0, 0.95 relative coordinates)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped depression with a wide obtuse angle and low pixel depth relative to the total lobe chord.",
+    "edge_topography_serration_map": "Linear boundary shows low-amplitude, low-frequency variations along the inner trailing edges, transitioning to high-amplitude, irregular jagged peaks at the distal tips.",
+    "lobe_sweep_trajectory": "Symmetrical upward convexity following a parabolic curve from the notch to the lateral extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast pixel clusters located at the extreme tips of both lobes, exhibiting roughly circular and clustered geometries.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular morphology and perceived loss of edge integrity at the distal tips of both lobes, corresponding with high-intensity pixel clusters.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) distribution across >95% of visible surface; high-intensity (white) pixel clusters restricted to distal lateral margins.",
+    "spatial_color_mapping": "Solid black contiguous region mapping to the central and medial fluke surface. High-contrast, irregularly shaped white clusters (mottling) mapped to coordinates at the extreme distal tips of both left and right lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an acute angle and significant bounding-box penetration into the fluke body.",
+    "edge_topography_serration_map": "Low-frequency, low-amplitude irregularities along the medial trailing edge, transitioning to high-frequency, jagged serrations and pixel peaks at the distal margins.",
+    "lobe_sweep_trajectory": "Symmetric convex curvature along the trailing edge of both lobes, tapering to narrow distal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, roughly circular high-contrast white pixel clusters localized exclusively on the distal lateral margins of both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant localized white scarring and presumed barnacle-related pigmentation disruption at the outer tips of both lobes.",
+  "other_distinctive_markers": "Presence of high-contrast alphanumeric metadata in the lower portion of the image frame ('KCB 77/ 20', '10173', 'KEN BALCOMB', '20 Aug 87')."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white and light-gray pixels occupy approximately 85% of the visible surface, sharply contrasted by low-intensity black pixels localized to the trailing edge and distal tips.",
+    "spatial_color_mapping": "Large contiguous high-intensity region across the central fluke. A continuous low-intensity band maps along the entire trailing edge boundary. Discrete low-intensity focal spots are present in the lower quadrant of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped median notch with a calculated internal pixel angle of approximately 48 degrees.",
+    "edge_topography_serration_map": "Continuous high-frequency, low-amplitude serrations (peaks and valleys) detected along the black trailing edge boundary from the notch to both lobe tips.",
+    "lobe_sweep_trajectory": "Convex trailing edge curvature observed on both lobes, transitioning into sharp lateral tapers at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of a high-contrast, textured yellowish-white cluster at the terminal tip of the left lobe. Sparse dark-pixel clusters distributed on the left lobe's inner surface.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Prominent, textured calcified growth or barnacle colony attached to the far-left fluke tip.",
+  "other_distinctive_markers": null
+}

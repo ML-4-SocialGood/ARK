@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low contrast due to high-key lighting; approximately 65% low-intensity (dark-grey) to 35% high-intensity (white/mottled) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Central low-intensity dark wedge extending from peduncle to notch; high-intensity light-grey mottling concentrated in the central-medial regions of both lobes, exhibiting irregular, non-geometric boundaries."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible U-shaped depression; calculated interior angle at approximately 115 degrees with a deep bounding-box penetration relative to the lobe heights.",
+    "edge_topography_serration_map": "Irregular, high-frequency serration along the continuous linear boundary; right lobe trailing edge shows 5-7 distinct small-amplitude peaks; left lobe shows a smoother, more eroded topography.",
+    "lobe_sweep_trajectory": "Compound s-curve fitted to the trailing edge; concave sweep from the median notch transitioning to a wide convex arc toward the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density cluster of high-intensity circular pixel groups on the extreme lateral right tip; scattered individual white punctate marks across the primary dark-pigmented central area.",
+    "linear_abrasions": "Short, unaligned linear white pixel disruptions visible on the left lobe, oriented at roughly 45-degree angles to the fluke's horizontal axis."
+  },
+  "acquired_anomalies_or_scars": "Prominent, irregular cluster of barnacle colonization or localized scarring at the right lateral tip; minor distal margin irregularities on the left lateral tip.",
+  "other_distinctive_markers": "Significant pixel saturation and overexposure on the water-subject interface, obscuring fine detail at the absolute distal margins."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio (~1.5:1 white-to-black pixel area). Bright white regions occupy approx. 60% of visible surface area, primarily on outer lobes, with dark pigmented regions concentrated at the central peduncle and trailing edge periphery.",
+    "spatial_color_mapping": "Dominant high-intensity white blobs located at [x=0-400, y=300-600] and [x=600-1000, y=300-600] segmented by a dark central column [x=450-550]. High-frequency dark circular points are distributed throughout the high-intensity white regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Approximately 52-degree V-shaped notch located at central convergence point [x=500, y=480], with a vertical depth of approximately 15% of the total vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude micro-serrations visible along the entire continuous linear boundary. Peaks and valleys exhibit irregular spacing with pixel amplitudes ranging from 3 to 8 pixels against the background sky.",
+    "lobe_sweep_trajectory": "Bilateral symmetry showing a primarily straight trajectory with slight convexity (positive curvature) leading toward the distal tips; extreme distal tips exhibit a slight upward inflection."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed circular and ring-shaped dark pixel clusters (diameter 10-25 pixels) located primarily on the white ventral surfaces of both lobes. Highest density noted at the right distal tip [x=850-950, y=350-450].",
+    "linear_abrasions": "Four distinct, parallel diagonal white-on-black linear marks (rake marks) oriented at approximately 45 degrees, located on the left-central dark pigmented area [x=400-450, y=400-500]."
+  },
+  "acquired_anomalies_or_scars": "Extensive parallel rake marks on central-left peduncle area; significant barnacle rosette scarring across entire ventral lobe surface area.",
+  "other_distinctive_markers": "The right distal tip displays a distinct posterior-ventral curl, resulting in a pixel-heavy rounded profile compared to the more tapered left tip."
+}

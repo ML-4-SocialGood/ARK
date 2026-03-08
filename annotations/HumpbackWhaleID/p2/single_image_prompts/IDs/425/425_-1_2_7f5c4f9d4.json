@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Bimodal distribution with high-intensity (white) regions on distal lobes and low-intensity (black) regions centrally and along trailing edges; approximately 40% white to 60% black pixel ratio.",
+    "spatial_color_mapping": "Two contiguous high-intensity white patches on the lateral quadrants of the fluke; central region and trailing edge boundaries are low-intensity black, forming a wide inverted-T shape."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with clearly defined pixel boundaries at the central division.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude irregular serration along the continuous trailing edge; right lobe distal edge exhibits sharper, more jagged pixel-amplitude peaks.",
+    "lobe_sweep_trajectory": "Symmetrical concave curvature of the trailing edge terminating in pointed lobe tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of low-intensity pixels within high-intensity regions, specifically on the distal upper portion of the right lobe and scattered speckling on the left lobe.",
+    "linear_abrasions": "A distinct vertical black linear mark on the right lobe; a short horizontal dark line near the inner boundary of the left lobe white region."
+  },
+  "acquired_anomalies_or_scars": "Prominent vertical dark linear mark ('liner' mark) on the right lobe ventral surface.",
+  "other_distinctive_markers": "Alphanumeric identification text 'NAHWC #0263 Liner' present in the lower margin of the frame."
+}

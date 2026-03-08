@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark grey) with approximately 15-20% high-intensity (white/light grey) pixels corresponding to scar tissue and surface marks.",
+    "spatial_color_mapping": "High-intensity pixels are mapped as fine linear filaments (scratches) and small localized clusters (scars) distributed across the mid-to-distal regions of both lobes, contrasted against a uniform low-intensity black background."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with an approximate internal angle of 45-55 degrees; depth is significant, extending approximately 20-25% into the visible vertical fluke height.",
+    "edge_topography_serration_map": "Highly irregular and jagged boundary; continuous extraction reveals frequent high-amplitude peaks and deep valleys (serrations) along the entire trailing edge of both lobes.",
+    "lobe_sweep_trajectory": "Outer margins display a consistent concave upward-and-outward sweep from the water line to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct cluster of high-intensity punctate pixel groups localized on the far left distal tip, consistent with barnacle attachment; smaller scattered clusters visible on the right lobe.",
+    "linear_abrasions": "Extensive detection of white linear pixel disruptions (rake marks); multiple sets of parallel lines are clearly visible on the upper-central regions of both lobes."
+  },
+  "acquired_anomalies_or_scars": "Extreme fragmentation and deep serrations along the trailing edge indicating significant physical trauma; dense coverage of linear and punctate white scars across the entire visible ventral surface.",
+  "other_distinctive_markers": null
+}

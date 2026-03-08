@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixels with high-intensity (white) patches at the distal regions of both lobes; approximate visible surface ratio of 75% dark to 25% light.",
+    "spatial_color_mapping": "Large contiguous dark-grey to black central region extending from the peduncle to the trailing edge. High-intensity white patches are localized at the distal tips. Left tip (viewer's perspective) contains a white field with dark mottling. Right tip contains a white field with distinct diagonal dark linear streaks."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped central depression with an estimated pixel angle of 60-70 degrees and a bounding-box depth approximately 1/6th of the lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitude variations of 2-5 pixels along the continuous trailing boundary; most pronounced on the inner edge of the right lobe and the outer tip of the left lobe.",
+    "lobe_sweep_trajectory": "Convex curvature on the outer lateral margins sweeping upwards, transitioning to a complex, non-linear trailing edge boundary."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple small, roughly circular high-contrast white pixel clusters (scars) concentrated on the dark peduncle and central lower fluke surface.",
+    "linear_abrasions": "Distinct dark diagonal linear streaks crossing the high-intensity white patch on the right distal lobe; vertical dark linear streaks present on the left distal lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive punctate white scarring on the peduncle; prominent irregular indentation on the trailing edge of the left lobe (viewer's perspective) near the distal tip.",
+  "other_distinctive_markers": "Unique mottled pigmentation pattern within the white distal patches, characterized by high-contrast dark spots and streaks against a white background."
+}

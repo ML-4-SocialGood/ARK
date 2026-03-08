@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 80% low-intensity pixels (black) to 20% high-intensity pixels (white/tan), with high-intensity areas concentrated at the distal lobe tips.",
+    "spatial_color_mapping": "Contiguous high-intensity patches are mapped to the distal margins of both lobes. The left tip contains a broad white patch with tan internal mottling. The right tip shows a similar but slightly more fragmented white/tan patch. The central fluke body is a solid low-intensity black field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped notch; calculated interior angle is approximately 65 degrees with a significant vertical depth relative to the horizontal lobe span.",
+    "edge_topography_serration_map": "High-frequency serration along the entire visible trailing edge; distinct pixel-amplitude peaks (valleys and ridges) are most concentrated on the medial half of the left lobe and the central portion of the right lobe.",
+    "lobe_sweep_trajectory": "Convex upward trajectory from the central notch leading to pointed distal tips on both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast white circular point clusters detected at the furthest lateral and superior edges of both lobes, corresponding to outer-edge scarring.",
+    "linear_abrasions": "Multiple high-contrast linear disruptions; one prominent diagonal mark on the left-central lobe and several shorter, varied-angle streaks across the right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Multiple white linear rake marks distributed across the central black regions of both lobes; orange-tan surface discoloration present within the distal white patches.",
+  "other_distinctive_markers": "Highly distinctive tan-colored pigmentation localized within the white high-intensity fields at the outer tips of both lobes."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio (~45:55 white-to-black pixel distribution) with sharp transitions between high-intensity white patches and low-intensity black regions.",
+    "spatial_color_mapping": "Large contiguous white patches located on the distal halves of both lobes. The left lobe (viewer perspective) contains a broad triangular white region extending from the tip toward the midline. The right lobe (viewer perspective) exhibits a narrower white band localized along the trailing edge and tip. The central region surrounding the notch is entirely black."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated internal angle of approximately 50 degrees and a defined vertex at the fluke midline.",
+    "edge_topography_serration_map": "Continuous irregular serration map along the trailing boundary featuring semi-circular scalloped peaks with varying pixel amplitudes of 5-15 units relative to the mean edge trajectory.",
+    "lobe_sweep_trajectory": "Highly convex curvature on leading edges; trailing edges follow a sigmoidal curve with a concave sweep approaching the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of high-contrast, textured tan and white pixel groups at the distal tips of both lobes, corresponding to active barnacle colonization.",
+    "linear_abrasions": "Faint, horizontal dark linear disruptions visible within the high-intensity white patch of the left lobe (viewer perspective)."
+  },
+  "acquired_anomalies_or_scars": "Extensive calcified barnacle clusters at the extreme lateral tips of both lobes.",
+  "other_distinctive_markers": "Small, discrete dark circular mottling spots distributed within the interior of the primary white patch on the left lobe (viewer perspective)."
+}

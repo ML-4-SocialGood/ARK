@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70:30 ratio of low-intensity (black/dark-grey) to high-intensity (white) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Concentrated high-intensity contiguous region in the upper-left lobe quadrant; dense scattering of small high-intensity focal spots across the central and lower fluke regions; right lobe is predominantly low-intensity with sparse high-contrast white clusters."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep acute V-shaped notch with an approximate 45-55 degree angle and a bounding-box depth approximately 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations (5-15 pixel deviations) detected along the entire trailing edge; distinct irregular peaks and valleys on the medial portion of the right lobe.",
+    "lobe_sweep_trajectory": "Left lobe follows a broad convex sweep to the apex; right lobe exhibits a truncated, irregular trajectory terminating in a jagged edge."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense spatial detection of small circular white-on-black pixel clusters (3-10 pixel diameter) concentrated in the lower ventral regions and scattered across the right lobe lobe surface.",
+    "linear_abrasions": "Distinct horizontal and diagonal unaligned linear pixel disruptions observed in the upper-medial region of the left lobe, breaking the primary pigmentation pattern."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular tissue loss and jagged truncation at the right lobe tip; multiple deep non-uniform indentations along the trailing edge indicating physical trauma.",
+  "other_distinctive_markers": "Distinctive high-density 'salt-and-pepper' stippling effect on the lower fluke surface near the peduncle attachment."
+}

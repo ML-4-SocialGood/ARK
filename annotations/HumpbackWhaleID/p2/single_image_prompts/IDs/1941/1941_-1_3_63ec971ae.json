@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The image is dominated by low-intensity (dark grey to black) pixels covering approximately 95% of the visible fluke surface, contrasted with high-intensity (white) pixels concentrated in punctate spots and circular ring structures.",
+    "spatial_color_mapping": "Primary pigmentation is a contiguous dark field. High-contrast white circular rings (rosettes) are localized at coordinate regions corresponding to the mid-left lobe, mid-right lobe, and a dense cluster on the distal-right lobe. Scatterings of high-intensity white noise/splashes are present along the lower margins."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A central U-shaped depression divides the lobes with an estimated interior angle of 115 to 125 degrees at the base; the notch depth is shallow relative to the vertical pixel-height of the lobes.",
+    "edge_topography_serration_map": "The trailing edge boundary is characterized by high-frequency, irregular serrations. The right lobe edge displays more pronounced peaks (pixel-amplitude variations) than the left, which has a comparatively smoother, though still jagged, profile.",
+    "lobe_sweep_trajectory": "The trailing edge of both lobes follows a generally concave curve as they extend laterally and upward from the median notch toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Highly visible white circular ring patterns, likely barnacle scars, are distributed across the fluke. Specifically, one large ring is visible on the inner-left lobe, one on the inner-right, and a complex cluster is located near the right distal tip.",
+    "linear_abrasions": "Several fine, high-contrast white linear pixel-marks are visible on the distal-right lobe, oriented horizontally and crossing the primary pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Extensive circular scarring (rosettes) is present across the ventral surface. The far-right distal tip features a high-intensity white protrusion, and the left distal tip shows an irregular, jagged truncation suggesting previous tissue loss or trauma.",
+  "other_distinctive_markers": null
+}

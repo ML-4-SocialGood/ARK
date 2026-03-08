@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 85:15 ratio of low-intensity (black/dark grey) to high-intensity (white/light grey) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "High-intensity white contiguous clusters are located at the distal tips of both left and right lobes. A prominent mid-intensity grey irregular geometric patch is mapped to the lower-central region of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with an approximate 45-degree interior angle and a bounding-box depth approximately 15% of the total visible fluke height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations consisting of sharp peaks and shallow valleys distributed along the entire upper boundary; serration amplitude increases significantly at the lateral distal tips.",
+    "lobe_sweep_trajectory": "Symmetrical convex curves fitted to the outer lateral boundaries of both lobes, tapering inward toward the water line insertion point."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of a cluster of roughly circular, mid-intensity pixel regions (diameter approx. 10-20 pixels) located on the lower-medial quadrant of the left lobe.",
+    "linear_abrasions": "Faint, unaligned linear pixel disruptions (grey-on-black) oriented diagonally on the medial-right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Large, irregular mid-intensity grey depigmentation patch on the left lobe, showing jagged boundaries against the primary low-intensity background.",
+  "other_distinctive_markers": "Distinct asymmetry in the white pigmentation pattern at the tips; the right tip exhibits a vertical, comb-like high-intensity pattern whereas the left tip shows a more horizontal, solid distribution."
+}

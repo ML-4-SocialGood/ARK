@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 60% low-intensity (black) to 40% high-intensity (white) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Dominant black central field. Left lobe contains a cluster of high-contrast white mottling in the distal mid-section. Right lobe features a large diagonal swath of white pixels from the leading edge toward the center, overlaid with dark linear streaks."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped notch with an estimated angle of 110 degrees and a defined vertex point.",
+    "edge_topography_serration_map": "Left lobe trailing edge displays high-amplitude, irregular peaks and deep valleys. Right lobe trailing edge displays lower-amplitude, higher-frequency serrations with a more uniform distribution.",
+    "lobe_sweep_trajectory": "Leading edges exhibit continuous convexity. Trailing edges follow a concave sweep from the median notch towards the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-intensity white spots on the lower right lobe near the water interface. A dark, irregular mass at the extreme distal tip of the left lobe.",
+    "linear_abrasions": "Series of parallel, dark linear pixel streaks (rake marks) cutting through the high-intensity white field on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Structural deformity and reddish-brown pixel discoloration at the tip of the left lobe indicating physical trauma. Parallel linear scarring on the right lobe surface.",
+  "other_distinctive_markers": "A single, unusually deep secondary notch on the trailing edge of the left lobe, approximately one-third of the distance from the tip to the center."
+}

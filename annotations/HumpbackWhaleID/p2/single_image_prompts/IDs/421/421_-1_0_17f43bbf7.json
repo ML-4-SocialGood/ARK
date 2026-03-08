@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio of approximately 0.65 high-intensity (white) to 0.35 low-intensity (black) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Dominant high-intensity white contiguous zones occupying the central 70% of each lobe. Low-intensity black pigmentation forms a continuous boundary along the trailing edge and converges at the median notch. A distinct, high-contrast vertical black linear feature is positioned in the mid-right lobe (approx. x=0.75 relative width). Dark mottling clusters are visible on the inner portion of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated pixel angle of approximately 65 degrees forming a deep V-shaped depression; apex is sharply defined at the junction of the two lobes.",
+    "edge_topography_serration_map": "Highly irregular trailing edge with frequent peaks and valleys (amplitude 5-15 pixels). Distal tips exhibit extreme topographic irregularity due to clustered biological growth.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a broad convex sweep from the notch towards the distal tips, ending in tapered, jagged points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast textured pixel clusters located on both the left and right distal tips, indicating barnacle colonization. Numerous small, low-intensity circular spots (mottling) are distributed across the white ventral regions.",
+    "linear_abrasions": "One prominent, near-vertical low-intensity linear feature (rake mark or scratch) on the right lobe. Several smaller, faint horizontal linear pixel disruptions on the inner left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant vertical linear scar on the right lobe; prominent barnacle encrustations on both fluke tips; presence of a yellowish-green linear object (seaweed or rope) trailing from the right distal tip.",
+  "other_distinctive_markers": "The combination of the heavy barnacle accumulation on the tips and the singular, high-contrast vertical scar on the right lobe creates a highly unique pixel signature."
+}

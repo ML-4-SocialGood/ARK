@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro contrast between dominant low-intensity black pigmentation and sparse high-intensity white markings. White pixel distribution is approximately <10% of total visible fluke surface area.",
+    "spatial_color_mapping": "Black (low intensity) base across both lobes. Discrete white (high intensity) clusters of 1-5 pixel diameter scattered across the central surface. High-density contiguous white cluster located at the right distal tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate angle of 50 degrees, bifurcating the two lobes.",
+    "edge_topography_serration_map": "The right trailing edge exhibits irregular serrations with visible peaks and valleys. The left trailing edge is significantly occluded by foreground avian subjects, preventing full extraction.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edges towards the median notch; convex leading edges."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular high-contrast white clusters distributed across the ventral surface, primarily on the right lobe and center.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive high-intensity white scarring and irregular tissue growth located at the right lateral fluke tip.",
+  "other_distinctive_markers": "Extensive occlusion of the fluke surface by multiple avian subjects (birds) in the foreground, creating motion-blurred pixel clusters across the field of view."
+}

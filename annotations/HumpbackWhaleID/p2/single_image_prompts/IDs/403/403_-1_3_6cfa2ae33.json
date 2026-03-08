@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70% high-intensity (white/light-grey) to 30% low-intensity (black/dark-grey) across the visible fluke surface.",
+    "spatial_color_mapping": "Central and distal fluke regions contain dominant high-intensity pixel fields. A continuous low-intensity (dark) band follows the trailing edge. A significant, irregular dark mottled cluster extends from the median notch into the lower-proximal quadrant of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate pixel-calculated angle of 45-50 degrees.",
+    "edge_topography_serration_map": "Continuous irregular serration along the trailing edge with pixel-amplitude variations of 4-10 pixels between peaks and valleys.",
+    "lobe_sweep_trajectory": "Convex curvature fitted to the trailing edge of both lobes, transitioning into sharp, slightly elevated terminal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65% low-intensity (black/dark grey) to 35% high-intensity (white/light grey) distribution across the visible fluke surface.",
+    "spatial_color_mapping": "Distal regions of both lobes feature high-intensity white mottling. The right lobe distal region contains a large contiguous white patch with integrated dark circular voids. The left lobe distal region exhibits fragmented, streaky white patterns. The central peduncle and medial lobe areas are characterized by solid low-intensity black pigmentation."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped central depression with an estimated interior angle of 135 degrees and a bounding-box depth approximately 1/12th of the vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the entire trailing boundary. The left lobe edge displays several distinct macro-indentations (notches), while the right lobe edge shows a more uniform but jagged micro-serration pattern.",
+    "lobe_sweep_trajectory": "Lobes follow an asymmetrical sigmoidal curve; concave near the median notch, transitioning to a convex mid-section, and tapering into sharp, upwardly-angled tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular high-contrast features detected. A prominent white ring with a dark center (bullseye) is visible in the upper-right white patch. Several small, high-intensity white circular clusters are scattered across the dark central pigmentation.",
+    "linear_abrasions": "A series of dark, parallel diagonal rake marks intersect the white mottling on the left lobe. A single, distinct high-intensity vertical linear mark is visible on the central dark region of the fluke."
+  },
+  "acquired_anomalies_or_scars": "Heavy, irregular calcified accretions (barnacles) are concentrated at the terminal tips of both lobes. A significant indentation/chunk is missing from the trailing edge of the left lobe, approximately mid-way between the notch and the tip.",
+  "other_distinctive_markers": "Highly unique pair of ocellated (eye-like) dark spots positioned within the white pigment zone of the distal right lobe."
+}

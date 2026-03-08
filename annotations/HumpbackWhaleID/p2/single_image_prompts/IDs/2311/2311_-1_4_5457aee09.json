@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark grey) pixels across the majority of the surface area, with approximately 5-8% high-intensity (white/light grey) pixels concentrated in localized clusters.",
+    "spatial_color_mapping": "Discontinuous high-contrast circular clusters (rosettes) located primarily on the lateral lobes. The central region near the notch and peduncle consists of a contiguous low-intensity dark mapping with minor pixel-level variations."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with a measured interior angle of approximately 55 degrees; the notch depth extends approximately 12% into the total vertical bounding box of the fluke.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (peaks and valleys) visible along the entire boundary from the median notch to the lateral tips, with a higher peak density on the right lobe.",
+    "lobe_sweep_trajectory": "Overall convex trajectory of the trailing edge sweeping upward towards the tips, with a slight concavity transition as the edge approaches the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Widespread spatial detection of roughly circular, high-contrast pixel clusters (3-12 pixels in diameter) distributed across the mid-to-distal regions of both lobes.",
+    "linear_abrasions": "Several horizontal and vertical linear pixel disruptions, notably a distinct horizontal mark located approximately 40 pixels to the right of the median notch axis."
+  },
+  "acquired_anomalies_or_scars": "Heavy accumulation of high-intensity, textured pixel clusters at the extreme distal tips of both lobes, suggesting significant barnacle colonization or physical trauma.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level ratio; approximately 85% high-intensity white pixels vs 15% low-intensity black pixels across the visible ventral field.",
+    "spatial_color_mapping": "Large contiguous high-intensity white zone across the central fluke surface. Low-intensity black margins along the trailing edges. Isolated circular dark clusters (mottling) distributed across the mid-section of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a sharp vertex convergence and significant depth relative to the lobe width.",
+    "edge_topography_serration_map": "The right lobe (viewer perspective) exhibits high-frequency, high-amplitude saw-tooth serrations with multiple sharp peaks. The left lobe exhibits lower-frequency, shallower edge irregularities.",
+    "lobe_sweep_trajectory": "Concave curve fitted from the median notch extending towards the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple circular dark pixel clusters (diameter 5-15 pixels) scattered across the high-intensity fields of both lobes.",
+    "linear_abrasions": "Fine vertical low-intensity linear streaks visible on the lower-right quadrant of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Brown-toned textured protrusion on the right-most lateral tip consistent with external colonization; jagged, irregular contour disruptions on the right trailing edge suggesting historical physical trauma.",
+  "other_distinctive_markers": "Pronounced asymmetry in serration amplitude and frequency between the left and right lobe trailing edges."
+}

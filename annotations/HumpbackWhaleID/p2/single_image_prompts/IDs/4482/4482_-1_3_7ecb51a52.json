@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast; approximately 85% high-intensity (white) pixels to 15% low-intensity (black/dark-gray) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Continuous low-intensity black banding along lateral and trailing margins; interior high-intensity field contains discrete circular low-intensity clusters and irregular mid-intensity tan/yellow geometric patches in the lower-central regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated pixel angle of approximately 55 degrees and a bounding-box depth of ~12% total fluke height.",
+    "edge_topography_serration_map": "High-frequency irregular serration pattern with pixel amplitudes ranging from 3-8 pixels; peaks are most pronounced on the lateral 25% of the trailing edges.",
+    "lobe_sweep_trajectory": "Sigmoidal curve with convex sweep from the median notch transitioning to a slight concavity at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense cluster of circular, high-contrast nodes on the far right distal tip; multiple isolated low-intensity circular clusters (0.5-1.5% lobe width) scattered across both lobes.",
+    "linear_abrasions": "Thin, unaligned low-intensity linear disruptions detected on the mid-left lobe, cutting across the dominant white pigmentation field."
+  },
+  "acquired_anomalies_or_scars": "Protruding high-contrast mass (barnacle colonization) localized on the right distal tip; irregular jagged indentations on the trailing edge of the left lobe indicating tissue loss.",
+  "other_distinctive_markers": "Pronounced yellowish-tan surface discoloration (diatom film) concentrated in the medial-proximal region near the peduncle junction."
+}

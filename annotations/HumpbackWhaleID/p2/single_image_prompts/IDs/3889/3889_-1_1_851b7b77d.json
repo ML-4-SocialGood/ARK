@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution; approximately 40% high-intensity white/light-gray pixels concentrated on distal lobes and 60% low-intensity black/dark-gray pixels in the medial and basal regions.",
+    "spatial_color_mapping": "Contiguous high-intensity white fields located on the lateral-distal regions of both lobes. The left lobe white field is larger and more solid, extending from the tip to approximately mid-lobe. The right lobe white field is segmented by a higher density of low-intensity dark pixel mottling. Central medial region near the notch is solid low-intensity black."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped median notch with a calculated pixel angle of approximately 80 degrees; depth is significant, extending approximately 15% into the fluke chord length.",
+    "edge_topography_serration_map": "Visible serrations along the entire trailing edge boundary. Frequency increases toward the distal tips, with higher amplitude 'peaks' (3-5 pixels) visible on the outer edge of the left lobe compared to the right.",
+    "lobe_sweep_trajectory": "Strongly convex trajectory on the trailing edge leading to tapered, upward-pointing distal tips. The leading edge (submerged) follows a concave arc toward the peduncle."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Several dark, circular pixel clusters (approx. 5-10 pixels in diameter) distributed within the white field of the distal left lobe. A cluster of smaller dark spots is visible near the upper-mid region of the right lobe's white field.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Irregular jagged edge topography on the far distal tip of the left lobe, indicating minor historical tissue loss or characteristic wear.",
+  "other_distinctive_markers": "A specific isolated dark-pixel 'island' (approx. 15x10 pixel area) located within the white pigmentation field on the distal-most portion of the left lobe."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark-gray) pixels covering approximately 95% of the visible surface; high-intensity pixels (white) are restricted to small, isolated clusters and distal tips.",
+    "spatial_color_mapping": "Solid low-intensity dark field across both lobes. High-contrast white focal spots (approx. 5-10 pixels) are sparsely distributed: three visible near the median notch and two on the mid-left lobe. High-intensity multi-color clusters (tan, white, red) are localized at the distal-most coordinates of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with well-defined linear boundaries meeting at a central vertex; depth is approximately 15% of the total visible lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the full length of the trailing edge; pixel-amplitude variations of 5-15 pixels create a distinct sawtooth profile relative to the water background.",
+    "lobe_sweep_trajectory": "Lateral sweep following an upward-convex curve on the trailing edge boundary, tapering significantly as it reaches the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of several discrete, circular high-contrast white clusters (approximately 4-6 identifiable points) located on the inner lobe surfaces proximal to the central notch.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Dense, irregular clusters of textured, high-contrast pixels (white, brown, and reddish-pink tones) localized at the extreme distal tips of both the left and right lobes, indicating significant biological encrustation.",
+  "other_distinctive_markers": "A prominent, high-contrast thin white circular ring (potential water artifact or annular scar) is visible on the medial-posterior region of the right lobe surface."
+}

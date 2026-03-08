@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels dominate the central regions of both lobes, contrasted by low-intensity black pixels at the trailing edge, lateral tips, and median notch area; approximate visual ratio 65:35.",
+    "spatial_color_mapping": "Large contiguous white regions occupy the central 70% of each lobe. Dense black pigmentation forms a continuous border along the trailing edge and a large triangular cluster at the median notch. High-frequency black speckling/mottling is localized at the inferior transition zone between the white central region and the black notch area on both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated internal angle of approximately 40 degrees; depth occupies approximately 25% of the visible vertical fluke axis.",
+    "edge_topography_serration_map": "High-frequency, irregular serration across the entire trailing edge boundary. Significant jagged peaks are visible, particularly on the inner half of the right lobe trailing edge, with pixel-amplitude variations of approximately 5-12 pixels.",
+    "lobe_sweep_trajectory": "Sigmoidal curve profile; concave near the median notch, transitioning to convex toward the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": "Three distinct, dark, unaligned linear marks (rake-like scratches) are visible on the lower-right white region, oriented diagonally from the lower-inner toward the upper-outer quadrant."
+  },
+  "acquired_anomalies_or_scars": "Prominent dark linear abrasions on the right lobe; irregular serration pattern on the right lobe trailing edge suggests minor historical tissue loss.",
+  "other_distinctive_markers": "Highly distinctive stippled transition zone between the black median notch and the white central lobes, characterized by high-density, small-diameter low-intensity pixel clusters."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Dominance of low-intensity black pixels (estimated >85%) with localized high-intensity white pixel clusters concentrated exclusively at the distal tips of the lobes.",
+    "spatial_color_mapping": "Large contiguous high-intensity mottle on the distal left lobe tip; smaller, fragmented high-intensity patch on the distal right lobe tip; central and medial regions consist of a solid low-intensity black field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped central depression with an acute angle and significant bounding-box depth relative to the horizontal axis of the fluke.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude irregular serrations characterized by jagged peaks and valleys along the entire linear boundary of the trailing edge.",
+    "lobe_sweep_trajectory": "Mathematical concave curve fitted to the trailing edge, tapering to sharp, lateral terminal points on both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast circular pixel clusters (likely barnacle colonization) localized at the extreme lateral terminal tips of both the left and right lobes.",
+    "linear_abrasions": "Detection of multiple vertical and diagonal linear pixel disruptions (scratches) within the high-intensity white patch on the distal left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive irregular erosion/jaggedness of the trailing edge boundary; prominent vertical structural ridging and indentations visible in the central fluke region.",
+  "other_distinctive_markers": "Presence of high-intensity pixel noise from water spray and droplets partially occluding the lower ventral surface boundary."
+}

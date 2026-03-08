@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level ratio estimated at 92:8 favoring high-intensity white pixels over low-intensity black perimeter pixels.",
+    "spatial_color_mapping": "Primary high-intensity white region spanning ~92% of the visible ventral area. A narrow, discontinuous low-intensity black border (3-10 pixels wide) follows the trailing edge. High-contrast dark clusters are fixed at both distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an internal angle of approximately 64 degrees and a bounding-box depth of approximately 12% of the fluke's vertical span.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern across the entire trailing edge boundary; pixel-amplitude of variations ranges from 4 to 20 pixels relative to the mean lobe arc.",
+    "lobe_sweep_trajectory": "The trailing edge exhibits a primarily convex sweep from the median notch to the distal tips, with increased downward curvature at the outer lobe extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense dark pixel clusters located at both the left and right distal tips; approximately 4-6 isolated low-intensity focal spots detected in the lower central white field near the peduncle junction.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular dark textural massing at both fluke tips, indicating localized physical trauma or dense barnacle colonization sites.",
+  "other_distinctive_markers": null
+}

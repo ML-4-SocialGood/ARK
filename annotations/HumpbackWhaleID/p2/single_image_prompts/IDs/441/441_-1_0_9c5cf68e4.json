@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity (white) surface area with low-intensity (black) borders; approximate 85:15 white-to-black pixel distribution.",
+    "spatial_color_mapping": "Large contiguous white regions occupy the central lobes. Black pigmentation is mapped to the trailing edge periphery and a significant vertical cluster centered at the median notch. Sparse black mottling is scattered across the interior ventral surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central notch with an approximate vertex angle of 105 degrees and a deep bounding-box penetration relative to the lobe height.",
+    "edge_topography_serration_map": "High-frequency micro-serrations with pixel-amplitudes between 4-10 pixels; serrations are jagged and irregular, appearing most prominently on the upper-right trailing edge.",
+    "lobe_sweep_trajectory": "Strongly convex upward sweep on the distal portion of the lobes, curving into an acute angle at the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density, textured clusters of off-white/yellowish geometric masses (barnacles) located at the extreme distal tips of both left and right fluke lobes.",
+    "linear_abrasions": "Distinct dark linear pixel disruptions (rake marks) crossing the white ventral fields; notable horizontal streak on the mid-left lobe and multiple vertical/diagonal streaks on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization at the terminal tips and prominent dark linear rake marks (tooth scars) across both lobes.",
+  "other_distinctive_markers": "The black pigmentation at the median notch forms a distinctive 'Y' shape that extends vertically toward the peduncle junction."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 65% high-intensity white pixels and 35% low-intensity black pixels across the ventral surface.",
+    "spatial_color_mapping": "Dominant contiguous white regions occupy the central areas of both lobes. A broad, low-intensity black region extends from the peduncle into a triangular shape at the fluke center. Black pixel mapping is also concentrated along the entire trailing edge and distal tips, with a transition zone of high-frequency mottling between the white and black fields."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated interior pixel angle of approximately 42 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the full trailing edge. Pixel-amplitude of peaks and valleys varies between 3 and 12 pixels, creating a jagged, non-linear boundary profile.",
+    "lobe_sweep_trajectory": "The leading edges exhibit a smooth convex curve toward the tips. The trailing edge follows a generally concave sweep from the tips toward the median notch, heavily modified by local serration geometry."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-intensity, roughly circular pixel groups (barnacles) are visible at the extreme distal tips of both the left and right lobes.",
+    "linear_abrasions": "Several faint, vertical low-intensity linear disruptions are detectable on the high-intensity white field of the right lobe, oriented perpendicular to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Extensive colonization of sessile organisms (barnacles) at the lateral tips; highly irregular trailing edge profile indicates historical mechanical wear or tissue loss.",
+  "other_distinctive_markers": "Prominent dark pigmentation 'bridge' extending from the notch area upward into the fluke, creating a distinct visual bisection of the white ventral region."
+}

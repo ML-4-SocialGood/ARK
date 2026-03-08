@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Bimodal distribution with approximately 45% high-intensity pixels (white) and 55% low-intensity pixels (black/dark grey) across the visible ventral surface.",
+    "spatial_color_mapping": "Contiguous high-intensity white region occupies the distal two-thirds of the left lobe; low-intensity dark pigmentation dominates the proximal regions and the entirety of the right lobe, punctuated by small, discrete high-intensity circular nodes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped indentation with a deep vertical bounding-box depth relative to the fluke's horizontal axis.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations along the trailing edge boundary, appearing as a sequence of sharp pixel peaks and rounded valleys isolated from the water background.",
+    "lobe_sweep_trajectory": "Convex curvature on the trailing margins of both lobes, tapering towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple high-contrast white circular and semi-circular ring-shaped pixel clusters distributed across the dark pigmented regions of both lobes.",
+    "linear_abrasions": "Sparse, dark linear pixel disruptions (scratches) visible within the white pigmented area of the distal left lobe."
+  },
+  "acquired_anomalies_or_scars": "Dense, high-relief clusters of brownish-tan textured pixel masses (barnacle colonies) localized at the extreme distal tips of both the left and right fluke lobes.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "0.45:0.55 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "A centralized high-intensity white 'V' or anchor-shaped patch extends from the peduncle transition into the mid-lobes. The left lobe contains heavy black mottling and stippling within the white region. The right lobe features a relatively cleaner horizontal white band. Both lobes are bordered by thick, continuous black pigmentation along the leading and trailing edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A sharp, symmetric V-shaped notch with an approximate 45-degree interior angle and a narrow pixel-width at the vertex.",
+    "edge_topography_serration_map": "Low-frequency, low-amplitude serration along the inner-to-mid trailing edge. High-frequency, irregular pixel protrusions (10-20 pixels in height) are localized at the extreme distal tips, corresponding to biological encrustations.",
+    "lobe_sweep_trajectory": "The trailing edge follows a smooth concave curve from the median notch toward the tips, ending in a slight posterior flare at the distal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast brown and white pixel clusters (biological encrustations) are concentrated on both distal tips. Scattered circular white micro-spots are detected against the dark pigmentation of the lower central region and left lobe edge.",
+    "linear_abrasions": "Three distinct dark vertical linear disruptions are visible on the right white patch. A single, prominent vertical stroke is located approximately two-thirds of the way to the right tip."
+  },
+  "acquired_anomalies_or_scars": "Significant biological encrustations (likely barnacles) present on the distal tips of both fluke lobes, creating irregular, jagged topography.",
+  "other_distinctive_markers": "The central white pigmentation forms a distinct symmetrical 'winged' anchor shape, characterized by high-contrast transition boundaries between the white inner region and black outer margin."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 70:30 ratio of high-intensity white pixels (lobe interiors) to low-intensity black pixels (central peduncle, median notch region, and entire trailing edge perimeter).",
+    "spatial_color_mapping": "Two large, contiguous white ellipsoidal blobs occupying approximately 80% of the interior surface of each lobe; dark pigmentation (Value < 30) concentrated at the central axis and forming a jagged 10-40 pixel wide border along the trailing edge; distinct high-contrast dark circular spots located in the distal upper quadrant of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central depression with an internal angle of approximately 52 degrees; the vertex of the notch extends 15% into the vertical height of the fluke.",
+    "edge_topography_serration_map": "High-frequency serrated boundary with irregular peaks (1-8 pixel amplitude); a prominent macro-indentation (secondary notch) located on the trailing edge of the left lobe, approximately 20% distance from the median notch.",
+    "lobe_sweep_trajectory": "Outer margins follow a smooth convex curve from the peduncle base to the tips; trailing edges follow a generally horizontal but highly irregular linear path."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-intensity (white) circular pixel clusters localized at the distal tips of both the left and right lobes, consistent with barnacle colonization; scattered individual white circular points on the interior of the left lobe.",
+    "linear_abrasions": "Multiple dark, non-aligned linear streaks (rake marks) present on the lower-left interior lobe and mid-right lobe interior."
+  },
+  "acquired_anomalies_or_scars": "Large irregular indentation on the inner trailing edge of the left lobe; dense calcareous clusters (barnacles) at both distal fluke extremities.",
+  "other_distinctive_markers": "A vertical pair of distinct dark elliptical spots positioned in the distal-lateral region of the right lobe."
+}

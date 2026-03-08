@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low macro-level ratio; predominantly low-intensity (dark) pixels across >95% of the visible surface with sparse high-intensity (white) pixel clusters.",
+    "spatial_color_mapping": "Dominant uniform dark-gray/black base. Small high-contrast white pixel clusters localized at coordinates corresponding to the left distal tip and several isolated white spots scattered across the mid-region of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated internal pixel angle of approximately 65 degrees and a vertical bounding-box depth equivalent to ~10% of total fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations detected along the continuous boundary; higher amplitude peaks visible on the right lobe compared to the left; distinct jagged 'step' pattern near the right distal tip.",
+    "lobe_sweep_trajectory": "Convex curvature fitted to both the left and right trailing edges, tapering to sharp points at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of several roughly circular high-contrast white pixel clusters on the left lobe and near the trailing edge of the right lobe, likely indicative of barnacle attachment points.",
+    "linear_abrasions": "Distinct detection of multiple unaligned, light-colored linear pixel paths (scratches/rake marks) primarily on the left lobe, oriented diagonally toward the median notch."
+  },
+  "acquired_anomalies_or_scars": "Multiple white linear rake marks on the left lobe; irregular jagged trauma/missing tissue along the trailing edge of the right lobe.",
+  "other_distinctive_markers": "A specific high-contrast vertical white streak located approximately one-third of the way from the left tip toward the center."
+}

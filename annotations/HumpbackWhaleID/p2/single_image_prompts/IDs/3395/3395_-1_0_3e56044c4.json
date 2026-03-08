@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity (white) pixels dominate approximately 90% of the visible ventral surface, with low-intensity (black) pixels localized at the trailing edge, median notch, and specific surface marks.",
+    "spatial_color_mapping": "Primary high-intensity region occupies the central and lateral lobes. Significant low-intensity contiguous blobs are detected at the vertex of the median notch and in a jagged band along the trailing edge of the left lobe. A distinct isolated dark curved line is present in the mid-section of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a pixel-calculated interior angle of approximately 55 degrees; the vertex shows high-contrast dark pigmentation.",
+    "edge_topography_serration_map": "The left lobe trailing edge exhibits high-frequency, irregular serrations with varying amplitudes. The right lobe trailing edge is smoother but maintains a continuous linear boundary against the sky background.",
+    "lobe_sweep_trajectory": "Left lobe displays a relatively flat horizontal trailing edge trajectory before submerging; the right lobe exhibits a sharp linear upward sweep at approximately 40 degrees from the horizontal axis."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense dark pixel clusters are concentrated along the trailing edge margin of the left lobe and surrounding the median notch, consistent with high-contrast pigmentation or scarring.",
+    "linear_abrasions": "A single, highly distinct, dark curved linear disruption (rake mark or scratch) is visible on the left lobe, oriented roughly parallel to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular serration and potential tissue loss along the trailing edge of the left lobe compared to the smoother right lobe.",
+  "other_distinctive_markers": "Image contains explicit identification text in the lower margin: 'NAHWC #0521 Panda' and 'YoNAH #2976'."
+}

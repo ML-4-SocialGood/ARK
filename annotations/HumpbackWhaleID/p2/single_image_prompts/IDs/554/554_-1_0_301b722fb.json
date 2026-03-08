@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark grey/black) background covering approximately 85-90% of the surface area, with high-intensity (white) markings providing localized high-contrast regions.",
+    "spatial_color_mapping": "High-contrast markings are concentrated in the medial and basal regions of both lobes, consisting of white circular rings, irregular spots, and thin linear streaks against a dark field. The trailing edge regions maintain a higher density of low-intensity pixels."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations visible along the entire trailing edge boundary; approximately 25-30 distinct peaks and valleys identified per lobe with irregular spacing.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge transitioning to a sharp upward convexity at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely clustered circular and annular high-intensity pixel groups (diameter range 5-15 pixels) distributed across the central portion of both lobes, consistent with scar tissue mapping.",
+    "linear_abrasions": "Numerous unaligned, multi-directional linear white streaks (rake marks) observed; notable intersecting lines forming an 'X' pattern on the lower-left lobe and parallel tracks on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Protruding calcified clusters (barnacles) visible at both distal tips; distinct reddish-brown pixel cluster (lesion) on the upper-left lobe near the trailing edge.",
+  "other_distinctive_markers": "Presence of a distinct white ring pattern ('O' shape) on the right medial lobe and a high-density cluster of intersecting rake marks on the lower-left quadrant."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70% low-intensity (black) pixels in the central and basal regions to 30% high-intensity (white) pixels localized at the distal lobes.",
+    "spatial_color_mapping": "Contiguous high-intensity white regions occupy the outer lateral 25% of both lobes. These regions exhibit high-frequency black mottling/speckling at the interior boundaries, while the central fluke area remains a solid low-intensity black."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central U-shaped depression with a calculated pixel angle of approximately 60 degrees and a shallow depth relative to the lobe height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations visible across the entire trailing edge boundary. Multiple small, irregular V-shaped peaks and valleys are distinguishable against the water background.",
+    "lobe_sweep_trajectory": "Concave curvature along the proximal trailing edge transitioning to a straight, upward-sweeping trajectory toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, circular high-contrast white clusters detected on the far left distal tip and scattered within the black-to-white transition zones on both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Notable irregular indentation and loss of smooth contour on the superior lateral edge of the left lobe tip, consistent with physical trauma or tissue loss.",
+  "other_distinctive_markers": "Unique salt-and-pepper pixel distribution pattern at the interface of the black central mass and the white distal patches."
+}

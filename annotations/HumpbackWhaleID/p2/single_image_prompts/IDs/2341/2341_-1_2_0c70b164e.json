@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio of high-intensity pixels to low-intensity pixels; the visible ventral surface is approximately 92% dark pigment with 8% high-intensity white markings (scars and barnacles).",
+    "spatial_color_mapping": "Dominant dark base across both lobes with high-contrast white circular ring structures (rosettes) and linear white filaments. Clusters of high-intensity pixels are concentrated on the distal tips and scattered across the central surfaces."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch with a calculated angle of approximately 65 degrees and a bounding-box depth extending roughly 12% of the total vertical lobe height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations along the primary trailing edge; the topography becomes extremely irregular and high-amplitude at the distal tips due to biological encrustation (barnacles).",
+    "lobe_sweep_trajectory": "Broad convex sweep from the median notch toward the distal tips; the curve is highly jagged and irregular rather than a smooth arc."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular white ring scars (barnacle attachment marks) distributed across both lobes, with a notable cluster in the lower-central region of the right lobe.",
+    "linear_abrasions": "Distinct multi-directional linear white marks; one long vertical scratch is visible on the lower-left lobe, and several shorter rake marks are mapped on the upper-right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization present on the distal tips of both fluke lobes, resulting in significant geometric distortion of the natural edge. Numerous circular white scars and linear rake marks are visible across the entire ventral surface.",
+  "other_distinctive_markers": "Dense, bulbous clusters of white barnacles on the extreme lateral tips of the flukes, creating a unique high-contrast texture against the dark water background."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low global contrast due to significant underexposure; estimated 70:30 ratio of low-intensity (dark) to mid-intensity (greyish-white) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Contiguous low-intensity (black) zone centered at the medial axis and extending to the upper trailing edge; distal lobes display mid-intensity (grey) pixels with irregular, high-frequency dark mottling and clusters."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Approximate 85-degree V-shaped notch; depth occupies approximately 10-15% of the visible fluke height at the central vertical axis.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (approx. 2-5 pixel variance) along the continuous trailing edge boundary.",
+    "lobe_sweep_trajectory": "Convex curve trajectory observed on the outer lateral edges of the lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of roughly circular dark pixel clusters (3-10 pixels in diameter) localized within the mid-intensity zones on both distal lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Notable irregular jaggedness and potential tissue loss at the distal tips of both lobes.",
+  "other_distinctive_markers": null
+}

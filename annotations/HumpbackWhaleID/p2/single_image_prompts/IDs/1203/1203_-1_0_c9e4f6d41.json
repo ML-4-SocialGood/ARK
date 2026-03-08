@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.45:1 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "High-intensity white patches are localized to the distal half of both lobes, separated by a continuous low-intensity black central band originating from the insertion point. The right lobe exhibits higher internal pixel variance within the white region compared to the left."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped median notch with a calculated interior angle of approximately 65 degrees and a deep vertical displacement relative to the lobe peaks.",
+    "edge_topography_serration_map": "Continuous irregular serration pattern along the entire trailing edge; pixel-amplitude increases significantly at the distal tips, showing jagged, high-frequency peaks and valleys.",
+    "lobe_sweep_trajectory": "Outer margins display a consistent concave sweep from the peduncle base to the distal tips, with a secondary convex curve along the posterior trailing edges."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple low-intensity circular pixel clusters (mottling) distributed across the high-intensity white regions, with higher density on the right lobe's distal area.",
+    "linear_abrasions": "Horizontal low-intensity linear disruptions visible on the mid-section of the left lobe's white intensity patch."
+  },
+  "acquired_anomalies_or_scars": "Extreme structural irregularity and high-contrast textural density at both distal tips, suggesting localized tissue loss or extensive parasitic encrustation.",
+  "other_distinctive_markers": "Pronounced asymmetry in pixel density between the left and right white patches, with the right lobe displaying a more fragmented intensity distribution."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 1:4 ratio of high-intensity (gray/white) to low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Solid low-intensity (black) central and proximal regions; high-intensity (gray/white) distal lobes containing dense, non-contiguous dark-pixel circular spots concentrated near the margins."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression at the center with an internal pixel angle of approximately 50 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular peaks and valleys (serrations) along the entire trailing edge boundary, with increased amplitude toward the distal tips.",
+    "lobe_sweep_trajectory": "Descending convex curve following the edge from the lateral tips toward the medial notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of discrete, circular dark-pixel clusters (5-12 pixels in diameter) localized on the light-toned distal regions of both lobes.",
+    "linear_abrasions": "Faint, diagonal dark linear disruptions visible against the light-toned background on the distal right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive structural irregularities and jagged topographical deviations along the trailing edge consistent with prior physical disruption.",
+  "other_distinctive_markers": "Dense, high-contrast dark-spot pigmentation patterns strictly localized to the distal white-pigmented areas of the fluke lobes."
+}

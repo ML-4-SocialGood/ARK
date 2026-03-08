@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1.5:1 ratio of high-intensity white pixels (centered on lobes) to low-intensity black pixels (margin and peduncle area).",
+    "spatial_color_mapping": "Large white contiguous regions occupy the central interior of both lobes, transitioning into a dense black border approximately 10-15% of the fluke's vertical depth along the trailing edge; the central peduncle and notch area are dominated by low-intensity black pixels."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an estimated interior vertex angle of 85 degrees and a deep vertical penetration into the fluke center.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge; pixel amplitudes of peak-to-valley variations range from 5 to 25 pixels, with greatest jaggedness at the distal tips.",
+    "lobe_sweep_trajectory": "The trailing edge displays a consistent concave curve from the outer tips moving toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct dark circular pixel clusters (possible barnacle scars) located in the lower-left white field and the lower-right white field near the boundary.",
+    "linear_abrasions": "Visible dark linear disruptions; a prominent diagonal mark on the mid-left lobe and vertical/diagonal rake-like marks on the right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Highly irregular and asymmetric trailing edge topography suggests significant historical tissue loss or traumatic wear, particularly evident at the extreme lateral tips.",
+  "other_distinctive_markers": null
+}

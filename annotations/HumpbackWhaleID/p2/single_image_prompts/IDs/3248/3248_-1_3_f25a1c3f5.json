@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark grey) with high-intensity (white) pixels limited to less than 5% of the total surface area, resulting in a very low macro-level global contrast ratio.",
+    "spatial_color_mapping": "Solid dark pigmentation across both lobes. Distinct high-contrast white focal spots are mapped as follows: one roughly circular spot in the central region of the left lobe and several smaller clusters in the medial region of the right lobe. A large, contiguous high-intensity white patch is mapped at the distal tip of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated angle of approximately 45 degrees and a significant depth relative to the lobe height.",
+    "edge_topography_serration_map": "High-frequency serration with visible pixel-amplitude variations (peaks) of 10-20 pixels occurring at regular intervals along the entire visible trailing edge boundary.",
+    "lobe_sweep_trajectory": "Outer edges of the fluke lobes exhibit a primarily convex curve that transitions into a slight concavity as it approaches the central median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of one primary circular white pixel cluster on the left lobe and a group of three distinct smaller clusters on the inner right lobe, likely indicating prior barnacle attachment sites.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "A significant irregular white marking and jagged contour at the distal tip of the right lobe; presence of multiple circular white pit scars across the ventral surface.",
+  "other_distinctive_markers": "The right lobe tip exhibits a localized loss of pigmentation and irregular structural erosion compared to the more uniform left lobe tip."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate macro-level ratio of 8.5:1 high-intensity (white) to low-intensity (black) pixels across the visible ventral area.",
+    "spatial_color_mapping": "Primary contiguous high-intensity white field across central lobes; low-intensity black border mapping along the entire trailing edge; high-density dark pixel clusters localized at the left and right terminal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency variations with an average pixel-amplitude of 3-7 pixels; approximately 1 peak/valley oscillation every 10-15 horizontal pixels along the trailing boundary.",
+    "lobe_sweep_trajectory": "Double convex curve trajectory extending from the submerged central region toward the elevated distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast dark pixel clusters detected at both distal tips; secondary sparse dark spots localized on the lower-right fluke surface area.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular dark pixel accumulations at the furthest lateral points of both fluke lobes, representing anomalous growth or physical trauma.",
+  "other_distinctive_markers": null
+}

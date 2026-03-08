@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The visible surface consists of >95% low-intensity (dark) pixels with high-intensity (white) pixels localized to distal regions, creating a high macro-level contrast ratio solely at the fluke extremities.",
+    "spatial_color_mapping": "Uniform dark pigmentation across the majority of the 2D surface area; high-contrast white focal clusters are localized at the distal tip of the left lobe, appearing as a dense group of contiguous geometric blobs."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a calculated pixel angle of approximately 130 degrees and a shallow depth relative to the total vertical fluke span.",
+    "edge_topography_serration_map": "Irregular, high-frequency serrations extracted along the boundary; pixel-amplitude variations are prominent along the inner edges of both lobes, showing a series of jagged peaks and valleys against the water background.",
+    "lobe_sweep_trajectory": "Convex curvature fitted to the trailing edge of both lobes, sweeping upwards from the median notch toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of roughly circular, high-contrast white pixel clusters localized on the distal end of the left lobe, forming a distinct constellation pattern.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Distinct white pixel cluster on the tip of the left lobe, consistent with localized surface scarring or parasitic colonization.",
+  "other_distinctive_markers": null
+}

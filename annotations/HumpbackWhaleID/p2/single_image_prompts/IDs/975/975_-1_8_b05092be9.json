@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low; approximately 5:95 ratio of high-intensity (white/light-grey) pixels to low-intensity (black/dark-grey) pixels across the visible surface area.",
+    "spatial_color_mapping": "Contiguous low-intensity dark field across both lobes; high-contrast white focal points are spatially mapped along the trailing edge and lateral tips; discrete linear high-intensity disruptions are mapped on the interior left and center-right lobe regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression; calculated internal pixel angle of approximately 52 degrees at the central vertex.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern with pixel-amplitude spikes ranging from 8 to 18 pixels; continuous jagged profile isolated along the posterior boundary from tip to notch.",
+    "lobe_sweep_trajectory": "Strongly convex outward curvature on the distal lateral edges, transitioning to a concave sweep towards the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely clustered high-contrast white circular pixel groups (1-5 pixel radius) localized on the trailing edge peaks and the extreme lateral termini of both lobes.",
+    "linear_abrasions": "Two prominent parallel diagonal white linear marks (rake marks) on the mid-section of the left lobe; secondary vertical high-intensity scratch detected on the right lobe adjacent to the notch."
+  },
+  "acquired_anomalies_or_scars": "Extensive diagonal rake marks on the left lobe and dense barnacle colonization/scarring along the entire posterior margin.",
+  "other_distinctive_markers": "High-intensity white 'tipping' effect on the lateral extremities caused by concentrated shell-based growth against the dark fluke background."
+}

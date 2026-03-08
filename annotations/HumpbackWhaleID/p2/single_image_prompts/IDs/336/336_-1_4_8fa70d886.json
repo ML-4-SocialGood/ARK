@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio; surface is approximately 94% low-intensity (black/dark gray) with ~6% high-intensity (white/light gray) localized features.",
+    "spatial_color_mapping": "Uniform dark pigmentation across the entire contiguous surface area; high-contrast white pixels are localized in small circular annular clusters (scars) and dense concentrations at the distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped indentation; interior angle is approximately 45 degrees relative to the vertical axis of the peduncle.",
+    "edge_topography_serration_map": "High-frequency, irregular macro-serrations (peaks) present on the left lobe trailing edge; the right lobe trailing edge displays lower-amplitude, more uniform serrations.",
+    "lobe_sweep_trajectory": "Concave curvature following the trailing edge from the notch to the distal tips; outer leading edges exhibit convex curvature."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular and ring-shaped high-contrast white pixel clusters (diameter range 2-12 pixels) distributed across both lobes, likely corresponding to barnacle attachment points or scars.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Dense calcified barnacle colonization on the distal tips of both lobes; significant irregular material loss/jaggedness on the left lobe trailing edge suggesting mechanical trauma.",
+  "other_distinctive_markers": "Asymmetrical trailing edge profile where the left lobe is substantially more jagged and irregular than the right lobe."
+}

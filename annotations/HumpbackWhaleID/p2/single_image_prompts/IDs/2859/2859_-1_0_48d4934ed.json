@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark grey) pixel distribution. High-intensity pixels (white) are limited to approximately 3-5% of the surface area, localized specifically within circular scar patterns and along the serrated trailing edge highlights.",
+    "spatial_color_mapping": "The surface is characterized by a solid low-intensity base. High-contrast mapping reveals approximately 10-12 discrete, circular/ring-shaped white clusters (diameters ranging from 15 to 40 pixels) distributed across both the left and right lobes, with higher density in the central-medial regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated pixel angle of approximately 48 degrees and a vertical bounding-box depth equivalent to roughly 1/6th of the visible fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the continuous boundary. Peak-to-valley pixel amplitudes vary between 8 and 30 pixels, with more pronounced jagged peaks on the distal one-third of both lobes.",
+    "lobe_sweep_trajectory": "The lateral margins follow a convex mathematical curve that tapers into sharp, slightly upward-curving distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of clear, circular high-contrast white ring clusters. Left lobe contains 6 distinct rosettes; right lobe contains 5 distinct rosettes, primarily localized in the mid-plateau region of each lobe.",
+    "linear_abrasions": "One prominent, unaligned linear white disruption (approx. 180 pixels in length) oriented diagonally on the right lobe; several faint, shorter horizontal linear marks visible on the lower left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive circular ring scarring (likely barnacle attachment points) across the entire visible ventral surface; no evidence of major distal amputations or blunt force trauma.",
+  "other_distinctive_markers": null
+}

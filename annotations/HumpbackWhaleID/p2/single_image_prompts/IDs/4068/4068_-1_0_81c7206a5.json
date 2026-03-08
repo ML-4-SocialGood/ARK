@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.08:1, characterized by a dominant low-intensity (dark grey/black) background with localized high-intensity (white) clusters occupying roughly 8% of the visible fluke surface.",
+    "spatial_color_mapping": "Densely packed high-intensity circular nodes localized along the distal tips and lateral margins; smaller irregular white mottling and linear clusters concentrated near the median notch and mid-section of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow U-shaped depression with an estimated interior angle of 140 degrees; notch depth is approximately 5% of the total vertical fluke height in the image frame.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (3-8 pixel depth) present along the entire visible trailing edge; serrations appear more jagged and irregular on the right lobe distal margin.",
+    "lobe_sweep_trajectory": "Concave curvature along the medial trailing edge transitioning to a sharp convex sweep towards the fluke tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Numerous high-contrast circular clusters (diameter range 10-25 pixels) with dark centers and white perimeters, heavily concentrated on the outer edges and tips of both lobes.",
+    "linear_abrasions": "Several short, unaligned vertical high-intensity linear disruptions (length 30-60 pixels) visible on the ventral surface of the left lobe near the median notch."
+  },
+  "acquired_anomalies_or_scars": "Extensive peripheral colonization of high-intensity calcified structures along the outer boundaries, causing significant irregularity in the silhouette of the fluke tips.",
+  "other_distinctive_markers": null
+}

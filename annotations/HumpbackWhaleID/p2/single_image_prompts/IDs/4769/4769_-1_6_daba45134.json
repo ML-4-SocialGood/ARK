@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low intensity; approximately 92% dark pixels (black/dark grey) to 8% high-intensity pixels (white/light grey) on the visible ventral surface.",
+    "spatial_color_mapping": "Dominant dark field with sparse, randomized white punctate speckles across both lobes; dense, high-contrast white-to-beige clusters localized at the lateral distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch; approximately 52 degrees with a bounding-box depth extending roughly 18% of the vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern along the entire margin; pixel amplitudes of peaks vary between 5 to 15 pixels relative to the local edge mean.",
+    "lobe_sweep_trajectory": "Primary convex sweep from notch to tip with a secondary upward-curving distal taper."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of roughly circular, high-intensity pixel groups (barnacle colonies) located at the far left and far right terminal ends of the lobes.",
+    "linear_abrasions": "Several visible thin, unaligned white linear markings on the right lobe, including one prominent diagonal mark in the upper-medial quadrant."
+  },
+  "acquired_anomalies_or_scars": "Extensive calcified biological growth (barnacles) concentrated on the outer edges and tips of both lobes; visible physical protrusions at the distal extremities.",
+  "other_distinctive_markers": "Suspended water droplets and wake turbulence visible at the air-water interface directly below the trailing edge."
+}

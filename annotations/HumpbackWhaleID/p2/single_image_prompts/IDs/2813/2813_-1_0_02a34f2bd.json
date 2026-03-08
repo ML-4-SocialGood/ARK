@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels constitute approximately 85% of the visible surface area; low-intensity black pixels constitute approximately 15%, localized primarily to the distal tips and the trailing edge boundary.",
+    "spatial_color_mapping": "Solid high-intensity white central mass spanning both lobes. Continuous low-intensity black perimeter along the trailing edge and lobe tips. Discrete, low-intensity punctate spots (specks) scattered across the ventral surface, with a higher concentration on the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated vertex angle of approximately 55 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the entire trailing edge; peaks exhibit pixel-amplitudes ranging from 5 to 12 pixels, particularly pronounced on the right lobe.",
+    "lobe_sweep_trajectory": "Convex mathematical curve fitted to the trailing edges, sweeping upward and outward from the median notch toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Cluster of three distinct circular high-contrast rings (dark outlines with light centers) located near the vertical axis and lower-right lobe; several smaller circular pixel clusters on the medial-left section.",
+    "linear_abrasions": "Detection of 5-7 parallel, dark linear pixel disruptions (rake marks) oriented vertically/diagonally on the lower-right lobe."
+  },
+  "acquired_anomalies_or_scars": "Circular barnacle attachment scars near the center-right; multiple linear rake marks on the right lobe.",
+  "other_distinctive_markers": "Large, diffused, low-contrast grey circular patch (pigmentation anomaly) located on the distal region of the right lobe."
+}

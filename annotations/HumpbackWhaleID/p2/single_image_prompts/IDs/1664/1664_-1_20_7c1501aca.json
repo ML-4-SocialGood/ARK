@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixels across the majority of the fluke surface area, with approximately 15-20% high-intensity (white/off-white) pixel distribution corresponding to localized scarring and barnacle clusters.",
+    "spatial_color_mapping": "High-contrast white pixel clusters concentrated at the distal tips of both lobes; scattered white linear and circular pixel patterns distributed across the dark grey/black background, with a prominent white circular rosette in the upper-mid region of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped depression at the center-line with an internal angle of approximately 45 degrees and a deep vertical bounding-box offset.",
+    "edge_topography_serration_map": "Visible irregular serration along the posterior boundary; right lobe exhibits higher frequency of low-amplitude peaks compared to the more continuous curve of the left lobe.",
+    "lobe_sweep_trajectory": "Bilateral convex curves sweeping upward from the median notch toward the distal tips, terminating in jagged, barnacle-encrusted points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct high-contrast white circular cluster (barnacle scar) on the left lobe; dense white clusters of calcified organisms adhering to the extreme distal edges of both lobes.",
+    "linear_abrasions": "Extensive network of unaligned white linear pixel disruptions (rake marks) scattered across both lobes, with a high concentration of parallel markings visible on the right lobe near the median notch."
+  },
+  "acquired_anomalies_or_scars": "Heavy colonization by sessile barnacles (Coronula diadema) forming raised, high-intensity white textures on the trailing edge tips.",
+  "other_distinctive_markers": "A singular, high-contrast white 'target' or 'ring' shaped scar located in the interior quadrant of the left lobe."
+}

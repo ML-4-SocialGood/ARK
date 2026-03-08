@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity (white) pixels covering approximately 85-90% of the visible surface area, contrasted with low-intensity (black) pixels along the trailing edges and terminal tips.",
+    "spatial_color_mapping": "Large contiguous white geometric block occupying the main body of both lobes. A thick, irregular black boundary follows the perimeter of the trailing edge. Sparse, low-contrast dark stippling is distributed across the central-right white expanse."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped depression with a calculated internal angle of approximately 48 degrees at the vertex.",
+    "edge_topography_serration_map": "Right lobe (viewer perspective) exhibits a series of 5-7 high-amplitude, sharp serrations. Left lobe shows a more continuous but irregular jagged boundary with smaller pixel-height variations.",
+    "lobe_sweep_trajectory": "Concave curvature along the upper leading edges transitioning into highly irregular, jagged convex curves towards the trailing edge boundaries."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple small, dark pixel clusters (<10px diameter) located primarily in the lower-right quadrant of the white ventral field.",
+    "linear_abrasions": "Faint, parallel diagonal linear disruptions (rake marks) visible across the right-center ventral surface, exhibiting a slight shift in pixel hue compared to the surrounding white field."
+  },
+  "acquired_anomalies_or_scars": "Significant non-uniform tissue loss and irregular jagged profiling across the entirety of the trailing edge, suggesting historical mechanical trauma or predation marks.",
+  "other_distinctive_markers": "The specific sawtooth pattern on the right-hand lobe (viewer perspective) provides a unique, high-contrast identifier against the background ocean pixels."
+}

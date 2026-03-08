@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 75% high-intensity white and 25% low-intensity black/dark-grey pixels. The distribution is characterized by high-intensity lateral lobes and a central low-intensity vertical column extending from the peduncle to the notch.",
+    "spatial_color_mapping": "Central low-intensity zone forms a 'butterfly' shape at the pivot, narrowing toward the notch. High-intensity contiguous fields dominate both lobes. Dark pixel clusters are localized at the distal tips and along the serrated trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped depression with a calculated internal angle of approximately 42 degrees. Bounding-box depth is significant relative to total fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge. Amplitudes vary between 3 and 10 pixels, featuring sharp 'peaks' and 'valleys' that create a distinct saw-tooth silhouette against the water background.",
+    "lobe_sweep_trajectory": "Concave-to-convex curvature transitioning from the notch to the distal tips. Both lobes exhibit a tapered, upward-sweeping terminal point."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular pixel-voids (dark rings) are visible: three distinct clusters on the central-left white field and four clusters on the central-right white field, consistent with barnacle attachment sites.",
+    "linear_abrasions": "Several faint vertical linear pixel disruptions (parallel rake marks) are visible on the lower-left lobe. One distinct diagonal high-contrast linear mark is visible on the upper-right lobe near the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "A notable concentration of dark pigment spots and small circular scars is localized in the mid-ventral region of the right lobe. Distal tips show heavy wear and irregular pigmentation.",
+  "other_distinctive_markers": "The left distal tip contains a unique 'hooked' downward-curving pixel-contour not mirrored on the right side."
+}

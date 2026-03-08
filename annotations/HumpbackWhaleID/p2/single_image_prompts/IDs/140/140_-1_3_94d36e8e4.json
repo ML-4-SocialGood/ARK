@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65:35 ratio of high-intensity (off-white/light-grey) to low-intensity (black) pixels across the visible fluke surface.",
+    "spatial_color_mapping": "A dominant, roughly triangular low-intensity black region occupies the central fluke area, narrowing toward the median notch. The distal lobes are predominantly high-intensity off-white. The right lobe (image-right) features a significant high-intensity field with dark, vertical-diagonal streaking near the inner edge. The left lobe (image-left) presents a more uniform high-intensity field with small, discrete dark clusters."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A sharp V-shaped central notch with a measured internal angle of approximately 92 degrees and moderate depth relative to the total lobe width.",
+    "edge_topography_serration_map": "Generally smooth trailing edge punctuated by micro-serrations at the distal tips. A small, distinct V-shaped indentation is visible on the superior edge of the left lobe approximately one-quarter distance from the tip.",
+    "lobe_sweep_trajectory": "Both lobes exhibit a pronounced concave upward sweep from the notch toward the tapered, slightly rounded distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple small, roughly circular dark pixel clusters (spots) localized in the lower-mid quadrant of the left lobe and a larger, diffuse dark cluster on the inner mid-region of the right lobe.",
+    "linear_abrasions": "Pronounced dark vertical-diagonal linear marks cutting across the high-intensity region of the right lobe; several finer, faint horizontal linear disruptions on the peripheral edge of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Visible small notch/indentation on the trailing edge of the left lobe near the tip; extensive dark pigmentation streaking on the inner right lobe likely indicating historical scarring or rake marks.",
+  "other_distinctive_markers": "The boundary between the central black pigmentation and the light-colored lobes is highly irregular and exhibits high-contrast 'feathering' patterns."
+}

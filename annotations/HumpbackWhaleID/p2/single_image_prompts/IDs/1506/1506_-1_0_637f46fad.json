@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.4:0.6 ratio of high-intensity (white) to low-intensity (black) pixels; the image exhibits high-contrast binary-style characteristics.",
+    "spatial_color_mapping": "A large, contiguous low-intensity (black) region is centered at the median notch and extends medially across the fluke. High-intensity (white) regions are concentrated at the distal lobes. The right distal lobe features a large white contiguous area containing several discrete dark circular spots and a prominent curved dark line. The left distal lobe shows a more fragmented, mottled white-and-black pattern."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Clearly defined V-shaped notch with an estimated interior angle of 115 degrees at the central convergence.",
+    "edge_topography_serration_map": "Low-frequency, low-amplitude variations along the medial trailing edge. High-frequency, high-amplitude jagged serrations are prominent at both distal tips, with the right tip showing significant irregular topographical erosion.",
+    "lobe_sweep_trajectory": "Trailing edge follows a composite curve, beginning with a concave sweep from the median notch that transitions into a convex curve toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of approximately 5-8 discrete dark circular pixel clusters located on the high-intensity white distal portion of the right lobe. Occasional small white pixel clusters detected against the black central field.",
+    "linear_abrasions": "A prominent, non-linear curved dark mark (arc) on the right lobe; multiple thin, roughly parallel vertical dark linear disruptions on the left lobe's white distal region."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular tissue loss and ragged jaggedness at the extreme distal tips of both lobes, suggesting previous trauma or natural wear.",
+  "other_distinctive_markers": "A highly distinctive semi-circular black arc located within the upper-medial quadrant of the white pigmentation field on the right lobe."
+}

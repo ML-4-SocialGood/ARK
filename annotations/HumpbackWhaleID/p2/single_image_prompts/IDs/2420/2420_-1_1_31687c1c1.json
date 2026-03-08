@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Estimated 0.65 white to 0.35 black pixel ratio across the visible fluke surface area.",
+    "spatial_color_mapping": "Left lobe: dominant dark pigmented region in the upper-medial quadrant, transitioning to a white distal region; Right lobe: predominantly high-intensity white with a continuous dark perimeter along the trailing edge and scattered dark focal spots (5-12 pixels) in the central-lower quadrant."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped median notch with a calculated angle of approximately 55 degrees and a bounding-box depth approximately 12% of the lobe's vertical height.",
+    "edge_topography_serration_map": "Continuous high-frequency, low-amplitude serrations (peaks every 3-8 pixels) along the trailing edge, increasing in amplitude to jagged irregular peaks (15-20 pixel variance) at the distal tips.",
+    "lobe_sweep_trajectory": "Primary trailing edge curve exhibits an overall convex trajectory from the notch to the distal mid-point, transitioning to a slight upward concavity toward the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Cluster of high-intensity white pixel circular clusters located within the dark pigmentation zone of the upper left lobe; secondary dark circular clusters detected in the lower-central region of the right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive irregular trailing-edge erosion and jagged tissue loss at the extreme lateral tips of both lobes.",
+  "other_distinctive_markers": "A distinct, isolated dark vertical pigmentation streak is visible on the inner-medial surface of the left lobe."
+}

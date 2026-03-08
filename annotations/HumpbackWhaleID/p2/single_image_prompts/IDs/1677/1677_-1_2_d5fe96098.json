@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio with approximately 45% high-intensity pixels (white/yellowish regions) and 55% low-intensity pixels (black/dark grey regions) visible across the exposed ventral surface.",
+    "spatial_color_mapping": "Two primary high-intensity contiguous blobs located on the lateral lobes, tapering towards the tips. The central peduncle region and the entire perimeter of the trailing edge consist of low-intensity black pixels. High-intensity areas show internal mottling and pixel-level gradients to yellowish-white."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct acute V-shaped depression with a calculated internal angle of approximately 55 degrees; depth is significant, extending approximately 10% of the fluke's vertical height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration; peaks and valleys are most prominent on the inner half of each lobe, decreasing in amplitude toward the lateral tips.",
+    "lobe_sweep_trajectory": "Strongly convex trailing edge curve on both lobes, terminating in sharp, slightly swept-back distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Pronounced yellowish-tan tinting localized within the high-intensity white pixel regions, suggesting non-pigmentary surface accumulation (diatom film)."
+}

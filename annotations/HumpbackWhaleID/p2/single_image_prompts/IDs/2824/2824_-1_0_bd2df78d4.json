@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low macro-level ratio; approximately 5-8% high-intensity white pixels (spots) distributed against a dominant 92-95% low-intensity black surface.",
+    "spatial_color_mapping": "Contiguous high-contrast white punctate blobs distributed across the surface. Notable clusters are mapped to the central-left lobe and lower-mid section, with scattered individual spots across the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate 65-degree internal angle; bounding-box depth is significant, roughly 1/6th of total vertical lobe height.",
+    "edge_topography_serration_map": "High-frequency serration pattern. The right lobe displays high-amplitude jagged peaks (approximately 4-8 distinct deep notches), while the left lobe shows a lower-amplitude, more continuous serrated edge.",
+    "lobe_sweep_trajectory": "Convex mathematical curve fitted to the outer boundaries, showing an upward and outward sweep from the peduncle attachment point."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 15-20 localized circular white pixel clusters (0.5% - 1% of surface area each) scattered across both lobes, likely representing barnacle colonization sites.",
+    "linear_abrasions": "Distinct vertical and slightly diagonal white linear pixel disruptions (rake-like marks) visible on the left lobe and lower central fluke area."
+  },
+  "acquired_anomalies_or_scars": "Severe traumatic tissue loss on the distal trailing edge of the right lobe, resulting in an irregular, saw-toothed geometric profile compared to the more intact left lobe.",
+  "other_distinctive_markers": "A singular, prominent jagged peak/projection located near the furthest distal tip of the right lobe."
+}

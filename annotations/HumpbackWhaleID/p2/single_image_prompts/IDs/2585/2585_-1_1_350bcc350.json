@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 4:1 ratio of low-intensity (black) to high-intensity (white/off-white) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Right lobe distal region contains a high-intensity white polygon with internal low-intensity points. Left lobe distal region displays a heterogeneous mixture of high and low intensity pixels in a mottled configuration. Medial regions are uniformly low-intensity."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped indentation with a calculated vertex angle of ~68 degrees and a vertical depth approximately 15% of the total fluke height.",
+    "edge_topography_serration_map": "Continuous trailing edge exhibits multi-scale serration; left lobe shows higher frequency/lower amplitude peaks compared to the right lobe which features more pronounced singular indentations.",
+    "lobe_sweep_trajectory": "Lobe boundaries follow an upward convex curve from the median notch towards the distal terminal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 4-6 discrete, high-intensity circular pixel clusters on the lower medial section of the right lobe.",
+    "linear_abrasions": "Visible thin, linear segments of higher intensity (light grey) cutting through the low-intensity field on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Primary structural anomaly: a large, semi-circular indentation on the trailing edge of the right lobe, deviating from the expected linear serration pattern.",
+  "other_distinctive_markers": "A singular, high-contrast dark circular point isolated within the largest white patch on the distal right lobe."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low macro-level ratio; predominantly low-intensity pixels (black) occupying >95% of the visible fluke surface with negligible high-intensity (white) distribution.",
+    "spatial_color_mapping": "Uniform solid low-intensity pigmentation across both lobes; no high-contrast contiguous geometric blobs, mottling, or banding detected on the visible surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped central depression with a calculated pixel angle of approximately 42 degrees and a depth occupying roughly 15% of the vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (peaks/valleys) along the right lobe trailing edge; left lobe shows coarser, more irregular topographical variations and fraying near the lateral tip.",
+    "lobe_sweep_trajectory": "Strongly convex curvature fitted to the outer lateral boundaries, tapering to sharp terminal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of 4-6 small, circular high-contrast white pixel clusters located on the mid-to-outer region of the right lobe.",
+    "linear_abrasions": "One prominent diagonal linear pixel disruption (rake mark) visible on the upper-inner quadrant of the right lobe, oriented at approximately 30 degrees from the horizontal."
+  },
+  "acquired_anomalies_or_scars": "Notable irregular fraying and loss of continuous contour at the tip of the left lobe (image left), indicative of acquired physical trauma or extreme environmental wear.",
+  "other_distinctive_markers": "Presence of high-intensity pixel noise (water spray/splash) at the inferior border of the fluke-water interface, occluding lower fluke pixels."
+}

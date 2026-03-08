@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast; high-intensity white/gray pixels cover approximately 60% of the visible fluke area (primarily on the lateral lobes), while low-intensity black/dark brown pixels comprise roughly 40% (concentrated in the central basal region and along margins).",
+    "spatial_color_mapping": "A large, contiguous low-intensity dark blob is centered at the median notch and extends towards the peduncle. The left lobe (viewer perspective) features multiple discrete, high-contrast dark circular spots (mottling) scattered across its high-intensity field. The right lobe exhibits a more uniform high-intensity field bounded by a dark trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped indentation with a sharp central vertex; approximate interior pixel angle is 45 degrees relative to the lobe axes.",
+    "edge_topography_serration_map": "The right lobe trailing edge displays frequent, low-amplitude sawtooth serrations. The left lobe trailing edge is highly irregular and partially obscured by large, non-linear, high-contrast protrusions.",
+    "lobe_sweep_trajectory": "Both lobes follow a convex upward curve toward the tips; the right lobe shows a more elongated and tapered sweep compared to the left lobe."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Several dark, roughly circular pixel clusters are detected on the high-intensity background of the left lobe, concentrated in the medial-distal quadrant.",
+    "linear_abrasions": "A distinct, dark, unaligned linear pixel disruption (rake mark or scratch) is visible in the upper-medial portion of the left lobe, oriented diagonally toward the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Extensive biological encrustations (likely barnacle colonies) are visible on both distal tips, appearing as large, irregular, high-contrast masses; the mass on the left tip is notably larger and contains reddish-brown pixel clusters.",
+  "other_distinctive_markers": "The distal biological masses exhibit a distinct reddish-brown chromatic signature that deviates from the standard monochromatic grayscale palette of the ventral fluke surface."
+}

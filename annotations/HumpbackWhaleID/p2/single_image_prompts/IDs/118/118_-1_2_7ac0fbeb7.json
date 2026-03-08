@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity dark surface covering the majority of the visible fluke, with high-intensity white pixel clusters restricted to the distal margins and isolated interior points.",
+    "spatial_color_mapping": "Contiguous high-intensity white pixel clusters are mapped to the distal-most tips of both lobes. A single, distinct, roughly circular white blob is mapped to the lower-central region of the right lobe surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with a calculated internal angle of approximately 45 degrees and a significant bounding-box depth relative to the fluke baseline.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations detected along the trailing edge. The inner margin of the right lobe exhibits high-amplitude pixel deviations, forming a jagged, non-uniform boundary.",
+    "lobe_sweep_trajectory": "Outer edges exhibit a convex sweep trajectory, curving from the water intersection points upward and outward to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of high-contrast white pixels located on the distal and superior aspects of both fluke tips; a single isolated circular cluster is visible on the ventral right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive white encrustations at both lobe tips; significant irregular tissue loss or jagged truncation along the medial trailing edge of the right lobe.",
+  "other_distinctive_markers": "A singular, prominent, high-contrast white circular spot on the lower-medial quadrant of the right lobe surface."
+}

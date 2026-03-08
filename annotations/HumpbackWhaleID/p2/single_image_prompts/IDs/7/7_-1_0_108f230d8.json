@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1.5:1 ratio of light-to-dark pixels across the visible ventral area; high contrast is observed between the central dark region and the light-pigmented left lobe.",
+    "spatial_color_mapping": "Large high-intensity (white) contiguous region on the left lobe punctuated by several low-intensity (black) linear bands originating from the leading edge. The right lobe and central notch region consist of a dense, low-intensity pixel mass with high motion blur."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped indentation located centrally; precise angle calculation is hindered by pixel blur but approximates an obtuse angle of roughly 145 degrees.",
+    "edge_topography_serration_map": "The trailing edge of the left lobe shows low-frequency, low-amplitude serrations (3-7 pixel depth); the right lobe trailing edge is obscured by water spray and sensor noise.",
+    "lobe_sweep_trajectory": "Left lobe exhibits a strong upward concave curve along the trailing edge, tapering toward a sharp distal tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": "Several dark, roughly parallel linear streaks are detected on the high-intensity background of the left lobe, oriented from leading edge toward the interior."
+  },
+  "acquired_anomalies_or_scars": "A prominent dark mark is visible on the inner trailing edge of the left lobe near the distal tip.",
+  "other_distinctive_markers": null
+}

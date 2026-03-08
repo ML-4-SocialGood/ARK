@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixels across the entire visible surface (~98%); high-intensity (white) pixels are minimal and restricted to localized scarring and distal tips.",
+    "spatial_color_mapping": "Solid black pigmentation across both lobes with no large-scale mottling; small-scale high-contrast white linear disruptions on the left lobe and center-right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, symmetrical V-shaped notch; calculated interior angle of approximately 60 degrees; depth extends significantly into the fluke body.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge; pixel-amplitude varies from shallow undulations near the notch to sharp, multi-peak spikes towards the distal tips.",
+    "lobe_sweep_trajectory": "Concave trajectory on the trailing edge moving from the notch towards the center of each lobe, transitioning to a convex curve at the outer tips; leading edges show a continuous convex sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast white pixel clusters located at the extreme distal tips of both lobes, exhibiting an irregular, rough-textured geometry consistent with barnacle growth.",
+    "linear_abrasions": "Several fine, unaligned white linear marks on the inner left lobe and central right lobe, breaking the uniform black pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Visible irregular indentation on the inner trailing edge of the right lobe immediately adjacent to the central notch.",
+  "other_distinctive_markers": "Pronounced white calcification clusters isolated specifically at the furthest points of the left and right lobes."
+}

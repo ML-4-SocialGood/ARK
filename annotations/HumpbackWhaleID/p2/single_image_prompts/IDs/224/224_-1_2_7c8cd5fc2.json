@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixel field with a macro-ratio of approximately 95:5 relative to high-intensity (white) scarred areas.",
+    "spatial_color_mapping": "Solid low-intensity base color; spatial mapping reveals high-contrast white linear clusters distributed across both lobes, with a higher density of circular white clusters localized near the proximal median notch and distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with an approximate interior pixel angle of 48-52 degrees and a narrow bounding-box width-to-depth ratio.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations across the entire continuous linear boundary; distinct pixel-amplitude peaks are visible on the outer third of the left lobe and the inner third of the right lobe.",
+    "lobe_sweep_trajectory": "Leading edge (outer boundary) follows a convex trajectory toward the distal tips, while the trailing edge exhibits a primarily concave curve with localized jagged irregularities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of localized, roughly circular white pixel clusters (2-8 pixels diameter) concentrated on the upper peripheral region of the left lobe and scattered across the medial right lobe.",
+    "linear_abrasions": "High detection of unaligned linear pixel disruptions; includes a prominent 45-degree diagonal white scratch on the mid-left lobe and multiple intersecting horizontal rake marks on the lower right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive multi-directional linear rake marks and significant irregular pixel-loss/wear at the distal fluke tips consistent with physical trauma or abrasion.",
+  "other_distinctive_markers": null
+}

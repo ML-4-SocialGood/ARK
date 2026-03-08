@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The image exhibits a high-contrast bimodal distribution; approximately 80% of the fluke surface consists of low-intensity (black/dark grey) pixels, while 20% consists of high-intensity (white) pixels localized primarily at the margins and specific surface anomalies.",
+    "spatial_color_mapping": "Large contiguous low-intensity region across the central fluke body. High-intensity pixels are mapped to the distal tips (lobes), the trailing edge perimeter, and discrete circular and linear focal points across both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A distinct V-shaped central depression with a calculated pixel angle of approximately 82 degrees and a depth relative to the fluke span of roughly 12%.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (sawtooth profile) are detected along the entire trailing edge boundary, with individual pixel peaks ranging from 3 to 10 pixels in amplitude relative to the edge baseline.",
+    "lobe_sweep_trajectory": "The sweep follows a sigmoid curve; initially concave as it emerges from the median notch, transitioning to a broad convex curve across the mid-section, ending in a sharp upward sweep at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed clusters of high-intensity circular pixel patterns are visible at the extreme lateral tips (distal regions) and along the lower leading edge boundaries.",
+    "linear_abrasions": "Multiple unaligned high-intensity linear disruptions are present: one prominent diagonal mark on the mid-left lobe and several shorter horizontal and oblique marks on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive high-intensity scarring and encrustation clusters at the distal tips; multiple white linear rake-markings and circular pockmarks across the ventral surface.",
+  "other_distinctive_markers": "Distinctive scattered high-intensity circular spots (pockmarks) located within the dark pigmentation of the inner lobes, particularly prominent on the left fluke lobe."
+}

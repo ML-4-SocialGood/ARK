@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast; approximately 75% high-intensity white pixels in the central regions vs 25% low-intensity black pixels forming a thick peripheral border.",
+    "spatial_color_mapping": "Dominant contiguous high-intensity (white) field occupying the interior of both lobes, bifurcated by the central notch. This is encapsulated by a continuous, irregular low-intensity (black) margin along the trailing edge and lateral tips. Scattered low-intensity focal spots are present within the white field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression; calculated internal angle of approximately 50 degrees; notch depth is roughly 1/6th of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the entire continuous trailing edge; significant jagged variations (peaks and valleys) of 5-15 pixels in amplitude, particularly dense on the medial side of the left lobe.",
+    "lobe_sweep_trajectory": "Strong convex curve fitted to the trailing edges of both lobes, terminating in acute, tapered lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 10-12 discrete, low-intensity circular pixel clusters scattered across the white surface of the left lobe, and 3-5 on the right lobe.",
+    "linear_abrasions": "Distinct detection of at least four parallel, sub-vertical low-intensity linear disruptions (rake marks) on the mid-section of the right lobe's white field."
+  },
+  "acquired_anomalies_or_scars": "A significant irregular indentation/missing segment on the trailing edge of the left lobe immediately adjacent to the median notch.",
+  "other_distinctive_markers": null
+}

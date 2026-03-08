@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 60:40 ratio of high-intensity white pixels to low-intensity black/dark-grey pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Central regions of both lobes feature large, contiguous white pigmentation. Dense dark pigmentation is concentrated along the leading edges and around the central peduncle area. Numerous high-contrast dark circular blobs (mottling) are scattered throughout the white zones."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate internal pixel angle of 65 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with varying pixel amplitudes (1-10 pixels) along the entire trailing boundary. A significant, larger-scale jagged indentation is visible on the distal portion of the right lobe.",
+    "lobe_sweep_trajectory": "The trailing edges exhibit a complex curve, starting convexly near the notch and transitioning to a slight concavity toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dozens of localized, dark circular pixel clusters (resembling barnacle scars) are distributed across the white regions of both lobes, ranging from 5 to 20 pixels in diameter.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "A distinct, irregular jagged notch or traumatic indentation is located on the trailing edge of the right lobe near the tip.",
+  "other_distinctive_markers": "The specific density and spatial arrangement of the dark circular 'ring-like' spots within the white pigmentation on the left lobe provide a unique fingerprint-like marker."
+}

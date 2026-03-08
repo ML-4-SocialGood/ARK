@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low macro-level ratio; the visible ventral surface is dominated by low-intensity pixels (>98% coverage) with high-intensity pixels restricted to minor peripheral noise and splashing at the water-line boundary.",
+    "spatial_color_mapping": "Uniform low-intensity distribution across the entirety of both lobes; no high-contrast contiguous geometric blobs, mottling, or banding are detected on the visible ventral surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped depression with a calculated vertex angle of approximately 42 degrees; the notch depth extends approximately 12% into the vertical bounding box of the fluke lobes.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern detected across the entire span; pixel-amplitude of valleys ranges from 4 to 18 pixels, resulting in a significantly jagged linear boundary.",
+    "lobe_sweep_trajectory": "Strongly convex sweep along the leading edges of both lobes, tapering to acute points at the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Fine, high-intensity pixel clusters (points) are visible concentrated along the distal edges of the trailing boundary, particularly near the lobe tips.",
+    "linear_abrasions": "Faint, near-vertical low-contrast linear disruptions are detectable on the lower-median quadrant of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Notable jagged erosion and irregular pixel-level truncation at the distal tips of both lobes, suggesting previous physical wear or minor amputation of the tips.",
+  "other_distinctive_markers": null
+}

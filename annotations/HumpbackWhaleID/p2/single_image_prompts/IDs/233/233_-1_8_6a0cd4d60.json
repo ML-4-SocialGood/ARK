@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 40:60 ratio of high-intensity (white/light grey) to low-intensity (black/dark grey) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Primary high-intensity contiguous region occupies the central and upper-left lobe. Low-intensity pixels dominate the right lobe and form a wide, irregular border along the leading edges and the central junction (peduncle area), with a high-density mottled transition zone."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated as a shallow, obtuse V-shaped vertex approximately 140-150 degrees; the depth of the depression is roughly 12% of the vertical fluke height in this projection.",
+    "edge_topography_serration_map": "Left lobe trailing edge displays high-frequency, low-amplitude serrations (2-4 pixel deviations). The right lobe trailing edge is relatively linear until the distal tip where topography becomes highly irregular.",
+    "lobe_sweep_trajectory": "The left lobe follows a convex parabolic curve. The right lobe follows an elongated, linear-extending vector with a slight upward concavity towards the distal terminal."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Sparse, high-contrast white pixel clusters (5-10 pixel diameter) are visible near the lower central junction and at the terminal tip of the right lobe lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Distinct irregular, low-intensity geometric cluster at the right distal tip, creating a jagged, multi-pointed silhouette that breaks the continuous linear trailing edge.",
+  "other_distinctive_markers": "Small, isolated low-intensity focal point (island) located within the upper-left quadrant of the primary high-intensity field on the left lobe."
+}

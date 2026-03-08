@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 60% low-intensity (black/dark-grey) to 40% high-intensity (white/light-grey) across the visible ventral surface.",
+    "spatial_color_mapping": "High-intensity white mottling is concentrated in the central and inferior regions of both lobes. The left lobe contains a large, contiguous white patch extending from the base toward the mid-trailing edge. The right lobe contains a similar white region, which is sharply bisected by a vertical dark linear streak. Dark pixels dominate the distal tips and the entire perimeter of the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A well-defined V-shaped depression with an approximate pixel angle of 85 degrees and a moderate bounding-box depth relative to the fluke span.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (peaks and valleys) are visible along the entire trailing edge. The right lobe tip displays larger, more irregular jaggedness compared to the finer serrations on the left lobe.",
+    "lobe_sweep_trajectory": "Concave curvature fitted to the trailing edges, sweeping upward and outward from the median notch toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, high-contrast white circular pixel clusters are visible near the peduncle-fluke junction and scattered within the lower central black pigmentation.",
+    "linear_abrasions": "A prominent, singular dark vertical line (rake mark) on the right lobe. Multiple parallel, fine vertical dark lines are visible on the far left tip."
+  },
+  "acquired_anomalies_or_scars": "Prominent vertical linear scar on the right lobe; irregular, possibly traumatic, jagged erosion at the distal edge of the right lobe tip.",
+  "other_distinctive_markers": null
+}

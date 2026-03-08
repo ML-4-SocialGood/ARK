@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity (white) pixels covering approximately 75% of the visible surface, with low-intensity (black) pixels concentrated along the peripheral trailing edge and the central peduncle region.",
+    "spatial_color_mapping": "High-contrast black pigmentation forms a continuous border along the trailing edge and both lobe tips. A vertical band of dark mottling extends from the median notch downward. Isolated low-intensity punctate spots (speckles) are distributed across both lobes, with a notable cluster in the lower-medial region of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped depression with a measured interior angle of approximately 65 degrees and a high depth-to-width ratio within its local bounding box.",
+    "edge_topography_serration_map": "High-frequency serration is present along the entire continuous trailing edge. The right lobe (image-right) exhibits irregular, high-amplitude peaks (jaggedness), whereas the left lobe (image-left) displays more uniform, lower-amplitude variations.",
+    "lobe_sweep_trajectory": "The trailing edge follows a general convex arc from the notch to the tips, terminating in sharply tapered, slightly recurved distal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "A dense, high-contrast cluster of dark, irregular pixels is located on the extreme distal tip of the right lobe. Smaller, isolated circular dark spots are detected on the central-left lobe surface.",
+    "linear_abrasions": "Distinct dark linear pixel disruptions are visible: one near-vertical stroke on the left lobe and a series of diagonal, sub-parallel rake marks on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "A notable irregular protrusion/thickening is visible on the far right distal tip, characterized by high-contrast textural variation compared to the surrounding edge. Dark scarring or pigment concentration is dense around the median notch.",
+  "other_distinctive_markers": "A faint, low-contrast circular ring-like marking is visible in the lower-central quadrant of the left lobe."
+}

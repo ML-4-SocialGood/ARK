@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 60:40 ratio of high-intensity (white/light-grey) to low-intensity (dark-grey/black) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Large contiguous low-intensity region extending from the peduncle into the central 1/3 of the fluke. High-intensity white pigmentation dominates the lateral lobes. Right lobe (image right) features distinct low-intensity focal spots and a horizontal dark stroke near the distal tip. Left lobe (image left) shows a cleaner white surface with low-intensity fringe along the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped median notch with an approximate 45-degree interior angle and a depth of roughly 10-15% of the total vertical height of the fluke.",
+    "edge_topography_serration_map": "Asymmetric serration profile. Right lobe (image right) exhibits high-amplitude, irregular peaks (saw-tooth pattern). Left lobe (image left) exhibits more frequent, lower-amplitude serrations that appear smoother towards the tip.",
+    "lobe_sweep_trajectory": "Lobe sweep follows a generally linear trajectory with a slight terminal convexity; lobes are tapered to sharp distal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple dark-on-white pixel clusters (mottling) visible in the mid-section of the right lobe; few isolated clusters on the left lobe near the peduncle.",
+    "linear_abrasions": "A distinct horizontal dark pixel disruption approximately 30 pixels in length located on the distal white area of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Presence of a significant jagged indentation/missing section at the extreme distal tip of the right fluke lobe, creating a distinct asymmetry with the left tip.",
+  "other_distinctive_markers": "The right lobe's trailing edge contains a highly irregular 'double-peak' serration near the midpoint that is not mirrored on the left lobe."
+}

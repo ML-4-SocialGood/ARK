@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High; predominantly high-intensity white pixels covering approximately 85% of the visible surface, contrasted by low-intensity black pixels along the trailing edge boundary.",
+    "spatial_color_mapping": "Large contiguous white region in central and proximal fluke. Irregular black pigmentation band (width variable, 5-15% of lobe height) along the entire trailing edge. Scattered small dark-pixel focal spots in the lower-right and lower-left lobe quadrants."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression; interior angle approximately 35-45 degrees; vertex depth is significant relative to total fluke height.",
+    "edge_topography_serration_map": "Extensive high-frequency serrations along the trailing edge; pixel-amplitude of peaks increases significantly at the lateral tips, creating a highly irregular, jagged boundary appearance.",
+    "lobe_sweep_trajectory": "Slightly convex sweep trajectory from the central notch to the tips, with a distinct upward curvature at the distal ends."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Highly textured, roughly circular high-contrast clusters localized at both the extreme left and right tips, interrupting the black pigmentation boundary.",
+    "linear_abrasions": "Visible low-intensity linear streaks (rake marks) on the right lobe, oriented diagonally towards the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular erosion and material loss on the outer tips; presence of protruding, textured circular colonies at the lateral extremities.",
+  "other_distinctive_markers": "Discrete, shallow circular indentations distributed across the white ventral surface, visible as localized low-intensity grey gradients."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low-intensity dominance with an estimated 0.15:0.85 ratio of high-intensity (white/water spray) to low-intensity (black/dark grey) pixels.",
+    "spatial_color_mapping": "Continuous low-intensity dark field across both lobes, interspersed with high-frequency, non-contiguous high-intensity white points (stochastic noise/water) and a concentrated high-intensity white cluster at the distal tip of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate internal angle of 45-55 degrees, showing sharp convergence at the central axis.",
+    "edge_topography_serration_map": "High-amplitude, irregular saw-tooth serrations clearly visible on the left lobe trailing edge; right lobe trailing edge is partially obscured by water spray, limiting pixel-level extraction of frequency.",
+    "lobe_sweep_trajectory": "Generally concave trajectory from the median notch extending to the distal tips, marked by extreme irregularity on the left lobe's outer boundary."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct high-contrast white circular cluster located on the far distal edge of the left fluke lobe; smaller individual white circular points scattered across the left lobe surface.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant textured, high-intensity white accumulation (consistent with biological encrustation) on the distal trailing edge of the left fluke.",
+  "other_distinctive_markers": null
+}

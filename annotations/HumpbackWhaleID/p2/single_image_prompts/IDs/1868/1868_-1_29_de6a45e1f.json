@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) with a macro-level ratio of approximately 92:8 relative to high-intensity (white) pixel clusters.",
+    "spatial_color_mapping": "Continuous low-intensity dark pigmentation across both lobes. Discrete high-intensity white focal clusters (mottling/scars) are localized primarily along the trailing edges and scattered across the right lobe surface. Distinct linear high-intensity disruptions are mapped to the central-left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible V-shaped central depression with an estimated internal angle of 55-65 degrees and a deep bounding-box penetration relative to the lobe peaks.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitude variations of 5-15 pixels. Profile shows a scalloped pattern with distinct peaks and valleys along the entire visible boundary.",
+    "lobe_sweep_trajectory": "Strongly convex curvature extending from the median notch toward the distal tips of both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely clustered circular white pixel groups (barnacle scars) concentrated at the trailing edge of the right lobe and the tip of the left lobe. Smaller isolated clusters are scattered across the right interior surface.",
+    "linear_abrasions": "Three primary, non-parallel white linear pixel disruptions (rake marks) oriented diagonally on the mid-to-upper surface of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive linear rake marks on the left lobe and dense white barnacle colonization/scarring along the trailing edge margins of both lobes.",
+  "other_distinctive_markers": "Pronounced white calcification or scarring at the extreme distal tips of both lobes, creating a high-contrast 'frosted' appearance against the black substrate."
+}

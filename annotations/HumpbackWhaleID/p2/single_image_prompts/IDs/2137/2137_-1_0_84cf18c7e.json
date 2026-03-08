@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity black pixels across approximately 90% of the visible surface area with localized high-intensity white pixel clusters comprising the remaining 10%.",
+    "spatial_color_mapping": "High-contrast white patches are localized at the distal tips of both lobes. A contiguous white patch is mapped to the far-left terminal, while a more fragmented cluster of white spots is mapped to the far-right terminal. The central and proximal regions exhibit uniform low-intensity black pigmentation."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide V-shaped central depression with a calculated vertex angle of approximately 135 degrees and a bounding-box depth equal to approximately 15% of the visible lobe height.",
+    "edge_topography_serration_map": "Continuous serrated boundary with irregular peaks and valleys detected along the entire trailing edge; serration frequency is highest on the outer one-third of both lobes.",
+    "lobe_sweep_trajectory": "The trailing edge follows a convex mathematical curve sweeping from the central notch toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of roughly circular high-intensity pixel clusters concentrated at the distal tips of both the left and right lobes.",
+    "linear_abrasions": "Single, faint horizontal linear disruption of white pixels detected on the inner-medial region of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Small asymmetrical indentation/notch on the trailing edge of the right lobe; dense white pixel regions at lobe extremities consistent with structural scarring.",
+  "other_distinctive_markers": "Presence of a secondary, partially submerged low-intensity pixel mass located to the right of the primary fluke structure."
+}

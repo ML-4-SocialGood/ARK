@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast observed between low-intensity (black) central/proximal regions and high-intensity (white) distal lobe regions, approximately 60:40 distribution.",
+    "spatial_color_mapping": "High-intensity white regions are concentrated on the distal 50% of both lobes. The left distal lobe exhibits a large white contiguous region with sparse dark mottling. The right distal lobe shows a similar white region with higher-density irregular dark pixel clusters near the tip and trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped median notch with a calculated angle of approximately 95 degrees and a vertical depth comprising roughly 12% of the total visible fluke height.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the entire trailing edge, characterized by jagged, non-uniform peaks and valleys with pixel amplitudes ranging from 2-10 pixels relative to the mean edge curve.",
+    "lobe_sweep_trajectory": "Convex trajectory from the median notch, transitioning to a slight taper toward the distal tips on both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of localized circular high-intensity clusters (approx. 5-10 pixels in diameter) scattered across the lower-left dark quadrant and integrated within the white distal zones.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Specific high-density dark pixel cluster located approximately 80% along the span of the right lobe, creating a distinct mottled visual anchor."
+}

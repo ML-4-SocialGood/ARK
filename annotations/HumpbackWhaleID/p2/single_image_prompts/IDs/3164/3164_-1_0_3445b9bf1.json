@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.40:0.60 ratio of high-intensity white/light-grey pixels to low-intensity black/dark-grey pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Contiguous high-intensity mottle clusters concentrated on distal lobe regions (approx. coordinates: left distal tip and right distal tip); distinct diagonal linear bands of light-intensity pixels originating from the medial base extending toward the anterior edges of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped depression with a calculated pixel angle of approximately 92 degrees and a depth-to-width ratio of 0.18 within the central fluke bounding box.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude jagged variations (irregular peaks and valleys) continuous along the trailing edge from the notch to both distal tips; most extreme amplitude deviations observed at the terminal ends.",
+    "lobe_sweep_trajectory": "Overall convex trailing edge trajectory on both lobes, exhibiting a sharp tapering toward the distal points with irregular terminal morphology."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular, high-contrast white rings (3-12 pixel diameter) clustered on the right distal lobe and sparsely distributed across the medial black regions, consistent with sessile organism attachment sites.",
+    "linear_abrasions": "Subtle, unaligned vertical and horizontal linear pixel disruptions (light-grey against dark-grey background) visible in the lower-medial sections of both lobes."
+  },
+  "acquired_anomalies_or_scars": "Prominent circular scarring (rosettes) localized on the right lobe; significant irregular tissue erosion/jaggedness at the distal-most tips of both lobes.",
+  "other_distinctive_markers": "Unique 'salt-and-pepper' transitional mottling pattern between the dark medial pigmentation and the high-intensity distal patches."
+}

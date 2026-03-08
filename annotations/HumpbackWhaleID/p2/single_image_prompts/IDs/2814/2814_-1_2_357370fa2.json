@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast; approximately 9:1 ratio of white-range pixels to black-range pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Large contiguous white central mass; thick black border mapping along the entire trailing edge and tips; discrete dark circular blobs located in the mid-left lobe, lower-central left lobe, and near the median notch on the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression; interior pixel angle of approximately 65 degrees; bounding-box depth relative to fluke height is approximately 12%.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations along the full trailing edge; right lobe exhibits significantly more extreme peak-to-valley variance, including a deep irregular excision on its inner edge.",
+    "lobe_sweep_trajectory": "Symmetric upward sweep from the center; concave curvature along the trailing edge leading to jagged, irregular termini at both tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of approximately 7-9 distinct dark circular clusters; primary group located in the center-left lobe; smaller clusters adjacent to the median notch and lower margins.",
+    "linear_abrasions": "One prominent dark linear disruption on the right lobe oriented diagonally; several secondary faint linear marks visible on the lower-left lobe."
+  },
+  "acquired_anomalies_or_scars": "Deep semi-circular irregular excision on the trailing edge of the right lobe; significant jagged pixel-loss at the right lobe tip suggesting physical trauma.",
+  "other_distinctive_markers": "Extreme bimodal pixel distribution (near-binary black and white) across the entire subject, minimizing mid-tone gradient data."
+}

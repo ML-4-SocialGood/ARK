@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio of approximately 65% high-intensity (white) pixels to 35% low-intensity (black/dark-grey) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Large contiguous white regions occupy the lateral lobes; the central peduncle/notch region is a solid low-intensity black mass; a prominent, near-vertical black pigmentation band is located at approximately 0.75 span on the right lobe; fine black speckling is distributed across both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped depression with an approximate interior angle of 55 degrees; notch depth is approximately 15-20% of the total vertical height of the visible fluke lobes.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations detected along the continuous trailing edge; variations show a pixel-amplitude of 3-7 pixels from the mean curve with frequent peaks every 10-15 pixels.",
+    "lobe_sweep_trajectory": "Convex curve fitted to the trailing edges of both lobes; distal tips exhibit a sharp posterior-pointing taper before reaching the lateral endpoints."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of multiple circular, low-intensity pixel clusters (2-5 pixel diameter) distributed in the mid-medial region of the left lobe and the distal white field of the right lobe.",
+    "linear_abrasions": "Detection of several vertical and diagonal low-intensity linear pixel disruptions (rake marks) on the right lobe, including one prominent vertical streak approximately 80 pixels in length."
+  },
+  "acquired_anomalies_or_scars": "Physical trauma represented by distinct linear rake marks on the right lobe and a slightly irregular/ragged pixel boundary at the far-left fluke tip.",
+  "other_distinctive_markers": "Highly unique isolated vertical black pigmentation bar on the distal third of the right fluke lobe, contrasting sharply against the white background."
+}

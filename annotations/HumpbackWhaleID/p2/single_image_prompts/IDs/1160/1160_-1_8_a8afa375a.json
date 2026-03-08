@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65:35 ratio of low-intensity (black/dark grey) to high-intensity (white) pixels. The dark pigmentation is concentrated in the central and basal regions, while high-intensity pixels are dominant on the distal lateral lobes.",
+    "spatial_color_mapping": "A large, contiguous low-intensity dark blob occupies the central fluke area from the peduncle to the notch. The distal lobes exhibit high-intensity white backgrounds overlaid with irregular low-intensity linear streaks and focal mottling along the mid-to-outer regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with an estimated internal angle of 50 degrees and a well-defined vertex point.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge boundary, characterized by pixel-amplitude variations (peaks and valleys) of 5 to 15 pixels relative to the mean edge curve.",
+    "lobe_sweep_trajectory": "Strongly convex sweep along the lateral distal edges, transitioning to a moderately concave curvature toward the central median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized, high-contrast brownish-white pixel clusters (indicative of barnacle colonization) are concentrated specifically at the extreme lateral apices of both the left and right fluke lobes.",
+    "linear_abrasions": "Numerous multi-directional, low-intensity linear pixel disruptions (consistent with tooth rake marks) are distributed across the high-intensity white portions of both lobes."
+  },
+  "acquired_anomalies_or_scars": "Significant biological encrustations present at both distal tips; irregular serration pattern suggests cumulative minor physical trauma along the trailing edge.",
+  "other_distinctive_markers": "A prominent set of nearly parallel, vertical dark linear marks is visible on the inner-white portion of the right lobe."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low macro-level ratio; high-intensity pixels (white/light gray) occupy less than 10% of total fluke area, concentrated at distal margins. The remainder is a uniform low-intensity dark field.",
+    "spatial_color_mapping": "Dominant low-intensity contiguous region covering the majority of both lobes. Small, high-contrast white clusters are mapped to the distal tips. Faint, intermediate-intensity gray mottling is detected on the right lobe, situated between the notch and the tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a vertex angle of approximately 75 degrees; the depth is approximately 15% of the total vertical span of the visible fluke.",
+    "edge_topography_serration_map": "Continuous boundary exhibiting high-frequency, low-amplitude pixel variations (1-5 pixel depth) throughout. A significant cluster of irregular, higher-amplitude jagged peaks is localized at the far left distal margin.",
+    "lobe_sweep_trajectory": "Symmetrical concave curve fitted to the trailing edge, originating at the median notch vertex and extending to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast white pixel clusters detected at the right distal tip. A dark, high-contrast cluster with circular morphology is visible on the left distal edge.",
+    "linear_abrasions": "Detection of at least five parallel, vertical-to-oblique linear pixel interruptions (rake marks) on the right lobe. Fainter, horizontal linear disruptions are observed on the left lobe's medial surface."
+  },
+  "acquired_anomalies_or_scars": "Irregular, jagged contour at both distal tips suggesting minor peripheral tissue loss or deformity. Clear parallel rake mark pattern on the right lobe surface.",
+  "other_distinctive_markers": "Distinctive high-contrast 'chewed' texture at the far left tip, showing higher pixel frequency and amplitude variations compared to standard edge serrations."
+}

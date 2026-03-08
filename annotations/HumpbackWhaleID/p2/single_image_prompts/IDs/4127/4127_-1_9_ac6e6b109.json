@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixel base with approximately 10-15% high-intensity (white) pixel clusters appearing as localized surface features.",
+    "spatial_color_mapping": "Uniform low-intensity distribution across the majority of both lobes. High-contrast white linear and point-cluster mapping is visible, with linear features concentrated on the right lobe and point clusters scattered across the left lobe and distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped central depression with an interior angle of approximately 75 degrees and a depth-to-width ratio of approximately 1:1.5 within its bounding region.",
+    "edge_topography_serration_map": "Irregular frequency of peaks and valleys along the trailing boundary; high-frequency micro-serrations near the notch transitioning to low-frequency, high-amplitude jagged protrusions toward the distal tips.",
+    "lobe_sweep_trajectory": "Symmetrical concave curvature of the trailing edge originating from the central notch and terminating at upward-oriented, pointed distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of high-contrast, roughly circular white pixel clusters on the medial left lobe and dense high-intensity clusters at the distal tips of both lobes.",
+    "linear_abrasions": "Multiple distinct, unaligned high-contrast white linear pixel disruptions (rake marks) oriented diagonally across the right lobe and horizontally across the central left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive rake marks across both lobes and irregular, high-intensity erosion/scarring patterns at the distal tips.",
+  "other_distinctive_markers": "A specific jagged indentation on the trailing edge of the right lobe tip that breaks the standard serration pattern of the rest of the edge."
+}

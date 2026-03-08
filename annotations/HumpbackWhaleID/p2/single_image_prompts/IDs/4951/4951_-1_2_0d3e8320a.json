@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark grey) base with localized high-intensity (white) nodes; estimated white-to-black pixel ratio is approximately 0.04.",
+    "spatial_color_mapping": "Discrete circular white nodes (5-15 pixel diameter) scattered across both lobes; highest concentration of white blobs observed in the distal regions and along the lateral edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a central vertex angle of approximately 42 degrees; notch depth extends roughly 18% of the visible fluke height.",
+    "edge_topography_serration_map": "High-frequency irregular serrations along the entire boundary; peak-to-valley amplitude varies from 3 to 12 pixels; serrations are more pronounced and jagged on the left lobe.",
+    "lobe_sweep_trajectory": "Sigmoidal curve with concave geometry near the median notch transitioning to a broad convex sweep towards the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular high-contrast clusters (white-on-black) corresponding to barnacle attachment sites; prominent grouping of approximately 12 rosettes on the left lobe and 10 on the right lobe.",
+    "linear_abrasions": "Fine, unaligned linear grey streaks visible on the mid-to-upper surface of the right lobe, oriented at approximately 30 degrees from the horizontal."
+  },
+  "acquired_anomalies_or_scars": "Irregular jagged morphology and significant tissue loss/encrustation on the far-left lateral tip, creating a non-uniform terminal boundary.",
+  "other_distinctive_markers": "Heavy cluster of live barnacles and associated calcification protruding from the extreme upper-left lateral margin."
+}

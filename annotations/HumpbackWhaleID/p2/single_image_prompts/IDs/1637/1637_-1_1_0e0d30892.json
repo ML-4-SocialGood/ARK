@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 60:40 ratio of high-intensity (white) to low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Primary white fields on both lobes with dense dark mottling. Specific dark circular spots are mapped across the left lobe mid-section. Solid dark pigmentation is concentrated around the median notch and proximal trailing edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated pixel angle of approximately 75 degrees and a significant bounding-box depth.",
+    "edge_topography_serration_map": "Highly irregular trailing edge topography characterized by high-frequency, high-amplitude serrations. Notable sharp peaks are visible along the upper margins of both lobes.",
+    "lobe_sweep_trajectory": "Convex mathematical curve fitted to the outer edges of the fluke lobes from the notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of several distinct dark-on-white circular pixel clusters on the left lobe and lighter ring-like rosettes near the right lobe tip, consistent with barnacle scarring.",
+    "linear_abrasions": "Faint vertical and diagonal linear pixel disruptions are visible crossing the light-pigmented regions of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular tissue loss and jagged serrations along the trailing edge; heavy calcification or barnacle clusters are visible at the distal tips of both lobes.",
+  "other_distinctive_markers": "Unique focal clustering of dark circular 'leopard spots' on the white background of the left lobe's central region."
+}

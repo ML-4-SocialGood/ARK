@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70% low-intensity (dark) to 30% high-intensity (white) pixels visible across the surface.",
+    "spatial_color_mapping": "Large contiguous high-intensity (white) zone on the distal left lobe extending medially from the tip. Smaller, fragmented high-intensity mottling on the superior-distal right lobe. Central and basal regions are predominantly low-intensity (black)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped median notch with an estimated angle of 40 degrees and a bounding-box depth of approximately 15% of the total vertical fluke span.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge with pixel-amplitudes ranging from 4 to 12 pixels relative to the mean edge boundary.",
+    "lobe_sweep_trajectory": "Convex sweep from the center of the lobes toward the distal tips, with a sharp concave transition leading into the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple small, discrete high-intensity circular clusters (2-5 pixel diameter) detected on the low-intensity dark pigmented area of the right fluke lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive irregular jaggedness and indentations along the trailing edge consistent with historical mechanical wear.",
+  "other_distinctive_markers": null
+}

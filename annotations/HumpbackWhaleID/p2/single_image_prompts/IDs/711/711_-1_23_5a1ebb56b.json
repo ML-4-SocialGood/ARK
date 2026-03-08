@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.40:0.60 ratio of high-intensity (white/light grey) to low-intensity (black/dark grey) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Left lobe is characterized by a contiguous high-intensity field with sparse, low-intensity circular focal spots near the trailing edge. Right lobe is characterized by a dominant low-intensity field with sparse, high-intensity linear features and mottling."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated angle of approximately 50-55 degrees and significant depth relative to the fluke vertical axis.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitudes varying between 5-15 pixels along the continuous trailing boundary of both lobes.",
+    "lobe_sweep_trajectory": "Primary concave curve extending from the median notch toward the distal tips of both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast, textured circular clusters (barnacle colonization) localized on the distal tips and right lateral margin.",
+    "linear_abrasions": "Multiple high-intensity, unaligned linear pixel disruptions (rake marks) concentrated on the low-intensity surface of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive calcareous encrustations (barnacles) on distal tips and significant linear scarring on the right lobe surface.",
+  "other_distinctive_markers": "Pronounced pigmentation asymmetry between the left lobe (high-intensity dominant) and the right lobe (low-intensity dominant)."
+}

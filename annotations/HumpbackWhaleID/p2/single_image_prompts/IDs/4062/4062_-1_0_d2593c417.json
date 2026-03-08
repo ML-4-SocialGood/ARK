@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Visible macro-level ratio of approximately 65% high-intensity (off-white/light grey) pixels to 35% low-intensity (dark grey/black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Irregular, high-contrast dark patches and mottling are distributed across both lobes, with a higher density of contiguous dark blobs concentrated near the trailing edge and the central fluke region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrated peaks and valleys are extracted along the continuous upper boundary of the trailing edge for both lobes.",
+    "lobe_sweep_trajectory": "The trailing edges of the lobes follow a slight convex trajectory from the midline area toward the distal fluke tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of multiple circular dark pixel clusters, primarily localized on the distal portions of the left and right lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

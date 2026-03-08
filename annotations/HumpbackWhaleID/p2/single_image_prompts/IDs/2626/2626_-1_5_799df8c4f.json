@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution; approximately 55% high-intensity pixels (predominantly left lobe) to 45% low-intensity pixels (predominantly right lobe and surface markings).",
+    "spatial_color_mapping": "Left lobe presents as a contiguous high-intensity white field with dark linear noise. Right lobe presents as a contiguous low-intensity black field with localized high-intensity clusters near the distal tip and trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped convergence; pixel-edge analysis suggests an acute angle of approximately 48 degrees; the vertex is partially occluded by water spray.",
+    "edge_topography_serration_map": "Left lobe trailing edge is characterized by low-amplitude, smooth topography. Right lobe trailing edge exhibits extreme high-amplitude irregularities including five distinct jagged voids/notches ranging from 15 to 60 pixels in depth.",
+    "lobe_sweep_trajectory": "Left lobe displays a continuous convex curve to the distal tip. Right lobe trajectory is non-continuous and severely disrupted by significant tissue voids."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-intensity pixel clusters (approximately 3-8 pixels in diameter) scattered across the lower medial and distal regions of the dark right lobe.",
+    "linear_abrasions": "Extensive network of dark, unaligned linear pixel disruptions (rake marks) crossing the left lobe's high-intensity field; visible secondary lighter linear marks on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Severe traumatic tissue loss and irregular jagged scarring along the entire trailing edge of the right lobe; extensive rake mark scarring across both lobes.",
+  "other_distinctive_markers": "Extreme hemispheric pigmentation asymmetry where the left lobe is almost entirely white and the right lobe is almost entirely black."
+}

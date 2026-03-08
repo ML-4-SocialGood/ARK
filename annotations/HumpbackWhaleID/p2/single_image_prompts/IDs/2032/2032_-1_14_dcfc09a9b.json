@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The macro-level ratio is dominated by low-intensity (dark) pixels with less than 5% of the visible surface occupied by high-intensity (white) pixel clusters.",
+    "spatial_color_mapping": "Predominantly solid dark-grey to black pigmentation across both lobes. Discrete, high-contrast white circular spots (diameter 5-15 pixels) are scattered throughout, with a higher density in the medial regions. Subtle light-grey mottling is visible on the inner-lower quadrant of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated acute V-shaped depression with an approximate angle of 48 degrees and a relative depth of 12% of the lobe height.",
+    "edge_topography_serration_map": "The boundary displays irregular serrations with a frequency of approximately 12-15 peaks per lobe. Pixel-amplitude of these variations ranges from 5 to 22 pixels from the mean edge line, appearing more pronounced and sharper on the right lobe.",
+    "lobe_sweep_trajectory": "Both lobes exhibit a consistent convex sweep trajectory from the median notch extending towards the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular high-contrast white clusters (approx. 10-25 pixels wide) are detected, primarily concentrated near the trailing edges and the central vertical axis.",
+    "linear_abrasions": "A set of faint, unaligned white linear markings (approx. 80-140 pixels in length) is visible on the lower-mid section of the right lobe, cutting through the dark pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Extensive clusters of high-contrast, high-relief protrusions (barnacle colonization) are present at the extreme distal tips of both lobes, significantly altering the 2D geometric boundary at those points.",
+  "other_distinctive_markers": "Significant textural and intensity deviation at the lobe tips due to calcified surface attachments, creating a ragged, non-laminar edge profile."
+}

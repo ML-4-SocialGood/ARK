@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark grey) pixels accounting for approximately 92% of the visible surface, with high-intensity (white) pixel clusters isolated to the distal tips and stochastic speckling.",
+    "spatial_color_mapping": "Solid dark-intensity base across both lobes. Distinct high-contrast contiguous clusters (white) mapped to the distal left and right vertices. Sparse, non-contiguous high-intensity pixel noise (speckling) concentrated in the lower-right quadrant of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Narrow U-shaped indentation with a vertex angle of approximately 18 degrees and a vertical depth occupying 12% of the central lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular micro-serrations with pixel-amplitudes of 3-8 pixels; more pronounced and jagged on the left lobe trailing edge compared to the right.",
+    "lobe_sweep_trajectory": "Concave upward sweep originating from the median notch, terminating in acute distal tips on both the left and right lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Two high-density clusters of circular, high-intensity pixel nodes (barnacle colonies) located at the far distal tips of both lobes; 5 distinct nodes on the right tip, 4-6 obscured nodes on the left tip.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Heavy calcified barnacle colonization at the extreme distal margins of both fluke lobes.",
+  "other_distinctive_markers": "Localized high-density white speckling across the lower portion of the right lobe, forming a non-geometric salt-and-pepper pattern."
+}

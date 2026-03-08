@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity white across approximately 70-75% of the visible fluke area, with low-intensity black pigmentation covering roughly 25-30% concentrated along the trailing edge and median notch region.",
+    "spatial_color_mapping": "Large contiguous white fields occupy the lateral sections of both lobes. Heavy black pigmentation forms a continuous band along the trailing edge, widening significantly toward the central notch. Isolated low-intensity circular focal points are visible on the white field of the left lobe (center-left) and the right lobe (lower-right)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with an approximate pixel-calculated angle of 110-120 degrees; the vertex depth is moderately deep but partially obscured by water spray.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations characterized by sharp, jagged peaks and deep valleys spanning the entire trailing edge from the notch to the tips; irregular spacing between peaks ranging from 5 to 15 pixels.",
+    "lobe_sweep_trajectory": "Convex curvature along the trailing margins of both lobes, transitioning to sharp, upward-tapering tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Presence of distinct, roughly circular dark pixel clusters on the white ventral surface: one prominent spot on the left lobe and at least three smaller, faint clusters on the right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Highly irregular and pronounced 'saw-tooth' serration pattern along the entire trailing edge, which is significantly more jagged than standard species morphology."
+}

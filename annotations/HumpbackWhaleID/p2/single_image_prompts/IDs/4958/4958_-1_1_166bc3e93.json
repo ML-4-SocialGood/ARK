@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark grey to black) pixels with a contrast ratio heavily skewed towards the lower end; high-intensity white pixels are limited to localized scars, barnacles, and a specific circular marker, occupying approximately <5% of the total visible fluke area.",
+    "spatial_color_mapping": "Contiguous dark pigment block across both lobes. Discrete high-contrast white pixels are mapped to a circular ring in the upper-left quadrant and clustered textured nodes at the lateral distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped central notch dividing the two lobes, characterized by a sharp convergence point at the center of the trailing edge.",
+    "edge_topography_serration_map": "The left lobe trailing edge displays high-amplitude, irregular indentations and jagged missing segments; the right lobe shows lower-amplitude, frequent serrations with localized peaks at the distal end.",
+    "lobe_sweep_trajectory": "The visible leading edges rising from the water surface display smooth convex curves tapering toward the outer lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast, textured clusters of off-white pixels localized at the outer distal tips of both the left and right lobes, consistent with sessile organism colonization.",
+    "linear_abrasions": "Presence of multiple fine, unaligned white linear pixel disruptions of varying lengths and orientations across the central dark fields of both lobes."
+  },
+  "acquired_anomalies_or_scars": "A large irregular indentation on the upper trailing edge of the left lobe indicating significant tissue loss; a prominent, high-contrast white circular ring mark is located on the upper-inner region of the left lobe.",
+  "other_distinctive_markers": "A singular, high-contrast white ring-shaped mark on the left lobe surface resembling a human-drawn circle or eye-spot."
+}

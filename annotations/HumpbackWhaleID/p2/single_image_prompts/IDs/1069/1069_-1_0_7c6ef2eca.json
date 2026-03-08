@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio with approximately 65% high-intensity (yellowish-tan) pixels and 35% low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Large, contiguous yellowish-tan regions occupy the central-to-distal portions of both lobes; a prominent black vertical column extends from the peduncle to the notch, and a black boundary frames the leading and trailing edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch with a pixel angle of approximately 45 degrees and a bounding-box depth equivalent to approximately 10% of the fluke height.",
+    "edge_topography_serration_map": "Continuous high-frequency, low-amplitude serrations (saw-tooth pattern) along the entire trailing edge boundary, with increased jaggedness and irregular peaks reaching 10-15 pixels in amplitude near the distal tips.",
+    "lobe_sweep_trajectory": "Concave trailing edge curve originating from the median notch, transitioning to a slight upward convexity as the trajectory approaches the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular dark pixel clusters (6-8 visible) localized within the high-intensity region of the right lobe; sparse dark spots visible in the upper quadrant of the left lobe.",
+    "linear_abrasions": "Vertical dark linear disruptions visible near the peduncle attachment and faint horizontal scratch marks on the inner-middle section of the right lobe tan region."
+  },
+  "acquired_anomalies_or_scars": "Extensive irregular tissue modification and calcified clusters (barnacles) localized on both distal tips; the left tip exhibits significant jagged erosion compared to the right.",
+  "other_distinctive_markers": "The high-intensity regions display a specific yellowish/ochre pigmentation hue instead of typical white-to-gray transitions."
+}

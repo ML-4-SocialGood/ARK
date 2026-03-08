@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 45% high-intensity (white) to 55% low-intensity (black) pixel distribution across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Two primary high-contrast white regions located on the distal portions of each lobe. The left lobe contains a large triangular white patch extending from the outer tip towards the center. The right lobe contains a similarly sized white patch with irregular boundaries and black pixel intrusions along the trailing edge and median boundary."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped median notch with a calculated angle of approximately 45 degrees and a well-defined focal depth.",
+    "edge_topography_serration_map": "High-frequency serrations across the entire trailing edge boundary. Significant peak-to-valley pixel variance is observed, particularly on the distal tips where the edge appears jagged and irregular.",
+    "lobe_sweep_trajectory": "The trailing edge exhibits a concave sweep from the outer tips toward the median notch, while the leading edge maintains a broad convex curvature."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of dark pixels (focal spots) are detected within the white fields on both lobes, including a distinct grouping of approximately 6-8 spots on the mid-right lobe.",
+    "linear_abrasions": "Faint, unaligned linear pixel disruptions are visible on the white field of the left lobe, appearing as thin dark streaks against the lighter background."
+  },
+  "acquired_anomalies_or_scars": "Notable irregular nicks and small notches along the trailing edge of both lobes, with a distinct indentation on the outer terminal edge of the right lobe.",
+  "other_distinctive_markers": "Unique mottled 'fringe' pattern where the white and black pigmentation zones meet, characterized by a high-density mix of small black and white pixel clusters."
+}

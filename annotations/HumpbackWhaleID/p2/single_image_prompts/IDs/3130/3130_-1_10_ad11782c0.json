@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark grey/black) across approximately 95% of the visible surface, with high-intensity (white) pixels limited to localized linear abrasions and distal tip clusters.",
+    "spatial_color_mapping": "Large contiguous low-intensity dark blob covering the majority of both lobes; high-contrast white clustering is localized at the extreme distal tips and in isolated linear segments (rake marks) throughout the central and lateral lobe areas."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central depression with a calculated internal angle of approximately 50 degrees and a significant bounding-box depth relative to the lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration characterized by sharp peaks (amplitudes of 5-15 pixels) alternating with shallow valleys, particularly pronounced on the lateral halves of the trailing edge.",
+    "lobe_sweep_trajectory": "Symmetrical upward-curving sweep with convex outer margins that transition into concave curvature approaching the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast white pixel clusters detected at the distal tips of both the left and right lobes; additional small, circular white points (rosettes) scattered near the leading edge.",
+    "linear_abrasions": "Multiple distinct, vertically-oriented high-intensity linear pixel disruptions (rake marks) visible on both lobes, breaking the solid dark pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Prominent parallel linear rake marks across the mid-sections of both lobes and white scarring/pigmentation loss at the distal tips.",
+  "other_distinctive_markers": null
+}

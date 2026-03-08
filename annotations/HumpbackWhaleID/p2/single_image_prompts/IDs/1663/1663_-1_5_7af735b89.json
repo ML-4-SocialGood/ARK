@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The surface is predominantly composed of low-intensity pixels (dark grey/black) with high-intensity white regions (approx. 20-30%) concentrated primarily at the distal lobe tips.",
+    "spatial_color_mapping": "Two primary high-intensity contiguous blobs are located at the lateral tips. The left tip blob is larger and more complex, featuring inward-extending white filaments. The right tip blob is smaller with internal low-intensity punctures. The central 60% of the fluke surface is a contiguous low-intensity region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A clear V-shaped central notch is present with an estimated obtuse angle of 115 degrees and a moderate bounding-box depth.",
+    "edge_topography_serration_map": "The trailing edge exhibits high-frequency, irregular serrations across its entire length, characterized by jagged pixel peaks and non-uniform valleys isolated from the water background.",
+    "lobe_sweep_trajectory": "The outer leading edges follow a convex trajectory toward the tips, while the trailing edges follow a broad, irregular concave curve from the tips toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Numerous circular high-contrast white pixel clusters are scattered across the dark regions, with high density on the right lobe and along the trailing margins.",
+    "linear_abrasions": "Extensive network of unaligned, high-contrast linear pixel disruptions (rake marks) crossing both lobes, particularly visible as white lines against the dark pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Heavy accumulation of cumulative trauma marks including circular scarring and multi-directional rake marks across the entire visible ventral surface.",
+  "other_distinctive_markers": "A distinctive, large geometric 'diamond' or 'X' shaped linear scarring pattern is clearly visible in the mid-section of the left lobe."
+}

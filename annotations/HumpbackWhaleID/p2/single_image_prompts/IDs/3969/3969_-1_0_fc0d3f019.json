@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio of approximately 1:4 high-intensity (white) to low-intensity (black) pixels; high-intensity distribution is restricted to the distal lateral extremities.",
+    "spatial_color_mapping": "High-intensity (white) contiguous blobs are located on the distal half of both lobes. The left lobe (viewer's perspective) contains a white patch with a jagged interior boundary. The right lobe contains a white patch with a highly fragmented proximal edge and internal dark mottling centered near the distal tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped median notch with an estimated internal vertex angle of 70 degrees.",
+    "edge_topography_serration_map": "Irregular micro-topography along the trailing edge with increasing pixel-amplitude serrations moving from the median notch toward the lobe tips; tips exhibit high-frequency, irregular peaks.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a concave arc sweeping from the distal tips toward the central notch; leading edges show a generally convex outward sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, dark, roughly circular pixel clusters detected within the high-intensity white patch on the distal portion of the right lobe, particularly concentrated near the interior border.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Pronounced jaggedness and irregular tissue loss at the distal tips of both lobes, deviating from a smooth geometric curve.",
+  "other_distinctive_markers": null
+}

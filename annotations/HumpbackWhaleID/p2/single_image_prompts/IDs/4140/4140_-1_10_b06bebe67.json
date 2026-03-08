@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 40% high-intensity pixels (white) localized on distal-lateral regions and 60% low-intensity pixels (black) in the medial and proximal regions.",
+    "spatial_color_mapping": "Large high-intensity white blobs occupy the outer lateral quadrants of both lobes; a contiguous low-intensity black region is centered at the peduncle junction and extends across the medial fluke surface to the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide V-shaped depression with an estimated pixel angle of 130 degrees and moderate depth relative to the fluke width.",
+    "edge_topography_serration_map": "Continuous boundary characterized by low-frequency serrations; a distinct high-amplitude pixel indentation (notch) is visible on the distal trailing edge of the right lobe.",
+    "lobe_sweep_trajectory": "Concave sweep trajectory fitted from the median notch to the lateral tips of the fluke lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Sparse, small low-intensity circular pixel clusters (dark spots) scattered within the high-intensity white regions of both lobes.",
+    "linear_abrasions": "Single dark linear pixel disruption (mark) oriented diagonally on the high-intensity white region of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Notable irregular indentation or loss of tissue on the distal trailing edge of the right lobe, distinguishable from standard serration patterns.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark grey to black) pixels across the entire visible surface, with sparse, localized high-intensity (white) pixels forming small clusters. Macro-level ratio is heavily skewed toward low-intensity values.",
+    "spatial_color_mapping": "Uniform dark pigmentation across both lobes. Approximately 7 to 9 high-contrast, contiguous circular white rings (mottling/scars) are distributed across the upper-middle sections of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Narrow V-shaped notch with sharp convergence; calculated internal angle is approximately 40 degrees with a significant vertical bounding-box depth relative to lobe width.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serration across the entire boundary. Multiple distinct peaks (triangular protrusions) and valleys (jagged indentations) isolated against the lighter water background.",
+    "lobe_sweep_trajectory": "The trailing edge follows a general convex sweep from the peduncle, ending in sharp, upwardly-curved distal tips on both the left and right lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular white ring-shaped pixel clusters (ranging from 10-30 pixels in diameter) distributed across the dark field; three prominent clusters on the left lobe and four on the right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Numerous circular depigmented rings consistent with historical barnacle attachment; heavily jagged trailing edge indicating substantial tissue irregularity from past mechanical impacts.",
+  "other_distinctive_markers": null
+}

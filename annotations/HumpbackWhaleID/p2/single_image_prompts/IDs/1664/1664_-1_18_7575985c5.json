@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low-contrast macro distribution; dark-field pixels account for approximately 96% of the surface area, with high-intensity (white/tan) pixels restricted to isolated focal anomalies and serration edges.",
+    "spatial_color_mapping": "Uniform dark-grey to black contiguous mapping across both lobes. Focal high-contrast circular blobs clustered at the far left distal tip. A singular, high-contrast white ring located at the approximate mid-point of the left lobe. Dispersed, low-intensity white linear streaks concentrated on the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped vertex; calculated angle of approximately 65 degrees with a deep bounding-box penetration relative to the lobe heights.",
+    "edge_topography_serration_map": "High-frequency irregular serration profile; sharp peaks and jagged valleys ranging from 5 to 20 pixels in amplitude relative to the primary edge line, continuous from distal tips to median notch.",
+    "lobe_sweep_trajectory": "Symmetrical concave sweep originating from the upward-tilted distal tips and curving inward toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed cluster of approximately 12 high-contrast circular pixel groups (barnacles) on the outer edge of the left lobe; 3-4 isolated circular white anomalies observed on the inner-left lobe surface.",
+    "linear_abrasions": "Multiple unaligned, thin, white linear pixel tracks (rake marks) clearly visible on the dorsal-right lobe and scattered on the inner-left lobe."
+  },
+  "acquired_anomalies_or_scars": "Colonization of sessile barnacles on the far-left terminal edge; distinct circular 'O-shaped' scar on the central-left lobe; extensive superficial rake marks across the right lobe surface.",
+  "other_distinctive_markers": "A highly defined, isolated circular white ring scar located on the mid-ventral surface of the left lobe, distinct from typical rosette scarring patterns."
+}

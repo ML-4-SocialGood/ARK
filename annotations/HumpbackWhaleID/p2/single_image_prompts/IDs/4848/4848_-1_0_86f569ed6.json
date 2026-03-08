@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 70% high-intensity (white/light-grey) to 30% low-intensity (black/dark-grey) pixel distribution across the visible fluke surface.",
+    "spatial_color_mapping": "Large contiguous high-intensity white zones occupying the central 80% of both fluke lobes, bounded by a continuous low-intensity black margin at the trailing edge and distal tips; multiple low-intensity linear segments intersect the high-intensity fields."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Centrally located V-shaped depression with an approximate 85-degree interior angle relative to the lobe axes.",
+    "edge_topography_serration_map": "Left trailing edge exhibits high-frequency micro-serrations; right trailing edge exhibits irregular, high-amplitude macro-serrations and significant jagged indentations/geometric cutouts.",
+    "lobe_sweep_trajectory": "Concave curvature originating from the median notch, transitioning to a slight convexity at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, roughly circular low-intensity clusters localized near the median notch vertex and the proximal lobe regions.",
+    "linear_abrasions": "Distinct, dark, unaligned linear pixel disruptions on both lobes; right lobe shows three prominent long diagonal parallel marks; left lobe shows a cluster of shorter, radiating linear marks."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular indentation on the right lobe trailing edge forming a non-standard geometric profile; extensive linear 'rake mark' scarring across the interior ventral surface.",
+  "other_distinctive_markers": "Highly specific multi-vector rake mark pattern providing unique spatial identifier across both lobes."
+}

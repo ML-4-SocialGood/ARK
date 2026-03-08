@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low-intensity (dark) dominant surface; high-contrast white-to-black pixel ratio is low, localized primarily to small-scale scarring and terminal tips.",
+    "spatial_color_mapping": "Uniform dark grey/black base across both lobes; stochastically distributed high-intensity white circular spots (diameter 5-15 pixels) across the central surface; high-density, multi-tonal white/brown clusters at the lateral terminal boundaries."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped indentation with an approximate pixel angle of 75 degrees and a bounding-box depth of approximately 10% of the fluke's vertical extent.",
+    "edge_topography_serration_map": "Continuous irregular boundary featuring high-frequency serrations; peak-to-valley amplitude varies between 5-20 pixels; notable jagged indentations present on the medial sections of the trailing edge.",
+    "lobe_sweep_trajectory": "Lobes exhibit a broad convex curvature from the median notch, sweeping horizontally before curving upward at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular high-contrast pixel clusters; solid white circular spots on the left lobe; hollow, ring-shaped high-intensity outlines (diameter 10-25 pixels) predominantly on the right lobe.",
+    "linear_abrasions": "Several faint, unaligned linear pixel disruptions (white/grey) visible on the lower medial surface of the left lobe and lower right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle encrustation at both lateral tips, appearing as dense, irregular, high-contrast jagged masses (Coronula diadema morphology).",
+  "other_distinctive_markers": "Distinctive hollow-ring scarring pattern localized on the central-right lobe surface."
+}

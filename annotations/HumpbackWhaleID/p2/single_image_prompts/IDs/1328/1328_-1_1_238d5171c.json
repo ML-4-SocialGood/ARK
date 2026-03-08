@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 85% low-intensity black pixels to 15% high-intensity white pixels, with white concentrations localized to the distal tips and trailing edges.",
+    "spatial_color_mapping": "Contiguous high-intensity white patch on the distal corner of the left lobe (approx. coordinates 150,150 relative to lobe tip) and a more mottled, fragmented white distribution on the right distal tip. White mottling also extends along the upper 20% of the trailing edge on the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped notch; calculated interior angle of approximately 115 degrees with a moderate depth-to-width ratio visible above the waterline splash.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel amplitudes ranging from 5-15 pixels. Right lobe exhibits significantly higher irregularity and sharper 'peaks' at the distal extremity compared to the more rhythmic serration pattern on the left lobe.",
+    "lobe_sweep_trajectory": "Strongly convex leading edge curve transitioning to a sharp, tapered distal point; trailing edge follows a generally concave path toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Cluster of roughly 5-8 circular high-contrast white pixel groups (diameter 2-4 pixels) on the upper black surface of the right lobe; isolated white spots present on the central dark region of the left lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Pronounced jagged, irregular profile on the upper-most edge of the right lobe suggesting previous tissue loss or significant wear relative to the smoother left lobe profile.",
+  "other_distinctive_markers": "Unique 'spray' pattern of white pigmentation on the left lobe trailing edge, transitioning from solid white at the tip to fine-grained white speckling toward the center."
+}

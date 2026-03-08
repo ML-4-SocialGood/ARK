@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 60% low-intensity (black) pixels concentrated in the central and lower regions versus 40% high-intensity (white) pixels localized on the distal lobes.",
+    "spatial_color_mapping": "Contiguous high-intensity white patches are mapped to the distal segments of the left and right lobes. The left lobe patch contains a distinctive low-intensity circular focal spot. The central region is dominated by a solid low-intensity black field with high-frequency white linear noise."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated interior angle of approximately 45-55 degrees, showing a deep vertical indentation relative to the lobe horizontal axis.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern consisting of saw-tooth peaks and valleys along the entire trailing edge, with pixel-amplitudes varying between 5 and 20 pixels.",
+    "lobe_sweep_trajectory": "Convex-curved trajectory extending from the median notch to the distal tips, exhibiting a symmetrical upward and outward sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of numerous small, roughly circular high-intensity white clusters (scars) distributed primarily across the lower-medial black pigment of both lobes.",
+    "linear_abrasions": "Dense network of unaligned vertical and diagonal high-contrast white linear disruptions (rake marks) visible across the lower-central black pigment and within the distal white patches."
+  },
+  "acquired_anomalies_or_scars": "Heavy colonization of calcified acorn barnacles forming dense, high-relief clusters on the terminal tips and trailing edges of both the left and right lobes.",
+  "other_distinctive_markers": "A singular, prominent dark circular pixel cluster isolated within the high-intensity white region of the left lobe's outer edge."
+}

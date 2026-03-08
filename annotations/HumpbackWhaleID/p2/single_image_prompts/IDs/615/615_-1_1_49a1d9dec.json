@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels dominate approximately 90% of the visible surface, contrasted against a thin low-intensity black border along the trailing edge and localized dark focal spots.",
+    "spatial_color_mapping": "Continuous low-intensity black perimeter along the trailing edge. Several discrete, high-contrast black circular blobs are distributed across the white ventral surface, most notably a cluster of three in the lower-central region and four scattered across the right lobe. Diffuse, low-contrast yellowish-brown pigmentation is mapped to the lower-central and mid-lateral regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "The central notch exhibits a V-shaped geometry with a sharp vertex angle estimated at 65 degrees and a vertical depth comprising roughly 15% of the visible fluke height.",
+    "edge_topography_serration_map": "Continuous high-frequency serration across the trailing edge. Serrations on the right lobe exhibit higher pixel-amplitude (peaks) compared to the left lobe. The topography is characterized by irregular spacing between sharp peaks and shallow valleys.",
+    "lobe_sweep_trajectory": "The trailing edge contours follow a mathematical concave curve sweeping from the median notch to the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of localized, circular dark pixel clusters on the right lobe and central area, suggesting focal scarring or pigmentation markers.",
+    "linear_abrasions": "Detection of multiple thin, dark curvilinear pixel disruptions (rake marks) mapped horizontally across the right lobe and diagonally on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Pronounced irregular textural anomalies and yellowish-brown clusters at the extreme lateral tips of both lobes, consistent with barnacle colonization or localized trauma.",
+  "other_distinctive_markers": "A distinctive pair of small, dark circular markers positioned symmetrically near the peduncle junction in the lower-center of the fluke surface."
+}

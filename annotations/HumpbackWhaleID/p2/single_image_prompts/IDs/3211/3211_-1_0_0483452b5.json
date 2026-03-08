@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level ratio; predominantly high-intensity (white/light-gray) pixels cover approximately 70-75% of the surface area, with low-intensity (dark-gray/black) pixels concentrated in the lower central region and along trailing edge margins.",
+    "spatial_color_mapping": "Large contiguous high-intensity white blobs cover the mid-to-distal regions of both lobes. Symmetrical dark-gray pigment is mapped to the median notch area, extending downward to the insertion. Small, isolated low-intensity focal spots are visible on the mid-section of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated internal pixel angle of approximately 45 degrees; bounding-box depth indicates a sharp, clean division between the two lobes.",
+    "edge_topography_serration_map": "High-frequency serration along the entire continuous trailing boundary; pixel-amplitude reveals irregular peaks and valleys, with more pronounced, jagged protrusions on the inner sections of the lobes compared to the tips.",
+    "lobe_sweep_trajectory": "Outer edges of the fluke lobes exhibit a convex curve that tapers into a slight concavity toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast clusters of roughly circular white and gray pixel groups (barnacle colonization) are clearly visible at the distal tips of both the left and right lobes.",
+    "linear_abrasions": "Multiple dark-gray, near-parallel linear pixel disruptions (rake marks) are detected in the lower-left quadrant of the left lobe, breaking the high-intensity background pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Prominent barnacle encrustations at both fluke tips; several irregular nicks and jagged disruptions are integrated into the trailing edge topography.",
+  "other_distinctive_markers": "The specific cluster density of barnacles at the distal tips creates a distinctively thickened and irregular profile at the lobe extremities."
+}

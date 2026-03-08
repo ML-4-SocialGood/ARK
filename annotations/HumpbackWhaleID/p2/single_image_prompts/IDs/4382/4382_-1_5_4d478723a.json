@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio with approximately 75% high-intensity white pixels and 25% low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant white contiguous fields on both lateral lobes. Continuous black peripheral border along the entire trailing edge and lobe tips. Central vertical black wedge originating at the median notch and tapering towards the peduncle. Sparse, low-intensity punctate spots and fine linear markings scattered across the white fields, with higher density on the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped depression with a calculated angle of approximately 142 degrees; notch depth is roughly 4% of the total visible horizontal fluke span.",
+    "edge_topography_serration_map": "Irregular serrated profile along the full span. Left lobe trailing edge features a distinct high-amplitude indentation (missing tissue segment) approximately 80% from the centerline. Right lobe features higher frequency, lower amplitude serrations with a more uniform distribution.",
+    "lobe_sweep_trajectory": "Trailing edge exhibits a concave curve near the median notch transitioning into a convex sweep towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast, textured clusters of calcified organisms (barnacles) localized at the extreme distal tips of both lobes. Scattered small, white circular focal points observed on the primary white surface.",
+    "linear_abrasions": "Several distinct, dark, vertically oriented linear pixel disruptions (rake marks) on the ventral surface of the left lobe. Single unaligned diagonal scratch on the right lobe white field."
+  },
+  "acquired_anomalies_or_scars": "Notable macro-serration/tissue loss on the outer trailing edge of the left lobe. Significant epibiotic (barnacle) accumulation at both lobe extremities.",
+  "other_distinctive_markers": "Unique 'splatter' pattern interface where the central black wedge meets the white lobes, characterized by high-frequency pixel-level interspersion of black and white."
+}

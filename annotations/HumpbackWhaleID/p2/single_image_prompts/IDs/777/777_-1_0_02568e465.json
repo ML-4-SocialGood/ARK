@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 75% low-intensity (black/dark grey) and 25% high-intensity (white) pixels localized to lateral zones and tips.",
+    "spatial_color_mapping": "Contiguous white patches located on mid-lateral lobes. Left lobe contains a distinct black sub-pixel island (hook-shaped). Right lobe shows dense white striations and mottling extending to the distal tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch; interior angle approximately 45 degrees relative to lobe horizontal axes.",
+    "edge_topography_serration_map": "Continuous irregular serration pattern across trailing edges; mean amplitude of ~5-10 pixels with high spatial frequency across the entire posterior boundary.",
+    "lobe_sweep_trajectory": "Convex trailing edge curve with sharp tapering toward the central notch; outer edges exhibit a broad convex sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-intensity circular clusters detected at the far left and far right distal tips, consistent with barnacle colonization or scarring.",
+    "linear_abrasions": "Prominent parallel linear high-intensity disruptions (rake marks) on the upper right lobe; multiple fine-line unaligned scratches present in the central dark region."
+  },
+  "acquired_anomalies_or_scars": "Distinctive rake marks consisting of multiple parallel lines on the right lobe distal region; localized physical edge irregularities at both fluke tips.",
+  "other_distinctive_markers": "Unique black pigmentation 'hook' or 'whale-tail' shaped feature isolated within the white field of the left lobe."
+}

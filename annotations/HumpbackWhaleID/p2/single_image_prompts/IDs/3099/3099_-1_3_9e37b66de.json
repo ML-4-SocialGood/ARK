@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface with approximately 15-20% high-intensity (white) coverage concentrated on the left distal lobe; overall high macro-contrast due to sharp boundaries between black and white regions.",
+    "spatial_color_mapping": "High-contrast white patch located on the distal third of the left lobe, extending from the tip toward the center; this region contains a large, dark circular spot (approx. coordinate 0.2x, 0.4y relative to fluke width/height) and multiple smaller dark flecks. The remainder of the fluke is solid low-intensity black/dark-gray."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an estimated interior angle of 70-80 degrees and a depth-to-width ratio of approximately 1:5 relative to the central vertical axis.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations visible along the entire trailing edge; higher-amplitude, irregular peaks (pixel-depth variation) are localized at the far distal tips of both lobes, creating a ragged appearance.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge leading from the tips to the notch; the overall lobe shape exhibits a tapered, slightly convex sweep on the leading edge (partially visible)."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct cluster of dark circular spots within the white pigment of the left lobe; additional faint, light-colored circular outlines (approximately 5-8 count) visible against the dark background of the central left and right lobes.",
+    "linear_abrasions": "Faint, unaligned light-gray linear marks (scratches) observed crossing the white patch on the left lobe and extending into the dark region near the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Notable raggedness and irregular pixel-loss at the extreme left and right lobe tips, consistent with historical abrasion or minor tissue loss.",
+  "other_distinctive_markers": "A singular, large, prominent dark circular spot centered within the white field of the left lobe tip, serving as a primary high-contrast landmark."
+}

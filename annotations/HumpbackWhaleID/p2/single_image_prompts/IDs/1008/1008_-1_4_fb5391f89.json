@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity (white/light grey) with significant low-intensity (black/dark grey) regions centered at the notch and trailing edges; approximate 70:30 high-to-low intensity ratio.",
+    "spatial_color_mapping": "Centralized low-intensity (black) pigmentation radiating dendritically from the median notch into both lobes. High-intensity (white) fields occupy the outer lateral regions. Distinct low-intensity border follows the trailing edge geometry."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped depression; approximate pixel-calculated angle of 45-50 degrees.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations extracted along the entire trailing edge; macro-notches visible on the right distal tip and mid-trailing edge of the left lobe.",
+    "lobe_sweep_trajectory": "Convex trajectory on leading edges; trailing edges exhibit a slight sigmoid curve tapering towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of low-intensity circular pixel groups located at the distal tips of both lobes and along the posterior margins.",
+    "linear_abrasions": "Prominent vertical rake marks on the right lobe; multiple horizontal and diagonal linear disruptions visible on the inner medial surface of both lobes."
+  },
+  "acquired_anomalies_or_scars": "Extensive rake marks across both lobes; irregular trailing edge geometry suggests minor historic tissue loss or scarring.",
+  "other_distinctive_markers": "Superimposed alphanumeric metadata in the lower image field: 'JAC00-18/31 ID 10503 JOHN CALAMBOKIDIS S# N1-10 26 Aug 00 Pt. San Luis CAT'."
+}

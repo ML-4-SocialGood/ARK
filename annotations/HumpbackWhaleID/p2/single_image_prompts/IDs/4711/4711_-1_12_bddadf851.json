@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low-intensity (dark) pixels comprise approximately 90-95% of the surface area, with high-intensity (white) pixels localized to approximately 5-10% of the surface in focal spots, linear streaks, and distal clusters.",
+    "spatial_color_mapping": "Primary dark pigmentation across both lobes. Distinct high-contrast white circular ring blobs are visible: approximately 6 on the left lobe (concentrated mid-lobe and near the notch) and 4 on the right lobe. High-intensity pixel clusters are localized at the distal tips of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with a calculated internal angle of approximately 105 degrees and a moderate bounding-box depth relative to the fluke span.",
+    "edge_topography_serration_map": "The right lobe trailing edge displays moderate frequency serrations with pixel-amplitude variations of approximately 5-15 pixels; the left lobe trailing edge is smoother with low-frequency, low-amplitude peaks.",
+    "lobe_sweep_trajectory": "Concave curve trajectory fitted to the trailing edges of both lobes extending from the median notch to the tips; leading edges exhibit a broad convex sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of high-contrast white ring-shaped pixel clusters: 6 distinct rings on the left lobe and 4 on the right lobe; dense, irregular high-intensity clusters (barnacle colonization) are fixed at the lateral tips of both lobes.",
+    "linear_abrasions": "Three prominent, nearly vertical parallel white linear marks detected on the lower mid-section of the right lobe; several thinner, diagonal high-intensity streaks detected on the left lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Dense calcified barnacle clusters at the extreme tips of both lobes; numerous circular white scars distributed across the ventral surface consistent with historical attachment sites.",
+  "other_distinctive_markers": null
+}

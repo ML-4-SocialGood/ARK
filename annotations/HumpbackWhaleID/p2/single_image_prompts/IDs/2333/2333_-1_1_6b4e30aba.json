@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:1 balance between high-intensity (white) and low-intensity (black) pixels across the total surface area.",
+    "spatial_color_mapping": "The left lobe consists of a large, high-intensity white contiguous region spanning approximately 80% of its area, bordered by low-intensity black mottling along the trailing edge. The right lobe is a nearly solid low-intensity black contiguous region with localized high-intensity spots."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A sharp V-shaped depression with a calculated 2D interior angle of approximately 50-60 degrees.",
+    "edge_topography_serration_map": "Continuous irregular serrations across the boundary; high-frequency jagged peaks visible on the distal left tip (amplitudes of 10-20 pixels) and lower-frequency peaks along the right lobe trailing edge.",
+    "lobe_sweep_trajectory": "The left lobe follows a convex outer curve; the right lobe follows a shallow concave curve leading toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 10-12 high-contrast white circular ring clusters (barnacle scars) localized on the low-intensity black surface of the right lobe.",
+    "linear_abrasions": "Presence of thin, high-intensity diagonal and horizontal linear streaks crossing the dark pigmentation of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent circular barnacle attachment scars on the right lobe and irregular jagged tissue loss at the terminal tip of the left lobe.",
+  "other_distinctive_markers": "Extreme bilateral pigmentation asymmetry divided by the median notch axis."
+}

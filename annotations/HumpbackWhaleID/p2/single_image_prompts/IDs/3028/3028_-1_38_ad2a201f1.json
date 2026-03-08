@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1.8:1 ratio of high-intensity white pixels to low-intensity black pixels across the visible surface.",
+    "spatial_color_mapping": "Two large, contiguous high-intensity white segments dominate the center of each lobe. A solid low-intensity black band follows the entire trailing edge, broadening significantly at the median notch and along the lower vertical axis where the fluke meets the water line. Fine-scale black mottling is present at the interior margins of the white blobs."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped depression angle of 34 degrees with a depth approximately 12% of the vertical height of the visible fluke lobes.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the continuous trailing boundary; pixel-amplitude of peaks and valleys ranges from 4 to 15 pixels, with the highest frequency of serration concentrated on the outer third of each lobe.",
+    "lobe_sweep_trajectory": "Leading edges exhibit a steady convex curve from the water line to the tips; trailing edges follow a complex convex curve that tapers into the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-contrast, roughly circular pixel groups (clusters of 8-12 pixels each) are detected at the distal tips of both the left and right lobes.",
+    "linear_abrasions": "Three distinct, near-parallel vertical linear pixel disruptions are visible in the high-intensity white field of the right lobe, oriented toward the lower water line."
+  },
+  "acquired_anomalies_or_scars": "Proninent irregular texture and loss of smooth edge contour at the terminal tips of both lobes, indicative of physical trauma or parasitic colonization.",
+  "other_distinctive_markers": null
+}

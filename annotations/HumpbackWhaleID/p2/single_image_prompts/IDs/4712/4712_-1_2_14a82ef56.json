@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65:35 ratio of high-intensity (>200 RGB) to low-intensity (<50 RGB) pixels. High intensity is concentrated in central lobe quadrants; low intensity is concentrated at the peduncle base and peripheral edges.",
+    "spatial_color_mapping": "Dominant white central fields (bilateral) bounded by a continuous black perimeter. Dark, high-contrast striations radiate from the axial peduncle insertion point toward the mid-lobe regions in a fan-like distribution."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Symmetrical V-notch with an approximate 55-degree vertex angle; notch depth comprises roughly 12% of the total vertical pixel span of the fluke.",
+    "edge_topography_serration_map": "Low-frequency, moderate-amplitude irregular serrations along the entire trailing edge. High-contrast jaggedness is visible on the extreme right distal tip.",
+    "lobe_sweep_trajectory": "Convex leading edge curvature transitioning to a steep upward-sweeping concavity at the distal lobe terminals."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatially distinct clusters of roughly circular, high-intensity pixel groups (barnacles) located on the extreme distal tips of both lobes; approximately 5-8 units per tip.",
+    "linear_abrasions": "Numerous dark, unaligned linear pixel disruptions (rake marks) crossing the white pigmentation. Left lobe exhibits parallel diagonal lines; right lobe exhibits multi-directional intersecting vertical and oblique lines."
+  },
+  "acquired_anomalies_or_scars": "Extensive linear scarring across the ventral surface of both lobes. Presence of clustered biological growth on distal tips. Minor structural irregularity on the right lobe's outer trailing edge.",
+  "other_distinctive_markers": "Highly distinct feathered transition of dark pigment extending from the median notch into the central high-intensity ventral fields."
+}

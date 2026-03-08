@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast ratio; approximately 75% of the visible surface consists of high-intensity (white/light gray) pixels centrally located, contrasted by 25% low-intensity (dark/black) pixels at the perimeters and axial base.",
+    "spatial_color_mapping": "Low-intensity perimeter banding along the trailing edge. A single prominent dark circular blob is located on the lateral left lobe. Two small, adjacent low-intensity spots are located on the mid-right lobe. Symmetrical dark radial striations extend from the peduncle insertion point."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated pixel angle of approximately 72 degrees and a high bounding-box depth relative to the fluke's vertical axis.",
+    "edge_topography_serration_map": "Highly irregular trailing edge. Medium-frequency, low-amplitude serrations across the medial edge. The distal tip of the right lobe exhibits a high-amplitude geometric indentation/notch.",
+    "lobe_sweep_trajectory": "Sigmoidal curve trajectory; concave curvature originating from the median notch transitioning into a broad convexity toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Three distinct low-intensity circular clusters detected: one primary cluster on the outer left lobe and two smaller secondary clusters on the inner right lobe.",
+    "linear_abrasions": "Detection of multiple unaligned dark linear disruptions. One prominent long diagonal abrasion is visible on the left lobe. Several smaller vertical and diagonal scratches are localized near the peduncle-fluke interface."
+  },
+  "acquired_anomalies_or_scars": "Prominent diagonal linear scar on the left fluke lobe. Possible minor tissue loss/irregularity at the far-right trailing edge tip.",
+  "other_distinctive_markers": "Highly distinctive 'brush-stroke' pigmentation pattern radiating from the peduncle into the ventral center of both lobes."
+}

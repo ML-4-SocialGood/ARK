@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Dominant low-intensity (dark) pixel field across the fluke surface with approximately 10-15% coverage of high-intensity (white) pixel clusters.",
+    "spatial_color_mapping": "High-frequency white stippling and small-scale mottling distributed across both lobes on a dark ground; no large, contiguous white geometric blobs are present."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated interior angle of approximately 40 degrees.",
+    "edge_topography_serration_map": "Continuous serrated boundary along the trailing edge; right lobe (image-right) exhibits more pronounced, regular peaks and valleys; left lobe (image-left) displays more irregular, lower-amplitude serrations.",
+    "lobe_sweep_trajectory": "Convex upward curve following a smooth trajectory from the median notch to the distal tips on both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of small, circular high-contrast white pixels (1-4 pixel diameter) scattered across the ventral surface, particularly concentrated on the medial and distal regions of the left lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Distinctively jagged and irregular distal tip on the left lobe; right lobe distal tip ends in a sharp, singular terminal point.",
+  "other_distinctive_markers": "Heavy stippling/speckling pattern throughout the visible ventral area."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 85-90% high-intensity white pixels and 10-15% low-intensity black pixels localized to the perimeter.",
+    "spatial_color_mapping": "Contiguous high-intensity white field dominates the central surface. Low-intensity black pigmentation forms a continuous jagged band along the entire trailing edge and expands into dense clusters at the left and right distal tips. Five distinct dark circular pixel clusters (rosettes) are mapped to the upper-right distal region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep U-shaped central notch with an approximate vertex angle of 50 degrees and a vertical depth roughly 10% of the fluke width.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the continuous trailing boundary; pixel-amplitude of peaks ranges from 3 to 12 pixels relative to the edge baseline, appearing most irregular on the inner right lobe.",
+    "lobe_sweep_trajectory": "Concave curvature along the outer leading edges, terminating in sharp upward-tapering distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple circular high-contrast dark outlines clustered on the right fluke tip, consistent with barnacle-attachment pixel footprints.",
+    "linear_abrasions": "Single vertical low-intensity linear disruption visible at the lower-center fluke-to-peduncle junction."
+  },
+  "acquired_anomalies_or_scars": "Highly irregular, jagged trailing edge geometry suggesting cumulative physical trauma or environmental wear across both lobes.",
+  "other_distinctive_markers": null
+}

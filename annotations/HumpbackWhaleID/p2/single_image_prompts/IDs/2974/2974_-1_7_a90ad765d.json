@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface with approximately 12% high-intensity (white) pixel distribution concentrated in focal clusters and along distal margins.",
+    "spatial_color_mapping": "High-contrast white clusters located at the distal tips (far left and far right coordinates of the fluke) and scattered circular white clusters distributed across the central and mid-lateral regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with a calculated angle of approximately 55 degrees and a bounding-box depth of approximately 1/6th the total vertical span of the fluke lobes.",
+    "edge_topography_serration_map": "Continuous irregular serration; the left lobe trailing edge exhibits low-amplitude jaggedness, while the right lobe trailing edge shows high-amplitude peaks and valleys with significant loss of linear continuity.",
+    "lobe_sweep_trajectory": "Convex leading edges tapering to acute distal tips; trailing edges follow a generally linear trajectory with a slight concave curvature near the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular high-contrast pixel clusters (white on black background) detected, notably a dense cluster in the center-left ventral region and scattered individual rosettes along the trailing margins.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular tissue degradation and jagged contour disruptions on the trailing edge of the right lobe, contrasting with the relatively smoother edge of the left lobe.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixels with approximately 5-8% distribution of high-intensity (white/light grey) pixels concentrated in circular ring structures.",
+    "spatial_color_mapping": "Solid dark pigmentation across the entire visible ventral field. High-contrast spatial mapping identifies distinct circular geometric rings scattered across both lobes, with a dense cluster on the distal right lobe and mid-upper left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped notch with an approximate internal angle of 45 degrees and a bounding-box depth extending approximately 10% of the fluke's vertical height.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serration across the entire continuous trailing edge; characterized by sharp peaks and valleys isolated against the high-intensity background.",
+    "lobe_sweep_trajectory": "Strongly convex upward trajectory on the lateral margins, transitioning to a moderate concave curve as the lobes converge at the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High density of roughly circular high-contrast pixel clusters (white rings) mapped across the ventral surface, most notably on the distal third of the right lobe and the medial section of the left lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant protruding calcified clusters (barnacles) localized at the extreme lateral tips of both the left and right lobes; widespread circular depigmentation scars across the ventral surface.",
+  "other_distinctive_markers": "Heavy barnacle encrustation at the fluke tips creates a unique, highly irregular, three-dimensional pixel silhouette at the lobe extremities."
+}

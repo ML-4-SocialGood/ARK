@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution; approximately 40% high-intensity pixels (white) concentrated on the distal lobes versus 60% low-intensity pixels (black) in the central and peduncle regions.",
+    "spatial_color_mapping": "Large contiguous white geometric blobs occupy the outer 2/3 of both the left (x=0.05 to 0.40) and right (x=0.60 to 0.95) lobes, characterized by high-frequency dark mottling. The central 20% (x=0.41 to 0.59) is composed of solid low-intensity black pigmentation."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated vertex angle of approximately 35 degrees and a bounding-box depth of approximately 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency irregular jaggedness along the continuous boundary; pixel-amplitude variations range from 5 to 20 pixels, with the most pronounced peaks located near the distal tips.",
+    "lobe_sweep_trajectory": "Primarily convex curvature along the superior trailing edges, tapering to acute pointed lateral termini."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of roughly circular high-contrast objects (barnacle colonizations) localized at the extreme lateral tips of both lobes; smaller circular 'rosette' scars visible on the dark central pigmentation just below the notch vertex.",
+    "linear_abrasions": "Distinct dark, unaligned linear pixel streaks (rake marks) cutting through the white pigmentation on the distal portions of both fluke lobes."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization on the distal fluke tips; multiple irregular skin protrusions visible along the lower margin near the peduncle junction on the left side.",
+  "other_distinctive_markers": null
+}

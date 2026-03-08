@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixels; estimated ratio of 1:20 high-intensity (white) to low-intensity (black/dark-grey) pixels based on visible scratches and spots against the main body.",
+    "spatial_color_mapping": "Solid dark-toned contiguous area across 95% of visible fluke. Discrete high-intensity white focal spot (approx. 25x20 pixel area) at the upper right distal tip. Sparse white mottling observed at the lateral extreme of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression; central angle calculated at approximately 64 degrees with a vertical pixel depth of approx. 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration profile. Multiple sharp peaks and valleys with pixel amplitudes ranging from 10 to 40 pixels. Serrations are more jagged and deeper on the medial segments of both lobes.",
+    "lobe_sweep_trajectory": "Outer edges exhibit a strong convex parabolic curve from the central axis to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct circular high-contrast pixel cluster (white) on the upper distal region of the right lobe. Minor point-source high-intensity clusters visible along the posterior-lateral margin of the left lobe.",
+    "linear_abrasions": "Significant horizontal linear pixel disruption (approx. 110 pixels in length) on the medial-left lobe. Fainter intersecting vertical and diagonal scratches creating a cross-hatch pattern in the same region. One distinct horizontal white scratch on the medial-right lobe."
+  },
+  "acquired_anomalies_or_scars": "Pronounced white circular lesion/scar at the right lobe tip. Highly irregular, jagged trailing edge suggestive of accumulated physical trauma or intensive wear.",
+  "other_distinctive_markers": "Visible cross-hatch scratch pattern on the left lobe and a high-contrast white elliptical mark on the right tip."
+}

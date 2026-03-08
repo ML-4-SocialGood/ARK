@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 40:60 ratio of high-intensity white pixels to low-intensity black/dark-grey pixels across the visible ventral area.",
+    "spatial_color_mapping": "High-intensity white contiguous zones occupy the distal halves of both lobes. The left lobe (viewer's left) displays a solid white region tapering toward the peduncle. The right lobe (viewer's right) features a high-intensity white background heavily populated with low-intensity black speckling and mottling. A solid low-intensity black zone extends from the peduncle into the proximal third of the fluke structure."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated angle of approximately 55 degrees and a bounding-box depth extending approximately 15% into the fluke's vertical span.",
+    "edge_topography_serration_map": "Continuous irregular trailing edge characterized by high-frequency, low-amplitude pixel variations (serrations). Notable macro-indentations are present on the distal third of the right lobe's trailing boundary.",
+    "lobe_sweep_trajectory": "Bilateral convex curvature on the trailing edges, tapering to sharp, acute points at the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of high-contrast, raised circular pixel groups (barnacles) localized at the extreme distal tips and along the leading edges of both the left and right lobes.",
+    "linear_abrasions": "Several short, low-intensity linear disruptions (rake marks) oriented vertically on the high-intensity white surface of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization at the lateral fluke tips; visible irregular tissue loss/notching on the distal trailing edge of the right lobe.",
+  "other_distinctive_markers": null
+}

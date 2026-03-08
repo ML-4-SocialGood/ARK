@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Dominance of low-intensity black pixels across approximately 98% of the visible fluke surface; high-intensity pixels are limited to localized specular reflections and water spray.",
+    "spatial_color_mapping": "Continuous solid black pigmentation across the visible surface area of both lobes; no distinct high-contrast geometric blobs or mottling patterns are mapped."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with a calculated acute angle; vertex is sharply defined at the intersection of the two fluke lobes.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations visible as irregular pixel-level deviations along the continuous trailing edge boundary of both the left and right lobes.",
+    "lobe_sweep_trajectory": "Concave sweep trajectory along the trailing edge leading to tapering distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": "Several faint, vertical linear pixel disruptions (rake marks) detected on the inner region of the viewer-left lobe proximate to the central notch."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

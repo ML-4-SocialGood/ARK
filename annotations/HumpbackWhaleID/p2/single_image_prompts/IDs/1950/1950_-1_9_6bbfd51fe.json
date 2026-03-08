@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low; approximately 0.05:1 ratio of high-intensity white to low-intensity black pixels across the visible ventral surface area.",
+    "spatial_color_mapping": "Solid low-intensity (black/dark grey) contiguous region across >95% of surface; high-contrast light pixel clusters isolated at the extreme lateral distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped median notch with an estimated internal angle of 115 degrees and a shallow bounding-box depth relative to the fluke span.",
+    "edge_topography_serration_map": "Relatively smooth trailing edge with low-amplitude irregularities along the lobe span; significant high-frequency pixel jaggedness at the distal tips corresponding to epibiotic clusters.",
+    "lobe_sweep_trajectory": "Slight concavity observed along the trailing edge boundary from the median notch towards the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast light pixel clusters located exclusively at the far left and far right lobe tips.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive epibiotic growth (likely barnacles) visible as irregular, light-toned protrusions at the distal tips of both fluke lobes.",
+  "other_distinctive_markers": "Uniformly dark ventral pigmentation lacking the characteristic white mottling common in this species."
+}

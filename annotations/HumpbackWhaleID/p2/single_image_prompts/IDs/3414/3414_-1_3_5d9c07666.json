@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 35:65 ratio of high-intensity white/light-grey pixels to low-intensity black/dark-blue pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant contiguous light-grey geometric blob occupying the central-medial region of the left lobe (viewer perspective), bounded by low-intensity dark pigmentation. Discrete, high-contrast dark circular pixel clusters (mottling) distributed within the light-grey region. Right lobe displays predominantly low-intensity pigmentation with sparse, isolated light-pixel mottling near the median notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated acute V-shaped depression with an approximate 55-degree pixel angle and deep vertical bounding-box penetration relative to the lobe peaks.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations detected along the entire trailing edge boundary; characterized by sharp pixel-level peaks and valleys ranging from 2 to 6 pixels in depth relative to the linear edge mean.",
+    "lobe_sweep_trajectory": "Sigmoidal curve transitioning from convex near the median notch to concave toward the tapered distal tips (fluke points)."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 10-12 discrete, high-contrast dark circular pixel clusters localized on the ventral-left white field, consistent with localized pigmentation or previous colonization sites.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

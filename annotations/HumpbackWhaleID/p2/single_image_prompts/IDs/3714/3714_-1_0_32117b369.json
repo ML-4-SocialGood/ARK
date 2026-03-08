@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Visible contrast between a central low-intensity (black) region and lateral/trailing high-intensity (white) speckled regions. Estimated 60:40 ratio of dark-to-light pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Central dark pigmentation forms an inverted triangle/V-shape. High-intensity pixel clusters (mottling) are concentrated along the trailing edges, with the right lobe displaying a higher density of contiguous light pixels compared to the left lobe's discrete speckling."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible V-shaped central depression with a sharp interior angle and significant bounding-box depth.",
+    "edge_topography_serration_map": "High-frequency irregular serrations and peaks are visible along the entire trailing edge boundary, particularly prominent and jagged on the distal half of the right lobe.",
+    "lobe_sweep_trajectory": "Convex curve trajectory originating from the median notch and extending symmetrically towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of localized, high-contrast white pixel clusters (spots) against the dark background, primarily located on the mid-left lobe and the lower central region near the notch.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "The distal tip of the left lobe displays an irregular, blunt, and ragged profile compared to the more pointed and smooth taper of the right distal tip.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.45:0.55 ratio of high-intensity (>200 grayscale) to low-intensity (<50 grayscale) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Large contiguous white high-intensity zones on the distal regions of both lobes, contrasted with a solid black low-intensity central medial region. Irregular black speckling and spots are mapped within the distal white zones, particularly on the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped median notch with a pixel-calculated angle of approximately 65 degrees and a vertical depth comprising roughly 12% of the visible lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitudes ranging from 4 to 18 pixels; serrations are more pronounced and jagged toward the distal tips.",
+    "lobe_sweep_trajectory": "Concave curve originating from the median notch, transitioning to a broad convex curve across the mid-lobe toward the distal extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular pixel clusters detected; most prominent is a cluster of three concentric rings on the right lobe and several smaller high-contrast white circular scars on the left lobe.",
+    "linear_abrasions": "Several dark, unaligned linear pixel streaks are visible on the distal left lobe, cutting across the primary white pigmentation; smaller horizontal disruptions are visible near the lower water-line of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive calcified clusters (barnacles) are present on the extreme distal tips and along segments of the trailing edges; multiple circular/ovoid 'target' scars (likely parasitic) are distributed across the fluke surface.",
+  "other_distinctive_markers": "Unique concentric 'bullseye' scar located in the upper-central region of the right lobe pigmentation."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 85% high-intensity (white) pixels in the central region and 15% low-intensity (black) pixels concentrated at the perimeter and trailing edge.",
+    "spatial_color_mapping": "Dominant white contiguous area across the visible ventral surface, bounded by an irregular black border; multiple thin, low-intensity vertical streaks (drips) extend approximately 15-20% into the white field from the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations along the visible boundary; several deep V-shaped indentations located on the distal third of the lobe, creating a 'torn' appearance relative to the water background.",
+    "lobe_sweep_trajectory": "Overall concave trailing edge trajectory characterized by irregular pixel offsets."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of dark, raised-contrast pixel groups located at the distal tip of the fluke, consistent with localized surface colonization or irregular scarring.",
+    "linear_abrasions": "Presence of multiple dark, vertical linear pixel disruptions (rake-like marks) extending from the serrated edge downward toward the water line."
+  },
+  "acquired_anomalies_or_scars": "Extremely irregular and jagged loss of tissue on the trailing edge, particularly a deep, wide indentation on the outer quadrant of the lobe suggestive of past physical trauma.",
+  "other_distinctive_markers": null
+}

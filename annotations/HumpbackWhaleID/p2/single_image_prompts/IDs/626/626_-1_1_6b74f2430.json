@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65% high-intensity white pixels to 35% low-intensity black pixels across the visible ventral lobe surface.",
+    "spatial_color_mapping": "Primary high-intensity white zone occupies the central and proximal areas of the lobe. Low-intensity black pigmentation forms a continuous boundary along the trailing edge and distal tip, with high-frequency mottling/speckling at the transition zone between the white and black regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "The trailing edge exhibits a series of irregular, jagged serrations with pixel-amplitudes varying between 10 and 30 pixels. Frequency of peaks increases toward the distal tip.",
+    "lobe_sweep_trajectory": "The trailing edge follows a convex mathematical curve that tapers into a distinct, slightly upturned distal tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "A dense cluster of circular, high-contrast tan and white pixel groups is localized at the extreme distal tip, indicating localized surface texture variation.",
+    "linear_abrasions": "Distinct, unaligned white linear pixel paths are visible crossing the black-pigmented region near the trailing edge, specifically one prominent diagonal mark near the mid-lobe and several smaller horizontal marks near the tip."
+  },
+  "acquired_anomalies_or_scars": "Prominent white linear rake marks/scars cutting through the dark pigmentation on the upper-right quadrant of the visible fluke; significant cluster of raised/scarred tissue at the distal tip.",
+  "other_distinctive_markers": "Faint yellowish-tan pixel staining is visible in the lower-central region of the white field."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 45:55 ratio of high-intensity white pixels (distal surfaces) to low-intensity black pixels (leading edges and central lobe regions).",
+    "spatial_color_mapping": "Contiguous black pigmentation is concentrated along the leading edges and the interior 'neck' region. White pigmentation is mapped to the distal lobes. Distinct, roughly circular black spots (blobs) are mapped across the white distal regions of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, irregular serration with numerous jagged peaks and troughs. Notable deep indentation (notch-like loss) on the upper trailing edge of the left lobe and a heavily chipped, irregular boundary at the right tip.",
+    "lobe_sweep_trajectory": "Broadly convex sweep along the leading edges extending from the center toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast detection of circular dark-contoured spots (rosettes) primarily localized on the white distal regions; approximately 12 clusters on the left lobe and 8 on the right lobe.",
+    "linear_abrasions": "A series of 4-5 parallel, dark diagonal linear marks (rake marks) on the right lobe; sparse white linear marks visible against the black pigment on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Heavy scarring including parallel rake marks on the right lobe and significant jagged tissue loss/irregularity on the margins of both fluke tips.",
+  "other_distinctive_markers": "Distinct 'forked' rake mark pattern on the right lobe near the pigmentation transition boundary."
+}

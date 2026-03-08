@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Estimated 65/35 ratio between low-intensity (black/dark grey) and high-intensity (white/light grey) pixel clusters across visible fluke surface.",
+    "spatial_color_mapping": "Lateral high-intensity white patches on both lobes. Left lobe displays a large, irregular contiguous white region covering approximately 40% of the lobe area. Right lobe contains a more fragmented white region covering approximately 30%. Central peduncle and fluke margins are predominantly low-intensity black."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Symmetric V-shaped indentation at the vertical midline with an approximate aperture of 78 degrees.",
+    "edge_topography_serration_map": "Fine-grained serration with pixel-amplitude variations of 2-5 pixels along the trailing boundary. A more pronounced irregular indentation is visible on the right lobe edge approximately 15% distance from the median notch.",
+    "lobe_sweep_trajectory": "Outer trailing edges exhibit slight convexity tapering to acute lateral tips; inner trailing edges follow a concave curve toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Numerous sub-circular dark pixel clusters (3-8 pixels in diameter) localized within the high-intensity white patches on both lobes.",
+    "linear_abrasions": "A series of at least three near-parallel vertical dark linear streaks detected on the medial section of the right lobe white patch, ranging from 15 to 40 pixels in length."
+  },
+  "acquired_anomalies_or_scars": "Small semicircular indentation on the trailing edge of the right lobe, situated immediately adjacent to the median notch.",
+  "other_distinctive_markers": null
+}

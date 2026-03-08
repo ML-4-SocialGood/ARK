@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution. Visible ventral surface is approximately 75% high-intensity (white) and 25% low-intensity (black/dark grey) within the fluke boundary.",
+    "spatial_color_mapping": "Dominant white contiguous regions covering the central and distal areas of both lobes. Low-intensity black pixels define the central peduncle junction and the entire trailing edge perimeter. Discrete dark circular clusters (mottling) are distributed across the white field, with higher density on the right lobe distal region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible central V-shaped depression with a calculated obtuse pixel angle of approximately 115 degrees.",
+    "edge_topography_serration_map": "Continuous high-frequency serration pattern along the trailing edge. Pixel-amplitude of peaks varies between 3-10 pixels relative to the local baseline curve, forming a jagged topography.",
+    "lobe_sweep_trajectory": "Bilateral convex curves extending from the median notch to the distal tips, showing a smooth mathematical taper on the leading edge and a jagged convex sweep on the trailing edge."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple high-contrast circular pixel clusters (dark on white) ranging from 5-15 pixels in diameter. Notable clusters are located at the mid-section of the left lobe and the distal half of the right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive circular mottling across the ventral surface, consistent with healed parasitic or barnacle attachment sites.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast with approximately 40% high-intensity white pixels and 60% low-intensity black pixels localized across the ventral surface.",
+    "spatial_color_mapping": "Contiguous white pigmentation zones are concentrated on the lateral-mid sections of both lobes. The left lobe exhibits a large white field with isolated black focal spots. The right lobe shows more dominant black pigmentation with a high-contrast white mottled region along the upper-outer trailing edge. The central region adjacent to the median notch is solid low-intensity black."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, symmetrical V-shaped depression with a calculated internal angle of approximately 55 degrees and a high depth-to-width ratio within the central bounding box.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations present across the entire trailing edge; topography is most jagged on the outer thirds of both lobes with multiple sharp vertical peaks and deep valleys exceeding 15-20 pixels in amplitude.",
+    "lobe_sweep_trajectory": "Lobes exhibit a strong upward sweep with a concave trailing edge curvature and convex leading edge, terminating in sharply pointed distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, localized clusters of high-intensity circular pixel groups (barnacle attachments) are heavily concentrated on the extreme distal tips of both the left and right lobes.",
+    "linear_abrasions": "Multiple unaligned linear white pixel disruptions (rake marks) are detected; one prominent set of three parallel lines is located on the inner-lower quadrant of the left lobe, and several faint vertical scratches are visible on the upper-mid right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization on lobe tips and several deep, irregular notches along the trailing edge indicative of previous mechanical trauma.",
+  "other_distinctive_markers": "A singular, high-contrast black focal spot is located within the upper-white pigmentation field of the left lobe."
+}

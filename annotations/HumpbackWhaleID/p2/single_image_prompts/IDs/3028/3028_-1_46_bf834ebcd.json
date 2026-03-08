@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Bimodal distribution with a ratio of approximately 60% low-intensity (dark) to 40% high-intensity (white) pixels. The left lobe is predominantly low-intensity, while the right lobe features a large high-intensity field.",
+    "spatial_color_mapping": "Right lobe contains a broad high-intensity white field (roughly 70% of its area) with scattered low-intensity speckling and a thick dark trailing edge band. Left lobe is predominantly low-intensity dark pixels with sparse high-intensity clusters concentrated near the median notch and leading edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a calculated angle of approximately 55 degrees and a bounding-box depth relative to the lobe peaks of approximately 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude irregular peaks and valleys (1-4 pixel variance) along the continuous linear boundary, with significant jaggedness and texture at the distal tips of both lobes.",
+    "lobe_sweep_trajectory": "Convex curvature fitted to the trailing edge of both lobes, transitioning to a slight concavity near the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast circular pixel clusters (grey/white) detected at the terminal tips of both the left and right lobes, consistent with epibiont colonization.",
+    "linear_abrasions": "Faint, vertical high-contrast linear disruptions visible against the dark pigmentation of the left lobe's mid-section."
+  },
+  "acquired_anomalies_or_scars": "Presence of clustered barnacle colonies/scarring at the distal edges of both lobes; extreme asymmetry in pigmentation between the left and right fluke surfaces.",
+  "other_distinctive_markers": "Pronounced dark pigmentation band extending from the trailing edge into the high-intensity field of the right lobe."
+}

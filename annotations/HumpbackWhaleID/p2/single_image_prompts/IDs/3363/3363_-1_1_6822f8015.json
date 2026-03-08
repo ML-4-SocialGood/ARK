@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The ratio is extremely low; approximately 98% of the fluke surface consists of low-intensity dark pixels, with high-intensity white pixels restricted to distal barnacle clusters.",
+    "spatial_color_mapping": "Uniformly dark pigmentation across both lobes; two distinct high-contrast white clusters (geometric blobs) are mapped to the distal tips at the extreme lateral margins."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A wide V-shaped notch with an estimated interior angle of 115 degrees and a bounding-box depth roughly 20% of the lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration across the entire margin; peaks vary between 3-15 pixels in amplitude, creating a jagged, non-linear boundary against the background.",
+    "lobe_sweep_trajectory": "The lobes exhibit a concave upward curvature (concave trajectory) as the margin approaches the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast, roughly circular white pixel clusters (consistent with barnacle colonization) are located at the extreme distal tips of both left and right lobes.",
+    "linear_abrasions": "Several faint, vertically-oriented linear pixel disruptions (rake-like marks) are visible on the mid-section of the right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Extensive epibiotic colonization on the lateral tips; highly irregular trailing edge suggesting possible historic tissue degradation or minor trauma.",
+  "other_distinctive_markers": "Asymmetric barnacle density, with the right distal tip showing a more voluminous cluster than the left distal tip."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 65% high-intensity white pixels concentrated in the central and outer-middle regions, and 35% low-intensity black pixels localized at the trailing edge, median notch, and lateral tips.",
+    "spatial_color_mapping": "Large contiguous white geometric blobs occupy the center of both lobes. Black pigmentation forms a thick, irregular boundary along the entire trailing edge and terminal tips. A prominent vertical black linear band is located at approximately 0.75x the distance from the notch to the right tip. Multiple low-intensity circular ring-scars are scattered within the white high-intensity zones."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated internal angle of approximately 55-65 degrees and a vertical bounding-box depth equivalent to roughly 1/6th of the visible fluke height.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serration map featuring approximately 25-30 distinct pixel peaks per lobe. Peaks are irregularly spaced with vertical amplitudes ranging from 3 to 12 pixels relative to the local baseline.",
+    "lobe_sweep_trajectory": "Pronounced concave curve along the trailing edge leading to elongated, tapered lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple dark, circular ring-like clusters (resembling rosette patterns) detected: three prominent clusters in the upper-left quadrant of the right lobe and two in the upper-right quadrant of the left lobe.",
+    "linear_abrasions": "A distinct, high-contrast near-vertical black line (rake mark) on the right lobe; several thinner, horizontal low-contrast linear disruptions present across the central white expanse of both lobes."
+  },
+  "acquired_anomalies_or_scars": "Localized clusters of high-intensity, textured protrusions (barnacles) are visible on the extreme lateral margins/tips of both the left and right lobes.",
+  "other_distinctive_markers": "The right lobe contains a singular, uniquely thick vertical pigment disruption/scar that terminates at the trailing edge notch."
+}

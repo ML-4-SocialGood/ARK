@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixels covering approximately 90% of the visible surface, with localized high-intensity (white) clusters at distal tips.",
+    "spatial_color_mapping": "Large contiguous low-intensity dark gray to black region across both lobes; distinct high-contrast white mottling cluster at the far-left distal tip; isolated high-intensity annulus (ring) located in the upper interior of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an estimated interior pixel angle of 45 degrees and moderate bounding-box depth relative to lobe width.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge; pixel-amplitude variations are most pronounced on the left lobe, showing jagged peaks and valleys; significant irregular indentation/material loss at the far-left tip.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge, transitioning to sharp, tapered upward sweeps at the distal extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Single high-contrast circular ring-shaped pixel cluster (annulus) on the left lobe; small, punctate high-intensity clusters observed on the extreme right lobe tip.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Distinct circular annulus on the upper-left lobe surface; irregular, jagged tissue loss/notching on the far-left tip of the trailing edge.",
+  "other_distinctive_markers": null
+}

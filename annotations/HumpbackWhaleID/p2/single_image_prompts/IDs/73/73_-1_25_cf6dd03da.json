@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) surface with approximately 15-20% high-intensity (white/light-gray) pixels localized primarily on the right distal lobe and trailing edge.",
+    "spatial_color_mapping": "The left lobe (image-left) is characterized by a solid low-intensity black region. The right lobe (image-right) displays dense, irregular high-contrast white mottling and focal spots concentrated along the outer margin and trailing edge, transitioning to solid black towards the peduncle."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a calculated vertex angle of approximately 40 degrees and a significant depth relative to the lobe width.",
+    "edge_topography_serration_map": "High-frequency, irregular saw-tooth serrations with pixel amplitudes varying between 5-15 pixels, continuous along the trailing boundary of both lobes.",
+    "lobe_sweep_trajectory": "Concave curve following the trailing edge from the median notch towards the distal tips, terminating in jagged, irregular points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-contrast, textured protrusions (barnacles) are present at the distal tips of both lobes. Fine-grained dark speckling is visible within the white regions of the right lobe.",
+    "linear_abrasions": "Several distinct, light-colored linear streaks are visible on the left lobe and center-bottom region, appearing as thin, non-parallel disruptions in the dark pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Localized biological encrustations (barnacles) on the extreme distal tips and multiple rake-like linear scars on the lower ventral surface.",
+  "other_distinctive_markers": "Significant pigmentation asymmetry between the left and right fluke lobes; the right lobe contains a high density of white pattern features while the left is nearly monochromatic."
+}

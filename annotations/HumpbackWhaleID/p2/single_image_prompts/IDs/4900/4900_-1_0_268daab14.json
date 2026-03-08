@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level ratio; approximately 75% high-intensity (white) pixels versus 25% low-intensity (black/dark-brown) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Two large contiguous high-intensity regions forming the lobe centers; dark, irregular perimeter banding (approximately 5-15% lobe width) along the trailing and leading edges; a single distinct focal dark circular blob located in the mid-central region of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression; calculated pixel angle of approximately 50 degrees with a bounding-box depth approximately 15% of the total vertical height of the fluke.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude irregular variations (peaks and valleys) along the continuous linear boundary; distinct deep V-shaped notches of 3-5 pixels depth observed on the distal trailing edges.",
+    "lobe_sweep_trajectory": "Symmetric convex curves fitted to the trailing edges, tapering to acute, slightly upward-curving lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple sub-circular low-intensity pixel clusters (dark-on-white) localized primarily along the lower leading edge boundaries of both lobes.",
+    "linear_abrasions": "A distinct, near-vertical dark linear pixel disruption (~10% lobe height) extending from the lower-left leading edge into the high-intensity central region."
+  },
+  "acquired_anomalies_or_scars": "Deep irregular indentation/trauma mark on the far-right trailing edge tip; prominent focal pigment lesion or dark scarring in the center of the left lobe.",
+  "other_distinctive_markers": "Significant pixel saturation (white clipping) on the central ventral surfaces due to exposure, limiting micro-texture extraction in approximately 40% of the fluke area."
+}

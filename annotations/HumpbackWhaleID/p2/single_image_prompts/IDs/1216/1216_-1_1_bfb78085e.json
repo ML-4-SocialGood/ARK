@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:1.5 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Two primary high-intensity white regions occupy the distal halves of both the left and right lobes. These are separated by a continuous, low-intensity black region centered at the median notch. The boundary between white and black regions exhibits significant pixel-level stippling and mottling."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an approximate internal angle of 55 degrees and a bounding-box depth approximately 15% of the total vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude irregular serrations detected along the entire trailing edge. Significant jagged peaks and valleys are visible, particularly on the right lobe where individual notches vary in depth by 10-20 pixels.",
+    "lobe_sweep_trajectory": "Concave sweep along the trailing edge leading to pointed, slightly upturned lobe tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of four distinct, roughly circular low-intensity pixel clusters on the high-intensity white region of the right lobe, and one similar circular cluster on the left lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extreme jaggedness and missing pixel-mass on the trailing edge of the right lobe tip suggesting historical physical trauma.",
+  "other_distinctive_markers": "Fine-grained micro-stippling of low-intensity pixels concentrated at the interior margins of the white patches."
+}

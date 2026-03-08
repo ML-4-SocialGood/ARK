@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:4 ratio of high-intensity (white/light grey) to low-intensity (black/dark grey) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "High-contrast light grey/white mottling blobs localized on the distal regions of both lobes, with dark focal spots embedded within the lighter regions; solid dark pigmentation dominates the central fluke and trailing margins."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped depression with an approximate pixel angle of 45-50 degrees; the vertex of the notch is partially occluded by high-intensity water spray pixels.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (small peaks and valleys) extracted along the continuous linear boundary of the trailing edges of both lobes.",
+    "lobe_sweep_trajectory": "Concave sweep trajectory mapped along the trailing edges toward the central notch; leading edges exhibit a primary convex curvature tapering to the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple dark, roughly circular pixel clusters (rosettes) detected on the light-pigmented sections of both the left and right fluke lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Presence of dark circular pigmentation spots/scars distributed across the lighter ventral surface regions.",
+  "other_distinctive_markers": null
+}

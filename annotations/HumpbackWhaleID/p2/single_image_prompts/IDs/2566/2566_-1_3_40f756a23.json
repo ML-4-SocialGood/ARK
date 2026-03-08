@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 0.8:1 ratio of high-intensity (white/light gray) to low-intensity (black/dark gray) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Left lobe contains a large, central amorphous white patch; right lobe exhibits a high-contrast vertical banding pattern with alternating longitudinal white and dark streaks."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency serrations with small-scale pixel amplitude variations (5-15 pixels) along the continuous trailing boundary; includes one prominent irregular jagged excision on the left lobe's trailing edge.",
+    "lobe_sweep_trajectory": "Convex curve fitted to the trailing edge boundaries of both lobes, tapering to pointed distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast white cluster of circular formations (barnacles) localized at the extreme distal tip of the right lobe; sparse circular white spots scattered on the black proximal region of the left lobe.",
+    "linear_abrasions": "Prominent, near-parallel vertical dark lines (rake marks) concentrated on the right lobe's ventral surface; multiple unaligned, fine dark linear disruptions intersecting the white patch on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Large barnacle colony protrusion on the right distal tip; irregular traumatic indentation on the trailing edge of the left lobe.",
+  "other_distinctive_markers": "Distinctive longitudinal striation pattern spanning the right fluke lobe, creating a high-contrast 'piano-key' visual effect."
+}

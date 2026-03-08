@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio of approximately 92% low-intensity (black/dark grey) to 8% high-intensity (white/beige) pixels across the visible fluke surface.",
+    "spatial_color_mapping": "Large contiguous black region covering the central and lower fluke area. High-contrast beige/white circular clusters (barnacle colonies) mapped to the extreme distal left and right tips. Approximately 12-15 discrete white-ring pixel clusters (scars) mapped across the medial and lateral regions of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped notch with an approximate internal angle of 48 degrees; notch depth is clearly defined at the convergence of the two lobes.",
+    "edge_topography_serration_map": "Highly irregular margin with frequent peaks and valleys; serration amplitude is significantly higher on the left lobe's upper margin compared to the right lobe's higher-frequency, lower-amplitude variations.",
+    "lobe_sweep_trajectory": "Convex upward trajectory sweeping from the median notch to the distal tips, terminating in jagged, high-contrast extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of circular, high-contrast pixel groups located on the distal tips. Multiple isolated circular white-outline markers (approximately 2-5 pixels in diameter) scattered on the black interior surface.",
+    "linear_abrasions": "Faint, low-contrast grey linear pixel disruptions detected horizontally across the lower-left quadrant of the fluke surface."
+  },
+  "acquired_anomalies_or_scars": "Multiple circular ring-shaped scars distributed across the black skin; dense living barnacle colonies localized at both distal extremities.",
+  "other_distinctive_markers": "The distal tips of the trailing edge exhibit a highly irregular, bulbous silhouette due to heavy localized barnacle colonization."
+}

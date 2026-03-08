@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio of high-intensity white pixels (approx. 10%) to low-intensity dark pixels (approx. 90%), with high intensity concentrated in localized anomalies and distal tips.",
+    "spatial_color_mapping": "Dominant low-intensity dark field across the entire ventral surface. High-contrast white geometric blobs are distributed as discrete circular points (scars) and large irregular contiguous clusters at the outer distal tips of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated angle of approximately 40-45 degrees, showing deep penetration relative to the lobe heights.",
+    "edge_topography_serration_map": "High-frequency, non-uniform serration profile along the trailing edge, featuring peaks and valleys with pixel-amplitudes ranging from 3 to 15 pixels; edge shows jagged irregularity across the entire span.",
+    "lobe_sweep_trajectory": "Convex sweep trajectory from the median notch to the distal tips, following a broadly parabolic curve."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular high-contrast pixel clusters (3-12 pixels in diameter) detected across both lobes; higher density observed in the medial-lower regions of the right lobe.",
+    "linear_abrasions": "Several distinct, unaligned linear pixel disruptions; notable diagonal rake marks on the lower right lobe and vertical scratches on the upper left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive circular scarring consistent with parasitic attachment and multiple linear rake marks; significant white pigmentation at the distal tips likely representing chronic abrasion or scarring.",
+  "other_distinctive_markers": "A prominent, large circular high-intensity marker located in the upper-central region of the right lobe, exhibiting higher pixel brightness and diameter than surrounding rosette scars."
+}

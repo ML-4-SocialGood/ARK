@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast between high-intensity white patches and low-intensity black regions, approximately 40:60 ratio across the visible surface.",
+    "spatial_color_mapping": "Large contiguous white patches on the distal halves of both lobes; left lobe features a wide white field starting mid-lobe, right lobe features a prominent white patch on the outer third of the fluke width."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped central notch with an acute interior angle and significant bounding-box depth relative to the fluke width.",
+    "edge_topography_serration_map": "High-frequency serration along the continuous boundary with numerous irregular peaks and valleys, particularly concentrated and more pronounced at the distal tips.",
+    "lobe_sweep_trajectory": "Convex leading edge curvature with a tapering sweep that rounds at the tips, following a roughly horizontal lateral axis."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, dark, roughly circular pixel clusters are localized along the jagged trailing edge and at the distal tips of both lobes.",
+    "linear_abrasions": "A single, prominent vertical high-contrast white linear mark is visible on the dark pigmented area of the right lobe, adjacent to the median notch."
+  },
+  "acquired_anomalies_or_scars": "Distinct white linear scratch on the inner right lobe and irregular notches along the trailing edge indicating historical tissue loss.",
+  "other_distinctive_markers": "A small, dark, inverted V-shaped pigment mark is visible within the white field of the right lobe near the trailing edge."
+}

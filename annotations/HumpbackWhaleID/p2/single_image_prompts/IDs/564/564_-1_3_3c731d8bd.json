@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio with approximately 65% high-intensity (white/light-gray) and 35% low-intensity (black/dark) pixel distribution across the visible fluke area.",
+    "spatial_color_mapping": "Left lobe contains a large contiguous high-intensity region occupying the central and distal areas; right lobe exhibits a more heterogeneous mottled pattern with significant dark pixel clusters interspersed with high-intensity patches."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Narrow U-shaped notch with an internal angle of approximately 35 degrees and a vertical depth ratio of roughly 1:8 relative to the total fluke width.",
+    "edge_topography_serration_map": "Continuous high-frequency, low-amplitude (2-5 pixel) irregular serrations detected along the entire trailing boundary, appearing as a jagged line against the background.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge leading to sharply pointed tips; the inferior edge displays a smooth convex curve."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Two primary dark circular pixel clusters detected: one prominently located in the mid-upper quadrant of the left lobe and another in a similar position on the right lobe.",
+    "linear_abrasions": "Multiple dark, vertically-oriented linear pixel disruptions are visible across the central white field of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Presence of vertical rake marks on the left lobe and localized dark circular scarring on both lobes, likely indicating previous barnacle attachment sites.",
+  "other_distinctive_markers": "Concentrated high-intensity specular highlights (water glare) on the right lobe causing localized loss of surface texture detail."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:4 ratio of high-intensity white to low-intensity black pixels across the visible ventral area.",
+    "spatial_color_mapping": "Contiguous white patches situated proximally on the inner lobes near the center; the left lobe displays mottled white patterning extending from the notch, while the right lobe features a solid triangular white patch; outer distal regions are consistently low-intensity black."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central notch with an estimated interior angle of 50 degrees; base of the notch is partially obscured by water turbulence at the peduncle.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations (peaks exceeding 10 pixels in height) present along the entire linear boundary of both lobes.",
+    "lobe_sweep_trajectory": "Symmetric convex sweep fitted to both lobes, transitioning into sharp, jagged distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, high-contrast white punctate clusters (diameter <5 pixels) detected along the black trailing edge of the right lobe tip and the medial trailing edge of the left lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular fragmentation and deep jagged notches on the distal trailing edge of the right lobe.",
+  "other_distinctive_markers": null
+}

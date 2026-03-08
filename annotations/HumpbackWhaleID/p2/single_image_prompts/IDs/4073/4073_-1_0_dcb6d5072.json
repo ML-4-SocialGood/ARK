@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.45:0.55 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Broad black pigmentation covers the trailing edge, tips, and the region around the central notch; white patches with dense black mottling are located in the center of both the left and right lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped notch with an internal angle of approximately 42 degrees and a vertical depth comprising roughly 12% of the visible fluke height.",
+    "edge_topography_serration_map": "High-frequency jagged serrations along the trailing edge with pixel-amplitudes ranging from 5 to 15 pixels relative to the mean edge line.",
+    "lobe_sweep_trajectory": "Convex curve fitted to the outer distal edges of both lobes, tapering to acute points at the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular dark pixel clusters (3-7 pixel diameter) distributed within the white regions of both lobes, consistent with barnacle scar patterns.",
+    "linear_abrasions": "Three distinct dark, unaligned linear pixel streaks (20-40 pixels in length) on the right ventral lobe white field."
+  },
+  "acquired_anomalies_or_scars": "Circular puncture-style scarring and linear rake marks visible on the ventral pigmentation.",
+  "other_distinctive_markers": null
+}

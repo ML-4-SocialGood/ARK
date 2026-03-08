@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 35% high-intensity (white) to 65% low-intensity (dark) pixel distribution across the visible ventral surface.",
+    "spatial_color_mapping": "Contiguous high-intensity white patches at the distal 20% of each fluke lobe. The central 60% of the horizontal span is dominated by low-intensity black pigmentation with sparse high-intensity speckling and mottling."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an estimated interior angle of 65 degrees and a bounding-box depth approximately 15% of the visible vertical height of the fluke.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the continuous trailing edge with peak-to-valley amplitudes ranging from 5 to 20 pixels, becoming more pronounced towards the outer tips.",
+    "lobe_sweep_trajectory": "Symmetrical convex upward sweep from the median notch to the distal tips, following a parabolic trajectory."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of high-contrast, roughly circular white pixel groups (barnacle colonies) concentrated at both distal tips. Sparse white circular scarring (diameter 3-10 pixels) scattered across the dark central regions.",
+    "linear_abrasions": "Multiple unaligned white linear segments (rake marks) detected; prominent parallel vertical marks on the lower right lobe and scattered diagonal lines on the central-left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization on both distal tips and along segments of the trailing edge; multiple linear rake marks across the ventral surface.",
+  "other_distinctive_markers": "A distinct circular dark pigmentation spot or hole located on the upper-right lobe within the white-pigmented zone near the trailing edge boundary."
+}

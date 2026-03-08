@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) across the central and leading edge regions, with high-intensity (white) patches concentrated on the lateral lobes; estimated ratio of approximately 65:35 dark to light pixels.",
+    "spatial_color_mapping": "Large high-intensity (white) contiguous blobs occupy the distal thirds of both lobes. The left lobe contains internal dark mottling and streaks. The right lobe features a larger white field with distinct dark linear marks. The central peduncle and medial fluke regions are solid low-intensity black."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible V-shaped central notch; interior pixel angle approximately 50 degrees with a significant vertical depth relative to the total lobe height.",
+    "edge_topography_serration_map": "Continuous high-frequency serration along the entire trailing edge span; pixel-amplitude of variations is most pronounced on the outer margins, resulting in a jagged, irregular profile against the water background.",
+    "lobe_sweep_trajectory": "The leading edge (lower boundary) displays a smooth convex curve tapering upward to the tips. The trailing edge (upper boundary) follows a complex path defined by a primary concave sweep toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, high-contrast dark pixel clusters are visible at the terminal tips of both lobes and along the extreme trailing edges; likely corresponding to barnacle colonization sites.",
+    "linear_abrasions": "Distinct dark linear pixel disruptions (rake marks) are visible across the high-intensity fields of both lobes; prominent parallel diagonal lines on the left lobe and vertical/oblique lines on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Pronounced linear rake marks across both ventral surfaces; highly irregular, jagged trailing edge indicative of cumulative tissue loss or wear.",
+  "other_distinctive_markers": "An isolated dark circular spot is visible within the lower portion of the white high-intensity field on the left lobe."
+}

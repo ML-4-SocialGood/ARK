@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast; approximately 75% high-intensity (white) pixels covering central and interior lobe regions, 25% low-intensity (black) pixels concentrated on trailing edges and central junction.",
+    "spatial_color_mapping": "Dominant white contiguous fields across both lobes. Continuous black pigmentation band along the trailing edges. Vertical black linear streaks on the right lobe interior. High-density black mottling at the base where lobes meet the peduncle."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression; approximately 40-50 degree pixel angle at the vertex with significant bounding-box depth relative to horizontal lobe span.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern; pixel-amplitude variations (peaks and valleys) are most pronounced at the distal lobe tips and maintain moderate frequency along the entire trailing boundary.",
+    "lobe_sweep_trajectory": "Distinctly convex curvature on the outer edges; lobes sweep upward and outward from the median notch to the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-contrast, roughly circular tan/white pixel groups (barnacles) visible along the distal trailing edges and at the lobe tips.",
+    "linear_abrasions": "Multiple vertical and diagonal unaligned linear pixel disruptions (dark streaks) crossing the white ventral pigmentation, particularly visible on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization present on the trailing edges and lobe tips; parallel vertical rake marks visible on the interior white surface of the right lobe.",
+  "other_distinctive_markers": "Unique vertical 'rake' pattern consisting of three to four parallel dark lines on the interior white surface of the right lobe lobes."
+}

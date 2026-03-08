@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark grey/black) base with two distinct high-intensity (white) regions; estimated area ratio of approximately 7:3 low-to-high intensity.",
+    "spatial_color_mapping": "Two large, irregular high-intensity contiguous blobs. Left lobe: diagonal white patch extending from the inner mid-section towards the outer edge. Right lobe: large central white blob, roughly elliptical, bisected by a prominent low-intensity linear feature."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch; calculated interior angle of approximately 72 degrees with a vertical bounding-box depth of roughly 12% of the fluke's total height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations present along the entire continuous trailing edge boundary; notably more irregular and jagged on the distal ends of both lobes.",
+    "lobe_sweep_trajectory": "Strong concave curvature originating at the median notch, sweeping upward and outward to form acute distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of dark pixels (punctate marks) visible within the white high-intensity regions, specifically in the lower interior sections of both lobes.",
+    "linear_abrasions": "Significant dark, near-vertical linear pixel disruption cutting through the right lobe's white patch; several smaller, parallel diagonal linear markings on the left lobe's white patch."
+  },
+  "acquired_anomalies_or_scars": "A prominent dark linear scar (likely a rake mark) is visible on the right lobe; irregular trailing edge margins suggest minor historical tissue loss or fraying.",
+  "other_distinctive_markers": "A specific high-contrast dark island or peninsula of pigment is visible at the upper-right edge of the white patch on the right lobe."
+}

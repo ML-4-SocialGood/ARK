@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark grey) across ~96% of the surface area; high-intensity pixels (white) are localized to specific scarring and distal tip barnacle clusters.",
+    "spatial_color_mapping": "Solid low-intensity pigmentation (0-40 range) across both lobes. Discrete high-intensity pixel blobs (200-255 range) are clustered at the distal tips. Sparse white pixel mottling is visible on the medial portion of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Symmetrical V-shaped notch with an approximate interior angle of 42 degrees and a pixel-depth of roughly 15% of the total vertical fluke height.",
+    "edge_topography_serration_map": "Continuous sawtooth serration along both lobes; peak-to-valley pixel amplitude ranges from 4 to 15 pixels, with higher peak density observed on the medial sections near the notch.",
+    "lobe_sweep_trajectory": "Bi-lateral concave curve originating from the median notch, transitioning into an upward-sweeping convex curve terminating at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of high-contrast white pixels at both distal lobe tips corresponding to barnacle attachment. Small, isolated circular white spots (~5-10 pixel diameter) are present on the inner left lobe.",
+    "linear_abrasions": "Distinct white linear pixel disruptions detected. Right lobe features three parallel lines (rake marks) angled at approx. 25 degrees. Left lobe displays multiple intersecting thin white lines of varying orientation."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization at both lateral tips; multiple linear rake marks and circular pitting scars distributed across the dark ventral surface.",
+  "other_distinctive_markers": "Irregular, high-contrast additive pixel clusters at the distal extremities creating a non-linear, jagged boundary profile."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixel values with approximately 25-30% high-intensity (light gray/white) patches localized on the interior ventral surface of both lobes.",
+    "spatial_color_mapping": "Distinct dark, irregular geometric blobs (mottling) clustered heavily on the distal portions of both lobes; lighter contiguous regions are mapped toward the medial axis and the base of the notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped depression with an estimated internal angle of 145 degrees and a bounding-box depth approximately 5% of the total vertical extent of the visible fluke.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations identified along the continuous boundary; approximately 12 distinct pixel peaks and valleys per lobe between the notch and the tips.",
+    "lobe_sweep_trajectory": "Convex parabolic curves fitted to the outer edges of the left and right lobes, terminating in rounded, dorsally-tapered tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular, high-contrast dark pixel clusters (3-8 pixels in diameter) scattered across the mid-sections of both lobes, suggesting pigmentation or colonization sites.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

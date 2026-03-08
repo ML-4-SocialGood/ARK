@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast macro-distribution; approximately 70-75% high-intensity pixels (white) concentrated in the central lobes and 25-30% low-intensity pixels (black) concentrated at the margins and central notch.",
+    "spatial_color_mapping": "Two large contiguous white regions (intensity > 200) occupy the medial fields of the left and right lobes. These are surrounded by a continuous black border (intensity < 40) that thickens at the trailing edge and expands into a large dark focal area at the peduncle-notch interface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression; calculated interior angle of approximately 55 degrees; notch depth occupies roughly 15% of the total vertical extent of the visible fluke.",
+    "edge_topography_serration_map": "High-frequency, non-uniform serration pattern along the entire continuous trailing edge; pixel amplitudes of individual peaks and valleys range from 3 to 18 pixels relative to the lobe's primary curvature.",
+    "lobe_sweep_trajectory": "Symmetrical convex curves extending from the median notch, reaching maximum vertical height mid-lobe before tapering to narrow distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast dark circular clusters detected on the distal tips of both lobes; most prominent on the far left margin and the upper-right trailing edge.",
+    "linear_abrasions": "Distinct dark linear pixel disruptions. Left lobe: one prominent diagonal scratch in the lower quadrant. Right lobe: a long, straight diagonal scratch (approximately 20% of lobe width) and multiple shorter parallel rake-like segments."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular jaggedness and 'missing' pixel segments along the trailing edge consistent with historical physical trauma; prominent deep indentation on the outer right lobe edge.",
+  "other_distinctive_markers": "Partial occlusion of the right fluke’s lower-medial quadrant by high-intensity white noise pixels corresponding to water spray/splash."
+}

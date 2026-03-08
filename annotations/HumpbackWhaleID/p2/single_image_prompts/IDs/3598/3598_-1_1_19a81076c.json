@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixels across the entire visible surface, with an estimated high-intensity (white) to low-intensity ratio of 0.05:0.95 localized to scars and barnacles.",
+    "spatial_color_mapping": "The surface is characterized by a contiguous solid dark region. High-contrast white geometric blobs are detected at the lateral tips and as circular rosette clusters scattered across the interior mid-section of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A deep, narrow V-shaped central depression with a calculated angle of approximately 30-40 degrees relative to the lobe intersection.",
+    "edge_topography_serration_map": "Highly irregular trailing edge. The left lobe exhibits four distinct macro-serrations (deep jagged peaks). The right lobe shows a higher frequency of smaller, shallow serrations along the lateral boundary.",
+    "lobe_sweep_trajectory": "Both lobes exhibit a distinct convex upward sweep, tapering towards acute lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of multiple circular high-contrast rings (white on black) concentrated in the mid-left and upper-right quadrants, consistent with ectoparasitic attachment scars.",
+    "linear_abrasions": "A series of roughly parallel, vertical linear pixel disruptions are visible on the upper section of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Notable tissue loss and irregular jagged scarring on the left trailing edge; active barnacle colonization is visible on the extreme left and right tips.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Estimated 60:40 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Left lobe contains a large contiguous white region bounded by a thin black perimeter. Right lobe exhibits dense black mottling in the medial-central area and a discrete white patch at the distal tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "Left trailing edge features low-amplitude, high-frequency serrations. Right trailing edge features high-amplitude, irregular peaks and valleys, including a significant jagged indentation approximately 70% of the distance from the center.",
+    "lobe_sweep_trajectory": "Left lobe distal edge follows a smooth convex sweep; right lobe distal edge follows a more rounded convex trajectory ending in a blunt tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct cluster of circular, high-contrast raised pixel patterns (barnacle colonization) localized at the distal tip of the right lobe.",
+    "linear_abrasions": "Detection of several thin, dark, unaligned linear marks on the white pigmented region of the left lobe's medial zone."
+  },
+  "acquired_anomalies_or_scars": "Significant jagged structural indentation on the trailing edge of the right lobe, indicating significant tissue loss or previous trauma.",
+  "other_distinctive_markers": "Yellow-brown chromatic staining visible on the medial-inner portion of the left lobe's white surface."
+}

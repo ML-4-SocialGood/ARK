@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 60:40 ratio of high-intensity (white) to low-intensity (black/dark grey) pixels across the visible ventral surfaces.",
+    "spatial_color_mapping": "Large contiguous white regions occupy the distal-lateral sections of both lobes; solid dark pigmentation is concentrated at the central peduncle insertion and along the leading edges, with mottled speckling transitioning between color zones."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch with an internal pixel angle of approximately 50 degrees; notch depth is roughly 1/6th of the vertical height of the visible fluke.",
+    "edge_topography_serration_map": "Continuous serrated trailing edge with varying pixel amplitude; the right lobe tip exhibits significant irregular protrusion due to high-contrast clusters.",
+    "lobe_sweep_trajectory": "Concave sweep trajectory measured from the median notch extending distally toward both lobe tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Highly visible high-contrast white circular clusters (barnacle colonies) localized on the distal tips of both lobes, with a major concentration on the far right tip.",
+    "linear_abrasions": "Several faint dark vertical linear marks are visible on the white sections of the right lobe; sparse horizontal linear disruptions are detected on the left lobe's white area."
+  },
+  "acquired_anomalies_or_scars": "Significant structural irregularity on the right lobe tip caused by a dense colony of barnacles; several dark focal scars are scattered within the white pigmentation zones of both lobes.",
+  "other_distinctive_markers": "Unique dense speckling pattern at the color transition zones and a small, distinct dark circular spot located near the upper-distal edge of the left lobe's white patch."
+}

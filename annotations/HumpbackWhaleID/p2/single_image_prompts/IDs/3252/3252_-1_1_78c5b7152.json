@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65:35 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Two large, contiguous high-intensity white regions occupy the central-distal portions of both lobes. These regions are bisected by a low-intensity black band at the median notch. Low-intensity black pixels form a continuous border along the trailing edge and tips, with significant black mottling encroaching into the white regions near the peduncle and notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped notch with a pixel angle of approximately 42 degrees and a depth-to-width ratio of approximately 1:1.5 within the central bounding box.",
+    "edge_topography_serration_map": "High-frequency serration along the entire boundary. Left lobe trailing edge exhibits four distinct, high-amplitude irregular valleys (notches). Right lobe exhibits more frequent, lower-amplitude micro-serrations with three prominent peaks near the distal tip.",
+    "lobe_sweep_trajectory": "Convex upward curvature on the leading margins, terminating in sharp, recurved hooks at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-contrast white circular spots (3-6 pixels each) are visible at the extreme distal tip of the left lobe and scattered along the upper margin of the right lobe tip.",
+    "linear_abrasions": "Three distinct, near-vertical dark linear pixel disruptions (rake marks) are mapped across the high-intensity white field of the right lobe, oriented perpendicular to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular tissue loss/indentation on the trailing edge of the left lobe approximately one-third of the distance from the median notch.",
+  "other_distinctive_markers": null
+}

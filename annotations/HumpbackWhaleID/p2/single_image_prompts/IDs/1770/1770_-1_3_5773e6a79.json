@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 85% low-intensity black pixels across the primary fluke body and 15% high-intensity white pixels localized primarily along the distal trailing edges and proximal margins.",
+    "spatial_color_mapping": "Large contiguous dark-intensity region occupying the central and lower fluke area. High-intensity (white) pigmentation is mapped as irregular, contiguous bands along the outer distal edges of both lobes, with sparse, high-contrast punctate clusters scattered across the dark-intensity medial regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated internal angle of approximately 45-50 degrees, exhibiting a narrow vertex and moderate depth relative to the fluke span.",
+    "edge_topography_serration_map": "High-frequency, low-to-medium amplitude serrations present along the entire length of the trailing edge boundary. Micro-peaks and valleys are most pronounced at the distal tips, showing irregular jaggedness.",
+    "lobe_sweep_trajectory": "Bilateral symmetrical convexity along the trailing edge, curving upward from the median notch toward the distal tips, resulting in a slightly 'swept-back' appearance."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular, high-intensity pixel clusters (scars) detected on the right lobe surface and scattered across the central peduncle-to-notch transition area.",
+    "linear_abrasions": "Distinct set of parallel, thin, medium-intensity linear disruptions (rake marks) oriented diagonally on the right lobe, crossing the dark pigmentation field."
+  },
+  "acquired_anomalies_or_scars": "Notable linear rake marks on the right lobe; irregular, non-uniform tissue loss or jaggedness along the distal trailing edges.",
+  "other_distinctive_markers": null
+}

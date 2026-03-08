@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio of high-intensity to low-intensity pixels, with approximately 85% of the visible surface area comprised of dark, low-intensity pigmentation and 15% comprised of high-intensity white/tan clusters concentrated at the distal margins.",
+    "spatial_color_mapping": "Large contiguous dark-gray/black pigmentation across the main fluke body; high-contrast, irregular white and yellowish clusters mapped to the far-left tip [approximate pixel region: upper-left quadrant] and far-right tip [approximate pixel region: upper-right quadrant]."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "Left lobe trailing edge presents high-amplitude, irregular peaks and valleys corresponding to calcified growths; right lobe trailing edge presents a more linear boundary with low-amplitude micro-serrations terminating in a distinct, jagged cluster of protrusions.",
+    "lobe_sweep_trajectory": "Left lobe displays a high-convexity curve leading to an uplifted tip; right lobe displays a low-convexity, elongated sweep ending in a thin, extended horizontal trajectory."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast circular pixel clusters detected on the superior-distal edges of both lobes, representing clustered biological encrustations.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive protruding biological encrustations (barnacle clusters) visible on the trailing edges and tips of both fluke lobes, significantly altering the natural geometric edge.",
+  "other_distinctive_markers": "Significant horizontal elongation of the right lobe tip relative to the left lobe tip as captured in the 2D plane."
+}

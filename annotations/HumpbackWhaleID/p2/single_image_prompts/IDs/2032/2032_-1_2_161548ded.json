@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixel values with a macro-level ratio of approximately 95:5 dark to light pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Solid dark-grey/black contiguous base pigmentation. Discrete high-intensity white focal blobs are scattered across the mid-section and central regions, with heavy clusters concentrated at the distal tips of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated interior pixel angle of approximately 42 degrees and a bounding-box depth of roughly 15% of the vertical fluke height.",
+    "edge_topography_serration_map": "Irregular saw-tooth serrations along the entire trailing edge with a frequency of approximately 20-25 distinct peaks per lobe and pixel-amplitudes ranging from 5 to 15 pixels.",
+    "lobe_sweep_trajectory": "Symmetrical concave curves extending from the median notch to the distal tips, terminating in irregular jagged boundaries."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast white circular pixel clusters detected at the distal tips; sparse individual white circular nodes (5-10 pixel diameter) scattered across the ventral surface.",
+    "linear_abrasions": "Detection of low-contrast, unaligned light-grey linear streaks (rake marks) primarily on the mid-left lobe and central lower region of the fluke."
+  },
+  "acquired_anomalies_or_scars": "Significant calcified barnacle colonies localized at the distal tips of both lobes, creating irregular bulbous protrusions and high-contrast white texture.",
+  "other_distinctive_markers": null
+}

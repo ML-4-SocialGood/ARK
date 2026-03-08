@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark grey to black) pixels covering approximately 90% of the visible surface, with high-intensity (white) pixels limited to localized scarring, barnacle clusters, and distal edge mottling.",
+    "spatial_color_mapping": "Large contiguous dark-intensity region across the primary surface of both lobes. Distinct high-contrast white mottling concentrated along the distal trailing edge of the right lobe. Isolated white linear pixel paths are distributed across the central and left-ventral regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with an acute angle and significant depth relative to the fluke width.",
+    "edge_topography_serration_map": "Highly irregular serrated boundary with high-frequency peaks along the entire trailing edge; right lobe exhibits deeper, more jagged pixel-amplitude variations compared to the left.",
+    "lobe_sweep_trajectory": "Symmetrical concave curve sweeping from the median notch to the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of circular white and grey high-contrast pixel blobs located on the extreme lateral tips (outer margins) of both lobes.",
+    "linear_abrasions": "Multiple distinct, unaligned white linear streaks; prominent diagonal marks on the left lobe and shorter scattered streaks on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive calcified accumulations (barnacles) on both fluke tips; multiple linear rake marks and localized white scarring across the ventral surface.",
+  "other_distinctive_markers": "Asymmetrical mottling pattern where the right lobe distal edge contains significantly higher white pixel density compared to the relatively solid dark left lobe distal edge."
+}

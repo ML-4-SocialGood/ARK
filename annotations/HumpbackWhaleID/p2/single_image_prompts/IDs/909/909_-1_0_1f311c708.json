@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 85% high-intensity (white) pixels vs. 15% low-intensity (black/dark-grey) pixels, with low-intensity pixels primarily concentrated on the perimeter and central vertical axis.",
+    "spatial_color_mapping": "Two large contiguous high-intensity white regions are bisected by a dark vertical linear band at the median notch. The left lobe (viewer's left) contains a localized horizontal grouping of 4-5 dark, roughly circular pixel blobs in the central region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression at the central axial intersection, exhibiting a pixel-calculated angle of approximately 65-75 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations detected along the continuous boundary of both lobes, characterized by varying pixel-amplitude peaks (3-12 pixels) relative to the baseline edge curve.",
+    "lobe_sweep_trajectory": "Symmetrical convex curves following the trailing edge of both lobes, tapering distally towards the fluke tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of 4-5 dark, localized pixel clusters in a roughly circular configuration on the medial surface of the left lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

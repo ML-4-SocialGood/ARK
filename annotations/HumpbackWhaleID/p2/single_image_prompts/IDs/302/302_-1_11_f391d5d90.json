@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio of high-intensity (white) to low-intensity (black) pixels, with black pixels dominating over 95% of the visible ventral fluke surface.",
+    "spatial_color_mapping": "Dominant contiguous low-intensity dark region across both lobes. Small, isolated high-contrast white pixel clusters (mottling) distributed primarily across the mid-section of the left lobe and lower central region near the fluke base."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated pixel angle of approximately 85 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrated boundary along the trailing edge with peak-to-valley amplitudes ranging between 5 and 20 pixels, distinct against the lighter background.",
+    "lobe_sweep_trajectory": "Symmetrical convex curves extending from the median notch to the distal lobe tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular high-contrast white clusters ranging from 2-8 pixels in diameter scattered across the central and left-lobe surfaces.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Extensive high-intensity pixel clusters (water spray/foam) occluding the lower margins and central base of the fluke."
+}

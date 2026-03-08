@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low white-to-black ratio; surface is approximately 90-95% low-intensity dark pixels with isolated high-intensity white pixels at margins and scar sites.",
+    "spatial_color_mapping": "Large contiguous dark-intensity field across both lobes. Distinct high-contrast white clusters (blobs) are mapped to the extreme distal tips (lateral margins). Secondary high-contrast linear streaks mapped to the mid-lower right lobe and mid-left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with a calculated interior pixel angle of approximately 75 degrees and a high depth-to-width ratio within its local bounding box.",
+    "edge_topography_serration_map": "High-frequency, irregular serration profile. Pixel amplitude of peaks increases significantly towards the distal tips, while the trailing edge closer to the notch shows lower-amplitude, smoother variations.",
+    "lobe_sweep_trajectory": "Double convex curve trajectory; the lobes exhibit a distinct upward and outward sweep from the median notch to the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-density clusters of circular high-contrast pixel groups located at both the left and right distal tips, corresponding to barnacle attachment sites.",
+    "linear_abrasions": "Two primary white linear disruptions: one long diagonal rake mark on the lower right lobe and several shorter, fainter horizontal marks on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle encrustation at the lateral margins and visible white rake marks/scarring on the right lobe surface.",
+  "other_distinctive_markers": null
+}

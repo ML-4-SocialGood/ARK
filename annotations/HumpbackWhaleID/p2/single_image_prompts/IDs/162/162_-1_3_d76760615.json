@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity pixels (>90%) with localized high-intensity pixel clusters (<10%) at the distal tips and scattered across the surface.",
+    "spatial_color_mapping": "High-intensity white clusters located at the extreme distal tips of both lobes. Right lobe tip contains a larger, contiguous white patch; left lobe tip contains a smaller, more fragmented white patch. Micro-clusters of high-intensity pixels are distributed sparsely across the medial and lateral regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible central V-shaped depression with a calculated interior angle of approximately 70 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the entire trailing edge with pixel-amplitudes ranging from 5 to 15 pixels; larger, more prominent peaks are visible near the lobe tips.",
+    "lobe_sweep_trajectory": "Concave upward curve from the median notch extending to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Concentrated high-contrast pixel clusters at the distal tips, likely corresponding to site-specific scarring or colonization.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "The distal tip of the right lobe exhibits a highly irregular, ragged geometric boundary compared to the left lobe, indicating tissue loss or significant scarring.",
+  "other_distinctive_markers": null
+}

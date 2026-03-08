@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio; approximately 45% high-intensity (white) pixels to 55% low-intensity (dark grey/black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Circular and elliptical white blobs of variable diameter (5-30px) distributed across both lobes; highest concentration of contiguous white pixels along the trailing edge of the left lobe; dark low-intensity vertical stripe at the median notch axis."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped depression with a calculated internal pixel angle of approximately 65 degrees; depth measured from trailing edge baseline to apex is roughly 40 pixels.",
+    "edge_topography_serration_map": "Irregular, high-frequency peaks and valleys along the entire trailing edge; pixel amplitude of variations increases towards the tips due to calcified biological attachments (barnacles).",
+    "lobe_sweep_trajectory": "Lobes exhibit a convex outer trajectory from notch to tip; distal tips show a distinct upward-sloping sweep relative to the central axis."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Numerous high-contrast circular rings (white outlines with dark centers) scattered across the mid-ventral field, particularly on the right lobe.",
+    "linear_abrasions": "Subtle, unaligned white linear pixel paths detected on the right lobe, approximately 20-40 pixels in length, oriented horizontally."
+  },
+  "acquired_anomalies_or_scars": "Significant calcified barnacle clusters (yellowish-brown high-contrast blobs) protruding from the trailing edge and tips, altering the 2D geometric contour.",
+  "other_distinctive_markers": "Highly symmetrical circular ring pigmentation patterns not commonly found in standard mottled distributions."
+}

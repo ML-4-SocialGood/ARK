@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low-contrast profile dominated by mid-range gray values (approx. 30-50% intensity) with localized high-intensity peaks (80-90% intensity) corresponding to scarring, against a high-intensity atmospheric background.",
+    "spatial_color_mapping": "Contiguous dark-gray base color across both lobes, overlaid with a dense network of thin, high-intensity linear streaks and scattered, high-contrast circular annular rings distributed across the mid and distal regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped depression with a calculated interior pixel angle of approximately 72 degrees and a depth ratio of 0.15 relative to lobe height.",
+    "edge_topography_serration_map": "High-frequency jagged serrations with pixel-amplitudes varying between 5 and 15 pixels, appearing more pronounced and irregular toward the distal tips.",
+    "lobe_sweep_trajectory": "Bi-concave sweep originating at the notch, transitioning to a broad convex curve across the central lobe, and terminating in a sharp upward-curving distal tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 12-15 distinct circular annular marks (rosette scars) ranging from 10 to 25 pixels in diameter, concentrated in the lower central and right-mid regions of the fluke.",
+    "linear_abrasions": "Dense network of high-contrast white linear pixel disruptions (rake marks) of varying lengths and orientations, intersecting across approximately 75% of the visible ventral surface."
+  },
+  "acquired_anomalies_or_scars": "Extensive composite scarring including multi-directional rake marks and circular rosette patterns; visible tissue irregularities and micro-notches along the distal tips suggesting historic minor trauma.",
+  "other_distinctive_markers": "Significant atmospheric pixel diffusion (fog/mist) resulting in softened edge gradients between the fluke boundary and the background environment."
+}

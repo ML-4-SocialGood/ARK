@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70% low-intensity (dark) to 30% mid-to-high intensity (light gray/mottled) pixels.",
+    "spatial_color_mapping": "High-frequency, non-contiguous light-intensity speckling distributed across both lobes, with increased density towards the trailing edges; central region near the peduncle is predominantly dark."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate angle of 55 degrees.",
+    "edge_topography_serration_map": "Highly irregular and high-frequency serrations across the full trailing edge; right lobe displays significantly deeper valleys and higher peak-to-valley pixel amplitude than the left lobe.",
+    "lobe_sweep_trajectory": "Moderate convex curvature along the trailing edge from the notch to the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Numerous small, circular high-contrast light pixel clusters distributed across the fluke surface, particularly dense on the right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive irregular tearing/jaggedness on the trailing edge of the right lobe; prominent indentation/missing tissue on the tip of the left lobe.",
+  "other_distinctive_markers": null
+}

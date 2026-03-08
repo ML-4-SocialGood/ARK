@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Highly skewed toward low-intensity pixels; estimated macro-level ratio of 98:2 (black-to-white) across the visible ventral surface.",
+    "spatial_color_mapping": "Contiguous solid black pigmentation dominates the entire surface. High-intensity white pixel clusters are localized exclusively at the distal tips and in sparse, thin linear streaks across both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped median notch with an acute angle of approximately 35 degrees and a bounding-box depth approximately 1/6th of the total lobe height.",
+    "edge_topography_serration_map": "Asymmetrical serration pattern; left lobe trailing edge features 4-5 prominent jagged peaks (~15-30 pixels), while the right lobe features higher-frequency, lower-amplitude (~5-10 pixels) saw-tooth serrations.",
+    "lobe_sweep_trajectory": "Strongly convex sweep along the leading edges, terminating in sharply tapered, upward-curved distal tips (concave transition at the terminals)."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed white pixel clusters forming circular rosette shapes at the extreme distal tips of both left and right lobes.",
+    "linear_abrasions": "Multiple faint, unaligned light-grey linear streaks detected; notably one diagonal mark (~50 pixels) on the left lobe and several shorter vertical marks on the inner right lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant white scarring and irregular pixel textures concentrated at the distal tips and along specific segments of the trailing edge, suggesting historical tissue loss or heavy barnacle colonization.",
+  "other_distinctive_markers": "Distinct horizontal ridge-like banding and high-contrast white pixel highlights at the base of the fluke near the peduncle insertion."
+}

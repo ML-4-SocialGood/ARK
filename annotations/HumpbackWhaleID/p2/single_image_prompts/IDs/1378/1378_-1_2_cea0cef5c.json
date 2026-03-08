@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) with an extremely low macro-level ratio of high-intensity (white) pixels, which are confined to localized circular markings.",
+    "spatial_color_mapping": "Contiguous solid low-intensity (black) surface across the entire visible ventral area, punctuated by approximately 7 discrete, high-contrast (white) circular pixel clusters located in the medial and central regions of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central depression with a narrow calculated angle (approx. 30-40 degrees) and a moderate bounding-box depth relative to the lobe chord.",
+    "edge_topography_serration_map": "Continuous, high-frequency serration along the entire trailing edge boundary, characterized by irregular peaks and valleys with a pixel amplitude ranging from 3 to 10 pixels.",
+    "lobe_sweep_trajectory": "Strongly convex mathematical curve sweeping from the median notch to the distal tips, with the tips exhibiting a slightly more acute upward curvature."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple high-contrast circular ring-like pixel clusters (white on black background) detected: 4 distinct clusters on the left lobe and 3 on the right lobe, primarily in the central interior regions.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Rough, high-frequency topographical irregularities and high-contrast pixel clusters at both distal lobe tips, indicating localized physical trauma or parasitic colonization.",
+  "other_distinctive_markers": "Notable bilateral symmetry in the spatial placement of the circular ring-scars relative to the median notch."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The macro-level distribution is heavily skewed toward low-intensity pixels (black), which occupy approximately 92-95% of the fluke surface, with high-intensity (white) pixels localized in discrete spots and along the trailing edge margins.",
+    "spatial_color_mapping": "A continuous solid black field dominates the surface. Distinctive high-contrast white circular clusters are concentrated on the distal half of the right lobe. A few isolated high-intensity linear streaks are present on the mid-left lobe. High-intensity white pixels also define the extreme distal tips of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "The central depression is a shallow U-shape with a calculated angle of approximately 115 degrees and a bounding-box depth approximately 1/10th of the vertical height of the visible fluke.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude irregularities are present across the entire boundary. A significant, deep non-linear indentation is visible on the inner trailing edge of the right lobe. Serrations consist of jagged peaks and valleys with varying pixel amplitudes from 2 to 15 pixels.",
+    "lobe_sweep_trajectory": "The outer edges exhibit a convex curve that tapers into sharp, upwardly swept distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of approximately 6-8 high-contrast circular white rings (rosettes) clustered on the right lobe, with additional smaller white spots scattered along the trailing edges.",
+    "linear_abrasions": "Detection of at least two short, unaligned horizontal white linear pixel disruptions located on the proximal-mid region of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Notable deep irregular indentation (possible tissue loss) on the inner trailing edge of the right lobe and numerous circular depigmentation marks across the right lobe surface.",
+  "other_distinctive_markers": "Highly distinctive high-intensity white pigmentation at the distal tips of both lobes, contrasting sharply against the primarily low-intensity black fluke body."
+}

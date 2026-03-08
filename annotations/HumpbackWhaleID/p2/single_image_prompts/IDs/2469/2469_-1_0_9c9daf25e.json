@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio of approximately 3:1 high-intensity (white/light-grey) to low-intensity (dark-grey) pixels across the visible fluke surface.",
+    "spatial_color_mapping": "A single, high-contrast contiguous dark-grey blob is located on the left-proximal region of the visible lobe; the surrounding surface and distal edges are mapped as high-intensity white pixels."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "Visible periodic low-amplitude pixel-depth variations (serrations) along the superior continuous boundary of the fluke lobe.",
+    "lobe_sweep_trajectory": "Convex curvature fitted to the outer lateral boundary of the visible fluke lobe."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

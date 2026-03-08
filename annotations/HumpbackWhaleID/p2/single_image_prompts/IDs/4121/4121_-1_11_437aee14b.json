@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark gray) pixels covering approximately 80-85% of the visible surface, with high-intensity (white) pixels localized at distal tips, resulting in a high macro-level contrast ratio at peripheral boundaries.",
+    "spatial_color_mapping": "Contiguous high-intensity white patches are mapped to the distal tips of both lobes. Granular, high-contrast mottling is observed at the transition between the white tips and the dark central fluke body. The central 70% of the fluke surface is a solid low-intensity block."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped central depression with an approximate angle of 45-55 degrees. The notch depth is approximately 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge. Edge topography consists of sharp peaks and valleys with pixel-amplitudes ranging from 5 to 20 pixels relative to the mean edge line. Serrations are more pronounced and jagged on the left lobe.",
+    "lobe_sweep_trajectory": "Bi-lateral sweep characterized by a concave curve extending from the median notch toward the distal tips, terminating in a convex outer-lobe boundary."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed clusters of roughly circular high-contrast white pixel spots (3-10 pixel diameter) concentrated at the extreme lateral tips of both lobes, indicating heavy colonization or prior attachment scarring.",
+    "linear_abrasions": "Faint, vertical-oriented high-contrast linear streaks (~15-30 pixels in length) are detectable on the left lobe mid-surface, cutting through the low-intensity base pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular scarring and potential minor tissue loss at the distal tips, evidenced by the jagged white-to-black intensity transitions and missing segments along the leading and trailing edges of the tips.",
+  "other_distinctive_markers": "A deep, irregular indentation on the trailing edge of the left lobe, located approximately 30% of the distance from the tip to the median notch."
+}

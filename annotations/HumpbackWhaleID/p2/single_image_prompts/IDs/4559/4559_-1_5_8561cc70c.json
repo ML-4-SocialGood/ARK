@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio of approximately 1.8:1 between high-intensity (white) pixels in the central lobe regions and low-intensity (black) pixels along the margins and peduncle area.",
+    "spatial_color_mapping": "Large contiguous high-intensity white regions occupy the central 60% of the fluke surface area. These are bounded by a low-intensity black margin (depth varying from 20 to 80 pixels) along the trailing edge and distal tips. The interface between regions exhibits high-frequency stippled mottling."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with a calculated interior angle of approximately 68 degrees and a vertical bounding-box depth of 45 pixels from the adjacent lobe peaks.",
+    "edge_topography_serration_map": "Trailing edge boundary displays non-uniform serration with pixel-amplitude variations (valleys) ranging from 4 to 15 pixels in depth; serration frequency increases significantly toward the lateral distal regions.",
+    "lobe_sweep_trajectory": "Trailing edge trajectory follows a primarily convex geometric curve from the median notch, transitioning to a sharp posterior-lateral taper at the extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of roughly circular, high-contrast pixel groupings (white/brown) located at both distal tips; left tip cluster occupies approx. 1,200 square pixels; right tip cluster occupies approx. 1,500 square pixels.",
+    "linear_abrasions": "One prominent low-intensity horizontal linear mark (length approx. 40 pixels) situated in the central-left white field; multiple secondary low-intensity diagonal scratches detected on the right lobe's white field."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization causing structural protrusion at the distal tips; distinct horizontal dark scar on the left ventral surface; multiple small punctate dark marks scattered across the white pigmentation.",
+  "other_distinctive_markers": "Irregular jagged 'step-down' deformity on the trailing edge of the left lobe, approximately 30% distance from the median notch."
+}

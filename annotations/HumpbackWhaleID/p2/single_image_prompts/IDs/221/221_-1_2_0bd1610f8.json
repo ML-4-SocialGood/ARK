@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixels with a high-intensity (light) pixel ratio of approximately 1:20 concentrated at the distal tips and water interface.",
+    "spatial_color_mapping": "Large contiguous black area across 95% of visible fluke. Discrete white/grey mottling blob located at the right distal tip. Small white punctate spots mapped to the upper medial region of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "Irregular serration profile along the trailing edge of both lobes. Left lobe shows approximately 7 distinct points; right lobe shows approximately 5 broader undulations. Isolated peaks exhibit approximately 5-10 pixel amplitude.",
+    "lobe_sweep_trajectory": "Convex trajectory from center to lateral extremes, with a more pronounced curvature at the distal ends."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 4-5 circular, high-contrast white spots clustered on the upper-right medial portion of the fluke surface.",
+    "linear_abrasions": "A single, distinct vertical linear disruption (scratch) approximately 40 pixels in length on the medial right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Large white scar area on the distal right tip and irregular notch geometry along the trailing edge boundary.",
+  "other_distinctive_markers": "Type 1 pigmentation pattern; near-total absence of internal white markings across the primary ventral surface."
+}

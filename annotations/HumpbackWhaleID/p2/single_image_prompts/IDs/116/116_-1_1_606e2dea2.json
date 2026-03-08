@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast; visible areas consist of approximately 75% high-intensity white pixels and 25% low-intensity black pixels.",
+    "spatial_color_mapping": "Large contiguous white central zone; black pigmentation concentrated on the distal tips and trailing edge with irregular linear streaks extending medially from the margins."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, irregular saw-tooth serrations on the visible trailing edge with pixel-depth variations ranging from approximately 5 to 15 pixels.",
+    "lobe_sweep_trajectory": "Distal lobe edges exhibit a convex sweep trajectory; central convergence is obscured by foreground occlusion."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, low-intensity circular pixel clusters detected on the lower ventral surface of the right lobe.",
+    "linear_abrasions": "Prominent, multi-directional dark linear pixel disruptions traversing the white regions of both visible lobe sections, concentrated on the medial-left area."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "A significant vertical, out-of-focus foreground occlusion bisects the central portion of the fluke."
+}

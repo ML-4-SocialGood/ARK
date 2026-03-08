@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High intensity contrast with approximately 85% high-value white pixels in central lobe regions bounded by a 15% low-value black perimeter along the trailing edge and tips.",
+    "spatial_color_mapping": "Large contiguous white blocks occupying the majority of the visible 2D fluke surface. Continuous black banding (pixel-dense) following the entire trailing edge boundary and wrapping around the distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated internal angle of approximately 50-60 degrees; depth occupies roughly 15% of the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel amplitudes varying between 2-10 pixels along the entire horizontal extent of the trailing edge.",
+    "lobe_sweep_trajectory": "Symmetrical concave curve originating from the median notch and sweeping upward to sharp, dorsally-oriented distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Single distinct circular dark pixel cluster (hole-like appearance) located on the right lobe approximately 20% of the distance from the notch toward the tip.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Notable circular perforation or deep pigment anomaly on the interior of the right lobe near the median notch.",
+  "other_distinctive_markers": "The right lobe contains a unique, perfectly circular dark focal point that breaks the otherwise solid white pigmentation of the ventral surface."
+}

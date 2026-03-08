@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 15% high-intensity pixels (white) localized at the distal tips against a 85% low-intensity (black) central and medial surface.",
+    "spatial_color_mapping": "Two primary high-intensity geometric blobs; left lobe distal tip contains a large white patch with irregular interior boundaries and dark vertical inclusions; right lobe distal tip contains a smaller white patch with a sharp jagged proximal edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide V-shaped depression with a calculated internal angle of approximately 115 degrees and a bounding-box depth of roughly 8% of the total vertical height of the fluke.",
+    "edge_topography_serration_map": "Low-frequency undulations across the medial trailing edge; transition to high-frequency, high-amplitude irregular peaks (serrations) on the distal-most 5% of both lobe tips.",
+    "lobe_sweep_trajectory": "Bi-phasic curve with proximal convexity transitioning to distal concavity near the terminal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular high-contrast nodes (white) and dark indentations concentrated on the extreme distal edges and tips of both lobes, indicating clustered barnacle attachment sites.",
+    "linear_abrasions": "Four distinct near-vertical dark linear streaks localized within the high-intensity white patch on the left distal lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive irregular calcified-looking protrusions on the terminal edges of both fluke tips, causing deviation from a smooth geometric contour.",
+  "other_distinctive_markers": "Significant pixel occlusion in the lower-central region caused by vertical water spray and droplets, masking surface detail near the peduncle junction."
+}

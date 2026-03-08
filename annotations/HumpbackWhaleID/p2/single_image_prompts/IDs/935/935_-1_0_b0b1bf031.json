@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 85:15 ratio of low-intensity black pixels to high-intensity white pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Central contiguous black mass spanning 80% of surface area. Distinct white mottling at the far left distal tip. A solid white patch on the right distal tip containing parallel black linear striations."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an approximate 40-45 degree internal pixel angle and a depth of roughly 15% of the visible fluke height.",
+    "edge_topography_serration_map": "High-frequency serration with pixel amplitudes ranging from 10-30 pixels, creating a jagged, non-linear boundary across the entire trailing edge.",
+    "lobe_sweep_trajectory": "Convex curve fitting on the upper margins of both lobes, tapering to rounded lateral terminations."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple circular high-contrast white pixel clusters (1-4 pixels in diameter) scattered across the low-intensity central region.",
+    "linear_abrasions": "Prominent intersecting linear white pixel disruptions on the left lobe forming a cross-hatch pattern, with additional diagonal linear marks near the median notch."
+  },
+  "acquired_anomalies_or_scars": "A deep, irregular V-shaped notch/indentation on the upper trailing edge of the left lobe, independent of the median notch, indicating physical tissue loss.",
+  "other_distinctive_markers": "Rhythmic, parallel horizontal dark line patterns (striations) within the high-intensity white patch on the right fluke tip."
+}

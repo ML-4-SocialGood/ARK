@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 80% high-intensity (white/light grey) pixels across central lobes vs 20% low-intensity (black) pixels along perimeters and focal spots.",
+    "spatial_color_mapping": "Continuous low-intensity black border along leading and trailing edges; large irregular black cluster at the insertion of the right lobe; multiple small, dark punctate spots scattered across both high-intensity central lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch, approximately 50 degrees, with a bounding-box depth approximately 1/8th of total lobe height.",
+    "edge_topography_serration_map": "Right lobe trailing edge displays high-frequency, irregular serrations with peak-to-valley amplitudes of 3-5 pixels; left lobe trailing edge is smoother with low-frequency, low-amplitude micro-serrations.",
+    "lobe_sweep_trajectory": "Right lobe follows a predominantly convex sweep; left lobe follows a more linear, diagonal trajectory towards the distal tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple discrete, dark, roughly circular pixel clusters distributed across the medial high-intensity regions of both lobes.",
+    "linear_abrasions": "Two distinct, parallel, dark linear streaks oriented diagonally on the lower quadrant of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Pronounced jagged edge irregularities on the right lobe trailing edge consistent with physical trauma; distinct parallel rake-like linear marks on the right lobe ventral surface.",
+  "other_distinctive_markers": "A large, asymmetrical dark pigmentation field at the junction of the right fluke lobe and the peduncle."
+}

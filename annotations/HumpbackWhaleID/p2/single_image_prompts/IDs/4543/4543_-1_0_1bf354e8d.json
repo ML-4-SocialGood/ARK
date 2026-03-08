@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio of high-intensity (white) pixels to low-intensity (black) pixels is approximately 0.05:1 across the visible ventral surface.",
+    "spatial_color_mapping": "Visible surface is a primary contiguous low-intensity black mass punctuated by discrete, high-contrast white circular spots (2-12 pixel diameter) scattered heterogeneously across both fluke lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern extracted along the continuous linear boundary, showing jagged peaks and valleys with pixel-amplitudes varying between 5 and 15 pixels.",
+    "lobe_sweep_trajectory": "Convex mathematical curve fitted to the sweep from the splash zone upward toward the distal lobe tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular high-contrast white pixel clusters (rosettes) detected across the dark background of both the left and right lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Dense, high-contrast textured masses of tan and brown pixels localized at the extreme distal tips of both lobes, corresponding to significant barnacle colonization.",
+  "other_distinctive_markers": null
+}

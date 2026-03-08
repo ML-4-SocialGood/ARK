@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity (white) pixels occupy approximately 85% of the visible ventral area; low-intensity (black) pixels occupy approximately 15%, primarily along the margins and central axis.",
+    "spatial_color_mapping": "Large contiguous white regions on both lobes. Black pigmentation forms a continuous boundary along the trailing edge and distal tips, with a vertical black band at the median notch. Discrete black focal spots (mottling) are distributed in the lower-medial sectors of the white fields."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped central depression with a calculated vertex angle of approximately 36 degrees and a bounding-box depth of roughly 48 pixels.",
+    "edge_topography_serration_map": "High-frequency irregular serration map along the entire trailing edge; peaks reach pixel-amplitudes of 15-25 pixels, interspersed with deep, irregular valleys.",
+    "lobe_sweep_trajectory": null
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular dark pixel clusters (<10 pixel diameter) detected across the upper sections of the white ventral fields, notably in the upper-left quadrant.",
+    "linear_abrasions": "Distinct dark linear marks (10-40 pixels in length) with unaligned orientations detected on the white surface of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Minor irregular chipping and notches along the trailing edge margins; no major amputations or trauma visible in the pixels above the waterline.",
+  "other_distinctive_markers": "Unique 'splatter' pattern of black pigmentation extending from the trailing edge margin into the white field on the interior of the left lobe."
+}

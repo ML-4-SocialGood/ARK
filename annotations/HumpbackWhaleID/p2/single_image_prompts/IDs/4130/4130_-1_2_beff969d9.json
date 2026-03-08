@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 75% high-intensity (white) pixels covering the lateral lobes and 25% low-intensity (black) pixels concentrated in a central wedge-shaped region and along the trailing edge periphery.",
+    "spatial_color_mapping": "Two dominant high-intensity white blobs occupy the left and right lobes. A central low-intensity black wedge extends from the base toward the median notch, featuring 'feathered' edges. Sparse low-intensity focal spots are scattered across the mid-sections of both white lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep U-shaped central depression with a base angle estimated at 50 degrees and a vertical depth extending approximately 12% into the fluke's total height.",
+    "edge_topography_serration_map": "Extremely high-frequency serrations with variable amplitudes ranging from 5 to 20 pixels. Multiple distinct V-shaped notches are visible, notably a deep indentation on the upper right trailing edge and several jagged peaks on the left lobe.",
+    "lobe_sweep_trajectory": "The trailing edge follows a complex non-linear path with overall concavity from the distal tips toward the median notch, while the leading edge (partially visible) exhibits a smooth convexity."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed, high-relief pixel clusters indicative of barnacle colonies are located at both the extreme left and right tips. Several small, circular dark focal points are visible on the inner right lobe.",
+    "linear_abrasions": "Distinct white linear pixel disruptions (parallel rake marks) are visible against the low-intensity black central region, oriented primarily on a horizontal-to-diagonal axis."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle encrustation at both distal fluke tips; multiple irregular trailing edge notches indicating previous tissue loss; prominent linear scarring/rake marks in the central dark zone.",
+  "other_distinctive_markers": "Yellow-toned discoloration or organic growth visible on the upper-outer corner of the right lobe; unique splattered transition pattern between the central black and lateral white pigmentation zones."
+}

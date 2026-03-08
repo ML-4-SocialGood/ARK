@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 45:55 ratio of high-intensity white/cream pixels to low-intensity black/dark-grey pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Left lobe is characterized by a dominant high-intensity white field with low-intensity dark speckling at the distal tip and a solid dark boundary along the leading edge. Right lobe displays a large proximal low-intensity black field originating at the notch and extending halfway across the lobe, transitioning into a high-intensity white patch on the distal half, bordered by a continuous dark trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated pixel angle of approximately 72 degrees and a bounding-box depth occupying roughly 22% of the total vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitude variations of 5-15 pixels; peaks are notably sharp on the distal margin of the right lobe and the mid-trailing edge of the left lobe.",
+    "lobe_sweep_trajectory": "Bilateral convex curves tapering from the median notch toward the distal tips, with a more acute terminal taper on the right lobe."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of small, circular low-intensity pixels (dark spots) on the high-intensity white field of the left lobe tip and the distal white patch of the right lobe.",
+    "linear_abrasions": "Three distinct, unaligned low-intensity linear streaks (rake marks) traversing the high-intensity white field of the left lobe at approximately 45-degree angles relative to the leading edge."
+  },
+  "acquired_anomalies_or_scars": "Multiple parallel linear rake marks on the left lobe and an irregular, potentially traumatic notch pattern on the far-right distal trailing edge.",
+  "other_distinctive_markers": "A unique 'ink-smear' pixel distribution pattern where the central dark pigmentation of the fluke stem bleeds into the white field of the right lobe."
+}

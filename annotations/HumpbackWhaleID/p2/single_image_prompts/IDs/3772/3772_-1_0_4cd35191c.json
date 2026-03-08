@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low macro-level ratio; pixel data is predominantly low-intensity (dark pigmentation) occupying approximately 92% of the visible surface, with high-intensity (white/grey) pixels localized in micro-clusters.",
+    "spatial_color_mapping": "Contiguous dark pigmentation across the primary fluke body; white high-contrast mottling is localized at the distal tips and in sparse clusters along the peripheral margins of the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible V-shaped depression at the center; the angle of intersection between lobe margins is approximately 60 degrees, though the vertex is partially obscured by water spray.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serration map; distinct peaks and valleys observed along the entire trailing edge boundary, with an average peak height of approximately 3-8 pixels.",
+    "lobe_sweep_trajectory": "The leading edges exhibit a convex curve tapering towards sharp distal points; the trailing edges follow a generally symmetrical concave trajectory toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of roughly circular, high-contrast white pixel clusters on the left distal tip and scattered across the medial-lateral regions of the right lobe surface.",
+    "linear_abrasions": "Presence of multiple unaligned linear pixel disruptions (white on black) consistent with rake marks or superficial scratches on both the left and right ventral surfaces."
+  },
+  "acquired_anomalies_or_scars": "Extensive white scarring across the ventral surface, particularly concentrated along the trailing margins; no visible amputations or major structural trauma to the fluke lobes.",
+  "other_distinctive_markers": "Significant pixel occlusion at the lower central fluke-water interface caused by high-velocity water droplets and aeration (spray)."
+}

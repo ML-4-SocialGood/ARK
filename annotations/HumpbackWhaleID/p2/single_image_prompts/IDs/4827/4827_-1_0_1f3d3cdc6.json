@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 75% low-intensity (black/dark grey) pixels forming the central and medial regions, contrasted with 25% high-intensity (white/off-white) pixels localized at the distal tips of both lobes.",
+    "spatial_color_mapping": "Distal left lobe contains a large, roughly triangular high-intensity blob interspersed with thin, low-intensity diagonal streaks. Distal right lobe contains a similarly sized but more fragmented high-intensity region characterized by dense, linear low-intensity striations radiating towards the outer edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A deep, symmetrical V-shaped depression with a vertex angle of approximately 55 degrees and a bounding-box depth approximately 1/8th of the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "High-frequency, non-uniform serration with peaks ranging from 5 to 20 pixels in amplitude. The pattern is more jagged and irregular on the outer halves of both lobes compared to the regions flanking the median notch.",
+    "lobe_sweep_trajectory": "The trailing edges exhibit a moderate concave arc from the median notch extending towards the tips, terminating in sharp, upwardly-tilted distal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Several small (2-5 pixel diameter) circular high-contrast white spots are visible in the lower-central dark region of the left lobe and near the transition zone on the right lobe.",
+    "linear_abrasions": "Numerous distinct linear pixel disruptions are visible: a prominent pair of parallel diagonal light-grey lines on the inner right lobe, and multiple smaller, chaotic light-colored scratches across the lower-central dark bridge."
+  },
+  "acquired_anomalies_or_scars": "Distinct irregular missing segments (notches) along the trailing edge suggestive of mechanical trauma. Visible 'rake' marks consisting of multiple parallel linear scars on the right lobe surface.",
+  "other_distinctive_markers": "The boundary between high and low intensity regions on the right distal lobe displays a unique 'leopard-print' mottling effect where small dark pixel clusters are embedded within the larger white field."
+}

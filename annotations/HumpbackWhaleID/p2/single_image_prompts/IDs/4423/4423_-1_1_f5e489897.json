@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity (white) pixels with a ratio of approximately 8.5:1.5 relative to low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Large contiguous high-intensity central region bounded by low-intensity margins along the trailing edge. Specific dark focal point on the distal right lobe and a cluster of three small dark focal spots on the medial left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped depression with a calculated pixel vertex angle of approximately 118 degrees.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations (peaks and valleys) along the entire trailing edge; amplitude is most pronounced at the distal tips, particularly the left-side tip which exhibits extreme jaggedness.",
+    "lobe_sweep_trajectory": "Concave curve fitted to the trailing edge from the median notch to the distal tips, with a sharp distal taper."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Single isolated high-contrast dark circular spot on the distal right lobe; sparse constellation of three dark pixel clusters in the mid-left lobe region.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Irregular, non-uniform tattering and potential tissue loss at the left distal tip compared to the right distal tip.",
+  "other_distinctive_markers": "Bifurcated low-intensity (black) vertical streaks extending from the insertion point of the peduncle into the high-intensity (white) central field."
+}

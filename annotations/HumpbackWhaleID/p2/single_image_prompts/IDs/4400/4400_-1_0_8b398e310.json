@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 85:15 ratio of high-intensity white pixels to low-intensity dark/black pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Dominant contiguous white regions across the central areas of both lobes. Low-intensity (dark) pigmentation is concentrated as a continuous 10-20 pixel-wide band along the trailing edge and becomes high-density, irregular geometric masses at the distal lateral tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a calculated angle of approximately 65 degrees and a bounding-box depth relative to lobe height of roughly 15%.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude irregular serrations (peaks and valleys) along the entire trailing edge perimeter, characterized by jagged pixel-steps varying between 2-8 pixels in depth.",
+    "lobe_sweep_trajectory": "Concave curvature originating from the peduncle base transitioning to a broad convex sweep towards the outer lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized cluster of small, low-intensity punctate spots (3-5 pixels each) observed in the lower-right quadrant of the white ventral region.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Notable irregular, ragged indentation and loss of smooth contour on the far-left distal tip, suggesting previous mechanical trauma or amputation of the edge.",
+  "other_distinctive_markers": null
+}

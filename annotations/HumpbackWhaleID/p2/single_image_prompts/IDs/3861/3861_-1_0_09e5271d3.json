@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity pixels (>95% dark) with sparse, localized high-intensity pixel clusters corresponding to scars, resulting in a low macro-level contrast ratio for the fluke surface.",
+    "spatial_color_mapping": "Contiguous dark-field pigmentation across both lobes; distinct high-contrast white circular geometric blobs (rosettes) are localized primarily on the distal half of the right lobe and scattered along the leading edge of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with a calculated interior angle of approximately 50-60 degrees; depth occupies roughly 15% of the total vertical height of the visible fluke structure.",
+    "edge_topography_serration_map": "High-frequency, irregular pixel-amplitude variations along the entire trailing edge; a significant high-amplitude indentation (valley) is observed on the medial trailing edge of the right lobe.",
+    "lobe_sweep_trajectory": "Strongly convex curvature on both lobes with an upward and outward sweep culminating in sharp, textured distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular, high-contrast white rings (barnacle attachment scars) detected; dense constellation in the upper-right quadrant of the right lobe; sparse distribution on the medial left lobe.",
+    "linear_abrasions": "Faint, unaligned diagonal linear pixel disruptions detected on the medial section of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle-induced scarring across both lobes; extreme irregular calcified texture and potential minor tissue loss at the distal tips.",
+  "other_distinctive_markers": "Asymmetrical geometry within the median notch, characterized by a distinct 'stepped' or jagged pixel boundary on the left interior wall."
+}

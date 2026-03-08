@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High global contrast between high-intensity (white) distal regions and low-intensity (black) central axial region; white pixels account for approximately 65-70% of the visible surface area.",
+    "spatial_color_mapping": "Two large, contiguous high-intensity white blobs occupy the lateral lobes; a central low-intensity black wedge originates at the peduncle and tapers toward the notch, with heavy stippling and mottling at the internal interfaces."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped notch; calculated internal angle of approximately 52 degrees; bounding-box depth is significant relative to the vertical lobe height.",
+    "edge_topography_serration_map": "Highly irregular trailing edge with high-frequency, variable-amplitude serrations; approximately 14 distinct peaks visible on the right lobe and 11 on the left lobe, isolated from the background gradient.",
+    "lobe_sweep_trajectory": "Concave sweep along the medial trailing edge transitioning to a convex curve at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple high-contrast circular pixel clusters (diameters 5-15 pixels) concentrated within the central black pigmentation and at the distal tips, consistent with barnacle attachment sites.",
+    "linear_abrasions": "Dense collection of fine, unaligned high-contrast linear disruptions (white on black) primarily oriented vertically in the central lower-third of the fluke."
+  },
+  "acquired_anomalies_or_scars": "Prominent clusters of high-intensity calcified structures (barnacles) on the extreme distal tips and along the right-side trailing edge; one distinct circular mark on the right lobe white field.",
+  "other_distinctive_markers": null
+}

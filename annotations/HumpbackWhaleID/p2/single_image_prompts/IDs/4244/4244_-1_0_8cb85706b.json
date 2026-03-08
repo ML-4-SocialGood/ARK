@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels dominate approximately 90% of the visible surface; low-intensity black pixels are concentrated in a 9:1 ratio along the trailing edge and peduncle insertion.",
+    "spatial_color_mapping": "The majority of the surface consists of a contiguous white field. A high-contrast black border (~5-12 pixels wide) follows the entire trailing edge contour. An irregular black cluster is localized at the central base (peduncle junction) at coordinates roughly centered on the vertical axis."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped notch with a calculated interior angle of approximately 42 degrees; depth is significant, extending roughly 8-10% into the vertical span of the lobes.",
+    "edge_topography_serration_map": "High-frequency irregular serrations along the trailing edge; micro-peaks and valleys range from 2 to 8 pixels in amplitude; the left lobe distal edge exhibits higher jaggedness than the right.",
+    "lobe_sweep_trajectory": "Convex mathematical curve fitted to the trailing edge of both lobes, tapering to acute, slightly upturned tips at the lateral extremes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of several small (3-6 pixel diameter) dark clusters on the white field of the left lobe, likely corresponding to focal pigmentation or minor scarring.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Deep irregular notch/indentation visible on the far distal tip of the right fluke, characterized by missing tissue and localized dark pigmentation.",
+  "other_distinctive_markers": null
+}

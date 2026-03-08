@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 45% high-intensity white to 55% low-intensity black/dark-blue, characterized by large central white patches surrounded by dark peripheral pigmentation.",
+    "spatial_color_mapping": "Two primary high-intensity regions: a large, roughly trapezoidal white block on the left lobe's medial-lower quadrant and a segmented, heavily streaked white patch on the right lobe's central-medial area. The transition to the dark trailing edge is defined by dense, vertical black-to-white 'combed' or streaked pixel gradients."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch with an estimated interior angle of 75 degrees; the depth is approximately 1/8th of the total lobe height from the leading edge baseline.",
+    "edge_topography_serration_map": "Continuous, high-frequency micro-scalloping along the entire trailing edge. Visible peaks and valleys exhibit an average amplitude of 3-5 pixels at the provided resolution, with higher irregularity observed on the right lobe.",
+    "lobe_sweep_trajectory": "Symmetric convex curves extending from the median notch to the lateral tips, with the right lobe displaying a slightly more pronounced upward sweep at the distal end."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular, low-intensity pixel clusters (dark spots) located in the lower-left white field; several high-intensity (white) circular impressions visible near the bottom edge of the right lobe.",
+    "linear_abrasions": "Dense array of parallel, vertically-oriented dark linear pixel disruptions (rake marks) crossing the white ventral fields on both lobes, most prominent on the right side."
+  },
+  "acquired_anomalies_or_scars": "A significant localized cluster of high-intensity, yellowish-white pixel formations consistent with barnacle colonization is present on the extreme right lateral tip of the fluke.",
+  "other_distinctive_markers": "Pronounced 'combed' effect where dark pigment bleeds into white fields in fine parallel lines, creating a high-frequency alternating intensity pattern."
+}

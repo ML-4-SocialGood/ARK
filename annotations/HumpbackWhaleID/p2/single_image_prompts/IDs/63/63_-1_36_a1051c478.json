@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with a ratio of approximately 65% low-intensity (dark/black) pixels to 35% high-intensity (white/gray) pixels, primarily concentrated on distal lobe regions.",
+    "spatial_color_mapping": "High-intensity white mottled clusters are concentrated on the lateral-distal regions of both lobes, forming irregular geometric patches. The medial region surrounding the notch consists of a contiguous solid low-intensity dark pixel block."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated pixel angle of approximately 85 degrees and a bounding-box depth occupying roughly 18% of the total vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the entire trailing edge with peak-to-valley amplitudes ranging from 3 to 10 pixels, creating a jagged linear boundary against the water background.",
+    "lobe_sweep_trajectory": "Concave curvature fitting the upper trailing edge transitioning to a sharp convex sweep at the terminal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast circular white pixel clusters visible at the extreme lateral tips of both lobes, consistent with localized surface irregularities.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Multiple irregular indentations and nicks along the trailing edge topography, particularly on the left lobe, indicating non-linear boundary degradation.",
+  "other_distinctive_markers": "Unique asymmetric white pixel 'spray' pattern on the ventral surface of the right lobe, extending further toward the median than the corresponding pattern on the left lobe."
+}

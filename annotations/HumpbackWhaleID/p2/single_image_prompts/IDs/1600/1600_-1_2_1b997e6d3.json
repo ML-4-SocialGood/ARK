@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution; approximately 65% high-intensity white pixels on lateral lobes vs 35% low-intensity black pixels concentrated in the central peduncle region and trailing edge margins.",
+    "spatial_color_mapping": "Large contiguous white geometric regions on the distal 2/3 of both lobes. Central dark region is wedge-shaped, widest at the insertion point and narrowing toward the notch. High-frequency pixel mottling (black-on-white) is mapped along the interior transition boundaries and the leading edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch; approximately 65-degree interior angle with a pixel-depth of roughly 12% relative to total fluke height.",
+    "edge_topography_serration_map": "Primary boundary is moderately smooth with low-amplitude (3-5 pixel) variations. Discrete serration peaks are visible near the terminal tips. Right lobe trailing edge exhibits small, localized indentations.",
+    "lobe_sweep_trajectory": "Sigmoidal curve; trailing edge exhibits broad convexity from the notch to the mid-lobe, transitioning to a concave sweep toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized cluster of high-intensity circular pixel groups (5-10 pixel diameter) on the dark leading edge and terminal tip of the left lobe, consistent with sessile organism attachment sites.",
+    "linear_abrasions": "Three distinct low-intensity vertical linear disruptions (rake marks) on the interior white field of the left lobe; two parallel marks and one unaligned diagonal mark."
+  },
+  "acquired_anomalies_or_scars": "Notable dark linear vertical scarring on the inner left lobe; small irregular notch-like defects on the trailing edge of the right lobe.",
+  "other_distinctive_markers": "Extensive 'salt-and-pepper' pixel noise/mottling at the interface of the dark central region and the white lateral fields, particularly dense on the lower interior margins of both lobes."
+}

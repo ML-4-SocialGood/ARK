@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:1.2 ratio of white-to-black pixels; high-intensity pixels dominate the left lobe while low-intensity pixels dominate the right lobe.",
+    "spatial_color_mapping": "Left lobe contains a large contiguous white region (approx. 60% of lobe area) with distinct dark circular mottling. Right lobe contains a predominantly dark region with a localized high-contrast white patch near the median notch and smaller white spots along the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped notch with an estimated interior angle of 145 degrees and a bounding-box depth of approximately 10-15 pixels.",
+    "edge_topography_serration_map": "High-frequency jagged serrations present across the entire span; average peak amplitude of 4-8 pixels; higher density of peaks observed on the medial sections of both lobes.",
+    "lobe_sweep_trajectory": "Convex trajectory along the trailing edge, tapering to sharp, irregular points at the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Visible cluster of dark circular spots (diameters 4-7 pixels) on the white background of the left lobe; similar lighter circular ring structures visible on the dark background of the right lobe.",
+    "linear_abrasions": "Distinct parallel dark linear disruptions (rake marks) oriented diagonally on the inner half of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Irregular jagged profile on the extreme right tip, indicating potential minor tissue loss or heavy barnacle colonization; small protrusion on the leading edge of the left lobe visible near the water line.",
+  "other_distinctive_markers": "Highly asymmetrical pigmentation pattern between the left and right lobes; unique high-intensity 'teardrop' shape adjacent to the central notch on the right side."
+}

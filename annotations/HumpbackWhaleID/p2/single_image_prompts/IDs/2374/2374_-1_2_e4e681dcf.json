@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast ratio; approximately 75% high-intensity white to 25% low-intensity black/dark grey across visible ventral surfaces.",
+    "spatial_color_mapping": "Central and medial fluke regions composed of a contiguous high-intensity white field. Right lobe features a large, solid low-intensity black geometric blob on the distal-lateral section. Left lobe displays irregular low-intensity clusters and mottling along the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped central depression with a calculated angle of approximately 50 degrees and a vertical bounding-box depth of roughly 12% of total fluke height.",
+    "edge_topography_serration_map": "High-frequency serration map present along the entire continuous trailing boundary; pixel-amplitude of irregular peaks and valleys ranges from 3-8 pixels relative to the mean edge line.",
+    "lobe_sweep_trajectory": "Overall convex sweep trajectory observed on both lobes, tapering to acute terminal points at the distal ends."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of approximately 10 discrete circular low-intensity pixel clusters concentrated on the distal-medial portion of the left lobe white surface.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Highly distinctive solid black pigmentation block on the outer distal right lobe, creating a high-contrast diagonal boundary against the interior white field."
+}

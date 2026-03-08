@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white regions occupy approximately 60 percent of visible fluke surface area, with low-intensity black/dark-grey pixels occupying the remaining 40 percent.",
+    "spatial_color_mapping": "Left lobe contains a primary contiguous high-intensity central region bounded by a thick low-intensity trailing edge. Right lobe displays a high-intensity field segmented by vertical low-intensity streaks and a wide, irregular low-intensity trailing boundary."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, irregular saw-tooth serrations along the continuous trailing boundary with pixel-amplitudes ranging from approximately 5 to 20 pixels.",
+    "lobe_sweep_trajectory": "Leading edges exhibit a convex mathematical sweep; trailing edges follow an irregular concave trajectory toward the central axis."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, roughly circular low-intensity pixel clusters are scattered across the high-intensity regions of both the left and right lobes.",
+    "linear_abrasions": "Distinct vertical low-intensity linear streaks are detected on the high-intensity field of the right lobe, oriented perpendicular to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

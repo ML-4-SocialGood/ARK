@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1.5:1 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Dominant low-intensity (black) central region spanning the fluke hinge and extending into the proximal lobe areas. High-intensity (white) pigmentation dominates the distal 60% of both lobes. A distinct vertical low-intensity band is present mid-way through the right lobe's white field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with an approximate pixel-calculated interior angle of 85 degrees.",
+    "edge_topography_serration_map": "Irregular serration across the continuous boundary; the left lobe trailing edge shows low-amplitude, high-frequency peaks, while the right lobe trailing edge exhibits deeper, irregular jagged notches especially towards the tip.",
+    "lobe_sweep_trajectory": "Lobes exhibit a predominantly convex curve from the median notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Single high-contrast dark circular cluster on the distal right lobe white field; secondary lower-contrast clusters visible on the medial right lobe.",
+    "linear_abrasions": "Set of 3-4 parallel, horizontal, dark linear pixel disruptions (rake marks) crossing the white pigmentation field on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Linear raking marks on the right lobe; prominent circular dark mark or lesion on the distal right tip.",
+  "other_distinctive_markers": "The boundary between black and white pigment regions is highly irregular and asymmetric, characterized by a jagged 'bleeding' interface on the right lobe compared to a smoother transition on the left."
+}

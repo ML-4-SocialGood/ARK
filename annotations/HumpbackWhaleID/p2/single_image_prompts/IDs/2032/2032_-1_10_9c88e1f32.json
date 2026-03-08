@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio; approximately 97% low-intensity (black) pixels with 3% high-intensity (white/grey) pixels concentrated in localized clusters and sparse spots.",
+    "spatial_color_mapping": "Dominant contiguous black region across the entire visible fluke. High-contrast white contiguous clusters are mapped to the distal tips of both lobes. Isolated sub-10 pixel white circular nodes are distributed across the mid-lobes, primarily on the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated interior angle of approximately 40 degrees and a vertical depth comprising roughly 12% of the total visible fluke height.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serration. Numerous irregular peaks (5-25 pixels in height) and valleys are mapped continuously from the median notch to both distal tips, creating a jagged profile.",
+    "lobe_sweep_trajectory": "Convex curvature from the median notch extending to the distal tips, following a steep upward and outward trajectory."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Highly localized circular clusters of high-intensity pixels (rosettes) present at the extreme distal tips of both lobes. Scattered, low-density white circular spots (approx. 3-8 pixels in diameter) are visible on the interior surface of the right lobe.",
+    "linear_abrasions": "Faint, unaligned linear pixel disruptions (scratches) are detected on the left lobe surface, trending diagonally relative to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Prominent irregular calcified growths (barnacle clusters) are visible at the distal tips of both fluke lobes. Small, irregular notches are present on the inner margins of the trailing edge near the central notch.",
+  "other_distinctive_markers": "Extremely pronounced and irregular saw-tooth serration pattern across the entire trailing edge boundary."
+}

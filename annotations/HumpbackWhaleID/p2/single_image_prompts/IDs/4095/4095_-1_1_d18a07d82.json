@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level ratio of high-intensity (white/light-gray) to low-intensity (black/dark-gray) pixels, approximately 85:15 across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant high-intensity white contiguous region across the central area of both lobes. Low-intensity dark pigmentation concentrated along the trailing edge and distal tips. Multiple small, isolated dark focal spots (mottling) distributed sparsely across the central white field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with a sharp interior pixel angle and significant vertical bounding-box depth relative to the horizontal fluke axis.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern characterized by jagged peaks and deep valleys along the entire continuous trailing edge. Pixel-amplitude of serrations is greater on the right lobe edge.",
+    "lobe_sweep_trajectory": "Concave sweep trajectory fitted to the trailing edges, transitioning to a convex curve at the outer distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast dark pixel clusters (likely barnacle scars or spots) scattered across the white ventral surface. Dense, high-contrast calcified clusters (barnacles) localized at the extreme distal tips of both lobes.",
+    "linear_abrasions": "Faint vertical linear pixel disruptions (rake-like marks) visible on the medial portion of the left fluke lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive calcified barnacle colonization on the distal tips and sporadically along the trailing edge, causing significant localized geometric disruption of the edge boundary.",
+  "other_distinctive_markers": "Visible water droplets shedding from the left lobe tip, creating vertical high-intensity streaks against the ocean background."
+}

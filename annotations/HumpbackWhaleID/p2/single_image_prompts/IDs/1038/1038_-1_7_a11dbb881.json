@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low-to-mid intensity distribution; the visible surface is dominated by low-intensity (dark grey/black) pixels with a ratio of approximately 4:1 against mid-intensity (light grey) interior regions. High-intensity white pixels are restricted to peripheral tips and water spray.",
+    "spatial_color_mapping": "Contiguous low-intensity bands follow the entire trailing edge and central midline. Two large, roughly elliptical mid-intensity regions are positioned centrally on both the left and right lobes. No discrete high-contrast mottling or focal spots are detected within the fluke interior."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide, shallow U-shaped depression at the center-point. The angle is approximately 125 degrees with a shallow vertical depth relative to the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations observed across the entire linear boundary. Peaks are irregular, with some reaching pixel depths of ~10-15 units, creating a jagged, non-linear edge profile isolated from the water line.",
+    "lobe_sweep_trajectory": "Moderate convex curvature originating from the notch and sweeping upwards and outwards toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-intensity (white) circular pixel groups are visible at the extreme lateral tips of both lobes, likely representing site-specific scarring or surface accumulation.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Notable high-contrast white spotting localized on the outer margins of the distal tips. The trailing edge exhibits significant irregular indentations consistent with cumulative physical wear.",
+  "other_distinctive_markers": null
+}

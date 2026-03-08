@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The visible ventral surface exhibits a high contrast ratio; approximately 75% of pixels are high-intensity (white/light-gray) in the lobe interiors, while 25% are low-intensity (black) along the margins and peduncle junction.",
+    "spatial_color_mapping": "Large contiguous light-intensity regions occupy the center of both lobes. These are bounded by a solid black border along the trailing and outer edges. Numerous dark-pixel linear streaks (rake marks) are mapped across the light-intensity fields in various orientations."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate interior pixel angle of 45 degrees; the notch depth is approximately 20% of the total visible vertical fluke height.",
+    "edge_topography_serration_map": "Irregular serration profile with frequent low-amplitude (2-6 pixel) jaggedness interspersed with several medium-amplitude (10-15 pixel) notches, particularly on the right lobe trailing edge.",
+    "lobe_sweep_trajectory": "Distinctly concave curve along the trailing edge leading from the tips toward the median notch; leading edge transition to tips shows a convex sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-intensity, textured circular pixel groups (barnacle colonization) are mapped at the extreme lateral tips of both the left and right lobes.",
+    "linear_abrasions": "Numerous unaligned, high-contrast dark linear pixel disruptions (rake marks) are detected across the light ventral surface of both lobes, ranging from near-vertical to diagonal orientations."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular chipping and jagged tissue loss visible along the trailing edges; extensive scarring in the form of multiple dark rake marks across the light-pigmented regions.",
+  "other_distinctive_markers": "Concentrated area of high-density dark-pixel mottling and solid pigmentation at the convergence point where the fluke lobes meet the peduncle."
+}

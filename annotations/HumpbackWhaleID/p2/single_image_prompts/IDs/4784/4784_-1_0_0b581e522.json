@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 70:30 ratio of high-intensity (white/light-grey) to low-intensity (black/dark-grey) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Left lobe: series of dark spots along distal-leading edge and scattered medial spots. Right lobe: dense dark pixel cluster at distal tip and along leading edge. Dark pigmentation concentrated at the central notch and peduncle connection."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Obtuse V-shaped notch with an approximate angle of 140 degrees; depth is roughly 15% of the total visible fluke height.",
+    "edge_topography_serration_map": "Trailing edge exhibits low-amplitude serrations; higher frequency of pixel-level irregularities observed at the distal tips of both lobes.",
+    "lobe_sweep_trajectory": "Concave curve fitted to the trailing edge boundary extending from the median notch to the outer tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast dark circular pixel clusters detected primarily in the distal third of both lobes.",
+    "linear_abrasions": "Several short, vertical dark linear pixel disruptions visible on the proximal-medial region of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Irregular, jagged pixel topography at the extreme distal tips of both lobes, indicating non-smooth boundary conditions.",
+  "other_distinctive_markers": "Distinctive asymmetric distribution of dark spotting, with a higher concentration of low-intensity pixels on the right distal tip compared to the left."
+}

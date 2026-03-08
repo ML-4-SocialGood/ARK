@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio of approximately 1:5 high-intensity (white) to low-intensity (black) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Contiguous high-intensity white patch located on the distal third of the left lobe, featuring internal low-intensity black mottling. The remainder of the visible fluke area, including the entire right lobe, consists of a solid low-intensity black field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible acute V-shaped depression between the lobes; precise pixel angle is obscured by surface water turbulence and foam at the vertex.",
+    "edge_topography_serration_map": "Visible high-frequency, low-amplitude serrations on the trailing edge of the left lobe; the right lobe exhibits irregular, larger-scale peaks and valleys towards the distal tip.",
+    "lobe_sweep_trajectory": "Outer edges of both lobes display a convex upward sweep, with the left lobe exhibiting a more pronounced distal curvature compared to the right."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, high-contrast white circular pixel clusters detected along the trailing edge boundary of the right lobe and near the inner trailing edge of the left lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Irregular indentation or possible truncation noted on the distal tip of the right lobe.",
+  "other_distinctive_markers": "Pronounced pigmentation asymmetry between the predominantly white distal tip of the left lobe and the uniformly dark right lobe."
+}

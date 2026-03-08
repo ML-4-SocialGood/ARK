@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:15 ratio of high-intensity (white) to low-intensity (dark) pixels; the surface is dominated by low-reflectance pixels.",
+    "spatial_color_mapping": "Homogeneous low-intensity distribution across the fluke body; distinct high-contrast circular blobs (0.01-0.03 fluke-width diameter) are localized primarily on the left-distal margin and leading edge of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Centrally located V-shaped notch with an estimated internal pixel angle of 105 degrees and a bounding-box depth of approximately 12% of the lobe height.",
+    "edge_topography_serration_map": "Right lobe exhibits a continuous sequence of low-amplitude serrations; left lobe trailing edge displays irregular, high-amplitude jagged peaks and valleys partially obscured by water spray.",
+    "lobe_sweep_trajectory": "Left lobe presents a high-convexity arc (rounded); right lobe presents an elongated, low-concavity sweep towards a sharp distal point."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely clustered, high-contrast circular nodes (white/light gray) detected along the convex perimeter of the left lobe, indicating heavy barnacle colonization.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive macro-level irregularities and calcified protrusions (barnacles) along the left fluke margin and surface.",
+  "other_distinctive_markers": "Significant bilateral asymmetry; the left lobe is truncated and rounded with heavy biofouling, while the right lobe is elongated and more structurally intact."
+}

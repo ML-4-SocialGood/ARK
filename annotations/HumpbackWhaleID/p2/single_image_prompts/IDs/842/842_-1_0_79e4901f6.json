@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 8:1 ratio of low-intensity (black) pixels to high-intensity (white/grey) pixels; black dominates the medial surface while white is localized at distal margins.",
+    "spatial_color_mapping": "Distal-focused pigmentation; high-contrast white and grey mottling concentrated at the lateral tips and along the superior trailing edges of both lobes, tapering to solid black towards the peduncle and central fluke surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Obtuse, wide U-shaped depression with a calculated pixel angle of approximately 135-145 degrees and minimal bounding-box depth relative to fluke span.",
+    "edge_topography_serration_map": "Continuous micro-serrations along the entire trailing edge; the right lobe exhibits higher amplitude peaks (rougher topography) near the distal tip compared to the relatively smoother serrations on the left lobe.",
+    "lobe_sweep_trajectory": "Symmetric concave curves along the superior trailing edges converging at the median notch, with convex outer lateral trajectories reaching the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-intensity (white), textured, roughly circular clusters of pixels concentrated at the extreme distal tips of both the left and right lobes, indicating heavy barnacle colonization.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Prominent barnacle encrustations on both fluke tips; irregular pixel loss (notching) visible on the trailing edge of the right lobe.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution; approximately 45% high-intensity white pixels localized on the distal lobes and 55% low-intensity black pixels concentrated in the central and proximal regions.",
+    "spatial_color_mapping": "Contiguous high-intensity white fields occupy the outer two-thirds of both lobes. Significant low-intensity black mottling and speckling are present along the medial-distal transition zones. The central fluke and peduncle attachment are solid low-intensity black."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an estimated internal pixel angle of 70-80 degrees and a deep vertical bounding-box recession.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations present along the entire trailing edge boundary, with distinct peaks and valleys ranging from 5 to 15 pixels in depth, particularly concentrated on the distal halves of each lobe.",
+    "lobe_sweep_trajectory": "Strongly convex curvature on the upper distal edges, transitioning to a sharp upward sweep at the lateral fluke tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular high-contrast white pixel clusters (5-10 pixel diameter) detected against the dark background of the central fluke area and inner lobe transitions.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Dense, irregular calcified protrusions (barnacle clusters) visible at the extreme lateral tips of both the left and right fluke lobes.",
+  "other_distinctive_markers": "A large, isolated low-intensity circular patch (island) is located within the high-intensity white field of the right lobe's upper quadrant."
+}

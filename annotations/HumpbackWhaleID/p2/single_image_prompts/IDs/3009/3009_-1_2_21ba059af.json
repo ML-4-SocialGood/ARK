@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominance of low-intensity pixels (approx. 90-95%) forming a dark-gray/black base, with high-intensity (white) pixel clusters representing approximately 5-10% of the surface area.",
+    "spatial_color_mapping": "Contiguous dark-intensity field across the majority of the fluke. Distinct high-contrast white geometric blobs are concentrated at the far-left and far-right distal tips, with sparse, small-scale white point-clusters scattered across the mid-lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated interior pixel angle of approximately 55 degrees.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the entire trailing edge boundary. Significant peak-to-valley pixel amplitude observed on the interior-left lobe and the terminal-right lobe section.",
+    "lobe_sweep_trajectory": "Convex curvature along the trailing edge of both lobes, transitioning into a sharper upward vertical vector toward the distal extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-intensity white pixel rosettes detected at the distal tips of both lobes; several isolated circular white clusters present in the central region of the right lobe.",
+    "linear_abrasions": "Multiple parallel white linear pixel disruptions (rake marks) oriented diagonally across the mid-section of the right lobe; isolated thin linear scratches detected on the lower left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive scarring and colonization by sessile organisms (barnacles) localized at both fluke tips; multiple circular white depressions (likely lamprey or predator bite scars) visible on the right lobe surface.",
+  "other_distinctive_markers": "Unique annular (ring-shaped) white scar pattern located in the lower-central quadrant of the right lobe."
+}

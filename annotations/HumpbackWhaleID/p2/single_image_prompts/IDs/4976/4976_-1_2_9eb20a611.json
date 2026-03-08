@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity dark pigmentation (~70%) with distinct high-intensity white regions (~30%) concentrated in the distal sections of both lobes.",
+    "spatial_color_mapping": "Left lobe contains an irregular high-intensity patch centered at approximately x=20%, y=30% of the visible surface. Right lobe contains a larger triangular high-intensity region at the distal tip (x=80-95%). The central corridor and lower fluke margins are solid low-intensity pixels."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated angle of approximately 62 degrees and a vertical depth comprising roughly 18% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the continuous trailing edge; amplitude peaks at 5-10 pixels. Most prominent irregularities are located on the medial sections of both lobes flanking the central notch.",
+    "lobe_sweep_trajectory": "Strongly convex sweep along the trailing boundary, tapering to sharp distal points heavily modified by surface accumulation."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed clusters of circular, high-contrast pixel groups located at the extreme distal tips of both lobes, measuring approximately 50x70 pixels on the left and 60x80 on the right.",
+    "linear_abrasions": "Faint, parallel linear disruptions (rake-like marks) visible in the dark pigmented region of the upper-left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization at both fluke tips causing significant alteration of the natural geometric edge; three distinct irregular nicks present on the trailing edge of the right lobe.",
+  "other_distinctive_markers": "Pronounced 'splatter' mottling at the transition boundaries between white and black pixel regions, specifically on the medial-distal transition of the right lobe."
+}

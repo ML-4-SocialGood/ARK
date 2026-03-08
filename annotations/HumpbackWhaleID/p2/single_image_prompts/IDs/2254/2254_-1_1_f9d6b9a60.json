@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 75% high-intensity white central pixels vs 25% low-intensity black perimeter pixels.",
+    "spatial_color_mapping": "Large contiguous white central region covering the medial and lateral zones of both lobes. Black pigmentation forms a continuous band along the leading edges and distal tips. A small, low-intensity focal spot is visible on the right lobe near the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a sharp interior angle and significant bounding-box depth.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations on the left lobe; extreme high-amplitude, irregular jagged peaks and valleys (deep notches) on the right lobe trailing edge.",
+    "lobe_sweep_trajectory": "Asymmetrical curves; the left lobe follows a slender convex leading-edge sweep, while the trailing edge exhibits a concave arc. The right lobe is broader with a more rounded distal curvature."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small clusters of dark, low-intensity pixel points detected on the high-intensity white background of the right lobe's medial surface.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular tissue loss and severe macro-serration along the trailing edge of the right lobe, indicating past trauma or predation attempts.",
+  "other_distinctive_markers": "A distinct, isolated black tip on the distal end of the left fluke lobe."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast; approximate 70:30 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral area.",
+    "spatial_color_mapping": "Dominant central dark mass extending from the lower-mid region upwards toward the notch. Left lobe exhibits a cluster of roughly 15 discrete circular black spots. Right lobe contains a large, diffuse black patch extending towards the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped depression with a calculated angle of approximately 115 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the full trailing boundary; amplitudes range from 5 to 20 pixels, creating a jagged, sawtooth-like linear profile.",
+    "lobe_sweep_trajectory": "Strongly concave curve fitted to the upper-outer edges of both lobes, resulting in tapered, upward-pointing distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Collection of approximately 15 high-contrast dark circular pixel clusters on the left lobe, primarily concentrated in the mid-to-distal regions.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Continuous thin band of dark pixels forming a high-contrast perimeter along the entire length of the trailing edge."
+}

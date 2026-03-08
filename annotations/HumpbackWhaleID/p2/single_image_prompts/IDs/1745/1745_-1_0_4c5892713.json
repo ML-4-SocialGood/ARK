@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity (white/light-grey) central field (~85%) contrasted against low-intensity (black/dark-grey) perimeter borders and focal mottle points (~15%).",
+    "spatial_color_mapping": "Large contiguous light-grey field covering the central lobes. Distinct low-intensity black banding (approx. 5-15 pixel width) follows the entire trailing edge contour. Small, isolated low-intensity pixel clusters are distributed across the medial region of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a calculated internal angle of approximately 65 degrees and a vertical pixel depth equivalent to 8% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel amplitudes ranging from 3 to 12 pixels. The left lobe exhibits more rounded, frequent peaks, while the right lobe contains sharper, sawtooth-like indentations including a large terminal notch at the tip.",
+    "lobe_sweep_trajectory": "Bi-lobed convex curve originating from the median notch, transitioning to a slight concavity before reaching the elevated, upward-sweeping tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial cluster of approx. 5-7 low-intensity focal spots in the lower-medial quadrant of the left lobe; additional sparse spotting visible near the midline of the right lobe.",
+    "linear_abrasions": "A single, distinct low-intensity linear disruption (~40 pixels in length) oriented at 110 degrees on the left lobe, cutting through the white pigmentation field."
+  },
+  "acquired_anomalies_or_scars": "A significant irregular indentation and upward-hooked projection on the distal tip of the right lobe lobe, distinct from standard serration patterns.",
+  "other_distinctive_markers": "A series of vertical drip-like pigmentation artifacts originating from the dark trailing edge border into the light central field on the left lobe."
+}

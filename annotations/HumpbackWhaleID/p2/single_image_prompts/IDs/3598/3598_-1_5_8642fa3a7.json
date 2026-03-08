@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark grey) pixels across the entire visible surface, with high-intensity (white/cream) pixel spikes restricted to the lateral margins; estimated ratio of high-intensity to low-intensity pixels is 0.04.",
+    "spatial_color_mapping": "Contiguous region of dark-tone pixels spanning the horizontal and vertical extent of both lobes. High-contrast, roughly circular geometric blobs are concentrated at the extreme lateral tips of the left and right fluke lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central notch with an acute angle approximately measured at 35-40 degrees with a significant depth profile relative to the lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations observed along the entire trailing edge boundary, with pixel-amplitude variations ranging from 2 to 8 pixels creating a jagged topographic profile.",
+    "lobe_sweep_trajectory": "Convex trajectory following a wide arc from the median notch to the lateral tips, tapering significantly at the terminal ends."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of localized high-contrast clusters of circular white/beige pixel groups (barnacles) on the outer margins of both left and right fluke tips.",
+    "linear_abrasions": "Faint vertical linear pixel disruptions observed on the upper portion of the left lobe, showing higher intensity than the surrounding dark pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Active epibiotic colonization (barnacles) adhering to the trailing edges and terminal tips of the flukes.",
+  "other_distinctive_markers": null
+}

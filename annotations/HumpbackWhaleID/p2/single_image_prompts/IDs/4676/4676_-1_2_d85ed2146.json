@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70% low-intensity (black/shadow) to 30% high-intensity (white/mottling) across the visible fluke surface.",
+    "spatial_color_mapping": "High-intensity white pigmentation is localized to the distal upper regions of both lobes. The left distal tip features a dense, high-frequency mottling of dark pixels on a white background. The right distal tip exhibits larger, isolated low-intensity circular blobs on a continuous high-intensity field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a central vertex angle of approximately 58 degrees and a narrow bounding-box width at the base.",
+    "edge_topography_serration_map": "High-frequency, irregular serration profile along the trailing edge; includes sharp peaks and shallow valleys ranging from 3 to 15 pixels in vertical amplitude.",
+    "lobe_sweep_trajectory": "Concave-upward trajectory from the median notch to the distal tips, with a distinct convex sweep along the lower leading edge boundary visible above the water line."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple high-contrast white circular ring structures (approx. 10-12 clusters) primarily located in the lower-medial low-intensity (black) zones of both lobes.",
+    "linear_abrasions": "Presence of at least four distinct white linear pixel disruptions (rake marks) on the left lobe, oriented at roughly 45-degree angles relative to the horizontal axis."
+  },
+  "acquired_anomalies_or_scars": "Pronounced irregular tissue loss/serration along the outer trailing edges and multiple circular healed rosette scars suggesting previous barnacle colonization.",
+  "other_distinctive_markers": "Unique asymmetrical distribution of pigmentation where the left lobe tip shows a significantly higher density of dark pixel 'speckling' compared to the right lobe tip."
+}

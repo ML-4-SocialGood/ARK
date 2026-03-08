@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level distribution is heavily weighted toward low-intensity pixels (black) with high-intensity pixels (white) appearing primarily as localized noise and distal tip anomalies.",
+    "spatial_color_mapping": null
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped notch with an approximate 50-degree interior angle and significant bounding-box depth relative to total fluke height.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations consisting of sharp jagged peaks and valleys along the entire continuous linear boundary of the trailing edge.",
+    "lobe_sweep_trajectory": "Pronounced concave upward sweep fitted to the trailing edges of both the left and right lobes extending from the notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Concentrated high-contrast pixel clusters localized at the extreme distal tips of both fluke lobes, contrasting against the dark ventral surface.",
+    "linear_abrasions": "Detection of a single distinct curvilinear high-intensity pixel disruption located on the medial surface of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant fragmentation and irregular structural geometry at the distal tip of the right lobe, indicating physical trauma or dense parasitic colonization.",
+  "other_distinctive_markers": "Extremely high luminance noise and film grain across the entire image sensor field, obscuring fine-scale skin texture."
+}

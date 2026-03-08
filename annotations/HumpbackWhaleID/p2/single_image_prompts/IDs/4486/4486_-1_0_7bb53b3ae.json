@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low intensity dominant; estimated 95% low-intensity (dark grey/black) to 5% high-intensity (white/light grey) pixels across the ventral surface.",
+    "spatial_color_mapping": "Uniformly dark ventral surface with isolated high-intensity clusters at the distal tips (barnacle colonies) and discrete high-intensity focal points (scars) distributed across the mid-lobe regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression; central angle approximately 35 degrees with a vertical depth of approximately 12% relative to the maximum vertical lobe height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations present along the entire continuous boundary; notable pixel-amplitude increase (irregular notches) on the inner trailing edges of both the left and right lobes.",
+    "lobe_sweep_trajectory": "Convex curvature along the trailing edge from the median notch to the distal tips, terminating in sharp, slightly upward-curving points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast pixel clusters consistent with barnacle growth at both distal tips; individual circular high-intensity scars visible at coordinates corresponding to the left mid-lobe and right mid-lobe.",
+    "linear_abrasions": "Distinct near-vertical high-intensity linear mark on the right lobe; several faint, shorter horizontal linear marks on the left lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Prominent linear rake-style scar on the right lobe; multiple circular scarring marks; significant calcified clusters at terminal tips.",
+  "other_distinctive_markers": null
+}

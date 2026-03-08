@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) background with localized high-intensity (white/light-grey) point-source distributions; estimated pixel ratio of 96:4 black-to-white.",
+    "spatial_color_mapping": "Solid black pigmentation across the continuous fluke surface. High-contrast white geometric blobs (barnacles and scars) are distributed as discrete point-sources, with high density on the distal lobe tips and sparse distribution across the medial and lateral regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped notch with an approximate pixel angle of 52 degrees, extending to a depth of roughly 12% of the visible vertical fluke axis.",
+    "edge_topography_serration_map": "High-frequency serration along the continuous trailing edge. Medial portion of the left lobe displays sharp triangular peaks (10-15 pixels height), while the right lobe trailing edge exhibits coarser, irregular valleys and peaks (5-25 pixels height) toward the distal end.",
+    "lobe_sweep_trajectory": "Asymmetrical sweep; the left lobe follows a steep upward-diagonal vector with a convex trailing curve, while the right lobe displays a more horizontal trajectory with a rounded, convex distal margin."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, irregular clusters of high-contrast white pixels located at the extreme distal tips of both lobes. Scattered individual circular white pixel clusters (5-12 pixel diameter) are present across both the left and right ventral surfaces.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization at the distal tips forming textured, protruding white/grey masses. Presence of multiple light-grey circular ring-shaped marks across the surface of the right lobe, characteristic of previous parasite or barnacle attachment sites.",
+  "other_distinctive_markers": "Pronounced concentration of white circular ring scars on the mid-to-outer region of the right lobe, distinct from the solid black background pigmentation."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Asymmetric intensity; left lobe is approximately 85% low-intensity black, while the right lobe presents a high-contrast mix of approximately 60% high-intensity white and 40% low-intensity black spotting.",
+    "spatial_color_mapping": "Left lobe contains a dominant black field with sparse white mottling along the distal trailing edge. Right lobe features a high-intensity white substrate populated by dense, non-contiguous black circular and elliptical blobs (mottling) concentrated in the medial and distal regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped indentation with a calculated angle of approximately 55 degrees and a moderate bounding-box depth relative to the lobe width.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern. Left lobe trailing edge exhibits small, jagged peaks (3-7 pixel amplitude). Right lobe shows more pronounced, irregular undulations and a significant step-down notch near the lateral tip.",
+    "lobe_sweep_trajectory": "Concave curvature along the medial trailing edge transitioning into a convex sweep towards the distal lateral tips on both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized cluster of high-contrast, raised tan/white circular structures (barnacle colonization) localized on the far-left lateral tip.",
+    "linear_abrasions": "Presence of multiple vertical and diagonal light-grey linear streaks (rake marks) cutting across the low-intensity black field of the central-left lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent barnacle clusters on the left fluke tip; irregular missing tissue/indentation on the extreme right lateral trailing edge.",
+  "other_distinctive_markers": "Highly unique high-density 'dalmatian' spotting pattern localized exclusively to the right lobe's white field."
+}

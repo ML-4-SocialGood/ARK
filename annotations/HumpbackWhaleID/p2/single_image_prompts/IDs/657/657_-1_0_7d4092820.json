@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low macro-level ratio; surface is dominated by uniform low-intensity (dark) pixels with negligible high-intensity variance across the visible plane.",
+    "spatial_color_mapping": "Uniform dark pigmentation across the visible ventral surface; no contiguous high-contrast mottling or geometric blobs detected within the primary lobe area."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped central depression with a vertex angle of approximately 75-85 degrees; high vertical-to-horizontal bounding box depth.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude irregular serration (5-10 pixel variance) distributed continuously along the linear boundary of both trailing lobes.",
+    "lobe_sweep_trajectory": "Symmetrical convex curvature on the leading edges and tapering concave curves along the trailing edges converging at the median notch vertex."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Focal clusters of high-intensity white pixels localized at the distal tips of both left and right lobes, corresponding to terminal barnacle colonization.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Visible calcified clusters (barnacles) at the terminal extremities of both lobes; no major amputations or traumatic lesions detected in the current resolution.",
+  "other_distinctive_markers": null
+}

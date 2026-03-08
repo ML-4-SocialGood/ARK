@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 2:3 ratio of high-intensity white (distal lobes) to low-intensity black (central and proximal regions).",
+    "spatial_color_mapping": "Dominant black pigment radiating from the central peduncle across the inner 50% of lobe surface area; high-intensity white contiguous zones on the distal 50% of both lobes with high-contrast, irregular terminal boundaries."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a pixel angle of approximately 50-60 degrees and a significant depth relative to the lobe width.",
+    "edge_topography_serration_map": "High-frequency, non-uniform serration pattern across the entire trailing edge; primary peaks identified on the distal right lobe edge with amplitudes of approximately 8-12 pixels.",
+    "lobe_sweep_trajectory": "Concave curvature on the trailing edge sweeping from the distal tips toward the central notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of roughly circular high-intensity pixel groups (barnacles) localized on the extreme terminal tips of the left and right lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Heavy biological encrustation and structural irregularities on the far lateral margins of both fluke lobes.",
+  "other_distinctive_markers": "Multiple high-intensity white punctate spots (1-3 pixel diameter) distributed across the dark central peduncle and lower lobe areas."
+}

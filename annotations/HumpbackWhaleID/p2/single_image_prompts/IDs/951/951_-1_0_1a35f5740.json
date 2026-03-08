@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low overall ratio; approximately 90% low-intensity (black/dark grey) pixels with sparse <10% high-intensity (white/tan) pixel clusters at distal boundaries.",
+    "spatial_color_mapping": "Dominant low-intensity black field across central and proximal fluke surfaces; high-intensity contiguous clusters mapped exclusively to the extreme distal tips; diffuse medium-intensity grey mottling visible across the right interior lobe surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow U-shaped depression with an approximate pixel angle of 145 degrees; notch depth is approximately 12-15% of the visible fluke height.",
+    "edge_topography_serration_map": "Trailing edge exhibits low-amplitude serrations (2-5 pixel deviations) along the main lobes; high-amplitude jagged variations (10-20 pixel deviations) at the extreme tips caused by external biological clusters.",
+    "lobe_sweep_trajectory": "Concave trailing edge curve on both lobes, transitioning to an acute convex curve at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Two high-contrast, roughly circular cluster constellations of white/tan pixels located at the far left and far right terminal tips.",
+    "linear_abrasions": "Three distinct, parallel diagonal linear disruptions (rake marks) on the left lobe surface, oriented approximately 45 degrees relative to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle encrustations on distal tips; clear linear rake marks on the left fluke lobe.",
+  "other_distinctive_markers": "Asymmetrical jaggedness of the right distal tip compared to the left due to more dense barnacle colonization."
+}

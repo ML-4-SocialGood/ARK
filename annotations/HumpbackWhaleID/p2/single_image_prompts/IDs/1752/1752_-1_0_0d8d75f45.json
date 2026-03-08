@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white dominance on the distal lobes (~70%) contrasted against a low-intensity black central region and peripheral borders (~30%).",
+    "spatial_color_mapping": "Large contiguous high-intensity white regions on both lateral lobes. Low-intensity black pixels form a central triangular mass at the peduncle and extend along the trailing edge. Distinct circular low-intensity clusters are distributed throughout the white regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression; central notch exhibits a sharp angle of approximately 70-80 degrees relative to the horizontal lobe axis.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern. Multiple distinct peaks and valleys ranging from 5-20 pixels in amplitude, particularly prominent on the outer thirds of both lobes.",
+    "lobe_sweep_trajectory": "Convex curve along the trailing edge, sweeping upward and outward toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Extensive spatial distribution of circular dark-ringed clusters (scars) across the white surface of both lobes, varying in diameter from 5 to 25 pixels.",
+    "linear_abrasions": "Several unaligned, low-intensity linear streaks; notable diagonal mark crossing the mid-right lobe and multiple shorter vertical marks on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant textured, high-intensity calcified clusters (barnacles) localized on the extreme distal tips of both the left and right lobes.",
+  "other_distinctive_markers": "Pixel disruption caused by water spray and droplets along the lower boundary where the fluke meets the water surface."
+}

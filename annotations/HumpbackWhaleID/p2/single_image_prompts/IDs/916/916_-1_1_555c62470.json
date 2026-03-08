@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70:30 ratio of high-intensity (white/light grey) to low-intensity (dark grey/black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant high-intensity (white) field across the left lobe (coordinates 0.1-0.4x); distinct dark vertical banding and mottling on the right lobe (coordinates 0.6-0.8x); dark pigmentation concentrated along the trailing edge perimeter."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped depression with a calculated internal angle of approximately 115 degrees and a shallow bounding-box penetration depth.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (2-5 pixel depth) detected along the continuous trailing edge boundary of both lobes.",
+    "lobe_sweep_trajectory": "Convex curvature fitted to the outer edges, tapering from the central notch toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple high-contrast circular white pixel clusters (barnacle scars) detected across the central regions of both the left and right lobes.",
+    "linear_abrasions": "Faint, unaligned vertical linear disruptions (rake marks) observed intersecting the dark pigmentation band on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive circular scarring (rosettes) from barnacle colonization; irregular micro-chipping visible on the distal tips of both fluke lobes.",
+  "other_distinctive_markers": "A highly localized, high-contrast dark vertical stroke-like mark situated in the mid-section of the right fluke lobe."
+}

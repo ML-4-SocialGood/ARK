@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 70% high-intensity white central pixels and 30% low-intensity black pixels located along the peripheral borders and central base.",
+    "spatial_color_mapping": "Contiguous high-intensity white regions occupy the central areas of both lobes. Low-intensity black pigmentation forms a solid band along the lateral and trailing edges. A distinct dark circular focal point is located on the inner-lower region of the right lobe (image right). Dark mottling is present near the median notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a narrow pixel-angle at the vertex and high vertical depth relative to the horizontal span of the lobes.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations visible along the entire trailing edge of both lobes, characterized by small, sharp peaks and shallow valleys.",
+    "lobe_sweep_trajectory": "Strongly convex curvature extending from the median notch to the distal tips on both the left and right lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "A prominent dark circular pixel cluster is located on the interior white surface of the right lobe. Smaller dark clusters are visible at the distal tips.",
+    "linear_abrasions": "A distinct dark linear pixel disruption (scratch) is visible on the right lobe, oriented diagonally from the trailing edge towards the central part of the fluke lobe."
+  },
+  "acquired_anomalies_or_scars": "Detection of a localized, high-texture reddish-brown cluster of biological material (likely ectoparasites) attached to the distal tip of the left lobe.",
+  "other_distinctive_markers": "The presence of a prominent reddish biological colony on the left tip serves as a unique visual identifier."
+}

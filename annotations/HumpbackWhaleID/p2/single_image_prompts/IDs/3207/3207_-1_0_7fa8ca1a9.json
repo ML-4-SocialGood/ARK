@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Near-zero macro-level ratio; the visible ventral surface is dominated by low-intensity black pixels with negligible high-intensity white pixel coverage limited to distal tips and sparse micro-spots.",
+    "spatial_color_mapping": "Primary surface is a continuous, low-intensity black region. Sparse, high-contrast white pixels (1-3 pixel diameter) are non-contiguously distributed across the central and leading-edge areas without forming macro-geometric patterns."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Approximate 90-degree V-shaped central depression; vertex is well-defined with a depth occupying approximately 12% of the vertical fluke profile.",
+    "edge_topography_serration_map": "Asymmetrical serration frequency; the right lobe trailing edge exhibits higher-amplitude pixel variations (jagged peaks) compared to the relatively smoother, lower-frequency variations on the left lobe trailing edge.",
+    "lobe_sweep_trajectory": "Convex curve following the trailing edge from the median notch, transitioning to a slight concavity at the lateral distal terminals."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-intensity (white) pixel clusters localized at the extreme lateral tips of both lobes; secondary micro-clusters are detectable along the lower leading-edge perimeter.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Prominent high-contrast white scarring or colonization marks at the terminal distal points of both the left and right fluke lobes.",
+  "other_distinctive_markers": null
+}

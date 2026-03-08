@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixels with localized high-intensity (white) clusters at the lateral margins; estimated macro-ratio is approximately 12:1 low-to-high intensity.",
+    "spatial_color_mapping": "High-contrast white mottling concentrated on the distal portion of the left lobe (approximate coordinates relative to lobe: outer 15%); scattered white punctate spots (1-5 pixel diameter) distributed across the central and right lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped depression at approximately 65 degrees; depth is deep relative to the lobe width.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge; pixel-amplitude of peaks varies between 5-15 pixels from the mean edge boundary; serration is most jagged at the lateral tips.",
+    "lobe_sweep_trajectory": "Convex curvature along the lateral edges transitioning to a concave-dominant sweep towards the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of circular, high-contrast tan/white pixel groups (barnacle colonies) localized heavily along the entire trailing edge and lateral tips.",
+    "linear_abrasions": "Distinct white, unaligned linear pixel disruptions (rake marks) visible on the left lobe surface, oriented diagonally towards the notch."
+  },
+  "acquired_anomalies_or_scars": "Extensive peripheral infestation of barnacle colonies resulting in a physically altered, jagged trailing edge profile; multiple linear rake marks on the left lobe surface.",
+  "other_distinctive_markers": "Presence of active water shedding/spray pixels near the fluke base at the water-line interface."
+}

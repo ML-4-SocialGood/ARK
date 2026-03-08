@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Visible surface presents a high-contrast bimodal distribution; ratio of high-intensity white (approx. intensity >200) to low-intensity black (approx. intensity <50) pixels is approximately 0.45:1.",
+    "spatial_color_mapping": "Two large high-intensity white contiguous segments located on distal lobes; transition from central low-intensity black to distal white is characterized by high-frequency stippling and mottling; distinct tan-hued pixel cluster observed on left lobe upper-mid quadrant; several dark focal spots embedded in white distal regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped indentation; vertex angle measured at approximately 38 degrees; depth is significant, extending approximately 20% of the visible fluke height.",
+    "edge_topography_serration_map": "Continuous serrated boundary; right lobe distal portion shows 3-4 distinct notches of depth exceeding 5 pixels; left lobe maintains a more consistent micro-serration pattern across the trailing edge.",
+    "lobe_sweep_trajectory": "Lobe trailing edges follow a convex parabolic curve from the median notch to the sharp distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Scattered low-intensity circular clusters (3-5 pixels diameter) detected within the white regions of both lobes, particularly near the stippled transition zones.",
+    "linear_abrasions": "Four distinct horizontal/diagonal dark line segments (ranging 15-30 pixels in length) present on the right lobe's white surface."
+  },
+  "acquired_anomalies_or_scars": "Significant non-monochromatic tan/ochre staining on the left lobe white region; irregular jagged indentation and structural loss at the extreme tip of the right lobe.",
+  "other_distinctive_markers": "The localized chromatic shift to tan on the left lobe is a highly unique visual marker not consistent with standard grayscale pigmentation."
+}

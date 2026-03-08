@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio; approximately 60% high-intensity pixels (lateral lobes) to 40% low-intensity pixels (central fluke and trailing edge boundary).",
+    "spatial_color_mapping": "Central low-intensity zone extends from the peduncle to the trailing edge. High-intensity lateral lobes exhibit asymmetric dark mottling; the left lobe shows higher density of low-intensity spots compared to the right lobe. A continuous low-intensity band follows the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations present along the entire visible trailing edge; pixel deviations estimated between 2-8 pixels from the mean edge trajectory.",
+    "lobe_sweep_trajectory": "Convex leading edge; trailing edge displays a sigmoidal curve with inner concavity transitioning to outer convexity at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct dark, circular pixel clusters located at the extreme lateral tips of both fluke lobes.",
+    "linear_abrasions": "Parallel, low-intensity linear streaks (rake marks) are visible on the high-intensity region of the left lobe."
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

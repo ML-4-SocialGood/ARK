@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity black pixels across the central 80% of the fluke, with high-intensity white pixel clusters isolated to the distal 10% of each lobe extremity.",
+    "spatial_color_mapping": "Left distal lobe: Contiguous white pigmentation block from edge to interior with internal black punctate flecks. Right distal lobe: Diffuse white mottling with five distinct dark linear streaks extending vertically from the inferior margin."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped depression with a pixel angle of approximately 65 degrees and a deep bounding-box recession relative to the lobe peaks.",
+    "edge_topography_serration_map": "High-frequency micro-serrations along the entire trailing edge. Notable high-amplitude irregular indentation (approx. 20 pixels deep) located mid-length on the trailing edge of the right lobe.",
+    "lobe_sweep_trajectory": "Strongly convex proximal edges transitioning to a slight concavity just before reaching the pointed distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed clusters of raised, textured, circular high-contrast pixel groups (barnacle colonies) located at the extreme dorsal-lateral tips of both lobes.",
+    "linear_abrasions": "Two distinct horizontal linear pixel disruptions (rake marks) visible on the lower-left central portion of the fluke surface."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular notch or traumatic indentation on the trailing edge of the right lobe, approximately equidistant between the median notch and the tip.",
+  "other_distinctive_markers": "Unique vertical dark pigmentation 'finger' patterns isolated within the high-intensity white field of the right lobe tip."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.15:1 ratio of high-intensity white/grey pixels to low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant black contiguous region covering approximately 85% of the visible fluke. High-intensity white/grey mottling is concentrated on the distal half of the right lobe. Distinct white clusters are mapped to the extreme lateral tips of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated interior angle of approximately 85 degrees and significant depth relative to the fluke width.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the entire trailing edge boundary, featuring irregular peaks and valleys with a pixel amplitude ranging from 3 to 10 pixels.",
+    "lobe_sweep_trajectory": "Mathematical curve shows a smooth concave sweep from the median notch toward the distal tips, ending in sharp convex points at the lateral extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense spatial clusters of high-contrast white circular pixel groups (barnacles) localized primarily on the leading and distal edges of both lobes.",
+    "linear_abrasions": "null"
+  },
+  "acquired_anomalies_or_scars": "Extensive peripheral barnacle colonization (Coronula diadema) on the fluke tips and irregular trailing edge notches indicating minor tissue loss.",
+  "other_distinctive_markers": "A singular, high-intensity white focal spot is visible in the lower-medial region of the left lobe."
+}

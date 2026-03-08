@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65% high-intensity white/cream pixels to 35% low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Primary high-intensity zones occupy the central and distal-inner regions of both lobes. Low-intensity black pigmentation forms a continuous boundary along the entire trailing edge and extends inward from the median notch. Secondary low-intensity mapping includes coarse mottling at the pigment transition zones and solid black coverage of the fluke tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A deep, narrow U-shaped depression with a measured pixel angle of approximately 48 degrees and a bounding-box depth extending roughly 12% into the fluke's vertical axis.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern. Pixel-amplitude variations are most pronounced on the outer thirds of both lobes, featuring jagged peaks of 5-15 pixels. The inner trailing edge towards the notch exhibits lower-amplitude, more rounded peaks.",
+    "lobe_sweep_trajectory": "The trailing edge follows a generally concave trajectory from the median notch to the tips, while the leading edge (partially visible) exhibits a strong convex curve, resulting in tapered, posteriorly-oriented tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast white circular pixel clusters (barnacle scars) are prominent on the black leading edge of the right tip and scattered along the black trailing edge margin of the right lobe.",
+    "linear_abrasions": "Distinct dark-pixel linear disruptions (rake marks) are visible on the high-intensity field of the right lobe, including one prominent near-vertical mark roughly parallel to the outer edge."
+  },
+  "acquired_anomalies_or_scars": "Multiple barnacle colonization scars on the distal edges; vertical rake marks on the right lobe; irregular trailing edge notches likely representing minor past trauma.",
+  "other_distinctive_markers": "Significant yellowish-brown pixel distribution (diatom film) overlaying the white pigment on the inner sections of both lobes."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark-gray) with localized high-intensity (white) regions. Approximate pixel ratio of 1:7 high-intensity to low-intensity across the visible surface.",
+    "spatial_color_mapping": "Large contiguous white wedge-shaped region on the inner right lobe extending from the notch towards the center; small isolated high-intensity pixel clusters at the distal right tip; left lobe is a near-uniform low-intensity field with negligible mottling."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a calculated internal angle of approximately 82 degrees and deep vertical penetration into the fluke body.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude jagged serrations detected along the entire trailing edge, with the greatest peak-to-valley pixel variance occurring at the distal right extremity.",
+    "lobe_sweep_trajectory": "Bi-concave sweep from the notch transitioning to a steep convex curve towards the terminal points; right lobe tip shows a more vertical terminal sweep than the left."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Two distinct high-contrast white circular ring formations (approximately 10-15 pixels in diameter) located on the upper-most edge of the distal right lobe tip.",
+    "linear_abrasions": "Detection of multiple diagonal light-gray linear pixel disruptions on the inner right lobe surface, oriented toward the median notch."
+  },
+  "acquired_anomalies_or_scars": "Irregular jagged loss of trailing edge continuity at the distal right tip; presence of circular high-contrast lesions/scars at the right lobe terminal margin.",
+  "other_distinctive_markers": "A unique paired-ring high-contrast formation on the extreme lateral edge of the right lobe, appearing as two adjacent white circles."
+}

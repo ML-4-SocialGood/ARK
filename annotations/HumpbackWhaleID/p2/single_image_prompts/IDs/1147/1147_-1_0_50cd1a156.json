@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixel distribution across the main body with high-intensity (white) clusters at the distal tips; macro-level ratio estimated at 85:15.",
+    "spatial_color_mapping": "Contiguous low-intensity central region spanning from peduncle to notch. High-intensity pixels are clustered at the lateral distal tips, specifically exhibiting a vertical striated pattern on the right lobe tip and a mottled cluster on the left lobe tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated pixel angle of approximately 55 degrees; depth is significant, extending roughly 12% into the fluke vertical height.",
+    "edge_topography_serration_map": "Highly irregular and serrated boundary. Left lobe trailing edge exhibits two distinct deep pixel voids (notches) at the upper margin. Right lobe shows high-frequency, low-amplitude serrations along the primary boundary.",
+    "lobe_sweep_trajectory": "The trajectory follows a strong concave curve originating from the median notch, transitioning to a sharp convex curve at the distal-lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Visible constellation of approximately 3-4 circular high-intensity pixel clusters located in the central medial region near the notch apex.",
+    "linear_abrasions": "Extensive network of fine, multi-directional high-intensity linear disruptions (rake marks) mapped across both lobes, with highest density on the central-right ventral surface."
+  },
+  "acquired_anomalies_or_scars": "Major structural loss of tissue on the upper-left trailing edge, manifesting as two large, irregular U-shaped indentations in the pixel contour.",
+  "other_distinctive_markers": "Unique vertical high-intensity banding pattern located on the extreme right distal tip, distinct from the random mottling on the left lobe."
+}

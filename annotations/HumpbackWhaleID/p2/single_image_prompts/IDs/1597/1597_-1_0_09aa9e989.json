@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast; dominated by low-intensity black pixels with sharp, localized high-intensity white pixel distributions accounting for approximately 15% of the total fluke surface area.",
+    "spatial_color_mapping": "Black contiguous base layer; white linear vectors of varying lengths and orientations across both lobes; dense white circular pixel clusters concentrated at the terminal distal points of the fluke lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped bifurcation; vertex angle approximately 55 degrees; depth is roughly 15% of the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "Low-frequency, low-amplitude serrations along the trailing edge; predominantly smooth with localized pixel-level jaggedness near the median notch and distal tips.",
+    "lobe_sweep_trajectory": "Convex upward curvature on both lobes, extending from the median notch to the outer tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Discrete clusters of circular white pixel groups localized on the outer 10% of the fluke's lateral span, primarily at the distal tips.",
+    "linear_abrasions": "High-density of high-contrast white linear pixel paths of varying lengths; varied orientations (diagonal and horizontal); distributed across the entire visible ventral surface."
+  },
+  "acquired_anomalies_or_scars": "Extensive network of linear white scarring and circular barnacle clusters localized on the distal lobe tips.",
+  "other_distinctive_markers": null
+}

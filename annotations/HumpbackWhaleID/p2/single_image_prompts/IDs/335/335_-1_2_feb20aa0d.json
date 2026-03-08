@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 75% high-intensity (white) pixels across both lateral lobes and 25% low-intensity (black) pixels concentrated at the peduncle junction and trailing edge margins.",
+    "spatial_color_mapping": "Centralized low-intensity (black) anchor-shaped blob extending from the base; broad high-intensity (white) contiguous lobes; dense low-intensity (black) marginal border along the trailing edge; numerous isolated low-intensity linear and focal streaks distributed non-uniformly across the white surfaces."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated angle of approximately 50 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with varying amplitudes; prominent jagged peaks (10-15 pixels depth) along the inner trailing edge, smoothing towards the distal tips.",
+    "lobe_sweep_trajectory": "Concave curvature along the medial trailing edge transitioning to convex towards the distal tips; leading edge (partially visible) suggests a broad convex sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of small, circular low-intensity spots located at the distal tip of the right lobe and along the upper trailing edge margins.",
+    "linear_abrasions": "Numerous unaligned diagonal and vertical low-intensity linear marks; a prominent set of roughly parallel vertical 'rake' marks is visible on the inner medial section of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive scarring and linear rake marks across the ventral surface; irregular notches and tissue loss along the trailing edge topography.",
+  "other_distinctive_markers": "A specific high-contrast cluster of dark focal points located near the terminal end of the right lobe tip."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:5 ratio of high-intensity (white) pixels to low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant high-intensity contiguous blobs are localized at the distal tips of both lobes. The left tip features a large, mottled white region with irregular boundaries. The right tip displays a smaller, denser white patch. The remainder of the surface consists of a low-intensity black background with scattered high-intensity focal points."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central notch with an internal angle of approximately 65 degrees; notch depth occupies roughly 30% of the vertical fluke profile.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the entire trailing boundary. Extracted edge contains non-uniform peaks and valleys with pixel amplitudes ranging from 5 to 25 pixels, isolated clearly against the water background.",
+    "lobe_sweep_trajectory": "Bi-lateral concave mathematical curves extending from the outer tips toward the central notch apex."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "A distinct cluster of circular, high-contrast white pixel clusters is located at the extreme margin of the right distal tip. Smaller, isolated circular points are detected in the medial region of the right lobe.",
+    "linear_abrasions": "Prominent vertical high-intensity linear disruption on the left lobe adjacent to the notch. Multiple intersecting and parallel diagonal linear scratches are mapped across the lower quadrant of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Multiple sets of parallel linear rake marks across both lobes; a significant cluster of white, raised-texture scarring/parasitic colonization on the far right margin.",
+  "other_distinctive_markers": "Highly unique elongated vertical white scar on the interior left lobe and a dense 'patchwork' of diagonal abrasions on the lower right lobe."
+}

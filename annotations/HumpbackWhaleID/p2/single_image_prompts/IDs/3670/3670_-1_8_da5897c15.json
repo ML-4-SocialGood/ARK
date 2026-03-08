@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Skewed heavily toward low-intensity pixels (black); approximately 3-5% high-intensity pixels localized at the distal tips and water droplets vs 95-97% dark pigmentation.",
+    "spatial_color_mapping": "Uniformly dark pigmentation (low-intensity) across the majority of both lobes; high-contrast contiguous clusters (white/beige) concentrated at the distal tips of both lobes; scattered high-intensity pixel noise across the surface due to water droplets."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped median notch with an estimated internal angle of 50-60 degrees; depth ratio of approximately 1:6 relative to total lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations (sawtooth pattern) along the trailing edge of the left lobe; visible amplitudes of 10-30 pixels; right lobe edge partially submerged but showing similar irregular topography.",
+    "lobe_sweep_trajectory": "Strong convex curve along the lateral margins of both lobes, tapering sharply toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of roughly circular, high-contrast pixel formations (barnacles) localized at the extreme distal tips of both the left and right fluke lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization on the distal tips appearing as textured, high-contrast calcified masses.",
+  "other_distinctive_markers": "Presence of a transient water-droplet layer creating a high-intensity 'speckle' effect across the central and lower ventral surface."
+}

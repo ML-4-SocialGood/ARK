@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution. Visible high-intensity (white) pixels occupy approximately 35% of the surface area, concentrated on distal lateral lobes. Low-intensity (black) pixels occupy approximately 65% of the visible surface, primarily in the central and basal regions.",
+    "spatial_color_mapping": "Two primary high-intensity white patches are located at the lateral extremities. The left patch begins at approximately 60% lateral distance from the center and extends to the tip. The right patch begins at approximately 75% lateral distance from the center and extends to the tip. These patches are bordered by a high-frequency mottled transition zone of black pixels. The remainder of the fluke is solid black."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Well-defined V-shaped depression with an approximate interior angle of 80 degrees. The notch apex is sharp and clearly delineated against the water surface background.",
+    "edge_topography_serration_map": "Moderate-frequency serrations present along the full extent of the trailing edge. Distinct irregular peaks and valleys are visible, with a notable increase in serration amplitude on the inner margin of the right lobe. The boundary between the fluke and background water is sharp, allowing for high-resolution edge extraction.",
+    "lobe_sweep_trajectory": "The leading edges follow a smooth, convex curve toward the tips. The trailing edges exhibit a slight sigmoidal curve: concave near the median notch and transitioning to a broad convex sweep towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast textured clusters of brown, tan, and white pixels are detected at the extreme distal tips of both lobes, consistent with barnacle colonization. Smaller, isolated white circular spots (possible previous attachment sites) are visible in the black-pigmented region of the lower right lobe.",
+    "linear_abrasions": "Detection of multiple vertical, low-contrast linear disruptions (rake marks) within the black pigmentation of the lower right lobe. Fine, unaligned horizontal scratches are visible within the white pigmentation of the distal left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant physical accumulation of barnacle clusters on the tips of both fluke lobes. Visible irregular indentations and notches along the trailing edge of the right lobe, indicating historical tissue loss or trauma.",
+  "other_distinctive_markers": "Highly unique 'salt-and-pepper' mottling pattern where the black pigmentation merges into the white distal patches, creating a distinct fingerprint-like transition zone."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark grey to black) across approximately 95% of the visible surface, with high-intensity (white) highlights concentrated at the distal tips and scattered in micro-punctate spots.",
+    "spatial_color_mapping": "High-contrast white contiguous regions located at the extreme left and right distal tips. A cluster of small, high-contrast white circular spots is mapped across the medial and distal sections of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible V-shaped central depression with an approximate pixel angle of 90 degrees.",
+    "edge_topography_serration_map": "Continuous serrated boundary with irregular peak-to-valley amplitudes; higher frequency of serration detected on the outer edges of both lobes, transitioning to a smoother profile near the median notch.",
+    "lobe_sweep_trajectory": "Convex curve fitted to the trailing edges of both lobes, tapering to acute angles at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple discrete white pixel clusters (2-5 pixels in diameter) observed primarily on the right lobe, corresponding to barnacle attachment points or scars.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Irregular, high-intensity white clustering and textural deformation at the right distal tip.",
+  "other_distinctive_markers": "Pronounced asymmetry in pixel speckling, with the right lobe displaying a significantly higher density of white punctate markings compared to the predominantly dark left lobe."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Highly skewed toward low-intensity values; estimated macro-level ratio of 98:2 (low-intensity to high-intensity) based on dominant dark pigmentation vs. localized linear scars.",
+    "spatial_color_mapping": "Dominant contiguous low-intensity region covering >95% of visible surface area; high-intensity pixel clusters are limited to thin, linear configurations on the right lobe surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated shallow U-shaped depression with an interior angle of approximately 128 degrees at the axial intersection of the fluke lobes.",
+    "edge_topography_serration_map": "Continuous irregular serration pattern along both lobes; amplitude varies between 2 and 8 pixels with higher frequency of peaks observed on the distal half of the right lobe.",
+    "lobe_sweep_trajectory": "Symmetrical convex curves extending from the median notch to the distal tips, showing a gradual tapering of the lobar width."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": "Two distinct, high-contrast linear pixel disruptions on the right lobe, oriented near-perpendicular to the trailing edge, approximately at coordinates (0.7x, 0.4y) relative to the fluke bounding box."
+  },
+  "acquired_anomalies_or_scars": "Multiple high-intensity linear abrasions/scars present on the right fluke lobe; irregular, deep-set serrations on the trailing edge indicative of physical material loss.",
+  "other_distinctive_markers": null
+}

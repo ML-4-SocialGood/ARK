@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low high-intensity to low-intensity ratio; the visible ventral surface is approximately 98% low-intensity (black) pixels with sparse high-intensity (white) pixel clusters representing less than 2% of the total surface area.",
+    "spatial_color_mapping": "The surface presents as a near-uniform dark contiguous region. Mapping reveals no macro-scale geometric blobs; spatial distribution is limited to micro-scale, non-contiguous high-intensity flecks scattered across the medial and distal regions of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped median notch with a calculated interior pixel angle of approximately 72 degrees and a bounding-box depth extending significantly into the fluke base.",
+    "edge_topography_serration_map": "High-frequency, moderate-amplitude serration pattern detected along the entire trailing edge boundary. Significant jagged pixel-peaks are observed on the distal halves of both lobes, creating a non-linear boundary against the background high-intensity water pixels.",
+    "lobe_sweep_trajectory": "Concave sweep trajectory observed along the trailing edges, transitioning from the median notch to the distal tips, with a slight convex curvature at the extreme outer edges of the lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast circular pixel clusters detected at the distal tips of both lobes, particularly on the left lobe's upper corner and along the lower trailing edge of the right lobe.",
+    "linear_abrasions": "Multiple vertically-aligned and oblique high-intensity linear tracks (rake marks) detected on the right lobe; one prominent vertical linear disruption is visible in the medial region of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent white linear rake marks on the right lobe; irregular, ragged pixel-contour at the tip of the left lobe suggests minor structural loss or past trauma.",
+  "other_distinctive_markers": "Predominantly solid dark pigmentation (Type 1 classification equivalent) with minimal white mottling, providing a high-contrast boundary against the bright horizon background."
+}

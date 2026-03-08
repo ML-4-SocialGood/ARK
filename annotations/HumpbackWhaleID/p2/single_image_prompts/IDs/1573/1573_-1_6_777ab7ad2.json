@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 60:40 ratio of high-intensity white pixels to low-intensity black/dark-grey pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant white contiguous regions occupy the outer lateral lobes. A central black pigmentation region extends from the peduncle attachment to the median notch. A continuous, irregular black border of varying thickness (10-30 pixels) follows the trailing edge. A distinct circular black focal spot is located in the upper-mid region of the left lobe's white field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped central depression with a calculated internal angle of approximately 38 degrees relative to the lobe peaks.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations (peaks and valleys) along the entire trailing edge; amplitude of serrations increases significantly toward the distal tips, characterized by jagged pixel transitions.",
+    "lobe_sweep_trajectory": "Broadly symmetrical convex curve extending from the central peduncle to the lateral tips, with a slight recurve on the outer margins."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized cluster of high-intensity, raised circular pixel groups (white) at the far left tip, indicating sessile organism attachment sites.",
+    "linear_abrasions": "Multiple dark, unaligned linear pixel disruptions (rake marks) are visible: three parallel vertical marks on the lower left lobe and two shorter diagonal marks on the upper right lobe."
+  },
+  "acquired_anomalies_or_scars": "A notable irregular indentation or 'chunk' missing from the inner trailing edge of the left lobe immediately adjacent to the median notch.",
+  "other_distinctive_markers": "A singular, prominent dark circular spot situated in the upper-left quadrant of the white pigmentation field."
+}

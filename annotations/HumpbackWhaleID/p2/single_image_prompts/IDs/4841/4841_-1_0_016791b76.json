@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio of high-intensity pixels to low-intensity pixels; approximately 90% low-intensity (black/dark grey) and 10% high-intensity (white/light grey) across the visible ventral area.",
+    "spatial_color_mapping": "Dominant low-intensity black background with high-contrast contiguous white geometric blobs distributed as localized circular clusters in the central-median region and multi-directional linear streaks across both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, narrow V-shaped depression with an approximate internal pixel angle of 45-50 degrees; notch depth occupies roughly 15% of the total vertical fluke height in the 2D plane.",
+    "edge_topography_serration_map": "High-frequency, irregular jagged profile with peak-to-valley pixel amplitudes varying between 3 and 12 pixels; continuous serration present across the entire lateral extent of the trailing edge.",
+    "lobe_sweep_trajectory": "Strongly convex curvature on the interior lobe edges, tapering into a slightly concave sweep toward the distal tips (flukes-up position)."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular and elliptical high-contrast white pixel clusters (5-20 pixel diameters) scattered globally; high density of clusters located in the central region surrounding the median notch.",
+    "linear_abrasions": "Extensive network of white linear pixel disruptions; notable long diagonal streak on the lower-left lobe and a series of parallel vertical-to-oblique rake marks on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular pixel protrusions and 'frayed' texture on both distal tips, suggesting heavy barnacle colonization or prior physical trauma to the lobe extremities.",
+  "other_distinctive_markers": "Presence of three-dimensional, high-texture clusters (white/grey) extending beyond the anatomical trailing edge boundary at the lobe tips."
+}

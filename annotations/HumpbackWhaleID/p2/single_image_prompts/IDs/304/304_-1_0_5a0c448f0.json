@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution between a central low-intensity black region and two lateral high-intensity cream/white regions; approximately 45% high-intensity to 55% low-intensity pixels.",
+    "spatial_color_mapping": "Central low-intensity pigmentation forms a deep 'V' shape extending from the peduncle to the trailing edge. High-intensity contiguous regions occupy the central-lateral portions of both lobes. A distinct dark circular pixel cluster is located on the mid-section of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped median notch with an approximate 80-90 degree aperture angle at the vertex.",
+    "edge_topography_serration_map": "Moderate frequency of serration along the trailing edge; pixel-amplitude variations are most pronounced on the outer lateral thirds of each lobe, featuring irregular peaks and shallow valleys.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge from the median notch to the tips, with a convex sweep on the leading edge towards the distal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast, brownish-white pixel clusters (barnacle colonies) are visible at the distal tips of both fluke lobes. A single dark circular spot is detected on the ventral surface of the left lobe.",
+    "linear_abrasions": "Faint, dark linear pixel disruptions visible on the high-intensity region of the left lobe, oriented roughly horizontally."
+  },
+  "acquired_anomalies_or_scars": "Notable irregular notch/indentation on the left trailing edge; parasitic/barnacle colonization visible as physical texture on the extreme lateral tips.",
+  "other_distinctive_markers": null
+}

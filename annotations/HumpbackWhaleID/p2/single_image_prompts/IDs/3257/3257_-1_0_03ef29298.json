@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low; primary surface consists of low-intensity black pixels with high-intensity white pixel clusters covering approximately 8-10% of the surface area.",
+    "spatial_color_mapping": "Homogeneous black base with discrete, high-contrast white circular/rosette clusters (approx. 5-25 pixels in diameter) scattered across both lobes, increasing in density towards the distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped indentation with an estimated interior angle of 65 degrees; notch depth is well-defined and centrally located.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with varying pixel amplitudes (3-15 pixels) along the entire trailing boundary of both lobes, creating a continuous jagged profile.",
+    "lobe_sweep_trajectory": "Strong convex curve fitted from the medial notch to the distal tips, exhibiting a standard elliptical arc."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Widespread spatial distribution of circular white pixel clusters (barnacles/scarring) across both the left and right ventral lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive presence of barnacle-related rosette scars and active encrustation; heavy cluster of calcified organisms at the distal tips of both lobes.",
+  "other_distinctive_markers": null
+}

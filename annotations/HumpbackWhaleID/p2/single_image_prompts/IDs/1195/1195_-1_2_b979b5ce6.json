@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:3 ratio of high-intensity (white/light grey) pixels to low-intensity (black/dark grey) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "High-intensity white mottling located in a large vertical-oblique patch on the mid-left lobe and a broad, irregular cluster on the outer-third of the right lobe. Low-intensity black pixels dominate the central region (peduncle area) and the leading edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate internal pixel angle of 48 degrees; depth extends significantly into the fluke body from the trailing edge baseline.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the trailing edge of both lobes. Pixel amplitudes of individual peaks range from 4 to 12 pixels, with higher frequency visible on the right lobe inner margin.",
+    "lobe_sweep_trajectory": "Concave curve fitted to the outer lateral edges of the lobes, transitioning to a convex sweep toward the medial notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Concentrated clusters of high-contrast white calcified circular pixels (barnacle colonies) located on the distal tips of both the left and right lobes.",
+    "linear_abrasions": "Fine, unaligned white linear pixel tracks (rake marks) are detected across the lower-center and right lobe areas, intersecting the dark pigment."
+  },
+  "acquired_anomalies_or_scars": "Distinctive orange-brown pixel cluster (organic growth) located immediately to the right of the median notch; multiple white linear scars and localized depigmentation spots scattered across the ventral surface.",
+  "other_distinctive_markers": "Pronounced jagged indentation/missing tissue section on the trailing edge of the right lobe near the median notch."
+}

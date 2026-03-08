@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low macro-level contrast ratio; the visible ventral surface is approximately 95% low-intensity (black/dark grey) with less than 5% mid-to-high intensity pixels localized to small mottled patches and tip edges.",
+    "spatial_color_mapping": "Dominant dark pigmentation across both lobes. Distinct high-contrast dark circular and ovoid blobs are mapped to the distal half of the right lobe. Subtle, non-contiguous grey mottling is present in the medial and central fluke regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Centrally located V-shaped notch with an approximate vertex angle of 110 degrees and a shallow bounding-box depth relative to lobe width.",
+    "edge_topography_serration_map": "High-frequency, irregular serration pattern along the continuous trailing edge boundary. Significant pixel-amplitude variations (jagged peaks) are concentrated on the medial-to-distal section of the right lobe.",
+    "lobe_sweep_trajectory": "Trailing edge lobes follow a primarily linear trajectory with localized concavities at serration points; the leading edges exhibit a broad convex curvature toward the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple dark, roughly circular pixel clusters concentrated on the right lobe's distal region. A high-contrast white, textured cluster is visible on the extreme tip of the left lobe.",
+    "linear_abrasions": "Visible faint vertical linear pixel disruptions located on the medial portion of the right lobe surface, oriented perpendicular to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Notable irregular indentation on the trailing edge of the right lobe near the medial section. Textured, protruding anomalies visible on the distal tip of the left lobe.",
+  "other_distinctive_markers": "Highly unique, high-contrast textured growth or colonization located at the far left lateral tip, altering the geometric contour of the tip."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 65% high-intensity (white) pixels in the central lobe regions and 35% low-intensity (black/dark) pixels along the perimeter and peduncle connection.",
+    "spatial_color_mapping": "Large, contiguous white regions occupy the central areas of both lobes. The right lobe contains a distinct, dark cross-shaped (+) geometric pigmentation mark in the lower-central quadrant. Low-intensity black pigmentation forms a continuous border along the leading and trailing edges, with moderate mottling on the distal left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, symmetrical V-shaped depression with a calculated pixel angle of approximately 65 degrees and a high bounding-box depth relative to the fluke height.",
+    "edge_topography_serration_map": "The right lobe trailing edge exhibits high-amplitude, low-frequency serrations with three distinct primary peaks. The left lobe trailing edge displays medium-frequency, jagged serrations, partially occluded by water spray at the distal tip.",
+    "lobe_sweep_trajectory": "A strong convex curve follows the leading edge from the peduncle to the distal tips, which terminate in ragged, irregular points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of dark, circular pixel groupings (3-5 distinct spots) are visible within the white field of the left lobe, likely representing attachment points or scarring.",
+    "linear_abrasions": "Distinct dark intersecting linear marks forming a '+' shape on the right lobe; several fine, unaligned vertical linear pixel disruptions are visible on the mid-section of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent cross-shaped mark on the right lobe; both distal lobe tips appear ragged and eroded, indicating significant physical wear or previous trauma.",
+  "other_distinctive_markers": "The geometric '+' shaped dark pigmentation feature on the right ventral fluke surface is a highly unique identifying marker."
+}

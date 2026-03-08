@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast macro distribution with approximately 70% high-intensity (white) pixels and 30% low-intensity (black/dark-grey) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Dominant white contiguous region occupies the central 60% of the fluke area. High-contrast black margins delineate the entire trailing edge and lateral tips. A distinct vertical black column of low-intensity pixels extends from the median notch downward toward the fluke base, creating a bifurcated appearance in the central pigmentation field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a calculated wide angle of approximately 110-115 degrees; notch depth occupies approximately 12% of the total visible vertical fluke height.",
+    "edge_topography_serration_map": "Extensive high-frequency serration along the continuous trailing boundary; pixel-amplitude variations (peaks and valleys) are most pronounced on the right lobe (image-right) with irregular spacing ranging from 5 to 20 pixels.",
+    "lobe_sweep_trajectory": "Concave curve fitted to the upper boundary from the median notch to the mid-lobe, transitioning to a downward convex curve as the trailing edge terminates at the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatially clustered dark-pigmented circular spots (5-8 pixel diameter) localized on the white central field and more densely at the distal margins of both lobes.",
+    "linear_abrasions": "Faint vertical and diagonal linear pixel disruptions (low-contrast grey marks) detected on the inner quadrant of the left lobe (image-left)."
+  },
+  "acquired_anomalies_or_scars": "Notable irregular jagged contouring and deep indentations on the trailing edge of the right lobe tip (image-right), consistent with previous mechanical tissue loss.",
+  "other_distinctive_markers": "Unique black columnar pigmentation streak at the fluke's central axis which transitions into a mottled, spray-like pattern of dark pixels toward the base."
+}

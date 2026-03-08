@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.4:1 ratio of light pixels to dark pixels across the visible fluke surface.",
+    "spatial_color_mapping": "Large high-intensity (white/light grey) triangular region located in the proximal-left lobe extending toward the center. Distinct, roughly circular high-intensity patch occupying the distal tip of the right lobe. Low-intensity (black) pixels dominate the central span and trailing edge margins."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped angle of approximately 75 degrees with a significant bounding-box depth approximately 1/5th the vertical height of the visible lobe.",
+    "edge_topography_serration_map": "High-frequency and high-amplitude serrations. Notable large semicircular excision/indentation located on the inner-right trailing edge, adjacent to the median notch. Repetitive peak-valley variations along the left lobe trailing edge.",
+    "lobe_sweep_trajectory": "Left lobe trailing edge follows a concave trajectory. Right lobe trailing edge follows a convex curve leading to a rounded tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of white high-contrast spots localized at the far-left fluke tip and along the lower-left leading edge.",
+    "linear_abrasions": "Multiple dark, unaligned vertical linear marks detected within the light-intensity patch on the right lobe tip."
+  },
+  "acquired_anomalies_or_scars": "Extensive physical trauma indicated by deep, irregular notches and tissue loss along the trailing edge, particularly a secondary deep cleft to the right of the median notch.",
+  "other_distinctive_markers": "Highly unique dark pixel configuration within the light patch of the right lobe resembling a 'face' with two distinct 'eye' spots."
+}

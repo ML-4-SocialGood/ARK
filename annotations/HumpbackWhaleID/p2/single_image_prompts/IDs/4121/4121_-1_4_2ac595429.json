@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 75:25 ratio of low-intensity (black/dark grey) to high-intensity (white/off-white) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Dominant low-intensity pixels covering the distal regions and trailing edges. High-intensity contiguous blobs are concentrated in the interior proximal regions; the left lobe displays a large, irregular white patch extending from the inner leading edge to the mid-surface, while the right lobe shows vertical white banding adjacent to the notch and mottled spotting towards the tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with an approximate internal angle of 40 degrees; depth is approximately 15% of the visible vertical height of the fluke.",
+    "edge_topography_serration_map": "High-frequency irregular serration along the entire span. Multiple peaks (5-15 pixel amplitude) are visible. A significant U-shaped indentation is located on the right lobe trailing edge approximately two-thirds of the distance from the notch to the tip.",
+    "lobe_sweep_trajectory": "Sigmoidal curve characterized by distinct concavity near the median notch transitioning to a broad convex sweep towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-contrast white circular pixel groups (diameters 2-10 pixels) are detected against the dark background on the outer distal regions of both the left and right lobes.",
+    "linear_abrasions": "Fine vertical and diagonal high-intensity linear streaks are visible within the dark pigment on the lower inner section of the right lobe near the notch."
+  },
+  "acquired_anomalies_or_scars": "Extensive white mottling across the inner lobes suggests substantial surface scarring; the right lobe distal tip displays a jagged, non-uniform trailing edge indicating possible historical tissue loss.",
+  "other_distinctive_markers": "Base of the fluke (peduncle insertion) is obscured by high-intensity white-water turbulence and spray, preventing analysis of the lower-most pixels."
+}

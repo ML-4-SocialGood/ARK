@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.45:0.55 ratio of high-intensity white pixels (outer lobes) to low-intensity black pixels (central peduncle and medial regions).",
+    "spatial_color_mapping": "Dominant low-intensity black region forming a central Y-shape from the base to the notch; high-intensity white regions localized on the lateral lobes. Distinct circular low-intensity blobs (mottling) are concentrated on the right lateral lobe (x=70-90% range)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated vertex angle of approximately 52 degrees.",
+    "edge_topography_serration_map": "Continuous irregular serrations with high-frequency variations; peak-to-valley amplitudes range from 2 to 15 pixels, with the highest degree of jaggedness on the distal-lateral boundaries.",
+    "lobe_sweep_trajectory": "Symmetric upward convex curve originating from the median notch vertex and terminating at the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of ~25 circular high-contrast pixel rings (dark on white) primarily clustered on the right lateral lobe and ~8 on the left lateral lobe.",
+    "linear_abrasions": "Three distinct horizontal high-intensity linear streaks (scratches) detected within the central low-intensity black region; one diagonal linear disruption in the lower-left white quadrant."
+  },
+  "acquired_anomalies_or_scars": "Highly textured, raised clusters of high-intensity pixels (calcified organisms) localized on the extreme outer tips of both lobes.",
+  "other_distinctive_markers": null
+}

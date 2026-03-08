@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Dominantly low-intensity (black/dark grey) with approximately 5-8% high-intensity (white) pixels representing scars and markings.",
+    "spatial_color_mapping": "Discrete white linear streaks and circular spots on a dark ground. Coordinates: clustered on mid-left lobe, a singular long curved mark on mid-right lobe, and dense clusters at both extreme lateral tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped indentation with an approximate angle of 60 degrees and a depth ratio of ~0.15 relative to fluke width.",
+    "edge_topography_serration_map": "Continuous irregular serration with varying pixel-amplitude; higher frequency of peaks observed on the right lobe trailing edge compared to the left.",
+    "lobe_sweep_trajectory": "Slightly concave trailing edge lobes curving toward a central vertex."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast white clusters with irregular/circular morphology at both distal tips, consistent with localized surface disruption.",
+    "linear_abrasions": "Multiple unaligned high-contrast linear disruptions; distinct diagonal mark on center-right, multiple short horizontal marks on mid-left, and one near-vertical mark adjacent to the notch."
+  },
+  "acquired_anomalies_or_scars": "Widespread rake-like linear scarring across the central and lateral lobes; significant white callosity or scarring at the fluke tips.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level dominance of low-intensity (black/dark-gray) pixels covering approximately 85% of the visible surface, contrasted against high-intensity (white/light-gray) clusters at the distal tips and scattered focal points.",
+    "spatial_color_mapping": "Contiguous high-intensity white mottling is mapped to the extreme lateral margins (tips) of both lobes. Central and medial regions are solid low-intensity black. Distinctive circular ring-shaped high-contrast pixels are mapped across the medial and lateral dark regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a central vertex; the pixel-depth of the notch is approximately 12% of the total fluke height.",
+    "edge_topography_serration_map": "Left lobe trailing edge displays consistent small-scale serration peaks. Right lobe trailing edge features a significant macro-scale concave disruption/irregular notch approximately 75% of the distance from the median notch toward the tip.",
+    "lobe_sweep_trajectory": "Overall 'W' shaped curve; individual lobes exhibit convex trailing edge trajectories that transition into the concave median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of at least 15 distinct circular white ring clusters (diameters ranging from 5 to 15 pixels) distributed across both lobes, with higher density on the right lobe medial area.",
+    "linear_abrasions": "A single prominent diagonal high-intensity linear disruption is detected in the upper quadrant of the left lobe, unaligned with natural pigment patterns."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular indentation and tissue loss on the upper trailing edge of the right lobe, appearing as a jagged, non-linear subtraction from the expected geometric lobe curve.",
+  "other_distinctive_markers": "A sharp vertical high-intensity (white) streak is located on the central peduncle/insertion point at the bottom center of the fluke assembly."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio; the image displays a dominant low-intensity (black) central field comprising approximately 85% of the visible surface, punctuated by high-intensity (white) pixel clusters at the distal extremities.",
+    "spatial_color_mapping": "Contiguous, high-contrast white mottling is mapped to the distal margins of both fluke lobes. The left lobe shows a dense white cluster extending from the lateral tip inward along the trailing edge. The right lobe exhibits a smaller, irregular white patch localized at the terminal tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped median notch with a narrow vertex; calculated pixel-depth indicates a deep, symmetrical cleft between the two lobes.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (peaks and valleys) are extracted along the entire trailing edge, with notable irregular jaggedness on the lateral margins of the left lobe.",
+    "lobe_sweep_trajectory": "The trailing edges follow a complex curve, characterized by a convex sweep from the median notch that transitions into a slight concavity before reaching the tapered tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of roughly circular high-contrast white pixels are detected within the mottled regions on both the left and right distal tips, indicative of localized surface scarring.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "The far-left lateral tip exhibits an irregular, non-linear indentation or notch, suggesting localized physical trauma or amputation.",
+  "other_distinctive_markers": null
+}

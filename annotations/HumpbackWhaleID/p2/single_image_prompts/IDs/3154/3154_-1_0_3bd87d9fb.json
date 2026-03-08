@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely high ratio of low-intensity (black) to high-intensity (white) pixels; approximately 90% of the visible surface is low-intensity, with sharp high-intensity peaks at the distal tips and specific linear scars.",
+    "spatial_color_mapping": "Solid low-intensity contiguous regions covering both lobes. High-contrast white clusters are mapped to the extreme lateral distal tips. A distinct linear high-intensity feature is localized on the lower quadrant of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with sharp convergence; depth is approximately 25% of the total vertical height of the visible fluke from notch base to lobe peak.",
+    "edge_topography_serration_map": "Asymmetrical serration profile; left lobe trailing edge displays high-frequency, low-amplitude irregular peaks; right lobe displays lower-frequency oscillations with a prominent notch approximately midway between the center and the tip.",
+    "lobe_sweep_trajectory": "Primary trajectory is convex-upward across both lobes, with a steep concave transition at the approach to the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density circular pixel clusters (white) concentrated on the extreme distal tips of both lobes; texture is raised and irregular relative to the smooth dark surface.",
+    "linear_abrasions": "One prominent diagonal white line (approx. 45-degree angle) on the mid-to-lower right lobe; multiple smaller, faint linear white disruptions on the upper interior of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "A major linear scar on the right lobe; dense white clusters (likely barnacle colonization) at the lateral boundaries of the fluke tips.",
+  "other_distinctive_markers": "Small white point-source pixels scattered across the central dark region, likely representing micro-scarring or small parasitic attachment points."
+}

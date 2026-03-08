@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast ratio; approximately 65% high-intensity white pixels to 35% low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Large contiguous white zones occupy the medial and distal regions of both lobes. Low-intensity black borders are present along the trailing and lateral edges. A significant dark pigmentation encroachment is located at the central notch and peduncle connection. Distinct low-intensity focal spots are visible within the white fields of both the left and right lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with a wide calculated pixel angle and moderate bounding-box depth relative to overall lobe span.",
+    "edge_topography_serration_map": "Continuous linear boundary exhibits irregular micro-topography with frequent low-amplitude peaks and valleys (serrations) along the trailing edge of both lobes, isolated from the background water pixels.",
+    "lobe_sweep_trajectory": "Trailing edges of both lobes follow a convex mathematical curve, sweeping upward and outward from the median notch toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of small, roughly circular low-intensity pixel clusters located in the inner-medial region of the right lobe white field and the mid-medial region of the left lobe white field.",
+    "linear_abrasions": "Detection of multiple, distinct, unaligned linear low-intensity pixel disruptions (diagonal rake marks) that break the high-intensity white field on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Presence of three prominent diagonal linear scars on the left lobe and small circular focal scars on both lobes.",
+  "other_distinctive_markers": "Irregular jagged encroachment of black pigmentation from the trailing edge into the white fields, particularly concentrated near the median notch and the distal tips."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-distribution is predominantly low-intensity (black) with localized high-intensity (white) clusters. Estimated white-to-black pixel ratio is approximately 0.18:1 across the visible surface.",
+    "spatial_color_mapping": "Contiguous low-intensity pixels cover the majority of both lobes. High-contrast white clusters are mapped to the distal right lobe (dense rosettes), the medial left lobe (dispersed rosettes), and the far-left lateral tip (vertical linear band)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "Continuous jagged trailing edge with pixel-level amplitude variations of 5-15 units. Distal lobe tips show high-amplitude irregular peaks due to calcified biological encrustation.",
+    "lobe_sweep_trajectory": "Bi-lateral concave curves fitting the superior trailing edge, terminating in acute-angled distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of circular high-contrast pixel rings; right lobe contains a high-density patch of approximately 15-20 overlapping rings; left lobe shows a dispersed group of 5-8 rings.",
+    "linear_abrasions": "One prominent high-contrast vertical line on the far left distal tip; multiple faint horizontal parallel scratches visible on the left-central lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular high-intensity calcified masses (barnacles) located on the distal tips of both lobes.",
+  "other_distinctive_markers": null
+}

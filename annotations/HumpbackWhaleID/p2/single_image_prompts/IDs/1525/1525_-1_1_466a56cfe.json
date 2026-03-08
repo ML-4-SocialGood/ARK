@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly high-intensity (white) pixels across the fluke body with a sharp low-intensity (black) border along the trailing edge, resulting in a high contrast ratio.",
+    "spatial_color_mapping": "Solid white contiguous region across approximately 90% of the visible surface; a thin, irregular low-intensity black band follows the entire 1D boundary of the trailing edge. A single distinct dark circular blob is located in the mid-region of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, symmetric V-shaped depression with an approximate pixel-based interior angle of 85-95 degrees.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel-amplitude variations ranging from 5-15 pixels. The jagged peaks are more pronounced on the outer thirds of both lobes.",
+    "lobe_sweep_trajectory": "Convex curve starting from the distal tips, transitioning to a slight concavity as the contour approaches the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "One high-contrast dark circular cluster (approx. 20 pixels in diameter) on the interior of the right lobe. Smaller dark clusters are embedded within the black trailing edge pigmentation.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Prominent dark pigmentation spot on the right lobe and a highly irregular, possibly necrotic or traumatized jagged edge along the distal right lobe tip.",
+  "other_distinctive_markers": "The continuous black pigmentation along the trailing edge creates a 'stencil' effect against the white fluke interior."
+}

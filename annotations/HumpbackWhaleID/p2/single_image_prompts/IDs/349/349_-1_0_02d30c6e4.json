@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast binary distribution with approximately 85% low-intensity (black) pixels and 15% high-intensity (white) pixels localized at the margins and central axis.",
+    "spatial_color_mapping": "Contiguous high-intensity white patches are mapped to the distal tips of both lobes and along the trailing edge serrations. A distinct vertical high-intensity linear feature is located at the ventral midline proximal to the peduncle."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep acute V-shaped notch with a calculated interior angle of approximately 40 degrees.",
+    "edge_topography_serration_map": "High-amplitude, irregular serrations (peaks and valleys) are present along the entire trailing edge, with particularly jagged and large-scale tissue loss/notching on the right lobe.",
+    "lobe_sweep_trajectory": "Convex curvature along the trailing edges with a linear upward and outward sweep from the central notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of high-intensity circular pixel groups are visible at the far right distal tip and intermittently along the trailing edge boundary.",
+    "linear_abrasions": "Faint vertical and diagonal linear pixel disruptions are visible across the dark mid-sections of both the left and right lobes."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular chipping and deep notches on the right lobe trailing edge indicating historical mechanical trauma or tissue loss.",
+  "other_distinctive_markers": "A singular, high-contrast vertical white scar or pigmentation streak extending from the peduncle into the lower central ventral region."
+}

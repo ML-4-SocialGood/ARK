@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 5:1 ratio of low-intensity (black) pixels to high-intensity (white) pixels, with white pixels primarily concentrated on the distal margins and leading edges.",
+    "spatial_color_mapping": "Contiguous high-intensity (white) pixel blobs are concentrated at the distal tips and along the outer leading edges of both lobes. The central region near the peduncle and the interior of the lobes consist of a solid low-intensity (black) pixel mass."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible obtuse U-shaped depression with a wide pixel angle of approximately 130 degrees and shallow bounding-box depth relative to the total lobe height.",
+    "edge_topography_serration_map": "Low-frequency, irregular serrations detected along the entire trailing edge; several distinct, higher-amplitude peaks are visible on the inner margin of the right lobe near the median notch.",
+    "lobe_sweep_trajectory": "Bilateral upward sweep from the central notch with a predominantly concave curve along the trailing edge and rounded distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, circular high-contrast white pixel clusters are detected on the distal-most sections of both lobes and sparsely along the trailing edge.",
+    "linear_abrasions": "Several short, unaligned vertical and diagonal high-intensity linear marks are visible on the left lobe ventral surface, cutting through the primary black pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Extensive depigmentation and mottling visible on the peripheral edges and tips of both lobes, suggesting accumulated superficial scarring.",
+  "other_distinctive_markers": null
+}

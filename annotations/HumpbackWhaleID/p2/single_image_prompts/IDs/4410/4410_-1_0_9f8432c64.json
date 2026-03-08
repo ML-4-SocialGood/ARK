@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level ratio characterized by a dominant high-intensity white central region (approx. 85-90% of surface area) contrasted against a low-intensity black perimeter along the trailing edge and lateral tips.",
+    "spatial_color_mapping": "Large contiguous white pixel cluster spanning the central ventral region; distinct low-intensity (black) geometric blobs are located at the far-left and far-right lateral tips, with a thin non-linear black band following the trailing edge contour."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "U-shaped central depression with a calculated interior pixel angle of approximately 55 degrees and a vertical bounding-box depth relative to the lobe peaks of roughly 8% of the total vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serration pattern along the entire continuous linear boundary; visible pixel variations (peaks and valleys) occur at an average frequency of 15-20 pixels, with amplitude ranging from 3-10 pixels.",
+    "lobe_sweep_trajectory": "Symmetric concave upward curve fitting extending from the median notch to the lateral tips, exhibiting a positive vertical gradient."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

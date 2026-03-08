@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Ratio of approximately 30% high-intensity white/grey pixels to 70% low-intensity black pixels.",
+    "spatial_color_mapping": "Prominent irregular white/grey mottled region on the left lobe. Distributed high-contrast annular rings across central and right fluke surfaces."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Clear V-shaped notch with an internal angle of approximately 85 degrees and a bounding-box depth of approximately 65 pixels.",
+    "edge_topography_serration_map": "Small-scale serrations with pixel amplitudes of 3-6 pixels visible along the entire continuous boundary of the trailing edge.",
+    "lobe_sweep_trajectory": "Convex curve fitted to the outer boundaries of both lobes, terminating in acute points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely clustered circular/ring-shaped high-contrast pixel patterns (diameters ~10-15 pixels) concentrated on the right and central lobes.",
+    "linear_abrasions": "Subtle vertical dark linear marks visible intersecting the white mottled area on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive circular barnacle footprint scarring; irregular jaggedness/minor tissue loss at the distal-most tips of both lobes.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low-intensity (black) pixels occupy approximately 85-90% of the visible surface area, with high-intensity (white) pixels concentrated at the distal tips and in localized linear/circular anomalies.",
+    "spatial_color_mapping": "Dominant contiguous black pigmentation across both lobes. High-contrast white mottling is localized at the extreme distal tips (left and right). High-intensity white points and lines are scattered across the interior dark regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a vertex angle of approximately 75 degrees; bounding box depth is significant relative to total lobe height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration. The left lobe exhibits a major macroscopic indentation (notch) roughly midway between the median notch and the tip. The right lobe shows a more continuous but distinctly jagged pixel-amplitude variation.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edges leading to sharp, upturned distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized clusters of circular white pixels (barnacle scars) are visible, particularly on the inner-left lobe and near the trailing edge of the right lobe.",
+    "linear_abrasions": "Extensive network of white, unaligned linear pixel disruptions (rake marks) crossing the dark pigmentation, most prominent on the right lobe with multiple diagonal orientations."
+  },
+  "acquired_anomalies_or_scars": "Major traumatic indentation/missing segment on the trailing edge of the left lobe; extensive scarring and rake marks across the entire visible surface.",
+  "other_distinctive_markers": null
+}

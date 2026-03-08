@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface with a localized high-intensity (white) cluster at the distal tip; approximate ratio of high-to-low intensity pixels on the visible fluke surface is 1:15.",
+    "spatial_color_mapping": "The visible area consists of a large, contiguous low-intensity dark region covering the main lobe body, with a high-contrast white geometric cluster localized specifically at the distal apex (tip) of the lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "Visible serrations along the trailing edge exhibit irregular peaks and valleys with a frequency of approximately 5 distinct points and a pixel-amplitude variation ranging between 5 and 12 pixels.",
+    "lobe_sweep_trajectory": "The outer edge margin follows a continuous convex sweep originating from the water line and terminating at the distal tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "A distinct cluster of high-intensity white pixels forming a textured, roughly circular grouping is visible at the extreme distal tip of the fluke, consistent with barnacle colonization.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": null
+}

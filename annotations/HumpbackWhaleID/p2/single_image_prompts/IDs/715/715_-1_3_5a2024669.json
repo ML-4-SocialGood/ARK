@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low white-to-black ratio; approximately 95% of the visible surface consists of low-intensity dark gray/black pixels, with high-intensity white pixels restricted to localized anomalies and distal tips.",
+    "spatial_color_mapping": "Uniformly dark pixel field across the central and proximal fluke regions. High-contrast white geometric blobs are localized as small circular clusters at the distal tips and specific isolated coordinates on the lobe surfaces."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, symmetrical V-shaped notch with an approximate vertex angle of 45-55 degrees, showing a clear pixel-level separation between the left and right lobes.",
+    "edge_topography_serration_map": "Highly irregular and serrated trailing edge. The right lobe exhibits higher amplitude peaks and deeper valleys compared to the left, with significant pixel-level jaggedness distal to the median notch.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a concave curve leading from the median notch to the tips; leading edges (partially visible) suggest a convex sweep toward the distal terminals."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of high-contrast, roughly circular pixel formations (barnacle colonies) are prominent on the far left and far right distal tips.",
+    "linear_abrasions": "One distinct, high-intensity diagonal linear mark is visible on the upper section of the right lobe; a second, smaller vertical linear disruption is visible near the center-left of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive biological encrustations (barnacles) on both distal tips; distinct irregular indentations and a deep secondary notch on the trailing edge of the right lobe.",
+  "other_distinctive_markers": "Vertical trails of high-intensity pixel points (water droplets) are visible shedding from the trailing edge of the left lobe."
+}

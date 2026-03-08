@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 90% high-intensity (white/light grey) to 10% low-intensity (black/dark) pixels; dark pixels are primarily concentrated at the peduncle base and trailing edge margin.",
+    "spatial_color_mapping": "Broad, contiguous high-intensity region across both lobes; dark contiguous banding and focal spots localized at the central inferior junction near the peduncle and sparsely near the median notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped depression with a calculated angle of approximately 55 degrees and a moderate bounding-box depth relative to fluke span.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (1-4 pixel variation) along the continuous trailing edge; visible jagged peaks at the distal-most tips of both lobes.",
+    "lobe_sweep_trajectory": "Concave curve fitted to the trailing edge from the distal tips to the median notch; outer leading edges exhibit convex curvature."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small dark pixel clusters located near the central peduncle base; no high-contrast white-on-black rosette formations detected.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Small, distinct dark spot (possible focal lesion or pigmentation mark) located on the right lobe near the central vertical axis.",
+  "other_distinctive_markers": "Extensive white pigmentation across the entire ventral surface, characteristic of a Type 1 fluke classification."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio is heavily skewed toward low-intensity pixels (approx. 98% dark) with minimal high-intensity pixel presence on the fluke surface itself.",
+    "spatial_color_mapping": "Homogeneous dark-pixel distribution across both lobes; no distinct high-contrast contiguous geometric blobs or mottling patterns are detectable on the visible surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow U-shaped central depression with a wide, obtuse pixel angle and low depth-to-width ratio.",
+    "edge_topography_serration_map": "Irregular, low-frequency serrations with small pixel-amplitude variations detected along the continuous upper boundary of both lobes.",
+    "lobe_sweep_trajectory": "Symmetrical upward convex sweep fitted to the outer edges and trailing boundaries of the fluke lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Isolated, roughly circular high-contrast white pixel clusters detected on the medial surface of the right lobe, consistent with minor scarring.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Distinct irregular jagged indentation visible on the trailing edge of the left lobe near the median notch.",
+  "other_distinctive_markers": null
+}

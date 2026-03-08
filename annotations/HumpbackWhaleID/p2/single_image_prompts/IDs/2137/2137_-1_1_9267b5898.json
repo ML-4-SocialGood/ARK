@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1.8:1 ratio of high-intensity (off-white/yellowish) pixels to low-intensity (black/dark grey) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Primary dark pigmentation is localized along the central vertical axis and peduncle, extending as a wide band toward the median notch. Secondary dark clusters are visible on the leading edge of the left lobe and along the proximal trailing edges. Large contiguous light-tan regions occupy the medial and distal sections of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with a calculated angle of approximately 55 degrees and a bounding-box depth occupying roughly 12% of the vertical fluke profile.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the entire trailing edge boundary, characterized by recurring peaks and valleys with a pixel amplitude ranging from 5 to 15 pixels.",
+    "lobe_sweep_trajectory": "Lobe edges follow a generally convex trajectory from the peduncle to the tips, with a slight concave transition observed immediately adjacent to the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of raised, high-contrast circular pixels (barnacles) are present at both distal tips. A cluster of 4-6 distinct light-colored circular rosette scars (5-10 pixel diameter) is visible on the upper distal quadrant of the right lobe.",
+    "linear_abrasions": "One prominent, unaligned dark linear disruption (~90 pixels in length) is visible on the lower medial quadrant of the left lobe, oriented diagonally toward the peduncle."
+  },
+  "acquired_anomalies_or_scars": "Heavy barnacle colonization on the distal extremities of both lobes; multiple healed circular lesions (rosettes) on the right fluke surface.",
+  "other_distinctive_markers": "Significant yellowish-tan pigmentation shift observed across the high-intensity regions, indicating a non-standard chromatic variance likely due to surface film."
+}

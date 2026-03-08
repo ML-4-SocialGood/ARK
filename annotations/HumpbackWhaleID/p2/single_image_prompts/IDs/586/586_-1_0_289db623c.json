@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65:35 ratio of low-intensity (dark grey/black) to high-intensity (white/light grey) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Left lobe features a large, elongated white patch extending diagonally from the lower center toward the tip, heavily mottled with dark spots. Right lobe displays a dense, centralized cluster of white pigment with significant dark spotting, surrounded by a broad dark border."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an estimated angle of 50 degrees; depth occupies approximately 12% of the vertical bounding box of the visible fluke.",
+    "edge_topography_serration_map": "Irregular serrations with high frequency along the entire trailing edge. Notable jagged indentation on the inner portion of the right lobe, followed by smaller peaks (approx. 10-20 pixels in height) toward the tip.",
+    "lobe_sweep_trajectory": "Concave curvature beginning at the median notch, sweeping into a convex arc toward the distal tips on both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular, high-contrast white rings (15-40 pixel diameter) scattered across both lobes, with a prominent cluster of approximately 6-8 marks on the lower interior portion of the right lobe.",
+    "linear_abrasions": "Several distinct white linear marks; specifically, three parallel diagonal scratches on the right lobe and a long horizontal scratch near the upper-center of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Multiple white circular barnacle scars; deep jagged notch/scar on the inner trailing edge of the right lobe; prominent cluster of live barnacles on the upper-right fluke tip.",
+  "other_distinctive_markers": "Significant barnacle colonization at the extreme distal tip of the right lobe, creating a distinctively textured and protruding edge profile."
+}

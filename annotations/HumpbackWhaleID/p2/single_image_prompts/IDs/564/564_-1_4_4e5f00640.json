@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.45:0.55 white-to-black pixel ratio across the visible ventral surface, with high-intensity white regions concentrated in the medial lobe sections and low-intensity black regions at the margins and central notch area.",
+    "spatial_color_mapping": "Two large, primary contiguous white blobs occupy the upper-medial portions of both the left and right lobes. These regions are bordered by high-contrast black peripheral margins. Significant pixel mottling (stippling) is present at the transition zones between the white patches and the black central/bottom regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated pixel angle of approximately 35-40 degrees; notch depth is approximately 18% of the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the entire continuous linear boundary. The left lobe trailing edge features approximately 14 distinct peaks with irregular amplitudes. The right lobe features approximately 11 larger, more spaced serration peaks.",
+    "lobe_sweep_trajectory": "The trajectory shows a primary convexity along the trailing edges, transitioning to a sharp upward-sweeping curve toward the distal tips of the lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density, heterogeneous pixel clusters (white and brown) at the distal tips of both lobes indicative of barnacle colonization. Multiple distinct white 'ring' or 'donut' shaped circular clusters are visible: one in the upper-medial left white patch and three within the lower-central black region.",
+    "linear_abrasions": "A prominent diagonal linear abrasion with tan/orange pixel values is located in the upper quadrant of the right white patch. Faint, near-vertical linear scratches are detectable on the left white patch."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle-induced texture at the fluke tips. Multiple circular 'cookie-cutter' style scars with white perimeters and dark centers. Significant diagonal scratch across the right lobe surface.",
+  "other_distinctive_markers": "Highly unique 'double-ring' white circular markers located near the lower vertical center-line of the fluke."
+}

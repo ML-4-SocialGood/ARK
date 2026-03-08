@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 45:55 ratio of high-intensity white to low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "High-intensity white regions are localized in the central-to-outer areas of both lobes, bounded by a continuous low-intensity black region spanning the peduncle, notch area, and the entirety of the trailing edges. Numerous low-intensity linear and mottled streaks are distributed within the white regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped notch with an approximate 80-degree angle at the vertex, dividing the left and right lobes.",
+    "edge_topography_serration_map": "Highly irregular and jagged trailing edge topography with frequent, high-amplitude peaks and valleys (3-15 pixel variance) along the continuous boundary from the notch to the distal tips.",
+    "lobe_sweep_trajectory": "Concave sweep along the trailing edges tapering to sharp, upward-curving distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular, high-contrast white and grey pixel clusters (barnacle colonies) are visible on the distal tips of both lobes and along the outer leading edge of the left lobe.",
+    "linear_abrasions": "Densely packed, unaligned dark linear pixel disruptions (rake marks) of varying thickness are present across the high-intensity white areas of both lobes."
+  },
+  "acquired_anomalies_or_scars": "Extensive linear scarring (rake marks) covering approximately 60% of the visible white pigmentation; barnacle colonization present on both distal tips.",
+  "other_distinctive_markers": "Localized circular voids or 'punched-out' marks within the black pigmentation on the central right lobe."
+}

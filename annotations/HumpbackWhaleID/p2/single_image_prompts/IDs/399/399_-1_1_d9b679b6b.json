@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 85:15 ratio of high-intensity (white) to low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "High-intensity white base layer containing approximately 45-55 discrete low-intensity black focal spots (geometric blobs); continuous black band along the trailing edge boundary; low-intensity vertical striations extending from the peduncle toward the median notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Obtuse V-shaped central depression with a calculated internal pixel angle of approximately 115 degrees and a bounding-box depth of roughly 45 pixels.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (2-12 pixel variations) along the continuous trailing edge; highest amplitude of jagged peaks concentrated at the distal tips of both the left and right lobes.",
+    "lobe_sweep_trajectory": "Concave mathematical curve fitted to the upper trailing edge boundary, originating at the median notch and sweeping upward to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of approximately 50 localized circular low-intensity clusters (3-15 pixel diameters) on the white background; cluster of high-intensity white circular nodes detected on the low-intensity black region of the right distal tip.",
+    "linear_abrasions": "Three distinct, unaligned low-intensity linear pixel disruptions (15-60 pixels in length) oriented diagonally on the medial-to-distal region of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Irregularly serrated and jagged trailing edge topography; high-density circular pixel disruptions across the entire visible ventral surface.",
+  "other_distinctive_markers": "High-intensity white triangular region at the point of peduncle insertion, bisected by a low-intensity vertical linear marker."
+}

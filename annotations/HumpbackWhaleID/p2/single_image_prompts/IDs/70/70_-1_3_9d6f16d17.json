@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "0.45:0.55 macro-level ratio of high-intensity (white) to low-intensity (dark) pixels on the visible ventral fluke surface.",
+    "spatial_color_mapping": "Two contiguous high-intensity white regions located on the lateral lobes. The left region is a solid field with dark mottling concentrated at the upper-outer boundary. The right region is a high-intensity field segmented by five distinct vertical low-intensity linear bands spanning the medial-lateral axis."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations along the visible trailing margins. A prominent, high-amplitude V-shaped indentation is detected on the trailing edge of the right lobe, approximately 80% distance from the center toward the tip.",
+    "lobe_sweep_trajectory": "Convex arc trajectory on the lateral margins of both lobes, with the right lobe showing a slightly more acute sweep towards the distal apex compared to the left."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-intensity pixels localized at the distal-most tips of both lobes, suggesting hard-tissue accretion or scarring.",
+    "linear_abrasions": "Five distinct, near-parallel vertical low-intensity linear pixel tracks on the right lobe; three faint, non-aligned linear disruptions crossing the high-intensity field on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Large V-shaped notch on the trailing edge of the right lobe; prominent linear rake-like scarring across the mid-section of the right lobe.",
+  "other_distinctive_markers": null
+}

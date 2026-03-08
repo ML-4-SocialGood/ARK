@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1:3 ratio of high-intensity (white) pixels to low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Low-intensity dark pigmentation dominates the central and lower regions of both lobes. High-intensity white mottling and fine-lined patterns are mapped primarily across the upper leading edges and distal tips of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with a calculated interior angle of approximately 60 degrees and a distinct depth relative to the lobe width.",
+    "edge_topography_serration_map": "Highly irregular trailing edge with high-frequency, low-amplitude serrations (peaks and valleys) visible along the entire boundary, particularly pronounced on the outer thirds of the lobes.",
+    "lobe_sweep_trajectory": "Moderate concave curvature along the trailing edge of both lobes, transitioning to a sharp convex sweep at the terminal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct clusters of high-contrast circular white pixels located at the distal tips of both lobes, indicative of localized colonization or impact scarring.",
+    "linear_abrasions": "Detection of multiple parallel and unaligned linear pixel disruptions (rake marks) crossing the dark pigmentation across both lobes, with a prominent set of parallel lines on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive rake marks across the entire visible surface; significant localized white scarring and tissue irregularity at the extreme lateral tips.",
+  "other_distinctive_markers": "A singular, high-contrast dark circular spot located within a high-intensity white patch on the right lobe (image right)."
+}

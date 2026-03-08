@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 4:1 ratio of high-intensity white/light-gray pixels to low-intensity black/dark-gray perimeter pixels across visible ventral surface.",
+    "spatial_color_mapping": "Dominant high-intensity central blob covering ~80% of visible area; low-intensity black pixels form a continuous border along the trailing edge and concentrated clusters at the fluke tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations detected along the right lobe trailing edge; approximately 12 distinct pixel-level peaks identified between the midline and the right tip.",
+    "lobe_sweep_trajectory": "Right lobe exhibits a convex distal sweep ending in a sharp, acute-angled lateral tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Scattered low-intensity dark circular pixel clusters (mottling) located on the medial-ventral surface of the right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant non-pigmentary pixel cluster (red/orange hue) on the left fluke tip, indicating possible tissue exposure or fresh physical trauma.",
+  "other_distinctive_markers": null
+}

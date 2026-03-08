@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 70:30 ratio of low-intensity (black/dark grey) to high-intensity (white) pixels. Dark pixels dominate the central and basal regions, while high-intensity pixels are concentrated on the lateral margins and distal tips.",
+    "spatial_color_mapping": "Contiguous high-intensity white blobs occupy the distal 20% of the viewer-right lobe. On the viewer-left lobe, a larger white region extends from the leading edge toward the center, transitioning into high-frequency black mottling (speckling) toward the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an estimated pixel angle of 45 degrees and a bounding-box depth approximately 1/8th of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the distal thirds of both lobes; peaks are approximately 5-10 pixels in amplitude relative to the local edge mean. The central regions closer to the notch exhibit lower-amplitude, smoother topography.",
+    "lobe_sweep_trajectory": "Bi-lateral concave curves extending from the median notch to the tips, following a symmetrical parabolic arc."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast white circular pixel clusters are detected at the extreme tips of both the viewer-left and viewer-right lobes, consistent with sessile organism attachment sites.",
+    "linear_abrasions": "A single prominent diagonal high-intensity linear mark is visible on the mid-section of the viewer-right lobe. Multiple faint, vertical low-contrast scratches are visible on the lower-central black surface."
+  },
+  "acquired_anomalies_or_scars": "A distinct irregular notch or deep indentation is visible on the outer trailing edge of the viewer-left lobe, disrupting the expected serration frequency.",
+  "other_distinctive_markers": null
+}

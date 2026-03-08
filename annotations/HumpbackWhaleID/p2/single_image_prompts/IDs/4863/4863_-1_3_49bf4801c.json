@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixels exceeding 90% of the visible fluke surface, with sparse high-intensity (white) pixel distribution restricted to localized anomalies and spray.",
+    "spatial_color_mapping": "Dominant contiguous dark-grey/black mass; high-contrast white focal clusters at the distal left tip and scattered across the central right lobe; prominent vertical white linear mark located in the mid-right quadrant."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a deep bounding-box profile and an estimated internal angle of 35-40 degrees.",
+    "edge_topography_serration_map": "High-frequency jagged topography with irregular peaks (5-15 pixel amplitude) across the entire boundary; one significant macro-indentation on the inner trailing edge of the right lobe.",
+    "lobe_sweep_trajectory": "Convex leading edges transitioning to a generally linear trailing trajectory towards the median notch, heavily modulated by micro-serrations."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small circular high-contrast pixel clusters detected at the distal left tip and scattered mid-surface on the right lobe.",
+    "linear_abrasions": "Distinct white linear pixel disruptions (rake marks) oriented vertically and diagonally across the right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Notable jagged traumatic indentation on the inner trailing edge of the right lobe and irregular, blunted scarring at the distal tip of the left lobe.",
+  "other_distinctive_markers": "High-intensity pixel spray (water droplets) partially occluding the left trailing edge boundary."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels constitute approximately 85% of the visible surface area, creating a sharp contrast against low-intensity black pixels localized at the perimeter and central axis.",
+    "spatial_color_mapping": "Large contiguous high-intensity white blobs dominate the interior of both lobes. Low-intensity black pixels form a continuous irregular border along the trailing edge and tips, with a vertical fragmented cluster (mottling) localized at the central median notch extending downward toward the water line."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a calculated interior angle of approximately 65 degrees and a moderate bounding-box depth.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations are visible across the entire trailing edge boundary. Significant jagged peaks and deep valleys are concentrated at the extreme lateral tips of both lobes.",
+    "lobe_sweep_trajectory": "Symmetrical convex curves sweeping upward and outward from the center to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple small, roughly circular low-intensity pixel clusters (scars or pigmentation spots) scattered across the medial regions of both white lobes.",
+    "linear_abrasions": "Distinct horizontal and diagonal thin dark linear streaks (rake marks) are detected across the right lobe; a single elongated diagonal line is visible on the lower-left lobe."
+  },
+  "acquired_anomalies_or_scars": "Parallel rake marks (linear abrasions) are visible on the right lobe surface. Irregular, fragmented pigmentation 'splatters' are localized around the central notch area.",
+  "other_distinctive_markers": "A unique, thin, isolated black linear streak extends from the central black cluster diagonally toward the lower-left section of the fluke."
+}

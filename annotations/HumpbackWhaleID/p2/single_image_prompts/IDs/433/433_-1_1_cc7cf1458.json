@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 75:25 ratio of low-intensity (black/dark gray) to high-intensity (white/light gray) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "High-intensity contiguous blobs are located at the distal tips of both lobes. The left lobe tip features a solid, roughly triangular white patch. The right lobe tip features a white patch heavily intersected by dark linear streaks. The central and lower regions are predominantly low-intensity with scattered high-intensity punctations near the median notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped depression with a calculated angle of approximately 110 degrees and a shallow bounding-box depth.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations detected along the entire trailing edge boundary, with more pronounced pixel-amplitude variations (jagged peaks) on the outer halves of both lobes.",
+    "lobe_sweep_trajectory": "General convex curvature fitted to the outer edges of both lobes, sweeping upward towards the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple small, circular high-contrast white pixel clusters located within the dark pigment zone surrounding the median notch.",
+    "linear_abrasions": "Distinct dark, unaligned linear pixel disruptions (rake marks) crossing the high-intensity white patch on the right lobe tip."
+  },
+  "acquired_anomalies_or_scars": "Visible rake marks on the right lobe tip; irregular jagged topography on the distal edge of the left lobe suggesting minor past trauma.",
+  "other_distinctive_markers": null
+}

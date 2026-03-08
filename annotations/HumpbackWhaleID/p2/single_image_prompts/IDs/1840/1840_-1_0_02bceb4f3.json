@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast (~85:15 ratio); predominant high-intensity (white) central surface area bounded by low-intensity (black) terminal margins.",
+    "spatial_color_mapping": "Continuous low-intensity black perimeter along the entire trailing edge and lateral tips. A central low-intensity vertical formation extends from the peduncle junction through the median notch. Two distinct, isolated low-intensity circular blobs are located at coordinates roughly 15% from the left lateral margin."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Symmetrical V-shaped notch with an approximate pixel angle of 65 degrees and a vertical depth ratio of ~1:10 relative to total fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations observed along the entire boundary; pixel amplitude is greatest (5-10 pixels) on the distal thirds of both lobes, appearing as sharp peaks.",
+    "lobe_sweep_trajectory": "Primary trajectory is convex from the notch to mid-lobe, with a secondary concave inflection leading to the attenuated lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of two localized, high-contrast dark circular pixel clusters on the left lobe's mid-lateral surface.",
+    "linear_abrasions": "Multiple faint, non-parallel linear grey-scale disruptions (rake marks) crossing the white high-intensity fields of both lobes."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular tissue loss and ragged contouring on the extreme upper-left lateral tip.",
+  "other_distinctive_markers": "Fine, vertical low-intensity pixel 'streaks' or 'feathering' patterns bleeding from the trailing edge border into the white ventral field."
+}

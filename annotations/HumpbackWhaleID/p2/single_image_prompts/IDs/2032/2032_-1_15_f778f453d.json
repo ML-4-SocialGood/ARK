@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low macro-level ratio of high-intensity pixels to low-intensity pixels, estimated at 1:15, where high-intensity values are primarily localized to specular reflections on a dark ventral field.",
+    "spatial_color_mapping": null
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with an estimated interior angle of 45 degrees and a bounding-box depth approximately 12% of the vertical fluke extent.",
+    "edge_topography_serration_map": "High-frequency peak-and-valley sequence along the trailing edge; pixel-amplitude transitions from low (2-5 pixels) medially to high (>15 pixels) at the distal tips, resulting in a jagged fringe.",
+    "lobe_sweep_trajectory": "Concave curvature fitted to the trailing edge boundaries of both fluke lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant irregular fragmentation and comb-like jaggedness at the extreme lateral margins of both fluke lobes.",
+  "other_distinctive_markers": null
+}

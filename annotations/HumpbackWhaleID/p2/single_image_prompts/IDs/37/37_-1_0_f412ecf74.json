@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio of high-intensity (white) to low-intensity (dark) pixels, with approximately 85-90% of the visible surface area falling into the low-to-mid intensity range (dark grey/black) and 10-15% in the high-intensity range (white/light grey marbling and scarring).",
+    "spatial_color_mapping": "Dominant low-intensity base across both lobes. Distinct high-intensity vertical stripe at the peduncle base. Diffuse grey-to-white mottling concentrated in the upper-mid regions of both lobes, appearing as non-contiguous geometric streaks."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated pixel angle of approximately 55 degrees; the notch depth is approximately 15% of the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "High-frequency and variable-amplitude serration map. Visible peaks are more pronounced on the outer lateral thirds of both lobes, with a significant jagged irregular notch on the inner-right lobe trailing edge.",
+    "lobe_sweep_trajectory": "Double-curved sigmoid trajectory; concave curvature near the median notch transitioning to convex curvature as it approaches the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Single high-contrast white circular cluster on the extreme distal tip of the left lobe and two small white circular clusters on the distal tip of the right lobe.",
+    "linear_abrasions": "Two parallel diagonal linear disruptions of lighter grey pixels located on the mid-left lobe; one single diagonal linear disruption on the mid-right lobe."
+  },
+  "acquired_anomalies_or_scars": "A prominent vertical high-intensity white streak at the fluke base junction; irregular pixel-depth voids along the trailing edge boundary consistent with physical tissue removal.",
+  "other_distinctive_markers": "Unique high-intensity white vertical band at the center base of the fluke provides a high-contrast structural marker against the dark water surface."
+}

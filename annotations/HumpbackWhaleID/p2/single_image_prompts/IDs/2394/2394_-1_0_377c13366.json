@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 95:5 ratio of low-intensity (black) to high-intensity (white/grey) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Homogeneous low-intensity black pigmentation across the majority of both lobes, interspersed with high-frequency, low-diameter white stippling. Distinct white focal cluster visible at the lower central insertion point (peduncle junction)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an estimated interior angle of 55 degrees and significant pixel depth relative to the lobe heights.",
+    "edge_topography_serration_map": "High-frequency, irregular serrated boundary; peaks and valleys range from 5 to 15 pixels in amplitude. Distinct jaggedness is concentrated on the distal half of both lobes.",
+    "lobe_sweep_trajectory": "Asymmetrical concave sweep; the left lobe displays a relatively smooth distal curve, while the right lobe exhibits a more complex, irregular taper toward the tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of approximately five high-contrast circular white pixel clusters on the medial-right lobe and several small clusters along the distal left margin.",
+    "linear_abrasions": "Faint vertical linear pixel disruptions (scratches) visible on the left lobe, oriented perpendicular to the trailing edge."
+  },
+  "acquired_anomalies_or_scars": "Orange-tinted irregular protrusions (colonization) visible on the right distal tip; distinct rectangular-shaped tissue deficit on the medial trailing edge of the right lobe.",
+  "other_distinctive_markers": null
+}

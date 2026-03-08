@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.40:0.60 ratio of high-intensity white distal regions to low-intensity dark central and proximal regions.",
+    "spatial_color_mapping": "Primary high-intensity (white) blobs are located on the distal halves of both lobes. The left lobe exhibits higher fragmentation of white pixels with dark interior mottling. A contiguous low-intensity (black) region occupies the central area extending from the median notch to the proximal boundary."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch with an estimated interior angle of 75 degrees and a vertical depth comprising approximately 15% of the fluke's height.",
+    "edge_topography_serration_map": "Irregular jagged boundary exhibiting approximately 10-12 distinct peaks and shallow valleys along the trailing edge of each lobe, isolated from the water surface background.",
+    "lobe_sweep_trajectory": "Convex curve fitted to the trailing edges, transitioning to an acute upward sweep at the distal-most tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of approximately 6-8 circular low-intensity pixel clusters localized within the high-intensity distal region of the left lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Pronounced jagged indentations and irregular notches along the distal trailing edges, suggesting physical trauma or significant wear.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution; macro-level ratio of high-intensity white pixels (scars/lateral patches) to low-intensity black pixels (base pigmentation) estimated at approximately 0.45:0.55 across the visible surface.",
+    "spatial_color_mapping": "Dominant low-intensity central region; high-intensity contiguous white patches at both lateral tips. Extensive high-intensity linear and mottled clusters distributed non-uniformly across the dark base pigmentation of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped depression; calculated pixel angle approximately 42 degrees with a high-depth bounding box.",
+    "edge_topography_serration_map": "Highly irregular trailing edge with high-frequency, low-to-medium amplitude serrations (peaks and valleys) visible across the entire span from notch to tips.",
+    "lobe_sweep_trajectory": "Strongly convex curvature on the upper margins of both lobes, tapering to acute points at the lateral extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular and semi-circular high-contrast pixel clusters (rosette-type) localized on the far-left lateral margin and scattered across the central-right lobe surface.",
+    "linear_abrasions": "Dense networks of intersecting and parallel high-intensity linear tracks (rake marks) covering approximately 60% of the visible fluke area, particularly concentrated on the upper lobes."
+  },
+  "acquired_anomalies_or_scars": "Extensive rake-mark scarring (likely orca-induced) across both lobes; irregular jagged notches on the trailing edge consistent with prior physical trauma or tissue loss.",
+  "other_distinctive_markers": "Unique high-density overlapping of linear and rosette scarring patterns creating a complex, high-entropy texture that obscures much of the natural dark pigmentation."
+}

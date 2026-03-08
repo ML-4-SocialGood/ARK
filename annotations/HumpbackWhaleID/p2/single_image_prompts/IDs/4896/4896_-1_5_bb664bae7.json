@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low macro-level ratio; high-intensity pixels are restricted to the distal tips, representing approximately 5% of the visible surface, while >95% of the fluke body is composed of low-intensity dark pixels.",
+    "spatial_color_mapping": "Two distinct high-contrast white focal blobs are situated at the distal tips of the left and right lobes; the remainder of the fluke is a contiguous, low-intensity dark region without significant interior mottling."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with an estimated pixel angle of 120 to 130 degrees and a shallow bounding-box depth relative to overall lobe height.",
+    "edge_topography_serration_map": "The left lobe trailing edge exhibits a series of 3 to 4 distinct low-amplitude serrations; the right lobe trailing edge is comparatively more linear, showing only minor micro-serrations and one small convex protrusion in the medial section.",
+    "lobe_sweep_trajectory": "The trailing edges of both lobes exhibit a clear concave sweep trajectory from the median notch to the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "White pixel clusters located at the extreme distal tips of both the left and right fluke lobes, consistent with localized barnacle colonization or scarring.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Prominent bilateral depigmentation and scarring localized exclusively to the distal tips of the fluke lobes.",
+  "other_distinctive_markers": null
+}

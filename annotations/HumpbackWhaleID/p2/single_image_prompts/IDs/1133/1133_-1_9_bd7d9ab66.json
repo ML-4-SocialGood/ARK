@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65% low-intensity (black) to 35% high-intensity (white/off-white) across the visible ventral fluke area.",
+    "spatial_color_mapping": "Solid black pigmentation across the central peduncle and leading edges. Left lobe distal area exhibits white mottling with dense black speckling. Right lobe distal two-thirds is predominantly white, containing a distinct dark elliptical focal spot located approximately 85% horizontally from the central notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow U-shaped depression with an approximate pixel angle of 148 degrees and a vertical bounding-box depth of approximately 20 pixels.",
+    "edge_topography_serration_map": "High-frequency irregular serration with approximately 12-15 distinct peaks per lobe; pixel-amplitudes range from 3 to 12 pixels along the trailing boundary.",
+    "lobe_sweep_trajectory": "Symmetrical convex parabolic curves along the leading edge, tapering to acute distal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized brownish-grey high-contrast pixel clusters (barnacle colonies) present on both distal tips, measuring approximately 40-60 pixels in diameter.",
+    "linear_abrasions": "Three distinct, near-vertical low-intensity grey lines (rake marks) observed in the high-intensity white field of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant barnacle encrustations on lateral tips; one prominent dark elliptical mark on the white distal region of the right lobe.",
+  "other_distinctive_markers": null
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level distribution consists of approximately 65% low-intensity (black/dark grey) and 35% high-intensity (white/light grey) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Large high-intensity (white) contiguous blobs are localized at the distal tips and lateral margins of both lobes. The left lobe features a distinct pattern of parallel, vertically oriented high-contrast linear white bands. The central and proximal fluke areas are dominated by a contiguous dark-intensity region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "The central depression is a deep, irregular V-shaped notch with an estimated pixel angle of 50 degrees; the depth of the notch occupies approximately 25% of the visible vertical height of the lobes.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude irregular peaks and valleys (jagged serrations) are extracted along the medial portions of the trailing edge; distal portions exhibit lower frequency, more rounded pixel variations.",
+    "lobe_sweep_trajectory": "The left lobe outer edge follows a convex curve trajectory; the right lobe outer edge is predominantly linear with a slight concave inflection observed near the distal tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple discrete circular high-intensity pixel clusters localized within the dark-pigmented region of the lower right lobe.",
+    "linear_abrasions": "A prominent series of parallel, high-contrast white linear streaks (rake marks) is mapped across the mid-section of the left lobe; multiple unaligned, shorter linear pixel disruptions are visible within the central dark-pigmented area."
+  },
+  "acquired_anomalies_or_scars": "Extensive non-uniform tissue loss and jagged cicatrization along the trailing edge boundary, particularly concentrated at the median notch; extensive field of linear rake marks across the left lobe surface.",
+  "other_distinctive_markers": "Highly unique shredded or torn morphology of the interior trailing edge boundary combined with high-density vertical banding on the left lobe."
+}

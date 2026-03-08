@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface with approximately 5% high-intensity (white) pixel coverage localized to punctate scars and edge highlights.",
+    "spatial_color_mapping": "Primary surface consists of contiguous low-intensity dark pixels. Sparse, high-contrast white focal spots are distributed across the central and right lobe regions. High-intensity pixels also define the peripheral boundaries and trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated angle of approximately 75 degrees and a vertical depth comprising 12% of the visible lobe height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (peaks/valleys 2-5 pixels deep) along the entire continuous trailing edge; more irregular and jagged on the distal portion of the left lobe.",
+    "lobe_sweep_trajectory": "Strongly convex curvature on the cranial edges of both lobes, tapering to acute, narrow points at the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular and semi-circular high-contrast white clusters (3-8 pixel diameter) scattered across the ventral surface, particularly dense on the medial and distal sections of the right lobe.",
+    "linear_abrasions": "Faint, unaligned linear pixel disruptions (light gray on black) oriented horizontally across the left lobe and diagonally across the central-right ventral surface."
+  },
+  "acquired_anomalies_or_scars": "Extensive punctate scarring and linear rake-like marks across the ventral surface; distinct jagged erosion of the left lobe tip.",
+  "other_distinctive_markers": null
+}

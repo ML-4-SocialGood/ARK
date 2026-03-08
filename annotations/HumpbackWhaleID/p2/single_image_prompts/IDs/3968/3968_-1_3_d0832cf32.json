@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level ratio; approximately 65% high-intensity (white) pixels to 35% low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Large contiguous white geometric regions map to the distal halves of both lobes. A central black region originates from the peduncle and tapers toward the median notch. Fine-grained low-intensity pixel clusters (mottling) are distributed across the white regions, with higher density on the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated internal angle of approximately 45 degrees; depth extends approximately 12% into the vertical fluke lobe span.",
+    "edge_topography_serration_map": "High-frequency serration pattern along the trailing edge; irregular peaks and valleys range from 4 to 15 pixels in amplitude; most prominent jagged serrations are concentrated on the mid-section of the left lobe's trailing boundary.",
+    "lobe_sweep_trajectory": "Convex mathematical curve fitted to the outer edges of the fluke lobes, sweeping upwards and outwards toward sharp lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Roughly circular high-contrast dark pixel clusters detected at the distal tips of both lobes and along the upper margins, consistent with focal scarring.",
+    "linear_abrasions": "Multiple distinct, unaligned linear dark pixel disruptions (rake marks) are visible across the high-intensity white surface of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular indentation and tissue loss on the superior margin of the left lobe tip, indicating a healed physical trauma.",
+  "other_distinctive_markers": null
+}

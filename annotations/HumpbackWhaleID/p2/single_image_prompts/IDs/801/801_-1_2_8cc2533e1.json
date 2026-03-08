@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 85:15 high-intensity (white) to low-intensity (black) pixel ratio across the visible ventral surface, excluding background water.",
+    "spatial_color_mapping": "Dominant white central region (RGB >240). Contiguous black border (RGB <40) along the trailing edge and tips. Three distinct low-intensity circular spots located in the lower-central medial region of the left lobe and two in the lower-central region of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped central depression with a pixel angle of approximately 50-55 degrees and a vertical depth comprising roughly 12% of the visible vertical span.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude irregular serrations (5-20 pixel amplitude) extending across the entire trailing edge boundary, with extreme vertical jaggedness at the distal tips.",
+    "lobe_sweep_trajectory": "Bi-lateral concave curves fitted to the trailing edge, transitioning to convex curves at the leading edge/tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple high-contrast dark circular pixel clusters (potential barnacle attachment sites) distributed sparsely across the white field; notable cluster of three at the center-medial zone.",
+    "linear_abrasions": "Faint, low-contrast grey linear streaks oriented vertically on the mid-right lobe area."
+  },
+  "acquired_anomalies_or_scars": "Heavy biological encrustation and calcified clusters (barnacles) localized at the distal tips of both lobes, particularly prominent and protruding on the left tip.",
+  "other_distinctive_markers": "A series of deep, irregular U-shaped notches on the inner trailing edge of the right lobe, deviating from the standard serration pattern."
+}

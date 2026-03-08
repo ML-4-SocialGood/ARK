@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio of approximately 45 percent high-intensity (white and tan) to 55 percent low-intensity (dark grey and black) pixels.",
+    "spatial_color_mapping": "High-intensity white region occupies the central-lateral area of the left lobe. A distinct, contiguous tan-colored high-intensity region is located at the distal tip of the right lobe. Low-intensity black pigmentation forms a continuous border along the leading and trailing edges of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A sharp V-shaped depression with an estimated interior angle of 72 degrees and a bounding-box depth approximately 1/6th of the total vertical fluke height.",
+    "edge_topography_serration_map": "Low-frequency, moderate-amplitude serrations (notches) are concentrated on the lateral extremities of the trailing edge. The medial trailing edges exhibit lower frequency pixel-amplitude variations.",
+    "lobe_sweep_trajectory": "Strongly convex sweep along the trailing boundary of both lobes, terminating in pointed posterior-lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, circular, high-contrast white pixel clusters (~2-4 pixels in diameter) are visible within the dark pigment zones of the terminal lobe tips and right trailing edge.",
+    "linear_abrasions": "Several unaligned, low-intensity linear pixel disruptions (rake marks) are visible; one set of diagonal lines on the left lobe and one set of near-vertical lines on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Asymmetric yellowish-tan patch on the distal right lobe; irregular indentations along the right trailing edge suggesting minor historical tissue loss.",
+  "other_distinctive_markers": "Significant color variance in high-intensity regions, specifically the tan hue on the right lobe distal field compared to the white field on the left lobe."
+}

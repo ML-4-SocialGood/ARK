@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) distribution; approximately 95% dark-to-black pixels with <5% high-intensity (white) pixels localized at the trailing edge perimeter.",
+    "spatial_color_mapping": "Solid dark-gray contiguous region across the central and lower fluke area; high-contrast white focal points and mottling restricted to the superior trailing edge of the right lobe (image-right)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central indentation visible; calculated pixel angle of approximately 55 degrees with a visible depth of 45 pixels from the surrounding lobe peaks.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations with pixel amplitudes of 5-15 pixels; multiple sharp vertices visible along the trailing boundary of the curled left lobe.",
+    "lobe_sweep_trajectory": "Right lobe exhibits a concave upper-edge sweep towards a tapered distal tip; left lobe trajectory is occluded and distorted by significant anterior-facing curling."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-intensity, circular pixel groupings (barnacles) are clearly detected on the distal tips and trailing edge of both fluke lobes.",
+    "linear_abrasions": "Faint horizontal and vertical linear disruptions (scratches) are visible on the lower-left dark-pigmented surface."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular notching and jagged erosion along the trailing edge; localized clusters of barnacle colonization on the lobe extremities.",
+  "other_distinctive_markers": "Severe inward curling of the left fluke lobe, creating a non-planar 3D geometry relative to the more planar right lobe."
+}

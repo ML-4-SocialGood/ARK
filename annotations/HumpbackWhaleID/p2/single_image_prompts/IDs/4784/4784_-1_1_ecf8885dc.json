@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast; approximately 70% high-intensity (white) to 30% low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Contiguous high-intensity white regions occupy the central areas of both lobes. Low-intensity black pixels form wide, contiguous bands along the trailing edges and outer margins. Numerous discrete, low-intensity circular blobs are distributed within the white regions of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "High-frequency, irregular serrations present across the entire visible trailing edge. Distal tips exhibit high-amplitude, jagged pixel variations and irregular bulbous extensions.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edges toward the submerged median notch; convex sweep along the lateral margins terminating at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely distributed circular dark-pixel clusters (rosettes) across both lobes, with a high-contrast concentration of ~15 discrete clusters on the image-left lobe and ~12 on the image-right lobe.",
+    "linear_abrasions": "Faint, unaligned vertical and diagonal low-intensity pixel disruptions observed on the lower-left portion of the image-left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular tissue morphology and bulbous calcification/encrustation at both distal tips, disrupting the expected smooth linear boundary.",
+  "other_distinctive_markers": "Distinctive large dark ring-shaped pixel cluster located in the mid-ventral region of the image-right lobe."
+}

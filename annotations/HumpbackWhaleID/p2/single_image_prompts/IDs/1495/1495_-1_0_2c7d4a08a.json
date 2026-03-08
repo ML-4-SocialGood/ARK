@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 3:1 ratio of low-intensity (black/dark grey) pixels to high-intensity (white/mottled) pixels across the visible ventral fluke area.",
+    "spatial_color_mapping": "Dominant high-intensity white field with low-intensity black mottling localized on the distal half of the left lobe; the central peduncle attachment and right lobe are primarily solid low-intensity black with sparse high-intensity speckling concentrated near the trailing edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated internal pixel angle of approximately 70 degrees and a vertical bounding-box depth of roughly 15% of the total fluke height.",
+    "edge_topography_serration_map": "Continuous irregular serration along the trailing edge with pixel-amplitude variations of 3-12 pixels; notable deep jagged indentations located on the medial-to-lateral transition of the left lobe edge.",
+    "lobe_sweep_trajectory": "Convex mathematical curve fitted to the superior edges of both lobes, terminating in acute, slightly tapered distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple circular high-contrast white pixel clusters (5-12 pixels in diameter) distributed sporadically across the central dark pigment and concentrated along the trailing edge of the right lobe.",
+    "linear_abrasions": "Presence of several faint, unaligned light-grey linear disruptions (rake-like marks) visible in the lower central dark region, though partially obscured by water droplets."
+  },
+  "acquired_anomalies_or_scars": "A significant, irregular high-contrast mass consisting of reddish-brown and white pixel clusters located at the extreme distal tip of the left lobe, indicating heavy crustacean colonization (barnacles).",
+  "other_distinctive_markers": "Wide-field distribution of high-intensity specular highlights (water droplets) creating a granular pixel texture across the central dark regions of the fluke surface."
+}

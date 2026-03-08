@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution with approximately 60-65% high-intensity white pixels on the lobes and 35-40% low-intensity black pixels localized in the central region and along the fluke margins.",
+    "spatial_color_mapping": "Dominant high-intensity white contiguous areas on the left and right lobes. A central low-intensity black mass extends from the peduncle attachment to the notch. The left lobe contains a distinct isolated black circular pixel cluster in the upper-outer quadrant and a complex dark geometric mark resembling a 'T' or 'L' in the mid-inner quadrant."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "The central notch exhibits a V-shaped depression with a calculated internal angle of approximately 45 degrees and a bounding-box depth occupying roughly 15% of the vertical fluke profile.",
+    "edge_topography_serration_map": "High-frequency, irregular pixel-amplitude variations along the entire trailing edge. The distal tips exhibit sharp, high-amplitude peaks (8-12 pixels), while the medial trailing edge shows smoother, low-amplitude undulations (2-4 pixels).",
+    "lobe_sweep_trajectory": "The trailing edge follows a concave mathematical curve from the notch towards the mid-lobe, transitioning to a convex sweep at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of high-contrast white circular pixel groups (consistent with barnacle attachment points) are visible along the extreme lateral margins and tips of both the left and right lobes.",
+    "linear_abrasions": "A series of at least three distinct, dark, parallel linear pixel disruptions (rake marks) are visible on the left lobe, oriented vertically and intersected by a secondary horizontal mark."
+  },
+  "acquired_anomalies_or_scars": "Prominent dark linear scarring (rake marks) on the left lobe; irregular yellow-brown pixel staining on the medial-lower portion of the right lobe lobe near the notch.",
+  "other_distinctive_markers": "A singular, highly distinct black circular spot located in the white field of the upper-left fluke tip."
+}

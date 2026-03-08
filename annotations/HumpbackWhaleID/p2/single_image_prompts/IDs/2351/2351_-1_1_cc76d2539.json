@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 55:45 ratio of high-intensity (white/light gray) to low-intensity (black/dark gray) pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Left lobe contains a continuous high-intensity region spanning approximately 80% of its surface, bisected by low-intensity linear streaks. Right lobe features a dominant central low-intensity mass with high-intensity mottling and contiguous patches concentrated on the outer lateral margin."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated internal angle of approximately 75 degrees; depth is roughly 15% of the visible vertical fluke height.",
+    "edge_topography_serration_map": "Trailing edge exhibits high-frequency serration with pixel-amplitude variations of 5-15 pixels. The right lobe trailing edge shows significantly larger irregular jaggedness and more pronounced peaks compared to the left lobe.",
+    "lobe_sweep_trajectory": "Left lobe trailing edge follows a predominantly smooth convex curve transitioning to an acute tip; right lobe exhibits a more complex, segmented convex trajectory with an irregular interruption on the upper edge."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Several small, low-intensity circular pixel clusters detected within the high-intensity field of the left lobe, primarily in the lower-central region.",
+    "linear_abrasions": "Multiple high-contrast, non-parallel linear streaks (dark on white background) oriented diagonally and vertically across the left lobe surface, consistent with rake mark morphology."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular indentation and jagged tissue loss on the upper trailing edge of the right lobe, approximately 1/3 of the distance from the tip to the median notch.",
+  "other_distinctive_markers": "A distinctive, isolated high-intensity 'island' patch is visible within the dark field of the right lobe's lower-medial section."
+}

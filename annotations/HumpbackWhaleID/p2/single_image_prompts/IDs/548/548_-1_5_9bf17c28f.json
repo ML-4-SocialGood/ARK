@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 1:4 ratio of high-intensity (white) to low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Base layer consists of low-intensity black pixels. High-intensity white clusters are localized at the distal fluke tips. An extensive network of high-intensity annular rings is mapped across the mid-section and trailing regions of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped notch with an approximate 125-degree opening and low relative vertical depth.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude irregular serration pattern extracted along the entire trailing edge boundary.",
+    "lobe_sweep_trajectory": "Convex curve trajectory observed from the central axis to the distal tips along the leading edges."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Massive constellation of high-contrast, roughly circular white annular pixel clusters distributed across over 70% of the visible ventral surface.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive distribution of ring-shaped high-contrast markers across the entire visible surface.",
+  "other_distinctive_markers": null
+}

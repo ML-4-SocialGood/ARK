@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.12 high-intensity white pixel coverage relative to the dominant low-intensity dark gray/black ventral surface pixels.",
+    "spatial_color_mapping": "Dominant contiguous low-intensity region across visible fluke body; discrete, high-contrast white circular pixel blobs concentrated along the distal and trailing edge perimeters."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": null,
+    "edge_topography_serration_map": "Jagged, irregular topography with high-frequency pixel variations (amplitude 3-8 pixels) along the continuous edge, primarily caused by calcified biological growth.",
+    "lobe_sweep_trajectory": "Single lobe segment visible exhibiting a gradual convex curve from the lateral tip towards the submerged central region."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of circular white pixel groups (3-12 pixel diameter) localized along the lower-left margin, consistent with barnacle attachment.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive calcified biological encrustations (barnacles) along the distal and trailing edges causing structural surface protrusion.",
+  "other_distinctive_markers": "Upper section of the visible fluke is partially obscured and distorted by a thin layer of surface water and refractive spray."
+}

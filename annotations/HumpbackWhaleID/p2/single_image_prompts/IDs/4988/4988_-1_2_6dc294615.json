@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Extremely low ratio of high-intensity to low-intensity pixels; approximately 95% of the visible surface area consists of low-intensity (black/dark grey) pixels, with high-intensity (white) pixels localized almost exclusively to the distal tips and surface scratches.",
+    "spatial_color_mapping": "Primary surface is a solid, contiguous low-intensity dark field across both lobes. Distinct high-contrast contiguous geometric blobs (white) are mapped specifically to the far lateral distal tips of the left and right lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped central depression with a sharp convergence point; the bounding-box depth is approximately 15% of the visible fluke height.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations present across the entire trailing edge boundary. Significant jagged peaks and valleys are extracted, particularly in the mid-section of both lobes, isolated against the lighter water background.",
+    "lobe_sweep_trajectory": "Symmetric convex curves extending from the median notch and sweeping upward to sharp, slightly recurved tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, roughly circular high-contrast pixel clusters (white on black) detected at the extreme distal tips of both lobes, consistent with barnacle colonization.",
+    "linear_abrasions": "Multiple thin, unaligned linear pixel disruptions (white rake-like marks) visible as distinct scratches against the dark pigmentation of the inner and outer lobe surfaces."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization at the lateral tips; significant irregular chipping and jaggedness along the trailing edge topography representing historical tissue degradation.",
+  "other_distinctive_markers": null
+}

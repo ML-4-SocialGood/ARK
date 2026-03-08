@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low ratio of high-intensity to low-intensity pixels; predominantly low-intensity (black) surface with small, localized high-intensity (white) clusters occupying approximately <10% of the visible area.",
+    "spatial_color_mapping": "Primary low-intensity (black) background across the entire visible surface. High-intensity (white) clusters are concentrated at the distal tips. Distinct annular and circular white pixel formations (rosettes) and linear white streaks are distributed across the central region of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression at the center-point with an estimated pixel angle between 45 and 55 degrees.",
+    "edge_topography_serration_map": "Left lobe trailing edge exhibits a consistent low-amplitude serrated pattern. Right lobe trailing edge exhibits a highly irregular, high-amplitude topography with a significant rectangular-shaped indentation (tissue loss) approximately one-third of the way from the tip toward the notch.",
+    "lobe_sweep_trajectory": "Bilateral convex curve fitted to the trailing edges, extending from the median notch to the outer tips, with significant asymmetry in the right lobe curve due to acquired indentation."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular and annular high-contrast pixel clusters (diameters ranging from 10-50 pixels) scattered across the ventral surface, most concentrated in the middle-medial sections of both lobes.",
+    "linear_abrasions": "Numerous unaligned, high-contrast linear pixel disruptions (rake-like scratches) crossing the low-intensity background at various angles across both lobes."
+  },
+  "acquired_anomalies_or_scars": "Major irregular jagged indentation on the trailing edge of the right lobe. Dense high-intensity, high-relief clusters (barnacle colonization) localized on the outer distal tips of both lobes.",
+  "other_distinctive_markers": "Pronounced asymmetry between the left and right lobe trailing edge profiles due to significant localized tissue absence on the right lobe."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) surface with approximately 95% coverage; high-intensity (white) pixels are limited to scattered punctate regions and specular highlights, resulting in a high local contrast but low global high-to-low intensity ratio.",
+    "spatial_color_mapping": "Solid low-intensity black background across both lobes. High-frequency, high-intensity white pixel clusters (diameter 1-4 pixels) are densely mapped across the lower-medial surface and trailing edge. Low-contrast circular ring features (rosettes) are mapped in the upper-medial region of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped central depression with a calculated pixel-based angle of approximately 58 degrees and a bounding-box depth relative to the apex of the lobes.",
+    "edge_topography_serration_map": "Continuous irregular serrations across the trailing boundary; peak-to-valley amplitudes range from 2 to 12 pixels. The serration frequency increases in the medial region adjacent to the central notch.",
+    "lobe_sweep_trajectory": "Convex curvature fitted to the superior edges of both lobes, transitioning into sharp, slightly tapered distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Visible cluster of approximately three circular high-contrast ring structures on the upper quadrant of the left lobe, plus numerous white circular scars concentrated near the ventral peduncle area.",
+    "linear_abrasions": "A single distinct vertical linear high-intensity mark is located on the lower-medial section of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Detection of bulbous, irregular clusters at the extreme distal tip of the right lobe, consistent with sessile barnacle colonization. Significant irregular notches on the trailing edge of the left lobe suggest previous mechanical tissue loss.",
+  "other_distinctive_markers": "Densely distributed high-intensity specular highlights across the ventral surface indicative of residual water droplets."
+}

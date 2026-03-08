@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.05:0.95 (high-intensity features to low-intensity primary surface)",
+    "spatial_color_mapping": "Homogeneous low-intensity (black) across 95% of the visible surface. Contiguous high-contrast textured blob cluster located at the lateral margin of the left lobe. Scattered single-pixel high-intensity points across the ventral surface (water spray)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Obtuse V-shaped depression with a calculated pixel angle of approximately 115 degrees relative to the lobe axes.",
+    "edge_topography_serration_map": "Right lobe trailing edge displays low-amplitude micro-serrations; left lobe trailing edge displays higher-amplitude, irregular macro-notches with distinct tissue voids.",
+    "lobe_sweep_trajectory": "Convex curvature along the trailing edge of both lobes extending towards the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Densely packed cluster of roughly circular, high-contrast textured pixel anomalies (barnacle colonization) localized on the outer lateral edge of the left lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization on the distal margin of the left fluke lobe; irregular trailing edge profile on the left lobe suggests historical tissue loss or trauma.",
+  "other_distinctive_markers": null
+}

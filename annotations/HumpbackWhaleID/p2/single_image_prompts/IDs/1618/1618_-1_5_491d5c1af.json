@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 80:20 ratio of low-intensity (black/dark-grey) to high-intensity (white) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Densely clustered high-contrast white ring-shaped blobs located on the distal and medial quadrants of the right lobe. Sparse, isolated circular white spots detected on the medial section of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central depression with a calculated angle of approximately 110 degrees.",
+    "edge_topography_serration_map": "High-frequency serration along the continuous linear boundary; peak-to-valley amplitudes range from 2 to 12 pixels, with maximum irregularity observed at the lateral lobe tips.",
+    "lobe_sweep_trajectory": "Convex mathematical curve fitted from the median notch to the outer fluke tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular white rings (barnacle scars) forming a dense constellation on the right lobe; approximately 30-40 discrete units visible. Scattered rings on the left lobe medial area.",
+    "linear_abrasions": "Fine, unaligned linear white pixel disruptions visible on the upper-medial region of the right lobe, oriented diagonally."
+  },
+  "acquired_anomalies_or_scars": "Localized clusters of brownish-grey, textured pixel masses (barnacle colonization) adhering to the extreme distal tips of both the left and right lobes.",
+  "other_distinctive_markers": null
+}

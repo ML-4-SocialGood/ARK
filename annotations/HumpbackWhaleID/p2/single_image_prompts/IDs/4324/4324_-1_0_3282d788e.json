@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 60:40 ratio of high-intensity (white/off-white) to low-intensity (black/dark-grey) pixels across the visible ventral area.",
+    "spatial_color_mapping": "Dominant high-intensity (white) contiguous regions occupy the lateral lobes. A central low-intensity (black) anchor originates at the insertion point, bisecting the lobes and extending along the interior trailing edge. Fine-grained low-intensity mottling and linear streaks are distributed across the high-intensity lateral fields."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a vertex angle of approximately 88-92 degrees; notch depth is approximately 12% of the total vertical height of the visible fluke.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude (2-4 pixel) serration along the distal trailing edge. The left lobe exhibits more pronounced, irregular jagged peaks compared to the smoother trajectory of the right lobe's outer trailing edge.",
+    "lobe_sweep_trajectory": "The leading edges display a symmetrical concave trajectory from the center to the distal tips, terminating in sharp upward-curving points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast, high-texture clusters of high-intensity pixels (barnacle colonies) are localized at the extreme distal tips of both the left and right lobes. Small isolated white circular marks are visible within the dark central region.",
+    "linear_abrasions": "Multiple dark, unaligned linear pixel disruptions are detected. One prominent vertical-oblique mark is visible on the upper-left lobe; three distinct diagonal rake marks are visible on the mid-to-lower right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization at both distal tips. Multiple linear rake marks/scars across the white surface of both lobes. A distinct small U-shaped indentation (likely tissue loss) is visible on the inner trailing edge of the left lobe.",
+  "other_distinctive_markers": "Presence of low-intensity yellowish-brown pigment shifts (staining) on the high-intensity regions of the right lobe near the median notch."
+}

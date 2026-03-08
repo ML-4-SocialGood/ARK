@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixels across >85% of surface area, with high-intensity (white) pixel clusters localized in scars and markings creating a high local contrast but low global ratio.",
+    "spatial_color_mapping": "Dispersed high-intensity white circular blobs (rosettes) concentrated in the lower left quadrant; linear white filaments on the right lobe; a larger contiguous white/grey patch at the far right distal tip (coordinate extreme right)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped central depression with a sharp vertex; depth estimated at 1/5th of the vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the entire trailing edge boundary; amplitude of peaks varies from 2-10 pixels relative to local baseline; texture is jagged with no repeating uniform intervals.",
+    "lobe_sweep_trajectory": "Strongly convex curves on the leading edges (lower boundaries) tapering to sharp, pointed distal tips on both the left and right lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular white pixel clusters, likely barnacle attachment sites, densely grouped in the lower mid-left lobe and scattered across the central right lobe.",
+    "linear_abrasions": "Numerous unaligned linear white pixel disruptions; visible as diagonal 'rake marks' on the upper right lobe and horizontal scratches near the central notch."
+  },
+  "acquired_anomalies_or_scars": "Extensive white scarring and rake marks visible across both lobes; significant irregular white pigmentation/scarring at the right fluke tip.",
+  "other_distinctive_markers": "A specific constellation of 4-5 high-intensity circular white spots forming a localized cluster in the lower center-left region."
+}

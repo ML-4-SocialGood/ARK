@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution characterized by approximately 65-70% high-intensity white pixels across the interior fields and 30-35% low-intensity black pixels concentrated at the margins and central notch.",
+    "spatial_color_mapping": "Bilateral contiguous white blobs occupy the central lobe regions; low-intensity black pixels form a continuous peripheral band along the trailing edge and radiate in dense, linear 'brush-stroke' patterns from the central notch toward the lobe midpoints."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated interior angle of approximately 75 degrees; deep vertical penetration into the fluke body relative to the trailing edge plane.",
+    "edge_topography_serration_map": "High-frequency, irregular serration profile; pixel-amplitude variations create a jagged boundary along the entire trailing edge, with distinct peaks and valleys most prominent on the outer-third of both lobes.",
+    "lobe_sweep_trajectory": "Symmetric concave sweep following a parabolic curve from the central notch toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Clusters of high-contrast, textured light pixels (barnacle colonies) localized specifically on the extreme terminal tips of the left and right lobes.",
+    "linear_abrasions": "Multiple sets of dark-on-white linear pixel disruptions (rake marks) showing parallel orientation, most visible on the interior white field of the left lobe and lower-mid right lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant biological encrustations on both lobe tips; multiple sets of intersecting linear rake marks suggesting external physical interactions.",
+  "other_distinctive_markers": "A single, isolated circular dark ring (focal spot) located on the white pixel field of the right lobe, approximately 40% of the distance from the notch to the tip."
+}

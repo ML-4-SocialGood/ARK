@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) surface area with high-intensity (white) pixels accounting for less than 1.5% of the total visible ventral surface.",
+    "spatial_color_mapping": "Homogeneous low-intensity field with a high-contrast C-shaped white geometric blob on the mid-left lobe and a vertical constellation of white punctate clusters localized around the peduncle-fluke junction."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression; interior pixel angle calculated at approximately 44 degrees relative to the horizontal plane of the lobe trailing edges.",
+    "edge_topography_serration_map": "Continuous irregular trailing boundary; right lobe exhibits high-frequency serrations with pixel-amplitudes between 3-7 pixels; left lobe exhibits lower-frequency, smoother undulating peaks.",
+    "lobe_sweep_trajectory": "Bilateral convex curve fitted from the center base to the lateral tips, resulting in sharp, posteriorly-oriented fluke points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Single distinct semi-circular (C-shaped) high-contrast white cluster on the left lobe; several isolated circular white clusters (diameters < 5 pixels) detected in the lower central quadrant.",
+    "linear_abrasions": "Detection of three unaligned, fine white linear pixel streaks on the right lobe, oriented diagonally toward the lateral tip."
+  },
+  "acquired_anomalies_or_scars": "Distinct white semi-circular scar on the left lobe; irregular, jagged margins near the central notch suggesting historical tissue loss.",
+  "other_distinctive_markers": "Single isolated high-intensity circular pixel cluster located near the trailing edge of the right lobe tip."
+}

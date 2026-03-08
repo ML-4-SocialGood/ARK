@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 1.5:1 ratio of white high-intensity pixels to black low-intensity pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "Dominant central black pigmentation zone radiating from the median notch, bifurcating into both lobes. Left lobe features a large white contiguous field with black mottling along the lower trailing edge and a solid black distal tip. Right lobe features a white contiguous field with black pigmentation extending along the inner trailing edge and the distal tip."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central notch with an estimated internal pixel angle of 65 degrees and a bounding box depth approximately 12% of the vertical fluke height.",
+    "edge_topography_serration_map": "Asymmetric serration density; left lobe trailing edge displays low-frequency, low-amplitude micro-irregularities; right lobe trailing edge displays high-frequency, moderate-amplitude serrations (saw-tooth profile) transitioning to a more irregular border toward the tip.",
+    "lobe_sweep_trajectory": "Bilateral concave sweep trajectory leading to distal tips. Left lobe distal tip exhibits a pronounced inward-curving hook (falcate morphology). Right lobe distal tip exhibits a tapered upward sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distributed dark circular pixel clusters (mottling) are observed on the white ventral fields, with a higher concentration of small clusters along the medial boundary of the left lobe.",
+    "linear_abrasions": "A series of 4-6 parallel, vertically oriented dark linear marks (rake-like disruptions) are visible on the white mid-section of the right lobe ventral surface."
+  },
+  "acquired_anomalies_or_scars": "Pronounced jagged erosion on the trailing edge of the right lobe lobe compared to the left suggests physical wear or historic trauma. Distinctive hooked morphology of the left fluke tip.",
+  "other_distinctive_markers": "An avian subject (white/gray pixel cluster) is detected in the upper-right background quadrant, isolated from the whale subject."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Bimodal distribution; dark pixels (low-intensity) constitute approximately 75% of the surface area, while high-intensity pixels (white/cream) constitute approximately 25% located at the distal margins.",
+    "spatial_color_mapping": "Primary low-intensity (black) region occupies the central and inferior areas. High-intensity (cream) pigmentation is mapped to the superior margins and distal tips of both lobes; left lobe tip shows mottled, irregular pixel distribution, while the right lobe tip exhibits a more contiguous, solid band along the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Wide V-shaped central notch with a measured interior angle of approximately 110 degrees and a depth roughly 12% of the total vertical height of the fluke.",
+    "edge_topography_serration_map": "High-frequency micro-serrations across the entire trailing edge boundary. A prominent, large-amplitude semi-circular indentation is detected mid-way along the trailing edge of the left lobe.",
+    "lobe_sweep_trajectory": "Convex sweep from the center, terminating in sharp, upward-turned distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "A small cluster of 3-4 high-contrast circular pixel groups detected on the mid-section of the right lobe’s dark surface.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Significant geometric defect (concave indentation) on the trailing edge of the left lobe lobe indicating acquired trauma.",
+  "other_distinctive_markers": null
+}

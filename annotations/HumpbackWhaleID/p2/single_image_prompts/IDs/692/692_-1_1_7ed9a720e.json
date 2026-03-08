@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) pixels across the fluke surface with scattered high-intensity (white) focal points; contrast ratio estimated at approximately 8.5:1 dark-to-light pixel distribution.",
+    "spatial_color_mapping": "Continuous dark pigmentation base; spatial mapping shows multiple discrete high-intensity circular blobs (diameter 5-15 pixels) across both lobes, with a larger concentrated irregular white cluster on the inner-lower quadrant of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped median notch with an approximate pixel angle of 52 degrees and a bounding-box depth extending roughly 15% into the total fluke height.",
+    "edge_topography_serration_map": "Highly irregular trailing edge topography with high-frequency pixel-amplitude variations (serrations) ranging from 3 to 12 pixels in depth along the entire boundary.",
+    "lobe_sweep_trajectory": "Concave-to-convex sweep trajectory extending from the median notch to the outer tips; lobes exhibit upward curvature with rounded terminal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High density of localized, roughly circular high-contrast white pixel clusters distributed across the global ventral surface, particularly dense on the lower margins of both lobes.",
+    "linear_abrasions": "Set of 4-6 parallel, unaligned linear pixel disruptions (rake marks) visible on the inner right lobe, oriented at a diagonal angle toward the median notch."
+  },
+  "acquired_anomalies_or_scars": "Extensive linear scarring (rake marks) on the inner right lobe and global circular scarring across the entire visible fluke surface.",
+  "other_distinctive_markers": "Alphanumeric metadata overlay in the bottom third of the frame: 'TEC88-90/19 ID 11355 TODD CHANDLER 16 JULY 99 Monterey-Santa Cruz'."
+}

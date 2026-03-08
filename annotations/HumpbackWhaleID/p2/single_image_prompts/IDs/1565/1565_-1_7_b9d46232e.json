@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High. Approximately 75% of the visible surface consists of high-intensity white pixels concentrated in the central and upper lobe regions, contrasted by approximately 25% low-intensity black pixels located at the perimeter and in internal markings.",
+    "spatial_color_mapping": "Primary high-intensity white contiguous field covering the medial regions of both lobes. Low-intensity black border framing the entire trailing and leading edge boundaries. Interspersed low-intensity linear and punctate blobs distributed throughout the white high-intensity fields, with higher density on the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with a calculated interior pixel angle of approximately 42 degrees; depth of notch is roughly 15% of the total vertical height of the fluke.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations observed along the continuous trailing edge. The serration pattern is most pronounced on the inner trailing edges adjacent to the median notch, showing pixel-level variations in vertical amplitude (peaks and valleys).",
+    "lobe_sweep_trajectory": "Concave curvature originating from the lower center, sweeping outward and upward to sharp, upward-pointing tips. The outer boundaries exhibit a smooth, convex mathematical curve."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density, circular, textured pixel clusters with high local contrast are present at the extreme distal tips of both the left and right lobes, consistent with localized surface accretions.",
+    "linear_abrasions": "Numerous low-intensity linear pixel disruptions (rake marks) are detected. These include a cluster of roughly vertical parallel lines on the right lobe and several isolated diagonal lines on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive textured clusters at the tips of both lobes; multiple distinct linear rake marks across both ventral surfaces; a notable dark circular mark on the lower-left quadrant of the left lobe.",
+  "other_distinctive_markers": "Pronounced jagged protrusion on the far right distal edge immediately below the barnacle cluster."
+}

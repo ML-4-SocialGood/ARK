@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Macro-level ratio is heavily dominated by low-intensity (black) pixels, estimated at approximately 96% dark to 4% high-intensity (white/light gray) pixels primarily attributed to scarring and barnacles.",
+    "spatial_color_mapping": "Solid low-intensity dark field across the entire ventral area; high-contrast contiguous pixel clusters localized at the extreme distal tips (barnacle colonies) and sparse, thin linear streaks (scars) distributed across the left and center-lower lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped notch with an acute internal vertex angle of approximately 48 degrees; depth of depression is significant relative to the horizontal axis of the fluke lobes.",
+    "edge_topography_serration_map": "Continuous irregular serration along the trailing edge boundary; moderate frequency peaks with pixel-amplitudes varying between 5-15 pixels from the mean edge line, isolated against the lighter water background.",
+    "lobe_sweep_trajectory": "Strong concave curvature originating from the median notch, transitioning to a convex sweep along the mid-portion of the trailing edge towards the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Large, high-contrast, textured light-beige pixel clusters concentrated at the terminal tips of both the left and right lobes; additional small, circular high-intensity spots scattered near the center-right lobe.",
+    "linear_abrasions": "Multiple distinct white linear pixel disruptions; a parallel series of three rake marks visible on the left lobe and individual vertical scratches near the lower central peduncle connection."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle encrustations at the lateral tips providing an irregular, non-smooth boundary; multiple sets of linear rake-mark scars resulting in local loss of dark pigmentation.",
+  "other_distinctive_markers": "The barnacle clusters at the distal tips are exceptionally pronounced, extending beyond the structural tissue boundary of the fluke lobes."
+}

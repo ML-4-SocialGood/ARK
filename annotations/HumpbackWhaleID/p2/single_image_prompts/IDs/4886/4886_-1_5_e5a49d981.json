@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 60% high-intensity (white) pixels dominating the central regions of both lobes, contrasted with 40% low-intensity (black/dark-grey) pixels concentrated along the perimeter and median notch.",
+    "spatial_color_mapping": "High-intensity white contiguous areas located in the center of both lobes. Low-intensity dark mottling follows the trailing edge. Distinct vertical linear features are mapped to the distal-mid region of the left lobe. Discrete circular clusters are mapped to the upper-distal region of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A sharp V-shaped depression with an approximate pixel angle of 55 degrees and a high depth-to-width ratio.",
+    "edge_topography_serration_map": "Medium-frequency, low-amplitude serrations along the majority of the trailing edge, culminating in high-amplitude, irregular jagged peaks (3-4 distinct protrusions) at the right lobe tip.",
+    "lobe_sweep_trajectory": "The trailing edge follows a concave sweep trajectory from the median notch toward the distal tips, while the visible portions of the leading edge exhibit convex curvature."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular dark pixel clusters (approximately 6-8) visible on the right lobe, consistent with rosette-pattern scarring or colonization markers.",
+    "linear_abrasions": "Three distinct, roughly parallel vertical low-intensity linear disruptions located on the ventral surface of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive irregular dark mottling and edge erosion present across the entire length of the trailing edge boundary.",
+  "other_distinctive_markers": "Alphanumeric watermark 'AK04 033bw' rendered in high-intensity white pixels in the bottom right corner of the image field."
+}

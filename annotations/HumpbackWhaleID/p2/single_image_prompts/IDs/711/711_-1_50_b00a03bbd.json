@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution dominated by low-intensity (black) pixels covering approximately 85% of the visible surface, with high-intensity (white/tan) regions localized at distal tips and linear markings.",
+    "spatial_color_mapping": "Central and proximal regions consist of a contiguous low-intensity black field; high-intensity white/grey pigment clusters are localized at the distal tip of the left lobe; distinct brown/tan textured clusters (barnacles) are mapped to the extreme lateral margins of both lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression; interior angle visible at approximately 45 degrees; precise apex coordinate and depth are null due to water splash occlusion.",
+    "edge_topography_serration_map": "Irregular serrated boundary along the trailing edge; peaks and valleys range from 2 to 12 pixels in amplitude; highest frequency of serration observed on the right lobe trailing edge against the water background.",
+    "lobe_sweep_trajectory": "The left lobe follows a low-curvature convex horizontal trajectory; the right lobe follows a high-curvature convex upward trajectory."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense 3D textured clusters of brown and tan circular structures (barnacles) concentrated on the distal margins; secondary white circular scar patterns visible on the central right lobe.",
+    "linear_abrasions": "Multiple high-contrast white linear disruptions; prominent vertical parallel rake marks on the right lobe; sparse diagonal scratches on the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant barnacle colonization on both distal fluke tips; extensive white linear scarring (likely rake marks) on the ventral surface of the right lobe.",
+  "other_distinctive_markers": null
+}

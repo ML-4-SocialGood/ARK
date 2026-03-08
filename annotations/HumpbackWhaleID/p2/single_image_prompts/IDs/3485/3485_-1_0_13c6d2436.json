@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark) with approximately 5-8% high-intensity (white/grey) pixel coverage on the visible fluke surface.",
+    "spatial_color_mapping": "Dominant contiguous black region across both lobes. Stochastic distribution of small white/light-grey circular pixel blobs (mottling) throughout. Concentrated high-intensity clusters at distal lobe tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Visible shallow V-shaped depression at central junction; estimated obtuse angle with low depth-to-width ratio.",
+    "edge_topography_serration_map": "Continuous irregular trailing boundary with frequent low-amplitude peaks; serration frequency increases significantly toward the distal tips.",
+    "lobe_sweep_trajectory": "Symmetric convex upward curve following a parabolic trajectory from the median notch to the outer tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, roughly circular high-contrast pixel clusters (rosettes) localized at the extreme distal tips of both lobes. Scattered individual white pixel points across the main surface body.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive accumulation of light-colored, irregular pixel clusters at distal tips, resulting in altered geometric contours compared to smooth lobe edges.",
+  "other_distinctive_markers": null
+}

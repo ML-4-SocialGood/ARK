@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High. Approximate 9:1 ratio of high-intensity white pixels to low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Uniform high-intensity (white) zone across the primary fluke body. Low-intensity (black) pixels form a narrow continuous boundary along the trailing edge and dense clusters at the distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate pixel angle of 85 degrees and a vertical depth of ~12% relative to lobe height.",
+    "edge_topography_serration_map": "Irregular micro-serrations (2-4 pixel amplitude) along the medial trailing edge, transitioning to macro-serrations and jagged protrusions (10+ pixel amplitude) at the lobe tips.",
+    "lobe_sweep_trajectory": "Symmetrical convex curves extending from the median notch to the distal lobe extremities."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct rough-textured clusters at both distal tips. Several circular, low-contrast indentations visible on the surface of the left and right lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Heavy biological encrustations (likely barnacles) concentrated on the distal lobe tips, altering the smooth geometric contour.",
+  "other_distinctive_markers": "Predominantly white pigmentation (Type 1 fluke) with minimal internal mottling."
+}

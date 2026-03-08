@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels occupy approximately 20-25% of the visible surface area, concentrated at the distal tips, while low-intensity black pixels occupy approximately 75-80% of the central and proximal surface.",
+    "spatial_color_mapping": "Contiguous high-intensity white blobs are located at the far distal tips of both lobes. The left lobe contains a large, dense, irregularly shaped white patch extending from the far-left edge inward. The right lobe displays a smaller, fragmented white cluster at the far-right tip. The central region is a solid low-intensity black mass."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "The central depression is a deep, V-shaped notch with an approximate pixel angle of 50 degrees and a significant bounding-box depth relative to the lobe height.",
+    "edge_topography_serration_map": "The trailing edge exhibits a high-frequency serration pattern with multiple peaks and valleys. Notable high-amplitude peaks are visible along the upper-left margin, while the upper-right margin contains a deep, distinct irregular valley (notch).",
+    "lobe_sweep_trajectory": "The outer edges of both lobes follow a convex curvature sweeping upward and outward toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, high-contrast circular white pixel clusters are visible within the dark regions and along the margins of the distal white patches, particularly on the left lobe.",
+    "linear_abrasions": "Faint, vertically-oriented linear pixel disruptions are detectable on the ventral surface of the right lobe, breaking the uniform black pigmentation."
+  },
+  "acquired_anomalies_or_scars": "The trailing edge shows significant acquired trauma in the form of deep, irregular indentations and jagged nicks, most notably a large notch on the upper margin of the right lobe.",
+  "other_distinctive_markers": "The boundary interface between the high-intensity white patches and the low-intensity black central region is highly interdigitated and non-linear, especially on the left lobe."
+}

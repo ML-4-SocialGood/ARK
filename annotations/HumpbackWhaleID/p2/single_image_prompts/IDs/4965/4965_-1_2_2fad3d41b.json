@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High contrast ratio approximately 70:30 low-intensity (black/dark grey) to high-intensity (white) pixels. Brightness is concentrated at the distal tips of the lobes.",
+    "spatial_color_mapping": "Large contiguous white blobs located at both distal tips. The right lobe distal region contains a larger, more irregular white patch with dark focal spots. The left lobe distal region contains a smaller, cleaner white patch. The central fluke body consists of a solid low-intensity dark mass."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped notch with an estimated angle of 135 degrees and a moderate bounding-box depth relative to lobe width.",
+    "edge_topography_serration_map": "High-frequency serration along the entire trailing edge. Right lobe distal edge displays deep, high-amplitude valleys. Left lobe trailing edge displays lower-amplitude, more regular peaks.",
+    "lobe_sweep_trajectory": "Convex curve on the leading edges tapering to sharp points at the distal ends; trailing edge follows a generally linear trajectory interrupted by serrations."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Small, scattered high-intensity circular pixel clusters visible on the dark pigment of the inner left lobe.",
+    "linear_abrasions": "Distinct, multi-directional linear white marks (rake marks) concentrated on the right lobe, cutting through the dark pigment area."
+  },
+  "acquired_anomalies_or_scars": "Prominent parallel linear rake marks on the right lobe and significant irregular notch-like tissue loss on the distal trailing edge of the right lobe.",
+  "other_distinctive_markers": "Unique 'hook' shape at the extreme distal tip of the right lobe combined with dense white scarring."
+}

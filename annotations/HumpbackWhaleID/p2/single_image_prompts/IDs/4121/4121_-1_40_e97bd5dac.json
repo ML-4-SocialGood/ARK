@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 70% low-intensity (dark) to 30% high-intensity (white) pixel distribution across the visible fluke surface.",
+    "spatial_color_mapping": "Large high-intensity (white) region on the distal left lobe with internal dark mottling. Smaller high-intensity patch at the distal tip of the right lobe. The medial and proximal regions are predominantly low-intensity (dark)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct U-shaped median notch with an estimated interior pixel angle of 115 degrees and a depth of approximately 50 pixels from the lobe peaks.",
+    "edge_topography_serration_map": "Highly irregular trailing edge boundary with high-frequency serrations. The left lobe exhibits fine-grained peaks, while the right lobe shows deeper, more widely spaced V-shaped notches.",
+    "lobe_sweep_trajectory": "Lobes exhibit a general convex leading edge sweep with a highly irregular and jagged trailing edge trajectory."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple dark circular clusters (2-10 pixels in diameter) localized within the high-intensity white patch of the left lobe, concentrated towards the trailing edge.",
+    "linear_abrasions": "Visible dark vertical linear marks (rake marks) disrupting the high-intensity white pigmentation on the distal portion of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant non-uniform serration and deep notches along the trailing edge of the right lobe, consistent with past physical trauma.",
+  "other_distinctive_markers": null
+}

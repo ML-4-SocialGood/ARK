@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Bimodal intensity distribution with a dominant high-intensity central region (light grey/white) occupying approximately 65% of the surface area, contrasted by low-intensity (black/dark grey) peripheral zones and linear features occupying approximately 35%.",
+    "spatial_color_mapping": "High-intensity contiguous zones are centrally located on both lobes. A thick, low-intensity peripheral band (5-20 pixel width) follows the trailing edge. A complex cluster of low-intensity linear segments is localized to the mid-to-lower quadrant of the left lobe. Mottled low-intensity pixel clusters are concentrated around the median notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped depression with a calculated internal pixel angle of approximately 42 degrees. The vertical depth of the notch is approximately 14% of the visible vertical fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serration profile detected along the entire trailing edge boundary. Pixel-amplitude variations range from 2 to 8 pixels, with the highest peak density occurring at the distal 20% of the left and right lobes.",
+    "lobe_sweep_trajectory": "Concave mathematical curve observed along the trailing edges of both lobes, sweeping from the median notch to the distal tips with an increasing positive gradient."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Focal, roughly circular low-intensity pixel clusters (diameter 4-10 pixels) are detected along the upper distal margins and the leading edge boundary near the water line.",
+    "linear_abrasions": "Highly distinct, dark linear pixel disruptions detected primarily on the left lobe, including a prominent set of three parallel tracks and multiple intersecting diagonal scars creating a cross-hatch pattern."
+  },
+  "acquired_anomalies_or_scars": "Extensive dental rake marks on the left lobe ventral surface; irregular, high-contrast pigmentation erosion along the trailing edge serrations.",
+  "other_distinctive_markers": "Specific 'X' pattern intersection of rake marks located in the central region of the left lobe surface."
+}

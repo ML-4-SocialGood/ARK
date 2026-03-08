@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 0.75:0.25 light-intensity (grey/white) to low-intensity (dark pigmentation/spots) across the visible ventral surface.",
+    "spatial_color_mapping": "Light grey base pigmentation across the fluke field; dark continuous banding along the trailing edges and distal tips; high-contrast focal black spots (diameter 10-30 pixels) scattered across both lobes; distinctive vertical chain of contiguous dark blobs located at the central axis descending from the median notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with a calculated internal angle of approximately 95 degrees and a bounding-box depth approximately 10% of the lobe height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations present along the majority of the trailing edge; transition to higher-amplitude, irregular peaks and valleys at the distal tips of both lobes.",
+    "lobe_sweep_trajectory": "Composite curve exhibiting convexity emerging from the notch, transitioning to a slight concavity along the mid-section, and ending in rounded distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular dark-on-light pixel clusters distributed semi-randomly; higher spatial density observed on the inner-half of the left lobe (viewer left).",
+    "linear_abrasions": "Isolated diagonal dark linear disruption visible on the mid-quadrant of the right lobe; low frequency across the total surface area."
+  },
+  "acquired_anomalies_or_scars": "A prominent vertical, segmented chain of dark circular pigmentation/scarring extending from the median notch toward the peduncle, suggesting significant unique marking or healed trauma.",
+  "other_distinctive_markers": "The vertical 'spine-like' alignment of dark spots at the fluke midline is a highly unique identifier not typical of standard mottling patterns."
+}

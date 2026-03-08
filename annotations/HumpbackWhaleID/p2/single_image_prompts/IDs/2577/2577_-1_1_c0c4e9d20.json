@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels occupy approximately 88% of the visible fluke surface, contrasted against 12% low-intensity dark pixels concentrated at the perimeter and axial base.",
+    "spatial_color_mapping": "Broad contiguous high-intensity white region spanning both lobes. Low-intensity dark border #000000 follows the trailing edge and tips. A central, low-intensity irregular shape extends from the peduncle junction toward the median notch, characterized by feathered, high-contrast pixel boundaries."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an internal angle of approximately 52 degrees and a vertical depth comprising roughly 20% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (stair-step pixel patterns) along both trailing edges. Right lobe shows increased pixel-level irregularity and jaggedness compared to the left.",
+    "lobe_sweep_trajectory": "Primary convex sweep from the notch to the mid-lobe point, followed by a slight tapering convexity toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "One distinct, low-intensity circular cluster located on the mid-ventral surface of the left lobe; no other clustered pixel groups detected.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Irregular bulbous protrusion and structural thickening located at the right lateral fluke tip, creating a significant departure from the linear trajectory of the trailing edge.",
+  "other_distinctive_markers": null
+}

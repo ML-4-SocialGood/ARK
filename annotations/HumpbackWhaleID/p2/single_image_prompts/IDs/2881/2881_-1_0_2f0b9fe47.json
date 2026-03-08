@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black/dark grey) base with high-intensity (white) pixel clusters representing approximately 5-8% of the visible surface area.",
+    "spatial_color_mapping": "Discontinuous high-contrast white blobs. Mapping includes a cluster of three spots at the distal left tip, a vertical pair on the mid-left lobe, a single prominent spot proximal to the median notch, and several diffuse spots scattered across the right lobe surface."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate 45-degree interior angle between the inner lobe boundaries.",
+    "edge_topography_serration_map": "High-frequency jagged serration on the right lobe trailing edge; left lobe displays a smoother topography with discrete, deep notches located near the distal end.",
+    "lobe_sweep_trajectory": "Left lobe follows a convex trajectory tapering to a sharp, narrow point; right lobe follows a broader convex curve ending in a more rounded distal edge."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Multiple circular white pixel clusters detected; highest density is found on the upper-left distal tip and lower-right central surface.",
+    "linear_abrasions": "Several faint, unaligned linear pixel disruptions; specifically, two diagonal marks on the mid-left lobe and one vertical mark on the lower-right lobe quadrant."
+  },
+  "acquired_anomalies_or_scars": "Irregular jagged contouring on the far right distal edge indicating tissue loss; prominent serrations along the trailing edge consistent with mechanical wear.",
+  "other_distinctive_markers": "High-intensity white pixel noise (water spray) occluding the ventral-peduncle insertion point at the bottom center."
+}

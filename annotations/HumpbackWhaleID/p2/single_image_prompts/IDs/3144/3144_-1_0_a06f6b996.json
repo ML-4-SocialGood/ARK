@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast distribution characterized by a dominant low-intensity (black) central region comprising approximately 65% of the visible surface, and high-intensity (white) distal regions comprising approximately 35%.",
+    "spatial_color_mapping": "Centralized contiguous low-intensity blob extending from the peduncle attachment point outward to the median notch. High-intensity contiguous blobs are mapped to the distal quadrants of both the left and right lobes, with higher visibility and sharper boundaries on the right lobe distal edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a calculated internal angle of approximately 55-65 degrees, heavily shadowed at the vertex.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations detected along the right lobe trailing edge with pixel-amplitudes varying between 3-8 pixels; left lobe trailing edge is partially occluded by water turbulence and spray, preventing precise mapping.",
+    "lobe_sweep_trajectory": "Strongly convex curvature fitted to the superior edges of both lobes, tapering to acute points at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": null,
+  "other_distinctive_markers": "Presence of high-contrast text label 'HWC# 8129' in the lower right quadrant of the image frame, external to the biological subject."
+}

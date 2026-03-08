@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Dominantly low-intensity (black) with a low global contrast ratio; high-intensity (white) pixels are limited to less than 10% of the visible area, primarily at the right distal tip and in localized punctate clusters.",
+    "spatial_color_mapping": "Contiguous high-intensity (white) banding on the distal right lobe. Discontinuous high-intensity focal spots (circular) mapped across the central and medial regions of the left and right lobes."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep, acute V-shaped central notch; angle estimated at approximately 40 degrees with a high bounding-box depth relative to the lobe height.",
+    "edge_topography_serration_map": "Irregular trailing edge topography with moderate-frequency serrations; peak-to-valley pixel amplitude is highest on the medial-right edge.",
+    "lobe_sweep_trajectory": "Convex sweep trajectory on both lobes; the right lobe exhibits a more elongated, acute taper compared to the more rounded left lobe distal termination."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple circular high-contrast white pixel clusters on the central-left and lower-right lobes, consistent with localized surface scarring.",
+    "linear_abrasions": "Visible diagonal high-contrast linear marks (rake-like disruptions) on the mid-distal region of the right lobe surface."
+  },
+  "acquired_anomalies_or_scars": "Prominent white pigmentation/scarring cluster at the right fluke tip; multiple circular white scars across the surface.",
+  "other_distinctive_markers": "Notable asymmetry in distal tip geometry, with the right tip being significantly more elongated and pointed than the left."
+}

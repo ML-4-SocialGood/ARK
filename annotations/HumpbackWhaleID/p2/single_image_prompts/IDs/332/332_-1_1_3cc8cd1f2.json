@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 45:55 ratio of low-intensity black pixels to high-intensity white pixels; high-intensity pixels are predominantly concentrated on the distal half of both lobes.",
+    "spatial_color_mapping": "Left lobe contains a broad diagonal white band spanning from the mid-ventral region to the tip. Right lobe features a large contiguous white region covering approximately 65% of its surface, punctuated by several discrete dark circular spots near the trailing edge."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with an acute interior angle; high vertical pixel depth relative to the horizontal fluke baseline.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations present along the entire trailing boundary, with more pronounced jagged peaks at the distal tips.",
+    "lobe_sweep_trajectory": "Concave curvature along the trailing edge extending from the median notch to the outer tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Distinct cluster of 4-6 low-intensity circular spots on the distal white area of the right lobe; 3-4 high-intensity circular rings (barnacle scars) located on the inner dark region of the right lobe.",
+    "linear_abrasions": "A single, sharp, high-intensity horizontal linear pixel disruption (rake mark or scratch) visible in the mid-section of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Visible horizontal linear scar on the right lobe surface; irregular, notched topography on the far right distal tip indicating historical tissue degradation.",
+  "other_distinctive_markers": "Unique cluster of high-contrast 'leopard-spot' mottling localized specifically to the trailing edge of the right lobe."
+}

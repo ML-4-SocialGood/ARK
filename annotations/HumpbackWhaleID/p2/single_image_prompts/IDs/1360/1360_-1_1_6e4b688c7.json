@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Estimated 6:1 ratio of high-intensity white pixels to low-intensity dark-pigmented pixels on the visible ventral surface.",
+    "spatial_color_mapping": "The visible surface is dominated by a contiguous high-intensity white field. A distinct, high-contrast dark-pigment geometric cluster resembling a fractured 'H' is located on the right-of-center lobe adjacent to the median notch. Low-intensity dark pixels also define a continuous narrow band along the trailing edges."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A sharp V-shaped depression with a calculated internal angle of approximately 42 degrees and a bounding-box depth of approximately 45 pixels.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (2-5 pixels) are visible along the entire trailing edge boundary, with the most pronounced peaks concentrated on the distal third of the right-of-frame lobe.",
+    "lobe_sweep_trajectory": "Trailing edges follow a concave curve toward the median notch, while leading edges demonstrate a linear trajectory with slight convexity appearing at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 6-8 circular dark-pigmented spots (3-6 pixel diameter) in the mid-distal region of the right-of-frame lobe. High-intensity, high-texture clusters are localized at the extreme distal tips of both lobes, corresponding to active barnacle colonization.",
+    "linear_abrasions": "A distinct dark, unaligned linear pixel disruption is visible near the median notch on the interior portion of the right-of-frame lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle encrustations at the tips of both fluke lobes significantly alter the natural geometric silhouette. Distinctive 'H'-shaped pigmentation mark near the notch area.",
+  "other_distinctive_markers": "The right-of-frame lobe exhibits a more vertical pixel extension than the left-of-frame lobe due to the fluke's pitch/roll orientation relative to the camera sensor."
+}

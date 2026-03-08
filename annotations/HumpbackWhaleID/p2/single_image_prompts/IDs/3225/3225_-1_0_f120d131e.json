@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast ratio; approximately 70% of the visible surface consists of high-intensity white/light-gray pixels, with 30% low-intensity black pixels concentrated in the central and edge regions.",
+    "spatial_color_mapping": "Large contiguous high-intensity light regions dominate both fluke lobes. A broad, irregular low-intensity (black) region extends from the peduncle into the medial area of both lobes. Multiple discrete, small low-intensity circular blobs are mapped across the high-intensity fields, particularly on the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped central depression with an approximate internal angle of 55 degrees; the notch depth is roughly 1/5th of the total visible vertical height of the fluke.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations present across the entire trailing edge boundary. The pixel-amplitude of peaks is notably more pronounced on the left lobe trailing edge compared to the smoother, though still serrated, right lobe edge.",
+    "lobe_sweep_trajectory": "Trailing edges exhibit a concave sweep from the median notch toward the distal tips; the distal tips themselves are tapered and exhibit an upward-oriented curve."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of approximately 8-12 discrete, roughly circular low-intensity clusters (dark spots) against the light ventral background; highest density of these clusters is located in the middle and distal sections of the right lobe.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "The distal tip of the left lobe shows a highly irregular, fragmented pixel boundary suggesting physical trauma; distinct irregular 'island' of black pigmentation located near the lower-right boundary of the left lobe.",
+  "other_distinctive_markers": null
+}

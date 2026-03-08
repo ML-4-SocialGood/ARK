@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels concentrated at distal lobe tips (approx. 15%) against a dominant low-intensity black field (approx. 85%) across the visible fluke surface.",
+    "spatial_color_mapping": "Left lobe distal region: contiguous white patch with irregular interior boundaries. Right lobe distal region: elongated, mottled white cluster extending from the tip inward along the trailing edge. Central fluke body: uniform low-intensity black."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Central V-shaped depression with an estimated internal pixel angle of approximately 75 degrees; apex is visible but subject to perspective compression.",
+    "edge_topography_serration_map": "Continuous high-frequency, low-amplitude serrations present across both lobes; multiple distinct jagged peaks visible along the distal half of the right lobe trailing edge.",
+    "lobe_sweep_trajectory": "Convex trailing edge curvature transitioning to an acute taper at the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Scattered high-contrast white circular spots on the dark ventral surface of the right lobe; dense white pixel cluster located at the far left tip edge.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Presence of textured, low-intensity brownish/orange pixel clusters at the lateral tip of the left lobe, indicating macro-biological colonization.",
+  "other_distinctive_markers": null
+}

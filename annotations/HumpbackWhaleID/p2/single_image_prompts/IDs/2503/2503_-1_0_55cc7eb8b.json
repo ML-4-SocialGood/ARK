@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 2:3 ratio of high-intensity white/cream pixels to low-intensity black/dark-grey pixels across the visible ventral fluke surface.",
+    "spatial_color_mapping": "The left lobe contains a large contiguous white region with yellowish tinting (approx. 60% of lobe area) featuring a distinct dark circular spot. The right lobe features a diagonal high-contrast white band extending from the lower medial region towards the upper lateral tip against a primary black background."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with an estimated interior angle of 65 degrees and a vertical depth extending approximately 15% of the visible fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the trailing edge. The right lobe exhibits three distinct deep notches exceeding 10 pixels in depth, while the left lobe shows more uniform, lower-amplitude micro-serrations.",
+    "lobe_sweep_trajectory": "Convex upward trajectory on both lobes, with the right lobe displaying a sharper terminal angle towards the distal tip compared to the left."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of a single, high-contrast circular dark pixel cluster (radius ~5 pixels) on the inner white field of the left lobe. Discrete white micro-clusters (1-2 pixels) are distributed along the dark margins of the trailing edge.",
+    "linear_abrasions": "One prominent vertical dark linear disruption (approximately 40 pixels in length) bisecting the white diagonal band on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Presence of a vertical linear scar on the right lobe and a distinct circular focal pigmentation anomaly on the left lobe; significant ragged indentation on the upper distal edge of the left lobe.",
+  "other_distinctive_markers": "Pronounced yellowish/tan pixel discoloration localized in the interior region of the left lobe's white field, contrasting with the higher intensity white pixels found on the right lobe's band."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level ratio; predominantly high-intensity white pixels occupying approximately 85% of the visible surface, with low-intensity black pixels concentrated at the perimeter and central base.",
+    "spatial_color_mapping": "Large contiguous high-intensity white zone extending across both lobes; low-intensity black pixels define the trailing edge boundary and distal tips; a vertical cluster of low-intensity pixel blobs is located at the proximal central region near the peduncle junction."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Sharp V-shaped depression with a calculated interior pixel angle of approximately 75 degrees; notch depth occupies approximately 10-15% of the vertical fluke height.",
+    "edge_topography_serration_map": "Low-amplitude, high-frequency serrations along the trailing edge transition to irregular, jagged high-amplitude peaks at the distal tips; the left lobe edge exhibits a smoother linear boundary than the right distal tip.",
+    "lobe_sweep_trajectory": "Symmetrical sigmoid curve trajectory; lobes exhibit slight concavity immediately lateral to the median notch, transitioning to broad convexity towards the lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial cluster of 6-8 distinct low-intensity circular pixel groups located at the central fluke base; high-contrast white circular pixel clusters are visible on the right distal tip.",
+    "linear_abrasions": "Faint, low-contrast grey-scale linear disruptions observed mid-lobe on the left side, trending roughly parallel to the leading edge trajectory."
+  },
+  "acquired_anomalies_or_scars": "Localized irregular texture cluster on the right distal tip representing barnacle colonization; visible jagged interruption of the trailing edge contour on the far right extremity.",
+  "other_distinctive_markers": "Highly distinctive dark 'mottling' constellation forming a rough Y-shape at the peduncle-fluke interface."
+}

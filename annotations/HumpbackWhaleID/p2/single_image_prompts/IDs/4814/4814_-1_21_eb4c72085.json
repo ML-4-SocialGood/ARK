@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixels covering approximately 80% of the visible surface, with high-intensity (white/grey) pixel clusters localized at the distal lobe tips and along the right lobe margin.",
+    "spatial_color_mapping": "Contiguous low-intensity region at the center and base. High-contrast white mottling and 'marbling' patterns are spatially mapped to the outer 15% of the right lobe and the extreme distal tip of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Distinct V-shaped median notch with a pixel-measured interior angle of approximately 55 degrees and a depth-to-width ratio of 1:4 relative to the central base.",
+    "edge_topography_serration_map": "Continuous irregular serration pattern along the entire visible trailing edge; right lobe displays higher amplitude pixel-variation (peaks) compared to the left lobe which has more subdued, lower-frequency ripples.",
+    "lobe_sweep_trajectory": "Bi-concave trajectory originating from the median notch, transitioning into a linear upward sweep toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Concentration of circular high-contrast white pixel clusters (5-10 pixels in diameter) localized on the right lobe distal region; scattered individual white focal spots present on the central dark surface.",
+    "linear_abrasions": "Faint, parallel diagonal linear streaks visible on the left lobe's central-medial region, cutting across the primary black pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Severe structural irregularity and potential tissue loss at the distal tips of both lobes, characterized by atypical reddish-brown pixel values and ragged edge topography.",
+  "other_distinctive_markers": "Significant reddish-brown coloration at the extreme distal apices of both lobes, providing a distinct chromatic contrast to the standard black/white fluke pigmentation."
+}

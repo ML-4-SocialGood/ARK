@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "The surface is dominated by high-intensity (white) pixels estimated at 85% of the visible area, contrasted with a low-intensity (black) perimeter and trailing edge accounting for approximately 10%. Mid-intensity (tan/yellow) pixels account for the remaining 5%.",
+    "spatial_color_mapping": "A continuous black border defines the entire trailing edge and distal tips. Contiguous white regions form the primary surface of both lobes. Symmetrical but irregular yellowish-tan patches are localized in the center-bottom of both the left and right lobes. Two distinct small black circular spots are located in the upper-mid section of the left lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A deep, sharp V-shaped depression with an approximate pixel-calculated angle of 55 degrees, dividing the lobes symmetrically.",
+    "edge_topography_serration_map": "The boundary is characterized by high-frequency, irregular saw-tooth serrations with varying pixel amplitudes (peaks and valleys) along the entire span from the median notch to the tips.",
+    "lobe_sweep_trajectory": "The trailing edge exhibits a moderate concave sweep trajectory from the notch toward the distal tips, which appear slightly tapered and upturned."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense clusters of high-contrast, roughly circular white and brown barnacles are visible at the extreme distal tips of both fluke lobes, with the right tip showing a higher density of colonization.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Extensive barnacle colonization at the fluke tips. Small, circular black pigmentation marks or scars are present on the white ventral surface, particularly on the left lobe and near the central peduncle attachment.",
+  "other_distinctive_markers": "Presence of a distinct yellowish-tan biological film (likely diatoms) distributed in mottled patches across the ventral surface of both lobes."
+}

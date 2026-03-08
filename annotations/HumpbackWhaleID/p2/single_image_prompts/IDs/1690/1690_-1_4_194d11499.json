@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (black) pixels with high-intensity (white/grey) pixels concentrated in distal regions; estimated macro-level ratio of 1:4 white-to-black pixels.",
+    "spatial_color_mapping": "Low-intensity (black) pixels dominate the central peduncle and inner lobe regions; high-intensity (white/grey) mottling is mapped to the distal 30% of both lobes; distinct high-contrast cluster on the left lobe distal tip contains internal low-intensity focal spots."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped notch with an internal angle of approximately 50 degrees, bisecting the lobes.",
+    "edge_topography_serration_map": "High-frequency, irregular saw-tooth serration along the right lobe trailing edge with pixel amplitudes of 3-7; left lobe trailing edge displays lower frequency, smoother undulations toward the notch.",
+    "lobe_sweep_trajectory": "Convex curve fitted to leading edges, terminating in upwardly swept distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-contrast circular pixel clusters (light brown/white) indicative of barnacle colonies localized at the extreme lateral tips of both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Visible ectoparasitic/epibiotic colonization (barnacles) at both distal fluke extremities, creating distinct non-pigment textural irregularities.",
+  "other_distinctive_markers": null
+}

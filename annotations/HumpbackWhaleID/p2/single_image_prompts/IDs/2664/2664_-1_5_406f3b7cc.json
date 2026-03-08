@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-intensity white pixels dominate approximately 90% of the visible ventral surface, with low-intensity black pixels localized to a narrow peripheral boundary along the trailing edge and median notch.",
+    "spatial_color_mapping": "Continuous high-intensity white field across both lobes; solid black continuous border along the trailing edge; small dark pixel clusters (mottling) observed at [x=left-tip, y=trailing-edge] and [x=right-tip, y=trailing-edge]; distinct dark vertical spot at the base of the median notch."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with an approximate pixel angle of 55 degrees; depth-to-width ratio of approximately 1:1.5 relative to the inner lobe margins.",
+    "edge_topography_serration_map": "Continuous micro-serrations with low pixel-amplitude along the primary trailing boundary; extreme high-amplitude jagged irregularities at both distal tips corresponding to external attachments.",
+    "lobe_sweep_trajectory": "Symmetric convex curvature along the trailing edge of both lobes; leading edges appear as straight vectors transitioning to acute curves at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "High-density clusters of irregular, circular high-contrast pixel groups located at the extreme distal tips of both lobes; scattered low-intensity grey circular spots on the interior white field.",
+    "linear_abrasions": "Sparse, short vertical and diagonal dark pixel disruptions on the lower-left and mid-right white surface quadrants."
+  },
+  "acquired_anomalies_or_scars": "Large, high-relief irregular clusters (likely barnacle colonization) at the tips of both lobes; significant jagged indentation at the extreme right lateral tip.",
+  "other_distinctive_markers": "Distinctive high-contrast 'drip' or 'comb' pattern where the black trailing edge pigmentation meets the white ventral surface."
+}

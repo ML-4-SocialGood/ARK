@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65% high-intensity white/light-gray surface area localized to the lateral lobes, contrasted against a 35% low-intensity black central region.",
+    "spatial_color_mapping": "A central black geometric anchor extends from the peduncle and branches into a wide Y-shape. The white lobes feature scattered, high-contrast dark mottling and focal clusters primarily localized near the trailing edges and distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A sharp V-shaped depression with an approximate pixel angle of 65 degrees and a bounding-box depth of roughly 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency irregular serrations are visible along the entire continuous boundary; a prominent macro-notch or indentation is located on the right lobe trailing edge proximal to the median notch.",
+    "lobe_sweep_trajectory": "A sigmoidal curve fitting showing a convex sweep from the median notch that transitions into a concave recurve at the distal lateral tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dozens of small, roughly circular dark pixel clusters are distributed stochastically across the white lobes, with a significantly higher spatial density on the medial-to-distal region of the right lobe.",
+    "linear_abrasions": "A distinct dark diagonal linear disruption (rake mark) is visible on the mid-section of the right lobe; secondary faint horizontal disruptions are visible on the distal left lobe."
+  },
+  "acquired_anomalies_or_scars": "Notable irregular truncation on the inner trailing edge of the right lobe; prominent bulbous, high-contrast dark clusters at both lateral tips indicative of external colonization or trauma.",
+  "other_distinctive_markers": "Significant pigmentation asymmetry where the right lobe displays high-frequency focal mottling compared to the relatively cleaner interior surface of the left lobe."
+}

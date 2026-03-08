@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High-contrast bimodal distribution with approximately 70% low-intensity (black) pixels dominant in the central and trailing edge regions and 30% high-intensity (white) pixels localized on the distal lobes.",
+    "spatial_color_mapping": "Contiguous high-intensity white blobs located on the lateral tips of both lobes, featuring irregular, feathered boundaries and small dark focal spots transitioning into a solid low-intensity black central region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a calculated interior angle of approximately 42 degrees and a depth roughly 15% of the total fluke height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations across the entire trailing edge; notably higher pixel-amplitude peaks on the left lobe compared to the right; multiple micro-indentations visible.",
+    "lobe_sweep_trajectory": "Strong convex curvature on the lower leading edges tapering to sharp distal points."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Spatial detection of dark, circular pixel clusters on the white distal patches; prominent brownish-orange high-contrast protrusion on the far-left terminal edge.",
+    "linear_abrasions": "Distinct series of dark, parallel linear pixel disruptions (rake marks) oriented diagonally across the white pigmentation of the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Notable brownish biological growth or epiphytic lesion on the extreme left lateral tip; irregular trailing edge trauma on the upper left lobe margin.",
+  "other_distinctive_markers": "Unique bifurcated dark linear mark on the right lobe's white field; distinct vertical dark streak near the lower edge of the left white patch."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 1:1 ratio between low-intensity (black/dark grey) central regions and high-intensity (white/creamy) lateral regions.",
+    "spatial_color_mapping": "Central region and leading edges are dominated by low-intensity black pixels. Two distinct, high-contrast white circular focal spots are located symmetrically in the lower-central black region. Large contiguous white/yellowish patches occupy the outer third of both lobes, featuring secondary dark mottling."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression with a deep vertical penetration into the fluke body, roughly 15-20% of the total visible height.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serration on the right lobe trailing edge with multiple jagged, irregular peaks. The left lobe exhibits a more moderate, lower-amplitude serration profile.",
+    "lobe_sweep_trajectory": "Convex sweep from the median notch transitioning to a sharp upward curve at the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Dense, high-contrast, raised pixel clusters (barnacle colonies) are localized at the extreme distal tips of both the left and right lobes.",
+    "linear_abrasions": "Several dark, unaligned linear pixel disruptions are visible crossing the white regions of both lobes, particularly prominent on the lower portion of the left lobe."
+  },
+  "acquired_anomalies_or_scars": "Significant irregular erosion and jagged tissue loss on the trailing edge of the right lobe. Heavy barnacle colonization on distal tips.",
+  "other_distinctive_markers": "Symmetrical pair of distinct white circular patches ('eye spots') located within the dark pigmentation of the central fluke area."
+}

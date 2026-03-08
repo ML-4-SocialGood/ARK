@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Predominantly low-intensity (dark/black) distribution across the visible surface. High-intensity pixels (white) are limited to <5% of the total surface area, primarily localized as small circular clusters and transient water spray.",
+    "spatial_color_mapping": "Homogeneous low-intensity contiguous region across both lobes. No macro-scale geometric white blobs or banding patterns. Sparse, high-contrast point-clusters are non-uniformly distributed across the dark field."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped central depression. Calculated internal angle of approximately 45-50 degrees with significant vertical depth relative to the horizontal fluke axis.",
+    "edge_topography_serration_map": "Continuous, high-frequency irregular serration pattern. Pixel-amplitude of peaks varies between 3 to 12 pixels. The right lobe exhibits a more densely packed sequence of peaks compared to the left lobe.",
+    "lobe_sweep_trajectory": "Convex trajectory sweeping laterally from the median notch toward the distal tips of the lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of multiple small, roughly circular high-contrast (white) pixel clusters distributed across the dark surface, notably on the medial sections and lower-left lobe quadrant.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Multiple localized circular white scars or lesions, likely barnacle attachment remnants, are visible against the dark ventral pigmentation.",
+  "other_distinctive_markers": "Significant pixel occlusion in the lower central and left regions caused by transient high-intensity spray (water droplets) during fluke emergence."
+}

@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 1:6 ratio of high-intensity (white/light-grey) to low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Densely concentrated high-intensity mottling and speckling clusters localized at the distal tips: left lobe cluster [approx. x: 0.0-0.15, y: 0.2-0.7] and right lobe cluster [approx. x: 0.85-1.0, y: 0.1-0.5]."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "V-shaped central notch with an estimated internal angle of 115 degrees and a bounding-box depth approximately 14% of the fluke's total vertical span.",
+    "edge_topography_serration_map": "Asymmetrical jagged boundary; right lobe trailing edge exhibits five distinct, high-amplitude peaks (serrations); left lobe exhibits higher-frequency, lower-amplitude variations along the continuous linear edge.",
+    "lobe_sweep_trajectory": "Predominantly convex sweep trajectory from the central notch to the distal tips, with a local transition to slight concavity immediately adjacent to the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized, high-contrast roughly circular pixel clusters corresponding to barnacle colonization at the extreme distal points of both the left and right fluke lobes.",
+    "linear_abrasions": "Faint diagonal linear pixel disruptions (rake marks or scratches) visible on the right lobe surface, cutting through the low-intensity pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Distinct vertical pale lesion or scar located approximately 5% to the right of the central notch midline; significant distal tip trauma/encrustation from parasitic colonization.",
+  "other_distinctive_markers": "Pronounced asymmetry in the frequency and amplitude of trailing edge serrations between the left and right lobes."
+}

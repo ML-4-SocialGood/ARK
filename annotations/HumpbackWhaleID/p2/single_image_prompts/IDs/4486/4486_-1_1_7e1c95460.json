@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Dominantly low-intensity (near-black) pixels across the fluke surface with high-intensity (white) pixels limited to isolated focal spots and distal tips, creating a high-contrast ratio against the white/overexposed background.",
+    "spatial_color_mapping": "Homogeneous dark pigmentation across both lobes. High-intensity contiguous blobs are detected at the distal tips of both lobes and a singular circular high-intensity spot is located in the mid-left lobe quadrant. A high-intensity noise band is mapped along the inferior boundary due to water splash interference."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped depression with a narrow pixel angle (approx. 40 degrees) and a high vertical-to-horizontal bounding box ratio.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations across both lobes. Significant jagged peaks and concave valleys are mapped, including a prominent irregular indentation on the outer trailing edge of the left lobe.",
+    "lobe_sweep_trajectory": "Strongly convex sweep trajectory on both lobes, curving upwards and outwards from the median notch to the elevated distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast white pixel clusters detected at the apex of the left and right tips. A single distinct high-intensity circular cluster is visible on the lower-middle portion of the left lobe.",
+    "linear_abrasions": "Three vertical high-intensity linear tracks detected: one on the inner left lobe and two parallel marks on the mid-right lobe, cutting through the dark primary pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Presence of vertical rake marks on both lobes and distinct structural irregularities/indentations along the trailing edge suggestive of previous trauma or tissue loss.",
+  "other_distinctive_markers": "Horizontal distribution of high-intensity water droplets across the mid-surface of the fluke, and significant occlusion of the lower leading edge by high-intensity splash pixels."
+}

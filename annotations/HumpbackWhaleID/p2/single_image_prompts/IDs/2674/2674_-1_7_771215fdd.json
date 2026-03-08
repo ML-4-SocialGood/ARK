@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65% low-intensity (black) pixels to 35% high-intensity (white) pixels across the visible ventral surface area.",
+    "spatial_color_mapping": "Dominant high-intensity (white) contiguous blobs are localized at the distal tips of both lobes. The right lobe contains a larger, more solid white region extending toward the medial area, while the left lobe white patch is more concentrated at the tip with internal low-intensity mottling. The central medial region and area surrounding the notch are uniformly low-intensity (black)."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "U-shaped central depression with a calculated aperture of approximately 85 degrees and significant pixel depth relative to the lobe peaks.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations are visible along the entire trailing boundary. Macro-level jaggedness and irregular pixel-depth variations (notching) are concentrated at the distal tips, specifically on the far-left lobe edge.",
+    "lobe_sweep_trajectory": "The leading edges follow a smooth convex curve toward the tips. The trailing edges exhibit a complex, asymmetrical concave sweep from the tips toward the median notch."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of approximately 8-12 distinct circular or ring-like high-contrast white pixel clusters distributed across the central dark region, likely barnacle attachment scars.",
+    "linear_abrasions": "Presence of multiple dark, parallel linear pixel disruptions (rake marks) cutting across the high-intensity white patches on both the left and right distal lobes."
+  },
+  "acquired_anomalies_or_scars": "Severe structural irregularity and jaggedness on the far-left distal tip, indicating significant tissue loss or traumatic amputation compared to the more intact right tip.",
+  "other_distinctive_markers": null
+}

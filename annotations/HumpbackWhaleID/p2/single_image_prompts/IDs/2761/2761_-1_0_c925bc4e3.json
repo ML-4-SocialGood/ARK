@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 65% high-intensity white pixels to 35% low-intensity black/grey pixels across the visible ventral area.",
+    "spatial_color_mapping": "Dominant white contiguous regions occupy the outer 2/3 of both lobes. A central, low-intensity black vertical band bisects the fluke at the notch. Dense, high-contrast dark mottling and streaks are concentrated on the inner medial regions of both lobes, transitioning to solid white toward the distal tips."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "A sharp, acute V-shaped notch with a calculated angle of approximately 48 degrees and a depth of roughly 120 pixels relative to the lobe peaks.",
+    "edge_topography_serration_map": "High-frequency, high-amplitude serrations along the entire trailing edge; notably jagged peaks are visible at the medial-to-distal transition zones on both lobes.",
+    "lobe_sweep_trajectory": "A continuous convex curve originating from the median notch and extending symmetrically toward the distal tips, exhibiting a parabolic sweep."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Several roughly circular low-intensity clusters detected, including one prominent 15-pixel diameter dark spot on the lower-medial right lobe.",
+    "linear_abrasions": "Multiple high-contrast linear disruptions detected; a significant set of diagonal rake marks is visible on the lower-medial left lobe, with secondary horizontal scratching on the upper-medial right lobe."
+  },
+  "acquired_anomalies_or_scars": "Prominent parallel rake marks on the left lobe ventral surface; irregular jaggedness of the trailing edge suggests historical tissue loss or significant wear.",
+  "other_distinctive_markers": "A unique 'splatter' pattern of dark pigmentation on the inner right lobe that creates a high-contrast boundary against the primary white field."
+}

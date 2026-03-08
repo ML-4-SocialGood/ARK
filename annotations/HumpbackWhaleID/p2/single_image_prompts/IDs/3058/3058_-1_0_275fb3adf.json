@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Low-intensity (dark) pixels occupy approximately 85-90% of the fluke surface area, with high-intensity (white) pixels localized to discrete points and clusters totaling 10-15%.",
+    "spatial_color_mapping": "Contiguous dark ground across both lobes; high-contrast white focal spots (rosettes) are distributed throughout the medial regions, with a higher density of irregular white mottling concentrated at the distal tip of the right lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Calculated V-shaped depression with a central vertex angle of approximately 72 degrees and a moderate bounding-box depth relative to lobe width.",
+    "edge_topography_serration_map": "High-frequency, low-amplitude serrations (peaks/valleys 5-20 pixels in height) visible along the entire continuous boundary of both trailing edges.",
+    "lobe_sweep_trajectory": "Convex curve fitted to the trailing edges, transitioning from the central notch toward the distal tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Extensive detection of circular high-contrast pixel clusters (10-30 pixel diameter) concentrated in the central-medial regions and near the trailing edges of both lobes.",
+    "linear_abrasions": null
+  },
+  "acquired_anomalies_or_scars": "Physical clusters of raised, high-contrast material (calcareous organisms) are visible at the distal tips of both lobes; extensive circular scarring across the ventral surface.",
+  "other_distinctive_markers": null
+}

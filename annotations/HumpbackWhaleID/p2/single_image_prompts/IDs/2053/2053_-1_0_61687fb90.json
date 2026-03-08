@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast between white/light gray (high-intensity) ventral fields and deep black (low-intensity) pigmented regions; approximately a 60:40 light-to-dark pixel distribution.",
+    "spatial_color_mapping": "Large, contiguous black geometric mass centered at the median notch and extending toward the peduncle. Secondary black pigment blobs concentrated at the distal tips of both lobes. Distinct curvilinear black markings on the left lobe's medial region."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep acute V-shaped depression with a vertex pixel angle of approximately 72 degrees; vertical depth occupies approximately 20% of the fluke's vertical bounding box height.",
+    "edge_topography_serration_map": "Continuous high-frequency serration along the trailing boundary; peaks and valleys range from 3-12 pixels in amplitude, with the highest amplitude irregularities located on the outer third of both lobes.",
+    "lobe_sweep_trajectory": "Asymmetrical upward sweep with convex leading edges and slightly concave trailing edges near the notch, transitioning to convex curves toward the tips."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": null,
+    "linear_abrasions": "Three distinct, sub-parallel, dark curvilinear pixel tracks (rake marks) situated on the mid-section of the left lobe, breaking the white background pigmentation."
+  },
+  "acquired_anomalies_or_scars": "Noticeable jagged indentation and loss of marginal integrity on the far-left trailing edge, appearing as a deep notch-like defect.",
+  "other_distinctive_markers": null
+}

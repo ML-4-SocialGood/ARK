@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximate 1:1.5 ratio of high-intensity (white) to low-intensity (black) pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Large high-intensity (white) contiguous blobs occupy the distal two-thirds of both lobes, separated by a central low-intensity (black) corridor. Low-intensity linear streaks and mottling are embedded within the white regions."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Shallow V-shaped depression with an estimated obtuse angle of ~145 degrees and a shallow depth relative to the total fluke vertical height.",
+    "edge_topography_serration_map": "High-frequency, irregular serrations along the trailing edge of both lobes; pixel-amplitude varies between 3-12 pixels relative to the local edge baseline.",
+    "lobe_sweep_trajectory": "Convex curve trajectory extending from the median notch to the distal lateral tips on both lobes."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Localized high-contrast white circular clusters (rosettes) are prominent on both distal tips; sparse white micro-spots are distributed throughout the lower medial black regions.",
+    "linear_abrasions": "Dense network of unaligned low-intensity linear pixel disruptions (rake marks) crossing the white regions, with high density and near-vertical orientation on the right lobe."
+  },
+  "acquired_anomalies_or_scars": "Extensive linear rake marks across both lobes and significant barnacle colonization/scarring on the distal fluke tips.",
+  "other_distinctive_markers": "Irregular, high-intensity perimeter texture at the extreme lateral tips corresponding to barnacle attachment points protruding from the fluke boundary."
+}

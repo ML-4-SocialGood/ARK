@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "Approximately 75:25; high-intensity white dominates the central ventral surface, bordered by low-intensity black along the trailing edges and tips.",
+    "spatial_color_mapping": "Contiguous white region centrally distributed across both lobes; black pigmentation forms a thick, irregular band (approx. 10-15% of lobe width) along the entire trailing edge. Small grey-scale mottling clusters are visible in the lower-left ventral quadrant near the water line."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Acute V-shaped depression; approximate angle of 45 degrees relative to the lobe axes; depth is roughly 1/6th of total visible fluke height.",
+    "edge_topography_serration_map": "Continuous high-frequency serration; peaks and valleys range from 5 to 15 pixels in amplitude; most pronounced and jagged on the right lobe distal half.",
+    "lobe_sweep_trajectory": "Convex curve trajectory for both lobes; right lobe exhibits a more pronounced outward sweep terminating in a sharp, dark tip."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Highly localized cluster of approx. 8-12 circular high-contrast white spots (barnacle colonies) located along the leading edge/dorsal wrap of the left lobe.",
+    "linear_abrasions": "Faint, vertical grey linear disruptions visible on the white ventral surface of the left lobe, likely representing superficial rake marks."
+  },
+  "acquired_anomalies_or_scars": "Prominent barnacle colonization on the left leading edge; significant irregular indentations and nicks across the trailing edge topography of both lobes.",
+  "other_distinctive_markers": "Unique black pigmentation hook at the distal tip of the right lobe; distinct water-shedding pixel streaks falling from trailing edge serrations."
+}

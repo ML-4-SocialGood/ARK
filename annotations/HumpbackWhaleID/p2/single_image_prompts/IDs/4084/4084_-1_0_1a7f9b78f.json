@@ -1,0 +1,17 @@
+{
+  "ventral_fluke_pixel_intensity_distribution": {
+    "global_contrast_ratio": "High macro-level contrast; approximately 75% high-intensity white pixels and 25% low-intensity black pixels across the visible ventral surface.",
+    "spatial_color_mapping": "Large contiguous white regions occupy the central and outer lobes. Low-intensity black pigmentation is concentrated around the median notch extending into the inner lobes, and along the superior trailing edges. Discrete focal black spots are visible on the right lobe tip and left mid-lobe."
+  },
+  "trailing_edge_2d_geometric_contour": {
+    "median_notch_angle": "Deep V-shaped central depression with an approximate pixel angle of 50-60 degrees; notch depth is significant relative to the vertical fluke height.",
+    "edge_topography_serration_map": "Highly irregular and jagged trailing edge boundary. Frequent low-amplitude serrations (peaks and valleys) are present along the entire upper margin of both lobes, with one larger indentation on the upper right lobe margin.",
+    "lobe_sweep_trajectory": "Outer edges exhibit a convex sweep from the water line, transitioning into a jagged, non-linear profile along the upper trailing edge."
+  },
+  "localized_surface_anomalies": {
+    "rosette_scar_constellations": "Detection of several small, circular high-contrast dark clusters on the white field, including two distinct spots near the upper-right tip and one in the lower-central left lobe.",
+    "linear_abrasions": "Three prominent, near-vertical parallel dark linear pixel disruptions (rake marks) are detected on the left lobe, breaking the high-intensity white surface."
+  },
+  "acquired_anomalies_or_scars": "Prominent vertical rake marks on the left lobe and a significant notch/indentation on the upper margin of the right lobe tip.",
+  "other_distinctive_markers": "The specific vertical orientation and spacing of the rake marks on the left lobe serve as a unique visual fingerprint."
+}
