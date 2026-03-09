@@ -5,6 +5,7 @@ Ollama API Client with retry mechanism and strict parameter control.
 
 import json
 import logging
+from typing import Optional
 
 import requests
 from tenacity import (
@@ -16,9 +17,15 @@ from tenacity import (
 
 
 class OllamaClient:
-    def __init__(self, host: str = "http://localhost:11434", model: str = "qwen2.5:7b"):
+    def __init__(
+        self,
+        host: str = "http://localhost:11434",
+        model: str = "qwen2.5:7b",
+        timeout: int = 120,
+    ):
         self.host = host
         self.model = model
+        self.timeout = timeout
         self.api_endpoint = f"{host}/api/generate"
         self.headers = {"Content-Type": "application/json"}
 
@@ -33,7 +40,10 @@ class OllamaClient:
         ),
     )
     def generate(
-        self, prompt: str, system_prompt: str = None, options: dict = None
+        self,
+        prompt: str,
+        system_prompt: Optional[str] = None,
+        options: Optional[dict] = None,
     ) -> dict:
         """
         Sends a generation request to the Ollama API.
@@ -71,7 +81,7 @@ class OllamaClient:
                 self.api_endpoint,
                 headers=self.headers,
                 data=json.dumps(payload),
-                timeout=120,  # Set a reasonable timeout
+                timeout=self.timeout,
             )
             response.raise_for_status()
             return response.json()
