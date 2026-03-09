@@ -4,6 +4,7 @@ Ollama API Client with retry mechanism and strict parameter control.
 """
 
 import json
+import base64
 import logging
 from typing import Optional
 
@@ -20,7 +21,8 @@ class OllamaClient:
     def __init__(
         self,
         host: str = "http://localhost:11434",
-        model: str = "qwen2.5:7b",
+        model: str = "qwen3-vl:8b",
+        # model: str = "qwen3.5:4b",
         timeout: int = 120,
     ):
         self.host = host
@@ -43,6 +45,7 @@ class OllamaClient:
         self,
         prompt: str,
         system_prompt: Optional[str] = None,
+        images: Optional[list[str]] = None,
         options: Optional[dict] = None,
     ) -> dict:
         """
@@ -51,6 +54,7 @@ class OllamaClient:
         Args:
             prompt: The user prompt.
             system_prompt: Optional system instruction.
+            images: Optional list of image file paths.
             options: Dictionary of model parameters (temperature, seed, etc.).
 
         Returns:
@@ -75,6 +79,18 @@ class OllamaClient:
 
         if system_prompt:
             payload["system"] = system_prompt
+
+        if images:
+            encoded_images = []
+            for image_path in images:
+                try:
+                    with open(image_path, "rb") as image_file:
+                        encoded_string = base64.b64encode(image_file.read()).decode('utf-8')
+                        encoded_images.append(encoded_string)
+                except Exception as e:
+                    logging.error(f"Failed to encode image {image_path}: {e}")
+                    raise e
+            payload["images"] = encoded_images
 
         try:
             response = requests.post(
