@@ -1,6 +1,6 @@
 """
-scripts/p8/run_all.py
-Automate P8 generation for all species based on existing P1 datasets.
+scripts/p5/run_all.py
+Automate P5 generation for all species based on existing P1 datasets.
 """
 import datetime
 import os
@@ -11,10 +11,10 @@ import sys
 def main():
     project_root = os.getcwd()
     annotations_root = os.path.join(project_root, "annotations")
-    generate_script = os.path.join(project_root, "scripts", "p8", "generate_dataset.py")
-    verify_script = os.path.join(project_root, "scripts", "p8", "verify_dataset.py")
+    generate_script = os.path.join(project_root, "scripts_annotate", "p5", "generate_dataset.py")
+    verify_script = os.path.join(project_root, "scripts_annotate", "p5", "verify_dataset.py")
 
-    log_file = os.path.join(project_root, "p8_run_log.txt")
+    log_file = os.path.join(project_root, "p5_run_log.txt")
 
     def log(msg):
         print(msg)
@@ -37,7 +37,7 @@ def main():
 
     # Initialize log
     with open(log_file, "w", encoding="utf-8") as f:
-        f.write(f"P8 Generation Log - {datetime.datetime.now()}\n")
+        f.write(f"P5 Generation Log - {datetime.datetime.now()}\n")
         f.write("=" * 60 + "\n")
 
     if not os.path.exists(annotations_root):
@@ -112,12 +112,12 @@ def main():
                         )
 
         # Verify after generating all variants for this species
-        log(f"  > Verifying P8 datasets for {species}...")
+        log(f"  > Verifying P5 datasets for {species}...")
         verify_cmd = [sys.executable, verify_script, "--dataset_name", species, "--data_root", project_root]
         run_and_log(verify_cmd, check=False)
 
     log("\n" + "=" * 60)
-    log("All P8 processing complete.")
+    log("All P5 processing complete.")
 
 if __name__ == "__main__":
     main()

@@ -1,5 +1,5 @@
 """
-scripts/p8/corruption_utils.py
+scripts/p5/corruption_utils.py
 Helper functions for applying synthetic corruptions to images.
 """
 import random

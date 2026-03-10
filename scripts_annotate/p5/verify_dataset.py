@@ -31,7 +31,7 @@ def verify_task(task: Dict[str, Any], data_root: str) -> List[str]:
     if not q_path:
         errors.append(f"Task {task_id}: Query image path missing.")
     else:
-        # P8 specific check: Query should point to the corrupted directory
+        # P5 specific check: Query should point to the corrupted directory
         if "corrupted" not in q_path:
             errors.append(
                 f"Task {task_id}: Query image path does not look corrupted (missing 'corrupted' in path): {q_path}"
@@ -47,7 +47,7 @@ def verify_task(task: Dict[str, Any], data_root: str) -> List[str]:
             errors.append(f"Task {task_id}: Gallery option missing image_path.")
             continue
 
-        # P8 specific check: Gallery should NOT point to the corrupted directory
+        # P5 specific check: Gallery should NOT point to the corrupted directory
         if "corrupted" in g_path:
             errors.append(
                 f"Task {task_id}: Gallery image path looks corrupted (contains 'corrupted'): {g_path}. Gallery should be clear."
@@ -78,23 +78,23 @@ def verify_task(task: Dict[str, Any], data_root: str) -> List[str]:
 
 
 def verify_dataset(dataset_name: str, annotations_dir: str, data_root: str) -> bool:
-    p8_dir = os.path.join(annotations_dir, dataset_name, "p8")
-    if not os.path.exists(p8_dir):
-        print(f"  [SKIP] P8 directory not found: {p8_dir}")
+    p5_dir = os.path.join(annotations_dir, dataset_name, "p5")
+    if not os.path.exists(p5_dir):
+        print(f"  [SKIP] P5 directory not found: {p5_dir}")
         return True
 
-    print(f"Verifying P8 dataset for {dataset_name}...")
+    print(f"Verifying P5 dataset for {dataset_name}...")
     json_files = [
-        f for f in os.listdir(p8_dir) if f.endswith(".json") and "_P8_" in f
+        f for f in os.listdir(p5_dir) if f.endswith(".json") and "_P5_" in f
     ]
 
     if not json_files:
-        print("  No valid P8 JSON files found.")
+        print("  No valid P5 JSON files found.")
         return True
 
     total_errors = 0
     for f in sorted(json_files):
-        file_path = os.path.join(p8_dir, f)
+        file_path = os.path.join(p5_dir, f)
         print(f"  Checking {f}...")
 
         try:
@@ -132,7 +132,7 @@ def verify_dataset(dataset_name: str, annotations_dir: str, data_root: str) -> b
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Verify P8 (Corrupted) Dataset Integrity")
+    parser = argparse.ArgumentParser(description="Verify P5 (Corrupted) Dataset Integrity")
     parser.add_argument(
         "--dataset_name",
         type=str,

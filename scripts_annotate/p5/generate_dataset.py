@@ -9,12 +9,12 @@ from tqdm import tqdm
 # Ensure imports work when running from project root
 sys.path.append(os.getcwd())
 
-from scripts.p8.corruption_utils import apply_corruption
+from scripts_annotate.p5.corruption_utils import apply_corruption
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate P8 (Corrupted Consistency) Dataset from P1"
+        description="Generate P5 (Corrupted Consistency) Dataset from P1"
     )
     parser.add_argument(
         "--p1_json",
@@ -67,14 +67,14 @@ def main():
 
     # Determine Output Paths
     # Input: annotations/{Species}/p1/{Species}_I2I_P1_N{N}.json
-    # Output: annotations/{Species}/p8/{Species}_I2I_P8_{Type}_S{Sev}_N{N}.json
+    # Output: annotations/{Species}/p5/{Species}_I2I_P5_{Type}_S{Sev}_N{N}.json
 
     p1_dir = os.path.dirname(args.p1_json)
     species_dir = os.path.dirname(p1_dir)
     species_name = os.path.basename(species_dir)
 
-    p8_dir = os.path.join(species_dir, "p8")
-    os.makedirs(p8_dir, exist_ok=True)
+    p5_dir = os.path.join(species_dir, "p5")
+    os.makedirs(p5_dir, exist_ok=True)
 
     # Extract N from filename or data
     filename = os.path.basename(args.p1_json)
@@ -87,9 +87,9 @@ def main():
             n_part = f"_N{match.group(1)}"
 
     output_filename = (
-        f"{species_name}_I2I_P8_{args.corruption_type}_S{args.severity}{n_part}.json"
+        f"{species_name}_I2I_P5_{args.corruption_type}_S{args.severity}{n_part}.json"
     )
-    output_json_path = os.path.join(p8_dir, output_filename)
+    output_json_path = os.path.join(p5_dir, output_filename)
 
     # Directory for corrupted images
     # data/{Species}/corrupted/{corruption_type}_s{severity}/
@@ -101,10 +101,10 @@ def main():
 
     random.seed(args.seed)
 
-    p8_data = []
+    p5_data = []
 
     print(
-        f"Generating P8 dataset ({args.corruption_type}, Severity {args.severity})..."
+        f"Generating P5 dataset ({args.corruption_type}, Severity {args.severity})..."
     )
     print(f"Corrupted images will be saved to: {full_corrupted_root}")
 
@@ -113,10 +113,10 @@ def main():
         new_task = json.loads(json.dumps(task))
 
         # Update Task ID
-        # P1 ID: {Species}_MCQ_000001 -> P8 ID: {Species}_MCQ_P8_{Type}_000001
+        # P1 ID: {Species}_MCQ_000001 -> P5 ID: {Species}_MCQ_P5_{Type}_000001
         old_id = new_task.get("task_id", "Unknown")
-        new_task["task_id"] = old_id.replace("_P1_", "_P8_").replace(
-            "_MCQ_", f"_MCQ_P8_{args.corruption_type}_"
+        new_task["task_id"] = old_id.replace("_P1_", "_P5_").replace(
+            "_MCQ_", f"_MCQ_P5_{args.corruption_type}_"
         )
 
         # Process Query Image
@@ -161,18 +161,18 @@ def main():
         # Add Meta info
         if "meta" not in new_task:
             new_task["meta"] = {}
-        new_task["meta"]["protocol"] = "P8"
+        new_task["meta"]["protocol"] = "P5"
         new_task["meta"]["corruption"] = args.corruption_type
         new_task["meta"]["severity"] = args.severity
         new_task["meta"]["original_query_path"] = query_path
 
-        p8_data.append(new_task)
+        p5_data.append(new_task)
 
     # Save JSON
     with open(output_json_path, "w") as f:
-        json.dump(p8_data, f, indent=2)
+        json.dump(p5_data, f, indent=2)
 
-    print(f"Saved P8 dataset to {output_json_path}")
+    print(f"Saved P5 dataset to {output_json_path}")
 
 
 if __name__ == "__main__":
