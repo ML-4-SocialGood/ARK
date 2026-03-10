@@ -82,7 +82,7 @@ def main():
         counts, bins=bins, color="skyblue", edgecolor="black", align="left", rwidth=0.8
     )
 
-    plt.title(f"Distribution of Samples per ID (P3 MIA, Total: {total_samples})")
+    plt.title(f"Distribution of Samples per ID (Total: {total_samples})")
     plt.xlabel("Number of Samples Generated for an ID")
     plt.ylabel("Count of IDs")
 
