@@ -1,6 +1,6 @@
 """
-scripts/p3/analyze_dataset.py
-Analyze Protocol 3 Datasets.
+scripts/p4/analyze_dataset.py
+Analyze Protocol 4 Datasets.
 Focuses on:
 1. ID Analysis: Number of Samples Generated for an ID vs Count of IDs.
 2. Metadata Distribution: Distribution of context attributes.
@@ -118,7 +118,7 @@ def analyze_file(json_path, output_dir):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Analyze P3 Dataset")
+    parser = argparse.ArgumentParser(description="Analyze P4 Dataset")
     parser.add_argument(
         "--dataset_name",
         type=str,
@@ -148,26 +148,26 @@ def main():
         return
 
     # Case 2: Logical name (scan directory)
-    p3_dir = os.path.join(args.annotations_dir, args.dataset_name, "p3")
-    if not os.path.exists(p3_dir):
-        print(f"Directory not found: {p3_dir}")
+    p4_dir = os.path.join(args.annotations_dir, args.dataset_name, "p4")
+    if not os.path.exists(p4_dir):
+        print(f"Directory not found: {p4_dir}")
         return
 
     if args.output_dir is None:
-        args.output_dir = os.path.join(p3_dir, "analysis_results")
+        args.output_dir = os.path.join(p4_dir, "analysis_results")
 
     json_files = [
-        f for f in os.listdir(p3_dir) if f.endswith(".json") and "CIR_P3" in f
+        f for f in os.listdir(p4_dir) if f.endswith(".json") and "CIR_P4" in f
     ]
     json_files.sort()
 
     if not json_files:
-        print(f"No P3 JSON files found in {p3_dir}")
+        print(f"No P4 JSON files found in {p4_dir}")
         return
 
     print(f"Found {len(json_files)} files to analyze.")
     for f in json_files:
-        analyze_file(os.path.join(p3_dir, f), args.output_dir)
+        analyze_file(os.path.join(p4_dir, f), args.output_dir)
 
 
 if __name__ == "__main__":

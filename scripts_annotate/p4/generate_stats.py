@@ -1,9 +1,3 @@
-"""
-scripts/p3/generate_stats.py
-Generate a summary Excel report for all Protocol 3 datasets found in the annotations directory.
-Output: p3_dataset_stats.xlsx
-"""
-
 import argparse
 import json
 import os
@@ -24,29 +18,30 @@ def analyze_file(file_path):
     if not data:
         return None
 
+    # Extract N and K from filename
+    # Expected format: {Species}_CIR_P4_N{N}.json
     filename = os.path.basename(file_path)
 
-    # Extract N from filename
-    # Expected format: ..._N{N}.json
     match = re.search(r"_N(\d+)\.json$", filename)
     if match:
         n_val = int(match.group(1))
     else:
-        n_val = 4
+        # Skip files that don't match the pattern
+        return None
 
     # Calculate stats
     total_tasks = len(data)
 
-    # Extract ground truth IDs
-    query_ids = []
+    # Extract ground truth IDs to calculate distribution
+    ground_truth_ids = []
     for task in data:
         if "query" in task and "ground_truth_id" in task["query"]:
-            query_ids.append(task["query"]["ground_truth_id"])
+            ground_truth_ids.append(task["query"]["ground_truth_id"])
 
-    if not query_ids:
+    if not ground_truth_ids:
         return None
 
-    id_counts = Counter(query_ids)
+    id_counts = Counter(ground_truth_ids)
     unique_ids = len(id_counts)
     counts = list(id_counts.values())
 
@@ -59,14 +54,15 @@ def analyze_file(file_path):
         max_samples = 0
         avg_samples = 0
 
-    # Infer dataset name from directory structure
-    # annotations/{DatasetName}/p3/filename
+    # Infer dataset name from directory structure: .../annotations/{DatasetName}/p4/filename
+    # root is .../annotations/{DatasetName}/p4
+    # parent is .../annotations/{DatasetName}
     parent_dir = os.path.dirname(os.path.dirname(file_path))
     dataset_name = os.path.basename(parent_dir)
 
     return {
         "Dataset": dataset_name,
-        "Protocol": "P3 (CIR)",
+        "Protocol": "P4 (CIR)",
         "Gallery Size (N)": n_val,
         "Total Tasks": total_tasks,
         "Unique IDs": unique_ids,
@@ -79,12 +75,12 @@ def analyze_file(file_path):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate Excel Statistics for P3 (CIR) Annotations"
+        description="Generate Excel Statistics for P4 (CIR) Annotations"
     )
 
     # Determine default output path relative to this script
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    default_output = os.path.join(script_dir, "p3_dataset_stats.xlsx")
+    default_output = os.path.join(script_dir, "p4_dataset_stats.xlsx")
 
     parser.add_argument(
         "--annotations_dir",
@@ -96,7 +92,7 @@ def main():
         "--output_file",
         type=str,
         default=default_output,
-        help="Path to output Excel file",
+        help="Path for the output Excel file",
     )
 
     args = parser.parse_args()
@@ -106,13 +102,14 @@ def main():
         return
 
     all_stats = []
-    print(f"Scanning '{args.annotations_dir}' for P3 datasets...")
+    print(f"Scanning '{args.annotations_dir}' for P4 (CIR) JSON files...")
 
+    # Walk through the directory structure
     for root, dirs, files in os.walk(args.annotations_dir):
-        # We are looking for files inside a 'p3' subdirectory
-        if os.path.basename(root) == "p3":
+        # We are looking for files inside a 'p4' subdirectory
+        if os.path.basename(root) == "p4":
             for file in files:
-                if file.endswith(".json") and "CIR_P3" in file:
+                if file.endswith(".json") and "_CIR_P4_" in file:
                     file_path = os.path.join(root, file)
                     print(f"  Processing: {file}", end="\r")
 
@@ -123,13 +120,14 @@ def main():
     print("\n" + "-" * 50)
 
     if not all_stats:
-        print("No valid P3 annotation files found.")
+        print("No valid P4 (CIR) annotation files found.")
         return
 
     # Create DataFrame
     df = pd.DataFrame(all_stats)
 
-    # Sort by Dataset and N
+    # Sort the DataFrame for better readability
+    # Sort by Dataset, then N
     if not df.empty:
         df = df.sort_values(by=["Dataset", "Gallery Size (N)"])
 

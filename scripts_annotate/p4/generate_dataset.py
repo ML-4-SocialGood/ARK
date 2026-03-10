@@ -1,6 +1,6 @@
 """
-scripts/p3/generate_dataset.py
-Generate Dataset for Protocol 3: Context-aware Interleaved Reasoning.
+scripts/p4/generate_dataset.py
+Generate Dataset for Protocol 4: Context-aware Interleaved Reasoning.
 """
 
 import argparse
@@ -12,12 +12,12 @@ import sys
 # Ensure imports work when running from project root
 sys.path.append(os.getcwd())
 
-from scripts.p3.sampler import ContextAwareSampler
+from scripts_annotate.p4.sampler import ContextAwareSampler
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate Dataset for Protocol 3 (Context-aware Interleaved Reasoning)"
+        description="Generate Dataset for Protocol 4 (Context-aware Interleaved Reasoning)"
     )
     parser.add_argument(
         "--dataset_name",
@@ -71,7 +71,7 @@ def main():
     # Sanitize dataset_name for filename and task_id (replace / with _)
     safe_dataset_name = args.dataset_name.replace("/", "_").replace("\\", "_")
 
-    print(f"Initializing P3 Sampler for {safe_dataset_name} (N={args.gallery_size})...")
+    print(f"Initializing P4 Sampler for {safe_dataset_name} (N={args.gallery_size})...")
 
     try:
         sampler = ContextAwareSampler(
@@ -114,12 +114,12 @@ def main():
 
     print(f"\nTotal generated: {len(generated_samples)} samples.")
 
-    # Output path: annotations/{dataset_name}/p3/{safe_dataset_name}_CIR_P3_N{N}.json
+    # Output path: annotations/{dataset_name}/p4/{safe_dataset_name}_CIR_P4_N{N}.json
     # Use the raw dataset_name for directory structure to match verify_dataset.py logic
-    output_subdir = os.path.join(args.output_dir, args.dataset_name, "p3")
+    output_subdir = os.path.join(args.output_dir, args.dataset_name, "p4")
     os.makedirs(output_subdir, exist_ok=True)
 
-    output_filename = f"{safe_dataset_name}_CIR_P3_N{args.gallery_size}.json"
+    output_filename = f"{safe_dataset_name}_CIR_P4_N{args.gallery_size}.json"
     output_path = os.path.join(output_subdir, output_filename)
 
     with open(output_path, "w") as f:
