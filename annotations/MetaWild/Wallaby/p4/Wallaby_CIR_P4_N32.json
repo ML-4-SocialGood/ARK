@@ -1,0 +1,3096 @@
+[
+  {
+    "task_id": "Wallaby_CIR_P3_000001",
+    "query": {
+      "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/45/45_Doc-WAI-WAI02_16_391373B0-BBA7-4CBE-9CB6-366E65B95D17.JPG",
+      "ground_truth_id": "45",
+      "metadata": {
+        "face_direction": 0,
+        "temperature": 6,
+        "day_night": 1,
+        "timestamp": "2023-08-19 06:02:00"
+      },
+      "context_text": {
+        "face_direction": "Front",
+        "temperature": 6,
+        "day_night": "Night",
+        "timestamp": "2023-08-19 06:02:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/5/5_Doc-WPY-PY22_11_56c6a816-6848-4488-adae-ff94da9d308f.JPG",
+        "id": "5"
+      },
+      {
+        "option": "B",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/39/39_Doc-WAI-WAI18_2_3C27577A-5733-47CB-AA00-67ACE05D73A8.JPG",
+        "id": "39"
+      },
+      {
+        "option": "C",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/25/25_Doc-WMW-MWC3_13_fb98b4f4-9701-412c-885d-6c0e5ee8efce.JPG",
+        "id": "25"
+      },
+      {
+        "option": "D",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/20/20_Doc-WMW-MWC3_50_89584e95-403c-410c-abd5-98f1f0e8a661.JPG",
+        "id": "20"
+      },
+      {
+        "option": "E",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/34/34_Doc-WAI-WAIO1_12_94EEE310-72F3-48AB-9815-2EF5F23E5F2A.JPG",
+        "id": "34"
+      },
+      {
+        "option": "F",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/44/44_Doc-WAI-WAI02_50_E326D0CC-943F-43D2-B76A-DFEBE7A83FFE.JPG",
+        "id": "44"
+      },
+      {
+        "option": "G",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/0/0_Doc-WPY-PY22_2_19144f79-ec44-45ce-916d-08619b28e0cf.JPG",
+        "id": "0"
+      },
+      {
+        "option": "H",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/45/45_Doc-WAI-WAI02_10_2679521A-D674-4326-B17D-BD6BC2BF42B9.JPG",
+        "id": "45"
+      },
+      {
+        "option": "I",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/29/29_Doc-WMW-MWC3_4_3143989d-8e98-493b-ba92-bc40b0c98455.JPG",
+        "id": "29"
+      },
+      {
+        "option": "J",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/6/6_Doc-WPY-PY44_16_c4cad546-2966-418b-b42a-770373e41968.JPG",
+        "id": "6"
+      },
+      {
+        "option": "K",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/36/36_Doc-WAI-WAI02_31_B1A71A5C-1C19-47DC-8A47-52AF44E43B31.JPG",
+        "id": "36"
+      },
+      {
+        "option": "L",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/21/21_Doc-WMW-MWC2_9_3ae70bc2-cd58-4cce-b71b-bac0bb9517ef.JPG",
+        "id": "21"
+      },
+      {
+        "option": "M",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/13/13_Doc-WPY-PY22_19_e94ad5ec-49ed-4ea8-be74-907cda49c995.JPG",
+        "id": "13"
+      },
+      {
+        "option": "N",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/43/43_Doc-WAI-WAI16_144_DDD9F8AF-B558-4DA3-8476-EB559D66958B.JPG",
+        "id": "43"
+      },
+      {
+        "option": "O",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/30/30_Doc-WAI-WAI18_62_C41888DC-6FC6-4FD1-9302-8C027F6C7C28.JPG",
+        "id": "30"
+      },
+      {
+        "option": "P",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/33/33_Doc-WAI-WAI18_71_D6FE05B3-1ACF-4B08-9006-7F531DE71F80.JPG",
+        "id": "33"
+      },
+      {
+        "option": "Q",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/16/16_Doc-WPY-PY23_5_69f62f2f-b639-4476-9f91-68d3ffc76f38.JPG",
+        "id": "16"
+      },
+      {
+        "option": "R",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/40/40_Doc-WAI-WAI18_5_3E214973-0033-4FD5-A2F0-52E79BC75685.JPG",
+        "id": "40"
+      },
+      {
+        "option": "S",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/1/1_Doc-WPY-PY23_12_e05fae3a-46b0-4e5a-8c8a-cdd2f00d4819.JPG",
+        "id": "1"
+      },
+      {
+        "option": "T",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/7/7_Doc-WPY-PY30_18_ef47c258-5022-4769-b6d3-379901735058.JPG",
+        "id": "7"
+      },
+      {
+        "option": "U",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/15/15_Doc-WPY-PY22_10_e8ad4085-2fa7-4272-a67a-335a3c8e4dc3.JPG",
+        "id": "15"
+      },
+      {
+        "option": "V",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/4/4_Doc-WPY-PY23_13_d7d48e8f-190e-40cf-b5ea-4e685b058eb6.JPG",
+        "id": "4"
+      },
+      {
+        "option": "W",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/42/42_Doc-WAI-WAI06_42_D67A2373-563D-4B5E-8D39-B67C66327919.JPG",
+        "id": "42"
+      },
+      {
+        "option": "X",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/14/14_Doc-WPY-PY21_12_d6eb3da1-931d-4ab4-affe-4157d2501f32.JPG",
+        "id": "14"
+      },
+      {
+        "option": "Y",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/22/22_Doc-WMW-MWC3_2_0d55be48-2c3a-41d1-81eb-2311c83a3ec4.JPG",
+        "id": "22"
+      },
+      {
+        "option": "Z",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/38/38_Doc-WAI-WAI18_172_4ED48ACC-BB5C-4422-B7C1-9D6F319ABA09.JPG",
+        "id": "38"
+      },
+      {
+        "option": "[",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/9/9_Doc-WPY-PY22_1_1e4f3d6b-1d59-42a1-870f-533face80438.JPG",
+        "id": "9"
+      },
+      {
+        "option": "\\",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/18/18_Doc-WPY-PY22_12_635bbc88-da5d-44d8-b192-b9a45cea25fa.JPG",
+        "id": "18"
+      },
+      {
+        "option": "]",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/24/24_Doc-WMW-MWC4_7_921d2070-51c8-499d-b2bd-7d15e587fb17.JPG",
+        "id": "24"
+      },
+      {
+        "option": "^",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/10/10_Doc-WPY-PY23_9_7ff7addc-95d8-457e-b38f-5e47e0bf8beb.JPG",
+        "id": "10"
+      },
+      {
+        "option": "_",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/46/46_Doc-WAI-WAI19_17_2B2ADB40-866E-4D7B-AC42-F153E34CD1ED.JPG",
+        "id": "46"
+      },
+      {
+        "option": "`",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/27/27_Doc-WMW-MWC3_11_3c9bd734-ad00-4eaf-a482-21f52b021e67.JPG",
+        "id": "27"
+      }
+    ],
+    "answer": "H"
+  },
+  {
+    "task_id": "Wallaby_CIR_P3_000002",
+    "query": {
+      "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/20/20_Doc-WMW-MWC3_75_de690753-e62f-4f14-9785-6f64aeb01d3e.JPG",
+      "ground_truth_id": "20",
+      "metadata": {
+        "face_direction": 3,
+        "temperature": 11,
+        "day_night": 0,
+        "timestamp": "2023-09-28 14:22:00"
+      },
+      "context_text": {
+        "face_direction": "Right",
+        "temperature": 11,
+        "day_night": "Day",
+        "timestamp": "2023-09-28 14:22:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/23/23_Doc-WMW-MWC3_16_6694970a-220b-4bcc-b970-545190b1d74f.JPG",
+        "id": "23"
+      },
+      {
+        "option": "B",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/15/15_Doc-WPY-PY22_0_0cec43db-87e1-43a3-8afb-57f11d27fe38.JPG",
+        "id": "15"
+      },
+      {
+        "option": "C",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/40/40_Doc-WAI-WAI18_12_8B0AA0B9-DA3C-4E18-9A73-24E1744ED383.JPG",
+        "id": "40"
+      },
+      {
+        "option": "D",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/4/4_Doc-WPY-PY23_11_c50ea405-caad-4ad7-8b3d-eb40e9192276.JPG",
+        "id": "4"
+      },
+      {
+        "option": "E",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/13/13_Doc-WPY-PY22_7_6a955d82-e89c-4d12-8188-56bd52062280.JPG",
+        "id": "13"
+      },
+      {
+        "option": "F",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/12/12_Doc-WPY-PY44_13_ff9c1804-c222-4f1a-b7d3-827949258ec8.JPG",
+        "id": "12"
+      },
+      {
+        "option": "G",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/28/28_Doc-WMW-MWC1_34_d3aecf61-08dc-48be-90d0-0654179f80d0.JPG",
+        "id": "28"
+      },
+      {
+        "option": "H",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/38/38_Doc-WAI-WAI18_561_FBD0334D-F4BA-48B4-8C74-60CB26922FF7.JPG",
+        "id": "38"
+      },
+      {
+        "option": "I",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/24/24_Doc-WMW-MWC4_2_33c02efb-8668-4f14-b4c8-da3f8968b96f.JPG",
+        "id": "24"
+      },
+      {
+        "option": "J",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/42/42_Doc-WAI-WAI06_27_901A824C-5C11-4956-8A59-C44F9FD5B7DE.JPG",
+        "id": "42"
+      },
+      {
+        "option": "K",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/7/7_Doc-WPY-PY30_15_c7c0eae1-ad47-4590-9677-dd44ae3b519a.JPG",
+        "id": "7"
+      },
+      {
+        "option": "L",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/17/17_Doc-WPY-PY22_16_8f487e01-d105-4861-8f27-24417be0983c.JPG",
+        "id": "17"
+      },
+      {
+        "option": "M",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/35/35_Doc-WAI-WAI18_766_E8E73E1B-1EA6-4513-982D-7C9B3017C89D.JPG",
+        "id": "35"
+      },
+      {
+        "option": "N",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/8/8_Doc-WPY-PY23_18_74b9d28d-1645-4d26-b67f-a9cef1ad168e.JPG",
+        "id": "8"
+      },
+      {
+        "option": "O",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/39/39_Doc-WAI-WAI18_9_813AC667-5563-4581-8B71-D03710CE173E.JPG",
+        "id": "39"
+      },
+      {
+        "option": "P",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/6/6_Doc-WPY-PY44_9_a3233453-cb2f-4a44-8af4-93da07b867df.JPG",
+        "id": "6"
+      },
+      {
+        "option": "Q",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/10/10_Doc-WPY-PY23_22_ed99a087-1b67-4312-936b-2560d2e2ece3.JPG",
+        "id": "10"
+      },
+      {
+        "option": "R",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/44/44_Doc-WAI-WAI02_6_364D1D32-C1FA-4044-9484-DD35BC155D80.JPG",
+        "id": "44"
+      },
+      {
+        "option": "S",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/1/1_Doc-WPY-PY23_4_3eded19c-873b-430a-b234-0a59e7297b54.JPG",
+        "id": "1"
+      },
+      {
+        "option": "T",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/16/16_Doc-WPY-PY23_9_f98aec33-ec03-437c-b827-36245108942b.JPG",
+        "id": "16"
+      },
+      {
+        "option": "U",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/19/19_Doc-WMW-MWC2_1_0669062d-0794-49a7-b8dc-22c6e4bc425d.JPG",
+        "id": "19"
+      },
+      {
+        "option": "V",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/21/21_Doc-WMW-MWC2_19_bfecc392-54ee-4603-af44-5ec0aab713b0.JPG",
+        "id": "21"
+      },
+      {
+        "option": "W",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/11/11_Doc-WPY-PY22_3_562e75cc-8200-4d86-97fa-34c5994308ac.JPG",
+        "id": "11"
+      },
+      {
+        "option": "X",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/5/5_Doc-WPY-PY22_7_28f3d07e-5276-41c7-a675-93f764d40e85.JPG",
+        "id": "5"
+      },
+      {
+        "option": "Y",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/31/31_Doc-WAI-WAI18_19_59365FF3-2C17-4A64-A4D3-92613BF013D7.JPG",
+        "id": "31"
+      },
+      {
+        "option": "Z",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/9/9_Doc-WPY-PY22_5_978376ea-886e-4d0f-9fe3-a6098e55be1c.JPG",
+        "id": "9"
+      },
+      {
+        "option": "[",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/36/36_Doc-WAI-WAI02_24_8E12ED46-589C-41E6-B4BD-19D219C92CCE.JPG",
+        "id": "36"
+      },
+      {
+        "option": "\\",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/20/20_Doc-WMW-MWC3_46_83a46b91-960e-43bb-a2e8-c8cc4825c995.JPG",
+        "id": "20"
+      },
+      {
+        "option": "]",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/32/32_Doc-WAI-WAI18_69_84FCB8FC-B530-4B39-A7CB-541A35600D39.JPG",
+        "id": "32"
+      },
+      {
+        "option": "^",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/41/41_Doc-WAI-WAI16_46_DE2FAB56-E9A0-4243-AC07-9B36E744BAA1.JPG",
+        "id": "41"
+      },
+      {
+        "option": "_",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/34/34_Doc-WAI-WAIO1_0_05E095D4-553B-4A6A-B632-5D62D775B82E.JPG",
+        "id": "34"
+      },
+      {
+        "option": "`",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/2/2_Doc-WPY-PY22_9_e9788f5c-51dd-4b70-bc29-16c5baca52b1.JPG",
+        "id": "2"
+      }
+    ],
+    "answer": "\\"
+  },
+  {
+    "task_id": "Wallaby_CIR_P3_000003",
+    "query": {
+      "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/8/8_Doc-WPY-PY23_27_b4435c66-0182-49bf-8378-f8820fec97d5.JPG",
+      "ground_truth_id": "8",
+      "metadata": {
+        "face_direction": 3,
+        "temperature": 14,
+        "day_night": 1,
+        "timestamp": "2023-02-20 00:10:00"
+      },
+      "context_text": {
+        "face_direction": "Right",
+        "temperature": 14,
+        "day_night": "Night",
+        "timestamp": "2023-02-20 00:10:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/18/18_Doc-WPY-PY22_12_635bbc88-da5d-44d8-b192-b9a45cea25fa.JPG",
+        "id": "18"
+      },
+      {
+        "option": "B",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/4/4_Doc-WPY-PY23_12_d53cc159-2406-4c48-8e42-e8981c54d2f6.JPG",
+        "id": "4"
+      },
+      {
+        "option": "C",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/12/12_Doc-WPY-PY44_8_bbb1710d-1bf5-418d-bcde-c048ec6ebf2e.JPG",
+        "id": "12"
+      },
+      {
+        "option": "D",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/36/36_Doc-WAI-WAI02_29_A87662E1-9335-457E-A32E-E1FE15AD5BE0.JPG",
+        "id": "36"
+      },
+      {
+        "option": "E",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/9/9_Doc-WPY-PY22_4_95b79f67-be94-4c55-a309-d731b0cbd470.JPG",
+        "id": "9"
+      },
+      {
+        "option": "F",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/3/3_Doc-WPY-PY22_10_70f19d78-70c8-40eb-9e0c-10569a490b1d.JPG",
+        "id": "3"
+      },
+      {
+        "option": "G",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/22/22_Doc-WMW-MWC3_4_1b037166-a957-41ed-af53-ce278f08b4f0.JPG",
+        "id": "22"
+      },
+      {
+        "option": "H",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/21/21_Doc-WMW-MWC2_3_19d0f3cb-4164-4f77-94ae-bf23642600f2.JPG",
+        "id": "21"
+      },
+      {
+        "option": "I",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/23/23_Doc-WMW-MWC3_2_095e2799-22a6-4bc3-811b-59b5c5ad1e14.JPG",
+        "id": "23"
+      },
+      {
+        "option": "J",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/25/25_Doc-WMW-MWC3_2_3b73c12f-8d05-41b2-8f2f-8a0c193c54f5.JPG",
+        "id": "25"
+      },
+      {
+        "option": "K",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/33/33_Doc-WAI-WAI18_16_2FE61225-00EF-43F1-AE2A-FF33DC7A43CB.JPG",
+        "id": "33"
+      },
+      {
+        "option": "L",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/39/39_Doc-WAI-WAI18_12_8A748C59-9EB6-4ADC-A30A-3C5421A53C98.JPG",
+        "id": "39"
+      },
+      {
+        "option": "M",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/15/15_Doc-WPY-PY22_1_1c683500-bf27-4af7-8cab-5ce88f796dfd.JPG",
+        "id": "15"
+      },
+      {
+        "option": "N",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/41/41_Doc-WAI-WAI16_20_42F53237-CB8D-4255-AB43-2E70386AB179.JPG",
+        "id": "41"
+      },
+      {
+        "option": "O",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/32/32_Doc-WAI-WAI18_122_CCF6FA06-96EA-40C9-AF5C-39639B01734E.JPG",
+        "id": "32"
+      },
+      {
+        "option": "P",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/29/29_Doc-WMW-MWC3_8_4882a082-2815-4c9b-a4da-610b3528ca14.JPG",
+        "id": "29"
+      },
+      {
+        "option": "Q",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/27/27_Doc-WMW-MWC3_33_ad64d7f3-440e-4056-90ed-713920824b3f.JPG",
+        "id": "27"
+      },
+      {
+        "option": "R",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/14/14_Doc-WPY-PY21_4_705508bb-5fbc-455d-9f21-73ee9d1c389d.JPG",
+        "id": "14"
+      },
+      {
+        "option": "S",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/7/7_Doc-WPY-PY30_14_c78c0c5b-a4ca-41b3-9a9a-9a1a3cd14e60.JPG",
+        "id": "7"
+      },
+      {
+        "option": "T",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/46/46_Doc-WAI-WAI19_25_3ED5EC23-4583-41D3-98AC-BCB801AEBDB3.JPG",
+        "id": "46"
+      },
+      {
+        "option": "U",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/8/8_Doc-WPY-PY23_33_ddf2a419-82d2-45e1-a7f1-4006eda6e415.JPG",
+        "id": "8"
+      },
+      {
+        "option": "V",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/43/43_Doc-WAI-WAI16_72_6CF73515-E352-403C-BC21-CC8937D58DE4.JPG",
+        "id": "43"
+      },
+      {
+        "option": "W",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/34/34_Doc-WAI-WAIO1_20_DE489494-1DDB-4251-B30C-093E1278E434.JPG",
+        "id": "34"
+      },
+      {
+        "option": "X",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/0/0_Doc-WPY-PY22_3_28a26708-930f-412e-aada-892d8659cc53.JPG",
+        "id": "0"
+      },
+      {
+        "option": "Y",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/10/10_Doc-WPY-PY23_23_f0d0225a-9149-4a5b-9aa7-9687be385f4e.JPG",
+        "id": "10"
+      },
+      {
+        "option": "Z",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/31/31_Doc-WAI-WAI18_49_FBA2F682-F03B-4380-8342-86DD3297A8E5.JPG",
+        "id": "31"
+      },
+      {
+        "option": "[",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/42/42_Doc-WAI-WAI06_20_7896EEBC-8FD2-4B2E-9657-6251AAF0B5BC.JPG",
+        "id": "42"
+      },
+      {
+        "option": "\\",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/28/28_Doc-WMW-MWC1_36_de4bf232-529d-45c9-b643-066bce3b6f70.JPG",
+        "id": "28"
+      },
+      {
+        "option": "]",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/1/1_Doc-WPY-PY23_7_82311a4d-9043-40bc-8495-47d75186ca3a.JPG",
+        "id": "1"
+      },
+      {
+        "option": "^",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/44/44_Doc-WAI-WAI02_35_AF23E572-A6EC-4BA2-9C54-3DF615C09A98.JPG",
+        "id": "44"
+      },
+      {
+        "option": "_",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/16/16_Doc-WPY-PY23_10_fbc2658d-9f2f-4cb4-944d-2daca3517c75.JPG",
+        "id": "16"
+      },
+      {
+        "option": "`",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/5/5_Doc-WPY-PY22_34_ffd7887e-5395-46df-9821-2a9121c3d906.JPG",
+        "id": "5"
+      }
+    ],
+    "answer": "U"
+  },
+  {
+    "task_id": "Wallaby_CIR_P3_000004",
+    "query": {
+      "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/17/17_Doc-WPY-PY22_20_9f86d492-6766-449d-8620-a0f848cc14d8.JPG",
+      "ground_truth_id": "17",
+      "metadata": {
+        "face_direction": 1,
+        "temperature": 10,
+        "day_night": 1,
+        "timestamp": "2023-03-22 19:44:00"
+      },
+      "context_text": {
+        "face_direction": "Back",
+        "temperature": 10,
+        "day_night": "Night",
+        "timestamp": "2023-03-22 19:44:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/9/9_Doc-WPY-PY22_2_1ef85725-c7a3-4cca-9df5-aed0fb263f4d.JPG",
+        "id": "9"
+      },
+      {
+        "option": "B",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/29/29_Doc-WMW-MWC3_22_afe46f1c-fc94-47d0-858e-d9557b7e8429.JPG",
+        "id": "29"
+      },
+      {
+        "option": "C",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/20/20_Doc-WMW-MWC3_55_984e0991-e4ed-40cf-8e46-b6ad91ed2d06.JPG",
+        "id": "20"
+      },
+      {
+        "option": "D",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/19/19_Doc-WMW-MWC2_1_0669062d-0794-49a7-b8dc-22c6e4bc425d.JPG",
+        "id": "19"
+      },
+      {
+        "option": "E",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/31/31_Doc-WAI-WAI18_28_7C2377F2-B745-43BF-9D67-A8E55F92D525.JPG",
+        "id": "31"
+      },
+      {
+        "option": "F",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/27/27_Doc-WMW-MWC3_47_fdf511d2-baa3-40bd-9360-c708f1d1282d.JPG",
+        "id": "27"
+      },
+      {
+        "option": "G",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/15/15_Doc-WPY-PY22_1_1c683500-bf27-4af7-8cab-5ce88f796dfd.JPG",
+        "id": "15"
+      },
+      {
+        "option": "H",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/33/33_Doc-WAI-WAI18_10_2428861C-5229-4B5C-82D2-50DCB4EE736F.JPG",
+        "id": "33"
+      },
+      {
+        "option": "I",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/8/8_Doc-WPY-PY23_26_ae78f483-38b8-4898-9893-4bfcbf05e09b.JPG",
+        "id": "8"
+      },
+      {
+        "option": "J",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/43/43_Doc-WAI-WAI16_160_F2F099BE-72BB-4D55-AF5C-1519968286BA.JPG",
+        "id": "43"
+      },
+      {
+        "option": "K",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/10/10_Doc-WPY-PY23_17_bcb273f2-a462-4643-bd81-bda4d263a523.JPG",
+        "id": "10"
+      },
+      {
+        "option": "L",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/41/41_Doc-WAI-WAI16_39_BD9E02CB-20D1-4E3F-A53D-38D1C741C8BF.JPG",
+        "id": "41"
+      },
+      {
+        "option": "M",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/28/28_Doc-WMW-MWC1_27_8a6fa154-87bd-4cb6-a60a-364aa8e84dad.JPG",
+        "id": "28"
+      },
+      {
+        "option": "N",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/1/1_Doc-WPY-PY23_9_ac5cfa9f-01aa-464c-81f1-5c56c333ed60.JPG",
+        "id": "1"
+      },
+      {
+        "option": "O",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/32/32_Doc-WAI-WAI18_116_C77C801D-A782-470A-A8AD-C923A1C43FC7.JPG",
+        "id": "32"
+      },
+      {
+        "option": "P",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/37/37_Doc-WAI-WAI18_5_45B98F19-81B9-49A3-871F-9C011110044A.JPG",
+        "id": "37"
+      },
+      {
+        "option": "Q",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/21/21_Doc-WMW-MWC2_13_75e78ab0-efb7-442c-8f92-960511876260.JPG",
+        "id": "21"
+      },
+      {
+        "option": "R",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/13/13_Doc-WPY-PY22_19_e94ad5ec-49ed-4ea8-be74-907cda49c995.JPG",
+        "id": "13"
+      },
+      {
+        "option": "S",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/11/11_Doc-WPY-PY22_12_f1b31d32-b432-4626-982b-1f8bc27b5067.JPG",
+        "id": "11"
+      },
+      {
+        "option": "T",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/5/5_Doc-WPY-PY22_13_6e332532-f12b-447f-97ff-7dc199dc3f15.JPG",
+        "id": "5"
+      },
+      {
+        "option": "U",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/7/7_Doc-WPY-PY30_1_1cb72906-271e-4559-9f4e-74cdefa5c750.JPG",
+        "id": "7"
+      },
+      {
+        "option": "V",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/4/4_Doc-WPY-PY23_4_79f37b05-38f2-4f01-8e56-ce9db74a7ff3.JPG",
+        "id": "4"
+      },
+      {
+        "option": "W",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/17/17_Doc-WPY-PY22_27_ceca457e-6128-4e3d-8d6a-ff0a90b88ea9.JPG",
+        "id": "17"
+      },
+      {
+        "option": "X",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/34/34_Doc-WAI-WAIO1_22_E3BB9780-8725-442B-9560-EEDAABB6C419.JPG",
+        "id": "34"
+      },
+      {
+        "option": "Y",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/39/39_Doc-WAI-WAI18_11_89E5022E-146F-44A3-9F3F-688F5E178B25.JPG",
+        "id": "39"
+      },
+      {
+        "option": "Z",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/44/44_Doc-WAI-WAI02_17_68CDF1BC-AAAC-46ED-AA78-F8D8BB8239BD.JPG",
+        "id": "44"
+      },
+      {
+        "option": "[",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/38/38_Doc-WAI-WAI18_192_53B1E79B-7918-4F54-A802-5359B164C912.JPG",
+        "id": "38"
+      },
+      {
+        "option": "\\",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/26/26_Doc-WMW-MWC1_8_40969579-3eeb-40a5-a9d6-dffc426b7b75.JPG",
+        "id": "26"
+      },
+      {
+        "option": "]",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/40/40_Doc-WAI-WAI18_15_DD5B1483-0748-4D06-9E41-105EE523B11A.JPG",
+        "id": "40"
+      },
+      {
+        "option": "^",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/35/35_Doc-WAI-WAI18_673_CC05E250-1B8B-48F6-982B-1C3FE4641075.JPG",
+        "id": "35"
+      },
+      {
+        "option": "_",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/45/45_Doc-WAI-WAI02_2_03F97325-A64D-431C-8469-96363711D354.JPG",
+        "id": "45"
+      },
+      {
+        "option": "`",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/6/6_Doc-WPY-PY44_16_c4cad546-2966-418b-b42a-770373e41968.JPG",
+        "id": "6"
+      }
+    ],
+    "answer": "W"
+  },
+  {
+    "task_id": "Wallaby_CIR_P3_000005",
+    "query": {
+      "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/23/23_Doc-WMW-MWC3_12_4d1f77ed-2158-40d6-9e61-236fc43f5a1c.JPG",
+      "ground_truth_id": "23",
+      "metadata": {
+        "face_direction": 2,
+        "temperature": 0,
+        "day_night": 1,
+        "timestamp": "2023-10-01 07:05:00"
+      },
+      "context_text": {
+        "face_direction": "Left",
+        "temperature": 0,
+        "day_night": "Night",
+        "timestamp": "2023-10-01 07:05:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/12/12_Doc-WPY-PY44_12_d8a6c9be-92b1-4102-a209-0e296922d323.JPG",
+        "id": "12"
+      },
+      {
+        "option": "B",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/10/10_Doc-WPY-PY23_6_58db23d2-4e0c-4c0a-abfe-a5fd9dff7bcb.JPG",
+        "id": "10"
+      },
+      {
+        "option": "C",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/46/46_Doc-WAI-WAI19_21_35F86422-E2FF-4013-8D9E-C4F94C59067F.JPG",
+        "id": "46"
+      },
+      {
+        "option": "D",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/8/8_Doc-WPY-PY23_37_eddf1b07-b506-48e6-8aa1-b4edad81bf1f.JPG",
+        "id": "8"
+      },
+      {
+        "option": "E",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/0/0_Doc-WPY-PY22_5_97bc84ed-5c12-447b-8a5e-7c14c40a982a.JPG",
+        "id": "0"
+      },
+      {
+        "option": "F",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/30/30_Doc-WAI-WAI18_2_023A2CF8-99CC-40D4-8254-34C64431704D.JPG",
+        "id": "30"
+      },
+      {
+        "option": "G",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/38/38_Doc-WAI-WAI18_329_9561F2CC-BB27-4D0C-8783-69E0CC460CB7.JPG",
+        "id": "38"
+      },
+      {
+        "option": "H",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/37/37_Doc-WAI-WAI18_21_F23A5870-E1B3-4661-B98E-73A1AB785140.JPG",
+        "id": "37"
+      },
+      {
+        "option": "I",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/5/5_Doc-WPY-PY22_31_fc40d6fc-1913-4e70-8710-ec930fc999d8.JPG",
+        "id": "5"
+      },
+      {
+        "option": "J",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/33/33_Doc-WAI-WAI18_2_09AD0E3C-9E44-4668-970B-091D53651A37.JPG",
+        "id": "33"
+      },
+      {
+        "option": "K",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/26/26_Doc-WMW-MWC1_23_816a1622-34c6-45fe-9a56-a44c1862cb56.JPG",
+        "id": "26"
+      },
+      {
+        "option": "L",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/34/34_Doc-WAI-WAIO1_3_1E7E3D3E-3154-4F3B-8577-14AD24E2F822.JPG",
+        "id": "34"
+      },
+      {
+        "option": "M",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/3/3_Doc-WPY-PY22_14_b39f3e70-f5d7-488d-8450-5a35f775895a.JPG",
+        "id": "3"
+      },
+      {
+        "option": "N",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/32/32_Doc-WAI-WAI18_105_BAE0A108-5501-4D1F-A485-7BF99B5C8193.JPG",
+        "id": "32"
+      },
+      {
+        "option": "O",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/15/15_Doc-WPY-PY22_8_d1368f9c-7586-48ca-8f9e-87778f0e550a.JPG",
+        "id": "15"
+      },
+      {
+        "option": "P",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/31/31_Doc-WAI-WAI18_33_8AD50A3B-673B-4EAF-8FCB-D35C5762C439.JPG",
+        "id": "31"
+      },
+      {
+        "option": "Q",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/1/1_Doc-WPY-PY23_12_e05fae3a-46b0-4e5a-8c8a-cdd2f00d4819.JPG",
+        "id": "1"
+      },
+      {
+        "option": "R",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/18/18_Doc-WPY-PY22_4_229f7454-f4f8-459f-93cb-e43c2b583632.JPG",
+        "id": "18"
+      },
+      {
+        "option": "S",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/20/20_Doc-WMW-MWC3_81_f3dc4959-d5c8-461b-983e-634edeb6d96b.JPG",
+        "id": "20"
+      },
+      {
+        "option": "T",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/9/9_Doc-WPY-PY22_3_47d0e783-ae62-4aea-bc22-b68d3b13e3c8.JPG",
+        "id": "9"
+      },
+      {
+        "option": "U",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/16/16_Doc-WPY-PY23_10_fbc2658d-9f2f-4cb4-944d-2daca3517c75.JPG",
+        "id": "16"
+      },
+      {
+        "option": "V",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/35/35_Doc-WAI-WAI18_406_747E2D41-0EBC-471C-B1D5-652A0B750E43.JPG",
+        "id": "35"
+      },
+      {
+        "option": "W",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/23/23_Doc-WMW-MWC3_15_5f4048c1-ff3c-4bcc-9e55-5f39b50c0bf6.JPG",
+        "id": "23"
+      },
+      {
+        "option": "X",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/40/40_Doc-WAI-WAI18_2_224A302D-24FE-448B-96F4-F1385B5F6A5A.JPG",
+        "id": "40"
+      },
+      {
+        "option": "Y",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/17/17_Doc-WPY-PY22_2_0245587a-6f6d-4da4-a43a-98d73f0f059b.JPG",
+        "id": "17"
+      },
+      {
+        "option": "Z",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/41/41_Doc-WAI-WAI16_19_3A55DEE4-2A44-4DDB-9176-6C53B641F802.JPG",
+        "id": "41"
+      },
+      {
+        "option": "[",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/19/19_Doc-WMW-MWC2_6_61413264-4856-47f9-bc0f-8a6b1ed6ed29.JPG",
+        "id": "19"
+      },
+      {
+        "option": "\\",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/24/24_Doc-WMW-MWC4_9_9bc52598-85fd-475c-ba40-9311ce50709c.JPG",
+        "id": "24"
+      },
+      {
+        "option": "]",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/29/29_Doc-WMW-MWC3_8_4882a082-2815-4c9b-a4da-610b3528ca14.JPG",
+        "id": "29"
+      },
+      {
+        "option": "^",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/7/7_Doc-WPY-PY30_10_9fe579f1-ff76-4eb0-ac4b-20664e88e1c8.JPG",
+        "id": "7"
+      },
+      {
+        "option": "_",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/42/42_Doc-WAI-WAI06_4_24781707-67A8-4A80-BAFB-6685BF894656.JPG",
+        "id": "42"
+      },
+      {
+        "option": "`",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/25/25_Doc-WMW-MWC3_11_ba007ddd-1042-4134-a654-704f9e1173a6.JPG",
+        "id": "25"
+      }
+    ],
+    "answer": "W"
+  },
+  {
+    "task_id": "Wallaby_CIR_P3_000006",
+    "query": {
+      "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/43/43_Doc-WAI-WAI16_49_4F7C0BBB-CF13-4A54-A35E-CDF0BCB8CE03.JPG",
+      "ground_truth_id": "43",
+      "metadata": {
+        "face_direction": 3,
+        "temperature": 1,
+        "day_night": 1,
+        "timestamp": "2023-08-05 11:56:00"
+      },
+      "context_text": {
+        "face_direction": "Right",
+        "temperature": 1,
+        "day_night": "Night",
+        "timestamp": "2023-08-05 11:56:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/31/31_Doc-WAI-WAI18_9_29FAFBE8-8895-4476-86F6-5909F013E247.JPG",
+        "id": "31"
+      },
+      {
+        "option": "B",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/27/27_Doc-WMW-MWC3_0_06ade56b-fd59-4290-90b0-f430047e74f7.JPG",
+        "id": "27"
+      },
+      {
+        "option": "C",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/2/2_Doc-WPY-PY22_8_e842dbfb-8abf-4cc5-a11a-9237d3a0a570.JPG",
+        "id": "2"
+      },
+      {
+        "option": "D",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/39/39_Doc-WAI-WAI18_22_E621DE7F-6752-4E74-8848-179CC732247E.JPG",
+        "id": "39"
+      },
+      {
+        "option": "E",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/7/7_Doc-WPY-PY30_9_87756427-9268-438f-af94-b421d38408a7.JPG",
+        "id": "7"
+      },
+      {
+        "option": "F",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/15/15_Doc-WPY-PY22_8_d1368f9c-7586-48ca-8f9e-87778f0e550a.JPG",
+        "id": "15"
+      },
+      {
+        "option": "G",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/36/36_Doc-WAI-WAI02_28_9DEE1D90-7012-4F1D-8087-D56587837741.JPG",
+        "id": "36"
+      },
+      {
+        "option": "H",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/26/26_Doc-WMW-MWC1_41_f5cb0539-7de7-4eb7-b8d8-5b470a0af92f.JPG",
+        "id": "26"
+      },
+      {
+        "option": "I",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/33/33_Doc-WAI-WAI18_77_E5447650-1C97-440A-9359-4FE1CF9123F2.JPG",
+        "id": "33"
+      },
+      {
+        "option": "J",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/34/34_Doc-WAI-WAIO1_27_FBD3CE6C-6992-439A-A3F4-26EE0E6927BF.JPG",
+        "id": "34"
+      },
+      {
+        "option": "K",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/40/40_Doc-WAI-WAI18_8_584388C3-685F-478C-B78A-5D70B8F1BBC9.JPG",
+        "id": "40"
+      },
+      {
+        "option": "L",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/11/11_Doc-WPY-PY22_5_7c1b348a-bee6-41e4-b0f7-aa49c0140630.JPG",
+        "id": "11"
+      },
+      {
+        "option": "M",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/42/42_Doc-WAI-WAI06_21_793FD187-ECBD-427F-B3CC-2EC37FD576C3.JPG",
+        "id": "42"
+      },
+      {
+        "option": "N",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/23/23_Doc-WMW-MWC3_32_cf6b3051-b8eb-4757-9b7f-c1f1e81737a0.JPG",
+        "id": "23"
+      },
+      {
+        "option": "O",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/30/30_Doc-WAI-WAI18_5_054CC0AC-F17D-4CDF-BFBC-C86CB2180AE5.JPG",
+        "id": "30"
+      },
+      {
+        "option": "P",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/28/28_Doc-WMW-MWC1_27_8a6fa154-87bd-4cb6-a60a-364aa8e84dad.JPG",
+        "id": "28"
+      },
+      {
+        "option": "Q",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/29/29_Doc-WMW-MWC3_18_91b23610-210d-4e4c-b761-6221cc3c6877.JPG",
+        "id": "29"
+      },
+      {
+        "option": "R",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/8/8_Doc-WPY-PY23_14_5ad98803-de94-4347-862e-01a3035e6e59.JPG",
+        "id": "8"
+      },
+      {
+        "option": "S",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/3/3_Doc-WPY-PY22_15_de7b35d5-9faa-4976-8925-c85a8a3a8423.JPG",
+        "id": "3"
+      },
+      {
+        "option": "T",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/6/6_Doc-WPY-PY44_14_b97d2110-6adf-4efe-95e9-6fc52f16620c.JPG",
+        "id": "6"
+      },
+      {
+        "option": "U",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/0/0_Doc-WPY-PY22_3_28a26708-930f-412e-aada-892d8659cc53.JPG",
+        "id": "0"
+      },
+      {
+        "option": "V",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/43/43_Doc-WAI-WAI16_28_2ADE3DD0-20C1-493E-B2A2-878D43B65FF8.JPG",
+        "id": "43"
+      },
+      {
+        "option": "W",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/12/12_Doc-WPY-PY44_2_445859a4-7cc6-400b-b85d-23f21c83be31.JPG",
+        "id": "12"
+      },
+      {
+        "option": "X",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/17/17_Doc-WPY-PY22_1_017b0e0b-579f-4e90-941d-186245125d20.JPG",
+        "id": "17"
+      },
+      {
+        "option": "Y",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/45/45_Doc-WAI-WAI02_37_B4BA2812-B936-485F-911A-BACA4DDD5E30.JPG",
+        "id": "45"
+      },
+      {
+        "option": "Z",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/20/20_Doc-WMW-MWC3_44_7d2be1f0-d34b-46aa-97a7-ee255a6b0e46.JPG",
+        "id": "20"
+      },
+      {
+        "option": "[",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/9/9_Doc-WPY-PY22_4_95b79f67-be94-4c55-a309-d731b0cbd470.JPG",
+        "id": "9"
+      },
+      {
+        "option": "\\",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/18/18_Doc-WPY-PY22_27_f7d06ded-f89a-46a8-a4d8-ce39f7d0ccda.JPG",
+        "id": "18"
+      },
+      {
+        "option": "]",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/41/41_Doc-WAI-WAI16_5_0B5F96DD-88D8-4376-B152-4CE44EB884FA.JPG",
+        "id": "41"
+      },
+      {
+        "option": "^",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/44/44_Doc-WAI-WAI02_39_C52B74D3-707A-4832-AA9B-C031C08BB089.JPG",
+        "id": "44"
+      },
+      {
+        "option": "_",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/10/10_Doc-WPY-PY23_21_eb24373e-8930-40c8-bc64-9c8cba1dba43.JPG",
+        "id": "10"
+      },
+      {
+        "option": "`",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/38/38_Doc-WAI-WAI18_529_F11CBBD1-AD3F-4EAB-8CF6-AF4CE495BA98.JPG",
+        "id": "38"
+      }
+    ],
+    "answer": "V"
+  },
+  {
+    "task_id": "Wallaby_CIR_P3_000007",
+    "query": {
+      "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/19/19_Doc-WMW-MWC2_9_9a188288-cb27-4a53-bc3b-edfd08ff756c.JPG",
+      "ground_truth_id": "19",
+      "metadata": {
+        "face_direction": 3,
+        "temperature": 8,
+        "day_night": 1,
+        "timestamp": "2023-09-28 04:20:00"
+      },
+      "context_text": {
+        "face_direction": "Right",
+        "temperature": 8,
+        "day_night": "Night",
+        "timestamp": "2023-09-28 04:20:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/41/41_Doc-WAI-WAI16_33_990FA636-4738-4E94-B39D-C76F72368846.JPG",
+        "id": "41"
+      },
+      {
+        "option": "B",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/15/15_Doc-WPY-PY22_3_5dca29fb-550e-41f6-bd9e-ec3a5b3cdadb.JPG",
+        "id": "15"
+      },
+      {
+        "option": "C",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/24/24_Doc-WMW-MWC4_1_2d2c7846-e48c-437b-a0b8-4e9e4deac536.JPG",
+        "id": "24"
+      },
+      {
+        "option": "D",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/32/32_Doc-WAI-WAI18_5_0F8E396D-5A96-434B-A17C-516B13ED97B4.JPG",
+        "id": "32"
+      },
+      {
+        "option": "E",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/6/6_Doc-WPY-PY44_5_7083efd6-0c79-47fd-95f9-5faa58d45c6f.JPG",
+        "id": "6"
+      },
+      {
+        "option": "F",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/16/16_Doc-WPY-PY23_4_5d843efc-e562-4fc6-80ed-822c765b4eed.JPG",
+        "id": "16"
+      },
+      {
+        "option": "G",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/10/10_Doc-WPY-PY23_16_b5e6e3c9-9a93-4e28-bf8b-3e9c55918f33.JPG",
+        "id": "10"
+      },
+      {
+        "option": "H",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/36/36_Doc-WAI-WAI02_36_E3D6B74F-8F2E-41AD-B533-3ECC3D3D7069.JPG",
+        "id": "36"
+      },
+      {
+        "option": "I",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/11/11_Doc-WPY-PY22_13_fa5f3a7b-a2cc-4d3b-b3cd-fd491decf59e.JPG",
+        "id": "11"
+      },
+      {
+        "option": "J",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/34/34_Doc-WAI-WAIO1_19_D680ED1C-04D9-4D99-AF0F-355F6CF79962.JPG",
+        "id": "34"
+      },
+      {
+        "option": "K",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/3/3_Doc-WPY-PY22_13_a3302b7e-1007-4a69-9e68-954fc17629bc.JPG",
+        "id": "3"
+      },
+      {
+        "option": "L",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/28/28_Doc-WMW-MWC1_31_ad908420-2fe0-484f-8e4d-16d5ede2afea.JPG",
+        "id": "28"
+      },
+      {
+        "option": "M",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/17/17_Doc-WPY-PY22_7_31560a78-088e-4335-99bc-b557e42432c3.JPG",
+        "id": "17"
+      },
+      {
+        "option": "N",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/18/18_Doc-WPY-PY22_11_57d6ac41-e91d-4aa6-8910-54e5538c1376.JPG",
+        "id": "18"
+      },
+      {
+        "option": "O",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/19/19_Doc-WMW-MWC2_7_6a2a6e5d-16dc-46bf-8c43-d6ddfd3c272c.JPG",
+        "id": "19"
+      },
+      {
+        "option": "P",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/40/40_Doc-WAI-WAI18_15_DD5B1483-0748-4D06-9E41-105EE523B11A.JPG",
+        "id": "40"
+      },
+      {
+        "option": "Q",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/5/5_Doc-WPY-PY22_31_fc40d6fc-1913-4e70-8710-ec930fc999d8.JPG",
+        "id": "5"
+      },
+      {
+        "option": "R",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/23/23_Doc-WMW-MWC3_18_79e2aa5e-5fd2-4fef-9b3e-3e6e43ae8d02.JPG",
+        "id": "23"
+      },
+      {
+        "option": "S",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/4/4_Doc-WPY-PY23_0_0c4cab0f-080e-480f-ae15-6ad574db5000.JPG",
+        "id": "4"
+      },
+      {
+        "option": "T",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/33/33_Doc-WAI-WAI18_57_B31B4B56-ED6D-4A37-B3E5-B1D888606089.JPG",
+        "id": "33"
+      },
+      {
+        "option": "U",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/22/22_Doc-WMW-MWC3_17_931db49f-b662-4778-8b82-917add76803c.JPG",
+        "id": "22"
+      },
+      {
+        "option": "V",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/8/8_Doc-WPY-PY23_2_07d2d1de-9aa0-4305-bbdf-af8baed8f8ae.JPG",
+        "id": "8"
+      },
+      {
+        "option": "W",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/44/44_Doc-WAI-WAI02_4_2849F511-2919-4896-97DD-EF2882548125.JPG",
+        "id": "44"
+      },
+      {
+        "option": "X",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/7/7_Doc-WPY-PY30_0_03aaadcf-7a99-4191-a902-9c38bb456553.JPG",
+        "id": "7"
+      },
+      {
+        "option": "Y",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/42/42_Doc-WAI-WAI06_31_965E7AB3-9634-4955-A5B9-237A88A043D1.JPG",
+        "id": "42"
+      },
+      {
+        "option": "Z",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/35/35_Doc-WAI-WAI18_5_01D95982-4CAC-4058-BDBF-8461E07530EB.JPG",
+        "id": "35"
+      },
+      {
+        "option": "[",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/31/31_Doc-WAI-WAI18_13_4450FEB9-C41E-4112-AC13-730018158E62.JPG",
+        "id": "31"
+      },
+      {
+        "option": "\\",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/45/45_Doc-WAI-WAI02_10_2679521A-D674-4326-B17D-BD6BC2BF42B9.JPG",
+        "id": "45"
+      },
+      {
+        "option": "]",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/46/46_Doc-WAI-WAI19_98_F98F6D79-9A9E-4DDD-A9E4-C57578C3CCAC.JPG",
+        "id": "46"
+      },
+      {
+        "option": "^",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/30/30_Doc-WAI-WAI18_34_680B910C-266E-4D75-A60B-001898328871.JPG",
+        "id": "30"
+      },
+      {
+        "option": "_",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/43/43_Doc-WAI-WAI16_83_79585EE2-377D-4CD4-A8CB-49B014E9466E.JPG",
+        "id": "43"
+      },
+      {
+        "option": "`",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/39/39_Doc-WAI-WAI18_21_DF978FE2-B8EE-497E-8195-395A035CD4F6.JPG",
+        "id": "39"
+      }
+    ],
+    "answer": "O"
+  },
+  {
+    "task_id": "Wallaby_CIR_P3_000008",
+    "query": {
+      "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/13/13_Doc-WPY-PY22_3_2eae8842-90ae-4b78-bb20-2a1ba1b62f53.JPG",
+      "ground_truth_id": "13",
+      "metadata": {
+        "face_direction": 1,
+        "temperature": 12,
+        "day_night": 1,
+        "timestamp": "2023-03-02 05:35:00"
+      },
+      "context_text": {
+        "face_direction": "Back",
+        "temperature": 12,
+        "day_night": "Night",
+        "timestamp": "2023-03-02 05:35:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/6/6_Doc-WPY-PY44_12_a9edbaa0-4f01-4507-bc8b-bac60e78462d.JPG",
+        "id": "6"
+      },
+      {
+        "option": "B",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/16/16_Doc-WPY-PY23_6_771029f8-73a2-499d-8cae-c48a644501f0.JPG",
+        "id": "16"
+      },
+      {
+        "option": "C",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/46/46_Doc-WAI-WAI19_78_C30A2097-76BD-4B65-AA37-F48550A8CC9A.JPG",
+        "id": "46"
+      },
+      {
+        "option": "D",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/5/5_Doc-WPY-PY22_23_bf601e03-22c3-4348-8eab-e85aa07c07e6.JPG",
+        "id": "5"
+      },
+      {
+        "option": "E",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/35/35_Doc-WAI-WAI18_633_BEF2C04D-644F-4EBB-A28E-EA64C1FDBBF0.JPG",
+        "id": "35"
+      },
+      {
+        "option": "F",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/2/2_Doc-WPY-PY22_3_504bac72-489f-46ca-bea7-c78f58925570.JPG",
+        "id": "2"
+      },
+      {
+        "option": "G",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/4/4_Doc-WPY-PY23_13_d7d48e8f-190e-40cf-b5ea-4e685b058eb6.JPG",
+        "id": "4"
+      },
+      {
+        "option": "H",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/11/11_Doc-WPY-PY22_5_7c1b348a-bee6-41e4-b0f7-aa49c0140630.JPG",
+        "id": "11"
+      },
+      {
+        "option": "I",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/24/24_Doc-WMW-MWC4_11_c83e206d-e1ce-496e-be98-6ab771abc160.JPG",
+        "id": "24"
+      },
+      {
+        "option": "J",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/27/27_Doc-WMW-MWC3_44_fa4c587e-948b-4402-b93e-a388fd2107ea.JPG",
+        "id": "27"
+      },
+      {
+        "option": "K",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/40/40_Doc-WAI-WAI18_6_3FCEA4F6-F0A9-43F5-8651-B9C6CA447EFF.JPG",
+        "id": "40"
+      },
+      {
+        "option": "L",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/9/9_Doc-WPY-PY22_9_da0ebb14-77dd-4904-bd1e-f3e07befea65.JPG",
+        "id": "9"
+      },
+      {
+        "option": "M",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/33/33_Doc-WAI-WAI18_21_40B7D09C-C24E-4AC8-AF12-F7B6E166943F.JPG",
+        "id": "33"
+      },
+      {
+        "option": "N",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/12/12_Doc-WPY-PY44_10_c89fd1a5-cb01-4034-8086-8fd4ecdabe59.JPG",
+        "id": "12"
+      },
+      {
+        "option": "O",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/14/14_Doc-WPY-PY21_9_c523d051-923d-44cd-95c0-a03c3983b001.JPG",
+        "id": "14"
+      },
+      {
+        "option": "P",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/10/10_Doc-WPY-PY23_23_f0d0225a-9149-4a5b-9aa7-9687be385f4e.JPG",
+        "id": "10"
+      },
+      {
+        "option": "Q",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/28/28_Doc-WMW-MWC1_16_3a9fb44d-230c-44d2-b87d-1d04f5e644f0.JPG",
+        "id": "28"
+      },
+      {
+        "option": "R",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/41/41_Doc-WAI-WAI16_32_9664E960-4B9C-4251-A9B0-4FF91A068767.JPG",
+        "id": "41"
+      },
+      {
+        "option": "S",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/13/13_Doc-WPY-PY22_13_ca03ac18-be0b-4c3d-88b4-6352829b41b1.JPG",
+        "id": "13"
+      },
+      {
+        "option": "T",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/21/21_Doc-WMW-MWC2_6_2a513192-3639-47d6-8c6e-10a43b92cac7.JPG",
+        "id": "21"
+      },
+      {
+        "option": "U",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/29/29_Doc-WMW-MWC3_5_33139a16-5657-40cc-898b-ba7e47056d32.JPG",
+        "id": "29"
+      },
+      {
+        "option": "V",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/1/1_Doc-WPY-PY23_11_cc96d152-ade1-4122-8ac3-9b8b255263b3.JPG",
+        "id": "1"
+      },
+      {
+        "option": "W",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/44/44_Doc-WAI-WAI02_13_52788799-87A6-4045-84AC-1001C56E6279.JPG",
+        "id": "44"
+      },
+      {
+        "option": "X",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/36/36_Doc-WAI-WAI02_10_4A12B28E-6CF7-4E38-A5BE-81FB50148687.JPG",
+        "id": "36"
+      },
+      {
+        "option": "Y",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/25/25_Doc-WMW-MWC3_5_74bf4cbd-14f0-4cbc-b36e-28279389c756.JPG",
+        "id": "25"
+      },
+      {
+        "option": "Z",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/30/30_Doc-WAI-WAI18_28_52C0346E-C902-453E-A109-92379F996233.JPG",
+        "id": "30"
+      },
+      {
+        "option": "[",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/23/23_Doc-WMW-MWC3_30_b578e270-eb9a-4e81-92c6-bcee117e34c6.JPG",
+        "id": "23"
+      },
+      {
+        "option": "\\",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/0/0_Doc-WPY-PY22_3_28a26708-930f-412e-aada-892d8659cc53.JPG",
+        "id": "0"
+      },
+      {
+        "option": "]",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/8/8_Doc-WPY-PY23_27_b4435c66-0182-49bf-8378-f8820fec97d5.JPG",
+        "id": "8"
+      },
+      {
+        "option": "^",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/31/31_Doc-WAI-WAI18_27_7B44935C-1C4B-46A6-99D5-70C4ACCAB672.JPG",
+        "id": "31"
+      },
+      {
+        "option": "_",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/43/43_Doc-WAI-WAI16_145_E0ACA671-2907-437F-9CE2-7ECE6E6D4B0E.JPG",
+        "id": "43"
+      },
+      {
+        "option": "`",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/15/15_Doc-WPY-PY22_1_1c683500-bf27-4af7-8cab-5ce88f796dfd.JPG",
+        "id": "15"
+      }
+    ],
+    "answer": "S"
+  },
+  {
+    "task_id": "Wallaby_CIR_P3_000009",
+    "query": {
+      "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/27/27_Doc-WMW-MWC3_23_59a469db-0d9c-4421-9547-80ce7926c370.JPG",
+      "ground_truth_id": "27",
+      "metadata": {
+        "face_direction": 1,
+        "temperature": 2,
+        "day_night": 1,
+        "timestamp": "2023-10-09 06:56:00"
+      },
+      "context_text": {
+        "face_direction": "Back",
+        "temperature": 2,
+        "day_night": "Night",
+        "timestamp": "2023-10-09 06:56:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/36/36_Doc-WAI-WAI02_36_E3D6B74F-8F2E-41AD-B533-3ECC3D3D7069.JPG",
+        "id": "36"
+      },
+      {
+        "option": "B",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/45/45_Doc-WAI-WAI02_16_391373B0-BBA7-4CBE-9CB6-366E65B95D17.JPG",
+        "id": "45"
+      },
+      {
+        "option": "C",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/3/3_Doc-WPY-PY22_5_2d796edc-7914-49d0-99a3-364a25aed66f.JPG",
+        "id": "3"
+      },
+      {
+        "option": "D",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/34/34_Doc-WAI-WAIO1_19_D680ED1C-04D9-4D99-AF0F-355F6CF79962.JPG",
+        "id": "34"
+      },
+      {
+        "option": "E",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/0/0_Doc-WPY-PY22_7_b21fb62f-476e-46c3-af52-e92ff51b0377.JPG",
+        "id": "0"
+      },
+      {
+        "option": "F",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/22/22_Doc-WMW-MWC3_32_fd9a52f7-e422-4342-b8af-4759ba53c343.JPG",
+        "id": "22"
+      },
+      {
+        "option": "G",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/39/39_Doc-WAI-WAI18_18_CD0D4C93-1CD0-4C4F-9EE5-4FA098C7F2BB.JPG",
+        "id": "39"
+      },
+      {
+        "option": "H",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/24/24_Doc-WMW-MWC4_2_33c02efb-8668-4f14-b4c8-da3f8968b96f.JPG",
+        "id": "24"
+      },
+      {
+        "option": "I",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/25/25_Doc-WMW-MWC3_6_86af12c4-9beb-45f7-8f7b-8c6f5693f60f.JPG",
+        "id": "25"
+      },
+      {
+        "option": "J",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/26/26_Doc-WMW-MWC1_43_f79a8295-4a37-43cd-8296-24ebc279d66e.JPG",
+        "id": "26"
+      },
+      {
+        "option": "K",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/1/1_Doc-WPY-PY23_5_7861cb48-1b49-4d61-b7c4-d02210e7ac24.JPG",
+        "id": "1"
+      },
+      {
+        "option": "L",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/42/42_Doc-WAI-WAI06_22_7A7FEA34-A503-405B-B73D-2FA867BA8F7B.JPG",
+        "id": "42"
+      },
+      {
+        "option": "M",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/4/4_Doc-WPY-PY23_13_d7d48e8f-190e-40cf-b5ea-4e685b058eb6.JPG",
+        "id": "4"
+      },
+      {
+        "option": "N",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/27/27_Doc-WMW-MWC3_14_48f89961-c165-4758-ac2e-fa76cb697a1e.JPG",
+        "id": "27"
+      },
+      {
+        "option": "O",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/14/14_Doc-WPY-PY21_6_875cf98f-c8af-4649-ae44-aed4d935e079.JPG",
+        "id": "14"
+      },
+      {
+        "option": "P",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/15/15_Doc-WPY-PY22_5_a326fa82-eef9-4ebf-aa66-15f505495132.JPG",
+        "id": "15"
+      },
+      {
+        "option": "Q",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/9/9_Doc-WPY-PY22_8_cea798ca-91fd-4838-bec3-99aecae46de4.JPG",
+        "id": "9"
+      },
+      {
+        "option": "R",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/18/18_Doc-WPY-PY22_11_57d6ac41-e91d-4aa6-8910-54e5538c1376.JPG",
+        "id": "18"
+      },
+      {
+        "option": "S",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/35/35_Doc-WAI-WAI18_424_7890946D-8475-4304-955B-38578A2C4F36.JPG",
+        "id": "35"
+      },
+      {
+        "option": "T",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/6/6_Doc-WPY-PY44_19_ec228c79-8bbc-4741-963e-ca12e7be1e09.JPG",
+        "id": "6"
+      },
+      {
+        "option": "U",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/10/10_Doc-WPY-PY23_7_5fd2d93e-7012-4f33-8184-c941689debf5.JPG",
+        "id": "10"
+      },
+      {
+        "option": "V",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/20/20_Doc-WMW-MWC3_35_57d59b75-6a9a-4c76-ac2c-b2c53fdb2404.JPG",
+        "id": "20"
+      },
+      {
+        "option": "W",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/32/32_Doc-WAI-WAI18_90_9C7FF207-C53A-4916-89A8-E80F9DFD23CF.JPG",
+        "id": "32"
+      },
+      {
+        "option": "X",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/29/29_Doc-WMW-MWC3_23_b32c66ce-cf75-4389-af14-641288db1e35.JPG",
+        "id": "29"
+      },
+      {
+        "option": "Y",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/31/31_Doc-WAI-WAI18_34_8BB57BAF-400E-4CAC-B12A-E1107D999752.JPG",
+        "id": "31"
+      },
+      {
+        "option": "Z",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/5/5_Doc-WPY-PY22_20_ba62f2d8-34d1-416a-955f-e3423cf4990b.JPG",
+        "id": "5"
+      },
+      {
+        "option": "[",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/19/19_Doc-WMW-MWC2_2_06a65835-2d34-4a06-9675-630e90515b99.JPG",
+        "id": "19"
+      },
+      {
+        "option": "\\",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/28/28_Doc-WMW-MWC1_30_a3fd7312-ba68-41e5-87b3-a0845ea92386.JPG",
+        "id": "28"
+      },
+      {
+        "option": "]",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/38/38_Doc-WAI-WAI18_34_0F18E21A-EBA0-434D-90C0-84DA27D3AF4B.JPG",
+        "id": "38"
+      },
+      {
+        "option": "^",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/7/7_Doc-WPY-PY30_12_acd49506-45b3-461f-bb6f-819dc9acba67.JPG",
+        "id": "7"
+      },
+      {
+        "option": "_",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/16/16_Doc-WPY-PY23_0_1ae9857f-09c9-485f-8f6a-60947446f0d9.JPG",
+        "id": "16"
+      },
+      {
+        "option": "`",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/23/23_Doc-WMW-MWC3_23_9de6ee48-9887-4636-9697-9985e4085877.JPG",
+        "id": "23"
+      }
+    ],
+    "answer": "N"
+  },
+  {
+    "task_id": "Wallaby_CIR_P3_000010",
+    "query": {
+      "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/41/41_Doc-WAI-WAI16_26_7A210441-31FA-4594-980C-C0FEE7DD6829.JPG",
+      "ground_truth_id": "41",
+      "metadata": {
+        "face_direction": 1,
+        "temperature": -2,
+        "day_night": 1,
+        "timestamp": "2023-07-28 02:17:00"
+      },
+      "context_text": {
+        "face_direction": "Back",
+        "temperature": -2,
+        "day_night": "Night",
+        "timestamp": "2023-07-28 02:17:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/39/39_Doc-WAI-WAI18_22_E621DE7F-6752-4E74-8848-179CC732247E.JPG",
+        "id": "39"
+      },
+      {
+        "option": "B",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/43/43_Doc-WAI-WAI16_107_9A2B936A-226A-4AC2-AC82-58B8590C43CA.JPG",
+        "id": "43"
+      },
+      {
+        "option": "C",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/10/10_Doc-WPY-PY23_18_d4a01e63-1f4b-478f-a00b-d907cee49736.JPG",
+        "id": "10"
+      },
+      {
+        "option": "D",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/17/17_Doc-WPY-PY22_27_ceca457e-6128-4e3d-8d6a-ff0a90b88ea9.JPG",
+        "id": "17"
+      },
+      {
+        "option": "E",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/38/38_Doc-WAI-WAI18_477_D5896545-A4BC-4DBC-9FCD-2182D6E7D658.JPG",
+        "id": "38"
+      },
+      {
+        "option": "F",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/40/40_Doc-WAI-WAI18_9_61A33ED2-CCDB-4D99-8362-01D8CBD062D4.JPG",
+        "id": "40"
+      },
+      {
+        "option": "G",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/9/9_Doc-WPY-PY22_1_1e4f3d6b-1d59-42a1-870f-533face80438.JPG",
+        "id": "9"
+      },
+      {
+        "option": "H",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/35/35_Doc-WAI-WAI18_169_30181077-9C34-46B5-9E6B-AC3A8F698513.JPG",
+        "id": "35"
+      },
+      {
+        "option": "I",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/24/24_Doc-WMW-MWC4_8_9278f475-f1e5-4d6e-8fb1-4712c2a0b241.JPG",
+        "id": "24"
+      },
+      {
+        "option": "J",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/23/23_Doc-WMW-MWC3_21_91712a38-3fd2-473b-aeab-d0b8dd99887c.JPG",
+        "id": "23"
+      },
+      {
+        "option": "K",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/21/21_Doc-WMW-MWC2_6_2a513192-3639-47d6-8c6e-10a43b92cac7.JPG",
+        "id": "21"
+      },
+      {
+        "option": "L",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/31/31_Doc-WAI-WAI18_23_71B2CC92-146D-4D9B-A556-8BFA61C3F767.JPG",
+        "id": "31"
+      },
+      {
+        "option": "M",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/25/25_Doc-WMW-MWC3_12_ee2f6f8a-f8a7-445d-818d-5d1d08d374d4.JPG",
+        "id": "25"
+      },
+      {
+        "option": "N",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/29/29_Doc-WMW-MWC3_14_6b5a110c-ef31-4887-a477-78ecc8312654.JPG",
+        "id": "29"
+      },
+      {
+        "option": "O",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/41/41_Doc-WAI-WAI16_38_B64E5680-DD88-4299-A499-FBCF7B0A9535.JPG",
+        "id": "41"
+      },
+      {
+        "option": "P",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/11/11_Doc-WPY-PY22_8_a60224c6-9c9a-48ab-9577-4535c1a952e7.JPG",
+        "id": "11"
+      },
+      {
+        "option": "Q",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/44/44_Doc-WAI-WAI02_22_7A54F548-F102-422F-9C12-41FA620A0229.JPG",
+        "id": "44"
+      },
+      {
+        "option": "R",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/7/7_Doc-WPY-PY30_2_3f1a4653-ea48-4866-8e2c-fdf9ff34daf8.JPG",
+        "id": "7"
+      },
+      {
+        "option": "S",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/15/15_Doc-WPY-PY22_4_8c293be4-baf5-4ffb-a0ba-a462d9a28b32.JPG",
+        "id": "15"
+      },
+      {
+        "option": "T",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/2/2_Doc-WPY-PY22_8_e842dbfb-8abf-4cc5-a11a-9237d3a0a570.JPG",
+        "id": "2"
+      },
+      {
+        "option": "U",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/32/32_Doc-WAI-WAI18_13_26DE03F8-E788-4144-836D-070ABED7AAE3.JPG",
+        "id": "32"
+      },
+      {
+        "option": "V",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/12/12_Doc-WPY-PY44_5_988d3d27-4d13-497d-9536-0df4b828918e.JPG",
+        "id": "12"
+      },
+      {
+        "option": "W",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/26/26_Doc-WMW-MWC1_24_826c847f-5ca3-41f2-b959-0fb465c34704.JPG",
+        "id": "26"
+      },
+      {
+        "option": "X",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/19/19_Doc-WMW-MWC2_10_a345eb4e-67b8-4d1a-ab06-5f8643c7b498.JPG",
+        "id": "19"
+      },
+      {
+        "option": "Y",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/37/37_Doc-WAI-WAI18_0_0880EF8B-E51E-481A-9F7E-D9A72B138586.JPG",
+        "id": "37"
+      },
+      {
+        "option": "Z",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/34/34_Doc-WAI-WAIO1_25_F4765EE9-3525-42ED-B871-FFF6D50A08EF.JPG",
+        "id": "34"
+      },
+      {
+        "option": "[",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/36/36_Doc-WAI-WAI02_19_729402CF-9641-4119-8D17-91F191D36C85.JPG",
+        "id": "36"
+      },
+      {
+        "option": "\\",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/46/46_Doc-WAI-WAI19_42_71F2967C-4B86-4899-81A3-C71CA92269CA.JPG",
+        "id": "46"
+      },
+      {
+        "option": "]",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/42/42_Doc-WAI-WAI06_26_897802ED-F3AC-41FC-ACF9-8823E32CA0B7.JPG",
+        "id": "42"
+      },
+      {
+        "option": "^",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/20/20_Doc-WMW-MWC3_20_340ae93b-0663-4e42-a6af-a8c1b86b8969.JPG",
+        "id": "20"
+      },
+      {
+        "option": "_",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/5/5_Doc-WPY-PY22_26_db3c9236-5f58-4258-b4e9-e552fe869742.JPG",
+        "id": "5"
+      },
+      {
+        "option": "`",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/28/28_Doc-WMW-MWC1_14_39f5dd9e-c1bb-49c6-982b-c2fe668c2f93.JPG",
+        "id": "28"
+      }
+    ],
+    "answer": "O"
+  },
+  {
+    "task_id": "Wallaby_CIR_P3_000011",
+    "query": {
+      "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/34/34_Doc-WAI-WAIO1_11_94BDE325-1D1E-47A9-8C92-333D14DE1E84.JPG",
+      "ground_truth_id": "34",
+      "metadata": {
+        "face_direction": 0,
+        "temperature": 7,
+        "day_night": 0,
+        "timestamp": "2023-08-20 08:20:00"
+      },
+      "context_text": {
+        "face_direction": "Front",
+        "temperature": 7,
+        "day_night": "Day",
+        "timestamp": "2023-08-20 08:20:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/33/33_Doc-WAI-WAI18_63_BCE60D8C-625C-48DE-9953-7E0BA9673F7A.JPG",
+        "id": "33"
+      },
+      {
+        "option": "B",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/18/18_Doc-WPY-PY22_20_c414fd07-0329-475c-a50b-7aaa9241d59b.JPG",
+        "id": "18"
+      },
+      {
+        "option": "C",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/22/22_Doc-WMW-MWC3_28_e9dc5165-0e9c-4c21-8938-23d9261a2b78.JPG",
+        "id": "22"
+      },
+      {
+        "option": "D",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/46/46_Doc-WAI-WAI19_15_288047A2-DDC5-403C-BA8B-1C2B82DAD040.JPG",
+        "id": "46"
+      },
+      {
+        "option": "E",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/45/45_Doc-WAI-WAI02_7_0E49BD06-2663-413F-B1AB-FDDB88088CAB.JPG",
+        "id": "45"
+      },
+      {
+        "option": "F",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/4/4_Doc-WPY-PY23_1_0ddffa0a-79f0-463c-b3a9-c7799f4fd641.JPG",
+        "id": "4"
+      },
+      {
+        "option": "G",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/9/9_Doc-WPY-PY22_8_cea798ca-91fd-4838-bec3-99aecae46de4.JPG",
+        "id": "9"
+      },
+      {
+        "option": "H",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/13/13_Doc-WPY-PY22_18_e0f68561-a4cf-48c0-998f-0ef9912dcada.JPG",
+        "id": "13"
+      },
+      {
+        "option": "I",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/23/23_Doc-WMW-MWC3_24_9df17fa4-f4ee-4820-96e1-b7237cbb0423.JPG",
+        "id": "23"
+      },
+      {
+        "option": "J",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/44/44_Doc-WAI-WAI02_35_AF23E572-A6EC-4BA2-9C54-3DF615C09A98.JPG",
+        "id": "44"
+      },
+      {
+        "option": "K",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/24/24_Doc-WMW-MWC4_3_5aede23a-01dd-45f7-8743-49889868d33e.JPG",
+        "id": "24"
+      },
+      {
+        "option": "L",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/37/37_Doc-WAI-WAI18_15_A159DD5C-EDE0-4AAF-ACC8-0ECC001FEFD3.JPG",
+        "id": "37"
+      },
+      {
+        "option": "M",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/1/1_Doc-WPY-PY23_1_1ed619e4-cd2e-40fc-ab7c-b89deedd7ead.JPG",
+        "id": "1"
+      },
+      {
+        "option": "N",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/30/30_Doc-WAI-WAI18_0_002AE805-2789-45B1-B2D3-018368441DC4.JPG",
+        "id": "30"
+      },
+      {
+        "option": "O",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/42/42_Doc-WAI-WAI06_46_F03576EF-83B7-4E89-B18A-23B32FDA55F6.JPG",
+        "id": "42"
+      },
+      {
+        "option": "P",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/10/10_Doc-WPY-PY23_7_5fd2d93e-7012-4f33-8184-c941689debf5.JPG",
+        "id": "10"
+      },
+      {
+        "option": "Q",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/25/25_Doc-WMW-MWC3_10_b63b9d20-c6aa-41b8-b789-7429fc3bfd2d.JPG",
+        "id": "25"
+      },
+      {
+        "option": "R",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/40/40_Doc-WAI-WAI18_9_61A33ED2-CCDB-4D99-8362-01D8CBD062D4.JPG",
+        "id": "40"
+      },
+      {
+        "option": "S",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/32/32_Doc-WAI-WAI18_89_9C730B03-6517-4809-820F-FD491BBD0D59.JPG",
+        "id": "32"
+      },
+      {
+        "option": "T",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/8/8_Doc-WPY-PY23_25_aacbfff1-e723-4a70-b68b-60083c2716a8.JPG",
+        "id": "8"
+      },
+      {
+        "option": "U",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/16/16_Doc-WPY-PY23_9_f98aec33-ec03-437c-b827-36245108942b.JPG",
+        "id": "16"
+      },
+      {
+        "option": "V",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/19/19_Doc-WMW-MWC2_10_a345eb4e-67b8-4d1a-ab06-5f8643c7b498.JPG",
+        "id": "19"
+      },
+      {
+        "option": "W",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/35/35_Doc-WAI-WAI18_481_88F8C588-A663-4238-950A-0F49CEE8B9A6.JPG",
+        "id": "35"
+      },
+      {
+        "option": "X",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/36/36_Doc-WAI-WAI02_12_4FC1F9AE-C81D-4DE4-A2C9-3EC4E8361356.JPG",
+        "id": "36"
+      },
+      {
+        "option": "Y",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/34/34_Doc-WAI-WAIO1_28_FD9AC92D-B879-4B5E-AF92-21325FA4C8CF.JPG",
+        "id": "34"
+      },
+      {
+        "option": "Z",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/11/11_Doc-WPY-PY22_2_398963e4-4e1d-4b4e-9ed6-a2477a5cc85b.JPG",
+        "id": "11"
+      },
+      {
+        "option": "[",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/27/27_Doc-WMW-MWC3_39_ce04511f-6eaa-42ac-8de8-724f945a2c4e.JPG",
+        "id": "27"
+      },
+      {
+        "option": "\\",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/38/38_Doc-WAI-WAI18_67_1E7245B1-012C-48B9-888F-4A4555299FE0.JPG",
+        "id": "38"
+      },
+      {
+        "option": "]",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/26/26_Doc-WMW-MWC1_32_b5f51014-5483-4ec6-8a06-93e76c36a9ea.JPG",
+        "id": "26"
+      },
+      {
+        "option": "^",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/21/21_Doc-WMW-MWC2_11_508e6817-b386-4741-b717-ff144b895ea9.JPG",
+        "id": "21"
+      },
+      {
+        "option": "_",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/7/7_Doc-WPY-PY30_15_c7c0eae1-ad47-4590-9677-dd44ae3b519a.JPG",
+        "id": "7"
+      },
+      {
+        "option": "`",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/20/20_Doc-WMW-MWC3_62_b4341683-fa2d-413b-91e0-d3f69bf338fd.JPG",
+        "id": "20"
+      }
+    ],
+    "answer": "Y"
+  },
+  {
+    "task_id": "Wallaby_CIR_P3_000012",
+    "query": {
+      "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/22/22_Doc-WMW-MWC3_6_38183274-a4ec-4099-b232-764f631aa198.JPG",
+      "ground_truth_id": "22",
+      "metadata": {
+        "face_direction": 3,
+        "temperature": 7,
+        "day_night": 0,
+        "timestamp": "2023-09-30 07:21:00"
+      },
+      "context_text": {
+        "face_direction": "Right",
+        "temperature": 7,
+        "day_night": "Day",
+        "timestamp": "2023-09-30 07:21:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/44/44_Doc-WAI-WAI02_13_52788799-87A6-4045-84AC-1001C56E6279.JPG",
+        "id": "44"
+      },
+      {
+        "option": "B",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/14/14_Doc-WPY-PY21_1_2473366d-7077-4bf7-a6f7-17ecd2f5c449.JPG",
+        "id": "14"
+      },
+      {
+        "option": "C",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/30/30_Doc-WAI-WAI18_20_40DDB5A5-0DDC-4ED7-AA3A-4AB6D82B4875.JPG",
+        "id": "30"
+      },
+      {
+        "option": "D",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/15/15_Doc-WPY-PY22_9_d6331e74-ce5d-420b-9cac-4250e9286294.JPG",
+        "id": "15"
+      },
+      {
+        "option": "E",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/22/22_Doc-WMW-MWC3_18_96862f10-f6c4-4639-b6c4-44918562e216.JPG",
+        "id": "22"
+      },
+      {
+        "option": "F",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/2/2_Doc-WPY-PY22_5_9f4e8a29-1b9e-4ff6-a351-21d94f21efc8.JPG",
+        "id": "2"
+      },
+      {
+        "option": "G",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/16/16_Doc-WPY-PY23_6_771029f8-73a2-499d-8cae-c48a644501f0.JPG",
+        "id": "16"
+      },
+      {
+        "option": "H",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/33/33_Doc-WAI-WAI18_20_3EB9E0EB-3575-4A00-B8CC-93CC10AD3934.JPG",
+        "id": "33"
+      },
+      {
+        "option": "I",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/39/39_Doc-WAI-WAI18_21_DF978FE2-B8EE-497E-8195-395A035CD4F6.JPG",
+        "id": "39"
+      },
+      {
+        "option": "J",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/29/29_Doc-WMW-MWC3_24_b43e98e5-dff0-4f8d-98e1-bdc75f1b4665.JPG",
+        "id": "29"
+      },
+      {
+        "option": "K",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/43/43_Doc-WAI-WAI16_135_CB539502-C504-4406-823D-48B8F85BE239.JPG",
+        "id": "43"
+      },
+      {
+        "option": "L",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/27/27_Doc-WMW-MWC3_17_50b14144-6d0a-46fe-9f34-d35b85ee6683.JPG",
+        "id": "27"
+      },
+      {
+        "option": "M",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/18/18_Doc-WPY-PY22_2_0cbd3789-979d-42bc-a0a1-1dd4446c1699.JPG",
+        "id": "18"
+      },
+      {
+        "option": "N",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/41/41_Doc-WAI-WAI16_47_EAA373B8-306A-48AD-B80F-92691E24FF62.JPG",
+        "id": "41"
+      },
+      {
+        "option": "O",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/25/25_Doc-WMW-MWC3_3_4efb1baa-ed37-4f8a-86e6-0c11cc4143ca.JPG",
+        "id": "25"
+      },
+      {
+        "option": "P",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/6/6_Doc-WPY-PY44_19_ec228c79-8bbc-4741-963e-ca12e7be1e09.JPG",
+        "id": "6"
+      },
+      {
+        "option": "Q",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/21/21_Doc-WMW-MWC2_3_19d0f3cb-4164-4f77-94ae-bf23642600f2.JPG",
+        "id": "21"
+      },
+      {
+        "option": "R",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/19/19_Doc-WMW-MWC2_5_5b94727e-0fe7-4dce-8697-193111b0ec5a.JPG",
+        "id": "19"
+      },
+      {
+        "option": "S",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/12/12_Doc-WPY-PY44_0_01024d76-7a6c-40b5-bc3e-8bb8bd98e87b.JPG",
+        "id": "12"
+      },
+      {
+        "option": "T",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/34/34_Doc-WAI-WAIO1_24_E6BBDD35-CB23-4E4D-B775-6A483A3E5ED0.JPG",
+        "id": "34"
+      },
+      {
+        "option": "U",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/0/0_Doc-WPY-PY22_6_b0a4e657-1814-4b02-9340-c81657028540.JPG",
+        "id": "0"
+      },
+      {
+        "option": "V",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/46/46_Doc-WAI-WAI19_3_061BA248-9E97-4A91-A64A-116CE0CAD35A.JPG",
+        "id": "46"
+      },
+      {
+        "option": "W",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/3/3_Doc-WPY-PY22_4_275f8370-4462-4263-b193-86b8a096f017.JPG",
+        "id": "3"
+      },
+      {
+        "option": "X",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/38/38_Doc-WAI-WAI18_232_6927FDA5-3D56-434D-9306-3C1236860513.JPG",
+        "id": "38"
+      },
+      {
+        "option": "Y",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/35/35_Doc-WAI-WAI18_520_9773DB62-3922-4FA3-B8B0-6AE1450D176E.JPG",
+        "id": "35"
+      },
+      {
+        "option": "Z",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/23/23_Doc-WMW-MWC3_18_79e2aa5e-5fd2-4fef-9b3e-3e6e43ae8d02.JPG",
+        "id": "23"
+      },
+      {
+        "option": "[",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/26/26_Doc-WMW-MWC1_11_47fd4d64-7f1c-4a19-9cc2-d763fa71b2e7.JPG",
+        "id": "26"
+      },
+      {
+        "option": "\\",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/31/31_Doc-WAI-WAI18_35_8E175647-866B-4662-8C5D-CE2B77427EE4.JPG",
+        "id": "31"
+      },
+      {
+        "option": "]",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/8/8_Doc-WPY-PY23_32_d6f82fe5-fb8d-4bf6-8d7d-a958a230540a.JPG",
+        "id": "8"
+      },
+      {
+        "option": "^",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/9/9_Doc-WPY-PY22_1_1e4f3d6b-1d59-42a1-870f-533face80438.JPG",
+        "id": "9"
+      },
+      {
+        "option": "_",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/45/45_Doc-WAI-WAI02_37_B4BA2812-B936-485F-911A-BACA4DDD5E30.JPG",
+        "id": "45"
+      },
+      {
+        "option": "`",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/37/37_Doc-WAI-WAI18_0_0880EF8B-E51E-481A-9F7E-D9A72B138586.JPG",
+        "id": "37"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "task_id": "Wallaby_CIR_P3_000013",
+    "query": {
+      "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/25/25_Doc-WMW-MWC3_1_2fb2eeb9-0808-4a61-817f-ede3d44604ff.JPG",
+      "ground_truth_id": "25",
+      "metadata": {
+        "face_direction": 2,
+        "temperature": 0,
+        "day_night": 1,
+        "timestamp": "2023-10-04 01:50:00"
+      },
+      "context_text": {
+        "face_direction": "Left",
+        "temperature": 0,
+        "day_night": "Night",
+        "timestamp": "2023-10-04 01:50:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/25/25_Doc-WMW-MWC3_2_3b73c12f-8d05-41b2-8f2f-8a0c193c54f5.JPG",
+        "id": "25"
+      },
+      {
+        "option": "B",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/32/32_Doc-WAI-WAI18_31_43B94D81-A727-4DC4-BA5A-DFDF6BEC0DC0.JPG",
+        "id": "32"
+      },
+      {
+        "option": "C",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/46/46_Doc-WAI-WAI19_96_F9445B1E-A279-4B3F-865B-A2E9AC47368C.JPG",
+        "id": "46"
+      },
+      {
+        "option": "D",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/29/29_Doc-WMW-MWC3_20_988daccc-b76e-4ebc-8ef0-8c76975993e8.JPG",
+        "id": "29"
+      },
+      {
+        "option": "E",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/45/45_Doc-WAI-WAI02_44_E354A90E-F40A-468C-BF64-0D55FB2EB0AC.JPG",
+        "id": "45"
+      },
+      {
+        "option": "F",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/8/8_Doc-WPY-PY23_22_834847de-dc17-4d09-be05-35e4539254a9.JPG",
+        "id": "8"
+      },
+      {
+        "option": "G",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/24/24_Doc-WMW-MWC4_10_b45393f6-d5de-407c-9632-a27df7847fe7.JPG",
+        "id": "24"
+      },
+      {
+        "option": "H",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/6/6_Doc-WPY-PY44_5_7083efd6-0c79-47fd-95f9-5faa58d45c6f.JPG",
+        "id": "6"
+      },
+      {
+        "option": "I",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/3/3_Doc-WPY-PY22_5_2d796edc-7914-49d0-99a3-364a25aed66f.JPG",
+        "id": "3"
+      },
+      {
+        "option": "J",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/7/7_Doc-WPY-PY30_18_ef47c258-5022-4769-b6d3-379901735058.JPG",
+        "id": "7"
+      },
+      {
+        "option": "K",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/31/31_Doc-WAI-WAI18_26_7AAAE8A6-D1BB-49BB-8CDD-36F4FFC2A178.JPG",
+        "id": "31"
+      },
+      {
+        "option": "L",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/10/10_Doc-WPY-PY23_7_5fd2d93e-7012-4f33-8184-c941689debf5.JPG",
+        "id": "10"
+      },
+      {
+        "option": "M",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/28/28_Doc-WMW-MWC1_23_7488a251-4daf-4b50-8e6a-a0f08c7c1fcc.JPG",
+        "id": "28"
+      },
+      {
+        "option": "N",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/17/17_Doc-WPY-PY22_27_ceca457e-6128-4e3d-8d6a-ff0a90b88ea9.JPG",
+        "id": "17"
+      },
+      {
+        "option": "O",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/33/33_Doc-WAI-WAI18_11_25A1F0A8-4225-4207-9942-3A687AA9C359.JPG",
+        "id": "33"
+      },
+      {
+        "option": "P",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/34/34_Doc-WAI-WAIO1_6_3E360793-AD5B-4B8E-9543-C350E1D0992A.JPG",
+        "id": "34"
+      },
+      {
+        "option": "Q",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/30/30_Doc-WAI-WAI18_76_E83E6221-BD94-4855-967A-435A50CD581E.JPG",
+        "id": "30"
+      },
+      {
+        "option": "R",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/22/22_Doc-WMW-MWC3_7_3b08543d-4d5b-4fca-be13-b87f1522da71.JPG",
+        "id": "22"
+      },
+      {
+        "option": "S",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/0/0_Doc-WPY-PY22_6_b0a4e657-1814-4b02-9340-c81657028540.JPG",
+        "id": "0"
+      },
+      {
+        "option": "T",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/13/13_Doc-WPY-PY22_17_d74adfc3-be1d-4f63-b9f6-81fccee6d458.JPG",
+        "id": "13"
+      },
+      {
+        "option": "U",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/16/16_Doc-WPY-PY23_6_771029f8-73a2-499d-8cae-c48a644501f0.JPG",
+        "id": "16"
+      },
+      {
+        "option": "V",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/9/9_Doc-WPY-PY22_9_da0ebb14-77dd-4904-bd1e-f3e07befea65.JPG",
+        "id": "9"
+      },
+      {
+        "option": "W",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/43/43_Doc-WAI-WAI16_110_A29C08B0-AE34-4728-B3FC-1A510682293F.JPG",
+        "id": "43"
+      },
+      {
+        "option": "X",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/4/4_Doc-WPY-PY23_5_80c3619f-0bbd-4f2d-9904-3b5728dc8708.JPG",
+        "id": "4"
+      },
+      {
+        "option": "Y",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/42/42_Doc-WAI-WAI06_49_FE346BA6-6D2B-4F64-BA9A-CCEE2CC0DDF8.JPG",
+        "id": "42"
+      },
+      {
+        "option": "Z",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/38/38_Doc-WAI-WAI18_353_9EE9A360-1ABB-47C1-A26B-D5131BC9249B.JPG",
+        "id": "38"
+      },
+      {
+        "option": "[",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/21/21_Doc-WMW-MWC2_9_3ae70bc2-cd58-4cce-b71b-bac0bb9517ef.JPG",
+        "id": "21"
+      },
+      {
+        "option": "\\",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/35/35_Doc-WAI-WAI18_707_D69A51C6-9F9B-4BA6-AC4F-350B208D72C2.JPG",
+        "id": "35"
+      },
+      {
+        "option": "]",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/18/18_Doc-WPY-PY22_15_6fd87124-322d-4767-837c-515a8b8a07f5.JPG",
+        "id": "18"
+      },
+      {
+        "option": "^",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/37/37_Doc-WAI-WAI18_20_EC47EB45-B8D9-4326-9A26-1D3BD32B7EFC.JPG",
+        "id": "37"
+      },
+      {
+        "option": "_",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/19/19_Doc-WMW-MWC2_5_5b94727e-0fe7-4dce-8697-193111b0ec5a.JPG",
+        "id": "19"
+      },
+      {
+        "option": "`",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/39/39_Doc-WAI-WAI18_0_01E186B2-0C94-48DB-B937-6E877B60FDB3.JPG",
+        "id": "39"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "task_id": "Wallaby_CIR_P3_000014",
+    "query": {
+      "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/18/18_Doc-WPY-PY22_17_af27181f-90d3-43a2-9a78-ed439e42b31e.JPG",
+      "ground_truth_id": "18",
+      "metadata": {
+        "face_direction": 1,
+        "temperature": 12,
+        "day_night": 1,
+        "timestamp": "2023-03-28 02:20:00"
+      },
+      "context_text": {
+        "face_direction": "Back",
+        "temperature": 12,
+        "day_night": "Night",
+        "timestamp": "2023-03-28 02:20:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/5/5_Doc-WPY-PY22_18_b1206408-6eea-4c4d-9b3e-74c133db211b.JPG",
+        "id": "5"
+      },
+      {
+        "option": "B",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/43/43_Doc-WAI-WAI16_73_6D60B87B-5AF7-4151-BA58-671EF782733A.JPG",
+        "id": "43"
+      },
+      {
+        "option": "C",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/15/15_Doc-WPY-PY22_7_aafd2b5c-c808-48b3-9622-3f92091e062d.JPG",
+        "id": "15"
+      },
+      {
+        "option": "D",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/6/6_Doc-WPY-PY44_3_4c2013ce-5e32-41aa-9993-167598072290.JPG",
+        "id": "6"
+      },
+      {
+        "option": "E",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/20/20_Doc-WMW-MWC3_63_b4cbbf3e-48d2-4903-9639-f9bb5dc5b614.JPG",
+        "id": "20"
+      },
+      {
+        "option": "F",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/11/11_Doc-WPY-PY22_9_a8d2ac93-4395-4999-9088-26f2bb9cace4.JPG",
+        "id": "11"
+      },
+      {
+        "option": "G",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/22/22_Doc-WMW-MWC3_27_cdc2d5a8-980d-475c-bda6-c9c7f3e15b28.JPG",
+        "id": "22"
+      },
+      {
+        "option": "H",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/18/18_Doc-WPY-PY22_7_3603302a-e8c5-4554-b4b9-60997015f667.JPG",
+        "id": "18"
+      },
+      {
+        "option": "I",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/24/24_Doc-WMW-MWC4_10_b45393f6-d5de-407c-9632-a27df7847fe7.JPG",
+        "id": "24"
+      },
+      {
+        "option": "J",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/29/29_Doc-WMW-MWC3_18_91b23610-210d-4e4c-b761-6221cc3c6877.JPG",
+        "id": "29"
+      },
+      {
+        "option": "K",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/36/36_Doc-WAI-WAI02_7_3F16A371-74A0-4FFA-A555-356A9BF66D6A.JPG",
+        "id": "36"
+      },
+      {
+        "option": "L",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/28/28_Doc-WMW-MWC1_11_3104b320-928c-4f0e-9656-415415a81ca5.JPG",
+        "id": "28"
+      },
+      {
+        "option": "M",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/7/7_Doc-WPY-PY30_8_789df336-95c3-4bb2-8f3e-98377f0a6aeb.JPG",
+        "id": "7"
+      },
+      {
+        "option": "N",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/13/13_Doc-WPY-PY22_19_e94ad5ec-49ed-4ea8-be74-907cda49c995.JPG",
+        "id": "13"
+      },
+      {
+        "option": "O",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/41/41_Doc-WAI-WAI16_36_AF3BFDBE-C848-4ACB-8556-1CAD4A16EDB3.JPG",
+        "id": "41"
+      },
+      {
+        "option": "P",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/44/44_Doc-WAI-WAI02_33_A2790512-053D-4CCC-A3B1-37998F4E907D.JPG",
+        "id": "44"
+      },
+      {
+        "option": "Q",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/32/32_Doc-WAI-WAI18_126_D85B9A3A-FC25-467E-B1EB-B89BA3EDEEEF.JPG",
+        "id": "32"
+      },
+      {
+        "option": "R",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/30/30_Doc-WAI-WAI18_67_CE760936-DD0D-45BB-9C78-D4E568443974.JPG",
+        "id": "30"
+      },
+      {
+        "option": "S",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/34/34_Doc-WAI-WAIO1_16_B79085CF-1861-40AA-9D81-98A42710EFBD.JPG",
+        "id": "34"
+      },
+      {
+        "option": "T",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/12/12_Doc-WPY-PY44_4_75cc4e5b-92fe-4a06-bce0-e7727db4e34e.JPG",
+        "id": "12"
+      },
+      {
+        "option": "U",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/42/42_Doc-WAI-WAI06_30_965C366D-DAD7-459B-9EBD-633A560C7577.JPG",
+        "id": "42"
+      },
+      {
+        "option": "V",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/17/17_Doc-WPY-PY22_13_6a057afd-bde5-4d69-a674-b73aa765e64a.JPG",
+        "id": "17"
+      },
+      {
+        "option": "W",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/39/39_Doc-WAI-WAI18_20_D8750940-2A85-4238-B0C3-35D5AFB0727F.JPG",
+        "id": "39"
+      },
+      {
+        "option": "X",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/26/26_Doc-WMW-MWC1_11_47fd4d64-7f1c-4a19-9cc2-d763fa71b2e7.JPG",
+        "id": "26"
+      },
+      {
+        "option": "Y",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/16/16_Doc-WPY-PY23_2_463e4372-398a-4948-9dc8-dff2f8afd7b0.JPG",
+        "id": "16"
+      },
+      {
+        "option": "Z",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/23/23_Doc-WMW-MWC3_33_d0dd9fcc-6755-42b2-90e6-806d232e93ef.JPG",
+        "id": "23"
+      },
+      {
+        "option": "[",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/37/37_Doc-WAI-WAI18_13_8B13AF55-085D-4CC2-A063-44D1CB06378C.JPG",
+        "id": "37"
+      },
+      {
+        "option": "\\",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/0/0_Doc-WPY-PY22_9_d2743c87-30bc-4f6e-a206-1fa4ee5931b4.JPG",
+        "id": "0"
+      },
+      {
+        "option": "]",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/2/2_Doc-WPY-PY22_9_e9788f5c-51dd-4b70-bc29-16c5baca52b1.JPG",
+        "id": "2"
+      },
+      {
+        "option": "^",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/25/25_Doc-WMW-MWC3_11_ba007ddd-1042-4134-a654-704f9e1173a6.JPG",
+        "id": "25"
+      },
+      {
+        "option": "_",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/33/33_Doc-WAI-WAI18_20_3EB9E0EB-3575-4A00-B8CC-93CC10AD3934.JPG",
+        "id": "33"
+      },
+      {
+        "option": "`",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/8/8_Doc-WPY-PY23_15_63e7eae8-70e4-431b-96a8-c33db8ff1ae3.JPG",
+        "id": "8"
+      }
+    ],
+    "answer": "H"
+  },
+  {
+    "task_id": "Wallaby_CIR_P3_000015",
+    "query": {
+      "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/12/12_Doc-WPY-PY44_9_c0908e8d-f56e-444a-a275-a9ddf18d96df.JPG",
+      "ground_truth_id": "12",
+      "metadata": {
+        "face_direction": 2,
+        "temperature": 10,
+        "day_night": 1,
+        "timestamp": "2023-03-01 02:32:00"
+      },
+      "context_text": {
+        "face_direction": "Left",
+        "temperature": 10,
+        "day_night": "Night",
+        "timestamp": "2023-03-01 02:32:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/12/12_Doc-WPY-PY44_8_bbb1710d-1bf5-418d-bcde-c048ec6ebf2e.JPG",
+        "id": "12"
+      },
+      {
+        "option": "B",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/6/6_Doc-WPY-PY44_11_a9a34647-827d-47d0-92eb-920d60d0318d.JPG",
+        "id": "6"
+      },
+      {
+        "option": "C",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/14/14_Doc-WPY-PY21_7_ac1bbf06-267d-4047-8dca-e39644c9cf05.JPG",
+        "id": "14"
+      },
+      {
+        "option": "D",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/7/7_Doc-WPY-PY30_11_a97826f4-3f4a-4baa-a468-6a8032216a07.JPG",
+        "id": "7"
+      },
+      {
+        "option": "E",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/17/17_Doc-WPY-PY22_15_8e5d6bcf-c4de-43da-894b-031aaf30165a.JPG",
+        "id": "17"
+      },
+      {
+        "option": "F",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/26/26_Doc-WMW-MWC1_8_40969579-3eeb-40a5-a9d6-dffc426b7b75.JPG",
+        "id": "26"
+      },
+      {
+        "option": "G",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/43/43_Doc-WAI-WAI16_124_B570373C-3BA4-475C-AF85-8CC06E5E454B.JPG",
+        "id": "43"
+      },
+      {
+        "option": "H",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/16/16_Doc-WPY-PY23_8_8ac23d86-9583-4780-afbf-5acb9e5e2419.JPG",
+        "id": "16"
+      },
+      {
+        "option": "I",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/11/11_Doc-WPY-PY22_2_398963e4-4e1d-4b4e-9ed6-a2477a5cc85b.JPG",
+        "id": "11"
+      },
+      {
+        "option": "J",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/46/46_Doc-WAI-WAI19_60_9C646440-C190-430C-B32F-67B430C7F266.JPG",
+        "id": "46"
+      },
+      {
+        "option": "K",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/40/40_Doc-WAI-WAI18_6_3FCEA4F6-F0A9-43F5-8651-B9C6CA447EFF.JPG",
+        "id": "40"
+      },
+      {
+        "option": "L",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/41/41_Doc-WAI-WAI16_34_A18A8078-A708-44E8-A7DB-6ACCA9560986.JPG",
+        "id": "41"
+      },
+      {
+        "option": "M",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/21/21_Doc-WMW-MWC2_27_f982f705-3626-4e05-8458-8842a2de2c76.JPG",
+        "id": "21"
+      },
+      {
+        "option": "N",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/38/38_Doc-WAI-WAI18_156_452BA479-2B21-4B7F-B8B3-10A523C0FB32.JPG",
+        "id": "38"
+      },
+      {
+        "option": "O",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/0/0_Doc-WPY-PY22_1_18287639-a8e7-4482-aee6-6479137ff078.JPG",
+        "id": "0"
+      },
+      {
+        "option": "P",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/24/24_Doc-WMW-MWC4_9_9bc52598-85fd-475c-ba40-9311ce50709c.JPG",
+        "id": "24"
+      },
+      {
+        "option": "Q",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/44/44_Doc-WAI-WAI02_38_C09C83D9-D8FB-43A5-B9C8-027A9A1B8655.JPG",
+        "id": "44"
+      },
+      {
+        "option": "R",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/25/25_Doc-WMW-MWC3_8_b2caf58a-c998-44ab-a1b4-8794ecad51c1.JPG",
+        "id": "25"
+      },
+      {
+        "option": "S",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/8/8_Doc-WPY-PY23_28_b57f32a4-23d7-4261-8a62-b17e636e7327.JPG",
+        "id": "8"
+      },
+      {
+        "option": "T",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/29/29_Doc-WMW-MWC3_24_b43e98e5-dff0-4f8d-98e1-bdc75f1b4665.JPG",
+        "id": "29"
+      },
+      {
+        "option": "U",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/45/45_Doc-WAI-WAI02_50_FED65BE9-53F0-4591-A926-3254246DE063.JPG",
+        "id": "45"
+      },
+      {
+        "option": "V",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/22/22_Doc-WMW-MWC3_11_5d498c53-1cba-4d05-ad7f-16e2a957f761.JPG",
+        "id": "22"
+      },
+      {
+        "option": "W",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/2/2_Doc-WPY-PY22_2_457de52f-0071-4f54-b9e9-09212e93dd53.JPG",
+        "id": "2"
+      },
+      {
+        "option": "X",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/39/39_Doc-WAI-WAI18_23_F72AC2B8-2E24-4D05-A5B9-45F8501EBBA7.JPG",
+        "id": "39"
+      },
+      {
+        "option": "Y",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/33/33_Doc-WAI-WAI18_44_859F749F-B789-4A41-9998-C009C8FF4458.JPG",
+        "id": "33"
+      },
+      {
+        "option": "Z",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/34/34_Doc-WAI-WAIO1_22_E3BB9780-8725-442B-9560-EEDAABB6C419.JPG",
+        "id": "34"
+      },
+      {
+        "option": "[",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/36/36_Doc-WAI-WAI02_10_4A12B28E-6CF7-4E38-A5BE-81FB50148687.JPG",
+        "id": "36"
+      },
+      {
+        "option": "\\",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/35/35_Doc-WAI-WAI18_693_D29489DF-EAAF-4146-AF99-7E725E91CFD1.JPG",
+        "id": "35"
+      },
+      {
+        "option": "]",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/18/18_Doc-WPY-PY22_22_d887863b-8394-41b5-8f19-b2797c4bec64.JPG",
+        "id": "18"
+      },
+      {
+        "option": "^",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/13/13_Doc-WPY-PY22_1_1d864e2c-6302-4f74-b1cc-777431a76805.JPG",
+        "id": "13"
+      },
+      {
+        "option": "_",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/1/1_Doc-WPY-PY23_2_2022fcca-b9a4-4611-8827-c74f3528b721.JPG",
+        "id": "1"
+      },
+      {
+        "option": "`",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/19/19_Doc-WMW-MWC2_9_9a188288-cb27-4a53-bc3b-edfd08ff756c.JPG",
+        "id": "19"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "task_id": "Wallaby_CIR_P3_000016",
+    "query": {
+      "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/32/32_Doc-WAI-WAI18_121_CC2D5309-10FA-47AE-B38B-0A171502E6B8.JPG",
+      "ground_truth_id": "32",
+      "metadata": {
+        "face_direction": 3,
+        "temperature": 9,
+        "day_night": 0,
+        "timestamp": "2023-08-15 09:21:00"
+      },
+      "context_text": {
+        "face_direction": "Right",
+        "temperature": 9,
+        "day_night": "Day",
+        "timestamp": "2023-08-15 09:21:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/12/12_Doc-WPY-PY44_12_d8a6c9be-92b1-4102-a209-0e296922d323.JPG",
+        "id": "12"
+      },
+      {
+        "option": "B",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/17/17_Doc-WPY-PY22_15_8e5d6bcf-c4de-43da-894b-031aaf30165a.JPG",
+        "id": "17"
+      },
+      {
+        "option": "C",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/37/37_Doc-WAI-WAI18_0_0880EF8B-E51E-481A-9F7E-D9A72B138586.JPG",
+        "id": "37"
+      },
+      {
+        "option": "D",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/45/45_Doc-WAI-WAI02_29_7A52D9DE-AFBF-4F43-9AB7-2039A2A5002D.JPG",
+        "id": "45"
+      },
+      {
+        "option": "E",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/18/18_Doc-WPY-PY22_1_0ad1779e-3704-4272-9983-afa70a6a21f7.JPG",
+        "id": "18"
+      },
+      {
+        "option": "F",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/5/5_Doc-WPY-PY22_0_07c2e267-13b9-4076-a141-1eb09711ef81.JPG",
+        "id": "5"
+      },
+      {
+        "option": "G",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/30/30_Doc-WAI-WAI18_7_0662469B-10CC-4B92-B5E7-4C8EF71404AE.JPG",
+        "id": "30"
+      },
+      {
+        "option": "H",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/9/9_Doc-WPY-PY22_2_1ef85725-c7a3-4cca-9df5-aed0fb263f4d.JPG",
+        "id": "9"
+      },
+      {
+        "option": "I",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/43/43_Doc-WAI-WAI16_1_04A6DF5E-5A03-43E5-BB51-5AF9B8DBDABD.JPG",
+        "id": "43"
+      },
+      {
+        "option": "J",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/1/1_Doc-WPY-PY23_4_3eded19c-873b-430a-b234-0a59e7297b54.JPG",
+        "id": "1"
+      },
+      {
+        "option": "K",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/34/34_Doc-WAI-WAIO1_9_8DA6158B-C6FD-48F0-AE11-BF374710F40D.JPG",
+        "id": "34"
+      },
+      {
+        "option": "L",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/28/28_Doc-WMW-MWC1_41_f4875e5d-7df5-4601-adf4-84fbc4f16412.JPG",
+        "id": "28"
+      },
+      {
+        "option": "M",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/36/36_Doc-WAI-WAI02_25_9320D68A-6ADB-4FF2-A05D-04BC63FC6979.JPG",
+        "id": "36"
+      },
+      {
+        "option": "N",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/3/3_Doc-WPY-PY22_0_00b5f143-c12e-4155-9dac-f5ab93b3c536.JPG",
+        "id": "3"
+      },
+      {
+        "option": "O",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/40/40_Doc-WAI-WAI18_2_224A302D-24FE-448B-96F4-F1385B5F6A5A.JPG",
+        "id": "40"
+      },
+      {
+        "option": "P",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/19/19_Doc-WMW-MWC2_4_4a7ec313-f4a9-4244-bd2a-d73c3a04bc22.JPG",
+        "id": "19"
+      },
+      {
+        "option": "Q",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/23/23_Doc-WMW-MWC3_25_a00728de-d6f8-4856-85a3-49a80d8752a4.JPG",
+        "id": "23"
+      },
+      {
+        "option": "R",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/14/14_Doc-WPY-PY21_6_875cf98f-c8af-4649-ae44-aed4d935e079.JPG",
+        "id": "14"
+      },
+      {
+        "option": "S",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/20/20_Doc-WMW-MWC3_22_36c3cf80-a90e-49ed-af36-bb19ef45ac38.JPG",
+        "id": "20"
+      },
+      {
+        "option": "T",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/27/27_Doc-WMW-MWC3_34_ae334e36-8cab-4409-8832-10687ad7752e.JPG",
+        "id": "27"
+      },
+      {
+        "option": "U",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/25/25_Doc-WMW-MWC3_12_ee2f6f8a-f8a7-445d-818d-5d1d08d374d4.JPG",
+        "id": "25"
+      },
+      {
+        "option": "V",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/24/24_Doc-WMW-MWC4_7_921d2070-51c8-499d-b2bd-7d15e587fb17.JPG",
+        "id": "24"
+      },
+      {
+        "option": "W",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/16/16_Doc-WPY-PY23_2_463e4372-398a-4948-9dc8-dff2f8afd7b0.JPG",
+        "id": "16"
+      },
+      {
+        "option": "X",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/29/29_Doc-WMW-MWC3_5_33139a16-5657-40cc-898b-ba7e47056d32.JPG",
+        "id": "29"
+      },
+      {
+        "option": "Y",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/46/46_Doc-WAI-WAI19_4_0D26066B-DB09-4EBC-A052-5C9D422F49C3.JPG",
+        "id": "46"
+      },
+      {
+        "option": "Z",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/6/6_Doc-WPY-PY44_14_b97d2110-6adf-4efe-95e9-6fc52f16620c.JPG",
+        "id": "6"
+      },
+      {
+        "option": "[",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/32/32_Doc-WAI-WAI18_37_517831EB-2795-4825-AA95-2C3E85ADEEFD.JPG",
+        "id": "32"
+      },
+      {
+        "option": "\\",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/35/35_Doc-WAI-WAI18_706_D698CFAD-2ED8-42DE-8B90-77A000B6BBF8.JPG",
+        "id": "35"
+      },
+      {
+        "option": "]",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/39/39_Doc-WAI-WAI18_14_9BECCE42-EDE9-4213-8C5E-887B0CD22A51.JPG",
+        "id": "39"
+      },
+      {
+        "option": "^",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/13/13_Doc-WPY-PY22_13_ca03ac18-be0b-4c3d-88b4-6352829b41b1.JPG",
+        "id": "13"
+      },
+      {
+        "option": "_",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/11/11_Doc-WPY-PY22_3_562e75cc-8200-4d86-97fa-34c5994308ac.JPG",
+        "id": "11"
+      },
+      {
+        "option": "`",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/42/42_Doc-WAI-WAI06_4_24781707-67A8-4A80-BAFB-6685BF894656.JPG",
+        "id": "42"
+      }
+    ],
+    "answer": "["
+  },
+  {
+    "task_id": "Wallaby_CIR_P3_000017",
+    "query": {
+      "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/5/5_Doc-WPY-PY22_34_ffd7887e-5395-46df-9821-2a9121c3d906.JPG",
+      "ground_truth_id": "5",
+      "metadata": {
+        "face_direction": 3,
+        "temperature": 13,
+        "day_night": 1,
+        "timestamp": "2023-02-15 06:23:00"
+      },
+      "context_text": {
+        "face_direction": "Right",
+        "temperature": 13,
+        "day_night": "Night",
+        "timestamp": "2023-02-15 06:23:00"
+      }
+    },
+    "gallery": [
+      {
+        "option": "A",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/25/25_Doc-WMW-MWC3_3_4efb1baa-ed37-4f8a-86e6-0c11cc4143ca.JPG",
+        "id": "25"
+      },
+      {
+        "option": "B",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/11/11_Doc-WPY-PY22_3_562e75cc-8200-4d86-97fa-34c5994308ac.JPG",
+        "id": "11"
+      },
+      {
+        "option": "C",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/5/5_Doc-WPY-PY22_7_28f3d07e-5276-41c7-a675-93f764d40e85.JPG",
+        "id": "5"
+      },
+      {
+        "option": "D",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/29/29_Doc-WMW-MWC3_8_4882a082-2815-4c9b-a4da-610b3528ca14.JPG",
+        "id": "29"
+      },
+      {
+        "option": "E",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/24/24_Doc-WMW-MWC4_0_076f04c2-1f87-47f7-af7f-519016bc3948.JPG",
+        "id": "24"
+      },
+      {
+        "option": "F",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/37/37_Doc-WAI-WAI18_9_62AC5E5E-AEBE-45C5-A9A1-51B0287541D8.JPG",
+        "id": "37"
+      },
+      {
+        "option": "G",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/14/14_Doc-WPY-PY21_16_e699fb15-9b7b-433e-baf3-5c01f5a36f49.JPG",
+        "id": "14"
+      },
+      {
+        "option": "H",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/39/39_Doc-WAI-WAI18_18_CD0D4C93-1CD0-4C4F-9EE5-4FA098C7F2BB.JPG",
+        "id": "39"
+      },
+      {
+        "option": "I",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/32/32_Doc-WAI-WAI18_62_7D5D5671-FA92-434D-8A41-A14095338C0E.JPG",
+        "id": "32"
+      },
+      {
+        "option": "J",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/44/44_Doc-WAI-WAI02_10_4D942FE9-DFFF-4A0B-8AA0-EFBC8FEA3AC5.JPG",
+        "id": "44"
+      },
+      {
+        "option": "K",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/16/16_Doc-WPY-PY23_7_82039046-f1d4-4c70-8545-d78dc522d1fe.JPG",
+        "id": "16"
+      },
+      {
+        "option": "L",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/0/0_Doc-WPY-PY22_2_19144f79-ec44-45ce-916d-08619b28e0cf.JPG",
+        "id": "0"
+      },
+      {
+        "option": "M",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/31/31_Doc-WAI-WAI18_42_D2397C84-7279-4B15-AD93-C57A9C267990.JPG",
+        "id": "31"
+      },
+      {
+        "option": "N",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/7/7_Doc-WPY-PY30_7_7449a580-1d2d-4c13-bbec-1cd0e0a96c09.JPG",
+        "id": "7"
+      },
+      {
+        "option": "O",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/12/12_Doc-WPY-PY44_7_ad640ab6-8d8d-4c7c-9d20-654035e821e6.JPG",
+        "id": "12"
+      },
+      {
+        "option": "P",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/38/38_Doc-WAI-WAI18_485_DA7CFDEF-077B-45D9-8514-B0B8BC7748D1.JPG",
+        "id": "38"
+      },
+      {
+        "option": "Q",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/18/18_Doc-WPY-PY22_11_57d6ac41-e91d-4aa6-8910-54e5538c1376.JPG",
+        "id": "18"
+      },
+      {
+        "option": "R",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/17/17_Doc-WPY-PY22_2_0245587a-6f6d-4da4-a43a-98d73f0f059b.JPG",
+        "id": "17"
+      },
+      {
+        "option": "S",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/33/33_Doc-WAI-WAI18_76_E4395E36-C8DD-4402-BF4F-04ABFD76B64A.JPG",
+        "id": "33"
+      },
+      {
+        "option": "T",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/43/43_Doc-WAI-WAI16_41_4075E285-9D7E-40BE-9EFA-55D402A4909E.JPG",
+        "id": "43"
+      },
+      {
+        "option": "U",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/26/26_Doc-WMW-MWC1_13_4e5f0700-0da5-45a2-a67d-d4a3712a97fb.JPG",
+        "id": "26"
+      },
+      {
+        "option": "V",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/20/20_Doc-WMW-MWC3_14_303bc810-55d5-4161-9d5f-2c72d35f6b79.JPG",
+        "id": "20"
+      },
+      {
+        "option": "W",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/30/30_Doc-WAI-WAI18_46_9485D8CB-F6D0-4501-BBDA-D958C331CEC6.JPG",
+        "id": "30"
+      },
+      {
+        "option": "X",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/46/46_Doc-WAI-WAI19_29_4887B47B-0B78-41BE-A55D-045D72E552BF.JPG",
+        "id": "46"
+      },
+      {
+        "option": "Y",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/15/15_Doc-WPY-PY22_6_a9b65bcc-6c88-40cf-834b-a889a9f78158.JPG",
+        "id": "15"
+      },
+      {
+        "option": "Z",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/10/10_Doc-WPY-PY23_20_de48ff6c-45a7-4971-9f03-3e82f077a5c3.JPG",
+        "id": "10"
+      },
+      {
+        "option": "[",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/22/22_Doc-WMW-MWC3_4_1b037166-a957-41ed-af53-ce278f08b4f0.JPG",
+        "id": "22"
+      },
+      {
+        "option": "\\",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/1/1_Doc-WPY-PY23_11_cc96d152-ade1-4122-8ac3-9b8b255263b3.JPG",
+        "id": "1"
+      },
+      {
+        "option": "]",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/2/2_Doc-WPY-PY22_5_9f4e8a29-1b9e-4ff6-a351-21d94f21efc8.JPG",
+        "id": "2"
+      },
+      {
+        "option": "^",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/34/34_Doc-WAI-WAIO1_20_DE489494-1DDB-4251-B30C-093E1278E434.JPG",
+        "id": "34"
+      },
+      {
+        "option": "_",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/41/41_Doc-WAI-WAI16_16_2C921EE5-280E-449C-9F26-BEF978753E6B.JPG",
+        "id": "41"
+      },
+      {
+        "option": "`",
+        "image_path": "/home/dzha866/Projects/ARK/data/MetaWild/Wallaby/IDs/45/45_Doc-WAI-WAI02_28_79C71A93-F05F-4DAA-A949-FAB37B6DB124.JPG",
+        "id": "45"
+      }
+    ],
+    "answer": "C"
+  }
+]

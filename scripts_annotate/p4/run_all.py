@@ -6,7 +6,7 @@ import sys
 def main():
     # Define paths relative to the project root
     project_root = os.getcwd()
-    data_root = os.path.join(project_root, "data")
+    data_root = os.path.join(project_root, "data", "MetaWild")
 
     # Path to the scripts we want to run
     generate_script = os.path.join(project_root, "scripts_annotate", "p4", "generate_dataset.py")
@@ -30,7 +30,7 @@ def main():
 
     if not species_list:
         print(
-            "No valid species datasets found in 'data/'. Expected structure: data/{SpeciesName}/IDs/"
+            "No valid species datasets found in 'data/MetaWild/'. Expected structure: data/MetaWild/{SpeciesName}/IDs/"
         )
         return
 
@@ -40,7 +40,7 @@ def main():
     # 2. Process each species
     for i, species in enumerate(species_list):
         print(f"\n[{i + 1}/{len(species_list)}] Processing Species: {species}")
-        data_dir = os.path.join("data", species, "IDs")
+        data_dir = os.path.join(data_root, species)
 
         # Define the gallery sizes to generate
         # Protocol 4: Context-aware Interleaved Reasoning (CIR)
@@ -57,6 +57,8 @@ def main():
                 species,
                 "--data_dir",
                 data_dir,
+                "--output_dir",
+                os.path.join(project_root, "annotations", "MetaWild"),
                 "--gallery_size",
                 str(N),
                 "--max_queries_per_id",
@@ -74,16 +76,16 @@ def main():
 
             # --- Step 2: Analyze Dataset ---
             base_name = f"{species}_CIR_P4_N{N}"
-            json_file = os.path.join(project_root, "annotations", species, "p4", f"{base_name}.json")
+            json_file = os.path.join(project_root, "annotations", "MetaWild", species, "p4", f"{base_name}.json")
             # analyze_dataset.py in P4 creates a directory for plots, not a single file
-            output_dir = os.path.join(project_root, "annotations", species, "p4", "analysis_results")
+            output_dir = os.path.join(project_root, "annotations", "MetaWild", species, "p4", "analysis_results")
 
             if os.path.exists(json_file):
                 print(f"    Analyzing dataset statistics (N={N})...")
                 analyze_cmd = [
                     sys.executable,
                     analyze_script,
-                    "--json_file",
+                    "--dataset_name",
                     json_file,
                     "--output_dir",
                     output_dir,
