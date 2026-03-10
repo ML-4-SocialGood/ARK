@@ -17,9 +17,9 @@ from tqdm import tqdm
 # Add project root to path to ensure imports work
 sys.path.append(os.getcwd())
 
-from scripts_eval.llm_client import OllamaClient
-from scripts_eval.prompts import PromptGenerator
-from scripts_eval.utils import ensure_directories, setup_logging
+from scripts_evaluate.llm_client import OllamaClient
+from scripts_evaluate.prompts import PromptGenerator
+from scripts_evaluate.utils import ensure_directories, setup_logging
 
 
 def main():

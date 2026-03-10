@@ -16,7 +16,7 @@ from pathlib import Path
 # Ensure project root is in path so we can import scripts_eval modules
 sys.path.append(os.getcwd())
 
-from scripts_eval.utils import ensure_directories, setup_logging
+from scripts_evaluate.utils import ensure_directories, setup_logging
 
 
 def evaluate_model_directory(model_dir: Path) -> Optional[dict]:
