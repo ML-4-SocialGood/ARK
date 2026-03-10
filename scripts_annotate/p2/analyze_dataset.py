@@ -14,7 +14,7 @@ def main():
         "--json_file",
         type=str,
         required=True,
-        help="Path to the generated JSON file (e.g., annotations/BelugaID/p2/BelugaID_MCQ_P4_N4_K1.json)",
+        help="Path to the generated JSON file (e.g., annotations/BelugaID/p2/BelugaID_MCQ_P2_N4_K1.json)",
     )
     parser.add_argument(
         "--output_plot",
@@ -31,7 +31,7 @@ def main():
 
     if args.output_plot is None:
         # Auto-generate output filename from input JSON filename
-        # e.g. BelugaID_MCQ_P4_N4_K1.json -> BelugaID_MCQ_P4_N4_K1_distribution.png
+        # e.g. BelugaID_MCQ_P2_N4_K1.json -> BelugaID_MCQ_P2_N4_K1_distribution.png
         base_name = os.path.splitext(os.path.basename(args.json_file))[0]
         output_dir = os.path.dirname(args.json_file)
         args.output_plot = os.path.join(output_dir, f"{base_name}_distribution.png")
@@ -55,7 +55,7 @@ def main():
     first_task = data[0]
     if "meta" in first_task:
         meta = first_task["meta"]
-        print("Protocol 4 Metadata detected:")
+        print("Protocol 2 Metadata detected:")
         if "batch_id" in meta:
             print(
                 f"  Batch ID range: {data[0]['meta']['batch_id']} - {data[-1]['meta']['batch_id']}"

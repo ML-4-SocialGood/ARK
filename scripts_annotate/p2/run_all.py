@@ -9,8 +9,8 @@ def main():
     data_root = os.path.join(project_root, "data")
 
     # Path to the scripts we want to run
-    generate_script = os.path.join(project_root, "scripts", "p4", "generate_dataset.py")
-    analyze_script = os.path.join(project_root, "scripts", "p4", "analyze_dataset.py")
+    generate_script = os.path.join(project_root, "scripts_annotate", "p2", "generate_dataset.py")
+    analyze_script = os.path.join(project_root, "scripts_annotate", "p2", "analyze_dataset.py")
 
     # Check if data directory exists
     if not os.path.exists(data_root):
@@ -43,7 +43,7 @@ def main():
         data_dir = os.path.join("data", species, "IDs")
 
         # Define the gallery sizes to generate
-        # Protocol 4 focuses on multi-image query, but we still vary gallery size
+        # Protocol 2 focuses on multi-image query, but we still vary gallery size
         gallery_sizes = [4, 8, 16, 32]
         max_query_size = 4
 
@@ -73,7 +73,7 @@ def main():
                 "42",
             ]
 
-            print(f"    Generating P4 (MCQ) dataset (N={N}, K_max={max_query_size})...")
+            print(f"    Generating P2 (MCQ) dataset (N={N}, K_max={max_query_size})...")
             try:
                 subprocess.run(gen_cmd, check=True)
             except subprocess.CalledProcessError as e:
@@ -84,9 +84,9 @@ def main():
             # Since P4 generates batches, the distribution of IDs is the same for all K.
             # We analyze K=1 to get the distribution of unique batches per ID.
             
-            base_name_k1 = f"{species}_MCQ_P4_N{N}_K1"
-            json_file_k1 = os.path.join(project_root, "annotations", species, "p4", f"{base_name_k1}.json")
-            plot_file = os.path.join(project_root, "annotations", species, "p4", f"{base_name_k1}_distribution.png")
+            base_name_k1 = f"{species}_MCQ_P2_N{N}_K1"
+            json_file_k1 = os.path.join(project_root, "annotations", species, "p2", f"{base_name_k1}.json")
+            plot_file = os.path.join(project_root, "annotations", species, "p2", f"{base_name_k1}_distribution.png")
 
             if os.path.exists(json_file_k1):
                 print(f"    Analyzing dataset statistics (N={N}, K=1)...")

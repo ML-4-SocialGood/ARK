@@ -103,18 +103,18 @@ def verify_batch(batch_id: int, tasks: Dict[int, Any], data_root: str) -> List[s
 
 
 def verify_dataset(dataset_name: str, annotations_dir: str, data_root: str) -> bool:
-    p4_dir = os.path.join(annotations_dir, dataset_name, "p4")
-    if not os.path.exists(p4_dir):
-        print(f"  [SKIP] P4 directory not found: {p4_dir}")
+    p2_dir = os.path.join(annotations_dir, dataset_name, "p2")
+    if not os.path.exists(p2_dir):
+        print(f"  [SKIP] P2 directory not found: {p2_dir}")
         return True
 
-    print(f"Verifying P4 dataset for {dataset_name}...")
+    print(f"Verifying P2 dataset for {dataset_name}...")
 
     # Group files by N (Gallery Size)
     files_by_n = defaultdict(list)
-    for f in os.listdir(p4_dir):
-        if f.endswith(".json") and "_P4_" in f:
-            # Expected: {Species}_MCQ_P4_N{N}_K{K}.json
+    for f in os.listdir(p2_dir):
+        if f.endswith(".json") and "_P2_" in f:
+            # Expected: {Species}_MCQ_P2_N{N}_K{K}.json
             try:
                 parts = f.split("_")
                 # Find part starting with N
@@ -123,12 +123,12 @@ def verify_dataset(dataset_name: str, annotations_dir: str, data_root: str) -> b
                 )
                 if n_part:
                     n = int(n_part[1:])
-                    files_by_n[n].append(os.path.join(p4_dir, f))
+                    files_by_n[n].append(os.path.join(p2_dir, f))
             except Exception:
                 print(f"Skipping unrecognized file: {f}")
 
     if not files_by_n:
-        print("No valid P4 JSON files found.")
+        print("No valid P2 JSON files found.")
         return True
 
     total_errors = 0
@@ -174,7 +174,7 @@ def verify_dataset(dataset_name: str, annotations_dir: str, data_root: str) -> b
 
     print("\n" + "=" * 50)
     if total_errors == 0:
-        print(f"SUCCESS: Dataset {dataset_name} passed all P4 integrity checks.")
+        print(f"SUCCESS: Dataset {dataset_name} passed all P2 integrity checks.")
         return True
     else:
         print(f"FAILURE: Found issues in {dataset_name}.")
@@ -182,7 +182,7 @@ def verify_dataset(dataset_name: str, annotations_dir: str, data_root: str) -> b
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Verify P4 MCQ Dataset Integrity")
+    parser = argparse.ArgumentParser(description="Verify P2 MCQ Dataset Integrity")
     parser.add_argument(
         "--dataset_name",
         type=str,

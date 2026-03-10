@@ -19,7 +19,7 @@ def analyze_file(file_path):
         return None
 
     # Extract N and K from filename
-    # Expected format: {Species}_MCQ_P4_N{N}_K{K}.json
+    # Expected format: {Species}_MCQ_P2_N{N}_K{K}.json
     filename = os.path.basename(file_path)
 
     # Regex to extract N and K
@@ -57,15 +57,15 @@ def analyze_file(file_path):
         max_samples = 0
         avg_samples = 0
 
-    # Infer dataset name from directory structure: .../annotations/{DatasetName}/p4/filename
-    # root is .../annotations/{DatasetName}/p4
+    # Infer dataset name from directory structure: .../annotations/{DatasetName}/p2/filename
+    # root is .../annotations/{DatasetName}/p2
     # parent is .../annotations/{DatasetName}
     parent_dir = os.path.dirname(os.path.dirname(file_path))
     dataset_name = os.path.basename(parent_dir)
 
     return {
         "Dataset": dataset_name,
-        "Protocol": "P4",
+        "Protocol": "P2",
         "Gallery Size (N)": n_val,
         "Query Size (K)": k_val,
         "Total Tasks": total_tasks,
@@ -79,12 +79,12 @@ def analyze_file(file_path):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate Excel Statistics for P4 (MCQ) Annotations"
+        description="Generate Excel Statistics for P2 (MCQ) Annotations"
     )
 
     # Determine default output path relative to this script
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    default_output = os.path.join(script_dir, "p4_dataset_stats.xlsx")
+    default_output = os.path.join(script_dir, "p2_dataset_stats.xlsx")
 
     parser.add_argument(
         "--annotations_dir",
@@ -106,14 +106,14 @@ def main():
         return
 
     all_stats = []
-    print(f"Scanning '{args.annotations_dir}' for P4 JSON files...")
+    print(f"Scanning '{args.annotations_dir}' for P2 JSON files...")
 
     # Walk through the directory structure
     for root, dirs, files in os.walk(args.annotations_dir):
-        # We are looking for files inside a 'p4' subdirectory
-        if os.path.basename(root) == "p4":
+        # We are looking for files inside a 'p2' subdirectory
+        if os.path.basename(root) == "p2":
             for file in files:
-                if file.endswith(".json") and "_P4_" in file:
+                if file.endswith(".json") and "_P2_" in file:
                     file_path = os.path.join(root, file)
                     print(f"  Processing: {file}", end="\r")
 
@@ -124,7 +124,7 @@ def main():
     print("\n" + "-" * 50)
 
     if not all_stats:
-        print("No valid P4 annotation files found.")
+        print("No valid P2 annotation files found.")
         return
 
     # Create DataFrame

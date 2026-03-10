@@ -6,11 +6,11 @@ import sys
 # Ensure imports work when running from project root
 sys.path.append(os.getcwd())
 
-from scripts.p4.sampler import MultiImageBatchSampler
+from scripts_annotate.p2.sampler import MultiImageBatchSampler
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Test P4 MultiImageBatchSampler")
+    parser = argparse.ArgumentParser(description="Test P2 MultiImageBatchSampler")
     parser.add_argument(
         "--data_dir", type=str, default="data/BelugaID/IDs", help="Path to dataset IDs"
     )

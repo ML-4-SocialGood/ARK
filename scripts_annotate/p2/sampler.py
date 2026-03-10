@@ -16,7 +16,7 @@ class MultiImageBatchSampler:
         max_jaccard_sim: Optional[float] = None,
     ):
         """
-        Initialize the MultiImageBatchSampler for Protocol 4.
+        Initialize the MultiImageBatchSampler for Protocol 2.
         Generates batches of tasks with fixed galleries but varying query set sizes.
 
         Args:
@@ -90,7 +90,7 @@ class MultiImageBatchSampler:
         self.valid_query_ids.sort()
         self.distractor_only_ids.sort()
 
-        print("Initialization Complete (Protocol 4 - Fixed Gallery Batch).")
+        print("Initialization Complete (Protocol 2 - Fixed Gallery Batch).")
         print(f"Max Query Size (K_max): {self.max_query_size}")
         print(
             f"Found {len(self.valid_query_ids)} valid query IDs (>= {self.max_query_size + 1} images)."
@@ -252,7 +252,7 @@ class MultiImageBatchSampler:
             current_query_images = query_pool[:k]
 
             task = {
-                "task_id": f"{self.dataset_name}_MCQ_P4_{batch_base_id:06d}_K{k}",
+                "task_id": f"{self.dataset_name}_MCQ_P2_{batch_base_id:06d}_K{k}",
                 "query": {
                     "image_paths": current_query_images,
                     "ground_truth_id": query_id,
