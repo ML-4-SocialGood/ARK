@@ -1,3 +1,9 @@
+"""
+scripts/p3/generate_stats.py
+Generate a summary Excel report for all Protocol 3 datasets found in the annotations directory.
+Output: p3_dataset_stats.xlsx
+"""
+
 import argparse
 import json
 import os
@@ -20,27 +26,27 @@ def analyze_file(file_path):
 
     filename = os.path.basename(file_path)
 
-    # Extract N and M from filename
-    # Expected format: {Species}_MIA_P9_N{N}_M{M}.json
-    match = re.search(r"_N(\d+)_M(\d+)\.json$", filename)
+    # Extract N from filename
+    # Expected format: ..._N{N}.json
+    match = re.search(r"_N(\d+)\.json$", filename)
     if match:
-        n_val, m_val = int(match.group(1)), int(match.group(2))
+        n_val = int(match.group(1))
     else:
-        n_val, m_val = -1, -1
+        n_val = 4
 
     # Calculate stats
     total_tasks = len(data)
 
-    # Extract ground truth IDs to calculate distribution
-    ground_truth_ids = []
+    # Extract ground truth IDs
+    query_ids = []
     for task in data:
         if "query" in task and "ground_truth_id" in task["query"]:
-            ground_truth_ids.append(task["query"]["ground_truth_id"])
+            query_ids.append(task["query"]["ground_truth_id"])
 
-    if not ground_truth_ids:
+    if not query_ids:
         return None
 
-    id_counts = Counter(ground_truth_ids)
+    id_counts = Counter(query_ids)
     unique_ids = len(id_counts)
     counts = list(id_counts.values())
 
@@ -54,14 +60,14 @@ def analyze_file(file_path):
         avg_samples = 0
 
     # Infer dataset name from directory structure
+    # annotations/{DatasetName}/p3/filename
     parent_dir = os.path.dirname(os.path.dirname(file_path))
     dataset_name = os.path.basename(parent_dir)
 
     return {
         "Dataset": dataset_name,
-        "Protocol": "P9 (MIA)",
+        "Protocol": "P3 (CIR)",
         "Gallery Size (N)": n_val,
-        "Positives (M)": m_val,
         "Total Tasks": total_tasks,
         "Unique IDs": unique_ids,
         "Min Samples/ID": min_samples,
@@ -73,23 +79,24 @@ def analyze_file(file_path):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate Excel Statistics for P9 (MIA) Annotations"
+        description="Generate Excel Statistics for P3 (CIR) Annotations"
     )
 
+    # Determine default output path relative to this script
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    default_output = os.path.join(script_dir, "p9_dataset_stats.xlsx")
+    default_output = os.path.join(script_dir, "p3_dataset_stats.xlsx")
 
     parser.add_argument(
         "--annotations_dir",
         type=str,
         default="annotations",
-        help="Root directory containing annotations",
+        help="Root directory containing annotations (e.g., annotations/)",
     )
     parser.add_argument(
         "--output_file",
         type=str,
         default=default_output,
-        help="Path for the output Excel file",
+        help="Path to output Excel file",
     )
 
     args = parser.parse_args()
@@ -99,12 +106,13 @@ def main():
         return
 
     all_stats = []
-    print(f"Scanning '{args.annotations_dir}' for P9 JSON files...")
+    print(f"Scanning '{args.annotations_dir}' for P3 datasets...")
 
     for root, dirs, files in os.walk(args.annotations_dir):
-        if os.path.basename(root) == "p9":
+        # We are looking for files inside a 'p3' subdirectory
+        if os.path.basename(root) == "p3":
             for file in files:
-                if file.endswith(".json") and "MIA_P9" in file:
+                if file.endswith(".json") and "CIR_P3" in file:
                     file_path = os.path.join(root, file)
                     print(f"  Processing: {file}", end="\r")
 
@@ -115,30 +123,38 @@ def main():
     print("\n" + "-" * 50)
 
     if not all_stats:
-        print("No valid P9 annotation files found.")
+        print("No valid P3 annotation files found.")
         return
 
     # Create DataFrame
     df = pd.DataFrame(all_stats)
 
-    # Sort
+    # Sort by Dataset and N
     if not df.empty:
-        df = df.sort_values(by=["Dataset", "Gallery Size (N)", "Positives (M)"])
+        df = df.sort_values(by=["Dataset", "Gallery Size (N)"])
 
-    # Save
-    try:
+    # Determine output format based on extension
+    ext = os.path.splitext(args.output_file)[1].lower()
+
+    if ext == ".csv":
         print(f"Saving statistics to {args.output_file}...")
-        if args.output_file.endswith(".csv"):
-            df.to_csv(args.output_file, index=False)
-        else:
-            df.to_excel(args.output_file, index=False)
+        df.to_csv(args.output_file, index=False)
         print("Done.")
-    except Exception as e:
-        print(f"Error saving file: {e}")
-        if not args.output_file.endswith(".csv"):
+    else:
+        # Default to Excel for .xlsx or other extensions
+        try:
+            print(f"Saving statistics to {args.output_file}...")
+            df.to_excel(args.output_file, index=False)
+            print("Done.")
+        except ImportError:
+            print("Error: 'openpyxl' library is required to save Excel files.")
+            print("Please install it using: pip install openpyxl")
+            # Fallback to CSV
             csv_file = os.path.splitext(args.output_file)[0] + ".csv"
-            print(f"Attempting to save as CSV: {csv_file}")
+            print(f"Attempting to save as CSV instead: {csv_file}")
             df.to_csv(csv_file, index=False)
+        except Exception as e:
+            print(f"Error saving file: {e}")
 
 
 if __name__ == "__main__":

@@ -1,3 +1,8 @@
+"""
+scripts/p3/generate_dataset.py
+Generate Dataset for Protocol 3: Context-aware Interleaved Reasoning.
+"""
+
 import argparse
 import json
 import os
@@ -7,24 +12,24 @@ import sys
 # Ensure imports work when running from project root
 sys.path.append(os.getcwd())
 
-from scripts.p9.sampler import MultiIdentitySampler
+from scripts.p3.sampler import ContextAwareSampler
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate Dataset for Animal Re-ID (Protocol 9: Multi-Identity Association)"
+        description="Generate Dataset for Protocol 3 (Context-aware Interleaved Reasoning)"
     )
     parser.add_argument(
         "--dataset_name",
         type=str,
         required=True,
-        help="Name of the dataset (e.g., BelugaID)",
+        help="Name of the dataset (e.g., MetaWild_Deer)",
     )
     parser.add_argument(
         "--data_dir",
         type=str,
         required=True,
-        help="Path to data directory",
+        help="Path to species directory (e.g., data/MetaWild/Deer)",
     )
     parser.add_argument(
         "--output_dir",
@@ -36,13 +41,7 @@ def main():
         "--gallery_size",
         type=int,
         default=4,
-        help="Total number of options in the gallery (N)",
-    )
-    parser.add_argument(
-        "--num_positives",
-        type=int,
-        default=2,
-        help="Number of positive images in the gallery (M). Must be >= 2.",
+        help="Number of options in the gallery (N)",
     )
     parser.add_argument(
         "--max_queries_per_id", type=int, default=5, help="Max queries per ID"
@@ -57,7 +56,7 @@ def main():
         "--seed",
         type=int,
         default=42,
-        help="Random seed",
+        help="Random seed for reproducibility",
     )
 
     args = parser.parse_args()
@@ -66,39 +65,40 @@ def main():
         print(f"Error: Data directory {args.data_dir} does not exist.")
         return
 
+    # Set random seed
     random.seed(args.seed)
 
-    print(f"Initializing P9 Sampler for {args.dataset_name} (N={args.gallery_size}, M={args.num_positives})...")
+    # Sanitize dataset_name for filename and task_id (replace / with _)
+    safe_dataset_name = args.dataset_name.replace("/", "_").replace("\\", "_")
+
+    print(f"Initializing P3 Sampler for {safe_dataset_name} (N={args.gallery_size})...")
+
     try:
-        sampler = MultiIdentitySampler(
+        sampler = ContextAwareSampler(
             data_dir=args.data_dir,
             gallery_size=args.gallery_size,
-            num_positives=args.num_positives,
             max_queries_per_id=args.max_queries_per_id,
-            dataset_name=args.dataset_name,
+            dataset_name=safe_dataset_name,
         )
     except Exception as e:
         print(f"Failed to initialize sampler: {e}")
         return
 
-    # Calculate theoretical max
+    # Calculate theoretical maximum
     theoretical_max = 0
     for qid in sampler.valid_query_ids:
         limit = min(args.max_queries_per_id, len(sampler.image_map[qid]))
         theoretical_max += limit
-    
+
     print(f"Theoretical maximum samples: {theoretical_max}")
 
     if args.target_samples == -1:
         target_count = theoretical_max
-        print(
-            f"Target samples not specified. Attempting to generate maximum possible: {target_count}"
-        )
     else:
         target_count = args.target_samples
 
     generated_samples = []
-    print("Starting generation...")
+    print(f"Starting generation of {target_count} samples...")
 
     for i in range(target_count):
         sample = sampler.generate_sample()
@@ -106,19 +106,20 @@ def main():
         if sample is None:
             print(f"\nSampler exhausted at iteration {i + 1}.")
             break
-        
+
         generated_samples.append(sample)
 
-        if (i + 1) % 10 == 0 or (i + 1) == target_count:
-            print(f"Generated {i + 1}/{target_count} samples...", end="\r")
+        if (i + 1) % 100 == 0:
+            print(f"Generated {i + 1}/{target_count}...", end="\r")
 
     print(f"\nTotal generated: {len(generated_samples)} samples.")
 
-    # Output path: annotations/{dataset_name}/p9/{dataset_name}_MIA_P9_N{N}.json
-    output_subdir = os.path.join(args.output_dir, args.dataset_name, "p9")
+    # Output path: annotations/{dataset_name}/p3/{safe_dataset_name}_CIR_P3_N{N}.json
+    # Use the raw dataset_name for directory structure to match verify_dataset.py logic
+    output_subdir = os.path.join(args.output_dir, args.dataset_name, "p3")
     os.makedirs(output_subdir, exist_ok=True)
 
-    output_filename = f"{args.dataset_name}_MIA_P9_N{args.gallery_size}_M{args.num_positives}.json"
+    output_filename = f"{safe_dataset_name}_CIR_P3_N{args.gallery_size}.json"
     output_path = os.path.join(output_subdir, output_filename)
 
     with open(output_path, "w") as f:
