@@ -1,8 +1,0 @@
-2026-03-10 23:08:56,557 - INFO - === Starting Inference ===
-2026-03-10 23:08:56,557 - INFO - Species: BelugaID, Protocol: p1
-2026-03-10 23:08:56,557 - INFO - Model: qwen3.5:27b
-2026-03-10 23:08:56,557 - INFO - Annotation File: annotations/BelugaID/p1/BelugaID_I2I_P1_N4.json
-2026-03-10 23:08:56,557 - INFO - Output Directory: results/BelugaID/p1/predictions/qwen3.5_27b
-2026-03-10 23:08:56,564 - INFO - Loaded 2351 tasks.
-2026-03-10 23:09:41,721 - WARNING - Task Beluga_MCQ_000001: Failed to extract answer (Attempt 1/3).
-2026-03-10 23:10:20,375 - WARNING - Task Beluga_MCQ_000001: Failed to extract answer (Attempt 2/3).
