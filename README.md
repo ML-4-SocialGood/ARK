@@ -1,7 +1,3 @@
-# diff
---- /dev/null
-+++ /home/dzha866/Projects/ARK/README.md
-@@ -0,0 +1,77 @@
 +# ARK Re-ID Evaluation Toolkit
 +
 +This toolkit provides scripts to run inference and evaluate Re-ID (Re-identification) tasks using Vision-Language Models (VLMs) hosted via [Ollama](https://ollama.com/).
