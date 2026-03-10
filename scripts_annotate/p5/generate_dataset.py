@@ -4,118 +4,175 @@ import os
 import random
 import sys
 
+from tqdm import tqdm
+
 # Ensure imports work when running from project root
 sys.path.append(os.getcwd())
 
-from scripts.p5.sampler import OpenSetSampler
+from scripts.p8.corruption_utils import apply_corruption
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate MCQ Dataset for Animal Re-ID (Protocol 5: Open-set Reliability)"
+        description="Generate P8 (Corrupted Consistency) Dataset from P1"
     )
     parser.add_argument(
-        "--dataset_name",
+        "--p1_json",
         type=str,
         required=True,
-        help="Name of the dataset (e.g., BelugaID)",
+        help="Path to the source P1 JSON file",
     )
     parser.add_argument(
-        "--data_dir",
+        "--data_root",
         type=str,
+        default=".",
+        help="Root directory of the project (to resolve relative image paths)",
+    )
+    parser.add_argument(
+        "--corruption_type",
+        type=str,
+        choices=["occlusion", "resolution", "grayscale"],
         required=True,
-        help="Path to data directory",
+        help="Type of corruption to apply",
     )
     parser.add_argument(
-        "--output_dir",
-        type=str,
-        default="annotations",
-        help="Root directory for output annotations",
-    )
-    parser.add_argument(
-        "--gallery_size",
+        "--severity",
         type=int,
-        default=4,
-        help="Number of distractor images in the gallery (N). Total options will be N+1.",
-    )
-    parser.add_argument(
-        "--max_queries_per_id", type=int, default=5, help="Max queries per ID"
-    )
-    parser.add_argument(
-        "--target_samples",
-        type=int,
-        default=-1,
-        help="Target number of samples to generate. -1 for maximum possible.",
+        default=1,
+        choices=[1, 2, 3],
+        help="Severity of corruption (1=Low, 2=Medium, 3=High). Ignored for grayscale.",
     )
     parser.add_argument(
         "--seed",
         type=int,
         default=42,
-        help="Random seed for reproducibility",
+        help="Random seed for reproducibility (e.g. occlusion position)",
     )
 
     args = parser.parse_args()
 
-    if not os.path.exists(args.data_dir):
-        print(f"Error: Data directory {args.data_dir} does not exist.")
+    if not os.path.exists(args.p1_json):
+        print(f"Error: P1 JSON file not found: {args.p1_json}")
         return
 
-    # Set random seed
+    # Load P1 Data
+    with open(args.p1_json, "r") as f:
+        p1_data = json.load(f)
+
+    if not isinstance(p1_data, list):
+        print(f"Error: P1 data in {args.p1_json} is not a list (got {type(p1_data)}).")
+        return
+
+    print(f"Loaded {len(p1_data)} tasks from {args.p1_json}")
+
+    # Determine Output Paths
+    # Input: annotations/{Species}/p1/{Species}_I2I_P1_N{N}.json
+    # Output: annotations/{Species}/p8/{Species}_I2I_P8_{Type}_S{Sev}_N{N}.json
+
+    p1_dir = os.path.dirname(args.p1_json)
+    species_dir = os.path.dirname(p1_dir)
+    species_name = os.path.basename(species_dir)
+
+    p8_dir = os.path.join(species_dir, "p8")
+    os.makedirs(p8_dir, exist_ok=True)
+
+    # Extract N from filename or data
+    filename = os.path.basename(args.p1_json)
+    n_part = ""
+    if "_N" in filename:
+        import re
+
+        match = re.search(r"_N(\d+)", filename)
+        if match:
+            n_part = f"_N{match.group(1)}"
+
+    output_filename = (
+        f"{species_name}_I2I_P8_{args.corruption_type}_S{args.severity}{n_part}.json"
+    )
+    output_json_path = os.path.join(p8_dir, output_filename)
+
+    # Directory for corrupted images
+    # data/{Species}/corrupted/{corruption_type}_s{severity}/
+    corrupted_img_root = os.path.join(
+        "data", species_name, "corrupted", f"{args.corruption_type}_s{args.severity}"
+    )
+    full_corrupted_root = os.path.join(args.data_root, corrupted_img_root)
+    os.makedirs(full_corrupted_root, exist_ok=True)
+
     random.seed(args.seed)
 
-    print(f"Initializing P5 Sampler (Open-set) for {args.dataset_name}...")
-    try:
-        sampler = OpenSetSampler(
-            dataset_name=args.dataset_name,
-            data_dir=args.data_dir,
-            gallery_size=args.gallery_size,
-            max_queries_per_id=args.max_queries_per_id,
+    p8_data = []
+
+    print(
+        f"Generating P8 dataset ({args.corruption_type}, Severity {args.severity})..."
+    )
+    print(f"Corrupted images will be saved to: {full_corrupted_root}")
+
+    for task in tqdm(p1_data):
+        # Deep copy task to avoid modifying original if we were keeping it in memory
+        new_task = json.loads(json.dumps(task))
+
+        # Update Task ID
+        # P1 ID: {Species}_MCQ_000001 -> P8 ID: {Species}_MCQ_P8_{Type}_000001
+        old_id = new_task.get("task_id", "Unknown")
+        new_task["task_id"] = old_id.replace("_P1_", "_P8_").replace(
+            "_MCQ_", f"_MCQ_P8_{args.corruption_type}_"
         )
-    except Exception as e:
-        print(f"Failed to initialize sampler: {e}")
-        return
 
-    # Calculate theoretical maximum
-    theoretical_max = 0
-    for qid in sampler.valid_query_ids:
-        limit = min(args.max_queries_per_id, len(sampler.image_map[qid]))
-        theoretical_max += limit
-    print(f"Theoretical maximum samples: {theoretical_max}")
+        # Process Query Image
+        query_path = new_task["query"]["image_path"]
+        full_query_path = os.path.join(args.data_root, query_path)
 
-    if args.target_samples == -1:
-        target_count = theoretical_max
-    else:
-        target_count = args.target_samples
+        if not os.path.exists(full_query_path):
+            print(f"Warning: Source image not found: {full_query_path}. Skipping task.")
+            continue
 
-    generated_samples = []
-    print("Starting generation...")
+        # Generate Corrupted Filename
+        # Structure: corrupted_root/{ID}/{filename}
+        norm_query_path = os.path.normpath(query_path)
+        path_parts = norm_query_path.split(os.sep)
+        if len(path_parts) >= 2:
+            id_name = path_parts[-2]  # Assuming data/Species/IDs/{ID}/{Img}
+            img_name = path_parts[-1]
+        else:
+            id_name = "unknown"
+            img_name = os.path.basename(query_path)
 
-    for i in range(target_count):
-        sample = sampler.generate_sample()
+        save_dir = os.path.join(full_corrupted_root, id_name)
+        os.makedirs(save_dir, exist_ok=True)
 
-        if sample is None:
-            print(f"\nSampler exhausted at iteration {i + 1}.")
-            break
+        full_save_path = os.path.join(save_dir, img_name)
+        rel_save_path = os.path.join(corrupted_img_root, id_name, img_name)
 
-        generated_samples.append(sample)
+        # Check if already exists to avoid re-processing (caching)
+        if not os.path.exists(full_save_path):
+            corrupted_img = apply_corruption(
+                full_query_path, args.corruption_type, args.severity
+            )
+            if corrupted_img:
+                corrupted_img.save(full_save_path)
+            else:
+                print(f"Failed to corrupt {full_query_path}")
+                continue
 
-        if (i + 1) % 100 == 0:
-            print(f"Generated {i + 1}/{target_count} samples...", end="\r")
+        # Update Task
+        new_task["query"]["image_path"] = rel_save_path
 
-    print(f"\nTotal generated: {len(generated_samples)} samples.")
+        # Add Meta info
+        if "meta" not in new_task:
+            new_task["meta"] = {}
+        new_task["meta"]["protocol"] = "P8"
+        new_task["meta"]["corruption"] = args.corruption_type
+        new_task["meta"]["severity"] = args.severity
+        new_task["meta"]["original_query_path"] = query_path
 
-    # Construct output path
-    output_subdir = os.path.join(args.output_dir, args.dataset_name, "p5")
-    os.makedirs(output_subdir, exist_ok=True)
+        p8_data.append(new_task)
 
-    # Filename format: {Species}_MCQ_P5_N{N}.json
-    output_filename = f"{args.dataset_name}_MCQ_P5_N{args.gallery_size}.json"
-    output_path = os.path.join(output_subdir, output_filename)
+    # Save JSON
+    with open(output_json_path, "w") as f:
+        json.dump(p8_data, f, indent=2)
 
-    with open(output_path, "w") as f:
-        json.dump(generated_samples, f, indent=2)
-
-    print(f"Dataset saved to {output_path}")
+    print(f"Saved P8 dataset to {output_json_path}")
 
 
 if __name__ == "__main__":
