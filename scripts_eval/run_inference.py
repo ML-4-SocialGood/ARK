@@ -43,6 +43,12 @@ def main():
         help="Ollama model name (must support vision)",
     )
     parser.add_argument(
+        "--host",
+        type=str,
+        default="http://localhost:11434",
+        help="Ollama server host (default: http://localhost:11434)",
+    )
+    parser.add_argument(
         "--resume",
         action="store_true",
         help="Resume from existing results file if present",
@@ -82,7 +88,7 @@ def main():
 
     # 3. Initialize Client
     # Timeout set to 300s (5 mins) to handle large images/slow generation
-    client = OllamaClient(model=args.model, timeout=300)
+    client = OllamaClient(host=args.host, model=args.model, timeout=300)
     if not client.check_connection():
         logging.error(
             "Could not connect to Ollama server. Please check if 'ollama serve' is running."
@@ -141,18 +147,29 @@ def main():
             else:
                 print(f"  [MISSING] {p}")
 
-        print("\nSending request to Ollama... (This may take 10-30 seconds)")
+        # Retry variables
+        max_retries = 3
+        extracted_answer = None
+        model_output = ""
+        duration = 0
+        response = {}
 
-        try:
-            start_time = time.time()
+        for attempt in range(max_retries):
+            if attempt > 0:
+                print(f"\n[Retry] Attempt {attempt + 1}/{max_retries}...")
 
-            # API Call
-            response = client.generate(prompt=prompt_text, images=image_paths)
+            print("\nSending request to Ollama... (This may take 10-30 seconds)")
 
-            duration = time.time() - start_time
+            try:
+                start_time = time.time()
 
-            # Extract text response
-            model_output = response.get("response", "")
+                # API Call
+                response = client.generate(prompt=prompt_text, images=image_paths)
+
+                duration = time.time() - start_time
+
+                # Extract text response
+                model_output = response.get("response", "")
 
                 # Extract answer (A, B, C, D) using Regex
                 extracted_answer = None
@@ -168,48 +185,52 @@ def main():
                         if match:
                             extracted_answer = match.group(1).upper()
 
-            # Verbose output for response
-            print("\n" + "=" * 20 + " Model Response " + "=" * 20)
-            if model_output:
-                print(model_output)
-            elif response.get("thinking"):
-                print("[Thinking Process (Response was empty)]:")
-                print(response.get("thinking"))
-            else:
-                print("[No response or thinking field found.]")
-            print("=" * 56)
+                # Verbose output for response
+                print("\n" + "=" * 20 + " Model Response " + "=" * 20)
+                if model_output:
+                    print(model_output)
+                elif response.get("thinking"):
+                    print("[Thinking Process (Response was empty)]:")
+                    print(response.get("thinking"))
+                else:
+                    print("[No response or thinking field found.]")
+                print("=" * 56)
 
-            print("\n[Debug Info]:")
-            print(f"  Done: {response.get('done')}")
-            print(f"  Eval Count: {response.get('eval_count')} tokens")
-            if response.get("total_duration"):
-                print(
-                    f"  Total Duration: {response.get('total_duration') / 1e9:.2f}s"
-                )
-            print("-" * 60)
+                print("\n[Debug Info]:")
+                print(f"  Done: {response.get('done')}")
+                print(f"  Eval Count: {response.get('eval_count')} tokens")
+                if response.get("total_duration"):
+                    print(
+                        f"  Total Duration: {response.get('total_duration') / 1e9:.2f}s"
+                    )
+                print("-" * 60)
 
-            # Save Result
-            result_entry = {
-                "task_id": task_id,
-                "ground_truth": task.get("answer"),
-                    "extracted_answer": extracted_answer,
-                "model": args.model,
-                "prompt": prompt_text,
-                "image_paths": image_paths,
-                "prediction_text": model_output,
-                "full_response": response,  # Save full metadata (tokens, time, etc.)
-                "duration_seconds": duration,
-            }
+                if extracted_answer:
+                    break
+                
+                logging.warning(f"Task {task_id}: Failed to extract answer (Attempt {attempt + 1}/{max_retries}).")
 
-            # Save to individual JSON file
-            task_file = output_dir / f"{task_id}.json"
-            with open(task_file, "w") as f:
-                json.dump(result_entry, f, indent=4)
+            except Exception as e:
+                logging.error(f"Error processing task {task_id} (Attempt {attempt + 1}/{max_retries}): {e}")
+                continue
 
-        except Exception as e:
-            logging.error(f"Error processing task {task_id}: {e}")
-            # We continue to the next task instead of crashing
-            continue
+        # Save Result
+        result_entry = {
+            "task_id": task_id,
+            "ground_truth": task.get("answer"),
+            "extracted_answer": extracted_answer,
+            "model": args.model,
+            "prompt": prompt_text,
+            "image_paths": image_paths,
+            "prediction_text": model_output,
+            # "full_response": response,  # Removed to save space/readability
+            "duration_seconds": duration,
+        }
+
+        # Save to individual JSON file
+        task_file = output_dir / f"{task_id}.json"
+        with open(task_file, "w") as f:
+            json.dump(result_entry, f, indent=4)
 
     logging.info("Inference finished.")
 

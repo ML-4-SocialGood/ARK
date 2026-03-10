@@ -63,7 +63,7 @@ class OllamaClient:
         default_options = {
             "temperature": 0.0,
             "seed": 42,
-            "num_predict": 16384,  # Increased to accommodate thinking process + response
+            "num_predict": 32768,  # Increased to accommodate thinking process + response
         }
 
         if options:
