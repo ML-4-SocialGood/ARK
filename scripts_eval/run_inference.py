@@ -174,14 +174,33 @@ def main():
                 # Extract answer (A, B, C, D) using Regex
                 extracted_answer = None
                 if model_output:
-                    # Strategy 1: Look for a single letter A-D at the very end of the string
-                    # Matches "B", " B", "B.", "B)" at the end
-                    match = re.search(r'(?:^|\s)([A-D])[\.\)]?\s*$', model_output.strip(), re.IGNORECASE)
+                    # Strategy 1: Look for explicit "Answer: X" or "Option X" pattern anywhere
+                    # Matches "Answer: A", "Option B", "Choice C"
+                    match = re.search(r'(?:Answer|Option|Choice)\s*[:\-\s]*\s*([A-D])\b', model_output, re.IGNORECASE)
                     if match:
                         extracted_answer = match.group(1).upper()
-                    else:
-                        # Strategy 2: Look for explicit "Answer: X" pattern anywhere
-                        match = re.search(r'(?:Answer|Option)\s*[:\-\s]\s*([A-D])\b', model_output, re.IGNORECASE)
+
+                    # Strategy 2: Look for "Image X" or "Candidate X" and map to A-D
+                    if not extracted_answer:
+                        match = re.search(r'(?:Image|Candidate)\s*(\d+)', model_output, re.IGNORECASE)
+                        if match:
+                            try:
+                                digit = int(match.group(1))
+                                if 1 <= digit <= 4:
+                                    extracted_answer = chr(ord('A') + digit - 1)
+                            except ValueError:
+                                pass
+
+                    # Strategy 3: Look for a single letter A-D at the very end of the string
+                    if not extracted_answer:
+                        # Matches "B", " B", "B.", "B)" at the end
+                        match = re.search(r'(?:^|\s)([A-D])[\.\)]?\s*$', model_output.strip(), re.IGNORECASE)
+                        if match:
+                            extracted_answer = match.group(1).upper()
+
+                    # Strategy 4: Look for single letter at the start (e.g. "A. The answer is...")
+                    if not extracted_answer:
+                        match = re.search(r'^\s*([A-D])[\.\)]', model_output.strip(), re.IGNORECASE)
                         if match:
                             extracted_answer = match.group(1).upper()
 

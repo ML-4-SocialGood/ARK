@@ -9,10 +9,9 @@ from typing import Optional
 # 通用 Re-ID 模板 (I2I: Image-to-Image)
 # Template with <image> placeholders as requested
 MCQ_I2I_TEMPLATE = (
-    "Please retrieve the same individual as the query: <image> in the candidates: "
+    "Please retrieve the same individual as the query: <image> from the following options: "
     "{candidates_part}. "
-    "Which candidate shows the same individual as the query image? "
-    "Options: {options_part} "
+    "Which option shows the same individual as the query image? "
     "Answer with only the single letter of the correct option (A, B, C, or D). Do not explain."
 )
 
@@ -47,7 +46,6 @@ class PromptGenerator:
         # 2. 构建 Candidates 和 Options 部分
         gallery_images = task.get("gallery", [])
         candidates_list = []
-        options_list = []
 
         for idx, option in enumerate(gallery_images):
             opt_label = option.get("option")  # A, B, C, D
@@ -56,17 +54,12 @@ class PromptGenerator:
             # 记录图片路径 (顺序: Query -> OptA -> OptB -> ...)
             image_paths.append(opt_img)
 
-            # 构建文本部分 (Candidate 1, Candidate 2...)
-            cand_num = idx + 1
-            candidates_list.append(f"Candidate {cand_num}: <image>")
-            options_list.append(f"{opt_label}. Candidate {cand_num}")
+            # 构建文本部分 (Option A: <image>...)
+            candidates_list.append(f"Option {opt_label}: <image>")
 
         candidates_part = ", ".join(candidates_list)
-        options_part = " ".join(options_list)
 
         # 3. 填充模板
-        prompt_text = MCQ_I2I_TEMPLATE.format(
-            candidates_part=candidates_part, options_part=options_part
-        )
+        prompt_text = MCQ_I2I_TEMPLATE.format(candidates_part=candidates_part)
 
         return prompt_text, image_paths
