@@ -6,8 +6,10 @@ Ollama API Client with retry mechanism and strict parameter control.
 import json
 import base64
 import logging
+import io
 from typing import Optional
 
+from PIL import Image
 import requests
 from tenacity import (
     retry,
@@ -63,7 +65,7 @@ class OllamaClient:
         default_options = {
             "temperature": 0.0,
             "seed": 42,
-            "num_predict": 32768,  # Increased to accommodate thinking process + response
+            "num_predict": 2048,  # Optimized for speed
         }
 
         if options:
@@ -83,13 +85,18 @@ class OllamaClient:
             encoded_images = []
             for image_path in images:
                 try:
-                    with open(image_path, "rb") as image_file:
-                        encoded_string = base64.b64encode(image_file.read()).decode(
-                            "utf-8"
-                        )
+                    with Image.open(image_path) as img:
+                        # Resize image to optimize inference speed (max dim 512)
+                        img.thumbnail((512, 512))
+                        if img.mode != "RGB":
+                            img = img.convert("RGB")
+                        
+                        buffered = io.BytesIO()
+                        img.save(buffered, format="JPEG", quality=85)
+                        encoded_string = base64.b64encode(buffered.getvalue()).decode("utf-8")
                         encoded_images.append(encoded_string)
                 except Exception as e:
-                    logging.error(f"Failed to encode image {image_path}: {e}")
+                    logging.error(f"Failed to process image {image_path}: {e}")
                     raise e
             payload["images"] = encoded_images
 
