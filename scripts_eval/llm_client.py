@@ -21,8 +21,7 @@ class OllamaClient:
     def __init__(
         self,
         host: str = "http://localhost:11434",
-        model: str = "qwen3-vl:8b",
-        # model: str = "qwen3.5:4b",
+        model: str = "qwen3.5:4b",
         timeout: int = 120,
     ):
         self.host = host
@@ -64,7 +63,7 @@ class OllamaClient:
         default_options = {
             "temperature": 0.0,
             "seed": 42,
-            "num_predict": 512,  # Adjust based on expected output length
+            "num_predict": 4096,  # Increased to accommodate thinking process + response
         }
 
         if options:
@@ -85,7 +84,9 @@ class OllamaClient:
             for image_path in images:
                 try:
                     with open(image_path, "rb") as image_file:
-                        encoded_string = base64.b64encode(image_file.read()).decode('utf-8')
+                        encoded_string = base64.b64encode(image_file.read()).decode(
+                            "utf-8"
+                        )
                         encoded_images.append(encoded_string)
                 except Exception as e:
                     logging.error(f"Failed to encode image {image_path}: {e}")
