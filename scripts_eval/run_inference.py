@@ -199,10 +199,9 @@ def main():
                 print("\n[Debug Info]:")
                 print(f"  Done: {response.get('done')}")
                 print(f"  Eval Count: {response.get('eval_count')} tokens")
-                if response.get("total_duration"):
-                    print(
-                        f"  Total Duration: {response.get('total_duration') / 1e9:.2f}s"
-                    )
+                total_duration = response.get("total_duration")
+                if total_duration:
+                    print(f"  Total Duration: {total_duration / 1e9:.2f}s")
                 print("-" * 60)
 
                 if extracted_answer:
