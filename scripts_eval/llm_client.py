@@ -66,6 +66,7 @@ class OllamaClient:
             "temperature": 0.0,
             "seed": 42,
             "num_predict": 2048,  # Optimized for speed
+            "num_ctx": 8192,      # Increased context window for multi-image inputs
         }
 
         if options:
@@ -111,6 +112,8 @@ class OllamaClient:
             return response.json()
 
         except requests.exceptions.RequestException as e:
+            if e.response is not None:
+                logging.error(f"Ollama API Error Details: {e.response.text}")
             logging.error(f"Ollama API Connection Error: {e}")
             raise e
 
