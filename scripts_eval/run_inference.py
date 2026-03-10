@@ -39,7 +39,7 @@ def main():
     parser.add_argument(
         "--model",
         type=str,
-        default="qwen3-vl:8b",
+        default="qwen3.5:4b",
         help="Ollama model name (must support vision)",
     )
     parser.add_argument(
