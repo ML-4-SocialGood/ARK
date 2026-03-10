@@ -10,8 +10,8 @@ def main():
     annotations_root = os.path.join(project_root, "annotations")
 
     # Path to the scripts we want to run
-    generate_script = os.path.join(project_root, "scripts", "p1", "generate_dataset.py")
-    analyze_script = os.path.join(project_root, "scripts", "analyze_p1_dataset.py")
+    generate_script = os.path.join(project_root, "scripts_annotate", "p1", "generate_dataset.py")
+    analyze_script = os.path.join(project_root, "scripts_annotate", "p1", "analyze_dataset.py")
 
     # Check if data directory exists
     if not os.path.exists(data_root):

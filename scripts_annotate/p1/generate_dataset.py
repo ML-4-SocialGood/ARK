@@ -7,7 +7,7 @@ import sys
 # Ensure imports work when running from project root
 sys.path.append(os.getcwd())
 
-from scripts.p1.sampler import DynamicReIDSampler
+from scripts_annotate.p1.sampler import DynamicReIDSampler
 
 
 def main():
