@@ -10,6 +10,7 @@ import logging
 import os
 import sys
 import time
+import re
 
 from tqdm import tqdm
 
@@ -153,6 +154,20 @@ def main():
             # Extract text response
             model_output = response.get("response", "")
 
+                # Extract answer (A, B, C, D) using Regex
+                extracted_answer = None
+                if model_output:
+                    # Strategy 1: Look for a single letter A-D at the very end of the string
+                    # Matches "B", " B", "B.", "B)" at the end
+                    match = re.search(r'(?:^|\s)([A-D])[\.\)]?\s*$', model_output.strip(), re.IGNORECASE)
+                    if match:
+                        extracted_answer = match.group(1).upper()
+                    else:
+                        # Strategy 2: Look for explicit "Answer: X" pattern anywhere
+                        match = re.search(r'(?:Answer|Option)\s*[:\-\s]\s*([A-D])\b', model_output, re.IGNORECASE)
+                        if match:
+                            extracted_answer = match.group(1).upper()
+
             # Verbose output for response
             print("\n" + "=" * 20 + " Model Response " + "=" * 20)
             if model_output:
@@ -177,6 +192,7 @@ def main():
             result_entry = {
                 "task_id": task_id,
                 "ground_truth": task.get("answer"),
+                    "extracted_answer": extracted_answer,
                 "model": args.model,
                 "prompt": prompt_text,
                 "image_paths": image_paths,

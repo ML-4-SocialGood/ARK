@@ -13,7 +13,7 @@ MCQ_I2I_TEMPLATE = (
     "{candidates_part}. "
     "Which candidate shows the same individual as the query image? "
     "Options: {options_part} "
-    "Hint: Please provide the correct option letter, such as A, B, C, D, directly."
+    "Answer with only the single letter of the correct option (A, B, C, or D). Do not explain."
 )
 
 
