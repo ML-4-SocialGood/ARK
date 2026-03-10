@@ -51,7 +51,7 @@ def main():
         print("Dataset is empty.")
         return
 
-    # Check metadata for P4 specifics (Optional info display)
+    # Check metadata for P2 specifics (Optional info display)
     first_task = data[0]
     if "meta" in first_task:
         meta = first_task["meta"]
