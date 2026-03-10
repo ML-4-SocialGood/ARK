@@ -10,6 +10,7 @@ import logging
 import os
 import sys
 import csv
+from typing import Optional
 from pathlib import Path
 
 # Ensure project root is in path so we can import scripts_eval modules
@@ -18,7 +19,7 @@ sys.path.append(os.getcwd())
 from scripts_eval.utils import ensure_directories, setup_logging
 
 
-def evaluate_model_directory(model_dir: Path) -> dict:
+def evaluate_model_directory(model_dir: Path) -> Optional[dict]:
     """
     Evaluates all task JSON files in a specific model's directory.
 
