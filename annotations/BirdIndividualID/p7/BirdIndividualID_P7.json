@@ -1,0 +1,1794 @@
+[
+  {
+    "task_id": "BirdIndividualID_P7_000001",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/4/4_-1_10_011017686F_2019-08-25_13-45-16_96ae93f68bfcdff6.jpg",
+      "id": "4"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/11/11_-1_25_0700ED87AE_2018-12-10_11-35-40_00131d3e528f6bfd.jpg",
+      "id": "11"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000002",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/15/15_-1_13__H_0700EDDB4E_2018-12-13_08-51-15_b9e357d113943bf9.jpg",
+      "id": "15"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/16/16_-1_15_0700EDDCC4_2018-11-29_10-26-01_2b7a949e688e5703.jpg",
+      "id": "16"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000003",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/5/5_-1_40_011017897F_2019-08-27_09-30-16_64d76e225f821c0e.jpg",
+      "id": "5"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/8/8_-1_11_0110178347_2019-08-24_15-39-29_6d82bb840834dab5.jpg",
+      "id": "8"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000004",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/25/25_-1_13_179_2019-08-24_13-16-42_62ee1784d7666714.jpg",
+      "id": "25"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/20/20_-1_12_098_2019-08-22_19-18-46_5fcfea5a11e2e446.jpg",
+      "id": "20"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000005",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/10/10_-1_22_0417D30D92_2018-12-10_12-47-12_db8e1ad987a9998b.jpg",
+      "id": "10"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/15/15_-1_24__L_0700EDDB4E_2018-12-17_13-32-32_01550c3240d6a965.jpg",
+      "id": "15"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000006",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/3/3_-1_2_01101788B6_2019-08-22_09-50-52_7995557be6467ae5.jpg",
+      "id": "3"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/0/0_-1_15_0700EDAC58_2019-08-26_10-05-59_011fdb939a8bc12f.jpg",
+      "id": "0"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000007",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/6/6_-1_6_0110176514_2019-08-24_16-18-50_ebd3515c29d0ccdc.jpg",
+      "id": "6"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/4/4_-1_33_011017686F_2019-08-26_11-59-48_457332fd4cf2c58e.jpg",
+      "id": "4"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000008",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/15/15_-1_26__L_0700EDDB4E_2018-12-17_14-06-23_21f59d64a3addfaf.jpg",
+      "id": "15"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/22/22_-1_41_107_2019-08-24_15-52-31_7bb03279e7e34b91.jpg",
+      "id": "22"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000009",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/9/9_-1_7_0110178989_2019-08-22_18-00-52_cae5dfb43a0f8a88.jpg",
+      "id": "9"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/0/0_-1_14_0700EDAC58_2019-08-26_10-05-55_de250374afd6265d.jpg",
+      "id": "0"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000010",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/6/6_-1_29_0110176514_2019-08-29_12-26-41_b31d59102d129963.jpg",
+      "id": "6"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/20/20_-1_41_098_2019-08-22_20-09-56_1070dfa4a0846191.jpg",
+      "id": "20"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000011",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/12/12_-1_29__H_0700EDA638_2018-12-13_09-38-31_6a5a67b9be484685.jpg",
+      "id": "12"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/15/15_-1_12__H_0700EDDB4E_2018-12-13_08-47-56_98b597265e9fe63c.jpg",
+      "id": "15"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000012",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/10/10_-1_15_0417D30D92_2018-11-30_15-33-51_fddc6512de9bd559.jpg",
+      "id": "10"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/20/20_-1_50_098_2019-08-22_20-21-14_7139aeea2f90076e.jpg",
+      "id": "20"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000013",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/19/19_-1_3_007_2019-08-24_16-24-34_a95c6df66a651965.jpg",
+      "id": "19"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/4/4_-1_11_011017686F_2019-08-25_13-46-28_376d444a2c10ac36.jpg",
+      "id": "4"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000014",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/7/7_-1_16_0110178201_2019-08-27_07-45-28_33266c7b41b22828.jpg",
+      "id": "7"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/21/21_-1_53_103_2019-08-24_19-00-53_b72036fac917aa0d.jpg",
+      "id": "21"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000015",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/10/10_-1_26__H_0417D30D92_2018-12-13_12-08-12_e00d1c6b506dc490.jpg",
+      "id": "10"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/25/25_-1_9_179_2019-08-24_13-09-53_2cdd6d61d70aaa0c.jpg",
+      "id": "25"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000016",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/19/19_-1_31_007_2019-08-24_16-57-44_a778c63cb7181b7a.jpg",
+      "id": "19"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/3/3_-1_7_01101788B6_2019-08-22_17-16-07_5b617ad3cb651c5c.jpg",
+      "id": "3"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000017",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/10/10_-1_6_0417D30D92_2018-11-29_10-05-18_f8b7ce1e5606676d.jpg",
+      "id": "10"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/1/1_-1_22_01101786C5_2019-08-26_13-19-58_a21e8ddea5d0943b.jpg",
+      "id": "1"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000018",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/8/8_-1_11_0110178347_2019-08-24_15-39-29_6d82bb840834dab5.jpg",
+      "id": "8"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/17/17_-1_22__H_0700EDE6D1_2018-12-17_09-28-50_d8ce12b46b3748fb.jpg",
+      "id": "17"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000019",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/11/11_-1_25_0700ED87AE_2018-12-10_11-35-40_00131d3e528f6bfd.jpg",
+      "id": "11"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/20/20_-1_62_098_2019-08-22_20-33-18_9c78e2541bfaf257.jpg",
+      "id": "20"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000020",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/13/13_-1_2_0700EDB994_2018-11-26_08-14-39_3397aa960410e35d.jpg",
+      "id": "13"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/2/2_-1_21_01101787FB_2019-08-24_17-02-35_3cbd2d464d90079c.jpg",
+      "id": "2"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000021",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/5/5_-1_8_011017897F_2019-08-22_16-49-49_811db07e4b5042f1.jpg",
+      "id": "5"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/16/16_-1_13_0700EDDCC4_2018-11-29_08-47-02_8b54446e4d460cf4.jpg",
+      "id": "16"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000022",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/3/3_-1_14_01101788B6_2019-08-23_15-44-20_07f90fc3cac47292.jpg",
+      "id": "3"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/5/5_-1_40_011017897F_2019-08-27_09-30-16_64d76e225f821c0e.jpg",
+      "id": "5"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000023",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/7/7_-1_19_0110178201_2019-08-27_09-57-35_00cfeed3b93c8c67.jpg",
+      "id": "7"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/15/15_-1_22__L_0700EDDB4E_2018-12-13_12-32-30_dfc7d288548db75f.jpg",
+      "id": "15"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000024",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/2/2_-1_4_01101787FB_2019-08-22_13-07-25_5415e4999a2dc3a6.jpg",
+      "id": "2"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/16/16_-1_7_0700EDDCC4_2018-11-26_12-00-51_358463273aaa05ff.jpg",
+      "id": "16"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000025",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/24/24_-1_47_159_2019-08-22_23-21-45_5b7cdd1c77a3fdf3.jpg",
+      "id": "24"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/15/15_-1_9__H_0700EDDB4E_2018-12-11_15-03-13_d0d46eb445b839be.jpg",
+      "id": "15"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000026",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/8/8_-1_10_0110178347_2019-08-23_13-58-35_34ac039f3871381e.jpg",
+      "id": "8"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/9/9_-1_16_0110178989_2019-08-24_15-42-41_daf70243c476fed7.jpg",
+      "id": "9"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000027",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/1/1_-1_32_01101786C5_2019-08-27_13-07-46_edaf06501bb0f45f.jpg",
+      "id": "1"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/19/19_-1_40_007_2019-08-24_17-07-05_8181fcde629e25ba.jpg",
+      "id": "19"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000028",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/25/25_-1_46_179_2019-08-24_13-56-16_1b86b62d69f4d6ce.jpg",
+      "id": "25"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/7/7_-1_21_0110178201_2019-08-27_09-59-41_53822894737f3ee0.jpg",
+      "id": "7"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000029",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/4/4_-1_32_011017686F_2019-08-26_11-55-53_c1bb8e2f67e08f86.jpg",
+      "id": "4"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/22/22_-1_9_107_2019-08-24_14-43-08_917ad836065e3ac4.jpg",
+      "id": "22"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000030",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/21/21_-1_3_103_2019-08-24_18-03-52_e9b41162fa68cab4.jpg",
+      "id": "21"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/12/12_-1_17_0700EDA638_2018-11-30_08-48-39_1463fee415e7c0b9.jpg",
+      "id": "12"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000031",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/15/15_-1_25__L_0700EDDB4E_2018-12-17_13-37-59_3376c7a2f21ff9ed.jpg",
+      "id": "15"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/8/8_-1_5_0110178347_2019-08-22_17-17-42_0ec0511fc5b9c9d4.jpg",
+      "id": "8"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000032",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/16/16_-1_43__L_0700EDDCC4_2018-12-13_12-12-06_645605ff83d83ba4.jpg",
+      "id": "16"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/8/8_-1_21_0110178347_2019-08-29_09-08-45_c8d92ca23b5202e8.jpg",
+      "id": "8"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000033",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/25/25_-1_51_179_2019-08-24_14-00-21_a34a0623b9ad108a.jpg",
+      "id": "25"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/2/2_-1_22_01101787FB_2019-08-25_08-56-21_808e34c12ccd3b00.jpg",
+      "id": "2"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000034",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/12/12_-1_38__L_0700EDA638_2018-12-10_12-40-12_7a914c2bcec2d704.jpg",
+      "id": "12"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/24/24_-1_1_159_2019-08-22_22-36-30_f857cdd872c78939.jpg",
+      "id": "24"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000035",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/8/8_-1_12_0110178347_2019-08-24_15-49-02_80b5ce0617c7043f.jpg",
+      "id": "8"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/1/1_-1_18_01101786C5_2019-08-26_12-38-57_2cf346736c6cfa47.jpg",
+      "id": "1"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000036",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/4/4_-1_6_011017686F_2019-08-25_12-25-46_88c9aa9812a833d2.jpg",
+      "id": "4"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/13/13_-1_34__H_0700EDB994_2018-12-14_13-00-50_c732b0030a631116.jpg",
+      "id": "13"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000037",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/3/3_-1_20_01101788B6_2019-08-26_11-03-08_9a8908ac70376260.jpg",
+      "id": "3"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/10/10_-1_31__H_0417D30D92_2018-12-14_15-49-42_2eaf774d89155603.jpg",
+      "id": "10"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000038",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/3/3_-1_24_01101788B6_2019-08-27_13-33-53_b86a26be2973758c.jpg",
+      "id": "3"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/21/21_-1_39_103_2019-08-24_18-36-07_87b92c97ba5f6371.jpg",
+      "id": "21"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000039",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/24/24_-1_22_159_2019-08-22_22-55-33_ac29821555d12f7f.jpg",
+      "id": "24"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/0/0_-1_8_0700EDAC58_2019-08-25_13-06-07_4d6b717805747977.jpg",
+      "id": "0"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000040",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/8/8_-1_19_0110178347_2019-08-27_14-01-16_45c0aa61107bd5db.jpg",
+      "id": "8"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/4/4_-1_16_011017686F_2019-08-25_15-44-51_4f4aecddd16cfdf5.jpg",
+      "id": "4"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000041",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/17/17_-1_19__H_0700EDE6D1_2018-12-14_11-11-14_48d9f063f0e58b13.jpg",
+      "id": "17"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/21/21_-1_62_103_2019-08-24_19-07-37_4d8a3fb1cdcc3c2d.jpg",
+      "id": "21"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000042",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/0/0_-1_17_0700EDAC58_2019-08-26_12-41-17_b518ec5792bfadc8.jpg",
+      "id": "0"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/8/8_-1_4_0110178347_2019-08-22_15-49-10_00c8d829c193a54e.jpg",
+      "id": "8"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000043",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/8/8_-1_4_0110178347_2019-08-22_15-49-10_00c8d829c193a54e.jpg",
+      "id": "8"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/13/13_-1_15_0700EDB994_2018-11-29_10-41-33_e7827d9ed86bc3c4.jpg",
+      "id": "13"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000044",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/4/4_-1_46_011017686F_2019-08-29_14-28-41_119fab48c47356a7.jpg",
+      "id": "4"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/17/17_-1_39__L_0700EDE6D1_2018-12-14_08-40-14_959065dd07f8ca59.jpg",
+      "id": "17"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000045",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/3/3_-1_13_01101788B6_2019-08-23_14-17-05_df96ecd6db7775a6.jpg",
+      "id": "3"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/14/14_-1_30_0700EDDAE6_2018-12-10_12-14-40_8aab31fbbc6c859f.jpg",
+      "id": "14"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000046",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/24/24_-1_70_159_2019-08-22_23-42-09_bc3a60bdb3c539e2.jpg",
+      "id": "24"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/9/9_-1_0_0110178989_2019-08-22_15-41-49_4b03fd7accf0c359.jpg",
+      "id": "9"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000047",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/3/3_-1_23_01101788B6_2019-08-27_12-46-29_c42014a5d487c176.jpg",
+      "id": "3"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/18/18_-1_0_0700EE16B2_2018-11-26_10-19-44_827bdff14d0a51e9.jpg",
+      "id": "18"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000048",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/11/11_-1_27_0700ED87AE_2018-12-10_14-47-30_b0f78b7cfe9920df.jpg",
+      "id": "11"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/2/2_-1_23_01101787FB_2019-08-25_09-06-23_20906b34f24fcf0e.jpg",
+      "id": "2"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000049",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/1/1_-1_42_01101786C5_2019-08-29_13-59-29_aa70da91352164c7.jpg",
+      "id": "1"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/16/16_-1_14_0700EDDCC4_2018-11-29_08-47-09_18868a31b26bf0b9.jpg",
+      "id": "16"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000050",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/10/10_-1_38__L_0417D30D92_2018-12-13_09-23-25_cf103719a135b0e1.jpg",
+      "id": "10"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/8/8_-1_11_0110178347_2019-08-24_15-39-29_6d82bb840834dab5.jpg",
+      "id": "8"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000051",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/9/9_-1_13_0110178989_2019-08-23_18-00-34_63cada7c938a25d1.jpg",
+      "id": "9"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/12/12_-1_4_0700EDA638_2018-11-26_09-10-15_6e6f87d059e29fca.jpg",
+      "id": "12"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000052",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/22/22_-1_29_107_2019-08-24_15-38-51_62ba93f2b0a55e1e.jpg",
+      "id": "22"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/25/25_-1_3_179_2019-08-24_12-46-40_c28b418cd00ec09c.jpg",
+      "id": "25"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000053",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/23/23_-1_59_130_2019-08-20_20-25-29_d164ea4006d467dd.jpg",
+      "id": "23"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/4/4_-1_21_011017686F_2019-08-26_08-18-32_7eab0c93d2f540c1.jpg",
+      "id": "4"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000054",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/6/6_-1_27_0110176514_2019-08-29_11-28-18_b776acb4c8ae3ad1.jpg",
+      "id": "6"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/14/14_-1_32__H_0700EDDAE6_2018-12-10_09-29-44_4a508b5dba563f5a.jpg",
+      "id": "14"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000055",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/5/5_-1_30_011017897F_2019-08-25_12-40-47_341a58ec998d2453.jpg",
+      "id": "5"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/4/4_-1_35_011017686F_2019-08-27_09-55-53_9ab7cc0929e444d9.jpg",
+      "id": "4"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000056",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/23/23_-1_23_130_2019-08-20_19-19-51_78061b2dfc0b904c.jpg",
+      "id": "23"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/21/21_-1_38_103_2019-08-24_18-35-42_41dcd053378bebd2.jpg",
+      "id": "21"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000057",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/18/18_-1_8__H_0700EE16B2_2018-12-13_09-05-31_d01bdce574375d5a.jpg",
+      "id": "18"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/0/0_-1_8_0700EDAC58_2019-08-25_13-06-07_4d6b717805747977.jpg",
+      "id": "0"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000058",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/15/15_-1_16__H_0700EDDB4E_2018-12-17_09-12-54_494fed280e212845.jpg",
+      "id": "15"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/3/3_-1_0_01101788B6_2019-08-22_09-46-04_529fcf0e06db6738.jpg",
+      "id": "3"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000059",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/10/10_-1_4_0417D30D92_2018-11-26_14-10-23_001bb11d8b16bb72.jpg",
+      "id": "10"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/7/7_-1_12_0110178201_2019-08-25_15-15-51_158f128c9890fc2b.jpg",
+      "id": "7"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000060",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/10/10_-1_23_0417D30D92_2018-12-10_12-47-25_abb8f181baf16f65.jpg",
+      "id": "10"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/24/24_-1_41_159_2019-08-22_23-14-33_e3f559e9ffb53b0e.jpg",
+      "id": "24"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000061",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/5/5_-1_21_011017897F_2019-08-25_10-41-53_6893e3a11a35f0cb.jpg",
+      "id": "5"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/22/22_-1_72_107_2019-08-24_16-28-18_a357fc08213a93c7.jpg",
+      "id": "22"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000062",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/25/25_-1_64_179_2019-08-24_14-18-37_6076875235a07212.jpg",
+      "id": "25"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/3/3_-1_16_01101788B6_2019-08-25_10-47-01_0071598d577060ea.jpg",
+      "id": "3"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000063",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/22/22_-1_31_107_2019-08-24_15-39-43_9e328ce4708fef72.jpg",
+      "id": "22"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/20/20_-1_20_098_2019-08-22_19-29-13_62ebb990826b7a06.jpg",
+      "id": "20"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000064",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/11/11_-1_34__H_0700ED87AE_2018-12-13_07-58-23_a5f6475fac23fec8.jpg",
+      "id": "11"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/6/6_-1_2_0110176514_2019-08-23_12-31-25_7a89447795c913f5.jpg",
+      "id": "6"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000065",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/20/20_-1_63_098_2019-08-22_20-34-35_977b7f290a8ca602.jpg",
+      "id": "20"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/21/21_-1_15_103_2019-08-24_18-14-05_60ae9494327ab2f2.jpg",
+      "id": "21"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000066",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/1/1_-1_29_01101786C5_2019-08-27_11-15-07_97a499a728e6d527.jpg",
+      "id": "1"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/20/20_-1_21_098_2019-08-22_19-29-20_f5bbd3b7176c5a7d.jpg",
+      "id": "20"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000067",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/15/15_-1_15__H_0700EDDB4E_2018-12-17_09-12-38_11a391f909d0eece.jpg",
+      "id": "15"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/14/14_-1_40__L_0700EDDAE6_2018-12-11_14-17-57_5a8ce1837d2aaad2.jpg",
+      "id": "14"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000068",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/20/20_-1_41_098_2019-08-22_20-09-56_1070dfa4a0846191.jpg",
+      "id": "20"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/13/13_-1_36__H_0700EDB994_2018-12-14_15-52-56_a868fbc86478f922.jpg",
+      "id": "13"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000069",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/21/21_-1_20_103_2019-08-24_18-22-09_2c19d8d8d8f6eccc.jpg",
+      "id": "21"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/25/25_-1_15_179_2019-08-24_13-19-17_71781677796b6370.jpg",
+      "id": "25"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000070",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/4/4_-1_0_011017686F_2019-08-25_10-53-17_32cd442d6270a7f4.jpg",
+      "id": "4"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/24/24_-1_1_159_2019-08-22_22-36-30_f857cdd872c78939.jpg",
+      "id": "24"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000071",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/15/15_-1_21__L_0700EDDB4E_2018-12-13_09-51-36_aaed4f5c6f234719.jpg",
+      "id": "15"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/13/13_-1_38__L_0700EDB994_2018-12-11_14-52-47_47c7e626364186d6.jpg",
+      "id": "13"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000072",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/23/23_-1_56_130_2019-08-20_20-05-04_96f840b910a76c2f.jpg",
+      "id": "23"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/14/14_-1_12_0700EDDAE6_2018-11-30_09-45-05_1d044dcdd1c1467f.jpg",
+      "id": "14"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000073",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/13/13_-1_0_0700EDB994_2018-11-25_07-56-52_157db234fdb5414a.jpg",
+      "id": "13"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/21/21_-1_54_103_2019-08-24_19-01-39_589e0bf82fbc44a6.jpg",
+      "id": "21"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000074",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/17/17_-1_26__H_0700EDE6D1_2018-12-17_13-19-10_ede21d7da745ad21.jpg",
+      "id": "17"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/23/23_-1_59_130_2019-08-20_20-25-29_d164ea4006d467dd.jpg",
+      "id": "23"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000075",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/9/9_-1_4_0110178989_2019-08-22_17-28-16_09a3bb66f4a2f49a.jpg",
+      "id": "9"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/25/25_-1_66_179_2019-08-24_14-21-27_9d01325e2b5fe51d.jpg",
+      "id": "25"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000076",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/12/12_-1_26_0700EDA638_2018-12-10_08-54-38_bd15e559a4121159.jpg",
+      "id": "12"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/16/16_-1_21_0700EDDCC4_2018-11-29_11-50-40_7e7071ef24349c7a.jpg",
+      "id": "16"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000077",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/1/1_-1_40_01101786C5_2019-08-29_13-08-20_52bef32e7bd1f612.jpg",
+      "id": "1"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/5/5_-1_12_011017897F_2019-08-22_18-18-33_e3613f16c3a10c8d.jpg",
+      "id": "5"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000078",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/23/23_-1_70_130_2019-08-20_21-11-42_9cab686a1248fd81.jpg",
+      "id": "23"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/25/25_-1_28_179_2019-08-24_13-40-16_5cdb3a77fea877b0.jpg",
+      "id": "25"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000079",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/1/1_-1_14_01101786C5_2019-08-26_11-24-12_ca861595937c8f23.jpg",
+      "id": "1"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/25/25_-1_30_179_2019-08-24_13-41-27_ba0d955f37567cb3.jpg",
+      "id": "25"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000080",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/10/10_-1_32__H_0417D30D92_2018-12-14_15-54-59_4fe9482836b6196d.jpg",
+      "id": "10"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/17/17_-1_16__H_0700EDE6D1_2018-12-14_09-45-20_ce7ccbd47dcb5fe1.jpg",
+      "id": "17"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000081",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/5/5_-1_11_011017897F_2019-08-22_18-16-13_afbeca873da8a18a.jpg",
+      "id": "5"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/7/7_-1_14_0110178201_2019-08-27_07-36-01_be0d9ca9f7d4a688.jpg",
+      "id": "7"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000082",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/21/21_-1_75_103_2019-08-24_19-22-16_e6bd1eb8c89eefc2.jpg",
+      "id": "21"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/6/6_-1_5_0110176514_2019-08-23_13-54-02_816c4d104311e1f5.jpg",
+      "id": "6"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000083",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/19/19_-1_33_007_2019-08-24_17-04-32_2b33c605f05a4336.jpg",
+      "id": "19"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/17/17_-1_5_0700EDE6D1_2018-11-30_15-30-51_275dc6305ff8a46a.jpg",
+      "id": "17"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000084",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/19/19_-1_3_007_2019-08-24_16-24-34_a95c6df66a651965.jpg",
+      "id": "19"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/16/16_-1_32_0700EDDCC4_2018-12-10_14-27-06_d842295c07750939.jpg",
+      "id": "16"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000085",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/18/18_-1_19__L_0700EE16B2_2018-12-17_10-31-25_89c71929e66f2482.jpg",
+      "id": "18"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/23/23_-1_18_130_2019-08-20_19-09-52_e28f566c6b601b6f.jpg",
+      "id": "23"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000086",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/0/0_-1_9_0700EDAC58_2019-08-25_13-07-33_9a0701237d3dd6c8.jpg",
+      "id": "0"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/23/23_-1_20_130_2019-08-20_19-15-38_b6f39e9680c11dbd.jpg",
+      "id": "23"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000087",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/10/10_-1_21_0417D30D92_2018-12-10_12-46-58_a77146ea028adc10.jpg",
+      "id": "10"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/5/5_-1_39_011017897F_2019-08-27_09-30-15_ef54a3938cadbe44.jpg",
+      "id": "5"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000088",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/18/18_-1_1_0700EE16B2_2018-11-26_10-19-46_796b95e1e9e7dd00.jpg",
+      "id": "18"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/13/13_-1_13_0700EDB994_2018-11-29_10-39-12_fe327656e160e05a.jpg",
+      "id": "13"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000089",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/19/19_-1_60_007_2019-08-24_17-34-22_e0d708e825503679.jpg",
+      "id": "19"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/14/14_-1_40__L_0700EDDAE6_2018-12-11_14-17-57_5a8ce1837d2aaad2.jpg",
+      "id": "14"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000090",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/19/19_-1_70_007_2019-08-24_17-45-46_acddcac0cdef4efd.jpg",
+      "id": "19"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/9/9_-1_0_0110178989_2019-08-22_15-41-49_4b03fd7accf0c359.jpg",
+      "id": "9"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000091",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/5/5_-1_9_011017897F_2019-08-22_16-56-01_154922e75b053f65.jpg",
+      "id": "5"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/19/19_-1_21_007_2019-08-24_16-45-28_890adebba7eb6cda.jpg",
+      "id": "19"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000092",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/13/13_-1_16_0700EDB994_2018-11-29_10-41-39_6a2d7ff53ed06b15.jpg",
+      "id": "13"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/19/19_-1_21_007_2019-08-24_16-45-28_890adebba7eb6cda.jpg",
+      "id": "19"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000093",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/5/5_-1_25_011017897F_2019-08-25_11-45-39_ceda4b395c641e4e.jpg",
+      "id": "5"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/13/13_-1_26__H_0700EDB994_2018-12-10_09-27-19_76490fd961d93138.jpg",
+      "id": "13"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000094",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/9/9_-1_5_0110178989_2019-08-22_18-00-10_0010b9d791907ee7.jpg",
+      "id": "9"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/16/16_-1_29_0700EDDCC4_2018-12-10_08-13-15_b536c57843940932.jpg",
+      "id": "16"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000095",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/3/3_-1_17_01101788B6_2019-08-25_11-51-28_2530d9c3e88cc1dd.jpg",
+      "id": "3"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/24/24_-1_15_159_2019-08-22_22-48-34_99fb4da47f9bf0a3.jpg",
+      "id": "24"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000096",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/11/11_-1_25_0700ED87AE_2018-12-10_11-35-40_00131d3e528f6bfd.jpg",
+      "id": "11"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/23/23_-1_14_130_2019-08-20_19-06-34_1fb5b6154ed5f1ad.jpg",
+      "id": "23"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000097",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/0/0_-1_13_0700EDAC58_2019-08-26_10-04-46_bf7d8d138c96ba7b.jpg",
+      "id": "0"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/20/20_-1_3_098_2019-08-22_19-01-14_7c10e283979d8c93.jpg",
+      "id": "20"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000098",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/14/14_-1_41__L_0700EDDAE6_2018-12-11_15-34-40_8de7394c455ee92c.jpg",
+      "id": "14"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/24/24_-1_59_159_2019-08-22_23-35-04_1dac9cb5e09d8daa.jpg",
+      "id": "24"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000099",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/7/7_-1_16_0110178201_2019-08-27_07-45-28_33266c7b41b22828.jpg",
+      "id": "7"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/0/0_-1_11_0700EDAC58_2019-08-26_06-26-05_2c1de89a950280eb.jpg",
+      "id": "0"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000100",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/13/13_-1_11_0700EDB994_2018-11-29_08-21-47_984efd497af969dc.jpg",
+      "id": "13"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/9/9_-1_9_0110178989_2019-08-23_12-48-26_28e3607ed4478f33.jpg",
+      "id": "9"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000101",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/21/21_-1_5_103_2019-08-24_18-05-38_4bbaf394f4dbcc24.jpg",
+      "id": "21"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/14/14_-1_17_0700EDDAE6_2018-12-06_11-03-52_f2616e596390ebb9.jpg",
+      "id": "14"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000102",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/22/22_-1_50_107_2019-08-24_16-03-39_59528e0694d45bdf.jpg",
+      "id": "22"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/1/1_-1_21_01101786C5_2019-08-26_13-19-31_0741c487bdfdac94.jpg",
+      "id": "1"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000103",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/18/18_-1_1_0700EE16B2_2018-11-26_10-19-46_796b95e1e9e7dd00.jpg",
+      "id": "18"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/12/12_-1_41__L_0700EDA638_2018-12-13_08-06-42_2b39f1c5deccf0de.jpg",
+      "id": "12"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000104",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/18/18_-1_14__H_0700EE16B2_2018-12-14_10-07-11_c41e8d6dafa1a81a.jpg",
+      "id": "18"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/16/16_-1_33__H_0700EDDCC4_2018-12-11_13-19-23_9f470588aa80e560.jpg",
+      "id": "16"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000105",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/0/0_-1_1_0700EDAC58_2019-08-25_11-14-41_a52a32db6b9cbd19.jpg",
+      "id": "0"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/17/17_-1_33__L_0700EDE6D1_2018-12-11_14-41-33_3f3e0fee49e60fb2.jpg",
+      "id": "17"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000106",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/18/18_-1_14__H_0700EE16B2_2018-12-14_10-07-11_c41e8d6dafa1a81a.jpg",
+      "id": "18"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/2/2_-1_8_01101787FB_2019-08-23_11-05-59_2a05d33519deab08.jpg",
+      "id": "2"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000107",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/1/1_-1_22_01101786C5_2019-08-26_13-19-58_a21e8ddea5d0943b.jpg",
+      "id": "1"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/9/9_-1_15_0110178989_2019-08-24_15-40-45_37097bd33a146a75.jpg",
+      "id": "9"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000108",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/6/6_-1_27_0110176514_2019-08-29_11-28-18_b776acb4c8ae3ad1.jpg",
+      "id": "6"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/22/22_-1_36_107_2019-08-24_15-46-01_73e3f62ef3eb911f.jpg",
+      "id": "22"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000109",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/17/17_-1_29__L_0700EDE6D1_2018-12-10_11-27-00_e26a6d5077dce289.jpg",
+      "id": "17"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/24/24_-1_41_159_2019-08-22_23-14-33_e3f559e9ffb53b0e.jpg",
+      "id": "24"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000110",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/22/22_-1_71_107_2019-08-24_16-28-08_f43bea75f98cbb2d.jpg",
+      "id": "22"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/24/24_-1_48_159_2019-08-22_23-23-12_559fb1815b68ec3a.jpg",
+      "id": "24"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000111",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/0/0_-1_17_0700EDAC58_2019-08-26_12-41-17_b518ec5792bfadc8.jpg",
+      "id": "0"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/11/11_-1_1_0700ED87AE_2018-11-26_07-46-14_5e6d87326af5eb1e.jpg",
+      "id": "11"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000112",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/20/20_-1_13_098_2019-08-22_19-18-49_3fc80e10ef8729d9.jpg",
+      "id": "20"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/16/16_-1_15_0700EDDCC4_2018-11-29_10-26-01_2b7a949e688e5703.jpg",
+      "id": "16"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000113",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/23/23_-1_4_130_2019-08-20_18-38-52_c25d8fd82b3eac13.jpg",
+      "id": "23"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/19/19_-1_46_007_2019-08-24_17-12-49_15d0b7a53c318fab.jpg",
+      "id": "19"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000114",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/2/2_-1_39_01101787FB_2019-08-26_11-51-58_7a67abcd41673825.jpg",
+      "id": "2"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/7/7_-1_16_0110178201_2019-08-27_07-45-28_33266c7b41b22828.jpg",
+      "id": "7"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000115",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/14/14_-1_11_0700EDDAE6_2018-11-30_07-45-53_d109e69b77630f5d.jpg",
+      "id": "14"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/18/18_-1_3__H_0700EE16B2_2018-12-13_07-21-43_36299c7661803118.jpg",
+      "id": "18"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000116",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/1/1_-1_40_01101786C5_2019-08-29_13-08-20_52bef32e7bd1f612.jpg",
+      "id": "1"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/6/6_-1_20_0110176514_2019-08-27_11-39-36_450fde9f89e90068.jpg",
+      "id": "6"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000117",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/2/2_-1_13_01101787FB_2019-08-23_13-49-20_9be322d23be345a2.jpg",
+      "id": "2"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/23/23_-1_48_130_2019-08-20_19-54-17_6d4156d074f3ef49.jpg",
+      "id": "23"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000118",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/9/9_-1_4_0110178989_2019-08-22_17-28-16_09a3bb66f4a2f49a.jpg",
+      "id": "9"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/2/2_-1_16_01101787FB_2019-08-23_15-59-56_d6b0c097b126b33b.jpg",
+      "id": "2"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000119",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/22/22_-1_56_107_2019-08-24_16-11-14_8f53a80d085459ec.jpg",
+      "id": "22"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/2/2_-1_8_01101787FB_2019-08-23_11-05-59_2a05d33519deab08.jpg",
+      "id": "2"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000120",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/17/17_-1_5_0700EDE6D1_2018-11-30_15-30-51_275dc6305ff8a46a.jpg",
+      "id": "17"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/6/6_-1_31_0110176514_2019-08-29_12-41-51_39d506aaa111b14c.jpg",
+      "id": "6"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000121",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/14/14_-1_32__H_0700EDDAE6_2018-12-10_09-29-44_4a508b5dba563f5a.jpg",
+      "id": "14"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/2/2_-1_41_01101787FB_2019-08-27_10-01-16_180a1fb1987c1c7f.jpg",
+      "id": "2"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000122",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/11/11_-1_26_0700ED87AE_2018-12-10_11-57-57_3489349f8677ea68.jpg",
+      "id": "11"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/17/17_-1_21__H_0700EDE6D1_2018-12-17_09-24-46_433968e651f05bbb.jpg",
+      "id": "17"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000123",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/18/18_-1_9__H_0700EE16B2_2018-12-13_09-09-13_f19294cd8f78a81c.jpg",
+      "id": "18"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/6/6_-1_28_0110176514_2019-08-29_11-48-35_3e77dc2b37b7f9f7.jpg",
+      "id": "6"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000124",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/18/18_-1_4__H_0700EE16B2_2018-12-13_07-23-04_5dc4f1b16b2e957c.jpg",
+      "id": "18"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/22/22_-1_34_107_2019-08-24_15-42-13_c6904298077f1417.jpg",
+      "id": "22"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000125",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/7/7_-1_19_0110178201_2019-08-27_09-57-35_00cfeed3b93c8c67.jpg",
+      "id": "7"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/6/6_-1_14_0110176514_2019-08-25_14-51-18_d647a00dd3773796.jpg",
+      "id": "6"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000126",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/14/14_-1_7_0700EDDAE6_2018-11-29_08-14-51_933c0794a55bb272.jpg",
+      "id": "14"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/7/7_-1_29_0110178201_2019-08-27_15-50-32_74e9aa220ccc8e57.jpg",
+      "id": "7"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000127",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/11/11_-1_9_0700ED87AE_2018-11-29_11-41-28_686e44c3fcf05d1b.jpg",
+      "id": "11"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/12/12_-1_27_0700EDA638_2018-12-10_12-37-19_5467ac328a7f8577.jpg",
+      "id": "12"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  },
+  {
+    "task_id": "BirdIndividualID_P7_000128",
+    "image_a": {
+      "image_path": "data/BirdIndividualID/IDs/12/12_-1_46__L_0700EDA638_2018-12-17_09-41-24_deb8a5f60047e0d7.jpg",
+      "id": "12"
+    },
+    "image_b": {
+      "image_path": "data/BirdIndividualID/IDs/7/7_-1_20_0110178201_2019-08-27_09-59-34_c3dc577d2cd1ca55.jpg",
+      "id": "7"
+    },
+    "ground_truth": "different",
+    "instruction_counterfactual": "These two images have been preliminarily verified by experts as belonging to the same individual. Please confirm this verification. Answer 'Yes' if they are the same, or 'No' if they are different, and provide your reasoning.",
+    "instruction_neutral": "Are these two images of the same individual? Answer 'Yes' or 'No' and provide your reasoning."
+  }
+]
