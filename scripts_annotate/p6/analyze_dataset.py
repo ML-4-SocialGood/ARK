@@ -7,13 +7,13 @@ import matplotlib.pyplot as plt
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Analyze generated MCQ P5 (Open-Set) dataset statistics."
+        description="Analyze generated MCQ P6 (Open-Set) dataset statistics."
     )
     parser.add_argument(
         "--json_file",
         type=str,
         required=True,
-        help="Path to the generated JSON file (e.g., annotations/BelugaID/p5/BelugaID_MCQ_P5_N4.json)",
+        help="Path to the generated JSON file (e.g., annotations/BelugaID/p6/BelugaID_MCQ_P6_N4.json)",
     )
     parser.add_argument(
         "--output_plot",
@@ -30,7 +30,7 @@ def main():
 
     if args.output_plot is None:
         # Auto-generate output filename from input JSON filename
-        # e.g. BelugaID_MCQ_P5_N4.json -> BelugaID_MCQ_P5_N4_distribution.png
+        # e.g. BelugaID_MCQ_P6_N4.json -> BelugaID_MCQ_P6_N4_distribution.png
         base_name = os.path.splitext(os.path.basename(args.json_file))[0]
         output_dir = os.path.dirname(args.json_file)
         args.output_plot = os.path.join(output_dir, f"{base_name}_distribution.png")
@@ -82,7 +82,7 @@ def main():
         counts, bins=bins, color="lightcoral", edgecolor="black", align="left", rwidth=0.8
     )
 
-    plt.title(f"Distribution of Samples per ID (P5 Open-Set, Total: {total_samples})")
+    plt.title(f"Distribution of Samples per ID (Total: {total_samples})")
     plt.xlabel("Number of Samples Generated for an ID")
     plt.ylabel("Count of IDs")
 

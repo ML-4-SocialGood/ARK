@@ -15,7 +15,7 @@ class OpenSetSampler:
         max_jaccard_sim: Optional[float] = None,
     ):
         """
-        Initialize the OpenSetSampler for Protocol 5 (Open-set Reliability).
+        Initialize the OpenSetSampler for Protocol 6 (Open-set Reliability).
 
         In this protocol, the Query ID is NOT present in the Gallery.
         The Gallery consists of N negative samples (distractors).
@@ -79,7 +79,7 @@ class OpenSetSampler:
             self.valid_query_ids.append(id_name)
 
         self.valid_query_ids.sort()
-        print("Initialization Complete (Protocol 5 - Open Set).")
+        print("Initialization Complete (Protocol 6 - Open Set).")
         print(f"Found {len(self.valid_query_ids)} valid IDs.")
 
     def _calculate_adaptive_jaccard_threshold(self) -> float:
@@ -213,7 +213,7 @@ class OpenSetSampler:
         answer = none_option_label
 
         return {
-            "task_id": f"{self.dataset_name}_MCQ_P5_{self.sample_counter:06d}",
+            "task_id": f"{self.dataset_name}_MCQ_P6_{self.sample_counter:06d}",
             "query": {"image_path": query_img, "ground_truth_id": query_id},
             "gallery": formatted_gallery,
             "answer": answer,

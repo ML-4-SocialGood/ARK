@@ -5,7 +5,7 @@ import sys
 # Ensure imports work when running from project root
 sys.path.append(os.getcwd())
 
-from scripts.p5.sampler import OpenSetSampler
+from scripts_annotate.p6.sampler import OpenSetSampler
 
 if __name__ == "__main__":
     # Test configuration
@@ -13,7 +13,7 @@ if __name__ == "__main__":
     # You might need to change this path depending on where your data is located
     test_data_dir = "data/BelugaID/IDs"
 
-    print(f"Testing OpenSetSampler (Protocol 5) with data_dir: {test_data_dir}")
+    print(f"Testing OpenSetSampler (Protocol 6) with data_dir: {test_data_dir}")
 
     if not os.path.exists(test_data_dir):
         print(f"Error: Data directory {test_data_dir} does not exist.")
@@ -23,7 +23,7 @@ if __name__ == "__main__":
         sys.exit(1)
 
     # Test different gallery sizes
-    # Note: In P5, gallery_size N refers to the number of distractors.
+    # Note: In P6, gallery_size N refers to the number of distractors.
     # The total options presented to the model will be N + 1 (None of the above).
     test_gallery_sizes = [4, 8]
 

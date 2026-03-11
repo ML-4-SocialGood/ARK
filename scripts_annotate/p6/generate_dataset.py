@@ -7,12 +7,12 @@ import sys
 # Ensure imports work when running from project root
 sys.path.append(os.getcwd())
 
-from scripts.p5.sampler import OpenSetSampler
+from scripts_annotate.p6.sampler import OpenSetSampler
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate MCQ Dataset for Animal Re-ID (Protocol 5: Open-set Reliability)"
+        description="Generate MCQ Dataset for Animal Re-ID (Protocol 6: Open-set Reliability)"
     )
     parser.add_argument(
         "--dataset_name",
@@ -63,7 +63,7 @@ def main():
     # Set random seed
     random.seed(args.seed)
 
-    print(f"Initializing P5 Sampler (Open-set) for {args.dataset_name}...")
+    print(f"Initializing P6 Sampler (Open-set) for {args.dataset_name}...")
     try:
         sampler = OpenSetSampler(
             dataset_name=args.dataset_name,
@@ -105,11 +105,11 @@ def main():
     print(f"\nTotal generated: {len(generated_samples)} samples.")
 
     # Construct output path
-    output_subdir = os.path.join(args.output_dir, args.dataset_name, "p5")
+    output_subdir = os.path.join(args.output_dir, args.dataset_name, "p6")
     os.makedirs(output_subdir, exist_ok=True)
 
-    # Filename format: {Species}_MCQ_P5_N{N}.json
-    output_filename = f"{args.dataset_name}_MCQ_P5_N{args.gallery_size}.json"
+    # Filename format: {Species}_MCQ_P6_N{N}.json
+    output_filename = f"{args.dataset_name}_MCQ_P6_N{args.gallery_size}.json"
     output_path = os.path.join(output_subdir, output_filename)
 
     with open(output_path, "w") as f:

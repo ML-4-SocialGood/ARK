@@ -35,7 +35,7 @@ def verify_task(task: Dict[str, Any], n_val: int, data_root: str) -> List[str]:
                 f"Task {task_id}: Gallery size mismatch. Expected {expected_len} (N={n_val}+1), got {len(gallery)}."
             )
 
-    # 3. Protocol 5 Specific Logic: Open Set / Negative Query
+    # 3. Protocol 6 Specific Logic: Open Set / Negative Query
     
     # A. Ensure GT ID is NOT in gallery
     for opt in gallery:
@@ -76,24 +76,24 @@ def verify_task(task: Dict[str, Any], n_val: int, data_root: str) -> List[str]:
 
 
 def verify_dataset(dataset_name: str, annotations_dir: str, data_root: str) -> bool:
-    p5_dir = os.path.join(annotations_dir, dataset_name, "p5")
-    if not os.path.exists(p5_dir):
-        print(f"  [SKIP] P5 directory not found: {p5_dir}")
+    p6_dir = os.path.join(annotations_dir, dataset_name, "p6")
+    if not os.path.exists(p6_dir):
+        print(f"  [SKIP] P6 directory not found: {p6_dir}")
         return True
 
-    print(f"Verifying P5 dataset for {dataset_name}...")
+    print(f"Verifying P6 dataset for {dataset_name}...")
     
-    # Look for {Species}_MCQ_P5_N{N}.json
-    json_files = [f for f in os.listdir(p5_dir) if f.endswith(".json") and "_P5_" in f]
+    # Look for {Species}_MCQ_P6_N{N}.json
+    json_files = [f for f in os.listdir(p6_dir) if f.endswith(".json") and "_P6_" in f]
 
     if not json_files:
-        print("  No valid P5 JSON files found.")
+        print("  No valid P6 JSON files found.")
         return True
 
     total_errors = 0
 
     for f in sorted(json_files):
-        file_path = os.path.join(p5_dir, f)
+        file_path = os.path.join(p6_dir, f)
         
         # Extract N
         match = re.search(r"_N(\d+)\.json$", f)
@@ -128,7 +128,7 @@ def verify_dataset(dataset_name: str, annotations_dir: str, data_root: str) -> b
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Verify P5 (Open-Set) Dataset Integrity")
+    parser = argparse.ArgumentParser(description="Verify P6 (Open-Set) Dataset Integrity")
     parser.add_argument("--dataset_name", type=str, default=None)
     parser.add_argument("--annotations_dir", type=str, default="annotations")
     parser.add_argument("--data_root", type=str, default=".")
@@ -151,7 +151,7 @@ def main():
         print(f"\nVerification FAILED for: {', '.join(failed)}")
         sys.exit(1)
     else:
-        print("\nAll P5 datasets passed verification.")
+        print("\nAll P6 datasets passed verification.")
 
 if __name__ == "__main__":
     main()

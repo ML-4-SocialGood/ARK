@@ -21,7 +21,7 @@ def analyze_file(file_path):
     filename = os.path.basename(file_path)
 
     # Extract N from filename
-    # Expected format: {Species}_MCQ_P5_N{N}.json
+    # Expected format: {Species}_MCQ_P6_N{N}.json
     match = re.search(r"_N(\d+)\.json$", filename)
     if match:
         n_val = int(match.group(1))
@@ -33,7 +33,7 @@ def analyze_file(file_path):
     total_tasks = len(data)
 
     # Extract ground truth IDs to calculate distribution
-    # In P5, query structure is: "query": {"image_path": "...", "ground_truth_id": "..."}
+    # In P6, query structure is: "query": {"image_path": "...", "ground_truth_id": "..."}
     ground_truth_ids = []
     for task in data:
         if "query" in task and "ground_truth_id" in task["query"]:
@@ -56,13 +56,13 @@ def analyze_file(file_path):
         avg_samples = 0
 
     # Infer dataset name from directory structure
-    # annotations/{DatasetName}/p5/filename
+    # annotations/{DatasetName}/p6/filename
     parent_dir = os.path.dirname(os.path.dirname(file_path))
     dataset_name = os.path.basename(parent_dir)
 
     return {
         "Dataset": dataset_name,
-        "Protocol": "P5 (Open-Set)",
+        "Protocol": "P6 (Open-Set)",
         "Gallery Size (N)": n_val,
         "Total Tasks": total_tasks,
         "Unique IDs": unique_ids,
@@ -75,12 +75,12 @@ def analyze_file(file_path):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate Excel Statistics for P5 (Open-Set) Annotations"
+        description="Generate Excel Statistics for P6 (Open-Set) Annotations"
     )
     
     # Determine default output path relative to this script
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    default_output = os.path.join(script_dir, "p5_dataset_stats.xlsx")
+    default_output = os.path.join(script_dir, "p6_dataset_stats.xlsx")
 
     parser.add_argument(
         "--annotations_dir",
@@ -102,13 +102,13 @@ def main():
         return
 
     all_stats = []
-    print(f"Scanning '{args.annotations_dir}' for P5 JSON files...")
+    print(f"Scanning '{args.annotations_dir}' for P6 JSON files...")
 
     for root, dirs, files in os.walk(args.annotations_dir):
-        # We are looking for files inside a 'p5' subdirectory
-        if os.path.basename(root) == "p5":
+        # We are looking for files inside a 'p6' subdirectory
+        if os.path.basename(root) == "p6":
             for file in files:
-                if file.endswith(".json") and "_P5_" in file:
+                if file.endswith(".json") and "_P6_" in file:
                     file_path = os.path.join(root, file)
                     print(f"  Processing: {file}", end="\r")
 
@@ -119,7 +119,7 @@ def main():
     print("\n" + "-" * 50)
 
     if not all_stats:
-        print("No valid P5 annotation files found.")
+        print("No valid P6 annotation files found.")
         return
 
     # Create DataFrame

@@ -10,8 +10,8 @@ def main():
     annotations_root = os.path.join(project_root, "annotations")
 
     # Scripts
-    generate_script = os.path.join(project_root, "scripts", "p5", "generate_dataset.py")
-    analyze_script = os.path.join(project_root, "scripts", "p5", "analyze_dataset.py")
+    generate_script = os.path.join(project_root, "scripts_annotate", "p6", "generate_dataset.py")
+    analyze_script = os.path.join(project_root, "scripts_annotate", "p6", "analyze_dataset.py")
 
     if not os.path.exists(data_root):
         print(f"Error: Data root directory '{data_root}' not found.")
@@ -26,7 +26,7 @@ def main():
             species_list.append(item)
     species_list.sort()
 
-    print(f"Found {len(species_list)} species for Protocol 5.")
+    print(f"Found {len(species_list)} species for Protocol 6.")
 
     # 2. Process each species
     for i, species in enumerate(species_list):
@@ -37,7 +37,7 @@ def main():
         gallery_sizes = [4, 8, 16, 32]
 
         for N in gallery_sizes:
-            print(f"  > Processing Gallery Size N={N} (Open Set)...")
+            print(f"  > Processing Gallery Size N={N} (Open Set Reliability)...")
 
             # --- Step 1: Generate ---
             gen_cmd = [
@@ -58,16 +58,16 @@ def main():
             try:
                 subprocess.run(gen_cmd, check=True)
             except subprocess.CalledProcessError as e:
-                print(f"    Error generating P5 for {species} (N={N}): {e}")
+                print(f"    Error generating P6 for {species} (N={N}): {e}")
                 continue
 
             # --- Step 2: Analyze ---
-            base_name = f"{species}_MCQ_P5_N{N}"
+            base_name = f"{species}_MCQ_P6_N{N}"
             json_file = os.path.join(
-                annotations_root, species, "p5", f"{base_name}.json"
+                annotations_root, species, "p6", f"{base_name}.json"
             )
             plot_file = os.path.join(
-                annotations_root, species, "p5", f"{base_name}_distribution.png"
+                annotations_root, species, "p6", f"{base_name}_distribution.png"
             )
 
             if os.path.exists(json_file):
@@ -87,7 +87,7 @@ def main():
             else:
                 print(f"    Warning: JSON file not found: {json_file}")
 
-    print("\nAll species processed for Protocol 5.")
+    print("\nAll species processed for Protocol 6.")
 
 
 if __name__ == "__main__":
