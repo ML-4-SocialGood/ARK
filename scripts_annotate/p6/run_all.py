@@ -12,6 +12,7 @@ def main():
     # Scripts
     generate_script = os.path.join(project_root, "scripts_annotate", "p6", "generate_dataset.py")
     analyze_script = os.path.join(project_root, "scripts_annotate", "p6", "analyze_dataset.py")
+    verify_script = os.path.join(project_root, "scripts_annotate", "p6", "verify_dataset.py")
 
     if not os.path.exists(data_root):
         print(f"Error: Data root directory '{data_root}' not found.")
@@ -86,6 +87,17 @@ def main():
                     print(f"    Error analyzing dataset for {species} (N={N}): {e}")
             else:
                 print(f"    Warning: JSON file not found: {json_file}")
+
+        # --- Step 3: Verify Dataset ---
+        print(f"  > Verifying P6 dataset for {species}...")
+        verify_cmd = [
+            sys.executable,
+            verify_script,
+            "--dataset_name", species,
+            "--annotations_dir", annotations_root,
+            "--data_root", project_root,
+        ]
+        subprocess.run(verify_cmd, check=False)
 
     print("\nAll species processed for Protocol 6.")
 
