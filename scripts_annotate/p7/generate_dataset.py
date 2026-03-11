@@ -1,5 +1,5 @@
 """
-Generate Dataset for Protocol 6: Counterfactual Discernment.
+Generate Dataset for Protocol 7: Counterfactual Discernment.
 """
 
 import argparse
@@ -11,12 +11,12 @@ import sys
 # Ensure imports work when running from project root
 sys.path.append(os.getcwd())
 
-from scripts.p6.sampler import CounterfactualSampler
+from scripts_annotate.p7.sampler import CounterfactualSampler
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate Dataset for Animal Re-ID (Protocol 6: Counterfactual Discernment)"
+        description="Generate Dataset for Animal Re-ID (Protocol 7: Counterfactual Discernment)"
     )
     parser.add_argument(
         "--dataset_name",
@@ -63,7 +63,7 @@ def main():
 
     random.seed(args.seed)
 
-    print(f"Initializing P6 Sampler (Counterfactual) for {args.dataset_name}...")
+    print(f"Initializing P7 Sampler (Counterfactual) for {args.dataset_name}...")
     try:
         sampler = CounterfactualSampler(
             dataset_name=args.dataset_name,
@@ -115,10 +115,10 @@ def main():
     print(f"\nTotal generated: {len(generated_samples)} samples.")
 
     # Construct output path
-    output_subdir = os.path.join(args.output_dir, args.dataset_name, "p6")
+    output_subdir = os.path.join(args.output_dir, args.dataset_name, "p7")
     os.makedirs(output_subdir, exist_ok=True)
 
-    output_filename = f"{args.dataset_name}_P6.json"
+    output_filename = f"{args.dataset_name}_P7.json"
     output_path = os.path.join(output_subdir, output_filename)
 
     with open(output_path, "w") as f:

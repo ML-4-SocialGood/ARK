@@ -10,8 +10,9 @@ def main():
     annotations_root = os.path.join(project_root, "annotations")
 
     # Scripts
-    generate_script = os.path.join(project_root, "scripts", "p6", "generate_dataset.py")
-    analyze_script = os.path.join(project_root, "scripts", "p6", "analyze_dataset.py")
+    generate_script = os.path.join(project_root, "scripts_annotate", "p7", "generate_dataset.py")
+    analyze_script = os.path.join(project_root, "scripts_annotate", "p7", "analyze_dataset.py")
+    verify_script = os.path.join(project_root, "scripts_annotate", "p7", "verify_dataset.py")
 
     if not os.path.exists(data_root):
         print(f"Error: Data root directory '{data_root}' not found.")
@@ -26,7 +27,7 @@ def main():
             species_list.append(item)
     species_list.sort()
 
-    print(f"Found {len(species_list)} species for Protocol 6.")
+    print(f"Found {len(species_list)} species for Protocol 7.")
 
     # 2. Process each species
     for i, species in enumerate(species_list):
@@ -34,7 +35,7 @@ def main():
         data_dir = os.path.join("data", species, "IDs")
 
         # --- Step 1: Generate ---
-        # Protocol 6 (Counterfactual) does not iterate over gallery sizes (N).
+        # Protocol 7 (Counterfactual) does not iterate over gallery sizes (N).
         # It generates a single dataset of negative pairs.
         gen_cmd = [
             sys.executable,
@@ -49,17 +50,17 @@ def main():
             "42",
         ]
 
-        print("  > Generating P6 (Counterfactual) dataset...")
+        print("  > Generating P7 (Counterfactual) dataset...")
         try:
             subprocess.run(gen_cmd, check=True)
         except subprocess.CalledProcessError as e:
-            print(f"    Error generating P6 for {species}: {e}")
+            print(f"    Error generating P7 for {species}: {e}")
             continue
 
         # --- Step 2: Analyze ---
-        base_name = f"{species}_P6"
-        json_file = os.path.join(annotations_root, species, "p6", f"{base_name}.json")
-        plot_file = os.path.join(annotations_root, species, "p6", f"{base_name}_distribution.png")
+        base_name = f"{species}_P7"
+        json_file = os.path.join(annotations_root, species, "p7", f"{base_name}.json")
+        plot_file = os.path.join(annotations_root, species, "p7", f"{base_name}_distribution.png")
 
         if os.path.exists(analyze_script):
             if os.path.exists(json_file):
@@ -81,7 +82,18 @@ def main():
         else:
             print(f"    Note: Analyze script not found at {analyze_script}")
 
-    print("\nAll species processed for Protocol 6.")
+        # --- Step 3: Verify Dataset ---
+        print(f"  > Verifying P7 dataset for {species}...")
+        verify_cmd = [
+            sys.executable,
+            verify_script,
+            "--dataset_name", species,
+            "--annotations_dir", annotations_root,
+            "--data_root", project_root,
+        ]
+        subprocess.run(verify_cmd, check=False)
+
+    print("\nAll species processed for Protocol 7.")
 
 
 if __name__ == "__main__":

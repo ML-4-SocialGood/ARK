@@ -1,5 +1,5 @@
 """
-Analyze P6 Dataset Statistics.
+Analyze P7 Dataset Statistics.
 """
 
 import argparse
@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Analyze generated P6 (Counterfactual) dataset statistics."
+        description="Analyze generated P7 (Counterfactual) dataset statistics."
     )
     parser.add_argument(
         "--json_file",
@@ -53,7 +53,7 @@ def main():
         return
 
     # 1. Count usage of IDs
-    # In P6, each task involves two IDs: image_a.id and image_b.id
+    # In P7, each task involves two IDs: image_a.id and image_b.id
     all_ids = []
     for item in data:
         if "image_a" in item and "id" in item["image_a"]:
@@ -87,7 +87,7 @@ def main():
     bins = range(min_usage, max_usage + 2)
 
     plt.hist(counts, bins=bins, color="mediumpurple", edgecolor="black", align="left", rwidth=0.8)
-    plt.title(f"Distribution of ID Usage in P6 (Total Pairs: {total_samples})")
+    plt.title(f"Distribution of ID Usage in P7 (Total Pairs: {total_samples})")
     plt.xlabel("Number of Times an ID was Used")
     plt.ylabel("Count of IDs")
     

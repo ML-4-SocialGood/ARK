@@ -1,5 +1,5 @@
 """
-Sampler for Protocol 6: Counterfactual Discernment.
+Sampler for Protocol 7: Counterfactual Discernment.
 Generates pairs of images from DIFFERENT IDs (Negative Pairs) to test model resilience to false claims.
 """
 
@@ -68,7 +68,7 @@ class CounterfactualSampler:
             self.valid_ids.append(id_name)
 
         self.valid_ids.sort()
-        print("Initialization Complete (Protocol 6 - Counterfactual).")
+        print("Initialization Complete (Protocol 7 - Counterfactual).")
         print(f"Found {len(self.valid_ids)} valid IDs.")
 
     def generate_sample(self) -> Optional[Dict[str, Any]]:
@@ -129,7 +129,7 @@ class CounterfactualSampler:
             self.sample_counter += 1
 
             return {
-                "task_id": f"{self.dataset_name}_P6_{self.sample_counter:06d}",
+                "task_id": f"{self.dataset_name}_P7_{self.sample_counter:06d}",
                 "image_a": {"image_path": img_a, "id": id_a},
                 "image_b": {"image_path": img_b, "id": id_b},
                 "ground_truth": "different",

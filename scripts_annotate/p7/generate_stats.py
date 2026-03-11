@@ -23,7 +23,7 @@ def analyze_file(file_path):
     total_tasks = len(data)
 
     # Extract IDs to calculate distribution
-    # In P6, we have image_a and image_b, both contribute to ID usage
+    # In P7, we have image_a and image_b, both contribute to ID usage
     all_ids = []
     for task in data:
         if "image_a" in task and "id" in task["image_a"]:
@@ -48,13 +48,13 @@ def analyze_file(file_path):
         avg_usage = 0
 
     # Infer dataset name from directory structure
-    # annotations/{DatasetName}/p6/filename
+    # annotations/{DatasetName}/p7/filename
     parent_dir = os.path.dirname(os.path.dirname(file_path))
     dataset_name = os.path.basename(parent_dir)
 
     return {
         "Dataset": dataset_name,
-        "Protocol": "P6 (Counterfactual)",
+        "Protocol": "P7 (Counterfactual)",
         "Total Pairs": total_tasks,
         "Unique IDs": unique_ids,
         "Min Usage/ID": min_usage,
@@ -66,12 +66,12 @@ def analyze_file(file_path):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate Excel Statistics for P6 (Counterfactual) Annotations"
+        description="Generate Excel Statistics for P7 (Counterfactual) Annotations"
     )
 
     # Determine default output path relative to this script
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    default_output = os.path.join(script_dir, "p6_dataset_stats.xlsx")
+    default_output = os.path.join(script_dir, "p7_dataset_stats.xlsx")
 
     parser.add_argument(
         "--annotations_dir",
@@ -93,13 +93,13 @@ def main():
         return
 
     all_stats = []
-    print(f"Scanning '{args.annotations_dir}' for P6 JSON files...")
+    print(f"Scanning '{args.annotations_dir}' for P7 JSON files...")
 
     for root, dirs, files in os.walk(args.annotations_dir):
-        # We are looking for files inside a 'p6' subdirectory
-        if os.path.basename(root) == "p6":
+        # We are looking for files inside a 'p7' subdirectory
+        if os.path.basename(root) == "p7":
             for file in files:
-                if file.endswith(".json") and "_P6" in file:
+                if file.endswith(".json") and "_P7" in file:
                     file_path = os.path.join(root, file)
                     print(f"  Processing: {file}", end="\r")
 
@@ -110,7 +110,7 @@ def main():
     print("\n" + "-" * 50)
 
     if not all_stats:
-        print("No valid P6 annotation files found.")
+        print("No valid P7 annotation files found.")
         return
 
     # Create DataFrame

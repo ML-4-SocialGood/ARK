@@ -1,5 +1,5 @@
 """
-Verify Dataset for Protocol 6: Counterfactual Discernment.
+Verify Dataset for Protocol 7: Counterfactual Discernment.
 Checks for file existence and ensures pairs are actually different IDs.
 """
 
@@ -38,7 +38,7 @@ def verify_task(task: Dict[str, Any], data_root: str) -> List[str]:
     # 2. Protocol Check: Must be different IDs
     if str(img_a["id"]) == str(img_b["id"]):
         errors.append(
-            f"Task {task_id}: PROTOCOL VIOLATION. IDs are identical ({img_a['id']}). P6 requires different IDs."
+            f"Task {task_id}: PROTOCOL VIOLATION. IDs are identical ({img_a['id']}). P7 requires different IDs."
         )
 
     if gt != "different":
@@ -55,23 +55,23 @@ def verify_task(task: Dict[str, Any], data_root: str) -> List[str]:
 
 
 def verify_dataset(dataset_name: str, annotations_dir: str, data_root: str) -> bool:
-    p6_dir = os.path.join(annotations_dir, dataset_name, "p6")
-    if not os.path.exists(p6_dir):
-        print(f"  [SKIP] P6 directory not found: {p6_dir}")
+    p7_dir = os.path.join(annotations_dir, dataset_name, "p7")
+    if not os.path.exists(p7_dir):
+        print(f"  [SKIP] P7 directory not found: {p7_dir}")
         return True
 
-    print(f"Verifying P6 dataset for {dataset_name}...")
+    print(f"Verifying P7 dataset for {dataset_name}...")
 
-    json_files = [f for f in os.listdir(p6_dir) if f.endswith(".json") and "_P6" in f]
+    json_files = [f for f in os.listdir(p7_dir) if f.endswith(".json") and "_P7" in f]
 
     if not json_files:
-        print("  No valid P6 JSON files found.")
+        print("  No valid P7 JSON files found.")
         return True
 
     total_errors = 0
 
     for f in sorted(json_files):
-        file_path = os.path.join(p6_dir, f)
+        file_path = os.path.join(p7_dir, f)
         print(f"  Checking {f}...")
 
         try:
@@ -102,7 +102,7 @@ def verify_dataset(dataset_name: str, annotations_dir: str, data_root: str) -> b
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Verify P6 (Counterfactual) Dataset Integrity"
+        description="Verify P7 (Counterfactual) Dataset Integrity"
     )
     parser.add_argument("--dataset_name", type=str, default=None)
     parser.add_argument("--annotations_dir", type=str, default="annotations")
@@ -132,7 +132,7 @@ def main():
         print(f"\nVerification FAILED for: {', '.join(failed)}")
         sys.exit(1)
     else:
-        print("\nAll P6 datasets passed verification.")
+        print("\nAll P7 datasets passed verification.")
 
 
 if __name__ == "__main__":

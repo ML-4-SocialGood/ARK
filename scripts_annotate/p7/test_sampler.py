@@ -5,7 +5,7 @@ import sys
 # Ensure imports work when running from project root
 sys.path.append(os.getcwd())
 
-from scripts.p6.sampler import CounterfactualSampler
+from scripts_annotate.p7.sampler import CounterfactualSampler
 
 if __name__ == "__main__":
     # Test configuration
@@ -13,7 +13,7 @@ if __name__ == "__main__":
     # You might need to change this path depending on where your data is located
     test_data_dir = "data/BelugaID/IDs"
 
-    print(f"Testing CounterfactualSampler (Protocol 6) with data_dir: {test_data_dir}")
+    print(f"Testing CounterfactualSampler (Protocol 7) with data_dir: {test_data_dir}")
 
     if not os.path.exists(test_data_dir):
         print(f"Error: Data directory {test_data_dir} does not exist.")
@@ -45,7 +45,7 @@ if __name__ == "__main__":
             # Check 1: IDs must be different (Core requirement of P6)
             if str(img_a["id"]) == str(img_b["id"]):
                 print(
-                    f"[FAIL] Protocol Violation: IDs are identical ({img_a['id']}). P6 requires Negative Pairs."
+                    f"[FAIL] Protocol Violation: IDs are identical ({img_a['id']}). P7 requires Negative Pairs."
                 )
             else:
                 print(
@@ -67,7 +67,7 @@ if __name__ == "__main__":
                 print("[FAIL] Image paths are not strings.")
 
             # Check 4: Task ID format
-            if "P6" in sample["task_id"]:
+            if "P7" in sample["task_id"]:
                 print(f"[PASS] Task ID contains protocol tag: {sample['task_id']}")
             else:
                 print(f"[FAIL] Task ID missing protocol tag: {sample['task_id']}")
