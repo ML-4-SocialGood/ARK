@@ -4,12 +4,9 @@ This toolkit provides scripts to run inference and evaluate Re-ID (Re-identifica
 
 ## Prerequisites
 
-1.  **Ollama**: Ensure Ollama is installed and running locally. You should pull the vision model you intend to use.
-    ```bash
-    # Example
-    ollama pull qwen3-vl:4b
-    ollama serve
-    ```
+1.  **Ollama**: Ensure Ollama is installed.
+    *   **HPC/Slurm Usage**: The provided `main.sh` script handles the Ollama server automatically (recommended for clusters).
+    *   **Local Usage**: You will need to run `ollama serve` manually.
 
 2.  **Python Dependencies**: Install the required Python packages.
     ```bash
@@ -18,12 +15,36 @@ This toolkit provides scripts to run inference and evaluate Re-ID (Re-identifica
 
 ## 1. Run Inference
 
-The `run_inference.py` script connects to the local Ollama instance, processes the tasks defined in the annotation file (including images), and saves the structured JSON results.
+The `run_inference.py` script connects to the Ollama instance, processes the tasks defined in the annotation file (including images), and saves the structured JSON results.
 
-### Usage
+### Method A: HPC / Slurm (Recommended)
+
+When running on a cluster, use `main.sh`. This script automatically starts a **private Ollama instance** for your job, ensuring proper GPU access and avoiding port conflicts.
+
+1.  **Configure `main.sh`**:
+    Edit the script to specify your model path (if needed) and inference arguments.
+    ```bash
+    # Inside main.sh:
+    export OLLAMA_HOST=127.0.0.1:11435           # Custom port
+    # export OLLAMA_MODELS=/path/to/models       # Uncomment if using custom model path
+
+    # Check the python command line for your specific task
+    python scripts_evaluate/run_inference.py ...
+    ```
+
+2.  **Submit Job**:
+    ```bash
+    sbatch main.sh
+    ```
+
+3.  **Logs**:
+    *   Job output: `ditest.log`
+    *   Ollama logs: `ollama_job.log`
+
+### Method B: Manual / Local Usage
 
 ```bash
-python scripts_eval/run_inference.py \
+python scripts_evaluate/run_inference.py \
     --species <SPECIES> \
     --protocol <PROTOCOL> \
     --annotation_file <PATH_TO_JSON> \
