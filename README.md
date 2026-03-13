@@ -98,3 +98,67 @@ python scripts_eval/evaluate.py --species BelugaID --protocol p1
 *   **Console**: Displays a summary table of Accuracy, Correct Counts, and Totals.
 *   **Summary File**: `results/<species>/<protocol>/evaluation_summary.json`
 *   **Detailed Report**: `results/<species>/<protocol>/predictions/<model_name>/evaluation_details.csv` (Contains row-by-row comparisons for debugging).
+
+---
+
+## Appendix: Ollama Remote Server Deployment Guide (Custom Path)
+
+This guide documents how to deploy Ollama on a remote server (e.g., research cluster) without root access, using a custom path for storage efficiency.
+
+### 1. Installation & Path Configuration
+To keep the `/home` directory clean and utilize data disks effectively:
+
+```bash
+# 1. Create and enter target directory
+export INSTALL_DIR="/data/dzha866/software/ollama"
+mkdir -p $INSTALL_DIR && cd $INSTALL_DIR
+
+# 2. Download binary package (x86_64)
+curl -L https://ollama.com/download/ollama-linux-amd64.tar.zst -o ollama-linux-amd64.tar.zst
+
+# 3. Extract to current directory
+# (Ensure zstd is installed or use unzstd if tar support is missing)
+tar --zstd -xf ollama-linux-amd64.tar.zst -C .
+
+# 4. Configure PATH (Add this to ~/.bashrc)
+echo "export PATH=\"$INSTALL_DIR/bin:\$PATH\"" >> ~/.bashrc
+source ~/.bashrc
+```
+
+### 2. Model Storage Configuration
+Ollama defaults to storing models on the system disk. For large models (e.g., Qwen-32B), redirect storage to the data partition:
+
+```bash
+# Set model storage location
+export OLLAMA_MODELS="/data/dzha866/software/ollama/models"
+mkdir -p $OLLAMA_MODELS
+```
+
+### 3. Start Service in Background
+Use `nohup` to keep the service running after SSH disconnects (useful for manual debugging or model downloading).
+
+```bash
+nohup ollama serve > $INSTALL_DIR/ollama.log 2>&1 &
+```
+
+### 4. Critical: Bypass Network Proxy
+If the server uses a global proxy (e.g., Squid), accessing localhost might fail (503 error). Set `no_proxy` before running commands.
+
+**Terminal:**
+```bash
+export no_proxy="localhost,127.0.0.1"
+export NO_PROXY="localhost,127.0.0.1"
+```
+
+**Or in Python Code:**
+```python
+import os
+os.environ['no_proxy'] = 'localhost,127.0.0.1'
+```
+
+### 5. Common Commands
+*   **Verify**: `ollama --version`
+*   **Check GPU**: Look for "discovering available GPUs" in `ollama.log`.
+*   **Download Model**: `ollama pull qwen3-vl:32b` (or `qwen2.5-vl:7b`)
+*   **Check Running**: `ollama ps`
+*   **Stop Service**: `pkill ollama`
