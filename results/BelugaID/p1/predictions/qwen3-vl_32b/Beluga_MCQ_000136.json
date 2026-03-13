@@ -1,0 +1,16 @@
+{
+    "task_id": "Beluga_MCQ_000136",
+    "ground_truth": "D",
+    "extracted_answer": "D",
+    "model": "qwen3-vl:32b",
+    "prompt": "Please retrieve the same individual as the query: <image> from the following options: Option A: <image>, Option B: <image>, Option C: <image>, Option D: <image>. Which option shows the same individual as the query image? Answer with only the single letter of the correct option (A, B, C, or D). Do not explain.",
+    "image_paths": [
+        "data/BelugaID/IDs/204/204_-1_1_test0661_6563.jpg",
+        "data/BelugaID/IDs/33/33_-1_0_test0565_6467.jpg",
+        "data/BelugaID/IDs/787/787_-1_0_test2895_8797.jpg",
+        "data/BelugaID/IDs/164/164_-1_0_test1227_7129.jpg",
+        "data/BelugaID/IDs/204/204_-1_2_test1641_7543.jpg"
+    ],
+    "prediction_text": "D",
+    "duration_seconds": 29.366013050079346
+}
