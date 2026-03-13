@@ -7,7 +7,7 @@ import json
 import base64
 import logging
 import io
-from typing import Optional
+from typing import Optional, Any
 
 from PIL import Image
 import requests
@@ -31,6 +31,11 @@ class OllamaClient:
         self.timeout = timeout
         self.api_endpoint = f"{host}/api/generate"
         self.headers = {"Content-Type": "application/json"}
+
+        # Automatically disable proxies for localhost to avoid issues with system proxies
+        self.proxies: Any = None
+        if "localhost" in host or "127.0.0.1" in host:
+            self.proxies = {"http": None, "https": None}
 
     @retry(
         stop=stop_after_attempt(5),  # Retry up to 5 times
@@ -107,6 +112,7 @@ class OllamaClient:
                 headers=self.headers,
                 data=json.dumps(payload),
                 timeout=self.timeout,
+                proxies=self.proxies,
             )
             response.raise_for_status()
             return response.json()
@@ -121,7 +127,7 @@ class OllamaClient:
         """Checks if the Ollama server is reachable."""
         try:
             # Ollama usually has a root endpoint or /api/tags
-            requests.get(self.host, timeout=5)
+            requests.get(self.host, timeout=5, proxies=self.proxies)
             return True
         except requests.exceptions.RequestException:
             return False
