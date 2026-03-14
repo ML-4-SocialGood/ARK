@@ -19,7 +19,7 @@ sys.path.append(os.getcwd())
 from scripts_evaluate.utils import ensure_directories, setup_logging
 
 
-def evaluate_model_directory(model_dir: Path) -> Optional[dict]:
+def evaluate_model_directory(model_dir: Path, protocol: str) -> Optional[dict]:
     """
     Evaluates all task JSON files in a specific model's directory.
 
@@ -35,6 +35,10 @@ def evaluate_model_directory(model_dir: Path) -> Optional[dict]:
     total_count = 0
     correct_count = 0
     missing_answer_count = 0
+    
+    total_p = 0.0
+    total_r = 0.0
+    total_f1 = 0.0
 
     # Store detailed results for CSV export
     detailed_results = []
@@ -60,24 +64,51 @@ def evaluate_model_directory(model_dir: Path) -> Optional[dict]:
             pred_norm = extracted_answer.strip().upper() if extracted_answer else None
 
             is_correct = False
-            if pred_norm == gt_norm:
-                correct_count += 1
-                is_correct = True
+            task_p, task_r, task_f1 = 0.0, 0.0, 0.0
+            
+            if protocol.upper() == "P3":
+                gt_set = set([x.strip() for x in gt_norm.split(",") if x.strip()])
+                pred_set = set([x.strip() for x in pred_norm.split(",") if x.strip()]) if pred_norm else set()
+                
+                if pred_set == gt_set:
+                    correct_count += 1
+                    is_correct = True
+                    
+                tp = len(gt_set.intersection(pred_set))
+                fp = len(pred_set - gt_set)
+                fn = len(gt_set - pred_set)
+                
+                task_p = tp / (tp + fp) if (tp + fp) > 0 else 0.0
+                task_r = tp / (tp + fn) if (tp + fn) > 0 else 0.0
+                task_f1 = 2 * task_p * task_r / (task_p + task_r) if (task_p + task_r) > 0 else 0.0
+                
+                total_p += task_p
+                total_r += task_r
+                total_f1 += task_f1
+            else:
+                if pred_norm == gt_norm:
+                    correct_count += 1
+                    is_correct = True
 
             if not extracted_answer:
                 missing_answer_count += 1
 
-            detailed_results.append(
-                {
-                    "task_id": task_id,
-                    "ground_truth": gt_norm,
-                    "prediction": pred_norm if pred_norm else "N/A",
-                    "is_correct": is_correct,
-                    "raw_output_snippet": prediction_text[:100].replace(
-                        "\n", " "
-                    ),  # First 100 chars for quick check
-                }
-            )
+            row = {
+                "task_id": task_id,
+                "ground_truth": gt_norm,
+                "prediction": pred_norm if pred_norm else "N/A",
+                "is_correct": is_correct,
+                "raw_output_snippet": prediction_text[:100].replace("\n", " "),
+            }
+            
+            if protocol.upper() == "P3":
+                row.update({
+                    "precision": round(task_p, 4),
+                    "recall": round(task_r, 4),
+                    "f1_score": round(task_f1, 4),
+                })
+
+            detailed_results.append(row)
 
         except Exception as e:
             logging.error(f"Error reading {json_file}: {e}")
@@ -94,20 +125,21 @@ def evaluate_model_directory(model_dir: Path) -> Optional[dict]:
         "total": total_count,
         "missing_extraction": missing_answer_count,
     }
+    
+    if protocol.upper() == "P3":
+        metrics["precision"] = total_p / total_count
+        metrics["recall"] = total_r / total_count
+        metrics["f1_score"] = total_f1 / total_count
 
     # Save a detailed CSV report for this model (useful for debugging failures)
     csv_path = model_dir / "evaluation_details.csv"
+    
+    fieldnames = ["task_id", "ground_truth", "prediction", "is_correct", "raw_output_snippet"]
+    if protocol.upper() == "P3":
+        fieldnames.extend(["precision", "recall", "f1_score"])
+        
     with open(csv_path, "w", newline="") as f:
-        writer = csv.DictWriter(
-            f,
-            fieldnames=[
-                "task_id",
-                "ground_truth",
-                "prediction",
-                "is_correct",
-                "raw_output_snippet",
-            ],
-        )
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(detailed_results)
 
@@ -153,21 +185,29 @@ def main():
     # 3. Evaluate Each Model
     final_report = []
 
-    logging.info("=" * 60)
-    logging.info(f"{'Model':<30} | {'Accuracy':<10} | {'Correct':<8} | {'Total':<8}")
-    logging.info("-" * 60)
+    logging.info("=" * 80)
+    if args.protocol.upper() == "P3":
+        logging.info(f"{'Model':<25} | {'Acc (Exact)':<12} | {'Precision':<10} | {'Recall':<10} | {'F1-Score':<10}")
+    else:
+        logging.info(f"{'Model':<30} | {'Accuracy':<10} | {'Correct':<8} | {'Total':<8}")
+    logging.info("-" * 80)
 
     for model_dir in model_dirs:
         if not model_dir.exists():
             logging.warning(f"Directory not found: {model_dir}")
             continue
 
-        metrics = evaluate_model_directory(model_dir)
+        metrics = evaluate_model_directory(model_dir, args.protocol)
 
         if metrics:
-            logging.info(
-                f"{metrics['model']:<30} | {metrics['accuracy']:.2%}    | {metrics['correct']:<8} | {metrics['total']:<8}"
-            )
+            if args.protocol.upper() == "P3":
+                logging.info(
+                    f"{metrics['model']:<25} | {metrics['accuracy']:.2%}       | {metrics['precision']:.2%}      | {metrics['recall']:.2%}      | {metrics['f1_score']:.2%}"
+                )
+            else:
+                logging.info(
+                    f"{metrics['model']:<30} | {metrics['accuracy']:.2%}    | {metrics['correct']:<8} | {metrics['total']:<8}"
+                )
             final_report.append(metrics)
 
             # Save metrics.json in the model folder
