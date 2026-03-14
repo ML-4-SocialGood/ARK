@@ -203,37 +203,48 @@ def main():
                             # Remove duplicates, sort alphabetically, and format as "A, C, D"
                             extracted_answer = ", ".join(sorted(list(set(found_opts))))
                             
-                    elif args.protocol.upper() in ["P1", "P2"]:
+                    elif args.protocol.upper() in ["P1", "P2", "P4"]:
                         # Extraction Logic for P1 / P2 (Single correct option)
                         # Strategy 1: Look for explicit "Answer: X", "Option X" pattern anywhere
                         match = re.search(rf'(?:Answer|Option|Choice)\s*[:\-\s]*\s*({opts_pattern})(?!\w)', model_output, re.IGNORECASE)
                         if match:
                             extracted_answer = match.group(1).upper()
 
-                        # Strategy 2: Look for "Image X" or "Candidate X" and map to valid options
+                        # Strategy 2: Look for conversational patterns like "is A", "should be B"
                         if not extracted_answer:
-                            match = re.search(r'(?:Image|Candidate)\s*(\d+)', model_output, re.IGNORECASE)
+                            match = re.search(r'\b(?:is|be|are)\s*:?\s*({opts_pattern})(?!\w)', model_output, re.IGNORECASE)
+                            if match:
+                                extracted_answer = match.group(1).upper()
+
+                        # Strategy 3: Look for "Image X", "Candidate X" or "Image A", "Candidate B"
+                        if not extracted_answer:
+                            # This handles "Image 1", "Candidate A", etc.
+                            match = re.search(r'(?:Image|Candidate)\s+({opts_pattern}|\d+)', model_output, re.IGNORECASE)
                             if match:
                                 try:
-                                    digit = int(match.group(1))
-                                    if 1 <= digit <= len(valid_options):
-                                        extracted_answer = valid_options[digit - 1]
-                                except ValueError:
-                                    pass
+                                    val = match.group(1).upper()
+                                    if val.isdigit():
+                                        idx = int(val) - 1
+                                        if 0 <= idx < len(valid_options):
+                                            extracted_answer = valid_options[idx]
+                                    elif val in valid_options:
+                                        extracted_answer = val
+                                except (ValueError, IndexError):
+                                    pass # Ignore if mapping fails
 
-                        # Strategy 3: Look for a valid option character at the very end of the string
+                        # Strategy 4: Look for a valid option character at the very end of the string
                         if not extracted_answer:
                             match = re.search(rf'(?:^|\s)({opts_pattern})[\.\)]?\s*$', model_output.strip(), re.IGNORECASE)
                             if match:
                                 extracted_answer = match.group(1).upper()
 
-                        # Strategy 4: Look for valid option character at the start (e.g. "A. The answer is...")
+                        # Strategy 5: Look for valid option character at the start (e.g. "A. The answer is...")
                         if not extracted_answer:
                             match = re.search(rf'^\s*({opts_pattern})[\.\)]', model_output.strip(), re.IGNORECASE)
                             if match:
                                 extracted_answer = match.group(1).upper()
                                 
-                        # Strategy 5: Direct match if output is extremely short (Fallback)
+                        # Strategy 6: Direct match if output is extremely short (Fallback)
                         if not extracted_answer and model_output.strip().upper() in valid_options:
                             extracted_answer = model_output.strip().upper()
 

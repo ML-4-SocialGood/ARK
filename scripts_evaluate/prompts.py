@@ -32,6 +32,17 @@ MIA_P3_TEMPLATE = (
     "Answer with only the characters of the correct options, separated by commas (e.g., A, C). Do not explain."
 )
 
+# P4 元数据约束推理模板 (MCR: Metadata-Constrained Reasoning)
+MCQ_P4_TEMPLATE = (
+    "Please retrieve the same individual as the query: {query_part} from the following options: "
+    "{candidates_part}. "
+    "Note that the query image has the following metadata: {metadata_part}. "
+    "Please carefully use these metadata constraints to help your logical reasoning. "
+    "Which option shows the same individual as the query? "
+    "Answer with only the single character of the correct option. Do not explain."
+)
+
+
 class PromptGenerator:
     def __init__(self, species: str):
         self.species = species
@@ -53,39 +64,39 @@ class PromptGenerator:
         image_paths = []
         query_part = ""
         protocol_norm = protocol.upper()
-        
+
         # 使用安全的 .get 方法防止 KeyError
         query_data = task.get("query", {})
-        
-        if protocol_norm in ["P1", "P3"]:
+
+        if protocol_norm in ["P1", "P3", "P4"]:
             query_img = query_data.get("image_path")
             # 容错：如果 P1/P3 数据错误地使用了列表格式
             if not query_img and query_data.get("image_paths"):
                 query_img = query_data.get("image_paths")[0]
-                
+
             if not query_img:
                 logging.warning(f"Task {task.get('task_id')} missing query image.")
                 return None, []
             image_paths.append(query_img)
             query_part = "<image>"
-            
+
         elif protocol_norm == "P2":
             query_imgs = query_data.get("image_paths", [])
             # 容错：如果 P2 数据错误地使用了单图格式
             if not query_imgs and query_data.get("image_path"):
                 query_imgs = [query_data.get("image_path")]
-                
+
             if not query_imgs:
                 logging.warning(f"Task {task.get('task_id')} missing query images.")
                 return None, []
             image_paths.extend(query_imgs)
             query_part = ", ".join(["<image>"] * len(query_imgs))
-            
+
         else:
             # 安全的 Fallback 处理
             query_imgs = query_data.get("image_paths", [])
             query_img = query_data.get("image_path")
-            
+
             if query_img:
                 image_paths.append(query_img)
                 query_part = "<image>"
@@ -101,15 +112,17 @@ class PromptGenerator:
         if not gallery_images:
             logging.warning(f"Task {task.get('task_id')} missing gallery options.")
             return None, []
-            
+
         candidates_list = []
 
         for idx, option in enumerate(gallery_images):
             opt_label = option.get("option")  # A, B, C, D
             opt_img = option.get("image_path")
-            
+
             if not opt_img:
-                logging.warning(f"Task {task.get('task_id')} option {opt_label} missing image_path.")
+                logging.warning(
+                    f"Task {task.get('task_id')} option {opt_label} missing image_path."
+                )
                 continue
 
             # 记录图片路径 (顺序: Query -> OptA -> OptB -> ...)
@@ -122,10 +135,33 @@ class PromptGenerator:
 
         # 3. 填充模板
         if protocol_norm == "P3":
-            prompt_text = MIA_P3_TEMPLATE.format(query_part=query_part, candidates_part=candidates_part)
+            prompt_text = MIA_P3_TEMPLATE.format(
+                query_part=query_part, candidates_part=candidates_part
+            )
         elif protocol_norm == "P2":
-            prompt_text = MCQ_M2I_TEMPLATE.format(query_part=query_part, candidates_part=candidates_part)
+            prompt_text = MCQ_M2I_TEMPLATE.format(
+                query_part=query_part, candidates_part=candidates_part
+            )
+        elif protocol_norm == "P4":
+            # 提取 P4 的 Metadata
+            context_text = query_data.get("context_text", {})
+            metadata_items = []
+            for k in ["face_direction", "day_night"]:
+                if k in context_text:
+                    metadata_items.append(
+                        f"{k.replace('_', ' ').capitalize()}: {context_text[k]}"
+                    )
+            metadata_part = (
+                ", ".join(metadata_items) if metadata_items else "None available"
+            )
+            prompt_text = MCQ_P4_TEMPLATE.format(
+                query_part=query_part,
+                candidates_part=candidates_part,
+                metadata_part=metadata_part,
+            )
         else:
-            prompt_text = MCQ_I2I_TEMPLATE.format(query_part=query_part, candidates_part=candidates_part)
+            prompt_text = MCQ_I2I_TEMPLATE.format(
+                query_part=query_part, candidates_part=candidates_part
+            )
 
         return prompt_text, image_paths
