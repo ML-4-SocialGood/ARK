@@ -67,9 +67,9 @@ When running on a cluster, use `main.sh`. This script automatically starts a **p
     sbatch main.sh
     ```
 
-3.  **Logs**:
-    *   Job output: `ditest.log`
-    *   Ollama logs: `ollama_job.log`
+3.  **Logs**: All logs are now centrally managed in the project root's `logs/` directory to prevent overwriting and keep the workspace clean.
+    *   Slurm Job output: `logs/slurm_ARK_<JOB_ID>.out` / `.err`
+    *   Ollama background logs: `logs/ollama_job_<JOB_ID>.log`
 
 ### Method B: Manual / Local Usage
 

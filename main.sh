@@ -1,9 +1,9 @@
 #!/bin/bash
-#SBATCH --job-name=ditest
+#SBATCH --job-name=ARK
 #SBATCH --time=9999:00:00
 #SBATCH --open-mode=append
-#SBATCH --output=ditest.log
-#SBATCH --error=ditest_error.log
+#SBATCH --output=logs/slurm_ARK_%j.out
+#SBATCH --error=logs/slurm_ARK_%j.err
 #SBATCH --gres=gpu:1
 
 cd /data/dzha866/ARK
@@ -17,7 +17,7 @@ export OLLAMA_HOST=127.0.0.1:11435
 export OLLAMA_MODELS=/data/dzha866/software/ollama/models
 
 # 2. 在后台启动 Ollama 服务，这样它能继承当前作业的 GPU 权限
-ollama serve > ollama_job.log 2>&1 &
+ollama serve > logs/ollama_job_${SLURM_JOB_ID:-local}.log 2>&1 &
 OLLAMA_PID=$!
 
 # 3. 等待服务启动 (循环检查端口直到服务就绪)
