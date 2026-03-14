@@ -36,36 +36,65 @@ class PromptGenerator:
         # 1. 提取 Query 图片并根据 Protocol 动态支持多 Query
         image_paths = []
         query_part = ""
+        protocol_norm = protocol.upper()
         
-        if protocol == "P1":
-            query_img = task["query"].get("image_path")
+        # 使用安全的 .get 方法防止 KeyError
+        query_data = task.get("query", {})
+        
+        if protocol_norm == "P1":
+            query_img = query_data.get("image_path")
+            # 容错：如果 P1 数据错误地使用了列表格式
+            if not query_img and query_data.get("image_paths"):
+                query_img = query_data.get("image_paths")[0]
+                
             if not query_img:
                 logging.warning(f"Task {task.get('task_id')} missing query image.")
                 return None, []
             image_paths.append(query_img)
             query_part = "<image>"
-        elif protocol == "P2":
-            query_imgs = task["query"].get("image_paths", [])
+            
+        elif protocol_norm == "P2":
+            query_imgs = query_data.get("image_paths", [])
+            # 容错：如果 P2 数据错误地使用了单图格式
+            if not query_imgs and query_data.get("image_path"):
+                query_imgs = [query_data.get("image_path")]
+                
             if not query_imgs:
                 logging.warning(f"Task {task.get('task_id')} missing query images.")
                 return None, []
             image_paths.extend(query_imgs)
             query_part = ", ".join(["<image>"] * len(query_imgs))
+            
         else:
-            # 默认 fallback 到 P1
-            query_img = task["query"].get("image_path") or task["query"].get("image_paths", [None])[0]
-            if not query_img:
+            # 安全的 Fallback 处理
+            query_imgs = query_data.get("image_paths", [])
+            query_img = query_data.get("image_path")
+            
+            if query_img:
+                image_paths.append(query_img)
+                query_part = "<image>"
+            elif query_imgs:
+                image_paths.append(query_imgs[0])
+                query_part = "<image>"
+            else:
+                logging.warning(f"Task {task.get('task_id')} missing any query format.")
                 return None, []
-            image_paths.append(query_img)
-            query_part = "<image>"
 
         # 2. 构建 Candidates 和 Options 部分
         gallery_images = task.get("gallery", [])
+        if not gallery_images:
+            logging.warning(f"Task {task.get('task_id')} missing gallery options.")
+            return None, []
+            
         candidates_list = []
 
         for idx, option in enumerate(gallery_images):
             opt_label = option.get("option")  # A, B, C, D
             opt_img = option.get("image_path")
+            
+            if not opt_img:
+                logging.warning(f"Task {task.get('task_id')} option {opt_label} missing image_path.")
+                continue
 
             # 记录图片路径 (顺序: Query -> OptA -> OptB -> ...)
             image_paths.append(opt_img)
