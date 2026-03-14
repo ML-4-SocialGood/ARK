@@ -162,3 +162,10 @@ os.environ['no_proxy'] = 'localhost,127.0.0.1'
 *   **Download Model**: `ollama pull qwen3-vl:32b` (or `qwen2.5-vl:7b`)
 *   **Check Running**: `ollama ps`
 *   **Stop Service**: `pkill ollama`
+
+### 6. Slurm Job Management Commands
+*   **Monitor Jobs**: `watch -n 2 squeue -u <username>` (Auto-refreshes every 2 seconds)
+*   **Check Status**: `squeue -u <username>` (Lists your current queued or running jobs)
+*   **Cancel Job**: `scancel <JOB_ID>` (Stops a specific job using its ID)
+*   **Cancel All Jobs**: `scancel -u <username>` (Stops all your running and pending jobs)
+*   **View Logs**: `tail -f <logfile.log>` (Watches job output logs in real-time)

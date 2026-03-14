@@ -33,7 +33,7 @@ ollama list
 
 # 4. 运行推理脚本，并通过 --host 参数指向我们刚启动的端口
 # 请确保 --model 参数与上面 ollama list 显示的名称完全一致（例如 qwen3-vl:32b）
-python scripts_evaluate/run_inference.py --species BelugaID --protocol p1 --annotation_file annotations/BelugaID/p1/BelugaID_I2I_P1_N4.json --model qwen3-vl:32b --host http://localhost:11435
+python scripts_evaluate/run_inference.py --species BelugaID --protocol p1 --annotation_file annotations/BelugaID/p1/BelugaID_I2I_P1_N4.json --model gemma3:27b --host http://localhost:11435
 
 # 5. 作业结束后清理后台进程
 kill $OLLAMA_PID
