@@ -1,5 +1,5 @@
 """
-/home/dzha866/Projects/ARK/scripts_eval/prompts.py
+/home/dzha866/Projects/ARK/scripts_evaluate/prompts.py
 Manages prompt templates and construction for different evaluation protocols.
 """
 
@@ -146,11 +146,13 @@ class PromptGenerator:
             # 提取 P4 的 Metadata
             context_text = query_data.get("context_text", {})
             metadata_items = []
-            for k in ["face_direction", "day_night"]:
-                if k in context_text:
-                    metadata_items.append(
-                        f"{k.replace('_', ' ').capitalize()}: {context_text[k]}"
-                    )
+            # 动态支持所有可能的 Metadata (如 location, timestamp 等)
+            for k, v in context_text.items():
+                # Format key: "face_direction" -> "Face direction"
+                formatted_key = k.replace('_', ' ').capitalize()
+                metadata_items.append(
+                    f"{formatted_key}: {v}"
+                )
             metadata_part = (
                 ", ".join(metadata_items) if metadata_items else "None available"
             )

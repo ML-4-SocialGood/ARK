@@ -1,5 +1,5 @@
 """
-/home/dzha866/Projects/ARK/scripts_eval/evaluate.py
+/home/dzha866/Projects/ARK/scripts_evaluate/evaluate.py
 Evaluates Re-ID inference results.
 Calculates accuracy and generates a detailed failure analysis report.
 """

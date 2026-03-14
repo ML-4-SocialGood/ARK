@@ -1,5 +1,5 @@
 """
-/home/dzha866/Projects/ARK/scripts_eval/utils.py
+/home/dzha866/Projects/ARK/scripts_evaluate/utils.py
 Utility functions for directory management and logging setup.
 """
 

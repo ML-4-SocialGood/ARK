@@ -1,5 +1,5 @@
 """
-/home/dzha866/Projects/ARK/scripts_eval/run_inference.py
+/home/dzha866/Projects/ARK/scripts_evaluate/run_inference.py
 Main inference script for batch processing Re-ID tasks with Ollama.
 Supports resume functionality and robust error handling.
 """

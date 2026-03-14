@@ -118,7 +118,7 @@ python scripts_evaluate/evaluate.py --species <SPECIES> --protocol <PROTOCOL>
 ### Example
 
 ```bash
-python scripts_eval/evaluate.py --species BelugaID --protocol p1
+python scripts_evaluate/evaluate.py --species BelugaID --protocol p1
 ```
 
 **Arguments:**

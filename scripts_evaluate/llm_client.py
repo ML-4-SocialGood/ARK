@@ -1,5 +1,5 @@
 """
-/home/dzha866/Projects/ARK/scripts_eval/llm_client.py
+/home/dzha866/Projects/ARK/scripts_evaluate/llm_client.py
 Ollama API Client with retry mechanism and strict parameter control.
 """
 
@@ -92,13 +92,14 @@ class OllamaClient:
             for image_path in images:
                 try:
                     with Image.open(image_path) as img:
-                        # Resize image to optimize inference speed (max dim 512)
-                        img.thumbnail((512, 512))
+                        # Resize image to balance detail and inference speed (max dim 1024).
+                        # This is important for Re-ID to preserve fine-grained details.
+                        img.thumbnail((1024, 1024))
                         if img.mode != "RGB":
                             img = img.convert("RGB")
                         
                         buffered = io.BytesIO()
-                        img.save(buffered, format="JPEG", quality=85)
+                        img.save(buffered, format="JPEG", quality=95) # Use high quality for details
                         encoded_string = base64.b64encode(buffered.getvalue()).decode("utf-8")
                         encoded_images.append(encoded_string)
                 except Exception as e:
