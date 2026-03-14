@@ -224,7 +224,8 @@ def main():
                                 try:
                                     val = match.group(1).upper()
                                     if val.isdigit():
-                                        idx = int(val) - 1
+                                        # Image 1 is Query, Image 2 is Option A (idx 0), Image 3 is Option B (idx 1), etc.
+                                        idx = int(val) - 2
                                         if 0 <= idx < len(valid_options):
                                             extracted_answer = valid_options[idx]
                                     elif val in valid_options:

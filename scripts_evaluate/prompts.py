@@ -148,8 +148,8 @@ class PromptGenerator:
             metadata_items = []
             # 动态支持所有可能的 Metadata (如 location, timestamp 等)
             for k, v in context_text.items():
-                # 过滤掉 LMM 难以理解的温度信息
-                if k.lower() == "temperature":
+                # 过滤掉 LMM 难以理解的温度和时间戳信息
+                if k.lower() in ["temperature", "timestamp"]:
                     continue
                 # Format key: "face_direction" -> "Face direction"
                 formatted_key = k.replace('_', ' ').capitalize()
