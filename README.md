@@ -127,7 +127,11 @@ python scripts_evaluate/evaluate.py --species BelugaID --protocol p1
 *   `--model`: (Optional) Specify a single model name to evaluate. If omitted, all models found in the predictions directory will be evaluated.
 
 **Outputs:**
-*   **Console**: Displays a summary table (Accuracy, Correct, Total for single-choice tasks; Accuracy, Precision, Recall, F1-Score for P3).
+*   **Console**: Displays a summary table with multidimensional accuracy metrics:
+    *   `Acc(Str)`: Strict Accuracy (Unformatted/Null outputs are treated as incorrect).
+    *   `Acc(Ans)`: Answered Accuracy (Accuracy calculated *only* on tasks the model successfully formatted/answered).
+    *   `Acc(Half)`: Expected Accuracy (Null outputs are given 0.5 fractional points, simulating binary forced-guessing).
+    *   Includes Correct/Total counts for single-choice tasks, and Precision, Recall, F1-Score for multi-target tasks (P3).
 *   **Summary File**: `results/<species>/<protocol>/evaluation_summary.json`
 *   **Model Metrics**: `results/<species>/<protocol>/predictions/<model_name>/metrics.json` (Individual model performance).
 *   **Detailed Report**: `results/<species>/<protocol>/predictions/<model_name>/evaluation_details.csv` (Contains row-by-row comparisons for debugging).
