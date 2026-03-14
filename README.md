@@ -105,7 +105,7 @@ python scripts_eval/run_inference.py \
 
 ## 2. Evaluate Results
 
-The `evaluate.py` script parses the inference results, compares them against the ground truth, and calculates accuracy metrics. It also generates a detailed failure analysis report.
+The `evaluate.py` script parses the inference results, compares them against the ground truth, and calculates accuracy metrics (including Precision, Recall, and F1-Score for multi-target protocols like P3). It also generates a detailed failure analysis report.
 
 ### Usage
 
@@ -125,8 +125,9 @@ python scripts_eval/evaluate.py --species BelugaID --protocol p1
 *   `--model`: (Optional) Specify a single model name to evaluate. If omitted, all models found in the predictions directory will be evaluated.
 
 **Outputs:**
-*   **Console**: Displays a summary table of Accuracy, Correct Counts, and Totals.
+*   **Console**: Displays a summary table (Accuracy, Correct, Total for single-choice tasks; Accuracy, Precision, Recall, F1-Score for P3).
 *   **Summary File**: `results/<species>/<protocol>/evaluation_summary.json`
+*   **Model Metrics**: `results/<species>/<protocol>/predictions/<model_name>/metrics.json` (Individual model performance).
 *   **Detailed Report**: `results/<species>/<protocol>/predictions/<model_name>/evaluation_details.csv` (Contains row-by-row comparisons for debugging).
 
 ---
