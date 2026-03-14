@@ -67,7 +67,7 @@ def main():
     output_dir = paths["predictions"] / model_safe_name
     output_dir.mkdir(parents=True, exist_ok=True)
     
-    log_file = paths["base"] / f"inference_{model_safe_name}.log"
+    log_file = paths["logs"] / f"inference_{model_safe_name}.log"
 
     setup_logging(log_file)
     logging.info("=== Starting Inference ===")
@@ -136,16 +136,16 @@ def main():
             continue
 
         # Verbose output for monitoring (like test_vl.py)
-        print(f"\n--- Task: {task_id} ---")
-        print("[Generated Prompt (Snippet)]:")
-        print(prompt_text[:300] + "..." if len(prompt_text) > 300 else prompt_text)
+        logging.info(f"--- Task: {task_id} ---")
+        logging.info("[Generated Prompt (Snippet)]:")
+        logging.info(prompt_text[:300] + "..." if len(prompt_text) > 300 else prompt_text)
 
-        print(f"\n[Image Paths] ({len(image_paths)} images):")
+        logging.info(f"[Image Paths] ({len(image_paths)} images):")
         for p in image_paths:
             if os.path.exists(p):
-                print(f"  [OK] {p}")
+                logging.info(f"  [OK] {p}")
             else:
-                print(f"  [MISSING] {p}")
+                logging.info(f"  [MISSING] {p}")
 
         # Retry variables
         max_retries = 3
@@ -156,9 +156,9 @@ def main():
 
         for attempt in range(max_retries):
             if attempt > 0:
-                print(f"\n[Retry] Attempt {attempt + 1}/{max_retries}...")
+                logging.info(f"[Retry] Attempt {attempt + 1}/{max_retries}...")
 
-            print("\nSending request to Ollama... (This may take 10-30 seconds)")
+            logging.info("Sending request to Ollama... (This may take 10-30 seconds)")
 
             try:
                 start_time = time.time()
@@ -212,23 +212,23 @@ def main():
                         extracted_answer = model_output.strip().upper()
 
                 # Verbose output for response
-                print("\n" + "=" * 20 + " Model Response " + "=" * 20)
+                logging.info("==================== Model Response ====================")
                 if model_output:
-                    print(model_output)
+                    logging.info(f"\n{model_output}")
                 elif response.get("thinking"):
-                    print("[Thinking Process (Response was empty)]:")
-                    print(response.get("thinking"))
+                    logging.info("[Thinking Process (Response was empty)]:")
+                    logging.info(response.get("thinking"))
                 else:
-                    print("[No response or thinking field found.]")
-                print("=" * 56)
+                    logging.info("[No response or thinking field found.]")
+                logging.info("========================================================")
 
-                print("\n[Debug Info]:")
-                print(f"  Done: {response.get('done')}")
-                print(f"  Eval Count: {response.get('eval_count')} tokens")
+                logging.info("[Debug Info]:")
+                logging.info(f"  Done: {response.get('done')}")
+                logging.info(f"  Eval Count: {response.get('eval_count')} tokens")
                 total_duration = response.get("total_duration")
                 if total_duration:
-                    print(f"  Total Duration: {total_duration / 1e9:.2f}s")
-                print("-" * 60)
+                    logging.info(f"  Total Duration: {total_duration / 1e9:.2f}s")
+                logging.info("-" * 60)
 
                 if extracted_answer:
                     break

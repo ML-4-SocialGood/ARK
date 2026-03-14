@@ -35,15 +35,19 @@ def ensure_directories(species: str, protocol: str, project_root: str = ".") -> 
     """
     base_results_dir = Path(project_root) / "results" / species / protocol
     predictions_dir = base_results_dir / "predictions"
+    logs_dir = Path(project_root) / "logs" / species / protocol
 
     # Create directories
     predictions_dir.mkdir(parents=True, exist_ok=True)
+    logs_dir.mkdir(parents=True, exist_ok=True)
 
     logging.info(f"Ensured directory exists: {predictions_dir}")
+    logging.info(f"Ensured directory exists: {logs_dir}")
 
     return {
         "base": base_results_dir,
         "predictions": predictions_dir,
+        "logs": logs_dir,
         "metrics_file": base_results_dir / "metrics_report.json",
     }
 

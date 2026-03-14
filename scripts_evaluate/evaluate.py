@@ -134,7 +134,7 @@ def main():
     paths = ensure_directories(args.species, args.protocol)
     predictions_root = paths["predictions"]
 
-    setup_logging(paths["base"] / "evaluation.log")
+    setup_logging(paths["logs"] / "evaluation.log")
     logging.info(f"Starting evaluation for {args.species} / {args.protocol}")
 
     # 2. Identify Model Directories
@@ -153,9 +153,9 @@ def main():
     # 3. Evaluate Each Model
     final_report = []
 
-    print("\n" + "=" * 60)
-    print(f"{'Model':<30} | {'Accuracy':<10} | {'Correct':<8} | {'Total':<8}")
-    print("-" * 60)
+    logging.info("=" * 60)
+    logging.info(f"{'Model':<30} | {'Accuracy':<10} | {'Correct':<8} | {'Total':<8}")
+    logging.info("-" * 60)
 
     for model_dir in model_dirs:
         if not model_dir.exists():
@@ -165,7 +165,7 @@ def main():
         metrics = evaluate_model_directory(model_dir)
 
         if metrics:
-            print(
+            logging.info(
                 f"{metrics['model']:<30} | {metrics['accuracy']:.2%}    | {metrics['correct']:<8} | {metrics['total']:<8}"
             )
             final_report.append(metrics)
@@ -174,9 +174,9 @@ def main():
             with open(model_dir / "metrics.json", "w") as f:
                 json.dump(metrics, f, indent=4)
         else:
-            print(f"{model_dir.name:<30} | {'No Data':<10} | {'-':<8} | {'-':<8}")
+            logging.info(f"{model_dir.name:<30} | {'No Data':<10} | {'-':<8} | {'-':<8}")
 
-    print("=" * 60 + "\n")
+    logging.info("=" * 60)
 
     # 4. Save Overall Report
     report_path = paths["base"] / "evaluation_summary.json"
