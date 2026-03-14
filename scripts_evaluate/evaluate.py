@@ -116,13 +116,21 @@ def evaluate_model_directory(model_dir: Path, protocol: str) -> Optional[dict]:
     if total_count == 0:
         return None
 
-    accuracy = correct_count / total_count
+    answered_count = total_count - missing_answer_count
+    acc_strict = correct_count / total_count if total_count > 0 else 0.0
+    acc_answered = correct_count / answered_count if answered_count > 0 else 0.0
+    # 按照要求，将 null (missing) 答案按 0.5 (一半) 的正确率折算
+    acc_half_null = (correct_count + 0.5 * missing_answer_count) / total_count if total_count > 0 else 0.0
 
     metrics = {
         "model": model_dir.name,
-        "accuracy": accuracy,
+        "accuracy": acc_strict,  # 保留为 acc_strict 以向下兼容
+        "acc_strict": acc_strict,
+        "acc_answered": acc_answered,
+        "acc_half_null": acc_half_null,
         "correct": correct_count,
         "total": total_count,
+        "answered": answered_count,
         "missing_extraction": missing_answer_count,
     }
     
@@ -185,12 +193,12 @@ def main():
     # 3. Evaluate Each Model
     final_report = []
 
-    logging.info("=" * 80)
+    logging.info("=" * 95)
     if args.protocol.upper() == "P3":
-        logging.info(f"{'Model':<25} | {'Acc (Exact)':<12} | {'Precision':<10} | {'Recall':<10} | {'F1-Score':<10}")
+        logging.info(f"{'Model':<25} | {'Acc(Str)':<9} | {'Acc(Ans)':<9} | {'Acc(Half)':<9} | {'Prec':<7} | {'Recall':<7} | {'F1':<7}")
     else:
-        logging.info(f"{'Model':<30} | {'Accuracy':<10} | {'Correct':<8} | {'Total':<8}")
-    logging.info("-" * 80)
+        logging.info(f"{'Model':<25} | {'Acc(Str)':<9} | {'Acc(Ans)':<9} | {'Acc(Half)':<9} | {'Corr':<5} | {'Total':<5}")
+    logging.info("-" * 95)
 
     for model_dir in model_dirs:
         if not model_dir.exists():
@@ -202,11 +210,11 @@ def main():
         if metrics:
             if args.protocol.upper() == "P3":
                 logging.info(
-                    f"{metrics['model']:<25} | {metrics['accuracy']:.2%}       | {metrics['precision']:.2%}      | {metrics['recall']:.2%}      | {metrics['f1_score']:.2%}"
+                    f"{metrics['model']:<25} | {metrics['acc_strict']:<9.2%} | {metrics['acc_answered']:<9.2%} | {metrics['acc_half_null']:<9.2%} | {metrics['precision']:<7.2%} | {metrics['recall']:<7.2%} | {metrics['f1_score']:<7.2%}"
                 )
             else:
                 logging.info(
-                    f"{metrics['model']:<30} | {metrics['accuracy']:.2%}    | {metrics['correct']:<8} | {metrics['total']:<8}"
+                    f"{metrics['model']:<25} | {metrics['acc_strict']:<9.2%} | {metrics['acc_answered']:<9.2%} | {metrics['acc_half_null']:<9.2%} | {metrics['correct']:<5} | {metrics['total']:<5}"
                 )
             final_report.append(metrics)
 
@@ -214,9 +222,9 @@ def main():
             with open(model_dir / "metrics.json", "w") as f:
                 json.dump(metrics, f, indent=4)
         else:
-            logging.info(f"{model_dir.name:<30} | {'No Data':<10} | {'-':<8} | {'-':<8}")
+            logging.info(f"{model_dir.name:<25} | {'No Data':<9} | {'-':<9} | {'-':<9} | {'-':<5} | {'-':<5}")
 
-    logging.info("=" * 60)
+    logging.info("=" * 95)
 
     # 4. Save Overall Report
     report_path = paths["base"] / "evaluation_summary.json"
