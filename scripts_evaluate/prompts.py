@@ -9,10 +9,10 @@ from typing import Optional
 # 通用 Re-ID 模板 (I2I: Image-to-Image)
 # Template with <image> placeholders as requested
 MCQ_I2I_TEMPLATE = (
-    "Please retrieve the same individual as the query: <image> from the following options: "
+    "Please retrieve the same individual as the query: {query_part} from the following options: "
     "{candidates_part}. "
-    "Which option shows the same individual as the query image? "
-    "Answer with only the single letter of the correct option (A, B, C, or D). Do not explain."
+    "Which option shows the same individual as the query? "
+    "Answer with only the single character of the correct option. Do not explain."
 )
 
 
@@ -33,15 +33,31 @@ class PromptGenerator:
         Returns:
             tuple: (prompt_text, list_of_image_paths)
         """
-        # 1. 提取 Query 图片
-        # 注意：这里假设 task['query'] 包含 'image_path'。
-        # 如果未来 P2 是文本描述，这里可以加 if protocol == 'P2' 的判断逻辑。
-        query_img = task["query"].get("image_path")
-        if not query_img:
-            logging.warning(f"Task {task.get('task_id')} missing query image.")
-            return None, []
-
-        image_paths = [query_img]
+        # 1. 提取 Query 图片并根据 Protocol 动态支持多 Query
+        image_paths = []
+        query_part = ""
+        
+        if protocol == "P1":
+            query_img = task["query"].get("image_path")
+            if not query_img:
+                logging.warning(f"Task {task.get('task_id')} missing query image.")
+                return None, []
+            image_paths.append(query_img)
+            query_part = "<image>"
+        elif protocol == "P2":
+            query_imgs = task["query"].get("image_paths", [])
+            if not query_imgs:
+                logging.warning(f"Task {task.get('task_id')} missing query images.")
+                return None, []
+            image_paths.extend(query_imgs)
+            query_part = ", ".join(["<image>"] * len(query_imgs))
+        else:
+            # 默认 fallback 到 P1
+            query_img = task["query"].get("image_path") or task["query"].get("image_paths", [None])[0]
+            if not query_img:
+                return None, []
+            image_paths.append(query_img)
+            query_part = "<image>"
 
         # 2. 构建 Candidates 和 Options 部分
         gallery_images = task.get("gallery", [])
@@ -60,6 +76,6 @@ class PromptGenerator:
         candidates_part = ", ".join(candidates_list)
 
         # 3. 填充模板
-        prompt_text = MCQ_I2I_TEMPLATE.format(candidates_part=candidates_part)
+        prompt_text = MCQ_I2I_TEMPLATE.format(query_part=query_part, candidates_part=candidates_part)
 
         return prompt_text, image_paths

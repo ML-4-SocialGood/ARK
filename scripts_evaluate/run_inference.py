@@ -173,36 +173,43 @@ def main():
 
                 # Extract answer (A, B, C, D) using Regex
                 extracted_answer = None
+                
+                # Extract valid options dynamically from the task (Supports A-Z, [, \, ], ^, _, ` etc)
+                valid_options = [str(opt.get("option")).upper() for opt in task.get("gallery", [])]
+                opts_pattern = "|".join([re.escape(opt) for opt in valid_options])
+                
                 if model_output:
-                    # Strategy 1: Look for explicit "Answer: X" or "Option X" pattern anywhere
-                    # Matches "Answer: A", "Option B", "Choice C"
-                    match = re.search(r'(?:Answer|Option|Choice)\s*[:\-\s]*\s*([A-D])\b', model_output, re.IGNORECASE)
+                    # Strategy 1: Look for explicit "Answer: X", "Option X" pattern anywhere
+                    match = re.search(rf'(?:Answer|Option|Choice)\s*[:\-\s]*\s*({opts_pattern})(?!\w)', model_output, re.IGNORECASE)
                     if match:
                         extracted_answer = match.group(1).upper()
 
-                    # Strategy 2: Look for "Image X" or "Candidate X" and map to A-D
+                    # Strategy 2: Look for "Image X" or "Candidate X" and map to valid options
                     if not extracted_answer:
                         match = re.search(r'(?:Image|Candidate)\s*(\d+)', model_output, re.IGNORECASE)
                         if match:
                             try:
                                 digit = int(match.group(1))
-                                if 1 <= digit <= 4:
-                                    extracted_answer = chr(ord('A') + digit - 1)
+                                if 1 <= digit <= len(valid_options):
+                                    extracted_answer = valid_options[digit - 1]
                             except ValueError:
                                 pass
 
-                    # Strategy 3: Look for a single letter A-D at the very end of the string
+                    # Strategy 3: Look for a valid option character at the very end of the string
                     if not extracted_answer:
-                        # Matches "B", " B", "B.", "B)" at the end
-                        match = re.search(r'(?:^|\s)([A-D])[\.\)]?\s*$', model_output.strip(), re.IGNORECASE)
+                        match = re.search(rf'(?:^|\s)({opts_pattern})[\.\)]?\s*$', model_output.strip(), re.IGNORECASE)
                         if match:
                             extracted_answer = match.group(1).upper()
 
-                    # Strategy 4: Look for single letter at the start (e.g. "A. The answer is...")
+                    # Strategy 4: Look for valid option character at the start (e.g. "A. The answer is...")
                     if not extracted_answer:
-                        match = re.search(r'^\s*([A-D])[\.\)]', model_output.strip(), re.IGNORECASE)
+                        match = re.search(rf'^\s*({opts_pattern})[\.\)]', model_output.strip(), re.IGNORECASE)
                         if match:
                             extracted_answer = match.group(1).upper()
+                            
+                    # Strategy 5: Direct match if output is extremely short (Fallback)
+                    if not extracted_answer and model_output.strip().upper() in valid_options:
+                        extracted_answer = model_output.strip().upper()
 
                 # Verbose output for response
                 print("\n" + "=" * 20 + " Model Response " + "=" * 20)

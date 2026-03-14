@@ -2,6 +2,36 @@
 
 This toolkit provides scripts to run inference and evaluate Re-ID (Re-identification) tasks using Vision-Language Models (VLMs) hosted via Ollama.
 
+## Evaluation Framework
+
+The ARK evaluation framework is systematically designed across three main axes to comprehensively assess the capabilities of Vision-Language Models (VLMs) in Re-ID tasks:
+
+### Axis 1: Visual Perception & Feature Alignment
+**Positioning:** This serves as the foundational baseline. It establishes the pure visual matching capability of VLMs without complex logical constraints.
+*   **Protocol 1: Pure Visual Re-Identification (P1)**
+    *   *Core Capability:* Zero-shot/few-shot discrimination of fine-grained features.
+    *   *Narrative Value:* Demonstrates that large models still have shortcomings in basic cross-instance matching, motivating the introduction of "reasoning" as a necessary solution.
+
+### Axis 2: Information Integration & Logical Reasoning
+**Positioning:** This represents the core contribution area. It demonstrates how VLMs transcend single-image pattern matching by utilizing context, multi-source evidence, and external constraints to perform complex identity associations.
+*   **Protocol 2: Multi-View Identity Integration (P2)**
+    *   *Core Capability:* Cross-image evidence supplementation and invariant feature extraction. Evaluates whether the model can piece together a complete profile of an individual from multiple query images.
+*   **Protocol 3: Multi-Target Identity Association (P3)**
+    *   *Core Capability:* Semantic induction. Breaks the "single-choice" paradigm to find all visual variants of the same underlying identity within a complex gallery.
+*   **Protocol 4: Metadata-Constrained Logical Reasoning (P4)**
+    *   *Core Capability:* Cross-modal logical verification. Utilizes ecological metadata (e.g., time, location, day/night) as hard constraints to eliminate visually highly similar but logically invalid "false positives."
+
+### Axis 3: Robustness & Reliability in the Wild
+**Positioning:** Specifically targets long-tail issues and uncontrollable risks in real-world scenarios like wildlife monitoring. This evaluates the model's readiness for actual deployment.
+*   **Protocol 5: Corrupted Feature Completion (P5)**
+    *   *Core Capability:* Robustness under extremely low signal-to-noise ratios. Tests the model's ability to maintain identity coherence relying on local topological structures despite occlusion, low resolution, or abrupt lighting changes.
+*   **Protocol 6: Open-Set Hallucination Rejection (P6)**
+    *   *Core Capability:* Epistemic uncertainty. Evaluates the ability to answer "None of the above" when the query individual is absent from the gallery, which is crucial for controlling false positive rates.
+*   **Protocol 7: Resilience to Counterfactual Suggestion (P7)**
+    *   *Core Capability:* Independent critical thinking. Tests whether the model falls prey to compliance hallucination when presented with misleading prompts (e.g., incorrect expert assumptions).
+
+---
+
 ## Prerequisites
 
 1.  **Ollama**: Ensure Ollama is installed.
