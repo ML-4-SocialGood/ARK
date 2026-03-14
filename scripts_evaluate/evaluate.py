@@ -119,15 +119,15 @@ def evaluate_model_directory(model_dir: Path, protocol: str) -> Optional[dict]:
     answered_count = total_count - missing_answer_count
     acc_strict = correct_count / total_count if total_count > 0 else 0.0
     acc_answered = correct_count / answered_count if answered_count > 0 else 0.0
-    # 按照要求，将 null (missing) 答案按 0.5 (一半) 的正确率折算
-    acc_half_null = (correct_count + 0.5 * missing_answer_count) / total_count if total_count > 0 else 0.0
+    # 将 null (missing) 答案按 0.25 (四选一盲猜) 的正确率折算期望值
+    acc_expected = (correct_count + 0.25 * missing_answer_count) / total_count if total_count > 0 else 0.0
 
     metrics = {
         "model": model_dir.name,
         "accuracy": acc_strict,  # 保留为 acc_strict 以向下兼容
         "acc_strict": acc_strict,
         "acc_answered": acc_answered,
-        "acc_half_null": acc_half_null,
+        "acc_expected": acc_expected,
         "correct": correct_count,
         "total": total_count,
         "answered": answered_count,
@@ -195,9 +195,9 @@ def main():
 
     logging.info("=" * 95)
     if args.protocol.upper() == "P3":
-        logging.info(f"{'Model':<25} | {'Acc(Str)':<9} | {'Acc(Ans)':<9} | {'Acc(Half)':<9} | {'Prec':<7} | {'Recall':<7} | {'F1':<7}")
+        logging.info(f"{'Model':<25} | {'Acc(Str)':<9} | {'Acc(Ans)':<9} | {'Acc(Exp)':<9} | {'Prec':<7} | {'Recall':<7} | {'F1':<7}")
     else:
-        logging.info(f"{'Model':<25} | {'Acc(Str)':<9} | {'Acc(Ans)':<9} | {'Acc(Half)':<9} | {'Corr':<5} | {'Total':<5}")
+        logging.info(f"{'Model':<25} | {'Acc(Str)':<9} | {'Acc(Ans)':<9} | {'Acc(Exp)':<9} | {'Corr':<5} | {'Total':<5}")
     logging.info("-" * 95)
 
     for model_dir in model_dirs:
@@ -210,11 +210,11 @@ def main():
         if metrics:
             if args.protocol.upper() == "P3":
                 logging.info(
-                    f"{metrics['model']:<25} | {metrics['acc_strict']:<9.2%} | {metrics['acc_answered']:<9.2%} | {metrics['acc_half_null']:<9.2%} | {metrics['precision']:<7.2%} | {metrics['recall']:<7.2%} | {metrics['f1_score']:<7.2%}"
+                    f"{metrics['model']:<25} | {metrics['acc_strict']:<9.2%} | {metrics['acc_answered']:<9.2%} | {metrics['acc_expected']:<9.2%} | {metrics['precision']:<7.2%} | {metrics['recall']:<7.2%} | {metrics['f1_score']:<7.2%}"
                 )
             else:
                 logging.info(
-                    f"{metrics['model']:<25} | {metrics['acc_strict']:<9.2%} | {metrics['acc_answered']:<9.2%} | {metrics['acc_half_null']:<9.2%} | {metrics['correct']:<5} | {metrics['total']:<5}"
+                    f"{metrics['model']:<25} | {metrics['acc_strict']:<9.2%} | {metrics['acc_answered']:<9.2%} | {metrics['acc_expected']:<9.2%} | {metrics['correct']:<5} | {metrics['total']:<5}"
                 )
             final_report.append(metrics)
 
