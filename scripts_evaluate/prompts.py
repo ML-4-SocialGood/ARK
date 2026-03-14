@@ -15,6 +15,22 @@ MCQ_I2I_TEMPLATE = (
     "Answer with only the single character of the correct option. Do not explain."
 )
 
+# P2 多 Query 模板 (M2I: Many-to-Image)
+MCQ_M2I_TEMPLATE = (
+    "Please retrieve the same individual as the queries: {query_part} from the following options: "
+    "{candidates_part}. "
+    "Which option shows the same individual as the queries? "
+    "Answer with only the single character of the correct option. Do not explain."
+)
+
+# P3 多目标身份关联模板 (MIA: Multi-Target Identity Association)
+MIA_P3_TEMPLATE = (
+    "Please retrieve all individuals that are the same as the query: {query_part} from the following options: "
+    "{candidates_part}. "
+    "Note that there may be multiple correct options showing the same individual as the query. "
+    "Which options show the same individual as the query? "
+    "Answer with only the characters of the correct options, separated by commas (e.g., A, C). Do not explain."
+)
 
 class PromptGenerator:
     def __init__(self, species: str):
@@ -41,9 +57,9 @@ class PromptGenerator:
         # 使用安全的 .get 方法防止 KeyError
         query_data = task.get("query", {})
         
-        if protocol_norm == "P1":
+        if protocol_norm in ["P1", "P3"]:
             query_img = query_data.get("image_path")
-            # 容错：如果 P1 数据错误地使用了列表格式
+            # 容错：如果 P1/P3 数据错误地使用了列表格式
             if not query_img and query_data.get("image_paths"):
                 query_img = query_data.get("image_paths")[0]
                 
@@ -105,6 +121,11 @@ class PromptGenerator:
         candidates_part = ", ".join(candidates_list)
 
         # 3. 填充模板
-        prompt_text = MCQ_I2I_TEMPLATE.format(query_part=query_part, candidates_part=candidates_part)
+        if protocol_norm == "P3":
+            prompt_text = MIA_P3_TEMPLATE.format(query_part=query_part, candidates_part=candidates_part)
+        elif protocol_norm == "P2":
+            prompt_text = MCQ_M2I_TEMPLATE.format(query_part=query_part, candidates_part=candidates_part)
+        else:
+            prompt_text = MCQ_I2I_TEMPLATE.format(query_part=query_part, candidates_part=candidates_part)
 
         return prompt_text, image_paths

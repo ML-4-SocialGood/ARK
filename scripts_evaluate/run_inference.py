@@ -179,37 +179,63 @@ def main():
                 opts_pattern = "|".join([re.escape(opt) for opt in valid_options])
                 
                 if model_output:
-                    # Strategy 1: Look for explicit "Answer: X", "Option X" pattern anywhere
-                    match = re.search(rf'(?:Answer|Option|Choice)\s*[:\-\s]*\s*({opts_pattern})(?!\w)', model_output, re.IGNORECASE)
-                    if match:
-                        extracted_answer = match.group(1).upper()
-
-                    # Strategy 2: Look for "Image X" or "Candidate X" and map to valid options
-                    if not extracted_answer:
-                        match = re.search(r'(?:Image|Candidate)\s*(\d+)', model_output, re.IGNORECASE)
+                    if args.protocol.upper() == "P3":
+                        # Extraction Logic for P3 (Multiple correct options expected)
+                        found_opts = []
+                        
+                        # Strategy 1: Look for explicit multiple answers "Answer: A, C, D" or "Options: A and B"
+                        match = re.search(rf'(?:Answer|Option|Choice)s?\s*[:\-\s]*\s*((?:{opts_pattern})(?:\s*(?:,|and|&)\s*(?:{opts_pattern}))*)', model_output, re.IGNORECASE)
                         if match:
-                            try:
-                                digit = int(match.group(1))
-                                if 1 <= digit <= len(valid_options):
-                                    extracted_answer = valid_options[digit - 1]
-                            except ValueError:
-                                pass
-
-                    # Strategy 3: Look for a valid option character at the very end of the string
-                    if not extracted_answer:
-                        match = re.search(rf'(?:^|\s)({opts_pattern})[\.\)]?\s*$', model_output.strip(), re.IGNORECASE)
-                        if match:
-                            extracted_answer = match.group(1).upper()
-
-                    # Strategy 4: Look for valid option character at the start (e.g. "A. The answer is...")
-                    if not extracted_answer:
-                        match = re.search(rf'^\s*({opts_pattern})[\.\)]', model_output.strip(), re.IGNORECASE)
-                        if match:
-                            extracted_answer = match.group(1).upper()
+                            raw_ans = match.group(1).upper()
+                            found_opts = re.findall(rf'({opts_pattern})', raw_ans)
                             
-                    # Strategy 5: Direct match if output is extremely short (Fallback)
-                    if not extracted_answer and model_output.strip().upper() in valid_options:
-                        extracted_answer = model_output.strip().upper()
+                        # Strategy 2: Look for bracketed combinations like [A, C, D]
+                        if not found_opts:
+                            match = re.search(r'\[(.*?)\]', model_output)
+                            if match:
+                                found_opts = re.findall(rf'({opts_pattern})', match.group(1).upper())
+                                
+                        # Strategy 3: Direct match if output is very short (Fallback)
+                        if not found_opts and len(model_output.strip()) <= 40:
+                            found_opts = re.findall(rf'({opts_pattern})', model_output.upper())
+                            
+                        if found_opts:
+                            # Remove duplicates, sort alphabetically, and format as "A, C, D"
+                            extracted_answer = ", ".join(sorted(list(set(found_opts))))
+                            
+                    elif args.protocol.upper() in ["P1", "P2"]:
+                        # Extraction Logic for P1 / P2 (Single correct option)
+                        # Strategy 1: Look for explicit "Answer: X", "Option X" pattern anywhere
+                        match = re.search(rf'(?:Answer|Option|Choice)\s*[:\-\s]*\s*({opts_pattern})(?!\w)', model_output, re.IGNORECASE)
+                        if match:
+                            extracted_answer = match.group(1).upper()
+
+                        # Strategy 2: Look for "Image X" or "Candidate X" and map to valid options
+                        if not extracted_answer:
+                            match = re.search(r'(?:Image|Candidate)\s*(\d+)', model_output, re.IGNORECASE)
+                            if match:
+                                try:
+                                    digit = int(match.group(1))
+                                    if 1 <= digit <= len(valid_options):
+                                        extracted_answer = valid_options[digit - 1]
+                                except ValueError:
+                                    pass
+
+                        # Strategy 3: Look for a valid option character at the very end of the string
+                        if not extracted_answer:
+                            match = re.search(rf'(?:^|\s)({opts_pattern})[\.\)]?\s*$', model_output.strip(), re.IGNORECASE)
+                            if match:
+                                extracted_answer = match.group(1).upper()
+
+                        # Strategy 4: Look for valid option character at the start (e.g. "A. The answer is...")
+                        if not extracted_answer:
+                            match = re.search(rf'^\s*({opts_pattern})[\.\)]', model_output.strip(), re.IGNORECASE)
+                            if match:
+                                extracted_answer = match.group(1).upper()
+                                
+                        # Strategy 5: Direct match if output is extremely short (Fallback)
+                        if not extracted_answer and model_output.strip().upper() in valid_options:
+                            extracted_answer = model_output.strip().upper()
 
                 # Verbose output for response
                 logging.info("==================== Model Response ====================")
