@@ -67,9 +67,11 @@ When running on a cluster, use `main.sh`. This script automatically starts a **p
     sbatch main.sh
     ```
 
-3.  **Logs**: All logs are now centrally managed in the project root's `logs/` directory to prevent overwriting and keep the workspace clean.
-    *   Slurm Job output: `logs/slurm_ARK_<JOB_ID>.out` / `.err`
-    *   Ollama background logs: `logs/ollama_job_<JOB_ID>.log`
+3.  **Logs**: Logs are centrally managed to keep the workspace clean.
+    *   **Slurm Job output**: `logs/slurm_ARK_<JOB_ID>.out` / `.err`
+    *   **Ollama background logs**: `logs/ollama_job_<JOB_ID>.log`
+    *   **Inference script log**: `logs/<species>/<protocol>/inference_<model_name>.log`
+    *   **Evaluation script log**: `logs/<species>/<protocol>/evaluation.log`
 
 ### Method B: Manual / Local Usage
 
@@ -84,7 +86,7 @@ python scripts_evaluate/run_inference.py \
 ### Example
 
 ```bash
-python scripts_eval/run_inference.py \
+python scripts_evaluate/run_inference.py \
     --species BelugaID \
     --protocol p1 \
     --annotation_file annotations/BelugaID/p1/BelugaID_I2I_P1_N4.json \
@@ -110,7 +112,7 @@ The `evaluate.py` script parses the inference results, compares them against the
 ### Usage
 
 ```bash
-python scripts_eval/evaluate.py --species <SPECIES> --protocol <PROTOCOL>
+python scripts_evaluate/evaluate.py --species <SPECIES> --protocol <PROTOCOL>
 ```
 
 ### Example
