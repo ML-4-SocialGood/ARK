@@ -42,6 +42,16 @@ MCQ_P4_TEMPLATE = (
     "Answer with only the single character of the correct option. Do not explain."
 )
 
+# P5 扰动特征补全模板 (CFC: Corrupted Feature Completion)
+MCQ_P5_TEMPLATE = (
+    "Please retrieve the same individual as the query: {query_part} from the following options: "
+    "{candidates_part}. "
+    "Note that the query image is subject to {corruption} corruption (Severity: {severity}). "
+    "Please rely on robust local topological structures to maintain identity coherence despite this degradation. "
+    "Which option shows the same individual as the query? "
+    "Answer with only the single character of the correct option. Do not explain."
+)
+
 
 class PromptGenerator:
     def __init__(self, species: str):
@@ -68,7 +78,7 @@ class PromptGenerator:
         # 使用安全的 .get 方法防止 KeyError
         query_data = task.get("query", {})
 
-        if protocol_norm in ["P1", "P3", "P4"]:
+        if protocol_norm in ["P1", "P3", "P4", "P5"]:
             query_img = query_data.get("image_path")
             # 容错：如果 P1/P3 数据错误地使用了列表格式
             if not query_img and query_data.get("image_paths"):
@@ -163,6 +173,15 @@ class PromptGenerator:
                 query_part=query_part,
                 candidates_part=candidates_part,
                 metadata_part=metadata_part,
+            )
+        elif protocol_norm == "P5":
+            # 提取 P5 的扰动信息
+            meta_data = task.get("meta", {})
+            prompt_text = MCQ_P5_TEMPLATE.format(
+                query_part=query_part,
+                candidates_part=candidates_part,
+                corruption=meta_data.get("corruption", "unknown"),
+                severity=meta_data.get("severity", "unknown"),
             )
         else:
             prompt_text = MCQ_I2I_TEMPLATE.format(

@@ -63,11 +63,14 @@ def main():
     # Replace colons in model name (e.g. qwen:7b) to avoid filesystem issues
     model_safe_name = args.model.replace(":", "_")
     
-    # Create a directory for this model's predictions
-    output_dir = paths["predictions"] / model_safe_name
+    # Extract annotation filename (e.g., "BelugaID_I2I_P5_occlusion_S1_N4") to separate results
+    anno_basename = os.path.splitext(os.path.basename(args.annotation_file))[0]
+    
+    # Create a directory for this model's predictions grouped by annotation file
+    output_dir = paths["predictions"] / model_safe_name / anno_basename
     output_dir.mkdir(parents=True, exist_ok=True)
     
-    log_file = paths["logs"] / f"inference_{model_safe_name}.log"
+    log_file = paths["logs"] / f"inference_{model_safe_name}_{anno_basename}.log"
 
     setup_logging(log_file)
     logging.info("=== Starting Inference ===")
@@ -203,8 +206,8 @@ def main():
                             # Remove duplicates, sort alphabetically, and format as "A, C, D"
                             extracted_answer = ", ".join(sorted(list(set(found_opts))))
                             
-                    elif args.protocol.upper() in ["P1", "P2", "P4"]:
-                        # Extraction Logic for P1 / P2 (Single correct option)
+                    elif args.protocol.upper() in ["P1", "P2", "P4", "P5"]:
+                        # Extraction Logic for P1 / P2 / P4 / P5 (Single correct option)
                         # Strategy 1: Look for explicit "Answer: X", "Option X" pattern anywhere
                         match = re.search(rf'(?:Answer|Option|Choice)\s*[:\-\s]*\s*({opts_pattern})(?!\w)', model_output, re.IGNORECASE)
                         if match:
