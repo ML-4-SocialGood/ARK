@@ -131,7 +131,7 @@ python scripts_evaluate/evaluate.py --species BelugaID --protocol p1
     *   `Condition / Run`: Automatically detected from subdirectories, allowing easy comparison across different testing conditions (e.g., `grayscale_s1` vs `occlusion_s2`).
     *   `Acc(Str)`: Strict Accuracy (Unformatted/Null outputs are treated as incorrect).
     *   `Acc(Ans)`: Answered Accuracy (Accuracy calculated *only* on tasks the model successfully formatted/answered).
-    *   `Acc(Exp)`: Expected Accuracy (Null outputs are given 0.25 fractional points, simulating 4-choice random guessing).
+    *   `Acc(Exp)`: Expected Accuracy (Null outputs are given 0.25 fractional points for standard 4-choice tasks, and 0.20 for P6 which has 5 choices, simulating random guessing).
     *   Includes Correct/Total counts for single-choice tasks, and Precision, Recall, F1-Score for multi-target tasks (P3).
 *   **Summary File**: `results/<species>/<protocol>/evaluation_summary.json`
 *   **Model Metrics**: `results/<species>/<protocol>/predictions/<model_name>/<run_name>/metrics.json` (Individual run performance).

@@ -119,8 +119,10 @@ def evaluate_model_directory(target_dir: Path, protocol: str, model_name: str) -
     answered_count = total_count - missing_answer_count
     acc_strict = correct_count / total_count if total_count > 0 else 0.0
     acc_answered = correct_count / answered_count if answered_count > 0 else 0.0
-    # 将 null (missing) 答案按 0.25 (四选一盲猜) 的正确率折算期望值
-    acc_expected = (correct_count + 0.25 * missing_answer_count) / total_count if total_count > 0 else 0.0
+    
+    # 动态调整盲猜期望值：P6有5个选项(A-E)，盲猜期望为0.20；其他单选题有4个选项(A-D)，盲猜期望为0.25
+    guessing_prob = 0.20 if protocol.upper() == "P6" else 0.25
+    acc_expected = (correct_count + guessing_prob * missing_answer_count) / total_count if total_count > 0 else 0.0
 
     metrics = {
         "model": model_name,
