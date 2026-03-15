@@ -78,7 +78,7 @@ class PromptGenerator:
         # 使用安全的 .get 方法防止 KeyError
         query_data = task.get("query", {})
 
-        if protocol_norm in ["P1", "P3", "P4", "P5"]:
+        if protocol_norm in ["P1", "P3", "P4", "P5", "P6"]:
             query_img = query_data.get("image_path")
             # 容错：如果 P1/P3 数据错误地使用了列表格式
             if not query_img and query_data.get("image_paths"):
@@ -128,18 +128,21 @@ class PromptGenerator:
         for idx, option in enumerate(gallery_images):
             opt_label = option.get("option")  # A, B, C, D
             opt_img = option.get("image_path")
+            opt_text = option.get("text")
 
-            if not opt_img:
+            if opt_img:
+                # 记录图片路径 (顺序: Query -> OptA -> OptB -> ...)
+                image_paths.append(opt_img)
+                # 构建文本部分 (Option A: <image>...)
+                candidates_list.append(f"Option {opt_label}: <image>")
+            elif opt_text:
+                # 处理 P6 独有的纯文本选项 (如 Option E: None of the above)
+                candidates_list.append(f"Option {opt_label}: {opt_text}")
+            else:
                 logging.warning(
-                    f"Task {task.get('task_id')} option {opt_label} missing image_path."
+                    f"Task {task.get('task_id')} option {opt_label} missing both image_path and text."
                 )
                 continue
-
-            # 记录图片路径 (顺序: Query -> OptA -> OptB -> ...)
-            image_paths.append(opt_img)
-
-            # 构建文本部分 (Option A: <image>...)
-            candidates_list.append(f"Option {opt_label}: <image>")
 
         candidates_part = ", ".join(candidates_list)
 
