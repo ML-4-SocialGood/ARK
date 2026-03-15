@@ -101,7 +101,7 @@ python scripts_evaluate/run_inference.py \
 *   `--resume`: (Optional) Add this flag to skip tasks that have already been processed in the output folder.
 *   `--host`: (Optional) Ollama API host (default: `http://localhost:11434`).
 
-**Output Location:** `results/<species>/<protocol>/predictions/<model_name>/`
+**Output Location:** `results/<species>/<protocol>/predictions/<model_name>/<annotation_basename>/` (Automatically grouped by annotation file to separate different runs or conditions, e.g., P5 corruption types).
 
 ---
 
@@ -128,13 +128,14 @@ python scripts_evaluate/evaluate.py --species BelugaID --protocol p1
 
 **Outputs:**
 *   **Console**: Displays a summary table with multidimensional accuracy metrics:
+    *   `Condition / Run`: Automatically detected from subdirectories, allowing easy comparison across different testing conditions (e.g., `grayscale_s1` vs `occlusion_s2`).
     *   `Acc(Str)`: Strict Accuracy (Unformatted/Null outputs are treated as incorrect).
     *   `Acc(Ans)`: Answered Accuracy (Accuracy calculated *only* on tasks the model successfully formatted/answered).
     *   `Acc(Exp)`: Expected Accuracy (Null outputs are given 0.25 fractional points, simulating 4-choice random guessing).
     *   Includes Correct/Total counts for single-choice tasks, and Precision, Recall, F1-Score for multi-target tasks (P3).
 *   **Summary File**: `results/<species>/<protocol>/evaluation_summary.json`
-*   **Model Metrics**: `results/<species>/<protocol>/predictions/<model_name>/metrics.json` (Individual model performance).
-*   **Detailed Report**: `results/<species>/<protocol>/predictions/<model_name>/evaluation_details.csv` (Contains row-by-row comparisons for debugging).
+*   **Model Metrics**: `results/<species>/<protocol>/predictions/<model_name>/<run_name>/metrics.json` (Individual run performance).
+*   **Detailed Report**: `results/<species>/<protocol>/predictions/<model_name>/<run_name>/evaluation_details.csv` (Contains row-by-row comparisons for debugging).
 
 ---
 
