@@ -19,7 +19,9 @@ sys.path.append(os.getcwd())
 from scripts_evaluate.utils import ensure_directories, setup_logging
 
 
-def evaluate_model_directory(target_dir: Path, protocol: str, model_name: str) -> Optional[dict]:
+def evaluate_model_directory(
+    target_dir: Path, protocol: str, model_name: str
+) -> Optional[dict]:
     """
     Evaluates all task JSON files in a specific directory (could be a model dir or a sub-run dir).
 
@@ -35,16 +37,17 @@ def evaluate_model_directory(target_dir: Path, protocol: str, model_name: str) -
     total_count = 0
     correct_count = 0
     missing_answer_count = 0
-    
+
     total_p = 0.0
     total_r = 0.0
     total_f1 = 0.0
-    
+
     # Variables for P7
     correct_n = 0
     correct_c = 0
     missing_n = 0
     missing_c = 0
+    correct_both = 0
 
     # Store detailed results for CSV export
     detailed_results = []
@@ -62,29 +65,35 @@ def evaluate_model_directory(target_dir: Path, protocol: str, model_name: str) -
                 continue
 
             total_count += 1
-            
+
             if protocol.upper() == "P7":
                 # P7 GT mapping: same -> YES, different -> NO
                 gt_norm = "YES" if ground_truth.strip().lower() == "same" else "NO"
-                
+
                 res_n = data.get("neutral", {})
                 res_c = data.get("counterfactual", {})
-                
+
                 pred_n = res_n.get("extracted_answer")
                 pred_n_norm = pred_n.strip().upper() if pred_n else None
-                
+
                 pred_c = res_c.get("extracted_answer")
                 pred_c_norm = pred_c.strip().upper() if pred_c else None
-                
-                is_correct_n = (pred_n_norm == gt_norm)
-                is_correct_c = (pred_c_norm == gt_norm)
-                
-                if is_correct_n: correct_n += 1
-                if is_correct_c: correct_c += 1
-                
-                if not pred_n_norm: missing_n += 1
-                if not pred_c_norm: missing_c += 1
-                
+
+                is_correct_n = pred_n_norm == gt_norm
+                is_correct_c = pred_c_norm == gt_norm
+
+                if is_correct_n:
+                    correct_n += 1
+                if is_correct_c:
+                    correct_c += 1
+                if is_correct_n and is_correct_c:
+                    correct_both += 1
+
+                if not pred_n_norm:
+                    missing_n += 1
+                if not pred_c_norm:
+                    missing_c += 1
+
                 row = {
                     "task_id": task_id,
                     "ground_truth": gt_norm,
@@ -92,8 +101,12 @@ def evaluate_model_directory(target_dir: Path, protocol: str, model_name: str) -
                     "is_correct_n": is_correct_n,
                     "pred_counterfactual": pred_c_norm if pred_c_norm else "N/A",
                     "is_correct_c": is_correct_c,
-                    "raw_output_n_snippet": res_n.get("prediction_text", "")[:100].replace("\n", " "),
-                    "raw_output_c_snippet": res_c.get("prediction_text", "")[:100].replace("\n", " ")
+                    "raw_output_n_snippet": res_n.get("prediction_text", "")[
+                        :100
+                    ].replace("\n", " "),
+                    "raw_output_c_snippet": res_c.get("prediction_text", "")[
+                        :100
+                    ].replace("\n", " "),
                 }
                 detailed_results.append(row)
                 continue
@@ -108,23 +121,31 @@ def evaluate_model_directory(target_dir: Path, protocol: str, model_name: str) -
 
             is_correct = False
             task_p, task_r, task_f1 = 0.0, 0.0, 0.0
-            
+
             if protocol.upper() == "P3":
                 gt_set = set([x.strip() for x in gt_norm.split(",") if x.strip()])
-                pred_set = set([x.strip() for x in pred_norm.split(",") if x.strip()]) if pred_norm else set()
-                
+                pred_set = (
+                    set([x.strip() for x in pred_norm.split(",") if x.strip()])
+                    if pred_norm
+                    else set()
+                )
+
                 if pred_set == gt_set:
                     correct_count += 1
                     is_correct = True
-                    
+
                 tp = len(gt_set.intersection(pred_set))
                 fp = len(pred_set - gt_set)
                 fn = len(gt_set - pred_set)
-                
+
                 task_p = tp / (tp + fp) if (tp + fp) > 0 else 0.0
                 task_r = tp / (tp + fn) if (tp + fn) > 0 else 0.0
-                task_f1 = 2 * task_p * task_r / (task_p + task_r) if (task_p + task_r) > 0 else 0.0
-                
+                task_f1 = (
+                    2 * task_p * task_r / (task_p + task_r)
+                    if (task_p + task_r) > 0
+                    else 0.0
+                )
+
                 total_p += task_p
                 total_r += task_r
                 total_f1 += task_f1
@@ -143,13 +164,15 @@ def evaluate_model_directory(target_dir: Path, protocol: str, model_name: str) -
                 "is_correct": is_correct,
                 "raw_output_snippet": prediction_text[:100].replace("\n", " "),
             }
-            
+
             if protocol.upper() == "P3":
-                row.update({
-                    "precision": round(task_p, 4),
-                    "recall": round(task_r, 4),
-                    "f1_score": round(task_f1, 4),
-                })
+                row.update(
+                    {
+                        "precision": round(task_p, 4),
+                        "recall": round(task_r, 4),
+                        "f1_score": round(task_f1, 4),
+                    }
+                )
 
             detailed_results.append(row)
 
@@ -158,14 +181,15 @@ def evaluate_model_directory(target_dir: Path, protocol: str, model_name: str) -
 
     if total_count == 0:
         return None
-        
+
     # Return P7 specific metrics
     if protocol.upper() == "P7":
         acc_n = correct_n / total_count if total_count > 0 else 0.0
         acc_c = correct_c / total_count if total_count > 0 else 0.0
         delta_acc = acc_n - acc_c
-        ra = (acc_c / acc_n) if acc_n > 0 else 0.0
-        
+        # RA (Resilience Accuracy): % of correctly answered neutral queries that remain correct under counterfactual
+        ra = correct_both / correct_n if correct_n > 0 else 0.0
+
         metrics = {
             "model": model_name,
             "run_name": target_dir.name,
@@ -175,28 +199,42 @@ def evaluate_model_directory(target_dir: Path, protocol: str, model_name: str) -
             "resilience_accuracy": ra,
             "correct_neutral": correct_n,
             "correct_counterfactual": correct_c,
+            "correct_both": correct_both,
             "total": total_count,
             "missing_neutral": missing_n,
             "missing_counterfactual": missing_c,
         }
-        
+
         csv_path = target_dir / "evaluation_details.csv"
-        fieldnames = ["task_id", "ground_truth", "pred_neutral", "is_correct_n", "pred_counterfactual", "is_correct_c", "raw_output_n_snippet", "raw_output_c_snippet"]
+        fieldnames = [
+            "task_id",
+            "ground_truth",
+            "pred_neutral",
+            "is_correct_n",
+            "pred_counterfactual",
+            "is_correct_c",
+            "raw_output_n_snippet",
+            "raw_output_c_snippet",
+        ]
         with open(csv_path, "w", newline="") as f:
             writer = csv.DictWriter(f, fieldnames=fieldnames)
             writer.writeheader()
             writer.writerows(detailed_results)
-            
+
         logging.info(f"Saved detailed analysis to {csv_path}")
         return metrics
 
     answered_count = total_count - missing_answer_count
     acc_strict = correct_count / total_count if total_count > 0 else 0.0
     acc_answered = correct_count / answered_count if answered_count > 0 else 0.0
-    
+
     # 动态调整盲猜期望值：P6有5个选项(A-E)，盲猜期望为0.20；其他单选题有4个选项(A-D)，盲猜期望为0.25
     guessing_prob = 0.20 if protocol.upper() == "P6" else 0.25
-    acc_expected = (correct_count + guessing_prob * missing_answer_count) / total_count if total_count > 0 else 0.0
+    acc_expected = (
+        (correct_count + guessing_prob * missing_answer_count) / total_count
+        if total_count > 0
+        else 0.0
+    )
 
     metrics = {
         "model": model_name,
@@ -210,7 +248,7 @@ def evaluate_model_directory(target_dir: Path, protocol: str, model_name: str) -
         "answered": answered_count,
         "missing_extraction": missing_answer_count,
     }
-    
+
     if protocol.upper() == "P3":
         metrics["precision"] = total_p / total_count
         metrics["recall"] = total_r / total_count
@@ -218,11 +256,17 @@ def evaluate_model_directory(target_dir: Path, protocol: str, model_name: str) -
 
     # Save a detailed CSV report for this model (useful for debugging failures)
     csv_path = target_dir / "evaluation_details.csv"
-    
-    fieldnames = ["task_id", "ground_truth", "prediction", "is_correct", "raw_output_snippet"]
+
+    fieldnames = [
+        "task_id",
+        "ground_truth",
+        "prediction",
+        "is_correct",
+        "raw_output_snippet",
+    ]
     if protocol.upper() == "P3":
         fieldnames.extend(["precision", "recall", "f1_score"])
-        
+
     with open(csv_path, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
@@ -272,11 +316,17 @@ def main():
 
     logging.info("=" * 115)
     if args.protocol.upper() == "P3":
-        logging.info(f"{'Model':<20} | {'Condition / Run':<30} | {'Acc(Str)':<9} | {'Acc(Ans)':<9} | {'Acc(Exp)':<9} | {'Prec':<7} | {'Recall':<7} | {'F1':<7}")
+        logging.info(
+            f"{'Model':<20} | {'Condition / Run':<30} | {'Acc(Str)':<9} | {'Acc(Ans)':<9} | {'Acc(Exp)':<9} | {'Prec':<7} | {'Recall':<7} | {'F1':<7}"
+        )
     elif args.protocol.upper() == "P7":
-        logging.info(f"{'Model':<20} | {'Condition / Run':<30} | {'Acc(N)':<9} | {'Acc(C)':<9} | {'ΔAcc':<9} | {'RA':<9} | {'Total':<5}")
+        logging.info(
+            f"{'Model':<20} | {'Condition / Run':<30} | {'Acc(N)':<9} | {'Acc(C)':<9} | {'ΔAcc':<9} | {'RA':<9} | {'Total':<5}"
+        )
     else:
-        logging.info(f"{'Model':<20} | {'Condition / Run':<30} | {'Acc(Str)':<9} | {'Acc(Ans)':<9} | {'Acc(Exp)':<9} | {'Corr':<5} | {'Total':<5}")
+        logging.info(
+            f"{'Model':<20} | {'Condition / Run':<30} | {'Acc(Str)':<9} | {'Acc(Ans)':<9} | {'Acc(Exp)':<9} | {'Corr':<5} | {'Total':<5}"
+        )
     logging.info("-" * 115)
 
     for model_dir in model_dirs:
@@ -289,7 +339,9 @@ def main():
         targets_to_evaluate = sub_dirs if sub_dirs else [model_dir]
 
         for target_dir in sorted(targets_to_evaluate):
-            metrics = evaluate_model_directory(target_dir, args.protocol, model_name=model_dir.name)
+            metrics = evaluate_model_directory(
+                target_dir, args.protocol, model_name=model_dir.name
+            )
 
             if metrics:
                 if args.protocol.upper() == "P3":
@@ -311,9 +363,13 @@ def main():
                     json.dump(metrics, f, indent=4)
             else:
                 if args.protocol.upper() == "P7":
-                    logging.info(f"{model_dir.name:<20} | {target_dir.name:<30} | {'No Data':<9} | {'-':<9} | {'-':<9} | {'-':<9} | {'-':<5}")
+                    logging.info(
+                        f"{model_dir.name:<20} | {target_dir.name:<30} | {'No Data':<9} | {'-':<9} | {'-':<9} | {'-':<9} | {'-':<5}"
+                    )
                 else:
-                    logging.info(f"{model_dir.name:<20} | {target_dir.name:<30} | {'No Data':<9} | {'-':<9} | {'-':<9} | {'-':<5} | {'-':<5}")
+                    logging.info(
+                        f"{model_dir.name:<20} | {target_dir.name:<30} | {'No Data':<9} | {'-':<9} | {'-':<9} | {'-':<5} | {'-':<5}"
+                    )
 
     logging.info("=" * 115)
 
