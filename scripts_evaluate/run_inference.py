@@ -350,7 +350,7 @@ def main():
             default_res = task_results.get("default", {})
             result_entry = {
                 "task_id": task_id,
-                "ground_truth": task.get("answer"),
+                "ground_truth": task.get("ground_truth", task.get("answer")),
                 "extracted_answer": default_res.get("extracted_answer"),
                 "model": args.model,
                 "prompt": default_res.get("prompt"),

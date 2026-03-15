@@ -157,7 +157,7 @@ class PromptGenerator:
             )
         elif protocol_norm == "P4":
             # 提取 P4 的 Metadata
-            context_text = query_data.get("context_text", {})
+            context_text = query_data.get("context_text") or {}
             metadata_items = []
             # 动态支持所有可能的 Metadata (如 location, timestamp 等)
             for k, v in context_text.items():

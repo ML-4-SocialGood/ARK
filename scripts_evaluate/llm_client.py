@@ -71,7 +71,7 @@ class OllamaClient:
             "temperature": 0.0,
             "seed": 42,
             "num_predict": 8192,  # Optimized for speed
-            "num_ctx": 8192,      # Increased context window for multi-image inputs
+            "num_ctx": 16384,     # Increased context window for multi-image inputs (e.g. P2/P3)
         }
 
         if options:
