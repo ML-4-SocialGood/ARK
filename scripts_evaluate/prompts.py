@@ -192,3 +192,38 @@ class PromptGenerator:
             )
 
         return prompt_text, image_paths
+
+    def construct_p7_prompts(self, task: dict) -> tuple[Optional[str], Optional[str], list[str]]:
+        """
+        Constructs the prompts and image list for Protocol 7 (Counterfactual Suggestion).
+        Returns two prompts (neutral and counterfactual) and the corresponding image list.
+        """
+        task_id = task.get("task_id", "Unknown")
+        
+        # 1. 提取 Image A 和 Image B 路径
+        image_a_data = task.get("image_a", {})
+        image_b_data = task.get("image_b", {})
+        
+        img_a_path = image_a_data.get("image_path")
+        img_b_path = image_b_data.get("image_path")
+        
+        if not img_a_path or not img_b_path:
+            logging.warning(f"Task {task_id} missing image_a or image_b.")
+            return None, None, []
+            
+        image_paths = [img_a_path, img_b_path]
+        
+        # 2. 提取两种不同的 Instructions
+        instruction_neutral = task.get("instruction_neutral")
+        instruction_counterfactual = task.get("instruction_counterfactual")
+        
+        if not instruction_neutral or not instruction_counterfactual:
+            logging.warning(f"Task {task_id} missing instruction texts.")
+            return None, None, []
+            
+        # 3. 组合占位符与 Prompt
+        base_context = "Image A: <image>. Image B: <image>.\n"
+        prompt_neutral = base_context + instruction_neutral
+        prompt_counterfactual = base_context + instruction_counterfactual
+        
+        return prompt_neutral, prompt_counterfactual, image_paths

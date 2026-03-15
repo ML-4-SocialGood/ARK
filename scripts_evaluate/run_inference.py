@@ -119,16 +119,23 @@ def main():
         if task_id in processed_task_ids:
             continue
 
-        # Construct Prompt
-        prompt_text, image_paths = prompt_gen.construct_mcq_prompt(
-            task, protocol=args.protocol
-        )
-
-        if not prompt_text:
-            logging.warning(
-                f"Skipping task {task_id}: Could not generate prompt (missing images?)."
+        # Construct Prompts based on protocol
+        if args.protocol.upper() == "P7":
+            prompt_n, prompt_c, image_paths = prompt_gen.construct_p7_prompts(task)
+            if not prompt_n or not prompt_c:
+                logging.warning(f"Skipping task {task_id}: Could not generate P7 prompts.")
+                continue
+            prompts_to_run = {"neutral": prompt_n, "counterfactual": prompt_c}
+        else:
+            prompt_text, image_paths = prompt_gen.construct_mcq_prompt(
+                task, protocol=args.protocol
             )
-            continue
+            if not prompt_text:
+                logging.warning(
+                    f"Skipping task {task_id}: Could not generate prompt (missing images?)."
+                )
+                continue
+            prompts_to_run = {"default": prompt_text}
 
         # Verify images exist locally
         missing_images = [img for img in image_paths if not os.path.exists(img)]
@@ -140,8 +147,6 @@ def main():
 
         # Verbose output for monitoring (like test_vl.py)
         logging.info(f"--- Task: {task_id} ---")
-        logging.info("[Generated Prompt (Snippet)]:")
-        logging.info(prompt_text[:300] + "..." if len(prompt_text) > 300 else prompt_text)
 
         logging.info(f"[Image Paths] ({len(image_paths)} images):")
         for p in image_paths:
@@ -150,148 +155,209 @@ def main():
             else:
                 logging.info(f"  [MISSING] {p}")
 
-        # Retry variables
-        max_retries = 3
-        extracted_answer = None
-        model_output = ""
-        duration = 0
-        response = {}
+        task_results = {}
 
-        for attempt in range(max_retries):
-            if attempt > 0:
-                logging.info(f"[Retry] Attempt {attempt + 1}/{max_retries}...")
-
-            logging.info("Sending request to Ollama... (This may take 10-30 seconds)")
-
-            try:
-                start_time = time.time()
-
-                # API Call
-                response = client.generate(prompt=prompt_text, images=image_paths)
-
-                duration = time.time() - start_time
-
-                # Extract text response
-                model_output = response.get("response", "")
-
-                # Extract answer (A, B, C, D) using Regex
-                extracted_answer = None
+        for prompt_name, prompt_text in prompts_to_run.items():
+            if len(prompts_to_run) > 1:
+                logging.info(f"--- Running Sub-Task: [{prompt_name}] ---")
                 
-                # Extract valid options dynamically from the task (Supports A-Z, [, \, ], ^, _, ` etc)
-                valid_options = [str(opt.get("option")).upper() for opt in task.get("gallery", [])]
-                opts_pattern = "|".join([re.escape(opt) for opt in valid_options])
-                
-                if model_output:
-                    if args.protocol.upper() == "P3":
-                        # Extraction Logic for P3 (Multiple correct options expected)
-                        found_opts = []
+            logging.info("[Generated Prompt (Snippet)]:")
+            logging.info(prompt_text[:300] + "..." if len(prompt_text) > 300 else prompt_text)
+
+            # Retry variables
+            max_retries = 3
+            extracted_answer = None
+            model_output = ""
+            duration = 0
+            response = {}
+
+            for attempt in range(max_retries):
+                if attempt > 0:
+                    logging.info(f"[Retry] Attempt {attempt + 1}/{max_retries}...")
+
+                logging.info("Sending request to Ollama... (This may take 10-30 seconds)")
+
+                try:
+                    start_time = time.time()
+
+                    # API Call
+                    response = client.generate(prompt=prompt_text, images=image_paths)
+
+                    duration = time.time() - start_time
+
+                    # Extract text response
+                    model_output = response.get("response", "")
+
+                    # Extract answer using Regex
+                    extracted_answer = None
+                    valid_options = []
+                    opts_pattern = ""
+                    
+                    # Extract valid options dynamically for P1-P6
+                    if args.protocol.upper() != "P7":
+                        valid_options = [str(opt.get("option")).upper() for opt in task.get("gallery", [])]
+                        opts_pattern = "|".join([re.escape(opt) for opt in valid_options])
+                    
+                    if model_output:
+                        if args.protocol.upper() == "P7":
+                            # Extraction Logic for P7 (Yes/No expected)
+                            # Strategy 1: Look for explicit "Answer: Yes/No" or "Conclusion: Yes/No"
+                            match = re.search(r'(?:Answer|Conclusion|Verification)\s*[:\-\s]*\s*(Yes|No)\b', model_output, re.IGNORECASE)
+                            if match:
+                                extracted_answer = match.group(1).upper()
+                                
+                            # Strategy 2: Look for Yes/No at the very beginning of the response
+                            if not extracted_answer:
+                                match = re.search(r'^\s*(Yes|No)\b', model_output, re.IGNORECASE)
+                                if match:
+                                    extracted_answer = match.group(1).upper()
+                                    
+                            # Strategy 3: Look for Yes/No with punctuation (e.g., "Yes.", "No,") early in the text
+                            if not extracted_answer:
+                                match = re.search(r'\b(Yes|No)[,\.]', model_output, re.IGNORECASE)
+                                if match:
+                                    extracted_answer = match.group(1).upper()
+                                    
+                            # Strategy 4: Fallback to the first occurrence anywhere
+                            if not extracted_answer:
+                                match = re.search(r'\b(Yes|No)\b', model_output, re.IGNORECASE)
+                                if match:
+                                    extracted_answer = match.group(1).upper()
+                                    
+                            # Strategy 5: Semantic fallback if model completely ignored "Yes/No" instruction
+                            if not extracted_answer:
+                                if re.search(r'\b(different)\b', model_output, re.IGNORECASE):
+                                    extracted_answer = "NO"
+                                elif re.search(r'\b(same)\b', model_output, re.IGNORECASE):
+                                    extracted_answer = "YES"
                         
-                        # Strategy 1: Look for explicit multiple answers "Answer: A, C, D" or "Options: A and B"
-                        match = re.search(rf'(?:Answer|Option|Choice)s?\s*[:\-\s]*\s*((?:{opts_pattern})(?:\s*(?:,|and|&)\s*(?:{opts_pattern}))*)', model_output, re.IGNORECASE)
-                        if match:
-                            raw_ans = match.group(1).upper()
-                            found_opts = re.findall(rf'({opts_pattern})', raw_ans)
+                        elif args.protocol.upper() == "P3":
+                            # Extraction Logic for P3 (Multiple correct options expected)
+                            found_opts = []
                             
-                        # Strategy 2: Look for bracketed combinations like [A, C, D]
-                        if not found_opts:
-                            match = re.search(r'\[(.*?)\]', model_output)
+                            # Strategy 1: Look for explicit multiple answers "Answer: A, C, D" or "Options: A and B"
+                            match = re.search(rf'(?:Answer|Option|Choice)s?\s*[:\-\s]*\s*((?:{opts_pattern})(?:\s*(?:,|and|&)\s*(?:{opts_pattern}))*)', model_output, re.IGNORECASE)
                             if match:
-                                found_opts = re.findall(rf'({opts_pattern})', match.group(1).upper())
+                                raw_ans = match.group(1).upper()
+                                found_opts = re.findall(rf'({opts_pattern})', raw_ans)
                                 
-                        # Strategy 3: Direct match if output is very short (Fallback)
-                        if not found_opts and len(model_output.strip()) <= 40:
-                            found_opts = re.findall(rf'({opts_pattern})', model_output.upper())
-                            
-                        if found_opts:
-                            # Remove duplicates, sort alphabetically, and format as "A, C, D"
-                            extracted_answer = ", ".join(sorted(list(set(found_opts))))
-                            
-                    elif args.protocol.upper() in ["P1", "P2", "P4", "P5", "P6"]:
-                        # Extraction Logic for P1 / P2 / P4 / P5 / P6 (Single correct option)
-                        # Strategy 1: Look for explicit "Answer: X", "Option X" pattern anywhere
-                        match = re.search(rf'(?:Answer|Option|Choice)\s*[:\-\s]*\s*({opts_pattern})(?!\w)', model_output, re.IGNORECASE)
-                        if match:
-                            extracted_answer = match.group(1).upper()
-
-                        # Strategy 2: Look for conversational patterns like "is A", "should be B"
-                        if not extracted_answer:
-                            match = re.search(r'\b(?:is|be|are)\s*:?\s*({opts_pattern})(?!\w)', model_output, re.IGNORECASE)
-                            if match:
-                                extracted_answer = match.group(1).upper()
-
-                        # Strategy 3: Look for "Image X", "Candidate X" or "Image A", "Candidate B"
-                        if not extracted_answer:
-                            # This handles "Image 1", "Candidate A", etc.
-                            match = re.search(r'(?:Image|Candidate)\s+({opts_pattern}|\d+)', model_output, re.IGNORECASE)
-                            if match:
-                                try:
-                                    val = match.group(1).upper()
-                                    if val.isdigit():
-                                        # Image 1 is Query, Image 2 is Option A (idx 0), Image 3 is Option B (idx 1), etc.
-                                        idx = int(val) - 2
-                                        if 0 <= idx < len(valid_options):
-                                            extracted_answer = valid_options[idx]
-                                    elif val in valid_options:
-                                        extracted_answer = val
-                                except (ValueError, IndexError):
-                                    pass # Ignore if mapping fails
-
-                        # Strategy 4: Look for a valid option character at the very end of the string
-                        if not extracted_answer:
-                            match = re.search(rf'(?:^|\s)({opts_pattern})[\.\)]?\s*$', model_output.strip(), re.IGNORECASE)
-                            if match:
-                                extracted_answer = match.group(1).upper()
-
-                        # Strategy 5: Look for valid option character at the start (e.g. "A. The answer is...")
-                        if not extracted_answer:
-                            match = re.search(rf'^\s*({opts_pattern})[\.\)]', model_output.strip(), re.IGNORECASE)
-                            if match:
-                                extracted_answer = match.group(1).upper()
+                            # Strategy 2: Look for bracketed combinations like [A, C, D]
+                            if not found_opts:
+                                match = re.search(r'\[(.*?)\]', model_output)
+                                if match:
+                                    found_opts = re.findall(rf'({opts_pattern})', match.group(1).upper())
+                                    
+                            # Strategy 3: Direct match if output is very short (Fallback)
+                            if not found_opts and len(model_output.strip()) <= 40:
+                                found_opts = re.findall(rf'({opts_pattern})', model_output.upper())
                                 
-                        # Strategy 6: Direct match if output is extremely short (Fallback)
-                        if not extracted_answer and model_output.strip().upper() in valid_options:
-                            extracted_answer = model_output.strip().upper()
+                            if found_opts:
+                                # Remove duplicates, sort alphabetically, and format as "A, C, D"
+                                extracted_answer = ", ".join(sorted(list(set(found_opts))))
+                                
+                        elif args.protocol.upper() in ["P1", "P2", "P4", "P5", "P6"]:
+                            # Extraction Logic for P1 / P2 / P4 / P5 / P6 (Single correct option)
+                            # Strategy 1: Look for explicit "Answer: X", "Option X" pattern anywhere
+                            match = re.search(rf'(?:Answer|Option|Choice)\s*[:\-\s]*\s*({opts_pattern})(?!\w)', model_output, re.IGNORECASE)
+                            if match:
+                                extracted_answer = match.group(1).upper()
 
-                # Verbose output for response
-                logging.info("==================== Model Response ====================")
-                if model_output:
-                    logging.info(f"\n{model_output}")
-                elif response.get("thinking"):
-                    logging.info("[Thinking Process (Response was empty)]:")
-                    logging.info(response.get("thinking"))
-                else:
-                    logging.info("[No response or thinking field found.]")
-                logging.info("========================================================")
+                            # Strategy 2: Look for conversational patterns like "is A", "should be B"
+                            if not extracted_answer:
+                                match = re.search(r'\b(?:is|be|are)\s*:?\s*({opts_pattern})(?!\w)', model_output, re.IGNORECASE)
+                                if match:
+                                    extracted_answer = match.group(1).upper()
 
-                logging.info("[Debug Info]:")
-                logging.info(f"  Done: {response.get('done')}")
-                logging.info(f"  Eval Count: {response.get('eval_count')} tokens")
-                total_duration = response.get("total_duration")
-                if total_duration:
-                    logging.info(f"  Total Duration: {total_duration / 1e9:.2f}s")
-                logging.info("-" * 60)
+                            # Strategy 3: Look for "Image X", "Candidate X" or "Image A", "Candidate B"
+                            if not extracted_answer:
+                                # This handles "Image 1", "Candidate A", etc.
+                                match = re.search(r'(?:Image|Candidate)\s+({opts_pattern}|\d+)', model_output, re.IGNORECASE)
+                                if match:
+                                    try:
+                                        val = match.group(1).upper()
+                                        if val.isdigit():
+                                            # Image 1 is Query, Image 2 is Option A (idx 0), Image 3 is Option B (idx 1), etc.
+                                            idx = int(val) - 2
+                                            if 0 <= idx < len(valid_options):
+                                                extracted_answer = valid_options[idx]
+                                        elif val in valid_options:
+                                            extracted_answer = val
+                                    except (ValueError, IndexError):
+                                        pass # Ignore if mapping fails
 
-                if extracted_answer:
-                    break
-                
-                logging.warning(f"Task {task_id}: Failed to extract answer (Attempt {attempt + 1}/{max_retries}).")
+                            # Strategy 4: Look for a valid option character at the very end of the string
+                            if not extracted_answer:
+                                match = re.search(rf'(?:^|\s)({opts_pattern})[\.\)]?\s*$', model_output.strip(), re.IGNORECASE)
+                                if match:
+                                    extracted_answer = match.group(1).upper()
 
-            except Exception as e:
-                logging.error(f"Error processing task {task_id} (Attempt {attempt + 1}/{max_retries}): {e}")
-                continue
+                            # Strategy 5: Look for valid option character at the start (e.g. "A. The answer is...")
+                            if not extracted_answer:
+                                match = re.search(rf'^\s*({opts_pattern})[\.\)]', model_output.strip(), re.IGNORECASE)
+                                if match:
+                                    extracted_answer = match.group(1).upper()
+                                    
+                            # Strategy 6: Direct match if output is extremely short (Fallback)
+                            if not extracted_answer and model_output.strip().upper() in valid_options:
+                                extracted_answer = model_output.strip().upper()
+
+                    # Verbose output for response
+                    logging.info("==================== Model Response ====================")
+                    if model_output:
+                        logging.info(f"\n{model_output}")
+                    elif response.get("thinking"):
+                        logging.info("[Thinking Process (Response was empty)]:")
+                        logging.info(response.get("thinking"))
+                    else:
+                        logging.info("[No response or thinking field found.]")
+                    logging.info("========================================================")
+
+                    logging.info("[Debug Info]:")
+                    logging.info(f"  Done: {response.get('done')}")
+                    logging.info(f"  Eval Count: {response.get('eval_count')} tokens")
+                    total_duration = response.get("total_duration")
+                    if total_duration:
+                        logging.info(f"  Total Duration: {total_duration / 1e9:.2f}s")
+                    logging.info("-" * 60)
+
+                    if extracted_answer:
+                        break
+                    
+                    logging.warning(f"Task {task_id} [{prompt_name}]: Failed to extract answer (Attempt {attempt + 1}/{max_retries}).")
+
+                except Exception as e:
+                    logging.error(f"Error processing task {task_id} [{prompt_name}] (Attempt {attempt + 1}/{max_retries}): {e}")
+                    continue
+
+            task_results[prompt_name] = {
+                "prompt": prompt_text,
+                "prediction_text": model_output,
+                "extracted_answer": extracted_answer,
+                "duration_seconds": duration
+            }
 
         # Save Result
-        result_entry = {
-            "task_id": task_id,
-            "ground_truth": task.get("answer"),
-            "extracted_answer": extracted_answer,
-            "model": args.model,
-            "prompt": prompt_text,
-            "image_paths": image_paths,
-            "prediction_text": model_output,
-            # "full_response": response,  # Removed to save space/readability
-            "duration_seconds": duration,
-        }
+        if args.protocol.upper() == "P7":
+            result_entry = {
+                "task_id": task_id,
+                "ground_truth": task.get("ground_truth"),
+                "model": args.model,
+                "image_paths": image_paths,
+                "neutral": task_results.get("neutral", {}),
+                "counterfactual": task_results.get("counterfactual", {})
+            }
+        else:
+            default_res = task_results.get("default", {})
+            result_entry = {
+                "task_id": task_id,
+                "ground_truth": task.get("answer"),
+                "extracted_answer": default_res.get("extracted_answer"),
+                "model": args.model,
+                "prompt": default_res.get("prompt"),
+                "image_paths": image_paths,
+                "prediction_text": default_res.get("prediction_text"),
+                "duration_seconds": default_res.get("duration_seconds"),
+            }
 
         # Save to individual JSON file
         task_file = output_dir / f"{task_id}.json"
