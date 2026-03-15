@@ -39,6 +39,12 @@ def evaluate_model_directory(target_dir: Path, protocol: str, model_name: str) -
     total_p = 0.0
     total_r = 0.0
     total_f1 = 0.0
+    
+    # Variables for P7
+    correct_n = 0
+    correct_c = 0
+    missing_n = 0
+    missing_c = 0
 
     # Store detailed results for CSV export
     detailed_results = []
@@ -50,14 +56,51 @@ def evaluate_model_directory(target_dir: Path, protocol: str, model_name: str) -
 
             task_id = data.get("task_id")
             ground_truth = data.get("ground_truth")
-            extracted_answer = data.get("extracted_answer")
-            prediction_text = data.get("prediction_text", "")
 
             # Skip tasks that don't have ground truth (e.g. pure test set)
             if not ground_truth:
                 continue
 
             total_count += 1
+            
+            if protocol.upper() == "P7":
+                # P7 GT mapping: same -> YES, different -> NO
+                gt_norm = "YES" if ground_truth.strip().lower() == "same" else "NO"
+                
+                res_n = data.get("neutral", {})
+                res_c = data.get("counterfactual", {})
+                
+                pred_n = res_n.get("extracted_answer")
+                pred_n_norm = pred_n.strip().upper() if pred_n else None
+                
+                pred_c = res_c.get("extracted_answer")
+                pred_c_norm = pred_c.strip().upper() if pred_c else None
+                
+                is_correct_n = (pred_n_norm == gt_norm)
+                is_correct_c = (pred_c_norm == gt_norm)
+                
+                if is_correct_n: correct_n += 1
+                if is_correct_c: correct_c += 1
+                
+                if not pred_n_norm: missing_n += 1
+                if not pred_c_norm: missing_c += 1
+                
+                row = {
+                    "task_id": task_id,
+                    "ground_truth": gt_norm,
+                    "pred_neutral": pred_n_norm if pred_n_norm else "N/A",
+                    "is_correct_n": is_correct_n,
+                    "pred_counterfactual": pred_c_norm if pred_c_norm else "N/A",
+                    "is_correct_c": is_correct_c,
+                    "raw_output_n_snippet": res_n.get("prediction_text", "")[:100].replace("\n", " "),
+                    "raw_output_c_snippet": res_c.get("prediction_text", "")[:100].replace("\n", " ")
+                }
+                detailed_results.append(row)
+                continue
+
+            # P1-P6 & P3 logic
+            extracted_answer = data.get("extracted_answer")
+            prediction_text = data.get("prediction_text", "")
 
             # Normalize for comparison
             gt_norm = ground_truth.strip().upper()
@@ -115,6 +158,37 @@ def evaluate_model_directory(target_dir: Path, protocol: str, model_name: str) -
 
     if total_count == 0:
         return None
+        
+    # Return P7 specific metrics
+    if protocol.upper() == "P7":
+        acc_n = correct_n / total_count if total_count > 0 else 0.0
+        acc_c = correct_c / total_count if total_count > 0 else 0.0
+        delta_acc = acc_n - acc_c
+        ra = (acc_c / acc_n) if acc_n > 0 else 0.0
+        
+        metrics = {
+            "model": model_name,
+            "run_name": target_dir.name,
+            "accuracy_neutral": acc_n,
+            "accuracy_counterfactual": acc_c,
+            "delta_acc": delta_acc,
+            "resilience_accuracy": ra,
+            "correct_neutral": correct_n,
+            "correct_counterfactual": correct_c,
+            "total": total_count,
+            "missing_neutral": missing_n,
+            "missing_counterfactual": missing_c,
+        }
+        
+        csv_path = target_dir / "evaluation_details.csv"
+        fieldnames = ["task_id", "ground_truth", "pred_neutral", "is_correct_n", "pred_counterfactual", "is_correct_c", "raw_output_n_snippet", "raw_output_c_snippet"]
+        with open(csv_path, "w", newline="") as f:
+            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(detailed_results)
+            
+        logging.info(f"Saved detailed analysis to {csv_path}")
+        return metrics
 
     answered_count = total_count - missing_answer_count
     acc_strict = correct_count / total_count if total_count > 0 else 0.0
@@ -199,6 +273,8 @@ def main():
     logging.info("=" * 115)
     if args.protocol.upper() == "P3":
         logging.info(f"{'Model':<20} | {'Condition / Run':<30} | {'Acc(Str)':<9} | {'Acc(Ans)':<9} | {'Acc(Exp)':<9} | {'Prec':<7} | {'Recall':<7} | {'F1':<7}")
+    elif args.protocol.upper() == "P7":
+        logging.info(f"{'Model':<20} | {'Condition / Run':<30} | {'Acc(N)':<9} | {'Acc(C)':<9} | {'ΔAcc':<9} | {'RA':<9} | {'Total':<5}")
     else:
         logging.info(f"{'Model':<20} | {'Condition / Run':<30} | {'Acc(Str)':<9} | {'Acc(Ans)':<9} | {'Acc(Exp)':<9} | {'Corr':<5} | {'Total':<5}")
     logging.info("-" * 115)
@@ -220,6 +296,10 @@ def main():
                     logging.info(
                         f"{metrics['model']:<20} | {metrics['run_name']:<30} | {metrics['acc_strict']:<9.2%} | {metrics['acc_answered']:<9.2%} | {metrics['acc_expected']:<9.2%} | {metrics['precision']:<7.2%} | {metrics['recall']:<7.2%} | {metrics['f1_score']:<7.2%}"
                     )
+                elif args.protocol.upper() == "P7":
+                    logging.info(
+                        f"{metrics['model']:<20} | {metrics['run_name']:<30} | {metrics['accuracy_neutral']:<9.2%} | {metrics['accuracy_counterfactual']:<9.2%} | {metrics['delta_acc']:<9.2%} | {metrics['resilience_accuracy']:<9.2%} | {metrics['total']:<5}"
+                    )
                 else:
                     logging.info(
                         f"{metrics['model']:<20} | {metrics['run_name']:<30} | {metrics['acc_strict']:<9.2%} | {metrics['acc_answered']:<9.2%} | {metrics['acc_expected']:<9.2%} | {metrics['correct']:<5} | {metrics['total']:<5}"
@@ -230,7 +310,10 @@ def main():
                 with open(target_dir / "metrics.json", "w") as f:
                     json.dump(metrics, f, indent=4)
             else:
-                logging.info(f"{model_dir.name:<20} | {target_dir.name:<30} | {'No Data':<9} | {'-':<9} | {'-':<9} | {'-':<5} | {'-':<5}")
+                if args.protocol.upper() == "P7":
+                    logging.info(f"{model_dir.name:<20} | {target_dir.name:<30} | {'No Data':<9} | {'-':<9} | {'-':<9} | {'-':<9} | {'-':<5}")
+                else:
+                    logging.info(f"{model_dir.name:<20} | {target_dir.name:<30} | {'No Data':<9} | {'-':<9} | {'-':<9} | {'-':<5} | {'-':<5}")
 
     logging.info("=" * 115)
 
