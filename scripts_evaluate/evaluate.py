@@ -19,17 +19,17 @@ sys.path.append(os.getcwd())
 from scripts_evaluate.utils import ensure_directories, setup_logging
 
 
-def evaluate_model_directory(model_dir: Path, protocol: str) -> Optional[dict]:
+def evaluate_model_directory(target_dir: Path, protocol: str, model_name: str) -> Optional[dict]:
     """
-    Evaluates all task JSON files in a specific model's directory.
+    Evaluates all task JSON files in a specific directory (could be a model dir or a sub-run dir).
 
     Returns:
         dict: Metrics containing accuracy, total counts, etc.
     """
-    json_files = sorted(list(model_dir.glob("*.json")))
+    json_files = sorted(list(target_dir.glob("*.json")))
 
     if not json_files:
-        logging.warning(f"No result files found in {model_dir}")
+        logging.warning(f"No result files found in {target_dir}")
         return None
 
     total_count = 0
@@ -123,7 +123,8 @@ def evaluate_model_directory(model_dir: Path, protocol: str) -> Optional[dict]:
     acc_expected = (correct_count + 0.25 * missing_answer_count) / total_count if total_count > 0 else 0.0
 
     metrics = {
-        "model": model_dir.name,
+        "model": model_name,
+        "run_name": target_dir.name,
         "accuracy": acc_strict,  # 保留为 acc_strict 以向下兼容
         "acc_strict": acc_strict,
         "acc_answered": acc_answered,
@@ -140,7 +141,7 @@ def evaluate_model_directory(model_dir: Path, protocol: str) -> Optional[dict]:
         metrics["f1_score"] = total_f1 / total_count
 
     # Save a detailed CSV report for this model (useful for debugging failures)
-    csv_path = model_dir / "evaluation_details.csv"
+    csv_path = target_dir / "evaluation_details.csv"
     
     fieldnames = ["task_id", "ground_truth", "prediction", "is_correct", "raw_output_snippet"]
     if protocol.upper() == "P3":
@@ -193,38 +194,43 @@ def main():
     # 3. Evaluate Each Model
     final_report = []
 
-    logging.info("=" * 95)
+    logging.info("=" * 115)
     if args.protocol.upper() == "P3":
-        logging.info(f"{'Model':<25} | {'Acc(Str)':<9} | {'Acc(Ans)':<9} | {'Acc(Exp)':<9} | {'Prec':<7} | {'Recall':<7} | {'F1':<7}")
+        logging.info(f"{'Model':<20} | {'Condition / Run':<30} | {'Acc(Str)':<9} | {'Acc(Ans)':<9} | {'Acc(Exp)':<9} | {'Prec':<7} | {'Recall':<7} | {'F1':<7}")
     else:
-        logging.info(f"{'Model':<25} | {'Acc(Str)':<9} | {'Acc(Ans)':<9} | {'Acc(Exp)':<9} | {'Corr':<5} | {'Total':<5}")
-    logging.info("-" * 95)
+        logging.info(f"{'Model':<20} | {'Condition / Run':<30} | {'Acc(Str)':<9} | {'Acc(Ans)':<9} | {'Acc(Exp)':<9} | {'Corr':<5} | {'Total':<5}")
+    logging.info("-" * 115)
 
     for model_dir in model_dirs:
         if not model_dir.exists():
             logging.warning(f"Directory not found: {model_dir}")
             continue
 
-        metrics = evaluate_model_directory(model_dir, args.protocol)
+        # Auto-detect if we have subdirectories (like P5 isolated runs) or flat json files
+        sub_dirs = [d for d in model_dir.iterdir() if d.is_dir()]
+        targets_to_evaluate = sub_dirs if sub_dirs else [model_dir]
 
-        if metrics:
-            if args.protocol.upper() == "P3":
-                logging.info(
-                    f"{metrics['model']:<25} | {metrics['acc_strict']:<9.2%} | {metrics['acc_answered']:<9.2%} | {metrics['acc_expected']:<9.2%} | {metrics['precision']:<7.2%} | {metrics['recall']:<7.2%} | {metrics['f1_score']:<7.2%}"
-                )
+        for target_dir in sorted(targets_to_evaluate):
+            metrics = evaluate_model_directory(target_dir, args.protocol, model_name=model_dir.name)
+
+            if metrics:
+                if args.protocol.upper() == "P3":
+                    logging.info(
+                        f"{metrics['model']:<20} | {metrics['run_name']:<30} | {metrics['acc_strict']:<9.2%} | {metrics['acc_answered']:<9.2%} | {metrics['acc_expected']:<9.2%} | {metrics['precision']:<7.2%} | {metrics['recall']:<7.2%} | {metrics['f1_score']:<7.2%}"
+                    )
+                else:
+                    logging.info(
+                        f"{metrics['model']:<20} | {metrics['run_name']:<30} | {metrics['acc_strict']:<9.2%} | {metrics['acc_answered']:<9.2%} | {metrics['acc_expected']:<9.2%} | {metrics['correct']:<5} | {metrics['total']:<5}"
+                    )
+                final_report.append(metrics)
+
+                # Save metrics.json in the specific target folder
+                with open(target_dir / "metrics.json", "w") as f:
+                    json.dump(metrics, f, indent=4)
             else:
-                logging.info(
-                    f"{metrics['model']:<25} | {metrics['acc_strict']:<9.2%} | {metrics['acc_answered']:<9.2%} | {metrics['acc_expected']:<9.2%} | {metrics['correct']:<5} | {metrics['total']:<5}"
-                )
-            final_report.append(metrics)
+                logging.info(f"{model_dir.name:<20} | {target_dir.name:<30} | {'No Data':<9} | {'-':<9} | {'-':<9} | {'-':<5} | {'-':<5}")
 
-            # Save metrics.json in the model folder
-            with open(model_dir / "metrics.json", "w") as f:
-                json.dump(metrics, f, indent=4)
-        else:
-            logging.info(f"{model_dir.name:<25} | {'No Data':<9} | {'-':<9} | {'-':<9} | {'-':<5} | {'-':<5}")
-
-    logging.info("=" * 95)
+    logging.info("=" * 115)
 
     # 4. Save Overall Report
     report_path = paths["base"] / "evaluation_summary.json"
