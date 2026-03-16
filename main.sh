@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=ARK
+#SBATCH --job-name=inference
 #SBATCH --time=9999:00:00
 #SBATCH --open-mode=append
 #SBATCH --output=/data/yil708/ARK/logs/slurm_ARK_%j.out
