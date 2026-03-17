@@ -18,8 +18,11 @@ export PATH="/data/yil708/software/ollama/bin:$PATH"
 export no_proxy="localhost,127.0.0.1"
 export NO_PROXY="localhost,127.0.0.1"
 
-# 1. 指定一个自定义端口，避免与节点上现有的服务冲突
-export OLLAMA_HOST=127.0.0.1:11435
+# 1. 为每个作业分配一个默认端口；也支持通过环境变量手动覆盖
+PORT_SEED="${SLURM_JOB_ID:-$$}"
+export OLLAMA_PORT="${OLLAMA_PORT:-$((20000 + (PORT_SEED % 20000)))}"
+export OLLAMA_HOST="${OLLAMA_HOST:-127.0.0.1:${OLLAMA_PORT}}"
+OLLAMA_URL="http://${OLLAMA_HOST}"
 # 如果您的模型保存在非默认路径（例如不在 ~/.ollama/models），请取消注释并修改下行：
 export OLLAMA_MODELS=/data/yil708/software/ollama/models
 
@@ -31,7 +34,7 @@ trap 'kill ${OLLAMA_PID} 2>/dev/null || true' EXIT
 # 3. 等待服务启动 (循环检查端口直到服务就绪)
 echo "Waiting for Ollama to start..."
 for i in {1..60}; do
-    if curl -s http://127.0.0.1:11435 > /dev/null; then echo "Ollama started!"; break; fi
+    if curl -s "${OLLAMA_URL}" > /dev/null; then echo "Ollama started on ${OLLAMA_HOST}!"; break; fi
     sleep 2
 done
 
@@ -46,4 +49,4 @@ python scripts_evaluate/run_inference.py \
   --protocol p1 \
   --annotation_file annotations/BelugaID/p1/BelugaID_I2I_P1_N4.json \
   --model gemma3:4b \
-  --host http://localhost:11435
+  --host "${OLLAMA_URL}"
