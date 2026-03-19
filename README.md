@@ -55,7 +55,8 @@ When running on a cluster, use `main.sh`. This script automatically starts a **p
     Edit the script to specify your model path (if needed) and inference arguments.
     ```bash
     # Inside main.sh:
-    export OLLAMA_HOST=127.0.0.1:11435           # Custom port
+    OLLAMA_PORT=$(( 10000 + (${SLURM_JOB_ID:-0} % 10000) + RANDOM % 10000 ))
+    export OLLAMA_HOST=127.0.0.1:$OLLAMA_PORT    # Dynamic port to avoid conflicts
     # export OLLAMA_MODELS=/path/to/models       # Uncomment if using custom model path
 
     # Check the python command line for your specific task
