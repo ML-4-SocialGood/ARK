@@ -33,7 +33,7 @@ def plot_reid_reasoning_accuracy():
     # 4. 坐标轴与刻度设置
     # 精简 Title 和 Label 文本，防止在狭窄空间内拥挤或溢出
     ax.set_title("(a) Impact of Query Quantity", fontsize=11, pad=8)
-    ax.set_xlabel("Number of Queries ($N$)", fontsize=10)
+    ax.set_xlabel("Number of Queries", fontsize=10)
     ax.set_ylabel("Accuracy (%)", fontsize=10)
     ax.set_ylim(20, 65)  # 截断空白区域，放大模型差距
     ax.tick_params(axis='both', which='major', labelsize=9)

@@ -1,0 +1,66 @@
+import matplotlib.pyplot as plt
+import seaborn as sns
+import pandas as pd
+import scienceplots  # noqa: F401 (引入它是为了底层注册样式)
+
+def plot_metadata_impact():
+    # 1. 准备数据并转换为 DataFrame 供 seaborn 消费
+    data = {
+        'Species': ['Penguin', 'Penguin', 'Penguin', 'Penguin', 
+                    'Stoat', 'Stoat', 'Stoat', 'Stoat'],
+        'Metadata': ['NM', 'FO', 'CR', 'Overall', 
+                     'NM', 'FO', 'CR', 'Overall'],
+        'Accuracy': [45.12, 52.78, 46.33, 54.95, 
+                     43.85, 45.62, 50.31, 52.41]
+    }
+    df = pd.DataFrame(data)
+
+    # 2. 设置学术风格主题和画布大小 (与 3a 保持绝对一致的 2.5x2.5 紧凑画幅)
+    plt.style.use(['science', 'no-latex'])
+    # 启用 Times New Roman 字体，符合顶会论文排版规范
+    plt.rcParams["font.family"] = "Times New Roman"
+    
+    fig, ax = plt.subplots(figsize=(2.5, 2.5))
+
+    # 3. 绘制并列分组柱状图
+    # 使用现代前沿 AI 风格配色：深海青、焦糖橙、薄荷水绿、极夜黑
+    palette = {'NM': '#0A9396', 'FO': '#CA6702', 'CR': '#94D2BD', 'Overall': '#001219'}
+    
+    sns.barplot(
+        data=df, x='Species', y='Accuracy', hue='Metadata',
+        palette=palette, ax=ax, 
+        edgecolor='black', linewidth=0.8 # 给柱状图加黑色细边框，提升学术质感
+    )
+
+    # 增加柱状图的舱口纹理 (Hatch) 以增加黑白打印辨识度
+    # 按照 NM, FO, CR, Overall 的顺序设定不同的纹理
+    hatches = ['//', '\\\\', '', '..']
+    num_species = len(df['Species'].unique())
+    for i, bar in enumerate(ax.patches):
+        # ax.patches 按照 hue 分组排序，因此可以通过整除计算所属的 Metadata 类别
+        bar.set_hatch(hatches[i // num_species])
+
+    # 4. 坐标轴与刻度设置
+    ax.set_title("(b) Impact of Metadata", fontsize=11, pad=8)
+    ax.set_xlabel("Species", fontsize=10)
+    ax.set_ylabel("Accuracy (%)", fontsize=10)
+    ax.set_ylim(40, 62)  # 根据数据极值 (43~55) 截断，调整合适的上限以容纳图例
+    ax.tick_params(axis='both', which='major', labelsize=9)
+
+    # 5. 网格、边框与图例美化
+    ax.grid(True, axis='y', linestyle='--', alpha=0.4, color='#B0B0B0')  # 柱状图通常只保留 Y 轴网格
+    ax.set_axisbelow(True)  # 确保网格线不会覆盖在柱子上方
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.tick_params(top=False, right=False)
+
+    # 调整图例: 改为双列排布，并去除边框 (frameon=False) 使得画面更透气、不拥挤
+    ax.legend(title=None, loc='upper left', ncol=2, frameon=False, 
+              framealpha=0.9, fontsize=7.5, handlelength=1.0, handletextpad=0.4, columnspacing=0.8)
+
+    # 6. 调整布局并保存图片
+    plt.tight_layout()
+    plt.savefig('figure_3b.png', dpi=300, bbox_inches='tight')
+
+if __name__ == "__main__":
+    plot_metadata_impact()
