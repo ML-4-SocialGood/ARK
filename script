@@ -1,9 +1,0 @@
-python scripts_evaluate/proprietary_gpt.py \
-    --species WhaleSharkID \
-    --protocol p2 \
-    --annotation_file annotations/WhaleSharkID/p2/WhaleSharkID_M2I_P2.json \
-    --model gpt-5.4 \
-    --resume \
-    --limit 50
-
-python scripts_evaluate/evaluate.py --species WhaleSharkID --protocol p1

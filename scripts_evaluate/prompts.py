@@ -78,7 +78,7 @@ class PromptGenerator:
         # 使用安全的 .get 方法防止 KeyError
         query_data = task.get("query", {})
 
-        if protocol_norm in ["P1", "P3", "P4", "P5", "P6"]:
+        if protocol_norm in ["P1", "P3", "P4", "P5", "P6", "P4_NO_META"]:
             query_img = query_data.get("image_path")
             # 容错：如果 P1/P3 数据错误地使用了列表格式
             if not query_img and query_data.get("image_paths"):

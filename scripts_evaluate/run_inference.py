@@ -255,7 +255,7 @@ def main():
                                 # Remove duplicates, sort alphabetically, and format as "A, C, D"
                                 extracted_answer = ", ".join(sorted(list(set(found_opts))))
                                 
-                        elif args.protocol.upper() in ["P1", "P2", "P4", "P5", "P6"]:
+                        elif args.protocol.upper() in ["P1", "P2", "P4", "P5", "P6", "P4_NO_META"]:
                             # Extraction Logic for P1 / P2 / P4 / P5 / P6 (Single correct option)
                             # Strategy 1: Look for explicit "Answer: X", "Option X" pattern anywhere
                             match = re.search(rf'(?:Answer|Option|Choice)\s*[:\-\s]*\s*({opts_pattern})(?!\w)', model_output, re.IGNORECASE)
@@ -264,14 +264,14 @@ def main():
 
                             # Strategy 2: Look for conversational patterns like "is A", "should be B"
                             if not extracted_answer:
-                                match = re.search(r'\b(?:is|be|are)\s*:?\s*({opts_pattern})(?!\w)', model_output, re.IGNORECASE)
+                                match = re.search(rf'\b(?:is|be|are)\s*:?\s*({opts_pattern})(?!\w)', model_output, re.IGNORECASE)
                                 if match:
                                     extracted_answer = match.group(1).upper()
 
                             # Strategy 3: Look for "Image X", "Candidate X" or "Image A", "Candidate B"
                             if not extracted_answer:
                                 # This handles "Image 1", "Candidate A", etc.
-                                match = re.search(r'(?:Image|Candidate)\s+({opts_pattern}|\d+)', model_output, re.IGNORECASE)
+                                match = re.search(rf'(?:Image|Candidate)\s+({opts_pattern}|\d+)', model_output, re.IGNORECASE)
                                 if match:
                                     try:
                                         val = match.group(1).upper()

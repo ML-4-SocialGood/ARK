@@ -349,7 +349,7 @@ def main():
                                     sorted(list(set(found_opts)))
                                 )
 
-                        elif args.protocol.upper() in ["P1", "P2", "P4", "P5", "P6"]:
+                        elif args.protocol.upper() in ["P1", "P2", "P4", "P5", "P6", "P4_NO_META"]:
                             match = re.search(
                                 rf"(?:Answer|Option|Choice)\s*[:\-\s]*\s*({opts_pattern})(?!\w)",
                                 model_output,
@@ -359,7 +359,7 @@ def main():
                                 extracted_answer = match.group(1).upper()
                             if not extracted_answer:
                                 match = re.search(
-                                    r"\b(?:is|be|are)\s*:?\s*({opts_pattern})(?!\w)",
+                                    rf"\b(?:is|be|are)\s*:?\s*({opts_pattern})(?!\w)",
                                     model_output,
                                     re.IGNORECASE,
                                 )
@@ -367,7 +367,7 @@ def main():
                                     extracted_answer = match.group(1).upper()
                             if not extracted_answer:
                                 match = re.search(
-                                    r"(?:Image|Candidate)\s+({opts_pattern}|\d+)",
+                                    rf"(?:Image|Candidate)\s+({opts_pattern}|\d+)",
                                     model_output,
                                     re.IGNORECASE,
                                 )
