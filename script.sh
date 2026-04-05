@@ -1,20 +1,20 @@
 #!/bin/bash
 
 # 1. 在这里填入你所有的物种名称（用空格隔开）
-SPECIES_LIST=("BelugaID") # <--- 替换为你实际的物种列表
+SPECIES_LIST=("BelugaID" "BirdIndividualID") # <--- 替换为你实际的物种列表
 
-DATA_PROTOCOL="p7"          # 数据集所在的真实协议文件夹
-RUN_PROTOCOL="p7"           # 运行时的独立协议名
-MODEL="gemini-3-flash"
-LIMIT=5
+DATA_PROTOCOL="p1"          # 数据集所在的真实协议文件夹
+RUN_PROTOCOL="p1"           # 运行时的独立协议名
+MODEL="claude-opus-4-6"
+LIMIT=50
 
 for SPECIES in "${SPECIES_LIST[@]}"; do
     echo "=========================================================="
     echo "🚀 开始处理物种: $SPECIES (运行协议: $RUN_PROTOCOL | 数据源: $DATA_PROTOCOL)"
     echo "=========================================================="
 
-    # 自动寻找 JSON 标注文件 (精确匹配 P7 格式: Species_P7.json)
-    ANNOTATION_FILE=$(find annotations -type f -path "*/${SPECIES}/${DATA_PROTOCOL}/${SPECIES}_P7.json" 2>/dev/null | head -n 1)
+    # 自动寻找 JSON 标注文件 (匹配 P1 格式: 如 BelugaID_I2I_P1_N4.json)
+    ANNOTATION_FILE=$(find annotations -type f -path "*/${SPECIES}/${DATA_PROTOCOL}/*_P1*.json" 2>/dev/null | head -n 1)
 
     if [ -z "$ANNOTATION_FILE" ]; then
         echo "⚠️  警告: 在 annotations/${SPECIES}/${DATA_PROTOCOL}/ 下没有找到匹配的 JSON 标注文件，跳过 $SPECIES..."
@@ -30,7 +30,7 @@ for SPECIES in "${SPECIES_LIST[@]}"; do
     
     echo "📁 输出目录结构将保持为: results/${SPECIES_PATH}/${RUN_PROTOCOL}"
 
-    python scripts_evaluate/proprietary_gemini.py \
+    python scripts_evaluate/proprietary_claude.py \
         --species "$SPECIES_PATH" \
         --protocol "$RUN_PROTOCOL" \
         --annotation_file "$ANNOTATION_FILE" \
