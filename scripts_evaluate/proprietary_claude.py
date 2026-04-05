@@ -67,8 +67,8 @@ def main():
     parser.add_argument(
         "--model",
         type=str,
-        default="claude-4-6-opus-20260205",
-        help="Claude model name (e.g., claude-4-6-opus-20260205, claude-3-5-sonnet-20241022)",
+        default="claude-opus-4-6",
+        help="Claude model name (e.g., claude-opus-4-6, claude-3-5-sonnet-20241022)",
     )
     parser.add_argument(
         "--limit",
