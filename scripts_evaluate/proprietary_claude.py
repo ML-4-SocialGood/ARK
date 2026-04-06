@@ -73,8 +73,8 @@ def main():
     parser.add_argument(
         "--limit",
         type=int,
-        default=50,
-        help="Limit the number of tasks to evaluate to control budget (default: 50, use 0 for no limit).",
+        default=30,
+        help="Limit the number of tasks to evaluate to control budget (default: 30, use 0 for no limit).",
     )
     parser.add_argument(
         "--dry_run",
