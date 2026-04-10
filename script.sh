@@ -1,20 +1,25 @@
 #!/bin/bash
 
 # 1. 在这里填入你所有的物种名称（用空格隔开）
-SPECIES_LIST=("BirdIndividualID" "CTai") # <--- 替换为你实际的物种列表
+SPECIES_LIST=("Giraffes") # <--- 替换为你实际的物种列表
 
-DATA_PROTOCOL="p2"          # 数据集所在的真实协议文件夹
-RUN_PROTOCOL="p2"           # 运行时的独立协议名
+DATA_PROTOCOL="p6"          # 数据集所在的真实协议文件夹
+RUN_PROTOCOL="p6"   # 运行时的独立协议名
 MODEL="claude-opus-4-6"
-LIMIT=30
+LIMIT=
 
 for SPECIES in "${SPECIES_LIST[@]}"; do
     echo "=========================================================="
     echo "🚀 开始处理物种: $SPECIES (运行协议: $RUN_PROTOCOL | 数据源: $DATA_PROTOCOL)"
     echo "=========================================================="
 
-    # 自动寻找 JSON 标注文件 (严格匹配 N4_K2 结尾: 如 BelugaID_MCQ_P2_N4_K2.json)
-    ANNOTATION_FILE=$(find annotations -type f -path "*/${SPECIES}/${DATA_PROTOCOL}/*_N4_K2.json" 2>/dev/null | head -n 1)
+    # 自动寻找 JSON 标注文件 (P3 精确匹配 N4_M2.json 结尾，其余匹配 N4.json 结尾)
+    # ${DATA_PROTOCOL,,} 是转小写，同时兼容 P3 和 p3
+    if [[ "${DATA_PROTOCOL,,}" == "p3" ]]; then
+        ANNOTATION_FILE=$(find annotations -type f -path "*/${SPECIES}/${DATA_PROTOCOL}/*_N4_M2.json" 2>/dev/null | head -n 1)
+    else
+        ANNOTATION_FILE=$(find annotations -type f -path "*/${SPECIES}/${DATA_PROTOCOL}/*_N4.json" 2>/dev/null | head -n 1)
+    fi
 
     if [ -z "$ANNOTATION_FILE" ]; then
         echo "⚠️  警告: 在 annotations/${SPECIES}/${DATA_PROTOCOL}/ 下没有找到匹配的 JSON 标注文件，跳过 $SPECIES..."
@@ -36,7 +41,8 @@ for SPECIES in "${SPECIES_LIST[@]}"; do
         --annotation_file "$ANNOTATION_FILE" \
         --model "$MODEL" \
         --resume \
-        --limit "$LIMIT"
+        --limit "$LIMIT" \
+        --crop_watermarks
 
     python scripts_evaluate/evaluate.py --species "$SPECIES_PATH" --protocol "$RUN_PROTOCOL"
     

@@ -33,12 +33,20 @@ from scripts_evaluate.prompts import PromptGenerator
 from scripts_evaluate.utils import ensure_directories, setup_logging
 
 
-def encode_image_for_claude(image_path: str) -> str:
+def encode_image_for_claude(image_path: str, crop_watermarks: bool = False) -> str:
     """
     Reads an image, resizes it to a maximum of 1024x1024 to save tokens,
     converts to JPEG, and returns the raw base64 encoded string expected by Claude API.
     """
     with Image.open(image_path) as img:
+        if crop_watermarks:
+            width, height = img.size
+            # Crop top 10% and bottom 10% to remove camera trap watermarks/timestamps
+            img = img.crop((0, int(height * 0.10), width, int(height * 0.90)))
+
+            # [临时调试用] 将裁剪后的图像保存到根目录，供你肉眼验证
+            img.save("debug_cropped_verify.jpg")
+
         img.thumbnail((1024, 1024))
         if img.mode != "RGB":
             img = img.convert("RGB")
@@ -86,6 +94,11 @@ def main():
         action="store_true",
         help="Resume from existing results file if present",
     )
+    parser.add_argument(
+        "--crop_watermarks",
+        action="store_true",
+        help="Crop the top 10% and bottom 10% of images to remove camera trap watermarks/timestamps.",
+    )
 
     args = parser.parse_args()
 
@@ -99,6 +112,14 @@ def main():
         )
         return
 
+    # >>> 针对 P6 协议的特殊约束：强制只允许跑 N4.json 结尾的文件 <<<
+    # This check is added for consistency with other proprietary scripts.
+    if args.protocol.upper() == "P6" and not args.annotation_file.endswith("N4.json"):
+        logging.error(
+            f"Protocol P6 strictly requires annotation files ending with 'N4.json'. Provided: {args.annotation_file}"
+        )
+        sys.exit(1)
+
     # 1. Setup Directories and Logging
     paths = ensure_directories(args.species, args.protocol)
     model_safe_name = args.model.replace(":", "_")
@@ -107,9 +128,7 @@ def main():
     output_dir = paths["predictions"] / model_safe_name / anno_basename
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    log_file = (
-        paths["logs"] / f"inference_claude_{model_safe_name}_{anno_basename}.log"
-    )
+    log_file = paths["logs"] / f"inference_claude_{model_safe_name}_{anno_basename}.log"
 
     setup_logging(log_file)
     logging.info("=== Starting Proprietary Inference (CLAUDE API) ===")
@@ -133,7 +152,7 @@ def main():
 
     if args.limit > 0:
         original_len = len(tasks)
-        tasks = tasks[:args.limit]
+        tasks = tasks[: args.limit]
         logging.info(
             f"Loaded {original_len} tasks. Restricted to first {len(tasks)} tasks to control budget."
         )
@@ -199,13 +218,15 @@ def main():
             for i, part in enumerate(parts):
                 if part:
                     messages_content.append({"type": "text", "text": part})
-                
+
                 # 如果不是最后一部分，说明原文本这里有一个 <image> 占位符
                 if i < len(parts) - 1:
                     if img_idx < len(image_paths):
                         img_path = image_paths[img_idx]
                         try:
-                            b64_data = encode_image_for_claude(img_path)
+                            b64_data = encode_image_for_claude(
+                                img_path, crop_watermarks=args.crop_watermarks
+                            )
                             messages_content.append(
                                 {
                                     "type": "image",
@@ -220,13 +241,17 @@ def main():
                             logging.error(f"Failed to encode image {img_path}: {e}")
                         img_idx += 1
                     else:
-                        logging.warning(f"Not enough images ({len(image_paths)}) for placeholders in prompt.")
+                        logging.warning(
+                            f"Not enough images ({len(image_paths)}) for placeholders in prompt."
+                        )
 
             # 容错处理拼接剩余图片
             while img_idx < len(image_paths):
                 img_path = image_paths[img_idx]
                 try:
-                    b64_data = encode_image_for_claude(img_path)
+                    b64_data = encode_image_for_claude(
+                        img_path, crop_watermarks=args.crop_watermarks
+                    )
                     messages_content.append(
                         {
                             "type": "image",
@@ -244,6 +269,7 @@ def main():
             max_retries = 3
             extracted_answer = None
             model_output = ""
+            thinking_process = ""
             duration = 0
             mock_tokens = "N/A"
 
@@ -256,22 +282,33 @@ def main():
                         time.sleep(0.5)
                         duration = time.time() - start_time
                         model_output = "DRY RUN MOCK RESPONSE. Based on the analysis, Option A is correct. Conclusion: Yes."
+                        thinking_process = "DRY RUN MOCK THINKING."
                     else:
                         response = client.messages.create(
                             model=args.model,
                             max_tokens=4096,
-                            temperature=0.0,
+                            # temperature=1.0, # ⚠️ 开启 thinking 时必须移除或注释掉温度设置
+                            thinking={
+                                "type": "enabled",
+                                "budget_tokens": 2048,  # 控制 Opus 4.6 思考深度的预算
+                            },
                             messages=[{"role": "user", "content": messages_content}],
                         )
                         duration = time.time() - start_time
-                        
+
                         if response.content:
-                            model_output = "".join(
-                                getattr(block, "text", "") for block in response.content
+                            text_blocks = []
+                            for block in response.content:
+                                if getattr(block, "type", "") == "thinking":
+                                    thinking_process += getattr(block, "thinking", "")
+                                elif getattr(block, "type", "") == "text":
+                                    text_blocks.append(getattr(block, "text", ""))
+                            model_output = "".join(text_blocks)
+
+                        if hasattr(response, "usage"):
+                            mock_tokens = getattr(
+                                response.usage, "output_tokens", "N/A"
                             )
-                        
-                        if hasattr(response, 'usage'):
-                            mock_tokens = getattr(response.usage, 'output_tokens', "N/A")
 
                     # EXACT SAME EXTRACTION LOGIC
                     extracted_answer = None
@@ -315,9 +352,13 @@ def main():
                                 if match:
                                     extracted_answer = match.group(1).upper()
                             if not extracted_answer:
-                                if re.search(r"\b(different)\b", model_output, re.IGNORECASE):
+                                if re.search(
+                                    r"\b(different)\b", model_output, re.IGNORECASE
+                                ):
                                     extracted_answer = "NO"
-                                elif re.search(r"\b(same)\b", model_output, re.IGNORECASE):
+                                elif re.search(
+                                    r"\b(same)\b", model_output, re.IGNORECASE
+                                ):
                                     extracted_answer = "YES"
 
                         elif args.protocol.upper() == "P3":
@@ -346,7 +387,7 @@ def main():
                                     sorted(list(set(found_opts)))
                                 )
 
-                        elif args.protocol.upper() in ["P1", "P2", "P4", "P5", "P6", "P4_NO_META"]:
+                        else:
                             match = re.search(
                                 rf"(?:Answer|Option|Choice)\s*[:\-\s]*\s*({opts_pattern})(?!\w)",
                                 model_output,
@@ -401,10 +442,19 @@ def main():
                             ):
                                 extracted_answer = model_output.strip().upper()
 
-                    logging.info("==================== Model Response ====================")
+                    logging.info(
+                        "==================== Model Response ===================="
+                    )
+                    if thinking_process:
+                        logging.info("[Thinking Process]:")
+                        logging.info(f"{thinking_process}\n")
                     logging.info(f"\n{model_output}")
-                    logging.info("========================================================")
-                    logging.info(f"[Debug Info] Duration: {duration:.2f}s | Output Tokens: {mock_tokens}")
+                    logging.info(
+                        "========================================================"
+                    )
+                    logging.info(
+                        f"[Debug Info] Duration: {duration:.2f}s | Output Tokens: {mock_tokens}"
+                    )
                     logging.info("-" * 60)
 
                     if extracted_answer:
@@ -418,12 +468,13 @@ def main():
                     logging.error(
                         f"Claude API Error processing task {task_id} (Attempt {attempt + 1}/{max_retries}): {e}"
                     )
-                    time.sleep((2 ** attempt) * 2)  # Exponential backoff
+                    time.sleep((2**attempt) * 2)  # Exponential backoff
                     continue
 
             task_results[prompt_name] = {
                 "prompt": current_prompt_text,
                 "prediction_text": model_output,
+                "thinking_process": thinking_process,
                 "extracted_answer": extracted_answer,
                 "duration_seconds": duration,
             }
@@ -447,6 +498,7 @@ def main():
                 "model": args.model,
                 "prompt": default_res.get("prompt"),
                 "image_paths": image_paths,
+                "thinking_process": default_res.get("thinking_process"),
                 "prediction_text": default_res.get("prediction_text"),
                 "duration_seconds": default_res.get("duration_seconds"),
             }

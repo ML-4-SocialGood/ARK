@@ -105,8 +105,8 @@ def main():
     print(f"Scanning '{args.annotations_dir}' for P6 JSON files...")
 
     for root, dirs, files in os.walk(args.annotations_dir):
-        # We are looking for files inside a 'p6' subdirectory
-        if os.path.basename(root) == "p6":
+        # We are looking for files inside a 'p6_new' subdirectory
+        if os.path.basename(root) == "p6_new":
             for file in files:
                 if file.endswith(".json") and "_P6_" in file:
                     file_path = os.path.join(root, file)

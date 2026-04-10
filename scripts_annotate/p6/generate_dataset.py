@@ -105,7 +105,7 @@ def main():
     print(f"\nTotal generated: {len(generated_samples)} samples.")
 
     # Construct output path
-    output_subdir = os.path.join(args.output_dir, args.dataset_name, "p6")
+    output_subdir = os.path.join(args.output_dir, args.dataset_name, "p6_new")
     os.makedirs(output_subdir, exist_ok=True)
 
     # Filename format: {Species}_MCQ_P6_N{N}.json

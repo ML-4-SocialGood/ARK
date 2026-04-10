@@ -65,10 +65,10 @@ def main():
             # --- Step 2: Analyze ---
             base_name = f"{species}_MCQ_P6_N{N}"
             json_file = os.path.join(
-                annotations_root, species, "p6", f"{base_name}.json"
+                annotations_root, species, "p6_new", f"{base_name}.json"
             )
             plot_file = os.path.join(
-                annotations_root, species, "p6", f"{base_name}_distribution.png"
+                annotations_root, species, "p6_new", f"{base_name}_distribution.png"
             )
 
             if os.path.exists(json_file):

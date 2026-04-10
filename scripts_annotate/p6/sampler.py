@@ -13,13 +13,15 @@ class OpenSetSampler:
         gallery_size: int,
         max_queries_per_id: int,
         max_jaccard_sim: Optional[float] = None,
+        target_present_prob: float = 0.5,
     ):
         """
         Initialize the OpenSetSampler for Protocol 6 (Open-set Reliability).
 
-        In this protocol, the Query ID is NOT present in the Gallery.
-        The Gallery consists of N negative samples (distractors).
-        The model must select the "None of the above" option.
+        To prevent the model from taking a shortcut and always predicting "None of the above",
+        this protocol mixes Target-Present (Closed-set) and Target-Absent (Open-set) queries.
+        The Gallery consists of N images.
+        The final MCQ will have N+1 options (N images + 1 text option).
 
         Args:
             dataset_name (str): Name of the dataset (e.g., 'BelugaID').
@@ -28,11 +30,13 @@ class OpenSetSampler:
                                 The final MCQ will have N+1 options (N images + 1 text option).
             max_queries_per_id (int): Maximum number of times a single ID can be used as a query.
             max_jaccard_sim (float, optional): Threshold for Jaccard similarity.
+            target_present_prob (float): Probability of the target being present in the gallery.
         """
         self.dataset_name = dataset_name
         self.data_dir = data_dir
         self.gallery_size = gallery_size
         self.max_queries_per_id = max_queries_per_id
+        self.target_present_prob = target_present_prob
 
         # State tracking
         self.query_usage_counts: Dict[str, int] = defaultdict(int)
@@ -111,18 +115,33 @@ class OpenSetSampler:
 
     def generate_sample(self) -> Optional[Dict[str, Any]]:
         """
-        Generates a single Open-set MCQ sample.
+        Generates a single MCQ sample (Mix of Target-Present and Target-Absent).
         """
+        is_target_present = random.random() < self.target_present_prob
+
         # 1. Filter eligible query IDs
         eligible_queries = []
         for qid in self.valid_query_ids:
-            limit = min(self.max_queries_per_id, len(self.image_map[qid]))
+            images_available = len(self.image_map[qid])
+            limit = min(self.max_queries_per_id, images_available)
             if self.query_usage_counts[qid] < limit:
+                # If target present, we need at least 2 images for this ID
+                if is_target_present and images_available < 2:
+                    continue
                 eligible_queries.append(qid)
 
         if not eligible_queries:
-            print("No eligible query IDs remaining.")
-            return None
+            # Fallback if filtered out by is_target_present strictness
+            if is_target_present:
+                is_target_present = False
+                for qid in self.valid_query_ids:
+                    limit = min(self.max_queries_per_id, len(self.image_map[qid]))
+                    if self.query_usage_counts[qid] < limit:
+                        eligible_queries.append(qid)
+            
+            if not eligible_queries:
+                print("No eligible query IDs remaining.")
+                return None
 
         # 2. Select Query ID
         query_id = random.choice(eligible_queries)
@@ -141,14 +160,16 @@ class OpenSetSampler:
         # Must NOT include query_id
         candidate_negatives = [mid for mid in self.all_ids if mid != query_id]
 
-        if len(candidate_negatives) < self.gallery_size:
+        num_negatives = self.gallery_size - 1 if is_target_present else self.gallery_size
+
+        if len(candidate_negatives) < num_negatives:
             print(f"Not enough negatives for query {query_id}.")
             return None
 
         selected_negatives = None
         for _ in range(20):
             current_negatives = set(
-                random.sample(candidate_negatives, self.gallery_size)
+                random.sample(candidate_negatives, num_negatives)
             )
             violation = False
             for prev_set in self.query_negative_history[query_id]:
@@ -164,7 +185,7 @@ class OpenSetSampler:
 
         if selected_negatives is None:
             selected_negatives = set(
-                random.sample(candidate_negatives, self.gallery_size)
+                random.sample(candidate_negatives, num_negatives)
             )
 
         # 5. Update State
@@ -175,6 +196,15 @@ class OpenSetSampler:
 
         # 6. Construct Gallery
         gallery_items = []
+        if is_target_present:
+            positive_candidates = [img for img in self.image_map[query_id] if img != query_img]
+            if not positive_candidates:  # Safety fallback
+                positive_candidates = [query_img]
+            gallery_items.append({
+                "image_path": random.choice(positive_candidates),
+                "id": query_id
+            })
+
         for neg_id in sorted(selected_negatives):
             gallery_items.append(
                 {
@@ -211,6 +241,11 @@ class OpenSetSampler:
         )
 
         answer = none_option_label
+        if is_target_present:
+            for opt in formatted_gallery:
+                if opt.get("id") == query_id:
+                    answer = opt["option"]
+                    break
 
         return {
             "task_id": f"{self.dataset_name}_MCQ_P6_{self.sample_counter:06d}",

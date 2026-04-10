@@ -32,12 +32,17 @@ from scripts_evaluate.prompts import PromptGenerator
 from scripts_evaluate.utils import ensure_directories, setup_logging
 
 
-def load_and_resize_image(image_path: str) -> Image.Image:
+def load_and_resize_image(image_path: str, crop_watermarks: bool = False) -> Image.Image:
     """
     Reads an image, resizes it to a maximum of 1024x1024 to save tokens and bandwidth,
     and returns a PIL Image object expected by the Gemini API.
     """
     img = Image.open(image_path)
+    if crop_watermarks:
+        width, height = img.size
+        # Crop top 10% and bottom 10% to remove camera trap watermarks/timestamps
+        img = img.crop((0, int(height * 0.10), width, int(height * 0.90)))
+        
     img.thumbnail((1024, 1024))
     if img.mode != "RGB":
         img = img.convert("RGB")
@@ -81,6 +86,11 @@ def main():
         "--resume",
         action="store_true",
         help="Resume from existing results file if present",
+    )
+    parser.add_argument(
+        "--crop_watermarks",
+        action="store_true",
+        help="Crop the top 10% and bottom 10% of images to remove camera trap watermarks/timestamps.",
     )
 
     args = parser.parse_args()
@@ -202,7 +212,7 @@ def main():
                     if img_idx < len(image_paths):
                         img_path = image_paths[img_idx]
                         try:
-                            img = load_and_resize_image(img_path)
+                            img = load_and_resize_image(img_path, crop_watermarks=args.crop_watermarks)
                             messages_content.append(img)
                         except Exception as e:
                             logging.error(f"Failed to load image {img_path}: {e}")
@@ -214,7 +224,7 @@ def main():
             while img_idx < len(image_paths):
                 img_path = image_paths[img_idx]
                 try:
-                    img = load_and_resize_image(img_path)
+                    img = load_and_resize_image(img_path, crop_watermarks=args.crop_watermarks)
                     messages_content.append(img)
                 except Exception as e:
                     logging.error(f"Failed to load image {img_path}: {e}")
@@ -346,7 +356,7 @@ def main():
                                     sorted(list(set(found_opts)))
                                 )
 
-                        elif args.protocol.upper() in ["P1", "P2", "P4", "P5", "P6", "P4_NO_META"]:
+                        else:
                             match = re.search(
                                 rf"(?:Answer|Option|Choice)\s*[:\-\s]*\s*({opts_pattern})(?!\w)",
                                 model_output,

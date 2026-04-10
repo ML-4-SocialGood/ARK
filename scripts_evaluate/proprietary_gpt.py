@@ -33,12 +33,17 @@ from scripts_evaluate.prompts import PromptGenerator
 from scripts_evaluate.utils import ensure_directories, setup_logging
 
 
-def encode_image_for_openai(image_path: str) -> str:
+def encode_image_for_openai(image_path: str, crop_watermarks: bool = False) -> str:
     """
     Reads an image, resizes it to a maximum of 1024x1024 to save tokens,
     converts to JPEG, and returns the base64 data URI expected by OpenAI.
     """
     with Image.open(image_path) as img:
+        if crop_watermarks:
+            width, height = img.size
+            # Crop top 10% and bottom 10% to remove camera trap watermarks/timestamps
+            img = img.crop((0, int(height * 0.10), width, int(height * 0.90)))
+            
         img.thumbnail((1024, 1024))
         if img.mode != "RGB":
             img = img.convert("RGB")
@@ -87,6 +92,11 @@ def main():
         action="store_true",
         help="Resume from existing results file if present",
     )
+    parser.add_argument(
+        "--crop_watermarks",
+        action="store_true",
+        help="Crop the top 10% and bottom 10% of images to remove camera trap watermarks/timestamps.",
+    )
 
     args = parser.parse_args()
 
@@ -99,6 +109,16 @@ def main():
             "OPENAI_API_KEY environment variable not set. Please export it or use --dry_run."
         )
         return
+
+    # >>> 针对 P3 协议的特殊约束：强制只允许跑 N4_M2.json 结尾的文件 <<<
+    if args.protocol.upper() == "P3" and not args.annotation_file.endswith("N4_M2.json"):
+        logging.error(f"Protocol P3 strictly requires annotation files ending with 'N4_M2.json'. Provided: {args.annotation_file}")
+        sys.exit(1)
+
+    # >>> 针对 P6 协议的特殊约束：强制只允许跑 N4.json 结尾的文件 <<<
+    if args.protocol.upper() == "P6" and not args.annotation_file.endswith("N4.json"):
+        logging.error(f"Protocol P6 strictly requires annotation files ending with 'N4.json'. Provided: {args.annotation_file}")
+        sys.exit(1)
 
     # 1. Setup Directories and Logging
     paths = ensure_directories(args.species, args.protocol)
@@ -207,7 +227,7 @@ def main():
                     if img_idx < len(image_paths):
                         img_path = image_paths[img_idx]
                         try:
-                            b64_url = encode_image_for_openai(img_path)
+                            b64_url = encode_image_for_openai(img_path, crop_watermarks=args.crop_watermarks)
                             messages_content.append(
                                 {
                                     "type": "image_url",
@@ -224,7 +244,7 @@ def main():
             while img_idx < len(image_paths):
                 img_path = image_paths[img_idx]
                 try:
-                    b64_url = encode_image_for_openai(img_path)
+                    b64_url = encode_image_for_openai(img_path, crop_watermarks=args.crop_watermarks)
                     messages_content.append(
                         {
                             "type": "image_url",
@@ -349,7 +369,7 @@ def main():
                                     sorted(list(set(found_opts)))
                                 )
 
-                        elif args.protocol.upper() in ["P1", "P2", "P4", "P5", "P6", "P4_NO_META"]:
+                        else:
                             match = re.search(
                                 rf"(?:Answer|Option|Choice)\s*[:\-\s]*\s*({opts_pattern})(?!\w)",
                                 model_output,

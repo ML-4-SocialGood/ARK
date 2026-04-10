@@ -35,18 +35,20 @@ def verify_task(task: Dict[str, Any], n_val: int, data_root: str) -> List[str]:
                 f"Task {task_id}: Gallery size mismatch. Expected {expected_len} (N={n_val}+1), got {len(gallery)}."
             )
 
-    # 3. Protocol 6 Specific Logic: Open Set / Negative Query
+    # 3. Protocol 6 Specific Logic: Open Set / Negative Query Mix
     
-    # A. Ensure GT ID is NOT in gallery
+    # A. Check if GT ID is in gallery
+    gt_in_gallery = False
+    gt_option = None
     for opt in gallery:
         opt_id = opt.get("id")
         # Skip the text option which might have id=None
         if opt_id is not None and str(opt_id) == str(gt_id):
-            errors.append(
-                f"Task {task_id}: PROTOCOL VIOLATION. Ground Truth ID {gt_id} found in gallery option {opt.get('option')}."
-            )
+            gt_in_gallery = True
+            gt_option = opt.get("option")
+            break
 
-    # B. Ensure Answer is 'None of the above'
+    # B. Check Answer correctness based on target presence
     if not gallery:
         errors.append(f"Task {task_id}: Gallery is empty.")
         return errors
@@ -57,10 +59,14 @@ def verify_task(task: Dict[str, Any], n_val: int, data_root: str) -> List[str]:
     if last_option.get("text") != "None of the above":
         errors.append(f"Task {task_id}: Last option is not 'None of the above'. Found: {last_option.get('text')}")
     
-    if answer != last_option.get("option"):
-        errors.append(
-            f"Task {task_id}: Answer mismatch. Expected {last_option.get('option')} (None), got {answer}."
-        )
+    if gt_in_gallery:
+        if answer != gt_option:
+            errors.append(f"Task {task_id}: GT ID is in gallery ({gt_option}), but answer is {answer}.")
+    else:
+        if answer != last_option.get("option"):
+            errors.append(
+                f"Task {task_id}: GT ID not in gallery. Expected {last_option.get('option')} (None), got {answer}."
+            )
 
     # 4. File Existence
     q_path = query.get("image_path")
@@ -76,9 +82,9 @@ def verify_task(task: Dict[str, Any], n_val: int, data_root: str) -> List[str]:
 
 
 def verify_dataset(dataset_name: str, annotations_dir: str, data_root: str) -> bool:
-    p6_dir = os.path.join(annotations_dir, dataset_name, "p6")
+    p6_dir = os.path.join(annotations_dir, dataset_name, "p6_new")
     if not os.path.exists(p6_dir):
-        print(f"  [SKIP] P6 directory not found: {p6_dir}")
+        print(f"  [SKIP] P6_new directory not found: {p6_dir}")
         return True
 
     print(f"Verifying P6 dataset for {dataset_name}...")

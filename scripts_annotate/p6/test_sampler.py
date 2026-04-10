@@ -66,28 +66,31 @@ if __name__ == "__main__":
                 else:
                     print(f"[FAIL] Last option is NOT 'None of the above': {last_opt}")
 
-                # Check 3: Answer should match the last option
-                if answer == last_opt["option"]:
-                    print(
-                        f"[PASS] Answer points to the 'None of the above' option ({answer})"
-                    )
-                else:
-                    print(
-                        f"[FAIL] Answer mismatch. Answer: {answer}, Last Option: {last_opt['option']}"
-                    )
-
-                # Check 4: Query ID should not be in gallery IDs
+                # Check 3 & 4: Query ID presence and Answer correctness
                 query_id = sample["query"]["ground_truth_id"]
                 gallery_ids = [item["id"] for item in gallery if item["id"] is not None]
 
-                if query_id in gallery_ids:
-                    print(
-                        f"[FAIL] Protocol Violation: Query ID {query_id} found in gallery."
-                    )
+                is_target_present = query_id in gallery_ids
+                if is_target_present:
+                    print("[INFO] Target IS present in gallery (Closed-set query).")
+                    
+                    # Find expected answer option
+                    expected_ans = None
+                    for opt in gallery:
+                        if opt.get("id") == query_id:
+                            expected_ans = opt["option"]
+                            break
+                    
+                    if answer == expected_ans:
+                        print(f"[PASS] Answer correctly points to the Target image option ({answer}).")
+                    else:
+                        print(f"[FAIL] Answer mismatch. Target is at {expected_ans}, but Answer is {answer}.")
                 else:
-                    print(
-                        f"[PASS] Query ID {query_id} is NOT in gallery (Open Set constraint met)."
-                    )
+                    print("[INFO] Target is NOT in gallery (Open-set query).")
+                    if answer == last_opt["option"]:
+                        print(f"[PASS] Answer correctly points to the 'None of the above' option ({answer}).")
+                    else:
+                        print(f"[FAIL] Answer mismatch. Answer: {answer}, expected: {last_opt['option']}")
 
             else:
                 print(

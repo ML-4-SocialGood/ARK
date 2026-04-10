@@ -255,7 +255,7 @@ def main():
                                 # Remove duplicates, sort alphabetically, and format as "A, C, D"
                                 extracted_answer = ", ".join(sorted(list(set(found_opts))))
                                 
-                        elif args.protocol.upper() in ["P1", "P2", "P4", "P5", "P6", "P4_NO_META"]:
+                        else:
                             # Extraction Logic for P1 / P2 / P4 / P5 / P6 (Single correct option)
                             # Strategy 1: Look for explicit "Answer: X", "Option X" pattern anywhere
                             match = re.search(rf'(?:Answer|Option|Choice)\s*[:\-\s]*\s*({opts_pattern})(?!\w)', model_output, re.IGNORECASE)
