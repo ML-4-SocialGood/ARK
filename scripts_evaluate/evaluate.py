@@ -249,6 +249,30 @@ def evaluate_model_directory(
         "missing_extraction": missing_answer_count,
     }
 
+    # --- Protocol 6 特殊逻辑：分离闭集(Target-Present)和开集(Target-Absent)的指标 ---
+    if protocol.upper() == "P6" and detailed_results:
+        # 动态找到 "None of the above" 的选项字母（即所有 ground_truth 中字母顺序最大的那个）
+        valid_gts = [r["ground_truth"] for r in detailed_results if r["ground_truth"] and r["ground_truth"] != "N/A"]
+        none_label = max(valid_gts) if valid_gts else "E"
+
+        correct_open = 0
+        total_open = 0
+        correct_closed = 0
+        total_closed = 0
+
+        for r in detailed_results:
+            if r["ground_truth"] == none_label:
+                total_open += 1
+                if r["is_correct"]: correct_open += 1
+            else:
+                total_closed += 1
+                if r["is_correct"]: correct_closed += 1
+
+        metrics["acc_open"] = correct_open / total_open if total_open > 0 else 0.0
+        metrics["acc_closed"] = correct_closed / total_closed if total_closed > 0 else 0.0
+        metrics["total_open"] = total_open
+        metrics["total_closed"] = total_closed
+
     if protocol.upper() == "P3":
         metrics["precision"] = total_p / total_count
         metrics["recall"] = total_r / total_count
@@ -323,6 +347,10 @@ def main():
         logging.info(
             f"{'Model':<20} | {'Condition / Run':<30} | {'Acc(N)':<9} | {'Acc(C)':<9} | {'ΔAcc':<9} | {'RA':<9} | {'Total':<5}"
         )
+    elif args.protocol.upper() == "P6":
+        logging.info(
+            f"{'Model':<20} | {'Condition / Run':<30} | {'Acc(All)':<9} | {'Acc(Cls)':<9} | {'Acc(Opn)':<9} | {'Corr':<5} | {'Total':<5}"
+        )
     else:
         logging.info(
             f"{'Model':<20} | {'Condition / Run':<30} | {'Acc(Str)':<9} | {'Acc(Ans)':<9} | {'Acc(Exp)':<9} | {'Corr':<5} | {'Total':<5}"
@@ -351,6 +379,10 @@ def main():
                 elif args.protocol.upper() == "P7":
                     logging.info(
                         f"{metrics['model']:<20} | {metrics['run_name']:<30} | {metrics['accuracy_neutral']:<9.2%} | {metrics['accuracy_counterfactual']:<9.2%} | {metrics['delta_acc']:<9.2%} | {metrics['resilience_accuracy']:<9.2%} | {metrics['total']:<5}"
+                    )
+                elif args.protocol.upper() == "P6":
+                    logging.info(
+                        f"{metrics['model']:<20} | {metrics['run_name']:<30} | {metrics['acc_strict']:<9.2%} | {metrics['acc_closed']:<9.2%} | {metrics['acc_open']:<9.2%} | {metrics['correct']:<5} | {metrics['total']:<5}"
                     )
                 else:
                     logging.info(
