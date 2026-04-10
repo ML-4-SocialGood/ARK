@@ -252,7 +252,11 @@ def evaluate_model_directory(
     # --- Protocol 6 特殊逻辑：分离闭集(Target-Present)和开集(Target-Absent)的指标 ---
     if protocol.upper() == "P6" and detailed_results:
         # 动态找到 "None of the above" 的选项字母（即所有 ground_truth 中字母顺序最大的那个）
-        valid_gts = [r["ground_truth"] for r in detailed_results if r["ground_truth"] and r["ground_truth"] != "N/A"]
+        valid_gts = [
+            r["ground_truth"]
+            for r in detailed_results
+            if r["ground_truth"] and r["ground_truth"] != "N/A"
+        ]
         none_label = max(valid_gts) if valid_gts else "E"
 
         correct_open = 0
@@ -263,13 +267,17 @@ def evaluate_model_directory(
         for r in detailed_results:
             if r["ground_truth"] == none_label:
                 total_open += 1
-                if r["is_correct"]: correct_open += 1
+                if r["is_correct"]:
+                    correct_open += 1
             else:
                 total_closed += 1
-                if r["is_correct"]: correct_closed += 1
+                if r["is_correct"]:
+                    correct_closed += 1
 
         metrics["acc_open"] = correct_open / total_open if total_open > 0 else 0.0
-        metrics["acc_closed"] = correct_closed / total_closed if total_closed > 0 else 0.0
+        metrics["acc_closed"] = (
+            correct_closed / total_closed if total_closed > 0 else 0.0
+        )
         metrics["total_open"] = total_open
         metrics["total_closed"] = total_closed
 
