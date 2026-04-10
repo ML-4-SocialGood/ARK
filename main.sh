@@ -35,9 +35,9 @@ ollama list
 
 # 4. 运行推理脚本，并通过 --host 参数指向我们刚启动的端口
 # 请确保 --model 参数与上面 ollama list 显示的名称完全一致（例如 qwen3-vl:32b）
-# --- 修改为 P7 推理 ---
-# 注意：请将下面的 --annotation_file 路径替换为您实际的 P7 注释文件名
-python scripts_evaluate/run_inference.py --species BelugaID --protocol p7 --annotation_file annotations/BelugaID/p7/BelugaID_P7.json --model qwen3-vl:30b --host http://localhost:$OLLAMA_PORT
+# --- 修改为 P6_new 推理 ---
+# 注意：请将下面的 --annotation_file 路径替换为您实际的 P6_new 标注文件名，并且确认物种名称是否为 BelugaID
+python scripts_evaluate/run_inference.py --species BelugaID --protocol P6_new --annotation_file annotations/BelugaID/P6_new/BelugaID_P6_new.json --model qwen3-vl:30b --host http://localhost:$OLLAMA_PORT
 
 # 5. 作业结束后清理后台进程
 kill $OLLAMA_PID

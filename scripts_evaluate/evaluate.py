@@ -229,7 +229,7 @@ def evaluate_model_directory(
     acc_answered = correct_count / answered_count if answered_count > 0 else 0.0
 
     # 动态调整盲猜期望值：P6有5个选项(A-E)，盲猜期望为0.20；其他单选题有4个选项(A-D)，盲猜期望为0.25
-    guessing_prob = 0.20 if protocol.upper() == "P6" else 0.25
+    guessing_prob = 0.20 if protocol.upper().startswith("P6") else 0.25
     acc_expected = (
         (correct_count + guessing_prob * missing_answer_count) / total_count
         if total_count > 0
@@ -250,7 +250,7 @@ def evaluate_model_directory(
     }
 
     # --- Protocol 6 特殊逻辑：分离闭集(Target-Present)和开集(Target-Absent)的指标 ---
-    if protocol.upper() == "P6" and detailed_results:
+    if protocol.upper().startswith("P6") and detailed_results:
         # 动态找到 "None of the above" 的选项字母（即所有 ground_truth 中字母顺序最大的那个）
         valid_gts = [
             r["ground_truth"]
@@ -355,7 +355,7 @@ def main():
         logging.info(
             f"{'Model':<20} | {'Condition / Run':<30} | {'Acc(N)':<9} | {'Acc(C)':<9} | {'ΔAcc':<9} | {'RA':<9} | {'Total':<5}"
         )
-    elif args.protocol.upper() == "P6":
+    elif args.protocol.upper().startswith("P6"):
         logging.info(
             f"{'Model':<20} | {'Condition / Run':<30} | {'Acc(All)':<9} | {'Acc(Cls)':<9} | {'Acc(Opn)':<9} | {'Corr':<5} | {'Total':<5}"
         )
@@ -388,14 +388,15 @@ def main():
                     logging.info(
                         f"{metrics['model']:<20} | {metrics['run_name']:<30} | {metrics['accuracy_neutral']:<9.2%} | {metrics['accuracy_counterfactual']:<9.2%} | {metrics['delta_acc']:<9.2%} | {metrics['resilience_accuracy']:<9.2%} | {metrics['total']:<5}"
                     )
-                elif args.protocol.upper() == "P6":
-                    logging.info(
-                        f"{metrics['model']:<20} | {metrics['run_name']:<30} | {metrics['acc_strict']:<9.2%} | {metrics['acc_closed']:<9.2%} | {metrics['acc_open']:<9.2%} | {metrics['correct']:<5} | {metrics['total']:<5}"
-                    )
+                elif args.protocol.upper().startswith("P6"):
+                        logging.info(
+                            f"{metrics['model']:<20} | {metrics['run_name']:<30} | {metrics['acc_strict']:<9.2%} | {metrics['acc_closed']:<9.2%} | {metrics['acc_open']:<9.2%} | {metrics['correct']:<5} | {metrics['total']:<5}"
+                        )
                 else:
-                    logging.info(
-                        f"{metrics['model']:<20} | {metrics['run_name']:<30} | {metrics['acc_strict']:<9.2%} | {metrics['acc_answered']:<9.2%} | {metrics['acc_expected']:<9.2%} | {metrics['correct']:<5} | {metrics['total']:<5}"
-                    )
+                        logging.info(
+                            f"{metrics['model']:<20} | {metrics['run_name']:<30} | {metrics['acc_strict']:<9.2%} | {metrics['acc_answered']:<9.2%} | {metrics['acc_expected']:<9.2%} | {metrics['correct']:<5} | {metrics['total']:<5}"
+                        )
+                
                 final_report.append(metrics)
 
                 # Save metrics.json in the specific target folder
