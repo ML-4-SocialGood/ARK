@@ -6,7 +6,8 @@
 #SBATCH --error=logs/slurm_ARK_%j.err
 #SBATCH --gres=gpu:1
 
-cd /data/dzha866/ARK
+# 进入正确的项目目录
+cd /home/dzha866/ARK
 
 source /data/dzha866/miniconda3/etc/profile.d/conda.sh
 conda activate ARK
@@ -37,7 +38,10 @@ ollama list
 # 请确保 --model 参数与上面 ollama list 显示的名称完全一致（例如 qwen3-vl:32b）
 # --- 修改为 P6_new 推理 ---
 # 注意：请将下面的 --annotation_file 路径替换为您实际的 P6_new 标注文件名，并且确认物种名称是否为 BelugaID
-python scripts_evaluate/run_inference.py --species BelugaID --protocol P6_new --annotation_file annotations/BelugaID/P6_new/BelugaID_P6_new.json --model qwen3-vl:30b --host http://localhost:$OLLAMA_PORT
+python scripts_evaluate/run_inference.py --species BelugaID --protocol P6_new --annotation_file annotations/BelugaID/p6_new/BelugaID_MCQ_P6_N4.json --model qwen3-vl:30b --host http://localhost:$OLLAMA_PORT
+
+# 自动触发评估脚本，在日志里直接输出结果
+python scripts_evaluate/evaluate.py --species BelugaID --protocol P6_new
 
 # 5. 作业结束后清理后台进程
 kill $OLLAMA_PID
