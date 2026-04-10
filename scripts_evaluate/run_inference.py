@@ -53,6 +53,11 @@ def main():
         action="store_true",
         help="Resume from existing results file if present",
     )
+    parser.add_argument(
+        "--limit",
+        type=int,
+        help="Limit the number of tasks to run (useful for quick testing)",
+    )
 
     args = parser.parse_args()
 
@@ -88,6 +93,10 @@ def main():
         tasks = json.load(f)
 
     logging.info(f"Loaded {len(tasks)} tasks.")
+
+    if args.limit:
+        tasks = tasks[:args.limit]
+        logging.info(f"Limiting inference to the first {args.limit} tasks.")
 
     # 3. Initialize Client
     # Timeout set to 300s (5 mins) to handle large images/slow generation
