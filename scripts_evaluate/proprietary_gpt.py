@@ -116,8 +116,8 @@ def main():
         sys.exit(1)
 
     # >>> 针对 P6 协议的特殊约束：强制只允许跑 N4.json 结尾的文件 <<<
-    if args.protocol.upper() == "P6" and not args.annotation_file.endswith("N4.json"):
-        logging.error(f"Protocol P6 strictly requires annotation files ending with 'N4.json'. Provided: {args.annotation_file}")
+    if args.protocol.upper().startswith("P6") and not args.annotation_file.endswith("N4.json"):
+        logging.error(f"Protocol P6 (or P6_new) strictly requires annotation files ending with 'N4.json'. Provided: {args.annotation_file}")
         sys.exit(1)
 
     # 1. Setup Directories and Logging
