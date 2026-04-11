@@ -5,8 +5,8 @@ SPECIES_LIST=("BelugaID") # <--- 替换为你实际的物种列表
 
 DATA_PROTOCOL="p6_new"      # 数据集所在的真实协议文件夹
 RUN_PROTOCOL="P6_new"       # 运行时的独立协议名
-MODEL="gpt-5.4"             # 改为您要跑的 OpenAI 模型，如 gpt-5.4
-LIMIT=
+MODEL="claude-opus-4-6" # 改为您要跑的 Claude 模型
+LIMIT=50
 
 for SPECIES in "${SPECIES_LIST[@]}"; do
     echo "=========================================================="
@@ -35,8 +35,8 @@ for SPECIES in "${SPECIES_LIST[@]}"; do
     
     echo "📁 输出目录结构将保持为: results/${SPECIES_PATH}/${RUN_PROTOCOL}"
 
-    # 将此处修改为调用我们刚配置好的 proprietary_gpt.py
-    python scripts_evaluate/proprietary_gpt.py \
+    # 调用 Claude API 脚本
+    python scripts_evaluate/proprietary_claude.py \
         --species "$SPECIES_PATH" \
         --protocol "$RUN_PROTOCOL" \
         --annotation_file "$ANNOTATION_FILE" \

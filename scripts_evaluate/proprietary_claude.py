@@ -114,9 +114,9 @@ def main():
 
     # >>> 针对 P6 协议的特殊约束：强制只允许跑 N4.json 结尾的文件 <<<
     # This check is added for consistency with other proprietary scripts.
-    if args.protocol.upper() == "P6" and not args.annotation_file.endswith("N4.json"):
+    if args.protocol.upper().startswith("P6") and not args.annotation_file.endswith("N4.json"):
         logging.error(
-            f"Protocol P6 strictly requires annotation files ending with 'N4.json'. Provided: {args.annotation_file}"
+            f"Protocol P6 (and its variants) strictly requires annotation files ending with 'N4.json'. Provided: {args.annotation_file}"
         )
         sys.exit(1)
 
@@ -287,11 +287,8 @@ def main():
                         response = client.messages.create(
                             model=args.model,
                             max_tokens=4096,
-                            # temperature=1.0, # ⚠️ 开启 thinking 时必须移除或注释掉温度设置
-                            thinking={
-                                "type": "enabled",
-                                "budget_tokens": 2048,  # 控制 Opus 4.6 思考深度的预算
-                            },
+                            temperature=0.0, # 关闭 thinking 模式后，恢复设为 0.0 以保证评测结果稳定
+                            # thinking={"type": "enabled", "budget_tokens": 2048},
                             messages=[{"role": "user", "content": messages_content}],
                         )
                         duration = time.time() - start_time
