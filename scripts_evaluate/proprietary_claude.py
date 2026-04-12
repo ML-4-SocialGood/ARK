@@ -120,6 +120,13 @@ def main():
         )
         sys.exit(1)
 
+    # >>> 针对 P5 协议的特殊约束：强制只允许跑 grayscale_S1_N4.json 结尾的文件 <<<
+    if args.protocol.upper() == "P5" and not args.annotation_file.endswith("grayscale_S1_N4.json"):
+        logging.error(
+            f"Protocol P5 strictly requires annotation files ending with 'grayscale_S1_N4.json'. Provided: {args.annotation_file}"
+        )
+        sys.exit(1)
+
     # 1. Setup Directories and Logging
     paths = ensure_directories(args.species, args.protocol)
     model_safe_name = args.model.replace(":", "_")
