@@ -7,7 +7,7 @@
 #SBATCH --gres=gpu:1
 
 # 进入正确的项目目录
-cd /home/dzha866/ARK
+cd /data/dzha866/ARK/
 
 source /data/dzha866/miniconda3/etc/profile.d/conda.sh
 conda activate ARK
@@ -18,6 +18,11 @@ OLLAMA_PORT=$(( 10000 + (${SLURM_JOB_ID:-0} % 10000) + RANDOM % 10000 ))
 export OLLAMA_HOST=127.0.0.1:$OLLAMA_PORT
 # 如果您的模型保存在非默认路径（例如不在 ~/.ollama/models），请取消注释并修改下行：
 export OLLAMA_MODELS=/data/dzha866/software/ollama/models
+
+# 修复 Slurm 环境下 Ollama 无法识别 GPU 的问题
+unset CUDA_VISIBLE_DEVICES
+unset ROCR_VISIBLE_DEVICES
+unset HIP_VISIBLE_DEVICES
 
 # 2. 在后台启动 Ollama 服务，这样它能继承当前作业的 GPU 权限
 ollama serve > logs/ollama_job_${SLURM_JOB_ID:-local}.log 2>&1 &
@@ -38,7 +43,7 @@ ollama list
 # 请确保 --model 参数与上面 ollama list 显示的名称完全一致（例如 qwen3-vl:32b）
 # --- 修改为 P6_new 推理 ---
 # 注意：请将下面的 --annotation_file 路径替换为您实际的 P6_new 标注文件名，并且确认物种名称是否为 BelugaID
-python scripts_evaluate/run_inference.py --species BelugaID --protocol P6_new --annotation_file annotations/BelugaID/p6_new/BelugaID_MCQ_P6_N4.json --model qwen3-vl:30b --host http://localhost:$OLLAMA_PORT --limit 100
+python scripts_evaluate/run_inference.py --species BelugaID --protocol P6_new --annotation_file annotations/BelugaID/p6_new/BelugaID_MCQ_P6_N4.json --model gemma3:27b --host http://localhost:$OLLAMA_PORT --limit 100
 
 # 自动触发评估脚本，在日志里直接输出结果
 python scripts_evaluate/evaluate.py --species BelugaID --protocol P6_new
