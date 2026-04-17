@@ -35,13 +35,13 @@ def plot_metadata_impact():
     # 增加柱状图的舱口纹理 (Hatch) 以增加黑白打印辨识度
     # 按照 NM, FO, CR, Overall 的顺序设定不同的纹理
     hatches = ['//', '\\\\', '', '..']
-    num_species = len(df['Species'].unique())
-    for i, bar in enumerate(ax.patches):
-        # ax.patches 按照 hue 分组排序，因此可以通过整除计算所属的 Metadata 类别
-        bar.set_hatch(hatches[i // num_species])
+    
+    for i, container in enumerate(ax.containers):
+        for bar in container:
+            bar.set_hatch(hatches[i])
 
     # 4. 坐标轴与刻度设置
-    ax.set_title("(b) Impact of Metadata", fontsize=11, pad=8)
+    ax.set_title("(c) Impact of Metadata", fontsize=11, pad=8)
     ax.set_xlabel("Species", fontsize=10)
     ax.set_ylabel("Accuracy (%)", fontsize=10)
     ax.set_ylim(40, 62)  # 根据数据极值 (43~55) 截断，调整合适的上限以容纳图例
@@ -60,7 +60,7 @@ def plot_metadata_impact():
 
     # 6. 调整布局并保存图片
     plt.tight_layout()
-    plt.savefig('figure_3b.png', dpi=300, bbox_inches='tight')
+    plt.savefig('figure_3c.png', dpi=300, bbox_inches='tight')
 
 if __name__ == "__main__":
     plot_metadata_impact()
