@@ -55,7 +55,7 @@ ax.set_ylim(20, 100)
 ax.set_xlabel('Recall (%)', fontsize=9)
 ax.set_ylabel('Precision (%)', fontsize=9)
 ax.set_title('(b) Precision vs. Recall', fontsize=10, pad=8)
-ax.legend(loc='upper left', fontsize=6.5, frameon=True, edgecolor='#E0E0E0')
+ax.legend(loc='upper left', fontsize=6.5, frameon=False, handlelength=1.0, handletextpad=0.3)
 ax.grid(True, axis='both', linestyle='--', alpha=0.4, color='#B0B0B0')
 ax.tick_params(axis='both', which='major', labelsize=8)
 

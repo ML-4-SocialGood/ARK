@@ -43,7 +43,7 @@ def plot_reid_reasoning_accuracy():
     ax.tick_params(axis='both', which='major', labelsize=8)
 
     # 5. 网格、边框与图例美化
-    ax.grid(True, axis='both', linestyle='--', alpha=0.4, color='#B0B0B0')  # 开启双向网格线
+    ax.grid(True, axis='y', linestyle='--', alpha=0.4, color='#B0B0B0')  # 仅保留 Y 轴网格，对齐 3d
     # 手动移除上侧和右侧边框 (scienceplots 默认是全包围边框)
     ax.spines['top'].set_visible(False)
     ax.spines['right'].set_visible(False)
@@ -51,7 +51,7 @@ def plot_reid_reasoning_accuracy():
     ax.tick_params(top=False, right=False)
     
     # 缩小图例以适应正方形小画布，减小图例线段长度防止挤占水平空间
-    ax.legend(loc='center right', frameon=True, edgecolor='#E0E0E0', framealpha=0.9, fontsize=6.5, handlelength=1.2, handletextpad=0.4)
+    ax.legend(loc='center right', frameon=False, fontsize=6.5, handlelength=1.0, handletextpad=0.3)
 
     # 6. 调整布局并保存高分辨率图片
     plt.tight_layout()
