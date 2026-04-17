@@ -22,12 +22,17 @@ def plot_reid_reasoning_accuracy():
     # 引入与 3b 相同的 Set1 调色板，并实现【跨图表的模型颜色严格对齐】
     colors = sns.color_palette("Set1")
     
-    # Qwen 家族 - 与 3b 的散点颜色完全对应
-    ax.plot(x_labels, qwen_122b, marker='s', markersize=4.5, color=colors[2], 
+    # 同一家族的模型使用同色系渐变：Qwen 家族使用蓝色系
+    c_qwen122 = '#08519C'  # 深蓝色 (122B)
+    c_qwen35  = '#3182BD'  # 中等蓝色 (35B)
+    c_qwen08  = '#6BAED6'  # 浅蓝色 (0.8B)
+    
+    # Qwen 家族
+    ax.plot(x_labels, qwen_122b, marker='s', markersize=4.5, color=c_qwen122, 
             linewidth=1.2, label='Qwen3.5-122B')
-    ax.plot(x_labels, qwen_35b, marker='o', markersize=4.5, color=colors[1], 
+    ax.plot(x_labels, qwen_35b, marker='o', markersize=4.5, color=c_qwen35, 
             linewidth=1.2, label='Qwen3.5-35B')
-    ax.plot(x_labels, qwen_08b, marker='^', markersize=4.5, color=colors[4], 
+    ax.plot(x_labels, qwen_08b, marker='^', markersize=4.5, color=c_qwen08, 
             linewidth=1.2, label='Qwen3.5-0.8B')
 
     # Gemma3 - 与 3b 的紫色对应

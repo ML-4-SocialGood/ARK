@@ -31,16 +31,23 @@ ax.scatter(recalls[human_idx], precisions[human_idx],
            color='gold', edgecolors='black', s=150, marker='*', zorder=3, label='Human')
 
 # 为其他 MLLMs 绘制散点
-# 使用与 3a/3c 类似的颜色映射
-colors = sns.color_palette("Set1", len(models)-1)
-color_idx = 0
+# 使用显式的字典映射，确保跨图表颜色绝对一致，同一家族(Qwen)使用蓝色系渐变
+colors = sns.color_palette("Set1")
+color_map = {
+    "Claude Opus 4.6": colors[0],    # 红色
+    "Qwen3.5-122B": "#08519C",       # 深蓝色
+    "Qwen3.5-35B": "#3182BD",        # 中蓝色
+    "Gemma3-27B": colors[3],         # 紫色
+    "LLaVA-13B": colors[8]           # 灰色
+}
+
 for i in range(len(models)):
     if i == human_idx:
         continue
-    ax.scatter(recalls[i], precisions[i], color=colors[color_idx], s=60, alpha=0.8, edgecolor='white', zorder=3)
+    c = color_map.get(models[i], 'gray')
+    ax.scatter(recalls[i], precisions[i], color=c, s=60, alpha=0.8, edgecolor='white', zorder=3)
     # 为点添加文本标签
     ax.text(recalls[i] + 1.5, precisions[i] - 3, models[i], fontsize=6)
-    color_idx += 1
 
 # 单独为 Human 添加文本标签 (位置稍微调整以防遮挡)
 ax.text(recalls[human_idx], precisions[human_idx] + 4.5, "Human", fontsize=7, fontweight='bold', color='darkgoldenrod', ha='center')
