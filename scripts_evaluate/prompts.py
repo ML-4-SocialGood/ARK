@@ -7,49 +7,48 @@ import logging
 from typing import Optional
 
 # 通用 Re-ID 模板 (I2I: Image-to-Image)
-# Template with <image> placeholders as requested
 MCQ_I2I_TEMPLATE = (
-    "Please retrieve the same individual as the query: {query_part} from the following options: "
-    "{candidates_part}. "
-    "Which option shows the same individual as the query? "
-    "Answer with only the single character of the correct option. Do not explain."
+    "Question: Here is the query image: {query_part}. Please retrieve the same individual from the following options. "
+    "Which option shows the same individual as the query?\n"
+    "Choices:\n{choices_part}\n"
+    "Hint: {hint_part}\n"
+    "Answer:"
 )
 
 # P2 多 Query 模板 (M2I: Many-to-Image)
 MCQ_M2I_TEMPLATE = (
-    "Please retrieve the same individual as the queries: {query_part} from the following options: "
-    "{candidates_part}. "
-    "Which option shows the same individual as the queries? "
-    "Answer with only the single character of the correct option. Do not explain."
+    "Question: Here are the query images: {query_part}. Please retrieve the same individual from the following options. "
+    "Which option shows the same individual as the queries?\n"
+    "Choices:\n{choices_part}\n"
+    "Hint: {hint_part}\n"
+    "Answer:"
 )
 
 # P3 多目标身份关联模板 (MIA: Multi-Target Identity Association)
 MIA_P3_TEMPLATE = (
-    "Please retrieve all individuals that are the same as the query: {query_part} from the following options: "
-    "{candidates_part}. "
-    "Note that there may be multiple correct options showing the same individual as the query. "
-    "Which options show the same individual as the query? "
-    "Answer with only the characters of the correct options, separated by commas (e.g., A, C). Do not explain."
+    "Question: Here is the query image: {query_part}. Please retrieve all individuals that are the same as the query from the following options. "
+    "Note that there may be multiple correct options showing the same individual as the query. Which options show the same individual as the query?\n"
+    "Choices:\n{choices_part}\n"
+    "Hint: {hint_part}\n"
+    "Answer:"
 )
 
 # P4 元数据约束推理模板 (MCR: Metadata-Constrained Reasoning)
 MCQ_P4_TEMPLATE = (
-    "Please retrieve the same individual as the query: {query_part} from the following options: "
-    "{candidates_part}. "
-    "Note that the query image has the following metadata: {metadata_part}. "
-    "Please carefully use these metadata constraints to help your logical reasoning. "
-    "Which option shows the same individual as the query? "
-    "Answer with only the single character of the correct option. Do not explain."
+    "Question: Here is the query image: {query_part}. Note that the query image has the following metadata: {metadata_part}. "
+    "Please carefully use these metadata constraints to help your logical reasoning. Which option shows the same individual as the query?\n"
+    "Choices:\n{choices_part}\n"
+    "Hint: {hint_part}\n"
+    "Answer:"
 )
 
 # P5 扰动特征补全模板 (CFC: Corrupted Feature Completion)
 MCQ_P5_TEMPLATE = (
-    "Please retrieve the same individual as the query: {query_part} from the following options: "
-    "{candidates_part}. "
-    "Note that the query image is subject to {corruption} corruption (Severity: {severity}). "
-    "Please rely on robust local topological structures to maintain identity coherence despite this degradation. "
-    "Which option shows the same individual as the query? "
-    "Answer with only the single character of the correct option. Do not explain."
+    "Question: Here is the query image: {query_part}. Note that the query image is subject to {corruption} corruption (Severity: {severity}). "
+    "Please rely on robust local topological structures to maintain identity coherence despite this degradation. Which option shows the same individual as the query?\n"
+    "Choices:\n{choices_part}\n"
+    "Hint: {hint_part}\n"
+    "Answer:"
 )
 
 
@@ -123,37 +122,48 @@ class PromptGenerator:
             logging.warning(f"Task {task.get('task_id')} missing gallery options.")
             return None, []
 
-        candidates_list = []
+        choices_list = []
+        valid_options = []
 
         for idx, option in enumerate(gallery_images):
             opt_label = option.get("option")  # A, B, C, D
             opt_img = option.get("image_path")
             opt_text = option.get("text")
 
+            if opt_label:
+                valid_options.append(opt_label)
+
             if opt_img:
                 # 记录图片路径 (顺序: Query -> OptA -> OptB -> ...)
                 image_paths.append(opt_img)
-                # 构建文本部分 (Option A: <image>...)
-                candidates_list.append(f"Option {opt_label}: <image>")
+                # 构建文本部分 ( (A) <image> )
+                choices_list.append(f"({opt_label}) <image>")
             elif opt_text:
                 # 处理 P6 独有的纯文本选项 (如 Option E: None of the above)
-                candidates_list.append(f"Option {opt_label}: {opt_text}")
+                choices_list.append(f"({opt_label}) {opt_text}")
             else:
                 logging.warning(
                     f"Task {task.get('task_id')} option {opt_label} missing both image_path and text."
                 )
                 continue
 
-        candidates_part = ", ".join(candidates_list)
+        choices_part = "\n".join(choices_list)
+        options_str = ", ".join(valid_options)
+
+        if protocol_norm == "P3":
+            example_opts = f"{valid_options[0]}, {valid_options[2] if len(valid_options) > 2 else valid_options[-1]}" if valid_options else "A, C"
+            hint_part = f"Please provide the correct option letters separated by commas, such as {example_opts}, directly."
+        else:
+            hint_part = f"Please provide the correct option letter, such as {options_str}, directly."
 
         # 3. 填充模板
         if protocol_norm == "P3":
             prompt_text = MIA_P3_TEMPLATE.format(
-                query_part=query_part, candidates_part=candidates_part
+                query_part=query_part, choices_part=choices_part, hint_part=hint_part
             )
         elif protocol_norm == "P2":
             prompt_text = MCQ_M2I_TEMPLATE.format(
-                query_part=query_part, candidates_part=candidates_part
+                query_part=query_part, choices_part=choices_part, hint_part=hint_part
             )
         elif protocol_norm == "P4":
             # 提取 P4 的 Metadata
@@ -174,21 +184,23 @@ class PromptGenerator:
             )
             prompt_text = MCQ_P4_TEMPLATE.format(
                 query_part=query_part,
-                candidates_part=candidates_part,
+                choices_part=choices_part,
                 metadata_part=metadata_part,
+                hint_part=hint_part,
             )
         elif protocol_norm == "P5":
             # 提取 P5 的扰动信息
             meta_data = task.get("meta", {})
             prompt_text = MCQ_P5_TEMPLATE.format(
                 query_part=query_part,
-                candidates_part=candidates_part,
+                choices_part=choices_part,
                 corruption=meta_data.get("corruption", "unknown"),
                 severity=meta_data.get("severity", "unknown"),
+                hint_part=hint_part,
             )
         else:
             prompt_text = MCQ_I2I_TEMPLATE.format(
-                query_part=query_part, candidates_part=candidates_part
+                query_part=query_part, choices_part=choices_part, hint_part=hint_part
             )
 
         return prompt_text, image_paths
@@ -222,8 +234,10 @@ class PromptGenerator:
             return None, None, []
             
         # 3. 组合占位符与 Prompt
-        base_context = "Image A: <image>. Image B: <image>.\n"
-        prompt_neutral = base_context + instruction_neutral
-        prompt_counterfactual = base_context + instruction_counterfactual
+        base_context = "Question: Image A: <image>. Image B: <image>.\n"
+        hint_suffix = "\nHint: Please answer Yes or No directly.\nAnswer:"
+        
+        prompt_neutral = base_context + instruction_neutral + hint_suffix
+        prompt_counterfactual = base_context + instruction_counterfactual + hint_suffix
         
         return prompt_neutral, prompt_counterfactual, image_paths
