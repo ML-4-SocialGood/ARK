@@ -1,9 +1,9 @@
 #!/bin/bash
-#SBATCH --job-name=leopard-multi
+#SBATCH --job-name=beluga-p3
 #SBATCH --time=9999:00:00
 #SBATCH --open-mode=append
-#SBATCH --output=/data/yil708/ARK/logs/slurm_leopard_multi_%j.out
-#SBATCH --error=/data/yil708/ARK/logs/slurm_leopard_multi_%j.err
+#SBATCH --output=/data/yil708/ARK/logs/slurm_beluga_p3_%j.out
+#SBATCH --error=/data/yil708/ARK/logs/slurm_beluga_p3_%j.err
 #SBATCH --gres=gpu:1
 
 set -euo pipefail
@@ -18,12 +18,24 @@ export PATH="/data/yil708/software/ollama/bin:$PATH"
 export no_proxy="localhost,127.0.0.1"
 export NO_PROXY="localhost,127.0.0.1"
 
-SPECIES="LeopardID2022"
-PROTOCOL_FILTER="${PROTOCOL_FILTER:-}"
+SPECIES="BelugaID"
+PROTOCOL="p3"
 MODELS=(
-  "qwen3.5:2b"
-  "qwen3-vl:2b"
-  "qwen3-vl:4b"
+  "qwen3-vl:30b"
+)
+
+ANNOTATION_FILES=(
+  "annotations/BelugaID/p3/BelugaID_MIA_P3_N4_M2.json"
+  # "annotations/BelugaID/p3/BelugaID_MIA_P3_N4_M3.json"
+  # "annotations/BelugaID/p3/BelugaID_MIA_P3_N8_M2.json"
+  # "annotations/BelugaID/p3/BelugaID_MIA_P3_N8_M3.json"
+  # "annotations/BelugaID/p3/BelugaID_MIA_P3_N8_M4.json"
+  # "annotations/BelugaID/p3/BelugaID_MIA_P3_N16_M2.json"
+  # "annotations/BelugaID/p3/BelugaID_MIA_P3_N16_M3.json"
+  # "annotations/BelugaID/p3/BelugaID_MIA_P3_N16_M4.json"
+  # "annotations/BelugaID/p3/BelugaID_MIA_P3_N32_M2.json"
+  # "annotations/BelugaID/p3/BelugaID_MIA_P3_N32_M3.json"
+  # "annotations/BelugaID/p3/BelugaID_MIA_P3_N32_M4.json"
 )
 
 PORT_SEED="${SLURM_JOB_ID:-$$}"
@@ -32,39 +44,16 @@ export OLLAMA_HOST="${OLLAMA_HOST:-127.0.0.1:${OLLAMA_PORT}}"
 export OLLAMA_MODELS=/data/yil708/software/ollama/models
 OLLAMA_URL="http://${OLLAMA_HOST}"
 
-if [[ -n "${PROTOCOL_FILTER}" ]]; then
-  ANNOTATION_ROOT="annotations/${SPECIES}/${PROTOCOL_FILTER}"
-else
-  ANNOTATION_ROOT="annotations/${SPECIES}"
-fi
-
-if [[ ! -d "${ANNOTATION_ROOT}" ]]; then
-  echo "Annotation directory not found: ${ANNOTATION_ROOT}"
-  exit 1
-fi
-
-mapfile -t ALL_ANNOTATION_FILES < <(find "${ANNOTATION_ROOT}" -type f -name "*.json" | sort)
-
-ANNOTATION_FILES=()
-for annotation_file in "${ALL_ANNOTATION_FILES[@]}"; do
-  protocol="$(basename "$(dirname "${annotation_file}")")"
-
-  # P1 only needs the N4 setting.
-  if [[ "${protocol}" == "p1" && "$(basename "${annotation_file}")" != *_N4.json ]]; then
-    continue
+for annotation_file in "${ANNOTATION_FILES[@]}"; do
+  if [[ ! -f "${annotation_file}" ]]; then
+    echo "Annotation file not found: ${annotation_file}"
+    exit 1
   fi
-
-  ANNOTATION_FILES+=("${annotation_file}")
 done
-
-if [[ ${#ANNOTATION_FILES[@]} -eq 0 ]]; then
-  echo "No annotation files found under ${ANNOTATION_ROOT}"
-  exit 1
-fi
 
 echo "Using Ollama host: ${OLLAMA_HOST}"
 echo "Species: ${SPECIES}"
-echo "Protocol filter: ${PROTOCOL_FILTER:-<all>}"
+echo "Protocol: ${PROTOCOL}"
 echo "Annotation files: ${#ANNOTATION_FILES[@]}"
 
 ollama serve > logs/ollama_job_${SLURM_JOB_ID:-local}.log 2>&1 &
@@ -86,12 +75,11 @@ for model in "${MODELS[@]}"; do
   echo "========================================"
 
   for annotation_file in "${ANNOTATION_FILES[@]}"; do
-    protocol="$(basename "$(dirname "${annotation_file}")")"
-    echo "Running ${SPECIES} / ${protocol} / ${annotation_file} / ${model}"
+    echo "Running ${SPECIES} / ${PROTOCOL} / ${annotation_file} / ${model}"
 
     python scripts_evaluate/run_inference.py \
       --species "${SPECIES}" \
-      --protocol "${protocol}" \
+      --protocol "${PROTOCOL}" \
       --annotation_file "${annotation_file}" \
       --model "${model}" \
       --host "${OLLAMA_URL}" \
@@ -99,5 +87,5 @@ for model in "${MODELS[@]}"; do
   done
 done
 
-# PROTOCOL_FILTER=p1 sbatch leopardid2022_multi_inference.sh
-# OLLAMA_PORT=23456 sbatch leopardid2022_multi_inference.sh
+# sbatch belugaid_p3_inference.sh
+# OLLAMA_PORT=23456 sbatch belugaid_p3_inference.sh
