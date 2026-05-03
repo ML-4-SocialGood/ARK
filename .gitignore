@@ -1,0 +1,75 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Runtime outputs
+logs/
+results/
+wandb/
+mlruns/
+tensorboard/
+*.log
+slurm-*.out
+*.err
+
+# Local data and model artifacts
+# Keep tracked annotation JSON files, but avoid accidentally adding raw datasets
+# or heavyweight model/checkpoint files.
+data/
+models/
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.onnx
+
+# Temporary/debug artifacts
+tmp/
+temp/
+debug_*.jpg
+debug_*.png
+*.tmp
+*.bak
+*.swp
+*~
+
+# Archives generated during paper/export workflows
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+
+# Local paper-writing workspace and internal notes. These are intentionally kept
+# out of the anonymous repository snapshot.
+Paper/
+README.internal.md
+
+# LaTeX build outputs
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.xdv
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
