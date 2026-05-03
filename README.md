@@ -146,7 +146,7 @@ changes when the task asks for multi-view aggregation, multi-target association,
 metadata use, or robustness to corrupted visual evidence.
 
 <p align="center">
-  <img src="assets/figure_3_analysis.png" alt="Empirical analysis of ARK model behavior under query quantity, precision-recall, metadata, and corruption settings" width="80%">
+  <img src="assets/figure_3_analysis.png" alt="Empirical analysis of ARK model behavior under query quantity, precision-recall, metadata, and corruption settings" width="70%">
 </p>
 
 <p align="center"><em>Figure 3. Empirical analysis of model behavior under reasoning stress.</em></p>
@@ -171,7 +171,7 @@ are arranged differently in the prompt, when protocols correlate or diverge, and
 when visual distractors are inserted into multi-image contexts.
 
 <p align="center">
-  <img src="assets/figure_4_robustness.png" alt="Robustness analysis of gallery size, image placement, protocol correlation, and visual distractors" width="80%">
+  <img src="assets/figure_4_robustness.png" alt="Robustness analysis of gallery size, image placement, protocol correlation, and visual distractors" width="70%">
 </p>
 
 <p align="center"><em>Figure 4. Robustness analysis of gallery size, image placement, protocol correlation, and visual distractors.</em></p>
