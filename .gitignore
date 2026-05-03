@@ -1,0 +1,69 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Runtime outputs
+logs/
+results/
+wandb/
+mlruns/
+tensorboard/
+*.log
+slurm-*.out
+*.err
+
+# Local data and model artifacts
+data/
+models/
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.onnx
+
+# Temporary/debug artifacts
+tmp/
+temp/
+debug_*.jpg
+debug_*.png
+*.tmp
+*.bak
+*.swp
+*~
+
+# Local paper-writing workspace and internal notes
+Paper/
+README.internal.md
+
+# Archives and LaTeX build outputs
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.toc
+*.xdv
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
