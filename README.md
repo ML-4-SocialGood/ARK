@@ -201,9 +201,7 @@ ollama pull qwen3-vl:30b
 
 On clusters, the provided Slurm entry point can start a private Ollama server
 for each job. For operational details, see the concise guide in
-[`assets/evaluation_toolkit_guide.md`](assets/evaluation_toolkit_guide.md). The
-original internal evaluation README is preserved verbatim at
-[`assets/original_evaluation_toolkit_readme.md`](assets/original_evaluation_toolkit_readme.md).
+[`assets/evaluation_toolkit_guide.md`](assets/evaluation_toolkit_guide.md).
 
 ## Data and Annotation Layout
 
