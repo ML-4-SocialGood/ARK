@@ -1,5 +1,12 @@
 # ARK: A Benchmark for Reasoning Re-Identification in Multimodal Large Language Models
 
+<p align="center">
+  <a href="#benchmark-taxonomy">Benchmark</a> |
+  <a href="#data-and-annotation-layout">Annotations</a> |
+  <a href="#running-inference">Evaluation Code</a> |
+  <a href="#installation">Quickstart</a>
+</p>
+
 ARK (**Animal ReID reasoning benchmarK**) evaluates whether multimodal large
 language models (MLLMs) can move beyond visual similarity scoring and perform
 **Reasoning Re-Identification (Reasoning ReID)**: comparing fine-grained visual
@@ -13,7 +20,7 @@ making it possible to measure how well MLLMs behave as re-rankers, verifiers,
 and open-set rejectors.
 
 <p align="center">
-  <img src="assets/ark_overview.png" alt="Overview of the ARK benchmark and its seven evaluation protocols" width="92%">
+  <img src="assets/ark_overview.png" alt="Overview of the ARK benchmark and its seven evaluation protocols" width="80%">
 </p>
 
 <p align="center"><em>Figure 1. Overview of ARK and its seven protocols for Reasoning ReID.</em></p>
@@ -61,6 +68,21 @@ inputs, absent targets, and misleading language.
 | P6 | Open-Set Image-to-Image ReID | Rejection when the target individual is absent from the gallery. |
 | P7 | Counterfactual Suggestion | Resistance to misleading prompts that suggest an incorrect expert conclusion. |
 
+## Task Format
+
+Each ARK example is represented as a compact multimodal decision problem. A task
+contains visual inputs, a protocol-specific instruction, candidate options, and
+a constrained answer space. This format makes the final ReID verification step
+directly measurable while remaining compatible with both proprietary and
+open-source MLLMs.
+
+| Component | Description |
+|---|---|
+| Query | One or more images of the target individual. |
+| Gallery | Candidate images retrieved from a visually similar pool. |
+| Instruction | Protocol-specific text specifying whether to match, multi-match, reject, or resist a misleading claim. |
+| Answer space | Single option, multiple options, `None of the above`, or Yes/No depending on the protocol. |
+
 ## Dataset Composition
 
 ARK combines two public wildlife sources. The WildlifeDatasets subset supports
@@ -77,7 +99,7 @@ images and MCQs are distributed across species, while the third panel shows how
 the question set is allocated across protocols and evaluation axes.
 
 <p align="center">
-  <img src="assets/figure_2_benchmark_statistics.png" alt="ARK benchmark statistics: image distribution, MCQ distribution, and protocol-axis coverage" width="96%">
+  <img src="assets/figure_2_benchmark_statistics.png" alt="ARK benchmark statistics: image distribution, MCQ distribution, and protocol-axis coverage" width="85%">
 </p>
 
 <p align="center"><em>Figure 2. Benchmark statistics across species, MCQs, protocols, and evaluation axes.</em></p>
@@ -124,7 +146,7 @@ changes when the task asks for multi-view aggregation, multi-target association,
 metadata use, or robustness to corrupted visual evidence.
 
 <p align="center">
-  <img src="assets/figure_3_analysis.png" alt="Empirical analysis of ARK model behavior under query quantity, precision-recall, metadata, and corruption settings" width="82%">
+  <img src="assets/figure_3_analysis.png" alt="Empirical analysis of ARK model behavior under query quantity, precision-recall, metadata, and corruption settings" width="80%">
 </p>
 
 <p align="center"><em>Figure 3. Empirical analysis of model behavior under reasoning stress.</em></p>
@@ -149,7 +171,7 @@ are arranged differently in the prompt, when protocols correlate or diverge, and
 when visual distractors are inserted into multi-image contexts.
 
 <p align="center">
-  <img src="assets/figure_4_robustness.png" alt="Robustness analysis of gallery size, image placement, protocol correlation, and visual distractors" width="82%">
+  <img src="assets/figure_4_robustness.png" alt="Robustness analysis of gallery size, image placement, protocol correlation, and visual distractors" width="80%">
 </p>
 
 <p align="center"><em>Figure 4. Robustness analysis of gallery size, image placement, protocol correlation, and visual distractors.</em></p>
