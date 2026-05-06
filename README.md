@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://huggingface.co/datasets/marswthsg/ARK">
-    <img src="https://img.shields.io/badge/Hugging%20Face-ARK-FFD21E?logo=huggingface&logoColor=000" alt="ARK dataset on Hugging Face">
+    <img src="https://img.shields.io/badge/🤗-ARK%20Dataset-blue.svg" alt="ARK dataset on Hugging Face">
   </a>
   <a href="https://huggingface.co/datasets/marswthsg/ARK-Mini">
-    <img src="https://img.shields.io/badge/Hugging%20Face-ARK--Mini-FFD21E?logo=huggingface&logoColor=000" alt="ARK-Mini dataset on Hugging Face">
+    <img src="https://img.shields.io/badge/🤗-ARK--Mini%20Dataset-blue.svg" alt="ARK-Mini dataset on Hugging Face">
   </a>
 </p>
 
