@@ -1,10 +1,12 @@
 # ARK: A Benchmark for Reasoning Re-Identification in Multimodal Large Language Models
 
 <p align="center">
-  <a href="#benchmark-taxonomy">Benchmark</a> |
-  <a href="#data-and-annotation-layout">Annotations</a> |
-  <a href="#running-inference">Evaluation Code</a> |
-  <a href="#installation">Quickstart</a>
+  <a href="https://huggingface.co/datasets/marswthsg/ARK">
+    <img src="https://img.shields.io/badge/Hugging%20Face-ARK-FFD21E?logo=huggingface&logoColor=000" alt="ARK dataset on Hugging Face">
+  </a>
+  <a href="https://huggingface.co/datasets/marswthsg/ARK-Mini">
+    <img src="https://img.shields.io/badge/Hugging%20Face-ARK--Mini-FFD21E?logo=huggingface&logoColor=000" alt="ARK-Mini dataset on Hugging Face">
+  </a>
 </p>
 
 ARK (**Animal ReID reasoning benchmarK**) evaluates whether multimodal large
@@ -20,10 +22,12 @@ making it possible to measure how well MLLMs behave as re-rankers, verifiers,
 and open-set rejectors.
 
 <p align="center">
-  <img src="assets/ark_overview.png" alt="Overview of the ARK benchmark and its seven evaluation protocols" width="80%">
+  <a href="assets/ark_teaser.png">
+    <img src="assets/ark_teaser.png" alt="Metric-learning-based ReID versus Reasoning ReID" width="85%">
+  </a>
 </p>
 
-<p align="center"><em>Figure 1. Overview of ARK and its seven protocols for Reasoning ReID.</em></p>
+<p align="center"><em>Figure 1. Metric-learning-based ReID vs. Reasoning ReID</em></p>
 
 ## At a Glance
 
@@ -36,9 +40,24 @@ and open-set rejectors.
 | Protocols | 7 |
 | Evaluated model families | Gemini, GPT, Claude, Qwen, Gemma, LLaVA |
 
+## Dataset Access
+
+The ARK annotations and released dataset packages are available on Hugging Face:
+
+| Version | Link | Use Case |
+|---|---|---|
+| ARK | [marswthsg/ARK](https://huggingface.co/datasets/marswthsg/ARK) | Full benchmark release for complete evaluation. |
+| ARK-Mini | [marswthsg/ARK-Mini](https://huggingface.co/datasets/marswthsg/ARK-Mini) | Lightweight subset for quick inspection, debugging, and smoke tests. |
+
 ## Benchmark Taxonomy
 
-As shown in Figure 1, ARK decomposes Reasoning ReID into three axes that separate
+<p align="center">
+  <img src="assets/ark_overview.png" alt="Overview of the ARK benchmark and its seven evaluation protocols" width="80%">
+</p>
+
+<p align="center"><em>Figure 2. Overview of ARK and its seven protocols for Reasoning ReID.</em></p>
+
+As shown in Figure 2, ARK decomposes Reasoning ReID into three axes that separate
 basic visual perception from richer forms of reasoning and reliability. The
 benchmark uses animal ReID as a stress test because animal identities offer
 fewer easy semantic shortcuts than person ReID. The model must compare subtle
@@ -53,7 +72,7 @@ identity-preserving structure under degraded observations.
 
 ## Protocols
 
-As shown in Figure 1, ARK contains seven protocols. P1 establishes the
+As shown in Figure 2, ARK contains seven protocols. P1 establishes the
 closed-set visual matching baseline; P2-P4 test whether models can use
 additional evidence or constraints; P5-P7 stress reliability under degraded
 inputs, absent targets, and misleading language.
@@ -94,7 +113,7 @@ metadata-constrained reasoning.
 | WildlifeDatasets | BelugaID, BirdIndividualID, CTai, Giraffes, HumpbackWhaleID, IPanda50, LeopardID2022, Lion, NDD20, NyalaData, SealID, WhaleSharkID | P1, P2, P3, P5, P6, P7 |
 | MetaWild | Deer, Hare, Penguin, Pukeko, Stoat, Wallaby | P4 |
 
-Figure 2 summarizes the scale and balance of ARK. The first two panels show how
+Figure 3 summarizes the scale and balance of ARK. The first two panels show how
 images and MCQs are distributed across species, while the third panel shows how
 the question set is allocated across protocols and evaluation axes.
 
@@ -102,7 +121,7 @@ the question set is allocated across protocols and evaluation axes.
   <img src="assets/figure_2_benchmark_statistics.png" alt="ARK benchmark statistics: image distribution, MCQ distribution, and protocol-axis coverage" width="85%">
 </p>
 
-<p align="center"><em>Figure 2. Benchmark statistics across species, MCQs, protocols, and evaluation axes.</em></p>
+<p align="center"><em>Figure 3. Benchmark statistics across species, MCQs, protocols, and evaluation axes.</em></p>
 
 The distribution is intentionally heterogeneous. Large identity pools such as
 HumpbackWhaleID and WhaleSharkID stress long-tail visual ambiguity, while
@@ -141,7 +160,7 @@ all seven protocols.
 | Claude-Opus-4.6 | 56.55 | 60.95 | 66.78 | 92.24 | 95.19 | 44.92 | 5.03 | 49.71 | 77.39 | 4.09 |
 | Human | 68.92 | 74.34 | 89.08 | 79.34 | 79.34 | 55.52 | 61.86 | 84.14 | 88.69 | 88.62 |
 
-The aggregate scores tell only part of the story. Figure 3 shows how performance
+The aggregate scores tell only part of the story. Figure 4 shows how performance
 changes when the task asks for multi-view aggregation, multi-target association,
 metadata use, or robustness to corrupted visual evidence.
 
@@ -149,7 +168,7 @@ metadata use, or robustness to corrupted visual evidence.
   <img src="assets/figure_3_analysis.png" alt="Empirical analysis of ARK model behavior under query quantity, precision-recall, metadata, and corruption settings" width="70%">
 </p>
 
-<p align="center"><em>Figure 3. Empirical analysis of model behavior under reasoning stress.</em></p>
+<p align="center"><em>Figure 4. Empirical analysis of model behavior under reasoning stress.</em></p>
 
 ### Empirical Takeaways
 
@@ -174,7 +193,7 @@ when visual distractors are inserted into multi-image contexts.
   <img src="assets/figure_4_robustness.png" alt="Robustness analysis of gallery size, image placement, protocol correlation, and visual distractors" width="70%">
 </p>
 
-<p align="center"><em>Figure 4. Robustness analysis of gallery size, image placement, protocol correlation, and visual distractors.</em></p>
+<p align="center"><em>Figure 5. Robustness analysis of gallery size, image placement, protocol correlation, and visual distractors.</em></p>
 
 - Accuracy drops as gallery size increases, showing that long visual contexts
   make fine-grained comparison harder.
